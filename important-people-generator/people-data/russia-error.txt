@@ -1,0 +1,7 @@
+Expected ',' or ']' after array element in JSON at position 5462
+
+SyntaxError: Expected ',' or ']' after array element in JSON at position 5462
+    at JSON.parse (<anonymous>)
+    at generateHistoricalFigures (C:\Users\ahmet\Desktop\country-name\important-people-generator\generate.js:234:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async generateAllHistoricalFigures (C:\Users\ahmet\Desktop\country-name\important-people-generator\generate.js:342:27)

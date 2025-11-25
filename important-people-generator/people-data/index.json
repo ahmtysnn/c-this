@@ -1,0 +1,97 @@
+{
+  "countries": [
+    {
+      "name": "Turkey",
+      "slug": "turkey",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/turkey-people.json"
+    },
+    {
+      "name": "Mexico",
+      "slug": "mexico",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/mexico-people.json"
+    },
+    {
+      "name": "United States",
+      "slug": "united-states",
+      "figureCount": 20,
+      "url": "https://yourusername.github.io/people-data/united-states-people.json"
+    },
+    {
+      "name": "France",
+      "slug": "france",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/france-people.json"
+    },
+    {
+      "name": "Japan",
+      "slug": "japan",
+      "figureCount": 19,
+      "url": "https://yourusername.github.io/people-data/japan-people.json"
+    },
+    {
+      "name": "Egypt",
+      "slug": "egypt",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/egypt-people.json"
+    },
+    {
+      "name": "Italy",
+      "slug": "italy",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/italy-people.json"
+    },
+    {
+      "name": "Greece",
+      "slug": "greece",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/greece-people.json"
+    },
+    {
+      "name": "India",
+      "slug": "india",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/india-people.json"
+    },
+    {
+      "name": "Germany",
+      "slug": "germany",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/germany-people.json"
+    },
+    {
+      "name": "Spain",
+      "slug": "spain",
+      "figureCount": 20,
+      "url": "https://yourusername.github.io/people-data/spain-people.json"
+    },
+    {
+      "name": "United Kingdom",
+      "slug": "united-kingdom",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/united-kingdom-people.json"
+    },
+    {
+      "name": "Australia",
+      "slug": "australia",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/australia-people.json"
+    },
+    {
+      "name": "South Korea",
+      "slug": "south-korea",
+      "figureCount": 18,
+      "url": "https://yourusername.github.io/people-data/south-korea-people.json"
+    },
+    {
+      "name": "Iran",
+      "slug": "iran",
+      "figureCount": 19,
+      "url": "https://yourusername.github.io/people-data/iran-people.json"
+    }
+  ],
+  "lastUpdated": "2025-11-25",
+  "totalCountries": 20,
+  "totalFigures": 276
+}

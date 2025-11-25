@@ -1,0 +1,7 @@
+Expected ',' or '}' after property value in JSON at position 7698
+
+SyntaxError: Expected ',' or '}' after property value in JSON at position 7698
+    at JSON.parse (<anonymous>)
+    at generateHistoricalFigures (C:\Users\ahmet\Desktop\country-name\important-people-generator\generate.js:234:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async generateAllHistoricalFigures (C:\Users\ahmet\Desktop\country-name\important-people-generator\generate.js:342:27)

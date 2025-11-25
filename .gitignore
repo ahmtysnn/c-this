@@ -1,5 +1,2 @@
-# Ignore all generate.js files anywhere in the project
 **/generate.js
-
-# Ignore all env.local files anywhere
-**/env.local
+**/.env.local

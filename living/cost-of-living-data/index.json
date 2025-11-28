@@ -1,0 +1,204 @@
+{
+  "countries": [
+    {
+      "name": "Turkey",
+      "cities": [
+        {
+          "name": "Istanbul",
+          "filename": "turkey-istanbul.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.3",
+          "duration": "0.8s"
+        },
+        {
+          "name": "Ankara",
+          "filename": "turkey-ankara.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.3",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Izmir",
+          "filename": "turkey-izmir.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.3",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Antalya",
+          "filename": "turkey-antalya.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.3",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Bursa",
+          "filename": "turkey-bursa.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.1s"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "cities": [
+        {
+          "name": "New York",
+          "filename": "united-states-new-york.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.7s"
+        },
+        {
+          "name": "Los Angeles",
+          "filename": "united-states-los-angeles.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.3s"
+        },
+        {
+          "name": "Chicago",
+          "filename": "united-states-chicago.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.1s"
+        },
+        {
+          "name": "San Francisco",
+          "filename": "united-states-san-francisco.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Miami",
+          "filename": "united-states-miami.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Seattle",
+          "filename": "united-states-seattle.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Boston",
+          "filename": "united-states-boston.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.2s"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "cities": [
+        {
+          "name": "London",
+          "filename": "united-kingdom-london.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Manchester",
+          "filename": "united-kingdom-manchester.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Birmingham",
+          "filename": "united-kingdom-birmingham.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.1",
+          "duration": "0.4s"
+        },
+        {
+          "name": "Edinburgh",
+          "filename": "united-kingdom-edinburgh.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.1",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Liverpool",
+          "filename": "united-kingdom-liverpool.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.1",
+          "duration": "0.1s"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "cities": [
+        {
+          "name": "Berlin",
+          "filename": "germany-berlin.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.1",
+          "duration": "0.5s"
+        },
+        {
+          "name": "Munich",
+          "filename": "germany-munich.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.1",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Hamburg",
+          "filename": "germany-hamburg.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.1",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Frankfurt",
+          "filename": "germany-frankfurt.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.2s"
+        },
+        {
+          "name": "Cologne",
+          "filename": "germany-cologne.json",
+          "status": "success",
+          "items": 55,
+          "sizeKB": "18.2",
+          "duration": "0.2s"
+        }
+      ]
+    }
+  ],
+  "totalCountries": 4,
+  "totalCities": 22,
+  "lastUpdated": "2025-11-28T19:29:14.644Z",
+  "note": "Cost of living data scraped from Numbeo.com"
+}

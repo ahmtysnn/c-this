@@ -1,0 +1,76 @@
+{
+  "countryData": {
+    "name": "United States",
+    "officialName": "The United States",
+    "capital": "Washington, D.C..mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}38°53′N 77°1′W / 38.883°N 77.017°W / 38.883; -77.017",
+    "population": "340,110,988",
+    "area": "3,796,742 sq mi",
+    "governmentType": "Federal presidential republic",
+    "currency": "U.S. dollar",
+    "gdp": "2025"
+  },
+  "leadership": {
+    "headOfState": {
+      "name": "Donald Trump",
+      "position": "Head of State"
+    }
+  },
+  "governmentBranches": [
+    {
+      "name": "Legislative",
+      "composition": "House of Representatives",
+      "structure": {
+        "nationalAssembly": {
+          "seats": 435,
+          "term": "2 years"
+        },
+        "senate": {
+          "seats": 100,
+          "term": "6 years"
+        }
+      }
+    }
+  ],
+  "ministries": [
+    {
+      "id": 1,
+      "name": "Department of State",
+      "minister": "Antony Blinken"
+    },
+    {
+      "id": 2,
+      "name": "Department of Defense",
+      "minister": "Lloyd Austin"
+    },
+    {
+      "id": 3,
+      "name": "Department of the Treasury",
+      "minister": "Janet Yellen"
+    },
+    {
+      "id": 4,
+      "name": "Department of Education",
+      "minister": "Miguel Cardona"
+    },
+    {
+      "id": 5,
+      "name": "Department of Health & Human Services",
+      "minister": "Xavier Becerra"
+    }
+  ],
+  "citizenServices": [
+    {
+      "category": "Identification",
+      "services": [
+        {
+          "name": "Passport",
+          "cost": "USD 130"
+        },
+        {
+          "name": "Driver License",
+          "cost": "USD 50"
+        }
+      ]
+    }
+  ]
+}

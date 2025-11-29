@@ -1,0 +1,80 @@
+{
+  "countryData": {
+    "name": "Australia",
+    "officialName": "The Australia",
+    "capital": "Canberra.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}35°18′29″S 149°07′28″E / 35.30806°S 149.12444°E / -35.30806; 149.12444",
+    "population": "28,166,700",
+    "area": "7,688,287",
+    "governmentType": "Federal parliamentary constitutional monarchy",
+    "currency": "Australian dollar",
+    "gdp": "2025"
+  },
+  "leadership": {
+    "headOfState": {
+      "name": "Charles III",
+      "position": "Head of State"
+    },
+    "headOfGovernment": {
+      "name": "Anthony Albanese",
+      "position": "Head of Government"
+    }
+  },
+  "governmentBranches": [
+    {
+      "name": "Legislative",
+      "composition": "House of Representatives",
+      "structure": {
+        "nationalAssembly": {
+          "seats": 151,
+          "term": "3 years"
+        },
+        "senate": {
+          "seats": 76,
+          "term": "6 years"
+        }
+      }
+    }
+  ],
+  "ministries": [
+    {
+      "id": 1,
+      "name": "Department of Foreign Affairs and Trade",
+      "minister": "Penny Wong"
+    },
+    {
+      "id": 2,
+      "name": "Department of Defence",
+      "minister": "Richard Marles"
+    },
+    {
+      "id": 3,
+      "name": "The Treasury",
+      "minister": "Jim Chalmers"
+    },
+    {
+      "id": 4,
+      "name": "Department of Education",
+      "minister": "Jason Clare"
+    },
+    {
+      "id": 5,
+      "name": "Department of Health",
+      "minister": "Mark Butler"
+    }
+  ],
+  "citizenServices": [
+    {
+      "category": "Identification",
+      "services": [
+        {
+          "name": "Passport",
+          "cost": "AUD 325"
+        },
+        {
+          "name": "Driver License",
+          "cost": "AUD 60"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "countryData": {
+    "name": "Turkey",
+    "officialName": "The Turkey",
+    "capital": "Ankara.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}39°55′N 32°51′E / 39.917°N 32.850°E / 39.917; 32.850",
+    "population": "85,664,944",
+    "area": "783,562",
+    "governmentType": "Unitary presidential republic",
+    "currency": "Turkish lira",
+    "gdp": "2025"
+  },
+  "leadership": {
+    "headOfState": {
+      "name": "Recep Tayyip Erdoğan",
+      "position": "Head of State"
+    }
+  },
+  "governmentBranches": [
+    {
+      "name": "Legislative",
+      "composition": "Grand National Assembly",
+      "structure": {
+        "nationalAssembly": {
+          "seats": 600,
+          "term": "5 years"
+        }
+      }
+    }
+  ],
+  "ministries": [
+    {
+      "id": 1,
+      "name": "Ministry of Foreign Affairs",
+      "minister": "Hakan Fidan"
+    },
+    {
+      "id": 2,
+      "name": "Ministry of Treasury and Finance",
+      "minister": "Mehmet Şimşek"
+    },
+    {
+      "id": 3,
+      "name": "Ministry of National Defense",
+      "minister": "Yaşar Güler"
+    },
+    {
+      "id": 4,
+      "name": "Ministry of Interior",
+      "minister": "Ali Yerlikaya"
+    }
+  ],
+  "citizenServices": [
+    {
+      "category": "Identification",
+      "services": [
+        {
+          "name": "Passport",
+          "cost": "TRY 5000"
+        },
+        {
+          "name": "Driver License",
+          "cost": "TRY 2500"
+        }
+      ]
+    }
+  ]
+}

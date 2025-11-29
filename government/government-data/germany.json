@@ -1,0 +1,80 @@
+{
+  "countryData": {
+    "name": "Germany",
+    "officialName": "The Germany",
+    "capital": "Berlin.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}52°31′N 13°23′E / 52.517°N 13.383°E / 52.517; 13.383",
+    "population": "83,491,249",
+    "area": "357,114",
+    "governmentType": "Federal parliamentary republic",
+    "currency": "Euro",
+    "gdp": "2025"
+  },
+  "leadership": {
+    "headOfState": {
+      "name": "Frank-Walter Steinmeier",
+      "position": "Head of State"
+    },
+    "headOfGovernment": {
+      "name": "Friedrich Merz",
+      "position": "Head of Government"
+    }
+  },
+  "governmentBranches": [
+    {
+      "name": "Legislative",
+      "composition": "Bundestag",
+      "structure": {
+        "nationalAssembly": {
+          "seats": 736,
+          "term": "4 years"
+        },
+        "senate": {
+          "seats": 69,
+          "term": "Varies"
+        }
+      }
+    }
+  ],
+  "ministries": [
+    {
+      "id": 1,
+      "name": "Federal Foreign Office",
+      "minister": "Annalena Baerbock"
+    },
+    {
+      "id": 2,
+      "name": "Federal Ministry of Defence",
+      "minister": "Boris Pistorius"
+    },
+    {
+      "id": 3,
+      "name": "Federal Ministry of Finance",
+      "minister": "Christian Lindner"
+    },
+    {
+      "id": 4,
+      "name": "Federal Ministry of Education",
+      "minister": "Bettina Stark-Watzinger"
+    },
+    {
+      "id": 5,
+      "name": "Federal Ministry of Health",
+      "minister": "Karl Lauterbach"
+    }
+  ],
+  "citizenServices": [
+    {
+      "category": "Identification",
+      "services": [
+        {
+          "name": "Passport",
+          "cost": "EUR 60"
+        },
+        {
+          "name": "Driver License",
+          "cost": "EUR 40"
+        }
+      ]
+    }
+  ]
+}

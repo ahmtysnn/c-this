@@ -1,0 +1,80 @@
+{
+  "countryData": {
+    "name": "United Kingdom",
+    "officialName": "The United Kingdom",
+    "capital": "London.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}51°30′N 0°7′W / 51.500°N 0.117°W / 51.500; -0.117",
+    "population": "69,281,437",
+    "area": "244,376",
+    "governmentType": "Unitary parliamentary constitutional monarchy",
+    "currency": "Pound sterling",
+    "gdp": "2025"
+  },
+  "leadership": {
+    "headOfState": {
+      "name": "Flag",
+      "position": "Head of State"
+    },
+    "headOfGovernment": {
+      "name": "Keir Starmer",
+      "position": "Head of Government"
+    }
+  },
+  "governmentBranches": [
+    {
+      "name": "Legislative",
+      "composition": "House of Commons",
+      "structure": {
+        "nationalAssembly": {
+          "seats": 650,
+          "term": "5 years"
+        },
+        "senate": {
+          "seats": 780,
+          "term": "Life"
+        }
+      }
+    }
+  ],
+  "ministries": [
+    {
+      "id": 1,
+      "name": "Foreign, Commonwealth & Development Office",
+      "minister": "David Lammy"
+    },
+    {
+      "id": 2,
+      "name": "Ministry of Defence",
+      "minister": "John Healey"
+    },
+    {
+      "id": 3,
+      "name": "HM Treasury",
+      "minister": "Rachel Reeves"
+    },
+    {
+      "id": 4,
+      "name": "Department for Education",
+      "minister": "Bridget Phillipson"
+    },
+    {
+      "id": 5,
+      "name": "Department of Health",
+      "minister": "Wes Streeting"
+    }
+  ],
+  "citizenServices": [
+    {
+      "category": "Identification",
+      "services": [
+        {
+          "name": "Passport",
+          "cost": "GBP 88.50"
+        },
+        {
+          "name": "Driver License",
+          "cost": "GBP 34"
+        }
+      ]
+    }
+  ]
+}

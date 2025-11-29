@@ -2,225 +2,27 @@
   "countries": [
     {
       "name": "Turkey",
-      "cities": [
-        {
-          "name": "Istanbul",
-          "filename": "istanbul.json",
-          "path": "turkey/istanbul.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.3",
-          "duration": "0.8s"
-        },
-        {
-          "name": "Ankara",
-          "filename": "ankara.json",
-          "path": "turkey/ankara.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.3",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Izmir",
-          "filename": "izmir.json",
-          "path": "turkey/izmir.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.3",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Antalya",
-          "filename": "antalya.json",
-          "path": "turkey/antalya.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.3",
-          "duration": "0.3s"
-        },
-        {
-          "name": "Bursa",
-          "filename": "bursa.json",
-          "path": "turkey/bursa.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.1s"
-        }
-      ]
+      "citiesCount": 5,
+      "path": "turkey/index.json"
     },
     {
       "name": "United States",
-      "cities": [
-        {
-          "name": "New York",
-          "filename": "new-york.json",
-          "path": "united-states/new-york.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.3s"
-        },
-        {
-          "name": "Los Angeles",
-          "filename": "los-angeles.json",
-          "path": "united-states/los-angeles.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.3s"
-        },
-        {
-          "name": "Chicago",
-          "filename": "chicago.json",
-          "path": "united-states/chicago.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.2s"
-        },
-        {
-          "name": "San Francisco",
-          "filename": "san-francisco.json",
-          "path": "united-states/san-francisco.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Miami",
-          "filename": "miami.json",
-          "path": "united-states/miami.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Seattle",
-          "filename": "seattle.json",
-          "path": "united-states/seattle.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Boston",
-          "filename": "boston.json",
-          "path": "united-states/boston.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.2s"
-        }
-      ]
+      "citiesCount": 7,
+      "path": "united-states/index.json"
     },
     {
       "name": "United Kingdom",
-      "cities": [
-        {
-          "name": "London",
-          "filename": "london.json",
-          "path": "united-kingdom/london.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.3s"
-        },
-        {
-          "name": "Manchester",
-          "filename": "manchester.json",
-          "path": "united-kingdom/manchester.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Birmingham",
-          "filename": "birmingham.json",
-          "path": "united-kingdom/birmingham.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.1",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Edinburgh",
-          "filename": "edinburgh.json",
-          "path": "united-kingdom/edinburgh.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Liverpool",
-          "filename": "liverpool.json",
-          "path": "united-kingdom/liverpool.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.1",
-          "duration": "0.1s"
-        }
-      ]
+      "citiesCount": 5,
+      "path": "united-kingdom/index.json"
     },
     {
       "name": "Germany",
-      "cities": [
-        {
-          "name": "Berlin",
-          "filename": "berlin.json",
-          "path": "germany/berlin.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.1",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Munich",
-          "filename": "munich.json",
-          "path": "germany/munich.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.1",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Hamburg",
-          "filename": "hamburg.json",
-          "path": "germany/hamburg.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.1",
-          "duration": "0.3s"
-        },
-        {
-          "name": "Frankfurt",
-          "filename": "frankfurt.json",
-          "path": "germany/frankfurt.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.2s"
-        },
-        {
-          "name": "Cologne",
-          "filename": "cologne.json",
-          "path": "germany/cologne.json",
-          "status": "success",
-          "items": 55,
-          "sizeKB": "18.2",
-          "duration": "0.2s"
-        }
-      ]
+      "citiesCount": 5,
+      "path": "germany/index.json"
     }
   ],
   "totalCountries": 4,
   "totalCities": 22,
-  "lastUpdated": "2025-11-29T06:27:40.286Z",
+  "lastUpdated": "2025-11-29T10:56:16.475Z",
   "note": "Cost of living data scraped from Numbeo.com"
 }

@@ -1,11 +1,11 @@
 {
   "country": "Turkey",
-  "city": "Istanbul",
+  "city": "Antalya",
   "currency": "USD",
-  "lastUpdated": "2025-11-28T19:29:15.452Z",
+  "lastUpdated": "2025-11-29T06:27:50.795Z",
   "indices": {
-    "costOfLivingIndex": 354.53,
-    "rentIndex": 755.52,
+    "costOfLivingIndex": 364.98,
+    "rentIndex": 859.97,
     "groceriesIndex": null,
     "restaurantIndex": 2,
     "transportationIndex": null
@@ -14,10 +14,10 @@
     {
       "category": "dining",
       "item": "Meal at an Inexpensive Restaurant",
-      "averageCost": 500,
+      "averageCost": 370,
       "range": {
-        "low": 300,
-        "high": 800
+        "low": 250,
+        "high": 650
       },
       "unit": "meal",
       "description": "Meal at an Inexpensive Restaurant",
@@ -29,8 +29,8 @@
       "item": "Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",
       "averageCost": 2000,
       "range": {
-        "low": 1500,
-        "high": 4000
+        "low": 1200,
+        "high": 4500
       },
       "unit": "meal",
       "description": "Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)",
@@ -40,10 +40,10 @@
     {
       "category": "dining",
       "item": "Combo Meal at McDonald's (or Equivalent Fast-Food Meal)",
-      "averageCost": 400,
+      "averageCost": 380,
       "range": {
-        "low": 340,
-        "high": 500
+        "low": 350,
+        "high": 400
       },
       "unit": "meal",
       "description": "Combo Meal at McDonald's (or Equivalent Fast-Food Meal)",
@@ -53,10 +53,10 @@
     {
       "category": "dining",
       "item": "Domestic Draft Beer (0.5 Liter)",
-      "averageCost": 180,
+      "averageCost": 160,
       "range": {
-        "low": 90,
-        "high": 255
+        "low": 80,
+        "high": 250
       },
       "unit": "liter",
       "description": "Domestic Draft Beer (0.5 Liter)",
@@ -66,10 +66,10 @@
     {
       "category": "dining",
       "item": "Imported Beer (0.33 Liter Bottle)",
-      "averageCost": 250,
+      "averageCost": 210,
       "range": {
         "low": 120,
-        "high": 350
+        "high": 330
       },
       "unit": "liter",
       "description": "Imported Beer (0.33 Liter Bottle)",
@@ -79,10 +79,10 @@
     {
       "category": "other",
       "item": "Cappuccino (Regular Size)",
-      "averageCost": 163.25,
+      "averageCost": 140.58,
       "range": {
-        "low": 100,
-        "high": 246.22
+        "low": 80,
+        "high": 248.8
       },
       "unit": "unit",
       "description": "Cappuccino (Regular Size)",
@@ -92,10 +92,10 @@
     {
       "category": "other",
       "item": "Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",
-      "averageCost": 66.43,
+      "averageCost": 53.4,
       "range": {
-        "low": 40,
-        "high": 120
+        "low": 30,
+        "high": 124.4
       },
       "unit": "liter",
       "description": "Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)",
@@ -105,9 +105,9 @@
     {
       "category": "groceries",
       "item": "Bottled Water (0.33 Liter)",
-      "averageCost": 24.25,
+      "averageCost": 19.09,
       "range": {
-        "low": 15,
+        "low": 10,
         "high": 50
       },
       "unit": "liter",
@@ -118,9 +118,9 @@
     {
       "category": "groceries",
       "item": "Milk (Regular, 1 Liter)",
-      "averageCost": 44.9,
+      "averageCost": 41.3,
       "range": {
-        "low": 32.5,
+        "low": 32,
         "high": 60
       },
       "unit": "liter",
@@ -131,10 +131,10 @@
     {
       "category": "groceries",
       "item": "Fresh White Bread (500 g Loaf)",
-      "averageCost": 30.2,
+      "averageCost": 35.5,
       "range": {
-        "low": 15,
-        "high": 73
+        "low": 12,
+        "high": 50
       },
       "unit": "loaf",
       "description": "Fresh White Bread (500 g Loaf)",
@@ -144,10 +144,10 @@
     {
       "category": "groceries",
       "item": "White Rice (1 kg)",
-      "averageCost": 91.53,
+      "averageCost": 80.33,
       "range": {
-        "low": 50,
-        "high": 123.11
+        "low": 30,
+        "high": 118
       },
       "unit": "kg",
       "description": "White Rice (1 kg)",
@@ -157,10 +157,10 @@
     {
       "category": "groceries",
       "item": "Eggs (12, Large Size)",
-      "averageCost": 106.34,
+      "averageCost": 94.34,
       "range": {
-        "low": 54,
-        "high": 180
+        "low": 48,
+        "high": 150
       },
       "unit": "unit",
       "description": "Eggs (12, Large Size)",
@@ -170,10 +170,10 @@
     {
       "category": "groceries",
       "item": "Local Cheese (1 kg)",
-      "averageCost": 408.44,
+      "averageCost": 412.2,
       "range": {
         "low": 250,
-        "high": 600
+        "high": 700
       },
       "unit": "kg",
       "description": "Local Cheese (1 kg)",
@@ -183,10 +183,10 @@
     {
       "category": "groceries",
       "item": "Chicken Fillets (1 kg)",
-      "averageCost": 261.28,
+      "averageCost": 272.49,
       "range": {
-        "low": 143.3,
-        "high": 500
+        "low": 180,
+        "high": 400
       },
       "unit": "kg",
       "description": "Chicken Fillets (1 kg)",
@@ -196,10 +196,10 @@
     {
       "category": "groceries",
       "item": "Beef Round or Equivalent Back Leg Red Meat (1 kg)",
-      "averageCost": 849.28,
+      "averageCost": 745.74,
       "range": {
-        "low": 600,
-        "high": 1400
+        "low": 550,
+        "high": 985
       },
       "unit": "kg",
       "description": "Beef Round or Equivalent Back Leg Red Meat (1 kg)",
@@ -209,10 +209,10 @@
     {
       "category": "other",
       "item": "Apples (1 kg)",
-      "averageCost": 74.19,
+      "averageCost": 52.07,
       "range": {
-        "low": 36,
-        "high": 100
+        "low": 35,
+        "high": 80
       },
       "unit": "kg",
       "description": "Apples (1 kg)",
@@ -222,10 +222,10 @@
     {
       "category": "other",
       "item": "Bananas (1 kg)",
-      "averageCost": 104.59,
+      "averageCost": 87.24,
       "range": {
-        "low": 75,
-        "high": 150
+        "low": 40,
+        "high": 100
       },
       "unit": "kg",
       "description": "Bananas (1 kg)",
@@ -235,10 +235,10 @@
     {
       "category": "other",
       "item": "Oranges (1 kg)",
-      "averageCost": 65.69,
+      "averageCost": 43.98,
       "range": {
-        "low": 40,
-        "high": 100
+        "low": 24,
+        "high": 70
       },
       "unit": "kg",
       "description": "Oranges (1 kg)",
@@ -248,10 +248,10 @@
     {
       "category": "other",
       "item": "Tomatoes (1 kg)",
-      "averageCost": 59.66,
+      "averageCost": 54.41,
       "range": {
-        "low": 35,
-        "high": 100
+        "low": 20,
+        "high": 79.95
       },
       "unit": "kg",
       "description": "Tomatoes (1 kg)",
@@ -261,10 +261,10 @@
     {
       "category": "groceries",
       "item": "Potatoes (1 kg)",
-      "averageCost": 28,
+      "averageCost": 30.32,
       "range": {
-        "low": 13,
-        "high": 45
+        "low": 12,
+        "high": 50
       },
       "unit": "kg",
       "description": "Potatoes (1 kg)",
@@ -274,9 +274,9 @@
     {
       "category": "other",
       "item": "Onions (1 kg)",
-      "averageCost": 25.9,
+      "averageCost": 27.09,
       "range": {
-        "low": 11,
+        "low": 15,
         "high": 50
       },
       "unit": "kg",
@@ -287,10 +287,10 @@
     {
       "category": "other",
       "item": "Lettuce (1 Head)",
-      "averageCost": 41.39,
+      "averageCost": 37.21,
       "range": {
         "low": 20,
-        "high": 80
+        "high": 40
       },
       "unit": "unit",
       "description": "Lettuce (1 Head)",
@@ -300,10 +300,10 @@
     {
       "category": "groceries",
       "item": "Bottled Water (1.5 Liter)",
-      "averageCost": 24.02,
+      "averageCost": 21,
       "range": {
-        "low": 15,
-        "high": 45
+        "low": 10,
+        "high": 40
       },
       "unit": "liter",
       "description": "Bottled Water (1.5 Liter)",
@@ -313,10 +313,10 @@
     {
       "category": "dining",
       "item": "Bottle of Wine (Mid-Range)",
-      "averageCost": 500,
+      "averageCost": 300,
       "range": {
-        "low": 300,
-        "high": 850
+        "low": 240,
+        "high": 500
       },
       "unit": "bottle",
       "description": "Bottle of Wine (Mid-Range)",
@@ -326,10 +326,10 @@
     {
       "category": "dining",
       "item": "Domestic Beer (0.5 Liter Bottle)",
-      "averageCost": 94.42,
+      "averageCost": 88.02,
       "range": {
-        "low": 75,
-        "high": 128.57
+        "low": 55,
+        "high": 120
       },
       "unit": "liter",
       "description": "Domestic Beer (0.5 Liter Bottle)",
@@ -339,10 +339,10 @@
     {
       "category": "dining",
       "item": "Imported Beer (0.33 Liter Bottle)",
-      "averageCost": 137.76,
+      "averageCost": 118.62,
       "range": {
-        "low": 90,
-        "high": 220
+        "low": 95,
+        "high": 150
       },
       "unit": "liter",
       "description": "Imported Beer (0.33 Liter Bottle)",
@@ -354,8 +354,8 @@
       "item": "Cigarettes (Pack of 20, Marlboro)",
       "averageCost": 95,
       "range": {
-        "low": 85,
-        "high": 100
+        "low": 80,
+        "high": 130
       },
       "unit": "unit",
       "description": "Cigarettes (Pack of 20, Marlboro)",
@@ -365,10 +365,10 @@
     {
       "category": "transportation",
       "item": "One-Way Ticket (Local Transport)",
-      "averageCost": 35,
+      "averageCost": 29.5,
       "range": {
         "low": 27,
-        "high": 45
+        "high": 35
       },
       "unit": "ticket",
       "description": "One-Way Ticket (Local Transport)",
@@ -378,10 +378,10 @@
     {
       "category": "transportation",
       "item": "Monthly Public Transport Pass (Regular Price)",
-      "averageCost": 2120,
+      "averageCost": 1200,
       "range": {
-        "low": 2000,
-        "high": 2748
+        "low": 1000,
+        "high": 1200
       },
       "unit": "month",
       "description": "Monthly Public Transport Pass (Regular Price)",
@@ -391,10 +391,10 @@
     {
       "category": "transportation",
       "item": "Taxi Start (Standard Tariff)",
-      "averageCost": 45,
+      "averageCost": 42,
       "range": {
-        "low": 42,
-        "high": 80
+        "low": 30,
+        "high": 50
       },
       "unit": "unit",
       "description": "Taxi Start (Standard Tariff)",
@@ -404,10 +404,10 @@
     {
       "category": "transportation",
       "item": "Taxi 1 km (Standard Tariff)",
-      "averageCost": 28,
+      "averageCost": 30,
       "range": {
-        "low": 27,
-        "high": 36.3
+        "low": 20,
+        "high": 40
       },
       "unit": "unit",
       "description": "Taxi 1 km (Standard Tariff)",
@@ -417,10 +417,10 @@
     {
       "category": "transportation",
       "item": "Taxi 1 Hour Waiting (Standard Tariff)",
-      "averageCost": 350,
+      "averageCost": 390,
       "range": {
-        "low": 235,
-        "high": 454
+        "low": 300,
+        "high": 400
       },
       "unit": "unit",
       "description": "Taxi 1 Hour Waiting (Standard Tariff)",
@@ -430,9 +430,9 @@
     {
       "category": "transportation",
       "item": "Gasoline (1 Liter)",
-      "averageCost": 51.81,
+      "averageCost": 50.33,
       "range": {
-        "low": 46,
+        "low": 44.95,
         "high": 55
       },
       "unit": "liter",
@@ -443,10 +443,10 @@
     {
       "category": "other",
       "item": "Volkswagen Golf 1.5 (or Equivalent New Compact Car)",
-      "averageCost": 2000000,
+      "averageCost": 2098000,
       "range": {
-        "low": 1800000,
-        "high": 2250000
+        "low": 2022000,
+        "high": 2100201
       },
       "unit": "unit",
       "description": "Volkswagen Golf 1.5 (or Equivalent New Compact Car)",
@@ -456,10 +456,10 @@
     {
       "category": "other",
       "item": "Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car)",
-      "averageCost": 1863602.94,
+      "averageCost": 1889888.89,
       "range": {
-        "low": 1695000,
-        "high": 2100000
+        "low": 1850000,
+        "high": 1989500
       },
       "unit": "unit",
       "description": "Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car)",
@@ -469,10 +469,10 @@
     {
       "category": "housing",
       "item": "Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",
-      "averageCost": 2971.55,
+      "averageCost": 4283.58,
       "range": {
-        "low": 2000,
-        "high": 4000
+        "low": 3000,
+        "high": 7000
       },
       "unit": "month",
       "description": "Basic Utilities for 85 m2 Apartment (Electricity, Heating, Cooling, Water, Garbage)",
@@ -482,10 +482,10 @@
     {
       "category": "utilities",
       "item": "Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",
-      "averageCost": 464.9,
+      "averageCost": 468.74,
       "range": {
-        "low": 300,
-        "high": 800
+        "low": 200,
+        "high": 900
       },
       "unit": "month",
       "description": "Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)",
@@ -495,10 +495,10 @@
     {
       "category": "utilities",
       "item": "Broadband Internet (Unlimited Data, 60 Mbps or Higher)",
-      "averageCost": 600.99,
+      "averageCost": 596.72,
       "range": {
         "low": 500,
-        "high": 1000
+        "high": 900
       },
       "unit": "unit",
       "description": "Broadband Internet (Unlimited Data, 60 Mbps or Higher)",
@@ -508,10 +508,10 @@
     {
       "category": "lifestyle",
       "item": "Monthly Fitness Club Membership",
-      "averageCost": 2517.74,
+      "averageCost": 2263.89,
       "range": {
-        "low": 1200,
-        "high": 3711.26
+        "low": 666.67,
+        "high": 3000
       },
       "unit": "month",
       "description": "Monthly Fitness Club Membership",
@@ -521,10 +521,10 @@
     {
       "category": "housing",
       "item": "Tennis Court Rental (1 Hour, Weekend)",
-      "averageCost": 755.52,
+      "averageCost": 859.97,
       "range": {
-        "low": 500,
-        "high": 1000
+        "low": 339.89,
+        "high": 1100
       },
       "unit": "unit",
       "description": "Tennis Court Rental (1 Hour, Weekend)",
@@ -534,10 +534,10 @@
     {
       "category": "lifestyle",
       "item": "Cinema Ticket (International Release)",
-      "averageCost": 350,
+      "averageCost": 262.5,
       "range": {
-        "low": 250,
-        "high": 500
+        "low": 200,
+        "high": 400
       },
       "unit": "ticket",
       "description": "Cinema Ticket (International Release)",
@@ -547,10 +547,10 @@
     {
       "category": "education",
       "item": "Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",
-      "averageCost": 42094.23,
+      "averageCost": 27628.33,
       "range": {
-        "low": 25000,
-        "high": 83333.33
+        "low": 21500,
+        "high": 31864.43
       },
       "unit": "month",
       "description": "Private Full-Day Preschool or Kindergarten, Monthly Fee per Child",
@@ -560,10 +560,10 @@
     {
       "category": "education",
       "item": "International Primary School, Annual Tuition per Child",
-      "averageCost": 798922.18,
+      "averageCost": 474608.62,
       "range": {
-        "low": 400000,
-        "high": 1994377
+        "low": 297401.31,
+        "high": 700000
       },
       "unit": "unit",
       "description": "International Primary School, Annual Tuition per Child",
@@ -573,10 +573,10 @@
     {
       "category": "other",
       "item": "Jeans (Levi's 501 or Similar)",
-      "averageCost": 2220.09,
+      "averageCost": 2419.8,
       "range": {
-        "low": 1000,
-        "high": 3500
+        "low": 1300,
+        "high": 3280.05
       },
       "unit": "unit",
       "description": "Jeans (Levi's 501 or Similar)",
@@ -586,10 +586,10 @@
     {
       "category": "other",
       "item": "Summer Dress in a Chain Store (e.g. Zara or H&M)",
-      "averageCost": 1908.75,
+      "averageCost": 1323.34,
       "range": {
         "low": 1000,
-        "high": 3500
+        "high": 1890
       },
       "unit": "unit",
       "description": "Summer Dress in a Chain Store (e.g. Zara or H&M)",
@@ -599,10 +599,10 @@
     {
       "category": "other",
       "item": "Nike Running Shoes (Mid-Range)",
-      "averageCost": 4569.7,
+      "averageCost": 3429.8,
       "range": {
-        "low": 3000,
-        "high": 6000
+        "low": 2500,
+        "high": 5466.75
       },
       "unit": "unit",
       "description": "Nike Running Shoes (Mid-Range)",
@@ -612,10 +612,10 @@
     {
       "category": "other",
       "item": "Men's Leather Business Shoes",
-      "averageCost": 4123.44,
+      "averageCost": 3312.5,
       "range": {
-        "low": 2600,
-        "high": 7000
+        "low": 1500,
+        "high": 5690
       },
       "unit": "unit",
       "description": "Men's Leather Business Shoes",
@@ -625,10 +625,10 @@
     {
       "category": "housing",
       "item": "1 Bedroom Apartment in City Centre",
-      "averageCost": 41086.1,
+      "averageCost": 23727.27,
       "range": {
-        "low": 30000,
-        "high": 60000
+        "low": 18000,
+        "high": 35000
       },
       "unit": "month",
       "description": "1 Bedroom Apartment in City Centre",
@@ -638,10 +638,10 @@
     {
       "category": "housing",
       "item": "1 Bedroom Apartment Outside of City Centre",
-      "averageCost": 26442.43,
+      "averageCost": 18627.6,
       "range": {
-        "low": 20000,
-        "high": 40000
+        "low": 15000,
+        "high": 30000
       },
       "unit": "month",
       "description": "1 Bedroom Apartment Outside of City Centre",
@@ -651,10 +651,10 @@
     {
       "category": "housing",
       "item": "3 Bedroom Apartment in City Centre",
-      "averageCost": 71295.04,
+      "averageCost": 41580.04,
       "range": {
-        "low": 50000,
-        "high": 110000
+        "low": 25000,
+        "high": 65000
       },
       "unit": "month",
       "description": "3 Bedroom Apartment in City Centre",
@@ -664,10 +664,10 @@
     {
       "category": "housing",
       "item": "3 Bedroom Apartment Outside of City Centre",
-      "averageCost": 45075.53,
+      "averageCost": 28679.01,
       "range": {
-        "low": 32000,
-        "high": 65000
+        "low": 22000,
+        "high": 36113.02
       },
       "unit": "month",
       "description": "3 Bedroom Apartment Outside of City Centre",
@@ -677,10 +677,10 @@
     {
       "category": "housing",
       "item": "Price per Square Meter to Buy Apartment in City Centre",
-      "averageCost": 126827.4,
+      "averageCost": 110833.33,
       "range": {
-        "low": 84000,
-        "high": 200000
+        "low": 70000,
+        "high": 145000
       },
       "unit": "month",
       "description": "Price per Square Meter to Buy Apartment in City Centre",
@@ -690,10 +690,10 @@
     {
       "category": "housing",
       "item": "Price per Square Meter to Buy Apartment Outside of Centre",
-      "averageCost": 65472.51,
+      "averageCost": 57693.75,
       "range": {
-        "low": 40000,
-        "high": 150000
+        "low": 34988,
+        "high": 106174.48
       },
       "unit": "month",
       "description": "Price per Square Meter to Buy Apartment Outside of Centre",
@@ -703,10 +703,10 @@
     {
       "category": "other",
       "item": "Average Monthly Net Salary (After Tax)",
-      "averageCost": 42341.46,
+      "averageCost": 33332.08,
       "range": {
-        "low": 33873.168,
-        "high": 50809.752
+        "low": 26665.664000000004,
+        "high": 39998.496
       },
       "unit": "month",
       "description": "Average Monthly Net Salary (After Tax)",
@@ -716,9 +716,9 @@
     {
       "category": "other",
       "item": "Annual Mortgage Interest Rate (20-Year Fixed, in %)",
-      "averageCost": 44.38,
+      "averageCost": 36.11,
       "range": {
-        "low": 35,
+        "low": 20,
         "high": 55
       },
       "unit": "unit",

@@ -1,24 +1,24 @@
 {
-  "name": "Indonesia",
-  "description": "Indonesia, officially the Republic of Indonesia, is a country in Southeast Asia and Oceania, between the Indian and Pacific oceans. Comprising over 17,000 islands, including Sumatra, Java, Sulawesi, and parts of Borneo and New Guinea, Indonesia is the world's largest archipelagic state and the 14th-largest country by area, at 1,904,569 square kilometres . With over 280 million people, Indonesia is the world's fourth-most-populous country and the most populous Muslim-majority country. Java, the world's most populous island, is home to more than half of the country's population.",
+  "name": "Kenya",
+  "description": "Kenya, officially the Republic of Kenya, is a country located in East Africa. With an estimated population of more than 53.3 million as of mid-2025, Kenya is the 27th-most-populous country in the world and the 7th most populous in Africa. Kenya's capital and largest city is Nairobi. The second-largest and oldest city is Mombasa, a major port city located on Mombasa Island. Other major cities within the country include Kisumu, Nakuru and Eldoret. Going clockwise Kenya is bordered by South Sudan to the northwest , Ethiopia to the north, Somalia to the east, the Indian Ocean to the southeast, Tanzania to the southwest, and Lake Victoria and Uganda to the west.",
   "quickFacts": [
     {
       "label": "Capital",
-      "value": "Jakarta.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}6°10′S 106°49′E / 6.167°S 106.817°E / -6.167; 106.817",
+      "value": "Nairobi.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}1°16′S 36°48′E / 1.267°S 36.800°E / -1.267; 36.800",
       "icon": "MapPin",
       "description": "Capital",
       "detail": "Information about capital"
     },
     {
       "label": "Largest City",
-      "value": "Jakarta.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}6°10′S 106°49′E / 6.167°S 106.817°E / -6.167; 106.817",
+      "value": "Nairobi.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}1°16′S 36°48′E / 1.267°S 36.800°E / -1.267; 36.800",
       "icon": "MapPin",
       "description": "Largest City",
       "detail": "Information about largest city"
     },
     {
       "label": "Currency",
-      "value": "Indonesian rupiah",
+      "value": "Kenyan shilling",
       "icon": "DollarSign",
       "description": "Currency",
       "detail": "Information about currency"
@@ -33,7 +33,7 @@
   ],
   "climateData": {
     "title": "Climate & Weather",
-    "description": "Climate information for Indonesia.",
+    "description": "The climate of Kenya varies by location, from mostly cool every day, to always warm/hot by mid afternoon. The climate along the coast is tropical. This means rainfall and temperatures are higher than inland throughout the year. At the coastal cities, Mombasa, Lamu and Malindi, the air temperature changes from cool to hot, almost every day. . The further inland one is in Kenya, the more arid the climate becomes. An extremely arid climate is nearly devoid of rainfall, and temperature varies widely according to the general time of the day/night. For many areas of Kenya, the daytime temperature rises about 12 °C , almost every day.",
     "seasonalCharacteristics": [
       {
         "name": "Spring",
@@ -92,13 +92,13 @@
   "naturalWonders": [
     {
       "id": 1,
-      "name": "List of national parks of Indonesia",
+      "name": "List of national parks of Kenya",
       "category": "National Park",
-      "description": "or the 33% in France), which also includes national parks. The first group of five Indonesian national parks were established in 1980. This number increased",
-      "detailedDescription": "Of the 57 national parks, 6 are World Heritage Sites, 9 are part of the World Network of Biosphere Reserves and 5 are wetlands of international importance under the Ramsar convention. A total of 9 parks are largely marine. Around 9% of Indonesia's land area is protected , which also includes national parks. The first group of five Indonesian national parks were established in 1980. This number increased constantly reaching 41 in 2003. In a major expansion in 2004, nine more new national parks were created, raising the total number to 50. Mount Tambora was added in 2015. 3 more National Parks in Sumatra, Sulawesi, and Bangka Island were declared in 2016. Mamberamo Foja in Papua is the youngest national park in Indonesia after its new status",
+      "description": "national park system of Kenya is maintained by the Kenya Wildlife Service. There are two main types of terrestrial protected areas in Kenya: national",
+      "detailedDescription": "The national park system of Kenya is maintained by the Kenya Wildlife Service. There are two main types of terrestrial protected areas in Kenya: national parks, and national reserves; there are also marine parks and marine reserves.",
       "bestTime": "Year-round",
       "bestLocations": [
-        "List of national parks of Indonesia"
+        "List of national parks of Kenya"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -113,13 +113,13 @@
     },
     {
       "id": 2,
-      "name": "Komodo National Park",
+      "name": "Mount Kenya National Park",
       "category": "National Park",
-      "description": "Komodo National Park is a national park in Indonesia located within the Lesser Sunda Islands in the border region",
-      "detailedDescription": "Komodo National Park is a national park in Indonesia located within the Lesser Sunda Islands in the border region between the provinces of East Nusa Tenggara and West Nusa Tenggara. The park includes the three larger islands Komodo, Padar and Rinca, and 26 smaller ones, with a total area of 1,733 km2 , with 603 km2 of it land. The national park was founded in 1980 to protect the Komodo dragon, the world's largest lizard. Later it was dedicated to protecting other species, including marine species. In 1991 the national park was declared a UNESCO World Heritage Site and a Man and Biosphere Reserve. It is considered one of the world's 25 biodiversity hotspots. Komodo National Park has been selected as one of the New 7 Wonders of Natur",
+      "description": "Mount Kenya National Park is a national park in Kenya that was established in 1949 around Mount Kenya to protect its surrounding environment and wildlife",
+      "detailedDescription": "Mount Kenya National Park is a national park in Kenya that was established in 1949 around Mount Kenya to protect its surrounding environment and wildlife. It is also a drainage basin for the region's water supply.",
       "bestTime": "Year-round",
       "bestLocations": [
-        "Komodo National Park"
+        "Mount Kenya National Park"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -134,13 +134,13 @@
     },
     {
       "id": 3,
-      "name": "Indonesia national football team",
+      "name": "Mount Kenya",
       "category": "National Park",
-      "description": "The Indonesia national football team represents Indonesia in international men&#039;s football matches since",
-      "detailedDescription": "The Indonesia national football team represents Indonesia in international men's football matches since 1945. The men's national team is controlled by the Football Association of Indonesia , the governing body for football in Indonesia, which is a part of AFC, under the jurisdiction of FIFA. Most of Indonesia home matches are played at the Gelora Bung Karno Stadium. The team is colloquially referred to as Tim Garuda , Timnas or Merah Putih after the country's national emblem and their distinctive red-and-white jerseys based on the country's flag. Their fan club is known as La Grande Indonesia and Ultras Garuda. Indonesia was the first team from Asia to participate in the FIFA World Cup. T",
+      "description": "National Park in 1949 and listed as a UNESCO World Heritage Site in 1997. The park receives over 16,000 visitors per year. Mount Kenya National Park,",
+      "detailedDescription": "Mount Kenya is the second-highest peak in Africa, after Kilimanjaro. The highest peaks of the mountain are Batian ), Nelion ) and Point Lenana ). Mount Kenya is located in the former Eastern and Central provinces of Kenya; its peak is now the intersection of Meru, Embu, Kirinyaga, Nyeri and Tharaka Nithi counties, about 16.5 kilometres south of the equator, around 150 km north-northeast of the capital Nairobi. Mount Kenya is the source of the name of the Republic of Kenya. Mount Kenya is a volcano created approximately 3 million years after the opening of the East African Rift. Before glaciation, it was 7,000 m (23,0",
       "bestTime": "Year-round",
       "bestLocations": [
-        "Indonesia national football team"
+        "Mount Kenya"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -155,13 +155,13 @@
     },
     {
       "id": 4,
-      "name": "Bromo Tengger Semeru National Park",
+      "name": "Wildlife of Kenya",
       "category": "National Park",
-      "description": "Semeru National Park is a national park located in East Java, Indonesia, to the",
-      "detailedDescription": "Bromo Tengger Semeru National Park is a national park located in East Java, Indonesia, to the east of Malang, to the west of Lumajang, to the south of Pasuruan and Probolinggo, and to the southeast of Surabaya, the capital of East Java. It is the only conservation area in Indonesia that has a sand sea, the Tengger Sand Sea , across which is the caldera of an ancient volcano from which four new volcanic cones have emerged. This unique feature covers a total area of 5,250 hectares at an altitude of about 2,100 meters . The massif also contains the highest mountain in Java, Mount Semeru ), four lakes , and 50 r",
+      "description": "Kenya. Although there are few places to see them, they can be found at Nairobi National Park, Tsavo National Park, Masaai Mara and Aberdares National",
+      "detailedDescription": "The wildlife of Kenya refers to its fauna. The diversity of Kenya's wildlife has garnered international fame, especially for its populations of large mammals. Mammal species include lion , cheetah hippopotamus , African buffalo , wildebeest , African bush elephant , zebra , giraffe , and rhinoceros. Kenya has a very diverse population of birds, including flamingo and common ostrich .",
       "bestTime": "Year-round",
       "bestLocations": [
-        "Bromo Tengger Semeru National Park"
+        "Wildlife of Kenya"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -176,13 +176,13 @@
     },
     {
       "id": 5,
-      "name": "Lore Lindu National Park",
+      "name": "Nairobi National Park",
       "category": "National Park",
-      "description": "National Park is a protected area of forest on the Indonesian island of Sulawesi, in the province of Central Sulawesi. The Indonesian national park is",
-      "detailedDescription": "Lore Lindu National Park is a protected area of forest on the Indonesian island of Sulawesi, in the province of Central Sulawesi. The Indonesian national park is 2,180 km2 covering both lowland and montane forests . It provides habitat to numerous rare species, including 77 bird species endemic to Sulawesi. The national park is designated as part of the UNESCO World Network of Biosphere Reserves. In addition to its rich wildlife, the park also contains megaliths dating from between 3000 BC to 1300 AD. The easiest access to visit the national park is from Palu to Kamarora . Due to up to 4,000 mm of rainfall per year in the southern part of the national park, the best time to visit is from July to September.",
+      "description": "Nairobi National Park is a national park in Kenya that was established in 1946 about 7 km south of Nairobi. It is fenced on three sides, whereas",
+      "detailedDescription": "Nairobi National Park is a national park in Kenya that was established in 1946 about 7 km south of Nairobi. It is fenced on three sides, whereas the open southern boundary allows migrating wildlife to move between the park and the adjacent Kitengela plains. Herbivores gather in the park during the dry season. Nairobi National Park is negatively affected by increasing human and livestock populations, changing land use and poaching of wildlife. Despite its proximity to the city and its relative small size, it boasts a large and varied wildlife population, and is one of Kenya's most successful rhinoceros sanctuaries.",
       "bestTime": "Year-round",
       "bestLocations": [
-        "Lore Lindu National Park"
+        "Nairobi National Park"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -197,8 +197,8 @@
     }
   ],
   "ecosystemData": {
-    "title": "Nature & Biodiversity of Indonesia",
-    "overview": "Indonesia hosts diverse ecosystems and natural habitats.",
+    "title": "Nature & Biodiversity of Kenya",
+    "overview": "Kenya hosts diverse ecosystems and natural habitats.",
     "conservationStatus": {
       "protectedAreas": "5 major protected areas",
       "nationalParks": 5
@@ -259,7 +259,7 @@
   },
   "activities": {
     "title": "Outdoor Activities & Tourism",
-    "description": "Tourism is travel for pleasure, and the commercial activity of providing and supporting such travel. UN Tourism defines tourism more generally, in terms",
+    "description": "includes outdoor recreation, such as hiking, hunting, fishing, and wildlife watching. Another form of recreation supported by biodiversity is tourism. Biodiversity",
     "activityCategories": [
       {
         "name": "Nature & Wildlife",
@@ -273,9 +273,9 @@
             "duration": "2-8 hours",
             "description": "Explore trails in natural parks and reserves",
             "bestLocations": [
-              "List of national parks of Indonesia",
-              "Komodo National Park",
-              "Indonesia national football team"
+              "List of national parks of Kenya",
+              "Mount Kenya National Park",
+              "Mount Kenya"
             ],
             "requirements": "Sturdy footwear, water, weather-appropriate clothing",
             "safety": "Stay on marked trails, check weather conditions"

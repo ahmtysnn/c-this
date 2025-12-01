@@ -104,13 +104,13 @@
   "naturalWonders": [
     {
       "id": 1,
-      "name": "List of national parks of Canada",
+      "name": "National parks of Canada",
       "category": "National Park",
-      "description": "coordinates as KML Canada&#039;s national parks are protected areas under the Canada National Parks Act, owned by the Government of Canada and administered for",
-      "detailedDescription": "Canada's national parks are protected areas under the Canada National Parks Act, owned by the Government of Canada and administered for the benefit, education, and enjoyment of the people of Canada and its future generations. National parks are administered by Parks Canada, a Crown agency operating under the jurisdiction of the Ministry of Environment and Climate Change. The goal of the national parks system is to set aside lands representing the country's 39 distinct natural regions described in the National Parks System Plan, primarily to protect the ecological integrity of the land, and secondarily to allow the public to explore, learn about and enjoy Canada's natural spaces. Canada's first national park was created in 1885 through an Order-in-Council to reserve 26 km2 over t",
+      "description": "National parks of Canada are vast natural spaces located throughout the country that are protected by Parks Canada, a government agency. Parks Canada",
+      "detailedDescription": "National parks of Canada are vast natural spaces located throughout the country that are protected by Parks Canada, a government agency. Parks Canada manages the National Parks and Reserves in order to protect and preserve the Canadian wildlife and habitat that fall within the ecosystems of the park, keep them safe, educate visitors, and ensure public enjoyment in ways that do not compromise the area for future generations. The areas that fall within Parks Canada's governance include a wide range of protected areas, encompassing National Historic Sites, National Marine Conservation Areas , and National Park Reserves. Canada established its first national park in Banff in 1885, and has since expanded its national park system to include 37 national parks and 11 national park reserves.",
       "bestTime": "Year-round",
       "bestLocations": [
-        "List of national parks of Canada"
+        "National parks of Canada"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -125,13 +125,13 @@
     },
     {
       "id": 2,
-      "name": "National parks of Canada",
+      "name": "List of national parks of Canada",
       "category": "National Park",
-      "description": "National parks of Canada are vast natural spaces located throughout the country that are protected by Parks Canada, a government agency. Parks Canada",
-      "detailedDescription": "National parks of Canada are vast natural spaces located throughout the country that are protected by Parks Canada, a government agency. Parks Canada manages the National Parks and Reserves in order to protect and preserve the Canadian wildlife and habitat that fall within the ecosystems of the park, keep them safe, educate visitors, and ensure public enjoyment in ways that do not compromise the area for future generations. The areas that fall within Parks Canada's governance include a wide range of protected areas, encompassing National Historic Sites, National Marine Conservation Areas , and National Park Reserves. Canada established its first national park in Banff in 1885, and has since expanded its national park system to include 37 national parks and 11 national park reserves.",
+      "description": "coordinates as KML Canada&#039;s national parks are protected areas under the Canada National Parks Act, owned by the Government of Canada and administered for",
+      "detailedDescription": "Canada's national parks are protected areas under the Canada National Parks Act, owned by the Government of Canada and administered for the benefit, education, and enjoyment of the people of Canada and its future generations. National parks are administered by Parks Canada, a Crown agency operating under the jurisdiction of the Ministry of Environment and Climate Change. The goal of the national parks system is to set aside lands representing the country's 39 distinct natural regions described in the National Parks System Plan, primarily to protect the ecological integrity of the land, and secondarily to allow the public to explore, learn about and enjoy Canada's natural spaces. Canada's first national park was created in 1885 through an Order-in-Council to reserve 26 km2 over t",
       "bestTime": "Year-round",
       "bestLocations": [
-        "National parks of Canada"
+        "List of national parks of Canada"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -285,8 +285,8 @@
             "duration": "2-8 hours",
             "description": "Explore trails in natural parks and reserves",
             "bestLocations": [
-              "List of national parks of Canada",
               "National parks of Canada",
+              "List of national parks of Canada",
               "Banff National Park"
             ],
             "requirements": "Sturdy footwear, water, weather-appropriate clothing",

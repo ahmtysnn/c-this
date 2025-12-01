@@ -1,31 +1,31 @@
 {
-  "name": "Kenya",
-  "description": "Kenya, officially the Republic of Kenya, is a country located in East Africa. With an estimated population of more than 53.3 million as of mid-2025, Kenya is the 27th-most-populous country in the world and the 7th most populous in Africa. Kenya's capital and largest city is Nairobi. The second-largest and oldest city is Mombasa, a major port city located on Mombasa Island. Other major cities within the country include Kisumu, Nakuru and Eldoret. Going clockwise Kenya is bordered by South Sudan to the northwest , Ethiopia to the north, Somalia to the east, the Indian Ocean to the southeast, Tanzania to the southwest, and Lake Victoria and Uganda to the west.",
+  "name": "South Africa",
+  "description": "South Africa, officially the Republic of South Africa , is the southernmost country in Africa. Its nine provinces are bounded to the south by 2,798 kilometres of coastline that stretches along the South Atlantic and Indian Ocean; to the north by the neighbouring countries of Namibia, Botswana, and Zimbabwe; to the east and northeast by Mozambique and Eswatini; and it encloses Lesotho.",
   "quickFacts": [
     {
       "label": "Capital",
-      "value": "Nairobi.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}1°16′S 36°48′E / 1.267°S 36.800°E / -1.267; 36.800",
+      "value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Pretoria Cape Town Bloemfontein",
       "icon": "MapPin",
       "description": "Capital",
       "detail": "Information about capital"
     },
     {
       "label": "Largest City",
-      "value": "Nairobi.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}1°16′S 36°48′E / 1.267°S 36.800°E / -1.267; 36.800",
+      "value": "Johannesburg",
       "icon": "MapPin",
       "description": "Largest City",
       "detail": "Information about largest city"
     },
     {
       "label": "Currency",
-      "value": "Kenyan shilling",
+      "value": "South African rand",
       "icon": "DollarSign",
       "description": "Currency",
       "detail": "Information about currency"
     },
     {
       "label": "Government",
-      "value": "Unitary presidential republic",
+      "value": "Unitary parliamentary republic with an executive presidency",
       "icon": "Shield",
       "description": "Government",
       "detail": "Information about government"
@@ -33,7 +33,7 @@
   ],
   "climateData": {
     "title": "Climate & Weather",
-    "description": "The climate of Kenya varies by location, from mostly cool every day, to always warm/hot by mid afternoon. The climate along the coast is tropical. This means rainfall and temperatures are higher than inland throughout the year. At the coastal cities, Mombasa, Lamu and Malindi, the air temperature changes from cool to hot, almost every day. . The further inland one is in Kenya, the more arid the climate becomes. An extremely arid climate is nearly devoid of rainfall, and temperature varies widely according to the general time of the day/night. For many areas of Kenya, the daytime temperature rises about 12 °C , almost every day.",
+    "description": "Climate information for South Africa.",
     "seasonalCharacteristics": [
       {
         "name": "Spring",
@@ -92,13 +92,13 @@
   "naturalWonders": [
     {
       "id": 1,
-      "name": "List of national parks of Kenya",
+      "name": "South African National Parks",
       "category": "National Park",
-      "description": "national park system of Kenya is maintained by the Kenya Wildlife Service. There are two main types of terrestrial protected areas in Kenya: national",
-      "detailedDescription": "The national park system of Kenya is maintained by the Kenya Wildlife Service. There are two main types of terrestrial protected areas in Kenya: national parks, and national reserves; there are also marine parks and marine reserves.",
+      "description": "South African National Parks is the body responsible for managing South Africa&#039;s national parks. SANParks was formed in 1926, and currently",
+      "detailedDescription": "South African National Parks is the body responsible for managing South Africa's national parks. SANParks was formed in 1926, and currently manages 19 parks consisting of 3,751,113 hectares , over 3% of the total area of South Africa. Many parks offer a variety of accommodations. The best known park is Kruger National Park, which is also the oldest , and the largest, at nearly 2,000,000 hectares . Kruger National Park and Table Mountain National Park are two of South Africa's most visited tourist attractions. Though not designated as National Parks, other protected areas exist, such as game and nature reserves.",
       "bestTime": "Year-round",
       "bestLocations": [
-        "List of national parks of Kenya"
+        "South African National Parks"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -113,13 +113,13 @@
     },
     {
       "id": 2,
-      "name": "Mount Kenya National Park",
+      "name": "South Africa national soccer team",
       "category": "National Park",
-      "description": "Mount Kenya National Park is a national park in Kenya that was established in 1949 around Mount Kenya to protect its surrounding environment and wildlife",
-      "detailedDescription": "Mount Kenya National Park is a national park in Kenya that was established in 1949 around Mount Kenya to protect its surrounding environment and wildlife. It is also a drainage basin for the region's water supply.",
+      "description": "The South Africa national football team represents South Africa in men&#039;s international football and is run by the South African Football Association,",
+      "detailedDescription": "The South Africa national football team represents South Africa in men's international football and is run by the South African Football Association, the governing body for football in South Africa. Nicknamed Bafana Bafana , the team plays at various stadiums around the country. The team is a member of both FIFA and the Confederation of African Football , is one of the most well-supported national sides in Africa, and are recognised by their traditional yellow-green kits. Having played their first match in 1906, South Africa returned to the world stage in 1992, after sixteen years of being banned from FIFA, and forty years of effective suspension due to the apartheid system. South Africa have qualified for the FIFA World Cup three times: 1998, 2002 and 2026, in addit",
       "bestTime": "Year-round",
       "bestLocations": [
-        "Mount Kenya National Park"
+        "South Africa national soccer team"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -134,13 +134,13 @@
     },
     {
       "id": 3,
-      "name": "Mount Kenya",
+      "name": "List of protected areas of South Africa",
       "category": "National Park",
-      "description": "National Park in 1949 and listed as a UNESCO World Heritage Site in 1997. The park receives over 16,000 visitors per year. Mount Kenya National Park,",
-      "detailedDescription": "Mount Kenya is the second-highest peak in Africa, after Kilimanjaro. The highest peaks of the mountain are Batian ), Nelion ) and Point Lenana ). Mount Kenya is located in the former Eastern and Central provinces of Kenya; its peak is now the intersection of Meru, Embu, Kirinyaga, Nyeri and Tharaka Nithi counties, about 16.5 kilometres south of the equator, around 150 km north-northeast of the capital Nairobi. Mount Kenya is the source of the name of the Republic of Kenya. Mount Kenya is a volcano created approximately 3 million years after the opening of the East African Rift. Before glaciation, it was 7,000 m (23,0",
+      "description": "The protected areas of South Africa include national parks and marine protected areas managed by the national government, public nature reserves managed",
+      "detailedDescription": "The protected areas of South Africa include national parks and marine protected areas managed by the national government, public nature reserves managed by provincial and local governments, and private nature reserves managed by private landowners. Most protected areas are intended for the conservation of flora and fauna. National parks are maintained by South African National Parks . A number of national parks have been incorporated in transfrontier conservation areas. Protected areas may also be protected for their value and importance as historical, cultural heritage or scientific sites. More information on these can be found in the list of heritage sites in South Africa.",
       "bestTime": "Year-round",
       "bestLocations": [
-        "Mount Kenya"
+        "List of protected areas of South Africa"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -155,13 +155,13 @@
     },
     {
       "id": 4,
-      "name": "Wildlife of Kenya",
+      "name": "Kruger National Park",
       "category": "National Park",
-      "description": "Kenya. Although there are few places to see them, they can be found at Nairobi National Park, Tsavo National Park, Masaai Mara and Aberdares National",
-      "detailedDescription": "The wildlife of Kenya refers to its fauna. The diversity of Kenya's wildlife has garnered international fame, especially for its populations of large mammals. Mammal species include lion , cheetah hippopotamus , African buffalo , wildebeest , African bush elephant , zebra , giraffe , and rhinoceros. Kenya has a very diverse population of birds, including flamingo and common ostrich .",
+      "description": "Kruger National Park is a national park in South Africa covering an area of 19,623 km2 in the provinces of Limpopo",
+      "detailedDescription": "Kruger National Park is a national park in South Africa covering an area of 19,623 km2 in the provinces of Limpopo and Mpumalanga in the country's northeast. It extends 360 km from north to south and 65 km from east to west. The administrative headquarters are in Skukuza. Areas of the park were first protected by the government of the South African Republic in 1898, and it became South Africa's first national park in 1926. It is part of Kruger to Canyons Biosphere, an area designated as a biosphere reserve.",
       "bestTime": "Year-round",
       "bestLocations": [
-        "Wildlife of Kenya"
+        "Kruger National Park"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -176,13 +176,13 @@
     },
     {
       "id": 5,
-      "name": "Nairobi National Park",
+      "name": "Table Mountain National Park",
       "category": "National Park",
-      "description": "Nairobi National Park is a national park in Kenya that was established in 1946 about 7 km south of Nairobi. It is fenced on three sides, whereas",
-      "detailedDescription": "Nairobi National Park is a national park in Kenya that was established in 1946 about 7 km south of Nairobi. It is fenced on three sides, whereas the open southern boundary allows migrating wildlife to move between the park and the adjacent Kitengela plains. Herbivores gather in the park during the dry season. Nairobi National Park is negatively affected by increasing human and livestock populations, changing land use and poaching of wildlife. Despite its proximity to the city and its relative small size, it boasts a large and varied wildlife population, and is one of Kenya's most successful rhinoceros sanctuaries.",
+      "description": "Table Mountain National Park, previously known as the Cape Peninsula National Park, is a national park in Cape Town, South Africa, proclaimed on 29 May",
+      "detailedDescription": "Table Mountain National Park, previously known as the Cape Peninsula National Park, is a national park in Cape Town, South Africa, proclaimed on 29 May 1998, for the purpose of protecting the natural environment of the Table Mountain chain, and in particular the rare fynbos vegetation. The park is managed by South African National Parks , and is included as part of the UNESCO Cape Floral Region World Heritage Site. The park contains two well-known landmarks: Table Mountain, for which the park is named; and the Cape of Good Hope, the most southwestern extremity of Africa.",
       "bestTime": "Year-round",
       "bestLocations": [
-        "Nairobi National Park"
+        "Table Mountain National Park"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -197,8 +197,8 @@
     }
   ],
   "ecosystemData": {
-    "title": "Nature & Biodiversity of Kenya",
-    "overview": "Kenya hosts diverse ecosystems and natural habitats.",
+    "title": "Nature & Biodiversity of South Africa",
+    "overview": "South Africa hosts diverse ecosystems and natural habitats.",
     "conservationStatus": {
       "protectedAreas": "5 major protected areas",
       "nationalParks": 5
@@ -259,7 +259,7 @@
   },
   "activities": {
     "title": "Outdoor Activities & Tourism",
-    "description": "alpinism is a set of outdoor activities that involves ascending mountains. Mountaineering-related activities include traditional outdoor climbing, skiing",
+    "description": "adventurous challenges and outdoor activities such as hiking, climbing, canoeing, ropes courses and group games. Outdoor education draws upon the philosophy",
     "activityCategories": [
       {
         "name": "Nature & Wildlife",
@@ -273,9 +273,9 @@
             "duration": "2-8 hours",
             "description": "Explore trails in natural parks and reserves",
             "bestLocations": [
-              "List of national parks of Kenya",
-              "Mount Kenya National Park",
-              "Mount Kenya"
+              "South African National Parks",
+              "South Africa national soccer team",
+              "List of protected areas of South Africa"
             ],
             "requirements": "Sturdy footwear, water, weather-appropriate clothing",
             "safety": "Stay on marked trails, check weather conditions"

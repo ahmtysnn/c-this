@@ -114,48 +114,6 @@
     },
     {
       "id": 2,
-      "name": "Norway",
-      "category": "National Park",
-      "description": "Norway, officially the Kingdom of Norway, is a Nordic country located on the Scandinavian Peninsula in Northern Europe. The remote Arctic island of Jan",
-      "detailedDescription": "Norway, officially the Kingdom of Norway, is a Nordic country located on the Scandinavian Peninsula in Northern Europe. The remote Arctic island of Jan Mayen and the archipelago of Svalbard also form part of the Kingdom of Norway. Bouvet Island, located in the Subantarctic, is a dependency, and not a part of the Kingdom; Norway also claims the Antarctic territories of Peter I Island and Queen Maud Land. Norway has a population of 5.6 million. Its capital and largest city is Oslo. The country has a total area of 385,207 square kilometres . The country shares a long eastern border with Sweden, and is bordered by Finland and Russia to the northeast. Norway has an extensive coastline facing the Skagerrak strait, the North Atlantic Ocean, and the Barents Sea. In 2024, Norway was",
-      "bestTime": "Year-round",
-      "bestLocations": [
-        "Norway"
-      ],
-      "viewingTips": [
-        "Check opening hours and seasons",
-        "Follow park regulations and guidelines",
-        "Respect wildlife and natural features"
-      ],
-      "scientificData": {
-        "type": "national park",
-        "protection": "Protected natural area"
-      },
-      "icon": "Trees"
-    },
-    {
-      "id": 3,
-      "name": "Øvre Dividal National Park",
-      "category": "National Park",
-      "description": "Øvre Dividal National Park is a national park in Målselv Municipality",
-      "detailedDescription": "Øvre Dividal National Park is a national park in Målselv Municipality in Troms county, Norway. The park was opened in 1971 and has an area of 750 square kilometres . The original intention was to preserve a largely undisturbed inland valley and mountain area. The hiking trail Nordkalottruta passes through the national park.",
-      "bestTime": "Year-round",
-      "bestLocations": [
-        "Øvre Dividal National Park"
-      ],
-      "viewingTips": [
-        "Check opening hours and seasons",
-        "Follow park regulations and guidelines",
-        "Respect wildlife and natural features"
-      ],
-      "scientificData": {
-        "type": "national park",
-        "protection": "Protected natural area"
-      },
-      "icon": "Trees"
-    },
-    {
-      "id": 4,
       "name": "Jostedalsbreen National Park",
       "category": "National Park",
       "description": "Jostedalsbreen National Park is a national park in Norway that encompasses the largest glacier on the European",
@@ -176,14 +134,56 @@
       "icon": "Trees"
     },
     {
-      "id": 5,
-      "name": "Rondane National Park",
+      "id": 3,
+      "name": "Norway",
       "category": "National Park",
-      "description": "Rondane National Park is the oldest national park in Norway, established on 21 December 1962. The park is located in",
-      "detailedDescription": "Rondane National Park is the oldest national park in Norway, established on 21 December 1962. The park is located in Innlandet county, in the municipalities of Dovre, Folldal, Sel, Nord-Fron, Sør-Fron, Stor-Elvdal, and Ringebu. The park contains ten peaks above 2,000 metres , with the highest being Rondeslottet at an altitude of 2,178 m . The park is an important habitat for herds of wild reindeer. The park was enlarged in 2003, and now covers an area of 963 km2 . Rondane lies just to the east of the Gudbrandsdalen valley and two other mountain areas, Dovre and Jotunheimen are nearby. Dovre National Park lies a very short distance to the north of this park.",
+      "description": "Norway, officially the Kingdom of Norway, is a Nordic country located on the Scandinavian Peninsula in Northern Europe. The remote Arctic island of Jan",
+      "detailedDescription": "Norway, officially the Kingdom of Norway, is a Nordic country located on the Scandinavian Peninsula in Northern Europe. The remote Arctic island of Jan Mayen and the archipelago of Svalbard also form part of the Kingdom of Norway. Bouvet Island, located in the Subantarctic, is a dependency, and not a part of the Kingdom; Norway also claims the Antarctic territories of Peter I Island and Queen Maud Land. Norway has a population of 5.6 million. Its capital and largest city is Oslo. The country has a total area of 385,207 square kilometres . The country shares a long eastern border with Sweden, and is bordered by Finland and Russia to the northeast. Norway has an extensive coastline facing the Skagerrak strait, the North Atlantic Ocean, and the Barents Sea. In 2024, Norway was",
       "bestTime": "Year-round",
       "bestLocations": [
-        "Rondane National Park"
+        "Norway"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 4,
+      "name": "Øvre Dividal National Park",
+      "category": "National Park",
+      "description": "Øvre Dividal National Park is a national park in Målselv Municipality",
+      "detailedDescription": "Øvre Dividal National Park is a national park in Målselv Municipality in Troms county, Norway. The park was opened in 1971 and has an area of 750 square kilometres . The original intention was to preserve a largely undisturbed inland valley and mountain area. The hiking trail Nordkalottruta passes through the national park.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Øvre Dividal National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 5,
+      "name": "Anárjohka National Park",
+      "category": "National Park",
+      "description": "Anárjohka National Park is a national park that lies in Karasjok Municipality",
+      "detailedDescription": "Anárjohka National Park is a national park that lies in Karasjok Municipality and Kautokeino Municipality in Finnmark county, Norway. The park was opened in 1976 and is 1,409 square kilometres in area. It borders on Lemmenjoki National Park in Finland. A process to expand the national park by an additional 624.6 km2 was started in 2009, however it was cancelled in 2015 after local opposition. Anárjohka national park is located on the interior of the Finnmarksvidda plateau and it includes extensive birch woods, pine barrens, bogs, and lakes.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Anárjohka National Park"
       ],
       "viewingTips": [
         "Check opening hours and seasons",
@@ -275,8 +275,8 @@
             "description": "Explore trails in natural parks and reserves",
             "bestLocations": [
               "List of national parks of Norway",
-              "Norway",
-              "Øvre Dividal National Park"
+              "Jostedalsbreen National Park",
+              "Norway"
             ],
             "requirements": "Sturdy footwear, water, weather-appropriate clothing",
             "safety": "Stay on marked trails, check weather conditions"

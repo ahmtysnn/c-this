@@ -1,0 +1,307 @@
+{
+  "name": "New Zealand",
+  "description": "New Zealand is an island country in the southwestern Pacific Ocean. It consists of two main landmasses—the North Island and the South Island —and over 600 smaller islands. It is the sixth-largest island country by area and lies east of Australia across the Tasman Sea and south of the islands of New Caledonia, Fiji, and Tonga. The country's varied topography and sharp mountain peaks, including the Southern Alps , owe much to tectonic uplift and volcanic eruptions. New Zealand's capital city is Wellington, and its most populous city is Auckland.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Wellington.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}41°18′S 174°47′E / 41.300°S 174.783°E / -41.300; 174.783",
+      "icon": "MapPin",
+      "description": "Capital",
+      "detail": "Information about capital"
+    },
+    {
+      "label": "Largest City",
+      "value": "Auckland36°52′S 174°45′E / 36.867°S 174.750°E / -36.867; 174.750",
+      "icon": "MapPin",
+      "description": "Largest City",
+      "detail": "Information about largest city"
+    },
+    {
+      "label": "Currency",
+      "value": "New Zealand dollar",
+      "icon": "DollarSign",
+      "description": "Currency",
+      "detail": "Information about currency"
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "icon": "Shield",
+      "description": "Government",
+      "detail": "Information about government"
+    }
+  ],
+  "climateData": {
+    "title": "Climate & Weather",
+    "classification": "The climate of New Zealand is varied due to the country's diverse landscape. Most regions of New Zealand belong to the temperate zone with a maritime climate characterised by four distinct seasons. Winters are relatively mild and summers comparatively cool. The main contributing factors are the Pacific Ocean and latitude, although the mountain ranges can cause significant climate variations in locations barely tens of kilometres from each other. Conditions vary from extremely wet on the West Coast of the South Island to almost semi-arid in Central Otago and subtropical in Northland.",
+    "description": "Data collection for determining the New Zealand climate began in the late 19th century, although European explorers made valid observations of climate indicators such as glaciers and moraines early in that century. Scientific study of early New Zealand climate is quite recent and ongoing. It has settled some of the debate regarding links between the Little Ice Age in the Northern Hemisphere and the climate in New Zealand at the same time. The key facts to emerge are that New Zealand did experience a noticeable cooler climate, but at a slightly later date than in the Northern Hemisphere. The onset of cooler climate was about 1450 and lasted until 1850. Indications are that temperatures were in the range of 1.5-2.0 degree Celsius lower than present during the New Zealand LIA. Since 2000 various scientific investigations looked at the behaviour of glaciers in relation to climate and found they were excellent indicators of temperatures, especially in summer. Glacial evidence of",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March-May",
+        "description": "Moderate temperatures and increasing daylight",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June-August",
+        "description": "Warmest season with longest days",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September-November",
+        "description": "Cooling temperatures and changing foliage",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December-February",
+        "description": "Coldest season with potential snow",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "National parks of New Zealand",
+      "category": "National Park",
+      "description": "The national parks of New Zealand are protected natural areas administered by the Department of Conservation . The first national parks established",
+      "detailedDescription": "The national parks of New Zealand are protected natural areas administered by the Department of Conservation . The first national parks established in the country were all focused on mountain scenery. Since the 1980s the focus has been on developing a more diverse representation of New Zealand landscapes. The parks are all culturally significant and many also contain historic features. Tongariro National Park is one of the World Heritage Sites that are of both cultural and natural significance, while four of the South Island national parks form Te Wahipounamu, another World Heritage Site. There are currently 13 national parks; a 14th, Te Urewera National Park, was disestablished in 2014. The national parks are administered by the Department of Conservation \"for the benefit, use, and e",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "National parks of New Zealand"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "National Park, New Zealand",
+      "category": "National Park",
+      "description": "National Park, officially Waimarino and also known as National Park Village, is a small town on the North Island Central Plateau in New Zealand. Formerly",
+      "detailedDescription": "National Park, officially Waimarino and also known as National Park Village, is a small town on the North Island Central Plateau in New Zealand. Formerly known as National Park Village, it is the highest urban township in New Zealand, at 825 metres.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "National Park, New Zealand"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 3,
+      "name": "Tongariro National Park",
+      "category": "National Park",
+      "description": "Tongariro National Park , located in the central North Island, is the oldest national park in New Zealand and the sixth",
+      "detailedDescription": "Tongariro National Park , located in the central North Island, is the oldest national park in New Zealand and the sixth national park established in the world. It has been recognised by UNESCO as a World Heritage Site for its mixed cultural and natural values. The active volcanic mountains Ruapehu, Ngauruhoe, and Tongariro are located in the centre of the park. Three ski fields operate from the slopes of Mount Ruapehu, and the park is also a popular recreation area for hiking, fishing, hunting and other outdoor pursuits. Tongariro National Park is home to the famed Tongariro Alpine Crossing, widely regarded as one of the world's best one-day hikes. The natural environment of the park ranges from temperate rainforest to beech forest, tussock shrubland and alpine ecosys",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Tongariro National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 4,
+      "name": "Fiordland National Park",
+      "category": "National Park",
+      "description": "National Park is a national park in the south-west corner of South Island of New Zealand. It is the largest of the 13 national parks in New Zealand,",
+      "detailedDescription": "Fiordland National Park is a national park in the south-west corner of South Island of New Zealand. It is the largest of the 13 national parks in New Zealand, with an area covering 12,607 km2 , and a major part of the Te Wāhipounamu a UNESCO World Heritage Site established in 1990. The park is administered by the Department of Conservation . The southern ranges of the Southern Alps cover most of Fiordland National Park, combined with the deep glacier-carved valleys. The park is a significant refuge for many threatened native animals, ranging from dolphins and bats to reptiles, insects, and endangered species of birds endemic to New Zealand such as the takahē, mohua, kākāpō, and southern brown kiwi.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Fiordland National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 5,
+      "name": "Eden Park",
+      "category": "National Park",
+      "description": "Eden Park is a sports venue in Auckland, New Zealand. It is located three kilometres southwest of the Auckland CBD, on the boundary between the suburbs",
+      "detailedDescription": "Eden Park is a sports venue in Auckland, New Zealand. It is located three kilometres southwest of the Auckland CBD, on the boundary between the suburbs of Mount Eden and Kingsland. The main stadium has a nominal capacity of 50,000, and is sometimes referred to as New Zealand's national stadium. The stadium is used primarily for rugby union in winter and cricket in summer, and has also hosted rugby league and association football matches, as well as concerts and cultural events. It is owned and operated by the Eden Park Trust Board, whose headquarters are located in the stadium. Eden Park is considered international rugby union's most difficult ground for visiting sides. New Zealand's national rugby union team, the All Blacks, have been unbeaten at this venue in 52 consecutive test matches",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Eden Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Nature & Biodiversity of New Zealand",
+    "overview": "New Zealand hosts diverse ecosystems and natural habitats.",
+    "conservationStatus": {
+      "protectedAreas": "5 major protected areas",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "Plant life and vegetation",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Animal species and wildlife",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "icon": "Trees",
+        "description": "Natural habitats and ecological zones",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities & Tourism",
+    "description": "Outdoor recreation or outdoor activity refers to recreation done outside, most commonly in natural settings. The activities that encompass outdoor recreation",
+    "activityCategories": [
+      {
+        "name": "Nature & Wildlife",
+        "icon": "Trees",
+        "description": "Explore natural areas and observe wildlife",
+        "activities": [
+          {
+            "name": "Hiking & Walking",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring to Autumn",
+            "duration": "2-8 hours",
+            "description": "Explore trails in natural parks and reserves",
+            "bestLocations": [
+              "National parks of New Zealand",
+              "National Park, New Zealand",
+              "Tongariro National Park"
+            ],
+            "requirements": "Sturdy footwear, water, weather-appropriate clothing",
+            "safety": "Stay on marked trails, check weather conditions"
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light layers, sun protection, comfortable shoes",
+        "winter": "Warm layers, waterproof outerwear, insulated boots",
+        "yearRound": "Comfortable walking shoes, rain jacket, backpack"
+      },
+      "equipment": {
+        "basic": "Water bottle, snacks, map, first aid kit",
+        "hiking": "Daypack, hiking poles, navigation tools",
+        "photography": "Camera, extra batteries, lens cleaning kit"
+      },
+      "safety": [
+        "Check weather forecasts before departure",
+        "Inform someone of your plans",
+        "Carry adequate water and supplies",
+        "Respect wildlife and natural features",
+        "Follow local regulations and guidelines"
+      ]
+    }
+  }
+}

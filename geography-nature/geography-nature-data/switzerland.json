@@ -1,0 +1,307 @@
+{
+  "name": "Switzerland",
+  "description": "Switzerland, officially the Swiss Confederation, is a landlocked country located at the intersection of Central, Western, and Southern Europe. It is bordered by Germany to the north, France to the west, Austria and Liechtenstein to the east, and Italy to the south. Switzerland is geographically divided among the Swiss Alps, the Swiss Plateau, and the Jura mountains; the Alps cover most of the country's territory, whereas the majority of its 9 million people are concentrated on the plateau, which hosts many of the largest cities and economic centres, including Zurich, Geneva, Basel, Bern, Lausanne, Winterthur, and Lucerne.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Bern",
+      "icon": "MapPin",
+      "description": "Capital",
+      "detail": "Information about capital"
+    },
+    {
+      "label": "Largest City",
+      "value": "Zurich",
+      "icon": "MapPin",
+      "description": "Largest City",
+      "detail": "Information about largest city"
+    },
+    {
+      "label": "Currency",
+      "value": "Swiss franc",
+      "icon": "DollarSign",
+      "description": "Currency",
+      "detail": "Information about currency"
+    },
+    {
+      "label": "Government",
+      "value": "Federal assembly-independent directorial republic",
+      "icon": "Shield",
+      "description": "Government",
+      "detail": "Information about government"
+    }
+  ],
+  "climateData": {
+    "title": "Climate & Weather",
+    "classification": "The geography of Switzerland encompasses a wide range of climates, from subtropical to perennial snow climate. However, the lowlands are part of the temperate zone and typically experience neither extreme temperatures nor extreme weather conditions. In the Köppen climate classification, the Swiss Plateau and most low-elevation areas are at the transition between oceanic climate and continental climate . As a consequence, all four seasons are well marked and present distinct weather conditions. At the same time, the influence of the nearby seas tends to prevent extreme temperatures in summer and winter, with changeable, often overcast weather. The Alps, and in a minor way the Jura Mountains, have a considerable impact on the Swiss climate. They influence it both on a horizontal level, by compartmentalizing it into distinct areas, and on a vertical level, by stratificating it into distinct layers. As a result, four other Köppen climate types are also found in Switzerland: humid subtropical climate , subarctic climate , tundra climate and ice cap climate .",
+    "description": "The geography of Switzerland encompasses a wide range of climates, from subtropical to perennial snow climate. However, the lowlands are part of the temperate zone and typically experience neither extreme temperatures nor extreme weather conditions. In the Köppen climate classification, the Swiss Plateau and most low-elevation areas are at the transition between oceanic climate and continental climate . As a consequence, all four seasons are well marked and present distinct weather conditions. At the same time, the influence of the nearby seas tends to prevent extreme temperatures in summer and winter, with changeable, often overcast weather. The Alps, and in a minor way the Jura Mountains, have a considerable impact on the Swiss climate. They influence it both on a horizontal level, by compartmentalizing it into distinct areas, and on a vertical level, by stratificating it into distinct layers. As a re",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March-May",
+        "description": "Moderate temperatures and increasing daylight",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June-August",
+        "description": "Warmest season with longest days",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September-November",
+        "description": "Cooling temperatures and changing foliage",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December-February",
+        "description": "Coldest season with potential snow",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Swiss National Park",
+      "category": "National Park",
+      "description": "Swiss National Park",
+      "detailedDescription": "The Swiss National Park is located in the Western Rhaetian Alps, in eastern Switzerland. It lies within the canton of Graubünden, between Zernez, S-chanf, Scuol, and the Fuorn Pass in the Engadin valley on the border with Italy. Founded in 1914, the Swiss National Park is the oldest national park in the Alps and in Central Europe. It is part of the worldwide UNESCO Biosphere Reserve and has IUCN category Ia, which is the highest category, signifying a strict nature reserve. Today, the Swiss National Park has an area of 170.3 km2 and is the largest nature reserve in Switzerland.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Swiss National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Saxon Switzerland National Park",
+      "category": "National Park",
+      "description": "Saxon Switzerland National Park , is a national park in the German Free State of Saxony, near the Saxon capital",
+      "detailedDescription": "Saxon Switzerland National Park , is a national park in the German Free State of Saxony, near the Saxon capital Dresden. It covers two areas of 93.5 km2 in the heart of the German part of the Elbe Sandstone Mountains, which is often called Saxon Switzerland . The national park adjoins Bohemian Switzerland National Park in the Czech Republic.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Saxon Switzerland National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 3,
+      "name": "Bohemian Switzerland",
+      "category": "National Park",
+      "description": "the Elbe became a national park in 2000 and is adjacent to Saxon Switzerland National Park in Germany. Together with Saxon Switzerland, the region is known",
+      "detailedDescription": "Bohemian Switzerland , also known as Czech Switzerland, is a nature region in the Elbe Sandstone Mountains in the northwestern Czech Republic, protected as a national park. It has been a protected area since 1972. The region along the right side of the Elbe became a national park in 2000 and is adjacent to Saxon Switzerland National Park in Germany. Together with Saxon Switzerland, the region is known as Saxon-Bohemian Switzerland.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Bohemian Switzerland"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 4,
+      "name": "Nature parks in Switzerland",
+      "category": "National Park",
+      "description": "Switzerland has eighteen official natural parks classified in three categories (national parks, regional nature parks and",
+      "detailedDescription": "Switzerland has eighteen official natural parks classified in three categories .",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Nature parks in Switzerland"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 5,
+      "name": "National park",
+      "category": "National Park",
+      "description": "example: Swiss National Park, Switzerland: IUCN Ia – Strict Nature Reserve Everglades National Park, United States: IUCN Ib – Wilderness Area Koli National Park",
+      "detailedDescription": "A national park is a nature park designated for conservation purposes because of unparalleled national natural, historic, or cultural significance. It is an area of natural, semi-natural, or developed land that is protected and owned by a government. Although governments hold different standards for national park designation, the conservation of 'wild nature' for posterity and as a symbol of national pride is a common motivation for the continued protection of all national parks around the world. National parks are almost always accessible to the public. Usually national parks are developed, owned and managed by national governments, though in some countries with federal or devolved forms of government, \"national parks\" may be the responsibility of subnational, regional, or local authoriti",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "National park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Nature & Biodiversity of Switzerland",
+    "overview": "Switzerland has one of the best environmental records among developed nations. It is a signatory to the Kyoto Protocol; alongside Mexico and South Korea, it was a founding member of the Environmental Integrity Group .",
+    "conservationStatus": {
+      "protectedAreas": "5 major protected areas",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "Plant life and vegetation",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Animal species and wildlife",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "icon": "Trees",
+        "description": "Natural habitats and ecological zones",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities & Tourism",
+    "description": "provincial parks and conservation areas ideal for outdoor activities like camping, swimming, hiking, and paddling. Notable beaches in Ontario are Wasaga",
+    "activityCategories": [
+      {
+        "name": "Nature & Wildlife",
+        "icon": "Trees",
+        "description": "Explore natural areas and observe wildlife",
+        "activities": [
+          {
+            "name": "Hiking & Walking",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring to Autumn",
+            "duration": "2-8 hours",
+            "description": "Explore trails in natural parks and reserves",
+            "bestLocations": [
+              "Swiss National Park",
+              "Saxon Switzerland National Park",
+              "Bohemian Switzerland"
+            ],
+            "requirements": "Sturdy footwear, water, weather-appropriate clothing",
+            "safety": "Stay on marked trails, check weather conditions"
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light layers, sun protection, comfortable shoes",
+        "winter": "Warm layers, waterproof outerwear, insulated boots",
+        "yearRound": "Comfortable walking shoes, rain jacket, backpack"
+      },
+      "equipment": {
+        "basic": "Water bottle, snacks, map, first aid kit",
+        "hiking": "Daypack, hiking poles, navigation tools",
+        "photography": "Camera, extra batteries, lens cleaning kit"
+      },
+      "safety": [
+        "Check weather forecasts before departure",
+        "Inform someone of your plans",
+        "Carry adequate water and supplies",
+        "Respect wildlife and natural features",
+        "Follow local regulations and guidelines"
+      ]
+    }
+  }
+}

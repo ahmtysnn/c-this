@@ -1,0 +1,307 @@
+{
+  "name": "Brazil",
+  "region": "See regional official languages",
+  "description": "Brazil, officially the Federative Republic of Brazil, is the largest country in South America. It is also the world's fifth-largest country by area and the seventh-largest by population, with over 213 million people. The country is a federation composed of 26 states and a Federal District, which hosts the capital, Brasília. Its most populous city is São Paulo, followed by Rio de Janeiro. Brazil has the most Portuguese speakers in the world and is the only country in the Americas where Portuguese is an official language.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Brasília.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}15°47′S 47°52′W / 15.783°S 47.867°W / -15.783; -47.867",
+      "icon": "MapPin",
+      "description": "Capital",
+      "detail": "Information about capital"
+    },
+    {
+      "label": "Largest City",
+      "value": "São Paulo23°33′S 46°38′W / 23.550°S 46.633°W / -23.550; -46.633",
+      "icon": "MapPin",
+      "description": "Largest City",
+      "detail": "Information about largest city"
+    },
+    {
+      "label": "Currency",
+      "value": "Real",
+      "icon": "DollarSign",
+      "description": "Currency",
+      "detail": "Information about currency"
+    },
+    {
+      "label": "Government",
+      "value": "Federal presidential republic",
+      "icon": "Shield",
+      "description": "Government",
+      "detail": "Information about government"
+    }
+  ],
+  "climateData": {
+    "title": "Climate & Weather",
+    "description": "Climate information for Brazil.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March-May",
+        "description": "Moderate temperatures and increasing daylight",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June-August",
+        "description": "Warmest season with longest days",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September-November",
+        "description": "Cooling temperatures and changing foliage",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December-February",
+        "description": "Coldest season with potential snow",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "National park",
+      "category": "National Park",
+      "description": "National Parks are a legally defined type of protected area of Brazil. The first parks were created in the 1930s with other",
+      "detailedDescription": "National Parks are a legally defined type of protected area of Brazil. The first parks were created in the 1930s with other parks being gradually added, typically protecting a natural monument such as a waterfall or gorge near to a coastal population centre. At least two early parks were later submerged by hydroelectric reservoirs. The first park in the Amazon rainforest was inaugurated in 1974. Today the national parks cover a huge area, particularly in the Amazon. However, many of them suffer from outstanding claims for compensation from former owners or users of the land, and many lack the management plans, physical infrastructure and personnel needed to support public visits. The responsible government agency does not have the capacity to provide servic",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "National park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Lençóis Maranhenses National Park",
+      "category": "National Park",
+      "description": "Lençóis Maranhenses National Park is a national park in Maranhão state in northeastern Brazil, just east of the",
+      "detailedDescription": "Lençóis Maranhenses National Park is a national park in Maranhão state in northeastern Brazil, just east of the Baía de São José. Protected on June 2, 1981, the 155,000 ha park includes 70 km of coastline, and an interior composed of rolling sand dunes. During the rainy season, the valleys among the dunes fill with freshwater lagoons, prevented from draining by the impermeable rock beneath. The park is home to a range of species, including four listed as endangered, and has become a popular destination for ecotourists. In July 2024 the site was declared a UNESCO World Heritage Site for its exceptional beauty and the fact that it is a unique natural aspect in the world.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Lençóis Maranhenses National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 3,
+      "name": "Iguaçu National Park",
+      "category": "National Park",
+      "description": "water and the Argentine and Brazilian sides together comprise around 260,000 hectares . Iguaçu National Park was created by federal decree",
+      "detailedDescription": "Iguaçu National Park is a national park in Paraná State, Brazil. It comprises a total area of 185,262.5 hectares and a length of about 420 kilometers , 300 kilometers of which are natural borders by bodies of water and the Argentine and Brazilian sides together comprise around 260,000 hectares . Iguaçu National Park was created by federal decree nr. 1035 of 10 January 1939 and became a UNESCO World Heritage Site in 1986. The park is managed by Chico Mendes Institute for Biodiversity Conservation . The park shares a border with Iguazú National Park in Argentina. It also has one of the world's largest waterfalls, extending over some 2,700 m",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Iguaçu National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 4,
+      "name": "Pau Brasil National Park",
+      "category": "National Park",
+      "description": "Pau Brasil National Park is a national park in the state of Bahia, Brazil. It preserves a remnant of the Atlantic",
+      "detailedDescription": "Pau Brasil National Park is a national park in the state of Bahia, Brazil. It preserves a remnant of the Atlantic Forest biome.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Pau Brasil National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 5,
+      "name": "Jaú National Park",
+      "category": "National Park",
+      "description": "The Jaú National Park is a national park located in the state of Amazonas, Brazil. It is one of the largest forest",
+      "detailedDescription": "The Jaú National Park is a national park located in the state of Amazonas, Brazil. It is one of the largest forest reserves in South America, and part of a World Heritage Site.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Jaú National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Nature & Biodiversity of Brazil",
+    "overview": "Brazil hosts diverse ecosystems and natural habitats.",
+    "conservationStatus": {
+      "protectedAreas": "5 major protected areas",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "Plant life and vegetation",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Animal species and wildlife",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "icon": "Trees",
+        "description": "Natural habitats and ecological zones",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities & Tourism",
+    "description": "Tourism is travel for pleasure, and the commercial activity of providing and supporting such travel. UN Tourism defines tourism more generally, in terms",
+    "activityCategories": [
+      {
+        "name": "Nature & Wildlife",
+        "icon": "Trees",
+        "description": "Explore natural areas and observe wildlife",
+        "activities": [
+          {
+            "name": "Hiking & Walking",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring to Autumn",
+            "duration": "2-8 hours",
+            "description": "Explore trails in natural parks and reserves",
+            "bestLocations": [
+              "National park",
+              "Lençóis Maranhenses National Park",
+              "Iguaçu National Park"
+            ],
+            "requirements": "Sturdy footwear, water, weather-appropriate clothing",
+            "safety": "Stay on marked trails, check weather conditions"
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light layers, sun protection, comfortable shoes",
+        "winter": "Warm layers, waterproof outerwear, insulated boots",
+        "yearRound": "Comfortable walking shoes, rain jacket, backpack"
+      },
+      "equipment": {
+        "basic": "Water bottle, snacks, map, first aid kit",
+        "hiking": "Daypack, hiking poles, navigation tools",
+        "photography": "Camera, extra batteries, lens cleaning kit"
+      },
+      "safety": [
+        "Check weather forecasts before departure",
+        "Inform someone of your plans",
+        "Carry adequate water and supplies",
+        "Respect wildlife and natural features",
+        "Follow local regulations and guidelines"
+      ]
+    }
+  }
+}

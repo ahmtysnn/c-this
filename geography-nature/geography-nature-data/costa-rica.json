@@ -1,0 +1,307 @@
+{
+  "name": "Costa Rica",
+  "region": ".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:\": \"}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:\" · \";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:\" \";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:\" \"counter\"\\a0 \"}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:\" \"\\a0 \"}MekatelyuBribriPatois",
+  "description": "Costa Rica, officially the Republic of Costa Rica, is a country in Central America. It borders Nicaragua to the north, the Caribbean Sea to the northeast, Panama to the southeast, and the Pacific Ocean to the southwest, sharing a maritime border with Ecuador to the south of Cocos Island. It has a population of around five million in a land area of nearly 51,180 km2 ; the capital and largest city is San José, home to around 350,000 residents and two million people in the surrounding metropolitan area.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "San José.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}9°56′N 84°5′W / 9.933°N 84.083°W / 9.933; -84.083",
+      "icon": "MapPin",
+      "description": "Capital",
+      "detail": "Information about capital"
+    },
+    {
+      "label": "Largest City",
+      "value": "San José.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}9°56′N 84°5′W / 9.933°N 84.083°W / 9.933; -84.083",
+      "icon": "MapPin",
+      "description": "Largest City",
+      "detail": "Information about largest city"
+    },
+    {
+      "label": "Currency",
+      "value": "Costa Rican colón",
+      "icon": "DollarSign",
+      "description": "Currency",
+      "detail": "Information about currency"
+    },
+    {
+      "label": "Government",
+      "value": "Unitary presidential republic",
+      "icon": "Shield",
+      "description": "Government",
+      "detail": "Information about government"
+    }
+  ],
+  "climateData": {
+    "title": "Climate & Weather",
+    "description": "The climate is tropical. Hot season ; rainy season ; cooler in highlands. Because Costa Rica is located between 8 and 12 degrees north of the Equator, the climate is tropical year round. However, the country has many microclimates depending on elevation, rainfall, topography, and by the geography of each particular region. Costa Rica is highly vulnerable to extreme weather events, which can be exacerbated by climate change. The majority of Costa Rica's population and economic activity are concentrated in regions highly vulnerable to various natural hazards, such as floods, landslides, cyclones, storm surges, and rising sea levels. Sea levels are rising along both of Costa Rica's coasts, increasing the vulnerability of low-lying areas to storm surges and erosion with consequences for fisheries, port infrastructure and tourism. The country is facing increasing temperatures , and changing r",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March-May",
+        "description": "Moderate temperatures and increasing daylight",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June-August",
+        "description": "Warmest season with longest days",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September-November",
+        "description": "Cooling temperatures and changing foliage",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December-February",
+        "description": "Coldest season with potential snow",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "List of national parks of Costa Rica",
+      "category": "National Park",
+      "description": "thirty National Parks of Costa Rica are managed under the umbrella of SINAC , a department of Costa Rica&#039;s Ministry",
+      "detailedDescription": "In 2023 thirty National Parks of Costa Rica are managed under the umbrella of SINAC , a department of Costa Rica's Ministry of Environment and Energy . All told, Costa Rica's protected areas, including national parks, encompass more than 25% of the country's total land area. Many of these protected areas are national parks. Costa Rica's progressive policies on environmental protection and sustainable ecotourism in the National Parks System have been lauded as a model for other countries. The rainforests, tropical forests, marine areas and wetlands of Costa Rica are the subject of many university and scientific organization studies. The enrichment of the world's knowledge of these important habitats is an invaluable contribution from the Nat",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "List of national parks of Costa Rica"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Ecotourism in Costa Rica",
+      "category": "National Park",
+      "description": "draws many tourists to visit the extensive national parks and protected areas around the country. Costa Rica was a pioneer in this type of tourism, and",
+      "detailedDescription": "Ecotourism is a key component of the tourism industry in Costa Rica. By the early 1990s, Costa Rica became known as the poster child of ecotourism. The country is among many developing nations that look to ecotourism as a way of cashing in on the growing demand for this popular trend of travel. Ecotourism draws many tourists to visit the extensive national parks and protected areas around the country. Costa Rica was a pioneer in this type of tourism, and the country is recognized as one of the few with true ecotourism. While Costa Rica has gained immense popularity for its development of a successful, yet environmentally friendly, ecotourism industry, environmentalists and economists alike debate whether an economy centered on tourism produces more good than harm.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Ecotourism in Costa Rica"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 3,
+      "name": "Costa Rica National Stadium",
+      "category": "National Park",
+      "description": "The Costa Rica National Stadium is a multi-purpose stadium in",
+      "detailedDescription": "The Costa Rica National Stadium is a multi-purpose stadium in La Sabana Metropolitan Park, San José, Costa Rica. It was the first modern sporting and events arena to be built in Central America. The stadium was completed in early 2011 and officially opened its doors to the public on March 26 of that year, with a capacity of 42.000 seats. The stadium replaced the original National Stadium , and is the home stadium of the Costa Rican national football team. It has one high-definition, 160-square-metre video screen located in the southern section of the stadium, along with a smaller, monochromatic screen. A second monochromatic screen is in the",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Costa Rica National Stadium"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 4,
+      "name": "Tourism in Costa Rica",
+      "category": "National Park",
+      "description": "1980s, Costa Rica became a popular nature travel destination, and its main competitive advantage is its well-established system of national parks and protected",
+      "detailedDescription": "Tourism in Costa Rica has been one of the fastest growing economic sectors of the country and by 1995 became the largest foreign exchange earner. Since 1999, tourism has earned more foreign exchange than bananas, pineapples and coffee exports combined. The tourism boom began in 1987, with the number of visitors up from 329,000 in 1988, through 1.03 million in 1999, over 2 million in 2008, to a historical record of 2.66 million foreign visitors in 2015. In 2012, tourism contributed with 12.5% of the country's GDP and it was responsible for 11.7% of direct and indirect employment. In 2009, tourism attracted 17% of foreign direct investment inflows, and 13% in average between 2000 and 2009. In 2010, the tourism industry was responsible for 21.2% of foreign exchange generated by all exports. A",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Tourism in Costa Rica"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 5,
+      "name": "Tortuguero National Park",
+      "category": "National Park",
+      "description": "Tortuguero National Park is a national park in the Limón Province of Costa Rica. It is situated within the Tortuguero Conservation Area of the northeastern",
+      "detailedDescription": "Tortuguero National Park is a national park in the Limón Province of Costa Rica. It is situated within the Tortuguero Conservation Area of the northeastern part of the country. Despite its remote location, reachable only by airplane or boat, it is the third-most visited park in Costa Rica. The park has a large variety of biological diversity due to the existence within the reserve of eleven different habitats, including rainforest, mangrove forests, swamps, beaches, and lagoons. Located in a tropical climate, it is very humid, and receives up to 250 inches of rain a year. The park, a protected area within the northeastern Caribbean wetlands, was recognized under Ramsar Convention on 3 March 1991 for its rich biological diversity and ecosystems that support threatened flora and",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Tortuguero National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Nature & Biodiversity of Costa Rica",
+    "overview": "In 2021, Costa Rica, alongside Denmark, launched the \"Beyond Oil and Gas Alliance\" to stop the use of fossil fuels. The BOGA campaign was presented in the COP26 Climate Summit, where Sweden joined as a core member, while New Zealand and Portugal joined as associate members.",
+    "conservationStatus": {
+      "protectedAreas": "5 major protected areas",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "Plant life and vegetation",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Animal species and wildlife",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "icon": "Trees",
+        "description": "Natural habitats and ecological zones",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities & Tourism",
+    "description": "provincial parks and conservation areas ideal for outdoor activities like camping, swimming, hiking, and paddling. Notable beaches in Ontario are Wasaga",
+    "activityCategories": [
+      {
+        "name": "Nature & Wildlife",
+        "icon": "Trees",
+        "description": "Explore natural areas and observe wildlife",
+        "activities": [
+          {
+            "name": "Hiking & Walking",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring to Autumn",
+            "duration": "2-8 hours",
+            "description": "Explore trails in natural parks and reserves",
+            "bestLocations": [
+              "List of national parks of Costa Rica",
+              "Ecotourism in Costa Rica",
+              "Costa Rica National Stadium"
+            ],
+            "requirements": "Sturdy footwear, water, weather-appropriate clothing",
+            "safety": "Stay on marked trails, check weather conditions"
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light layers, sun protection, comfortable shoes",
+        "winter": "Warm layers, waterproof outerwear, insulated boots",
+        "yearRound": "Comfortable walking shoes, rain jacket, backpack"
+      },
+      "equipment": {
+        "basic": "Water bottle, snacks, map, first aid kit",
+        "hiking": "Daypack, hiking poles, navigation tools",
+        "photography": "Camera, extra batteries, lens cleaning kit"
+      },
+      "safety": [
+        "Check weather forecasts before departure",
+        "Inform someone of your plans",
+        "Carry adequate water and supplies",
+        "Respect wildlife and natural features",
+        "Follow local regulations and guidelines"
+      ]
+    }
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "name": "Austria",
+  "region": ".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:\": \"}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:\" · \";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:\" \";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:\" \"counter\"\\a0 \"}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:\" \"\\a0 \"}HungarianSloveneBurgenland Croatian",
+  "description": "Austria, formally the Republic of Austria, is a landlocked country in Central Europe, lying in the Eastern Alps. It is a federation of nine states, of which the capital Vienna is the most populous city and state. Austria is bordered by Germany to the northwest, the Czech Republic to the north, Slovakia to the northeast, Hungary to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The country occupies an area of 83,879 km2 and has a population of around 9 million.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Vienna.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}48°12′N 16°21′E / 48.200°N 16.350°E / 48.200; 16.350",
+      "icon": "MapPin",
+      "description": "Capital",
+      "detail": "Information about capital"
+    },
+    {
+      "label": "Largest City",
+      "value": "Vienna.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}48°12′N 16°21′E / 48.200°N 16.350°E / 48.200; 16.350",
+      "icon": "MapPin",
+      "description": "Largest City",
+      "detail": "Information about largest city"
+    },
+    {
+      "label": "Currency",
+      "value": "Euro",
+      "icon": "DollarSign",
+      "description": "Currency",
+      "detail": "Information about currency"
+    },
+    {
+      "label": "Government",
+      "value": "Federal semi-presidential republic",
+      "icon": "Shield",
+      "description": "Government",
+      "detail": "Information about government"
+    }
+  ],
+  "climateData": {
+    "title": "Climate & Weather",
+    "description": "The Alps serve as a watershed for Europe's three major kinds of weather systems that influence Austrian weather. The Atlantic maritime climate from the northwest is characterized by low-pressure fronts, mild air from the Gulf Stream, and precipitation. It has the greatest influence on the northern slopes of the Alps, the Northern Alpine Foreland, and the Danube valley. The continental climate is characterized by low pressure fronts with precipitation in summer and high pressure systems with cold and dry air in winter. It affects mainly eastern Austria. Mediterranean high-pressure systems from the south are characterized by few clouds and warm air, and they influence the weather of the southern slopes of the Alps and that of the Southeastern Alpine Foreland, making them the most temperate part of Austria.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March-May",
+        "description": "Moderate temperatures and increasing daylight",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June-August",
+        "description": "Warmest season with longest days",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September-November",
+        "description": "Cooling temperatures and changing foliage",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December-February",
+        "description": "Coldest season with potential snow",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "National parks of Austria",
+      "category": "National Park",
+      "description": "Austria has six national parks, all of them internationally accepted according to the IUCN standard. The first national park, Hohe Tauern, was established",
+      "detailedDescription": "Austria has six national parks, all of them internationally accepted according to the IUCN standard. The first national park, Hohe Tauern, was established in 1981. They include each of Austria's most important natural landscape types — alluvial forest, Alpine massif, Pannonian steppe and rocky valleys.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "National parks of Austria"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Nationalpark Kalkalpen",
+      "category": "National Park",
+      "description": "located in the state of Upper Austria, Austria. The park was established in 1997. The ancient beech forests within the national park were added to the UNESCO",
+      "detailedDescription": "Kalkalpen National Park is a national park within the Northern Limestone Alps mountain range, located in the state of Upper Austria, Austria. The park was established in 1997. The ancient beech forests within the national park were added to the UNESCO World Heritage Site known as Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe, because of their undisturbed nature and testimony to the ecological history of Europe since the Last Glacial Period.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Nationalpark Kalkalpen"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 3,
+      "name": "Austria",
+      "category": "National Park",
+      "description": "Austria, formally the Republic of Austria, is a landlocked country in Central Europe, lying in the Eastern Alps. It is a federation of nine states, of",
+      "detailedDescription": "Austria, formally the Republic of Austria, is a landlocked country in Central Europe, lying in the Eastern Alps. It is a federation of nine states, of which the capital Vienna is the most populous city and state. Austria is bordered by Germany to the northwest, the Czech Republic to the north, Slovakia to the northeast, Hungary to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The country occupies an area of 83,879 km2 and has a population of around 9 million. The area of today's Austria has been inhabited since at least the Paleolithic period. Around 400 BC, it was inhabited by the Celts and then annexed by the Romans in the late 1st century BC. Christianization in the region began in the 4th and 5th centuries, during the late Roma",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Austria"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 4,
+      "name": "Danube-Auen National Park",
+      "category": "National Park",
+      "description": "Donau-Auen National Park covers 93 square kilometres in Vienna and Lower Austria and is one of the largest remaining",
+      "detailedDescription": "Donau-Auen National Park covers 93 square kilometres in Vienna and Lower Austria and is one of the largest remaining floodplains of the Danube in Middle Europe. The German word Aue means \"river island, wetland, floodplain, riparian woodland\", i.e. a cultivated landscape in a riparian zone. The words Aue and Au occur in a large number of German place names—including Donau, the German word for the Danube River—and refer to forests, meadows, and wetlands in river and stream lowlands and floodplains. The Danube-Auen National Park protects a large area of lowland forests, meadows, wetlands, and other riparian habitat along the Danube just downstream of Vienna. The Park was designated an IUCN category II national park and spans the areas of Vienna",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Danube-Auen National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 5,
+      "name": "National Park Neusiedler See-Seewinkel",
+      "category": "National Park",
+      "description": "Neusiedler See-Seewinkel National Park is a national park in eastern Austria. The park extends over an area",
+      "detailedDescription": "Neusiedler See-Seewinkel National Park is a national park in eastern Austria. The park extends over an area of 97 square kilometres of the province of Burgenland and protects parts of the westernmost lake of the Eurasian Steppe.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "National Park Neusiedler See-Seewinkel"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Nature & Biodiversity of Austria",
+    "overview": "Austria hosts diverse ecosystems and natural habitats.",
+    "conservationStatus": {
+      "protectedAreas": "5 major protected areas",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "Plant life and vegetation",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Animal species and wildlife",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "icon": "Trees",
+        "description": "Natural habitats and ecological zones",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities & Tourism",
+    "description": "provincial parks and conservation areas ideal for outdoor activities like camping, swimming, hiking, and paddling. Notable beaches in Ontario are Wasaga",
+    "activityCategories": [
+      {
+        "name": "Nature & Wildlife",
+        "icon": "Trees",
+        "description": "Explore natural areas and observe wildlife",
+        "activities": [
+          {
+            "name": "Hiking & Walking",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring to Autumn",
+            "duration": "2-8 hours",
+            "description": "Explore trails in natural parks and reserves",
+            "bestLocations": [
+              "National parks of Austria",
+              "Nationalpark Kalkalpen",
+              "Austria"
+            ],
+            "requirements": "Sturdy footwear, water, weather-appropriate clothing",
+            "safety": "Stay on marked trails, check weather conditions"
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light layers, sun protection, comfortable shoes",
+        "winter": "Warm layers, waterproof outerwear, insulated boots",
+        "yearRound": "Comfortable walking shoes, rain jacket, backpack"
+      },
+      "equipment": {
+        "basic": "Water bottle, snacks, map, first aid kit",
+        "hiking": "Daypack, hiking poles, navigation tools",
+        "photography": "Camera, extra batteries, lens cleaning kit"
+      },
+      "safety": [
+        "Check weather forecasts before departure",
+        "Inform someone of your plans",
+        "Carry adequate water and supplies",
+        "Respect wildlife and natural features",
+        "Follow local regulations and guidelines"
+      ]
+    }
+  }
+}

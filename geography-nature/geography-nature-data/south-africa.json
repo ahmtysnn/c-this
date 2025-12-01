@@ -1,0 +1,306 @@
+{
+  "name": "South Africa",
+  "description": "South Africa, officially the Republic of South Africa , is the southernmost country in Africa. Its nine provinces are bounded to the south by 2,798 kilometres of coastline that stretches along the South Atlantic and Indian Ocean; to the north by the neighbouring countries of Namibia, Botswana, and Zimbabwe; to the east and northeast by Mozambique and Eswatini; and it encloses Lesotho.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Pretoria Cape Town Bloemfontein",
+      "icon": "MapPin",
+      "description": "Capital",
+      "detail": "Information about capital"
+    },
+    {
+      "label": "Largest City",
+      "value": "Johannesburg",
+      "icon": "MapPin",
+      "description": "Largest City",
+      "detail": "Information about largest city"
+    },
+    {
+      "label": "Currency",
+      "value": "South African rand",
+      "icon": "DollarSign",
+      "description": "Currency",
+      "detail": "Information about currency"
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary republic with an executive presidency",
+      "icon": "Shield",
+      "description": "Government",
+      "detail": "Information about government"
+    }
+  ],
+  "climateData": {
+    "title": "Climate & Weather",
+    "description": "Climate information for South Africa.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March-May",
+        "description": "Moderate temperatures and increasing daylight",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June-August",
+        "description": "Warmest season with longest days",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September-November",
+        "description": "Cooling temperatures and changing foliage",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December-February",
+        "description": "Coldest season with potential snow",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "South African National Parks",
+      "category": "National Park",
+      "description": "South African National Parks is the body responsible for managing South Africa&#039;s national parks. SANParks was formed in 1926, and currently",
+      "detailedDescription": "South African National Parks is the body responsible for managing South Africa's national parks. SANParks was formed in 1926, and currently manages 19 parks consisting of 3,751,113 hectares , over 3% of the total area of South Africa. Many parks offer a variety of accommodations. The best known park is Kruger National Park, which is also the oldest , and the largest, at nearly 2,000,000 hectares . Kruger National Park and Table Mountain National Park are two of South Africa's most visited tourist attractions. Though not designated as National Parks, other protected areas exist, such as game and nature reserves.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "South African National Parks"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "South Africa national soccer team",
+      "category": "National Park",
+      "description": "The South Africa national football team represents South Africa in men&#039;s international football and is run by the South African Football Association,",
+      "detailedDescription": "The South Africa national football team represents South Africa in men's international football and is run by the South African Football Association, the governing body for football in South Africa. Nicknamed Bafana Bafana , the team plays at various stadiums around the country. The team is a member of both FIFA and the Confederation of African Football , is one of the most well-supported national sides in Africa, and are recognised by their traditional yellow-green kits. Having played their first match in 1906, South Africa returned to the world stage in 1992, after sixteen years of being banned from FIFA, and forty years of effective suspension due to the apartheid system. South Africa have qualified for the FIFA World Cup three times: 1998, 2002 and 2026, in addit",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "South Africa national soccer team"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 3,
+      "name": "Kruger National Park",
+      "category": "National Park",
+      "description": "Kruger National Park is a national park in South Africa covering an area of 19,623 km2 in the provinces of Limpopo",
+      "detailedDescription": "Kruger National Park is a national park in South Africa covering an area of 19,623 km2 in the provinces of Limpopo and Mpumalanga in the country's northeast. It extends 360 km from north to south and 65 km from east to west. The administrative headquarters are in Skukuza. Areas of the park were first protected by the government of the South African Republic in 1898, and it became South Africa's first national park in 1926. It is part of Kruger to Canyons Biosphere, an area designated as a biosphere reserve.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Kruger National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 4,
+      "name": "List of protected areas of South Africa",
+      "category": "National Park",
+      "description": "The protected areas of South Africa include national parks and marine protected areas managed by the national government, public nature reserves managed",
+      "detailedDescription": "The protected areas of South Africa include national parks and marine protected areas managed by the national government, public nature reserves managed by provincial and local governments, and private nature reserves managed by private landowners. Most protected areas are intended for the conservation of flora and fauna. National parks are maintained by South African National Parks . A number of national parks have been incorporated in transfrontier conservation areas. Protected areas may also be protected for their value and importance as historical, cultural heritage or scientific sites. More information on these can be found in the list of heritage sites in South Africa.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "List of protected areas of South Africa"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 5,
+      "name": "African Parks",
+      "category": "National Park",
+      "description": "established in 2000 and headquartered in Johannesburg, South Africa. It was founded as the African Parks Management and Finance Company, a private company",
+      "detailedDescription": "African Parks is a non-governmental organization focused on biodiversity conservation through protected area management, established in 2000 and headquartered in Johannesburg, South Africa. It was founded as the African Parks Management and Finance Company, a private company, then underwent structural changes to become an NGO called African Parks Foundation, and later renamed African Parks Network. The organization manages national parks and protected areas throughout Africa, in collaboration with governments and surrounding communities. African Parks manages 24 protected areas in 13 countries as of October 2025, and employs more than 5000 staff.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "African Parks"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Nature & Biodiversity of South Africa",
+    "overview": "South Africa hosts diverse ecosystems and natural habitats.",
+    "conservationStatus": {
+      "protectedAreas": "5 major protected areas",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "Plant life and vegetation",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Animal species and wildlife",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "icon": "Trees",
+        "description": "Natural habitats and ecological zones",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities & Tourism",
+    "description": "adventurous challenges and outdoor activities such as hiking, climbing, canoeing, ropes courses and group games. Outdoor education draws upon the philosophy",
+    "activityCategories": [
+      {
+        "name": "Nature & Wildlife",
+        "icon": "Trees",
+        "description": "Explore natural areas and observe wildlife",
+        "activities": [
+          {
+            "name": "Hiking & Walking",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring to Autumn",
+            "duration": "2-8 hours",
+            "description": "Explore trails in natural parks and reserves",
+            "bestLocations": [
+              "South African National Parks",
+              "South Africa national soccer team",
+              "Kruger National Park"
+            ],
+            "requirements": "Sturdy footwear, water, weather-appropriate clothing",
+            "safety": "Stay on marked trails, check weather conditions"
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light layers, sun protection, comfortable shoes",
+        "winter": "Warm layers, waterproof outerwear, insulated boots",
+        "yearRound": "Comfortable walking shoes, rain jacket, backpack"
+      },
+      "equipment": {
+        "basic": "Water bottle, snacks, map, first aid kit",
+        "hiking": "Daypack, hiking poles, navigation tools",
+        "photography": "Camera, extra batteries, lens cleaning kit"
+      },
+      "safety": [
+        "Check weather forecasts before departure",
+        "Inform someone of your plans",
+        "Carry adequate water and supplies",
+        "Respect wildlife and natural features",
+        "Follow local regulations and guidelines"
+      ]
+    }
+  }
+}

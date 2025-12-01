@@ -1,0 +1,328 @@
+{
+  "name": "Japan",
+  "region": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0} Ainu Ryukyuan languages Hachijō",
+  "description": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of over 123 million as of 2025, it is the world's 11th most populous country. Tokyo is the country's capital and largest city.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Tokyo.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}35°41′N 139°46′E / 35.683°N 139.767°E / 35.683; 139.767",
+      "icon": "MapPin",
+      "description": "Capital",
+      "detail": "Information about capital"
+    },
+    {
+      "label": "Largest City",
+      "value": "Tokyo.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}35°41′N 139°46′E / 35.683°N 139.767°E / 35.683; 139.767",
+      "icon": "MapPin",
+      "description": "Largest City",
+      "detail": "Information about largest city"
+    },
+    {
+      "label": "Currency",
+      "value": "Japanese yen",
+      "icon": "DollarSign",
+      "description": "Currency",
+      "detail": "Information about currency"
+    },
+    {
+      "label": "Government",
+      "value": "Unitary parliamentary constitutional monarchy",
+      "icon": "Shield",
+      "description": "Government",
+      "detail": "Information about government"
+    }
+  ],
+  "climateData": {
+    "title": "Climate & Weather",
+    "classification": "Climate data for Tokyo",
+    "description": "Climate information for Japan.",
+    "climateStatistics": {
+      "temperature": {
+        "January": "29.7",
+        "February": "29.1",
+        "March": "30.4",
+        "April": "33.7",
+        "May": "39.5",
+        "June": "40.2",
+        "July": "41.2",
+        "August": "41.8",
+        "September": "40.4",
+        "October": "36.0",
+        "November": "34.2",
+        "December": "31.6",
+        "Winter": "31.6",
+        "Spring": "39.5",
+        "Summer": "41.8",
+        "Autumn": "40.4"
+      }
+    },
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March-May",
+        "description": "Moderate temperatures and increasing daylight",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June-August",
+        "description": "Warmest season with longest days",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September-November",
+        "description": "Cooling temperatures and changing foliage",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December-February",
+        "description": "Coldest season with potential snow",
+        "keyFeatures": [
+          "Seasonal weather patterns",
+          "Typical conditions"
+        ],
+        "activities": [
+          "Outdoor exploration",
+          "Seasonal activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "List of national parks of Japan",
+      "category": "National Park",
+      "description": "National parks and quasi-national parks of Japan are places of scenic beauty that are designated for protection",
+      "detailedDescription": "National parks and quasi-national parks of Japan are places of scenic beauty that are designated for protection and sustainable use by the Minister of the Environment under the Natural Parks Law of 1957. National parks are designated and in principle managed by the Ministry of the Environment. Quasi-national parks, of a slightly lesser beauty, size, diversity, or state of preservation, are recommended for ministerial designation and managed by the prefectures under the supervision of the ministry.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "List of national parks of Japan"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Japan national football team",
+      "category": "National Park",
+      "description": "The Japan national football team , also known by the nickname Samurai Blue (Japanese:",
+      "detailedDescription": "The Japan national football team , also known by the nickname Samurai Blue , represents Japan in men's international football. It is controlled by the Japan Football Association , the governing body for football in Japan. Prior to the late 1980s, Japan's national football team was largely amateur, with the sport less popular domestically than baseball or sumo. Since the early 1990s, following the full professionalization of the sport, Japan has emerged as one of Asia's leading teams. The national team has qualified for every FIFA World Cup since 1998 , advancing to the kn",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Japan national football team"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 3,
+      "name": "Nara Park",
+      "category": "National Park",
+      "description": "Nara Park is a public park located in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880",
+      "detailedDescription": "Nara Park is a public park located in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880, it is one of the oldest parks in Japan. Administratively, the park is under the control of Nara Prefecture. The park is one of the \"Places of Scenic Beauty\" designated by the Ministry of Education, Culture, Sports, Science and Technology . Over 1,200 wild sika deer freely roaming around in the park are also under designation of MEXT, classified as natural treasure. While the official size of the park is about 502 hectares , the area including the grounds of Tōdai-ji, Kōfuku-ji, Kasuga Grand Shrine and Nara National Museum, which are either on the edge or surrounded by Nara Park, is as large as 660 hectares",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Nara Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 4,
+      "name": "Chūbu-Sangaku National Park",
+      "category": "National Park",
+      "description": "Chūbu-Sangaku National Park is a national park in the Chūbu region of Japan. It was established around the Hida",
+      "detailedDescription": "Chūbu-Sangaku National Park is a national park in the Chūbu region of Japan. It was established around the Hida Mountains and encompasses parts of Nagano, Gifu, Toyama and Niigata prefectures. It was designated a national park on December 4, 1934, along with Daisetsuzan National Park, Akan National Park, Nikkō National Park, and Aso Kujū National Park.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Chūbu-Sangaku National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 5,
+      "name": "Setonaikai National Park",
+      "category": "National Park",
+      "description": "Setonaikai National Park is a Japanese national park, comprising areas of Japan&#039;s Seto Inland Sea, and of ten bordering",
+      "detailedDescription": "Setonaikai National Park is a Japanese national park, comprising areas of Japan's Seto Inland Sea, and of ten bordering prefectures. Designated a national park in 1934, it has since been expanded several times. It contains about 3,000 islands, known as the Setouchi Islands, including the well-known Itsukushima. As the park encompasses many non-contiguous areas, and covers a tiny proportion of the Inland Sea's total extent, control and protection is problematic; much of the wider area is heavily industrialized.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Setonaikai National Park"
+      ],
+      "viewingTips": [
+        "Check opening hours and seasons",
+        "Follow park regulations and guidelines",
+        "Respect wildlife and natural features"
+      ],
+      "scientificData": {
+        "type": "national park",
+        "protection": "Protected natural area"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Nature & Biodiversity of Japan",
+    "overview": "Japan has nine forest ecoregions which reflect the climate and geography of the islands. They range from subtropical moist broadleaf forests in the Ryūkyū and Bonin Islands, to temperate broadleaf and mixed forests in the mild climate regions of the main islands, to temperate coniferous forests in the cold, winter portions of the northern islands. Japan has over 90,000 species of wildlife as of 2019, including the brown bear, the Japanese macaque, the Japanese raccoon dog, the small Japanese field mouse, and the Japanese giant salamander. There are 53 Ramsar wetland sit",
+    "conservationStatus": {
+      "protectedAreas": "5 major protected areas",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "Plant life and vegetation",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Animal species and wildlife",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      },
+      {
+        "name": "Ecosystems",
+        "icon": "Trees",
+        "description": "Natural habitats and ecological zones",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Human impact"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Conservation programs",
+          "Environmental protection"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities & Tourism",
+    "description": "provincial parks and conservation areas ideal for outdoor activities like camping, swimming, hiking, and paddling. Notable beaches in Ontario are Wasaga",
+    "activityCategories": [
+      {
+        "name": "Nature & Wildlife",
+        "icon": "Trees",
+        "description": "Explore natural areas and observe wildlife",
+        "activities": [
+          {
+            "name": "Hiking & Walking",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring to Autumn",
+            "duration": "2-8 hours",
+            "description": "Explore trails in natural parks and reserves",
+            "bestLocations": [
+              "List of national parks of Japan",
+              "Japan national football team",
+              "Nara Park"
+            ],
+            "requirements": "Sturdy footwear, water, weather-appropriate clothing",
+            "safety": "Stay on marked trails, check weather conditions"
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light layers, sun protection, comfortable shoes",
+        "winter": "Warm layers, waterproof outerwear, insulated boots",
+        "yearRound": "Comfortable walking shoes, rain jacket, backpack"
+      },
+      "equipment": {
+        "basic": "Water bottle, snacks, map, first aid kit",
+        "hiking": "Daypack, hiking poles, navigation tools",
+        "photography": "Camera, extra batteries, lens cleaning kit"
+      },
+      "safety": [
+        "Check weather forecasts before departure",
+        "Inform someone of your plans",
+        "Carry adequate water and supplies",
+        "Respect wildlife and natural features",
+        "Follow local regulations and guidelines"
+      ]
+    }
+  }
+}

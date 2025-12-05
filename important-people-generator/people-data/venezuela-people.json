@@ -1,0 +1,761 @@
+{
+    "country": "Venezuela",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Simón Bolívar",
+            "nativeName": "Simón José Antonio de la Santísima Trinidad Bolívar y Palacios",
+            "lifespan": "1783-1830",
+            "era": "Modern Period (19th Century)",
+            "role": "Liberator",
+            "background": "Simón Bolívar, known as 'El Libertador', was a Venezuelan military and political leader who led the independence of Venezuela, Bolivia, Colombia, Ecuador, Peru, and Panama from the Spanish Empire.",
+            "keyDecisions": [
+                "Swearing the Oath of Monte Sacro.",
+                "Writing the Cartagena Manifesto.",
+                "Crossing the Andes to liberate New Granada.",
+                "Creating Gran Colombia."
+            ],
+            "achievements": [
+                "Liberator of 6 nations.",
+                "President of Gran Colombia.",
+                "Visionary of Latin American unity.",
+                "Greatest military figure of South America."
+            ],
+            "challenges": [
+                "Spanish royalist armies.",
+                "Internal divisions and warlords.",
+                "Failure of Gran Colombia.",
+                "Tuberculosis."
+            ],
+            "legacy": "Bolívar is the George Washington of South America. His dream of unity still inspires the continent.",
+            "quotes": [
+                "I have plowed the sea."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Liberator.",
+            "culturalImpact": "Bolivia and Venezuela (Bolivarian Republic) are named after him.",
+            "primarySources": [
+                "Jamaica Letter.",
+                "Proclamations."
+            ],
+            "modernInterpretations": [
+                "Revered as a demigod.",
+                "His legacy is claimed by both left and right."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Francisco de Miranda",
+            "nativeName": "Sebastián Francisco de Miranda y Rodríguez",
+            "lifespan": "1750-1816",
+            "era": "Modern Period (18th-19th Century)",
+            "role": "General",
+            "background": "Francisco de Miranda was a military leader and revolutionary known as 'The Precursor'. He participated in the American Revolution, the French Revolution, and the Spanish American wars of independence.",
+            "keyDecisions": [
+                "Fighting in the American Revolutionary War.",
+                "Serving as a General in the French Revolution.",
+                "Leading the first attempt to liberate Venezuela (1806).",
+                "Designing the Venezuelan flag."
+            ],
+            "achievements": [
+                "The only man to fight in three major revolutions.",
+                "Designed the tricolor flag (Yellow, Blue, Red).",
+                "Mentor to Bolívar.",
+                "Intellectual."
+            ],
+            "challenges": [
+                "Betrayal (handed over to the Spanish by Bolívar).",
+                "Imprisonment in La Carraca.",
+                "Failure of the First Republic.",
+                "Being ahead of his time."
+            ],
+            "legacy": "Miranda is the universal Venezuelan. His name is on the Arc de Triomphe in Paris.",
+            "quotes": [
+                "Tumult! Tumult! This is all I see."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Precursor.",
+            "culturalImpact": "He is the father of the flag.",
+            "primarySources": [
+                "Diaries.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "His tragic end is a lesson in politics."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Antonio José de Sucre",
+            "nativeName": "Antonio José de Sucre y Alcalá",
+            "lifespan": "1795-1830",
+            "era": "Modern Period (19th Century)",
+            "role": "General",
+            "background": "Antonio José de Sucre was a Venezuelan independence leader and the closest friend of Bolívar. He won the decisive Battle of Ayacucho, securing the independence of Peru.",
+            "keyDecisions": [
+                "Leading the Patriot army at Pichincha.",
+                "Winning the Battle of Ayacucho.",
+                "Serving as the first President of Bolivia.",
+                "Remaining loyal to Bolívar."
+            ],
+            "achievements": [
+                "Grand Marshal of Ayacucho.",
+                "Liberator of Ecuador and Peru.",
+                "President of Bolivia.",
+                "Able administrator."
+            ],
+            "challenges": [
+                "Assassination in Berruecos.",
+                "Political intrigue.",
+                "Managing Bolivia.",
+                "Desire for a quiet life."
+            ],
+            "legacy": "Sucre is the 'Abel' of the revolution. He was the most talented and loyal of Bolívar's generals.",
+            "quotes": [
+                "To win is not enough; one must know how to win."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Grand Marshal.",
+            "culturalImpact": "The city of Sucre (Bolivia) and the currency (Ecuador) were named after him.",
+            "primarySources": [
+                "Letters.",
+                "Military reports."
+            ],
+            "modernInterpretations": [
+                "Revered as a pure hero.",
+                "His murder is a historical tragedy."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Rómulo Betancourt",
+            "nativeName": "Rómulo Ernesto Betancourt Bello",
+            "lifespan": "1908-1981",
+            "era": "Contemporary Period (20th Century)",
+            "role": "President",
+            "background": "Rómulo Betancourt is known as the 'Father of Venezuelan Democracy'. He founded the Democratic Action party and established the Betancourt Doctrine (refusing to recognize dictatorships).",
+            "keyDecisions": [
+                "Founding Acción Democrática.",
+                "Leading the 'Trienio Adeco' (1945-1948).",
+                "Establishing the Pact of Puntofijo.",
+                "Surviving an assassination attempt by Trujillo."
+            ],
+            "achievements": [
+                "Father of Democracy.",
+                "Established civilian rule.",
+                "Agrarian reform.",
+                "Oil policy (OPEC precursor)."
+            ],
+            "challenges": [
+                "Military coups.",
+                "Guerrilla warfare.",
+                "Assassination attempt (car bomb).",
+                "Exile."
+            ],
+            "legacy": "Betancourt built the democratic institutions that lasted 40 years. He is a giant of 20th-century politics.",
+            "quotes": [
+                "We will spend the oil to sow the oil."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Democrat.",
+            "culturalImpact": "He defined the modern Venezuelan state.",
+            "primarySources": [
+                "Venezuela: Oil and Politics.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a statesman.",
+                "Criticized by the left for excluding communists."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hugo Chávez",
+            "nativeName": "Hugo Rafael Chávez Frías",
+            "lifespan": "1954-2013",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Hugo Chávez was a military officer and politician who served as President from 1999 until his death. He led the 'Bolivarian Revolution', focusing on socialism and anti-imperialism.",
+            "keyDecisions": [
+                "Leading the 1992 coup attempt.",
+                "Winning the 1998 election.",
+                "Rewriting the constitution.",
+                "Using oil wealth for social programs (Misiones)."
+            ],
+            "achievements": [
+                "Reduced poverty (initially).",
+                "Regional integration (ALBA, UNASUR).",
+                "Charismatic leader.",
+                "Empowered the poor."
+            ],
+            "challenges": [
+                "2002 coup attempt.",
+                "Economic mismanagement.",
+                "Polarization of society.",
+                "Cancer."
+            ],
+            "legacy": "Chávez changed Venezuela forever. He is a messiah to his supporters and a dictator to his critics.",
+            "quotes": [
+                "Por ahora (For now)."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Comandante.",
+            "culturalImpact": "His image is everywhere.",
+            "primarySources": [
+                "Aló Presidente.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Deeply polarizing.",
+                "His economic legacy is a disaster, but his social impact is undeniable."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Teresa Carreño",
+            "nativeName": "María Teresa Gertrudis de Jesús Carreño García",
+            "lifespan": "1853-1917",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Musician",
+            "background": "Teresa Carreño was a pianist, singer, composer, and conductor. Known as the 'Valkyrie of the Piano', she was an international superstar.",
+            "keyDecisions": [
+                "Performing for Abraham Lincoln at the White House (age 9).",
+                "Composing the Venezuelan anthem (unofficial) 'Himno a Bolívar'.",
+                "Touring the world.",
+                "Conducting orchestras (rare for a woman)."
+            ],
+            "achievements": [
+                "World-renowned pianist.",
+                "Composer.",
+                "Opera singer.",
+                "Pioneer for women in music."
+            ],
+            "challenges": [
+                "Multiple marriages and scandals.",
+                "Losing children.",
+                "Financial instability.",
+                "Exile."
+            ],
+            "legacy": "Teresa Carreño is the greatest Venezuelan musician. The main theater in Caracas is named after her.",
+            "quotes": [
+                "I am a citizen of the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Valkyrie.",
+            "culturalImpact": "She is a symbol of artistic excellence.",
+            "primarySources": [
+                "Compositions.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "Her life is a feminist inspiration."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Andrés Bello",
+            "nativeName": "Andrés de Jesús María y José Bello López",
+            "lifespan": "1781-1865",
+            "era": "Modern Period (19th Century)",
+            "role": "Humanist",
+            "background": "Andrés Bello was a poet, lawmaker, philosopher, and educator. He was the teacher of Simón Bolívar and a major intellectual figure in Chile.",
+            "keyDecisions": [
+                "Teaching Bolívar.",
+                "Going to London as a diplomat.",
+                "Settling in Chile.",
+                "Writing the Civil Code of Chile."
+            ],
+            "achievements": [
+                "Founder of the University of Chile.",
+                "Author of the Grammar of the Spanish Language.",
+                "Intellectual giant.",
+                "Jurist."
+            ],
+            "challenges": [
+                "Poverty in London.",
+                "Being ignored by the Venezuelan government.",
+                "Building institutions from scratch.",
+                "Homesickness."
+            ],
+            "legacy": "Bello is the intellectual father of South America. His grammar book is still the reference.",
+            "quotes": [
+                "The sciences and letters are the property of no one."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Humanist.",
+            "culturalImpact": "He is on the currency of Venezuela and Chile.",
+            "primarySources": [
+                "Gramática de la lengua castellana.",
+                "Silva a la agricultura de la zona tórrida."
+            ],
+            "modernInterpretations": [
+                "Revered as a wise sage.",
+                "His contribution to law and language is immense."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Rómulo Gallegos",
+            "nativeName": "Rómulo Gallegos Freire",
+            "lifespan": "1884-1969",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, President",
+            "background": "Rómulo Gallegos was a novelist and politician. He wrote 'Doña Bárbara', a masterpiece of Latin American literature, and served as the first democratically elected president (briefly).",
+            "keyDecisions": [
+                "Writing 'Doña Bárbara'.",
+                "Running for president in 1947.",
+                "Going into exile after the 1948 coup.",
+                "Focusing on education."
+            ],
+            "achievements": [
+                "Author of 'Doña Bárbara'.",
+                "First democratically elected President.",
+                "Human rights activist.",
+                "Teacher."
+            ],
+            "challenges": [
+                "Military coup (overthrown after 9 months).",
+                "Exile in Mexico.",
+                "Censorship.",
+                "Death of his wife."
+            ],
+            "legacy": "Gallegos is the literary conscience of Venezuela. His conflict between 'civilization and barbarism' defines the nation.",
+            "quotes": [
+                "Plain, wild plain."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Novelist.",
+            "culturalImpact": "Doña Bárbara is a classic.",
+            "primarySources": [
+                "Doña Bárbara.",
+                "Canaima."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master writer.",
+                "His presidency is a symbol of lost hope."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "José Gregorio Hernández",
+            "nativeName": "José Gregorio Hernández Cisneros",
+            "lifespan": "1864-1919",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Doctor, Saint",
+            "background": "José Gregorio Hernández was a physician and researcher known for his charity and piety. He is beatified by the Catholic Church and revered as the 'Doctor of the Poor'.",
+            "keyDecisions": [
+                "Treating the poor for free.",
+                "Introducing the microscope to Venezuela.",
+                "Attempting to become a monk (failed due to health).",
+                "Dying after being hit by one of the few cars in Caracas."
+            ],
+            "achievements": [
+                "Pioneer of bacteriology.",
+                "Saint of the people.",
+                "Blessed (Beatified).",
+                "Philanthropist."
+            ],
+            "challenges": [
+                "Spanish Flu pandemic (1918).",
+                "Political dictatorship (Gómez).",
+                "Personal health.",
+                "Tragic death."
+            ],
+            "legacy": "José Gregorio is the spiritual doctor of Venezuela. Millions pray to him for healing.",
+            "quotes": [
+                "Do good."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Saint.",
+            "culturalImpact": "His image is in every home.",
+            "primarySources": [
+                "Medical papers.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a holy figure.",
+                "His beatification was a national celebration."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Carlos Cruz-Diez",
+            "nativeName": "Carlos Cruz-Diez",
+            "lifespan": "1923-2019",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Artist",
+            "background": "Carlos Cruz-Diez was a kinetic and op artist. He is considered one of the greatest color thinkers of the 20th century.",
+            "keyDecisions": [
+                "Moving to Paris.",
+                "Developing the 'Physichromie'.",
+                "Integrating art into architecture (Maiquetía Airport floor).",
+                "Exploring the autonomy of color."
+            ],
+            "achievements": [
+                "Master of Kinetic Art.",
+                "Global exhibitions.",
+                "Transformed public spaces.",
+                "Innovator."
+            ],
+            "challenges": [
+                "Misunderstanding of his art initially.",
+                "Living in exile.",
+                "Old age.",
+                "Watching his country's decline from afar."
+            ],
+            "legacy": "Cruz-Diez brought color to the world. His floor at the airport is the symbol of the Venezuelan diaspora.",
+            "quotes": [
+                "Color is an event."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Master of Color.",
+            "culturalImpact": "He is a source of national pride.",
+            "primarySources": [
+                "Reflection on Color.",
+                "Artworks."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "His art is timeless."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Carolina Herrera",
+            "nativeName": "María Carolina Josefina Pacanins y Niño (Carolina Herrera)",
+            "lifespan": "1939-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Designer",
+            "background": "Carolina Herrera is a fashion designer known for her elegance and style. She founded her eponymous brand and dressed First Ladies from Jacqueline Onassis to Michelle Obama.",
+            "keyDecisions": [
+                "Launching her first collection at age 42.",
+                "Moving to New York.",
+                "Creating the white shirt as a staple.",
+                "Building a global empire."
+            ],
+            "achievements": [
+                "Queen of Elegance.",
+                "Global fashion icon.",
+                "Businesswoman.",
+                "Philanthropist."
+            ],
+            "challenges": [
+                "Starting late in life.",
+                "Competition.",
+                "Maintaining the brand.",
+                "Criticism."
+            ],
+            "legacy": "Carolina Herrera is the face of Venezuelan elegance. She proved that style has no age.",
+            "quotes": [
+                "Elegance is the only beauty that never fades."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Designer.",
+            "culturalImpact": "She is a global brand.",
+            "primarySources": [
+                "Collections.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a style icon.",
+                "Symbol of the old Venezuelan aristocracy."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Simón Rodríguez",
+            "nativeName": "Simón Rodríguez",
+            "lifespan": "1769-1854",
+            "era": "Modern Period (18th-19th Century)",
+            "role": "Educator",
+            "background": "Simón Rodríguez was a philosopher and educator. He was the tutor and mentor of Simón Bolívar, influencing his republican ideas.",
+            "keyDecisions": [
+                "Tutoring Bolívar.",
+                "Traveling Europe with him.",
+                "Advocating for original American education.",
+                "Wandering the continent (Robinson)."
+            ],
+            "achievements": [
+                "Mentor to the Liberator.",
+                "Educational reformer.",
+                "Eccentric genius.",
+                "Writer."
+            ],
+            "challenges": [
+                "Misunderstood by his contemporaries.",
+                "Poverty.",
+                "Exile.",
+                "Fire (lost his writings)."
+            ],
+            "legacy": "Rodríguez is the 'Socrates of Caracas'. His call to 'invent or err' is a motto for Latin America.",
+            "quotes": [
+                "Invent or err."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Mentor.",
+            "culturalImpact": "Misión Robinson (literacy program) is named after him.",
+            "primarySources": [
+                "Sociedades Americanas.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "His ideas on education are still radical."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Gustavo Dudamel",
+            "nativeName": "Gustavo Adolfo Dudamel Ramírez",
+            "lifespan": "1981-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Conductor",
+            "background": "Gustavo Dudamel is a conductor and violinist. A product of 'El Sistema', he is the music director of the Los Angeles Philharmonic and a global star.",
+            "keyDecisions": [
+                "Joining El Sistema.",
+                "Winning the Mahler Competition.",
+                "Leading the Simón Bolívar Youth Orchestra.",
+                "Moving to LA."
+            ],
+            "achievements": [
+                "Global superstar conductor.",
+                "Grammy winner.",
+                "Ambassador of El Sistema.",
+                "Artist."
+            ],
+            "challenges": [
+                "Political pressure in Venezuela.",
+                "Criticism for not speaking out earlier.",
+                "Managing a global career.",
+                "Exile (de facto)."
+            ],
+            "legacy": "Dudamel is the proof of the power of music. He put Venezuelan classical music on the map.",
+            "quotes": [
+                "Music is a fundamental human right."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Maestro.",
+            "culturalImpact": "He inspires youth orchestras worldwide.",
+            "primarySources": [
+                "Recordings.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His relationship with the regime was controversial."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Luisa Cáceres de Arismendi",
+            "nativeName": "Luisa Cáceres Díaz de Arismendi",
+            "lifespan": "1799-1866",
+            "era": "Modern Period (19th Century)",
+            "role": "Heroine",
+            "background": "Luisa Cáceres was a heroine of the War of Independence. She was imprisoned and tortured by the Spanish to pressure her husband, General Arismendi, to surrender.",
+            "keyDecisions": [
+                "Refusing to betray her husband.",
+                "Enduring imprisonment in Santa Rosa castle.",
+                "Losing her baby in prison.",
+                "Escaping to Margarita."
+            ],
+            "achievements": [
+                "Symbol of resistance.",
+                "Heroine.",
+                "Survivor.",
+                "Mother."
+            ],
+            "challenges": [
+                "Torture.",
+                "Starvation.",
+                "Exile in Spain.",
+                "War."
+            ],
+            "legacy": "Luisa is the symbol of Venezuelan womanhood. Her courage is legendary.",
+            "quotes": [
+                "I will never advise my husband to fail in his duty."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Heroine.",
+            "culturalImpact": "Her face is on the currency.",
+            "primarySources": [
+                "Biographies.",
+                "History books."
+            ],
+            "modernInterpretations": [
+                "Revered as a martyr of liberty.",
+                "Her story is taught in schools."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Arturo Uslar Pietri",
+            "nativeName": "Arturo Uslar Pietri",
+            "lifespan": "1906-2001",
+            "era": "Modern Period (20th Century)",
+            "role": "Intellectual",
+            "background": "Arturo Uslar Pietri was a writer, television producer, and politician. He coined the phrase 'sembrar el petróleo' (sow the oil).",
+            "keyDecisions": [
+                "Writing 'Las Lanzas Coloradas'.",
+                "Advocating for economic diversification.",
+                "Hosting 'Valores Humanos' (TV show).",
+                "Criticizing corruption."
+            ],
+            "achievements": [
+                "Prince of Asturias Award.",
+                "Intellectual conscience.",
+                "Novelist.",
+                "Minister."
+            ],
+            "challenges": [
+                "Exile.",
+                "Political failure (presidential bid).",
+                "Being ignored by politicians.",
+                "Old age."
+            ],
+            "legacy": "Uslar Pietri warned Venezuela about the oil curse. His warning went unheeded.",
+            "quotes": [
+                "We must sow the oil."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sage.",
+            "culturalImpact": "He is the grandfather of the nation.",
+            "primarySources": [
+                "Las Lanzas Coloradas.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Revered as a prophet.",
+                "His analysis is still relevant."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Miguel Cabrera",
+            "nativeName": "José Miguel Cabrera Torres (Miggy)",
+            "lifespan": "1983-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Miguel Cabrera is a baseball player. He is one of the greatest hitters of all time, winning the Triple Crown in 2012.",
+            "keyDecisions": [
+                "Signing with the Marlins.",
+                "Winning the World Series as a rookie.",
+                "Moving to the Detroit Tigers.",
+                "Joining the 3000 hit / 500 HR club."
+            ],
+            "achievements": [
+                "Triple Crown winner.",
+                "2-time MVP.",
+                "World Series Champion.",
+                "Future Hall of Famer."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Personal struggles (alcohol).",
+                "Pressure.",
+                "Age."
+            ],
+            "legacy": "Miggy is the greatest Venezuelan baseball player. He is a national idol.",
+            "quotes": [
+                "I just want to play."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Slugger.",
+            "culturalImpact": "Baseball is religion in Venezuela, and he is the pope.",
+            "primarySources": [
+                "MLB records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His smile is iconic."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Jesús Soto",
+            "nativeName": "Jesús Rafael Soto",
+            "lifespan": "1923-2005",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Artist",
+            "background": "Jesús Soto was a kinetic artist. He is famous for his 'Penetrables', interactive sculptures that viewers can walk through.",
+            "keyDecisions": [
+                "Moving to Paris.",
+                "Creating the 'Vibration' series.",
+                "Making art interactive.",
+                "Founding the Soto Museum in Ciudad Bolívar."
+            ],
+            "achievements": [
+                "Master of Kinetic Art.",
+                "Global exhibitions.",
+                "Museum founder.",
+                "Innovator."
+            ],
+            "challenges": [
+                "Poverty in early life.",
+                "Establishing a new art form.",
+                "Distance from home.",
+                "Health."
+            ],
+            "legacy": "Soto made art move. His museum is a jewel in the jungle.",
+            "quotes": [
+                "Art should be an experience."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Kinetic Master.",
+            "culturalImpact": "His Sphere in Caracas is a landmark.",
+            "primarySources": [
+                "Artworks.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His work is playful and profound."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Rafael Urdaneta",
+            "nativeName": "Rafael José Urdaneta y Faría",
+            "lifespan": "1788-1845",
+            "era": "Modern Period (19th Century)",
+            "role": "General",
+            "background": "Rafael Urdaneta was a general and the last President of Gran Colombia. He was known as 'The Loyal One' for his unwavering support of Bolívar.",
+            "keyDecisions": [
+                "Joining the independence movement.",
+                "Leading the Maracaibo campaign.",
+                "Assuming the presidency to save Bolívar's legacy.",
+                "Ensuring Bolívar's funeral honors."
+            ],
+            "achievements": [
+                "General in Chief.",
+                "President of Gran Colombia.",
+                "Loyalist.",
+                "Strategist."
+            ],
+            "challenges": [
+                "The dissolution of Gran Colombia.",
+                "Political enemies.",
+                "Kidney stones (cause of death).",
+                "Poverty."
+            ],
+            "legacy": "Urdaneta is the symbol of loyalty. He was the rock upon which Bolívar leaned.",
+            "quotes": [
+                "General, if two men are enough to liberate the country, count on me."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Loyal.",
+            "culturalImpact": "Maracaibo's bridge is named after him.",
+            "primarySources": [
+                "Memoirs.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a model soldier.",
+                "His integrity is praised."
+            ]
+        }
+    ]
+}

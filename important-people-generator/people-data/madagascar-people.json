@@ -1,0 +1,761 @@
+{
+    "country": "Madagascar",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Radama I",
+            "nativeName": "Radama I",
+            "lifespan": "1793-1828",
+            "era": "Modern Period (19th Century)",
+            "role": "King",
+            "background": "Radama I was the first King of Madagascar to be recognized by European powers. He unified most of the island and opened it to Western influence.",
+            "keyDecisions": [
+                "Inviting British missionaries.",
+                "Abolishing the slave trade (in theory).",
+                "Adopting the Latin alphabet for Malagasy.",
+                "Modernizing the army."
+            ],
+            "achievements": [
+                "Unifier of Madagascar.",
+                "Modernizer.",
+                "Created the written language.",
+                "Diplomat."
+            ],
+            "challenges": [
+                "Traditionalist opposition.",
+                "French ambitions.",
+                "Health (alcoholism/syphilis).",
+                "Early death."
+            ],
+            "legacy": "Radama I is the Peter the Great of Madagascar. He dragged the country into the modern world.",
+            "quotes": [
+                "My testament is the good of my people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Great.",
+            "culturalImpact": "He is the father of modern Malagasy culture.",
+            "primarySources": [
+                "British journals.",
+                "Royal chronicles."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "His ruthless conquest is sometimes criticized."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ranavalona I",
+            "nativeName": "Ranavalona I",
+            "lifespan": "1778-1861",
+            "era": "Modern Period (19th Century)",
+            "role": "Queen",
+            "background": "Ranavalona I was the Queen of Madagascar who resisted European colonization for 33 years. She is often portrayed as a tyrant by Westerners but as a patriot by nationalists.",
+            "keyDecisions": [
+                "Expelling missionaries.",
+                "Banning Christianity.",
+                "Using the tangena ordeal (poison trial).",
+                "Maintaining independence."
+            ],
+            "achievements": [
+                "Preserved independence.",
+                "Built an industrial complex (with Jean Laborde).",
+                "Strong ruler.",
+                "Defender of tradition."
+            ],
+            "challenges": [
+                "European plots.",
+                "Christian martyrs.",
+                "Economic isolation.",
+                "Succession plots."
+            ],
+            "legacy": "Ranavalona is the 'Mad Queen' or the 'Great Patriot', depending on who you ask. She kept the French out.",
+            "quotes": [
+                "I will not allow my ancestors' customs to be changed."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Iron Queen.",
+            "culturalImpact": "She is a symbol of resistance.",
+            "primarySources": [
+                "Missionary accounts.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Rehabilitated as an anti-colonial hero.",
+                "Her cruelty is acknowledged but contextualized."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Philibert Tsiranana",
+            "nativeName": "Philibert Tsiranana",
+            "lifespan": "1912-1978",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Philibert Tsiranana was the first President of Madagascar. He led the country to independence from France in 1960.",
+            "keyDecisions": [
+                "Founding the PSD party.",
+                "Negotiating independence.",
+                "Maintaining close ties with France (Françafrique).",
+                "Resigning after the 1972 protests."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "Teacher.",
+                "Stability (initially).",
+                "Moderate leader."
+            ],
+            "challenges": [
+                "Neocolonialism accusations.",
+                "Student protests (May 1972).",
+                "Illness.",
+                "Regionalism."
+            ],
+            "legacy": "Tsiranana is the father of the nation, but his legacy is tainted by his subservience to France.",
+            "quotes": [
+                "We are all Malagasy."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Father.",
+            "culturalImpact": "His era is remembered as the 'First Republic'.",
+            "primarySources": [
+                "Speeches.",
+                "French archives."
+            ],
+            "modernInterpretations": [
+                "Viewed as a benevolent but weak leader.",
+                "His overthrow marked the end of an era."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Andrianampoinimerina",
+            "nativeName": "Andrianampoinimerina",
+            "lifespan": "1745-1810",
+            "era": "Early Modern Period (18th-19th Century)",
+            "role": "King",
+            "background": "Andrianampoinimerina was the King of Imerina who began the unification of Madagascar. He famously declared, 'The sea is the limit of my rice field'.",
+            "keyDecisions": [
+                "Unifying the Merina kingdom.",
+                "Establishing the 12 sacred hills.",
+                "Organizing the fokonolona (community system).",
+                "Preparing his son Radama to conquer the island."
+            ],
+            "achievements": [
+                "Founder of the Merina monarchy.",
+                "Great administrator.",
+                "Lawgiver.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Rival kings.",
+                "Famine.",
+                "Building a state from scratch.",
+                "Succession."
+            ],
+            "legacy": "He is the George Washington of the Merina people. His laws are the foundation of society.",
+            "quotes": [
+                "The sea is the limit of my rice field."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Unifier.",
+            "culturalImpact": "He is a semi-divine figure.",
+            "primarySources": [
+                "Tantara ny Andriana.",
+                "Oral traditions."
+            ],
+            "modernInterpretations": [
+                "Revered as a wise king.",
+                "His maxims are still quoted."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Jean-Joseph Rabearivelo",
+            "nativeName": "Jean-Joseph Rabearivelo",
+            "lifespan": "1901-1937",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Rabearivelo is considered Africa's first modern poet. He wrote in both French and Malagasy, torn between two cultures.",
+            "keyDecisions": [
+                "Writing surrealist poetry.",
+                "Translating Malagasy hainteny into French.",
+                "Struggling with poverty and opium.",
+                "Committing suicide."
+            ],
+            "achievements": [
+                "Literary genius.",
+                "Pioneer of Negritude.",
+                "Cultural bridge.",
+                "Tragic hero."
+            ],
+            "challenges": [
+                "Colonial racism.",
+                "Rejection by the French literary establishment.",
+                "Debt.",
+                "Despair."
+            ],
+            "legacy": "Rabearivelo is the tragic soul of Madagascar. His suicide note is famous.",
+            "quotes": [
+                "The hide of the black cow is stretched."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "He is studied in universities worldwide.",
+            "primarySources": [
+                "Translated from the Night.",
+                "Diaries."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a martyr of colonialism.",
+                "His work is hauntingly beautiful."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Gisèle Rabesahala",
+            "nativeName": "Gisèle Rabesahala",
+            "lifespan": "1929-2011",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Politician",
+            "background": "Gisèle Rabesahala was a politician and activist. She was the first woman to be a minister in Madagascar and a lifelong communist.",
+            "keyDecisions": [
+                "Founding the AKFM party.",
+                "Campaigning for amnesty for the 1947 rebels.",
+                "Serving as Minister of Culture.",
+                "Dedicating her life to the poor."
+            ],
+            "achievements": [
+                "First female minister.",
+                "Independence activist.",
+                "Human rights defender.",
+                "Role model."
+            ],
+            "challenges": [
+                "Colonial repression.",
+                "Sexism.",
+                "Political shifts.",
+                "Old age."
+            ],
+            "legacy": "Gisèle is the mother of the Malagasy left. She was a tireless fighter.",
+            "quotes": [
+                "Freedom is never given."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Activist.",
+            "culturalImpact": "She is a feminist icon.",
+            "primarySources": [
+                "Speeches.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a woman of integrity.",
+                "Her consistency is praised."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Didier Ratsiraka",
+            "nativeName": "Didier Ignace Ratsiraka",
+            "lifespan": "1936-2021",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Didier Ratsiraka, the 'Red Admiral', ruled Madagascar for over 20 years. He established a socialist regime and later returned as a democrat.",
+            "keyDecisions": [
+                "Publishing the 'Red Book' (Boky Mena).",
+                "Nationalizing industries.",
+                "Returning to power in 1997.",
+                "Refusing to concede in 2002."
+            ],
+            "achievements": [
+                "Longest-serving president.",
+                "Modernized the navy.",
+                "Intellectual.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Economic collapse.",
+                "2002 political crisis.",
+                "Exile in France.",
+                "Legacy of authoritarianism."
+            ],
+            "legacy": "Ratsiraka defined modern Madagascar. His socialist experiment failed, but he remained influential.",
+            "quotes": [
+                "Humanism and ecology."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Red Admiral.",
+            "culturalImpact": "His 'Red Book' was once the bible of the nation.",
+            "primarySources": [
+                "The Red Book.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Viewed as a brilliant but flawed leader.",
+                "His refusal to leave power in 2002 caused a civil war."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Jacques Rabemananjara",
+            "nativeName": "Jacques Rabemananjara",
+            "lifespan": "1913-2005",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Politician, Poet",
+            "background": "Jacques Rabemananjara was a poet and politician. He was one of the leaders of the MDRM and was imprisoned for the 1947 uprising.",
+            "keyDecisions": [
+                "Founding the MDRM.",
+                "Writing poetry in prison.",
+                "Serving as Vice President.",
+                "Promoting Negritude."
+            ],
+            "achievements": [
+                "Independence hero.",
+                "Literary giant.",
+                "Minister of Foreign Affairs.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Death sentence (commuted).",
+                "Imprisonment.",
+                "Exile.",
+                "Political rivalry."
+            ],
+            "legacy": "Rabemananjara is the poet-politician. He represents the intellectual side of independence.",
+            "quotes": [
+                "Antsa."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Statesman.",
+            "culturalImpact": "His poems are classics.",
+            "primarySources": [
+                "Antsa.",
+                "Lamba."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "His literary work is as important as his politics."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Jean Laborde",
+            "nativeName": "Jean Laborde",
+            "lifespan": "1805-1878",
+            "era": "Modern Period (19th Century)",
+            "role": "Adventurer",
+            "background": "Jean Laborde was a French adventurer who became the chief engineer of Queen Ranavalona I. He built the industrial complex at Mantasoa.",
+            "keyDecisions": [
+                "Shipwrecking on Madagascar.",
+                "Serving the Queen.",
+                "Building cannons, soap, and glass factories.",
+                "Building the Queen's Palace (Manjakamiadana)."
+            ],
+            "achievements": [
+                "Industrialized Madagascar (briefly).",
+                "Architect.",
+                "Diplomat.",
+                "Survivor."
+            ],
+            "challenges": [
+                "The Queen's temper.",
+                "Expulsion (1857).",
+                "French colonial plots.",
+                "Legacy dispute."
+            ],
+            "legacy": "Laborde is the 'White Malagasy'. His industrial city is now a ruin, but his palace still stands (rebuilt).",
+            "quotes": [
+                "I serve the Queen."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Engineer.",
+            "culturalImpact": "He is a legend of adaptation.",
+            "primarySources": [
+                "Letters.",
+                "Consular reports."
+            ],
+            "modernInterpretations": [
+                "Viewed as a fascinating historical figure.",
+                "Proof that cooperation was possible."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Rainilaiarivony",
+            "nativeName": "Rainilaiarivony",
+            "lifespan": "1828-1896",
+            "era": "Modern Period (19th Century)",
+            "role": "Prime Minister",
+            "background": "Rainilaiarivony was the Prime Minister who ruled Madagascar by marrying three successive queens. He was the real power behind the throne.",
+            "keyDecisions": [
+                "Marrying Queen Rasoherina, Ranavalona II, and Ranavalona III.",
+                "Converting to Protestantism.",
+                "Building the Prime Minister's Palace.",
+                "Fighting the French."
+            ],
+            "achievements": [
+                "Modernized the state.",
+                "Abolished slavery (on paper).",
+                "Diplomat.",
+                "Strategist."
+            ],
+            "challenges": [
+                "French invasion.",
+                "Palace intrigues.",
+                "Exile in Algeria.",
+                "Defeat."
+            ],
+            "legacy": "Rainilaiarivony is the master politician. He held the country together until the French conquest.",
+            "quotes": [
+                "Diplomacy is the art of survival."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Power Behind the Throne.",
+            "culturalImpact": "His palace is a museum.",
+            "primarySources": [
+                "State papers.",
+                "British archives."
+            ],
+            "modernInterpretations": [
+                "Respected for his intelligence.",
+                "Criticized for his nepotism."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Monja Jaona",
+            "nativeName": "Monja Jaona",
+            "lifespan": "1910-1994",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician",
+            "background": "Monja Jaona was a nationalist leader from the south. He led the 1971 peasant uprising and was a perennial opposition figure.",
+            "keyDecisions": [
+                "Founding the MONIMA party.",
+                "Leading the Androy uprising.",
+                "Opposing Tsiranana and Ratsiraka.",
+                "Defending the poor."
+            ],
+            "achievements": [
+                "Champion of the South.",
+                "Peasant leader.",
+                "Fearless critic.",
+                "Mayor of Toliara."
+            ],
+            "challenges": [
+                "Imprisonment.",
+                "House arrest.",
+                "Marginalization.",
+                "Old age."
+            ],
+            "legacy": "Monja Jaona is the grandfather of the opposition. He represents the neglected south.",
+            "quotes": [
+                "The people are hungry."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Rebel.",
+            "culturalImpact": "He is a hero in Toliara.",
+            "primarySources": [
+                "MONIMA documents.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a man of the people.",
+                "His persistence is admired."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Dama",
+            "nativeName": "Zafimahaleo Rasolofondraosolo (Dama)",
+            "lifespan": "1954-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician, Politician",
+            "background": "Dama is the lead singer of Mahaleo, the most famous band in Madagascar. He is also a sociologist and former MP.",
+            "keyDecisions": [
+                "Founding Mahaleo during the 1972 protests.",
+                "Singing about social issues.",
+                "Running for parliament.",
+                "Promoting environmentalism."
+            ],
+            "achievements": [
+                "Voice of a generation.",
+                "Cultural icon.",
+                "Politician.",
+                "Sociologist."
+            ],
+            "challenges": [
+                "Balancing music and politics.",
+                "Political disillusionment.",
+                "Health.",
+                "Legacy."
+            ],
+            "legacy": "Mahaleo is the Beatles of Madagascar. Dama is the voice of the people.",
+            "quotes": [
+                "Together."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Troubadour.",
+            "culturalImpact": "Their songs are anthems.",
+            "primarySources": [
+                "Songs.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a legend.",
+                "His music defines Malagasy identity."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Albert Zafy",
+            "nativeName": "Albert Zafy",
+            "lifespan": "1927-2017",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Albert Zafy was the President of Madagascar who defeated Ratsiraka in 1993. He was known as the 'Man in the Straw Hat' and was impeached in 1996.",
+            "keyDecisions": [
+                "Leading the 'Forces Vives'.",
+                "Winning the election.",
+                "Promoting federalism.",
+                "Being impeached."
+            ],
+            "achievements": [
+                "Restored democracy (Third Republic).",
+                "Professor of Surgery.",
+                "Man of peace.",
+                "Reconciliation advocate."
+            ],
+            "challenges": [
+                "Political gridlock.",
+                "Impeachment.",
+                "Economic crisis.",
+                "Heart attack."
+            ],
+            "legacy": "Zafy is the father of democracy, but his presidency was chaotic. He was a man of principle in a dirty game.",
+            "quotes": [
+                "Reconciliation."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Professor.",
+            "culturalImpact": "His straw hat is iconic.",
+            "primarySources": [
+                "Speeches.",
+                "Constitution."
+            ],
+            "modernInterpretations": [
+                "Respected for his honesty.",
+                "Criticized for his lack of political skill."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Rasamimanana",
+            "nativeName": "Joseph Rasamimanana",
+            "lifespan": "19th Century",
+            "era": "Modern Period (19th Century)",
+            "role": "Martyr",
+            "background": "Rasamimanana was one of the first Christian martyrs in Madagascar. He was speared to death during the persecution by Queen Ranavalona I.",
+            "keyDecisions": [
+                "Converting to Christianity.",
+                "Refusing to renounce his faith.",
+                "Singing hymns while being marched to death.",
+                "Dying for his beliefs."
+            ],
+            "achievements": [
+                "Christian martyr.",
+                "Symbol of faith.",
+                "Inspiration to the church.",
+                "Saint (unofficial)."
+            ],
+            "challenges": [
+                "Persecution.",
+                "Fear.",
+                "Pain.",
+                "Death."
+            ],
+            "legacy": "The blood of the martyrs is the seed of the church. Christianity is now the dominant religion.",
+            "quotes": [
+                "I am not afraid."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "Memorial churches mark the execution sites.",
+            "primarySources": [
+                "Missionary journals.",
+                "Church history."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero of faith.",
+                "His story is central to Malagasy Christianity."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Pierrot Men",
+            "nativeName": "Pierrot Men",
+            "lifespan": "1954-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Photographer",
+            "background": "Pierrot Men is a photographer known for his black and white images of daily life in Madagascar. He is the most famous Malagasy photographer.",
+            "keyDecisions": [
+                "Switching from painting to photography.",
+                "Opening a studio in Fianarantsoa.",
+                "Documenting the soul of the island.",
+                "Exhibiting globally."
+            ],
+            "achievements": [
+                "World Press Photo winner.",
+                "Cultural ambassador.",
+                "Artist.",
+                "Chronicler."
+            ],
+            "challenges": [
+                "Lack of resources.",
+                "Isolation.",
+                "Digital transition.",
+                "Fame."
+            ],
+            "legacy": "Pierrot Men shows the beauty and dignity of Madagascar. His photos are poetry.",
+            "quotes": [
+                "I photograph what I love."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Eye.",
+            "culturalImpact": "His postcards are everywhere.",
+            "primarySources": [
+                "Chronicles of Madagascar.",
+                "Exhibitions."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His work is timeless."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Gabriel Ramanantsoa",
+            "nativeName": "Gabriel Ramanantsoa",
+            "lifespan": "1906-1979",
+            "era": "Modern Period (20th Century)",
+            "role": "General, President",
+            "background": "Gabriel Ramanantsoa was a general who became Head of State after the 1972 protests. He led the transition from the First Republic.",
+            "keyDecisions": [
+                "Accepting power from Tsiranana.",
+                "Organizing the 1972 referendum.",
+                "Handing over power to Ratsimandrava.",
+                "Retiring."
+            ],
+            "achievements": [
+                "Restored order.",
+                "Oversaw the transition.",
+                "Military leader.",
+                "Patriot."
+            ],
+            "challenges": [
+                "Economic crisis.",
+                "Political factions.",
+                "Assassination of Ratsimandrava.",
+                "Health."
+            ],
+            "legacy": "Ramanantsoa is the transitional figure. He tried to steer the ship in a storm.",
+            "quotes": [
+                "Order and discipline."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The General.",
+            "culturalImpact": "He is respected for his integrity.",
+            "primarySources": [
+                "Decrees.",
+                "History books."
+            ],
+            "modernInterpretations": [
+                "Viewed as a reluctant leader.",
+                "His resignation led to chaos."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Richard Ratsimandrava",
+            "nativeName": "Richard Ratsimandrava",
+            "lifespan": "1931-1975",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Richard Ratsimandrava was a colonel who served as Head of State for only 6 days before being assassinated. He advocated for the 'Fokonolona' (local community) system.",
+            "keyDecisions": [
+                "Accepting power from Ramanantsoa.",
+                "Promoting direct democracy.",
+                "Refusing to compromise with corrupt elites.",
+                "Being assassinated."
+            ],
+            "achievements": [
+                "Visionary of local empowerment.",
+                "Martyr.",
+                "Colonel.",
+                "Hope."
+            ],
+            "challenges": [
+                "Political enemies.",
+                "Short time in office.",
+                "Assassination.",
+                "Mystery."
+            ],
+            "legacy": "Ratsimandrava is the 'Kennedy' of Madagascar. His death is the great 'what if'.",
+            "quotes": [
+                "I will not turn back."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "His assassination is still debated.",
+            "primarySources": [
+                "Speeches.",
+                "Police reports."
+            ],
+            "modernInterpretations": [
+                "Revered as a lost hope.",
+                "His ideas are still popular."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Nicolas Lambert",
+            "nativeName": "Nicolas Lambert",
+            "lifespan": "19th Century",
+            "era": "Modern Period (19th Century)",
+            "role": "Priest",
+            "background": "Father Nicolas Lambert was a Jesuit missionary who worked in Madagascar. He is known for his ethnographic work and for being expelled.",
+            "keyDecisions": [
+                "Learning Malagasy.",
+                "Writing about customs.",
+                "Converting locals.",
+                "Leaving during the persecution."
+            ],
+            "achievements": [
+                "Scholar.",
+                "Missionary.",
+                "Recorded history.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Queen Ranavalona I.",
+                "Disease.",
+                "Isolation.",
+                "Expulsion."
+            ],
+            "legacy": "Lambert's writings are a key source of history. He represents the Catholic mission.",
+            "quotes": [
+                "Faith."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Missionary.",
+            "culturalImpact": "Catholicism is strong in the highlands.",
+            "primarySources": [
+                "Journals.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Respected as a scholar.",
+                "Part of the colonial vanguard."
+            ]
+        }
+    ]
+}

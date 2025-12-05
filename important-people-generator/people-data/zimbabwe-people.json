@@ -1,0 +1,761 @@
+{
+    "country": "Zimbabwe",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Robert Mugabe",
+            "nativeName": "Robert Gabriel Mugabe",
+            "lifespan": "1924-2019",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "President, Revolutionary",
+            "background": "Robert Mugabe was a revolutionary leader who served as Prime Minister and then President of Zimbabwe for nearly four decades. He led the liberation struggle against white minority rule.",
+            "keyDecisions": [
+                "Leading ZANU-PF in the Bush War.",
+                "Signing the Lancaster House Agreement.",
+                "Implementing land reform (seizing white-owned farms).",
+                "Refusing to step down until the 2017 coup."
+            ],
+            "achievements": [
+                "Liberator.",
+                "Educator (highest literacy rate in Africa initially).",
+                "Pan-Africanist icon.",
+                "Founding Father."
+            ],
+            "challenges": [
+                "Sanctions.",
+                "Hyperinflation.",
+                "Gukurahundi massacres.",
+                "Political opposition (MDC)."
+            ],
+            "legacy": "Mugabe is a complex figure: a hero of liberation who became an authoritarian ruler. His legacy is defined by both independence and economic collapse.",
+            "quotes": [
+                "Zimbabwe will never be a colony again."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Liberator/Dictator.",
+            "culturalImpact": "He shaped the nation's identity.",
+            "primarySources": [
+                "Speeches.",
+                "Lancaster House Agreement."
+            ],
+            "modernInterpretations": [
+                "Revered by some as a hero.",
+                "Reviled by others as a tyrant."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Joshua Nkomo",
+            "nativeName": "Joshua Mqabuko Nyongolo Nkomo",
+            "lifespan": "1917-1999",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary, Vice President",
+            "background": "Joshua Nkomo was the leader of ZAPU and a key figure in the fight for independence. Known as 'Father Zimbabwe', he was a rival to Mugabe but later joined him in a unity government.",
+            "keyDecisions": [
+                "Founding ZAPU.",
+                "Leading the ZIPRA forces.",
+                "Signing the Unity Accord (1987).",
+                "Advocating for land rights."
+            ],
+            "achievements": [
+                "Father Zimbabwe.",
+                "Nationalist leader.",
+                "Vice President.",
+                "Uniter."
+            ],
+            "challenges": [
+                "Persecution by the Rhodesian government.",
+                "Conflict with ZANU (Gukurahundi).",
+                "Exile.",
+                "Health."
+            ],
+            "legacy": "Nkomo is the father of the nation. His vision was more inclusive than Mugabe's.",
+            "quotes": [
+                "The country comes first."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father Zimbabwe.",
+            "culturalImpact": "The Bulawayo airport is named after him.",
+            "primarySources": [
+                "The Story of My Life.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a true patriot.",
+                "Symbol of unity."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Lobengula",
+            "nativeName": "Lobengula Khumalo",
+            "lifespan": "1845-1894",
+            "era": "Modern Period (19th Century)",
+            "role": "King",
+            "background": "Lobengula was the last King of the Ndebele people. He tried to use diplomacy to stop British colonization but was eventually defeated in the First Matabele War.",
+            "keyDecisions": [
+                "Signing the Rudd Concession (under deception).",
+                "Trying to negotiate with Queen Victoria.",
+                "Fighting the British South Africa Company.",
+                "Burning his capital (Bulawayo) and fleeing."
+            ],
+            "achievements": [
+                "King of the Ndebele.",
+                "Diplomat.",
+                "Warrior.",
+                "Tragic hero."
+            ],
+            "challenges": [
+                "Cecil Rhodes.",
+                "Maxim guns.",
+                "Smallpox.",
+                "Betrayal by interpreters."
+            ],
+            "legacy": "Lobengula is the symbol of resistance. His disappearance remains a mystery.",
+            "quotes": [
+                "There is a wall built around the word of a king."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Last King.",
+            "culturalImpact": "He is a central figure in history.",
+            "primarySources": [
+                "Letters to Queen Victoria.",
+                "Oral traditions."
+            ],
+            "modernInterpretations": [
+                "Viewed as a victim of colonial deceit.",
+                "Respected for his dignity."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Nehanda Charwe Nyakasikana",
+            "nativeName": "Mbuya Nehanda",
+            "lifespan": "1840-1898",
+            "era": "Modern Period (19th Century)",
+            "role": "Spirit Medium, Revolutionary",
+            "background": "Mbuya Nehanda was a spirit medium of the Zezuru Shona people. She provided spiritual inspiration for the First Chimurenga (revolt) against British rule.",
+            "keyDecisions": [
+                "Calling for rebellion against the white settlers.",
+                "Refusing to convert to Christianity before execution.",
+                "Prophesying that her bones would rise again.",
+                "Leading her people."
+            ],
+            "achievements": [
+                "Spiritual leader.",
+                "Mother of the Chimurenga.",
+                "Martyr.",
+                "Symbol of resistance."
+            ],
+            "challenges": [
+                "British military.",
+                "Capture.",
+                "Execution by hanging.",
+                "Colonialism."
+            ],
+            "legacy": "Mbuya Nehanda is the grandmother of the nation. Her prophecy inspired the Second Chimurenga (1960s-70s).",
+            "quotes": [
+                "My bones will rise again."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Spirit.",
+            "culturalImpact": "Her statue stands in Harare.",
+            "primarySources": [
+                "Trial records.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of the struggle.",
+                "Symbol of indigenous spirituality."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Oliver Mtukudzi",
+            "nativeName": "Oliver 'Tuku' Mtukudzi",
+            "lifespan": "1952-2019",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Oliver Mtukudzi was a musician, businessman, and philanthropist. He created the 'Tuku Music' style and was the most internationally recognized cultural icon of Zimbabwe.",
+            "keyDecisions": [
+                "Creating a unique sound (mbira on guitar).",
+                "Singing about social issues (HIV/AIDS).",
+                "Refusing to be political (mostly).",
+                "Mentoring young artists."
+            ],
+            "achievements": [
+                "Global superstar.",
+                "UNICEF Ambassador.",
+                "Voice of the people.",
+                "Humanitarian."
+            ],
+            "challenges": [
+                "Death of his son Sam.",
+                "Political pressure.",
+                "Piracy.",
+                "Health (diabetes)."
+            ],
+            "legacy": "Tuku is the soundtrack of Zimbabwe. His music healed a divided nation.",
+            "quotes": [
+                "Todii (What shall we do?)"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Legend.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Songs (Neria, Todii).",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His humility is missed."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Thomas Mapfumo",
+            "nativeName": "Thomas Tafirenyika Mapfumo",
+            "lifespan": "1945-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Thomas Mapfumo is a musician known as 'The Lion of Zimbabwe'. He created Chimurenga music, which supported the liberation struggle and later criticized the Mugabe regime.",
+            "keyDecisions": [
+                "Adapting mbira music to electric guitar.",
+                "Singing protest songs during the war.",
+                "Criticizing Mugabe ('Corruption').",
+                "Going into exile in the US."
+            ],
+            "achievements": [
+                "Creator of Chimurenga music.",
+                "Revolutionary voice.",
+                "Lion of Zimbabwe.",
+                "Critic."
+            ],
+            "challenges": [
+                "Imprisonment by Rhodesia.",
+                "Harassment by ZANU-PF.",
+                "Exile.",
+                "Censorship."
+            ],
+            "legacy": "Mapfumo is the conscience of the nation. He spoke truth to power, regardless of who was in charge.",
+            "quotes": [
+                "Corruption."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Lion.",
+            "culturalImpact": "He defined the sound of the struggle.",
+            "primarySources": [
+                "Songs.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a fearless artist.",
+                "His exile is a sore point."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Kirsty Coventry",
+            "nativeName": "Kirsty Leigh Coventry",
+            "lifespan": "1983-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete, Minister",
+            "background": "Kirsty Coventry is a swimmer and politician. She is the most decorated Olympian from Africa, winning 7 medals for Zimbabwe.",
+            "keyDecisions": [
+                "Training in the US.",
+                "Winning Gold in Athens and Beijing.",
+                "Serving on the IOC.",
+                "Becoming Minister of Sport."
+            ],
+            "achievements": [
+                "Olympic Champion (x2).",
+                "World Record holder.",
+                "Golden Girl.",
+                "Minister."
+            ],
+            "challenges": [
+                "Lack of funding.",
+                "Political situation.",
+                "Pressure.",
+                "Transition to politics."
+            ],
+            "legacy": "Kirsty Coventry is the Golden Girl. She united the country through sport.",
+            "quotes": [
+                "I am proud to be Zimbabwean."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "She is a national treasure.",
+            "primarySources": [
+                "Olympic records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Her political role is watched closely."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Tsitsi Dangarembga",
+            "nativeName": "Tsitsi Dangarembga",
+            "lifespan": "1959-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer, Filmmaker",
+            "background": "Tsitsi Dangarembga is a novelist and filmmaker. Her book 'Nervous Conditions' was the first novel published in English by a black Zimbabwean woman.",
+            "keyDecisions": [
+                "Writing 'Nervous Conditions'.",
+                "Studying film in Berlin.",
+                "Protesting against the government.",
+                "Being arrested."
+            ],
+            "achievements": [
+                "Booker Prize nominee.",
+                "Literary pioneer.",
+                "Activist.",
+                "Voice of women."
+            ],
+            "challenges": [
+                "Patriarchy.",
+                "Censorship.",
+                "Arrest.",
+                "Funding."
+            ],
+            "legacy": "Dangarembga is a fearless storyteller. She exposes the nervous conditions of post-colonial life.",
+            "quotes": [
+                "The condition of native is a nervous condition."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "Her book is a classic.",
+            "primarySources": [
+                "Nervous Conditions.",
+                "This Mournable Body."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a giant of literature.",
+                "Her activism is admired."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Herbert Chitepo",
+            "nativeName": "Herbert Wiltshire Chitepo",
+            "lifespan": "1923-1975",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary",
+            "background": "Herbert Chitepo was the first black lawyer in Rhodesia and the chairman of ZANU. His assassination in Zambia was a turning point in the liberation struggle.",
+            "keyDecisions": [
+                "Becoming a lawyer.",
+                "Defending nationalists in court.",
+                "Leading the armed struggle from exile.",
+                "Organizing the Dare ReChimurenga."
+            ],
+            "achievements": [
+                "First black barrister.",
+                "Architect of the struggle.",
+                "Nationalist.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Racism in the legal system.",
+                "Internal ZANU conflicts.",
+                "Assassination (car bomb).",
+                "Betrayal."
+            ],
+            "legacy": "Chitepo is the brain of the revolution. His death remains one of the great mysteries of the war.",
+            "quotes": [
+                "We are our own liberators."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Architect.",
+            "culturalImpact": "The Chitepo School of Ideology is named after him.",
+            "primarySources": [
+                "Speeches.",
+                "Chitepo Commission Report."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His murder is still debated."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Dambudzo Marechera",
+            "nativeName": "Dambudzo Marechera",
+            "lifespan": "1952-1987",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Dambudzo Marechera was a writer and poet. Known as the 'enfant terrible' of African literature, he wrote 'The House of Hunger'.",
+            "keyDecisions": [
+                "Being expelled from Oxford (for trying to burn down a college).",
+                "Living as a homeless writer in London and Harare.",
+                "Writing 'The House of Hunger'.",
+                "Challenging authority."
+            ],
+            "achievements": [
+                "Guardian Fiction Prize winner.",
+                "Literary genius.",
+                "Iconoclast.",
+                "Rebel."
+            ],
+            "challenges": [
+                "Mental illness.",
+                "Alcoholism.",
+                "Poverty.",
+                "AIDS (cause of death)."
+            ],
+            "legacy": "Marechera is the rock star of Zimbabwean literature. He burned bright and fast.",
+            "quotes": [
+                "I got my things and left."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Rebel.",
+            "culturalImpact": "He is a cult figure.",
+            "primarySources": [
+                "The House of Hunger.",
+                "Black Sunlight."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "His work is raw and powerful."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Morgan Tsvangirai",
+            "nativeName": "Morgan Richard Tsvangirai",
+            "lifespan": "1952-2018",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Politician",
+            "background": "Morgan Tsvangirai was a trade unionist and the leader of the opposition (MDC). He served as Prime Minister in the unity government.",
+            "keyDecisions": [
+                "Leading the ZCTU strikes.",
+                "Founding the MDC.",
+                "Surviving beatings and assassination attempts.",
+                "Joining the Government of National Unity."
+            ],
+            "achievements": [
+                "Champion of democracy.",
+                "Prime Minister.",
+                "Brave leader.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Mugabe's repression.",
+                "Treason charges.",
+                "Cancer.",
+                "Internal party splits."
+            ],
+            "legacy": "Tsvangirai is the face of courage. He stood up to a dictator and paid the price.",
+            "quotes": [
+                "Mugabe must go."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Democrat.",
+            "culturalImpact": "He gave people hope.",
+            "primarySources": [
+                "At the Deep End.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero of democracy.",
+                "Criticized for some strategic errors."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Strive Masiyiwa",
+            "nativeName": "Strive Masiyiwa",
+            "lifespan": "1961-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Entrepreneur",
+            "background": "Strive Masiyiwa is a billionaire businessman and philanthropist. He fought a landmark legal battle to dismantle the state monopoly on telecommunications, founding Econet Wireless.",
+            "keyDecisions": [
+                "Taking the government to the Supreme Court.",
+                "Founding Econet.",
+                "Supporting education (Capernaum Trust).",
+                "Living in exile."
+            ],
+            "achievements": [
+                "Billionaire.",
+                "Tech pioneer.",
+                "Philanthropist.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Government obstruction.",
+                "Corruption.",
+                "Exile.",
+                "Business environment."
+            ],
+            "legacy": "Masiyiwa is the symbol of black business success. He connected Zimbabwe to the world.",
+            "quotes": [
+                "It is time."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Tycoon.",
+            "culturalImpact": "He inspires entrepreneurs.",
+            "primarySources": [
+                "Court records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a role model.",
+                "His philanthropy is immense."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Yvonne Vera",
+            "nativeName": "Yvonne Vera",
+            "lifespan": "1964-2005",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Yvonne Vera was a writer known for her poetic prose and tackling taboo subjects like incest, abortion, and the Gukurahundi massacres.",
+            "keyDecisions": [
+                "Writing 'Butterfly Burning'.",
+                "Directing the National Gallery in Bulawayo.",
+                "Writing 'The Stone Virgins'.",
+                "Breaking silence."
+            ],
+            "achievements": [
+                "Commonwealth Writers Prize winner.",
+                "Literary icon.",
+                "Feminist.",
+                "Voice."
+            ],
+            "challenges": [
+                "Taboos.",
+                "HIV/AIDS (cause of death).",
+                "Political sensitivity.",
+                "Time."
+            ],
+            "legacy": "Vera is the bravest voice. She wrote what others dared not whisper.",
+            "quotes": [
+                "Words are not enough."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "She is studied globally.",
+            "primarySources": [
+                "Butterfly Burning.",
+                "The Stone Virgins."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "Her work is haunting."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Jairos Jiri",
+            "nativeName": "Jairos Jiri",
+            "lifespan": "1921-1982",
+            "era": "Modern Period (20th Century)",
+            "role": "Philanthropist",
+            "background": "Jairos Jiri was a humanitarian who founded the Jairos Jiri Association for the rehabilitation of the disabled and blind.",
+            "keyDecisions": [
+                "Helping a blind beggar.",
+                "Founding the association.",
+                "Creating music groups (Jairos Jiri Band).",
+                "Dedicating his life to the disabled."
+            ],
+            "achievements": [
+                "Father of charity.",
+                "Humanitarian.",
+                "MBE.",
+                "Hero."
+            ],
+            "challenges": [
+                "Lack of resources.",
+                "Stigma against disability.",
+                "Colonial indifference.",
+                "Scale of need."
+            ],
+            "legacy": "Jairos Jiri is the saint of the vulnerable. His name is synonymous with charity.",
+            "quotes": [
+                "Help the helpless."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Humanitarian.",
+            "culturalImpact": "His organization still operates.",
+            "primarySources": [
+                "Association records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a selfless man.",
+                "His legacy lives on."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Sally Mugabe",
+            "nativeName": "Sarah Francesca Hayfron (Sally Mugabe)",
+            "lifespan": "1931-1992",
+            "era": "Modern Period (20th Century)",
+            "role": "First Lady",
+            "background": "Sally Mugabe was the first wife of Robert Mugabe. Originally from Ghana, she was known as 'Amai' (Mother) and was a moderating influence on her husband.",
+            "keyDecisions": [
+                "Marrying Mugabe.",
+                "Supporting the struggle.",
+                "Leading the Women's League.",
+                "Advocating for the poor."
+            ],
+            "achievements": [
+                "Mother of the Nation.",
+                "Activist.",
+                "First Lady.",
+                "Heroine."
+            ],
+            "challenges": [
+                "Exile.",
+                "Loss of her son.",
+                "Kidney failure.",
+                "Politics."
+            ],
+            "legacy": "Sally Mugabe is the beloved mother. Many believe Zimbabwe's decline began after her death.",
+            "quotes": [
+                "Amai."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Mother.",
+            "culturalImpact": "She is remembered fondly.",
+            "primarySources": [
+                "Speeches.",
+                "News."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint.",
+                "Contrasted with Grace Mugabe."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Dominic Benhura",
+            "nativeName": "Dominic Benhura",
+            "lifespan": "1968-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Sculptor",
+            "background": "Dominic Benhura is a sculptor. He is a master of Shona sculpture, known for his motion-filled figures made of stone.",
+            "keyDecisions": [
+                "Developing a unique style (motion).",
+                "Exhibiting globally.",
+                "Running the Dominic Benhura Studios.",
+                "Mentoring artists."
+            ],
+            "achievements": [
+                "Master sculptor.",
+                "Global artist.",
+                "Innovator.",
+                "Ambassador."
+            ],
+            "challenges": [
+                "Piracy of his designs.",
+                "Economic crisis.",
+                "Controversy (Mugabe statue).",
+                "Materials."
+            ],
+            "legacy": "Benhura brought stone to life. He is the face of modern Shona sculpture.",
+            "quotes": [
+                "Stone has a spirit."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Artist.",
+            "culturalImpact": "His work is iconic.",
+            "primarySources": [
+                "Sculptures.",
+                "Catalogues."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His work is highly collectible."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Peter Ndlovu",
+            "nativeName": "Peter Ndlovu",
+            "lifespan": "1973-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Peter Ndlovu is a footballer. He was the first African player to play in the modern English Premier League and captained the 'Dream Team'.",
+            "keyDecisions": [
+                "Signing for Coventry City.",
+                "Scoring a hat-trick at Anfield.",
+                "Captaining Zimbabwe.",
+                "Surviving a car crash."
+            ],
+            "achievements": [
+                "The Flying Elephant.",
+                "EPL pioneer.",
+                "Captain.",
+                "Legend."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Car accident (lost his brother Adam).",
+                "National team funding.",
+                "Pressure."
+            ],
+            "legacy": "Peter Ndlovu is the greatest footballer in Zimbabwe's history. He opened the door for Africans in the EPL.",
+            "quotes": [
+                "The Bulawayo Bullet."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Captain.",
+            "culturalImpact": "He is a god of football.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His talent was world-class."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Chenjerai Hove",
+            "nativeName": "Chenjerai Hove",
+            "lifespan": "1956-2015",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Chenjerai Hove was a poet and novelist. He was a fierce critic of the Mugabe regime and lived in exile.",
+            "keyDecisions": [
+                "Writing 'Bones'.",
+                "Founding the Zimbabwe Writers Union.",
+                "Criticizing human rights abuses.",
+                "Fleeing to Norway."
+            ],
+            "achievements": [
+                "Noma Award winner.",
+                "Literary giant.",
+                "Activist.",
+                "Voice."
+            ],
+            "challenges": [
+                "Harassment.",
+                "Exile.",
+                "Loneliness.",
+                "Health."
+            ],
+            "legacy": "Hove is the voice of the voiceless. His poetry captures the sorrow of the land.",
+            "quotes": [
+                "You will forget."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Critic.",
+            "culturalImpact": "He is respected for his integrity.",
+            "primarySources": [
+                "Bones.",
+                "Ancestors."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His work is timeless."
+            ]
+        }
+    ]
+}

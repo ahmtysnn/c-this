@@ -1,0 +1,761 @@
+{
+    "country": "Syria",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Zenobia",
+            "nativeName": "Bat-Zabbai (Zenobia)",
+            "lifespan": "240-274",
+            "era": "Ancient Period",
+            "role": "Queen",
+            "background": "Zenobia was the Queen of the Palmyrene Empire. She conquered Egypt and challenged the Roman Empire before being defeated by Aurelian.",
+            "keyDecisions": [
+                "Declaring independence from Rome.",
+                "Invading Egypt.",
+                "Declaring her son Augustus.",
+                "Fighting Aurelian."
+            ],
+            "achievements": [
+                "Queen of the East.",
+                "Warrior.",
+                "Intellectual.",
+                "Legend."
+            ],
+            "challenges": [
+                "Roman legions.",
+                "Logistics.",
+                "Betrayal.",
+                "Capture (golden chains)."
+            ],
+            "legacy": "Zenobia is the symbol of Syrian pride and resistance. She is one of the most famous women in antiquity.",
+            "quotes": [
+                "I am a queen; and as long as I live I will reign."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Queen.",
+            "culturalImpact": "Palmyra is her monument.",
+            "primarySources": [
+                "Historia Augusta.",
+                "Coins."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a feminist icon.",
+                "Symbol of nationalism."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Saladin",
+            "nativeName": "Salah ad-Din Yusuf ibn Ayyub",
+            "lifespan": "1137-1193",
+            "era": "Medieval Period",
+            "role": "Sultan",
+            "background": "Saladin was the first Sultan of Egypt and Syria and the founder of the Ayyubid dynasty. He recaptured Jerusalem from the Crusaders.",
+            "keyDecisions": [
+                "Uniting the Muslim world.",
+                "Winning the Battle of Hattin.",
+                "Recapturing Jerusalem (1187).",
+                "Making peace with Richard the Lionheart."
+            ],
+            "achievements": [
+                "Liberator of Jerusalem.",
+                "Chivalrous knight.",
+                "Sultan.",
+                "Unifier."
+            ],
+            "challenges": [
+                "Crusaders.",
+                "Assassins.",
+                "Internal rivals.",
+                "Illness."
+            ],
+            "legacy": "Saladin is the ultimate hero of the Islamic world. He is respected by both East and West for his chivalry.",
+            "quotes": [
+                "I warn you against shedding blood."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sultan.",
+            "culturalImpact": "His tomb is in Damascus.",
+            "primarySources": [
+                "Baha ad-Din ibn Shaddad.",
+                "William of Tyre."
+            ],
+            "modernInterpretations": [
+                "Revered as a saintly warrior.",
+                "Symbol of unity."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Nizar Qabbani",
+            "nativeName": "Nizar Qabbani",
+            "lifespan": "1923-1998",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Nizar Qabbani was a diplomat and poet. He is the most famous Arab poet of the modern era, known for his romantic and political verses.",
+            "keyDecisions": [
+                "Writing 'Childhood of a Breast'.",
+                "Serving as a diplomat.",
+                "Writing political poems after 1967.",
+                "Living in London."
+            ],
+            "achievements": [
+                "Poet of Woman.",
+                "Poet of the Arabs.",
+                "Diplomat.",
+                "Revolutionary."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Suicide of his sister.",
+                "Death of his wife Balqis (bombing).",
+                "Exile."
+            ],
+            "legacy": "Qabbani liberated Arab poetry. He wrote about love and politics with equal passion.",
+            "quotes": [
+                "Love in the Arab world is like a prisoner."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "His poems are sung by everyone.",
+            "primarySources": [
+                "Poems.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "He is the voice of love."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hafez al-Assad",
+            "nativeName": "Hafez al-Assad",
+            "lifespan": "1930-2000",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Hafez al-Assad was the President of Syria for three decades. He transformed Syria into a regional power through pragmatism and ruthlessness.",
+            "keyDecisions": [
+                "Leading the Corrective Movement (1970).",
+                "Intervening in Lebanon.",
+                "Crushing the Hama uprising (1982).",
+                "Aligning with the Soviet Union."
+            ],
+            "achievements": [
+                "Stability (Iron fist).",
+                "Regional player.",
+                "Lion of Damascus.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Muslim Brotherhood.",
+                "Israel.",
+                "Economic stagnation.",
+                "Succession."
+            ],
+            "legacy": "Hafez built the modern Syrian state. His legacy is stability bought with blood.",
+            "quotes": [
+                "We are a nation that does not surrender."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Lion.",
+            "culturalImpact": "His statues were everywhere.",
+            "primarySources": [
+                "Speeches.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Respected for his cunning.",
+                "Reviled for his brutality."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Shukri al-Quwatli",
+            "nativeName": "Shukri al-Quwatli",
+            "lifespan": "1891-1967",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Shukri al-Quwatli was the first President of independent Syria. He is known as the 'First Citizen' for his role in independence and the union with Egypt.",
+            "keyDecisions": [
+                "Fighting the French.",
+                "Declaring independence (1946).",
+                "Forming the UAR with Nasser (1958).",
+                "Resigning for unity."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "First Citizen.",
+                "Nationalist.",
+                "Uniter."
+            ],
+            "challenges": [
+                "French mandate.",
+                "Coups.",
+                "Nasser's dominance.",
+                "Exile."
+            ],
+            "legacy": "Quwatli is the father of the republic. He sacrificed his presidency for the dream of Arab unity.",
+            "quotes": [
+                "I hand over a country with no debts."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The First Citizen.",
+            "culturalImpact": "He is a symbol of patriotism.",
+            "primarySources": [
+                "Speeches.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Revered as a statesman.",
+                "His naivety regarding the UAR is noted."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Yusuf al-Azma",
+            "nativeName": "Yusuf al-Azma",
+            "lifespan": "1883-1920",
+            "era": "Modern Period (20th Century)",
+            "role": "General",
+            "background": "Yusuf al-Azma was the Minister of War who led the Syrian army against the French at the Battle of Maysalun, knowing he would lose.",
+            "keyDecisions": [
+                "Refusing the French ultimatum.",
+                "Leading the army to Maysalun.",
+                "Fighting to the death.",
+                "Becoming a martyr."
+            ],
+            "achievements": [
+                "Martyr of Maysalun.",
+                "Symbol of honor.",
+                "General.",
+                "Hero."
+            ],
+            "challenges": [
+                "French superiority.",
+                "Lack of troops.",
+                "Inevitability of defeat.",
+                "Death."
+            ],
+            "legacy": "Al-Azma is the symbol of Syrian dignity. He chose death over surrender.",
+            "quotes": [
+                "Honor."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "His statue stands in Damascus.",
+            "primarySources": [
+                "Military records.",
+                "News."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the ultimate patriot.",
+                "His sacrifice is taught in schools."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Adonis",
+            "nativeName": "Ali Ahmad Said Esber (Adonis)",
+            "lifespan": "1930-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Poet",
+            "background": "Adonis is a poet and essayist. He is a perennial contender for the Nobel Prize and a revolutionary figure in Arabic literature.",
+            "keyDecisions": [
+                "Adopting the name Adonis.",
+                "Founding the journal 'Shi'r'.",
+                "Living in exile (Paris).",
+                "Critiquing Arab culture."
+            ],
+            "achievements": [
+                "Modernist pioneer.",
+                "Intellectual.",
+                "Poet.",
+                "Critic."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Religious dogma.",
+                "Exile.",
+                "Controversy."
+            ],
+            "legacy": "Adonis revolutionized Arabic poetry. He challenges tradition and calls for renewal.",
+            "quotes": [
+                "I live between the fire and the plague."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Modernist.",
+            "culturalImpact": "He is a giant of letters.",
+            "primarySources": [
+                "Songs of Mihyar.",
+                "The Fixed and the Transformative."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Criticized for his politics."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Al-Ma'arri",
+            "nativeName": "Al-Ma'arri",
+            "lifespan": "973-1057",
+            "era": "Medieval Period",
+            "role": "Philosopher, Poet",
+            "background": "Al-Ma'arri was a blind philosopher and poet. He was a rationalist and a vegan who criticized religion and procreation.",
+            "keyDecisions": [
+                "Living in seclusion.",
+                "Writing 'The Epistle of Forgiveness'.",
+                "Refusing to eat meat.",
+                "Criticizing dogma."
+            ],
+            "achievements": [
+                "Philosopher of pessimism.",
+                "Poet.",
+                "Rationalist.",
+                "Free thinker."
+            ],
+            "challenges": [
+                "Blindness.",
+                "Persecution (accusations of heresy).",
+                "Solitude.",
+                "Despair."
+            ],
+            "legacy": "Al-Ma'arri is the supreme skeptic. His work influenced Dante.",
+            "quotes": [
+                "The world is divided into two: those with brains and no religion, and those with religion and no brains."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Skeptic.",
+            "culturalImpact": "His statue was beheaded by extremists in 2013.",
+            "primarySources": [
+                "Luzumiyat.",
+                "Epistle of Forgiveness."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "Symbol of free thought."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Fares al-Khoury",
+            "nativeName": "Fares al-Khoury",
+            "lifespan": "1877-1962",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician",
+            "background": "Fares al-Khoury was a Christian politician who served as Prime Minister of Syria. He was a key figure in the independence movement and a symbol of sectarian unity.",
+            "keyDecisions": [
+                "Joining the National Bloc.",
+                "Serving as Prime Minister (twice).",
+                "Speaking at the UN.",
+                "Opposing the French."
+            ],
+            "achievements": [
+                "Statesman.",
+                "Uniter.",
+                "Lawyer.",
+                "Patriot."
+            ],
+            "challenges": [
+                "Sectarianism (which he overcame).",
+                "French mandate.",
+                "Political instability.",
+                "Age."
+            ],
+            "legacy": "Al-Khoury proved that a Christian could lead a Muslim nation. He is a symbol of secular nationalism.",
+            "quotes": [
+                "If France claims to protect Christians, I am the first to seek refuge in Islam."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Statesman.",
+            "culturalImpact": "He is respected by all.",
+            "primarySources": [
+                "Speeches.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Revered as a founding father.",
+                "Symbol of coexistence."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Ghada al-Samman",
+            "nativeName": "Ghada al-Samman",
+            "lifespan": "1942-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Ghada al-Samman is a writer and journalist. She is known for her bold exploration of female sexuality and the Lebanese Civil War.",
+            "keyDecisions": [
+                "Writing 'Beirut 75'.",
+                "Publishing her love letters from Ghassan Kanafani.",
+                "Living in Paris.",
+                "Breaking taboos."
+            ],
+            "achievements": [
+                "Literary icon.",
+                "Feminist.",
+                "Publisher.",
+                "Voice of Beirut."
+            ],
+            "challenges": [
+                "Censorship.",
+                "War.",
+                "Patriarchy.",
+                "Controversy."
+            ],
+            "legacy": "Ghada al-Samman liberated Arab women's writing. She is fearless.",
+            "quotes": [
+                "I declared my mutiny."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Rebel.",
+            "culturalImpact": "She is a bestseller.",
+            "primarySources": [
+                "Beirut Nightmares.",
+                "The Night of the First Billion."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a pioneer.",
+                "Her work is still shocking to some."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Yusra Mardini",
+            "nativeName": "Yusra Mardini",
+            "lifespan": "1998-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete, Activist",
+            "background": "Yusra Mardini is a swimmer. She saved a boat of refugees by swimming it to shore and later competed in the Olympics as part of the Refugee Team.",
+            "keyDecisions": [
+                "Fleeing Syria.",
+                "Swimming the boat to Lesbos.",
+                "Training in Germany.",
+                "Competing in Rio 2016."
+            ],
+            "achievements": [
+                "Olympian.",
+                "Hero.",
+                "UNHCR Ambassador.",
+                "Author."
+            ],
+            "challenges": [
+                "War.",
+                "Drowning.",
+                "Refugee status.",
+                "Trauma."
+            ],
+            "legacy": "Yusra is the face of the refugee crisis. Her story is one of hope and resilience.",
+            "quotes": [
+                "Swimming saved my life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Swimmer.",
+            "culturalImpact": "Subject of the movie 'The Swimmers'.",
+            "primarySources": [
+                "Butterfly (Autobiography).",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "Symbol of survival."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Sabah Fakhri",
+            "nativeName": "Sabah Fakhri",
+            "lifespan": "1933-2021",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Sabah Fakhri was a singer and master of the Muwashshah and Qudud Halabiya. He is considered one of the greatest Arab singers of all time.",
+            "keyDecisions": [
+                "Preserving Aleppo's musical heritage.",
+                "Singing for 10 hours straight (record).",
+                "Touring the world.",
+                "Teaching."
+            ],
+            "achievements": [
+                "King of Tarab.",
+                "Guinness World Record.",
+                "Cultural icon.",
+                "Master."
+            ],
+            "challenges": [
+                "Modernization of music.",
+                "Health.",
+                "War in Syria.",
+                "Age."
+            ],
+            "legacy": "Sabah Fakhri is the voice of Aleppo. He kept the classical tradition alive.",
+            "quotes": [
+                "Tarab."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Master.",
+            "culturalImpact": "He is a legend.",
+            "primarySources": [
+                "Recordings.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Revered as a giant.",
+                "His death marked the end of an era."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Omar Sharif",
+            "nativeName": "Michel Demitri Chalhoub (Omar Sharif)",
+            "lifespan": "1932-2015",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Actor",
+            "background": "Omar Sharif was an actor of Syrian-Lebanese descent (born in Egypt). He became a global star with 'Lawrence of Arabia' and 'Doctor Zhivago'.",
+            "keyDecisions": [
+                "Changing his name.",
+                "Working with David Lean.",
+                "Playing Bridge professionally.",
+                "Returning to Egypt."
+            ],
+            "achievements": [
+                "Golden Globe winner.",
+                "Global star.",
+                "Bridge champion.",
+                "Icon."
+            ],
+            "challenges": [
+                "Gambling.",
+                "Typecasting.",
+                "Exile.",
+                "Alzheimer's."
+            ],
+            "legacy": "Omar Sharif is the Arab face in Hollywood. He was the essence of charm.",
+            "quotes": [
+                "I don't have a home."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Star.",
+            "culturalImpact": "He is beloved.",
+            "primarySources": [
+                "Films.",
+                "Autobiography."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His elegance is missed."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Ibrahim Hananu",
+            "nativeName": "Ibrahim Hananu",
+            "lifespan": "1869-1935",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary",
+            "background": "Ibrahim Hananu was a leader of the revolt against the French Mandate. He led the Aleppo Revolt and was a founder of the National Bloc.",
+            "keyDecisions": [
+                "Launching the revolt in the north.",
+                "Burning his own house to inspire others.",
+                "Standing trial (and being acquitted).",
+                "Advocating for unity."
+            ],
+            "achievements": [
+                "Revolutionary leader.",
+                "Nationalist.",
+                "Hero.",
+                "Politician."
+            ],
+            "challenges": [
+                "French army.",
+                "Imprisonment.",
+                "Politics.",
+                "Health."
+            ],
+            "legacy": "Hananu is a pillar of independence. His refusal to compromise inspired the nation.",
+            "quotes": [
+                "My country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Revolutionary.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Trial records.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Revered as a patriot.",
+                "Symbol of resistance."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Duraid Lahham",
+            "nativeName": "Duraid Lahham",
+            "lifespan": "1934-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Actor",
+            "background": "Duraid Lahham is a comedian and director. He is famous for his character 'Ghawwar' and his political plays that criticized Arab regimes.",
+            "keyDecisions": [
+                "Creating Ghawwar.",
+                "Collaborating with Nihad Qali.",
+                "Writing 'Kasak Ya Watan'.",
+                "Staying in Syria."
+            ],
+            "achievements": [
+                "Comedy legend.",
+                "Social critic.",
+                "UNICEF Ambassador.",
+                "Artist."
+            ],
+            "challenges": [
+                "Censorship.",
+                "War.",
+                "Politics.",
+                "Age."
+            ],
+            "legacy": "Duraid Lahham is the Charlie Chaplin of the Arab world. He made people laugh and cry.",
+            "quotes": [
+                "Cheers, oh homeland."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Comedian.",
+            "culturalImpact": "His plays are classics.",
+            "primarySources": [
+                "Plays.",
+                "TV shows."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His political stance is debated."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Sultan Pasha al-Atrash",
+            "nativeName": "Sultan Pasha al-Atrash",
+            "lifespan": "1891-1982",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary",
+            "background": "Sultan Pasha al-Atrash was the leader of the Great Syrian Revolt of 1925. A Druze chieftain, he united Syrians against the French.",
+            "keyDecisions": [
+                "Declaring the revolution.",
+                "Refusing French bribes.",
+                "Living in exile.",
+                "Refusing office after independence."
+            ],
+            "achievements": [
+                "Leader of the Great Revolt.",
+                "Druze leader.",
+                "National hero.",
+                "Symbol of unity."
+            ],
+            "challenges": [
+                "French air power.",
+                "Exile.",
+                "Sectarianism (which he fought).",
+                "Poverty."
+            ],
+            "legacy": "Sultan Pasha is the rock of the revolution. 'Religion is for God, the Fatherland is for all.'",
+            "quotes": [
+                "Religion is for God, the Fatherland is for all."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Leader.",
+            "culturalImpact": "He is the ultimate patriot.",
+            "primarySources": [
+                "Manifestos.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "Symbol of non-sectarianism."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Mariam al-Asturlabi",
+            "nativeName": "Mariam al-Ijliya",
+            "lifespan": "10th Century",
+            "era": "Medieval Period",
+            "role": "Scientist",
+            "background": "Mariam al-Asturlabi was a maker of astrolabes in Aleppo. She is one of the few female scientists recorded in the Islamic Golden Age.",
+            "keyDecisions": [
+                "Learning from her father.",
+                "Designing astrolabes.",
+                "Working for the Emir Sayf al-Dawla.",
+                "Advancing astronomy."
+            ],
+            "achievements": [
+                "Astrolabe maker.",
+                "Scientist.",
+                "Pioneer.",
+                "Woman in STEM."
+            ],
+            "challenges": [
+                "Gender roles.",
+                "Complexity of the craft.",
+                "Obscurity.",
+                "Time."
+            ],
+            "legacy": "Mariam is a star. She proves that women were part of the Golden Age.",
+            "quotes": [
+                "The stars guide us."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Astronomer.",
+            "culturalImpact": "She is an inspiration.",
+            "primarySources": [
+                "Ibn al-Nadim.",
+                "Historical texts."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a pioneer.",
+                "Symbol of science."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Apollodorus of Damascus",
+            "nativeName": "Apollodorus",
+            "lifespan": "50-130",
+            "era": "Ancient Period",
+            "role": "Architect",
+            "background": "Apollodorus of Damascus was a Nabataean architect and engineer. He was the favorite architect of Emperor Trajan and built the Forum of Trajan and the Pantheon's dome (likely).",
+            "keyDecisions": [
+                "Moving to Rome.",
+                "Building Trajan's Bridge.",
+                "Designing the Forum.",
+                "Criticizing Hadrian (allegedly leading to his death)."
+            ],
+            "achievements": [
+                "Master architect.",
+                "Engineer.",
+                "Builder of Rome.",
+                "Genius."
+            ],
+            "challenges": [
+                "Engineering limits.",
+                "Imperial whims.",
+                "Hadrian's jealousy.",
+                "Exile."
+            ],
+            "legacy": "Apollodorus built the glory of Rome. He is one of the greatest architects in history.",
+            "quotes": [
+                "Structure."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Architect.",
+            "culturalImpact": "His buildings still stand.",
+            "primarySources": [
+                "Cassius Dio.",
+                "Ruins."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His influence is eternal."
+            ]
+        }
+    ]
+}

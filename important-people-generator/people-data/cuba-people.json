@@ -1,0 +1,761 @@
+{
+    "country": "Cuba",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Fidel Castro",
+            "nativeName": "Fidel Alejandro Castro Ruz",
+            "lifespan": "1926-2016",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Revolutionary, President",
+            "background": "Fidel Castro was the leader of the Cuban Revolution. He overthrew the Batista dictatorship and established the first communist state in the Western Hemisphere, ruling for nearly 50 years.",
+            "keyDecisions": [
+                "Attacking the Moncada Barracks.",
+                "Landing on the Granma.",
+                "Declaring the revolution socialist.",
+                "Surviving the Cuban Missile Crisis."
+            ],
+            "achievements": [
+                "El Comandante.",
+                "Revolutionary icon.",
+                "Universal healthcare/education.",
+                "Survivor (600+ assassination attempts)."
+            ],
+            "challenges": [
+                "US embargo.",
+                "Bay of Pigs.",
+                "Special Period (economic collapse).",
+                "Dissent."
+            ],
+            "legacy": "Fidel is one of the most polarizing figures in history. Hero to some, tyrant to others.",
+            "quotes": [
+                "History will absolve me."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Leader.",
+            "culturalImpact": "He shaped the Cold War.",
+            "primarySources": [
+                "Speeches.",
+                "My Life."
+            ],
+            "modernInterpretations": [
+                "Revered as a liberator in the Global South.",
+                "Reviled as a dictator in Miami."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "José Martí",
+            "nativeName": "José Julián Martí Pérez",
+            "lifespan": "1853-1895",
+            "era": "Modern Period (19th Century)",
+            "role": "Poet, Revolutionary",
+            "background": "José Martí is the 'Apostle of Cuban Independence'. A poet, journalist, and philosopher, he organized the war against Spain and died in battle.",
+            "keyDecisions": [
+                "Writing 'Versos Sencillos'.",
+                "Founding the Cuban Revolutionary Party.",
+                "Warning against US imperialism.",
+                "Charging into battle at Dos Ríos."
+            ],
+            "achievements": [
+                "The Apostle.",
+                "National Hero.",
+                "Literary genius (Modernismo).",
+                "Martyr."
+            ],
+            "challenges": [
+                "Exile.",
+                "Imprisonment.",
+                "Disunity among generals.",
+                "Death."
+            ],
+            "legacy": "Martí is the soul of Cuba. He is claimed by both the communists and the exiles.",
+            "quotes": [
+                "I have two fatherlands: Cuba and the night."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Apostle.",
+            "culturalImpact": "Guantanamera is based on his poems.",
+            "primarySources": [
+                "Versos Sencillos.",
+                "Our America."
+            ],
+            "modernInterpretations": [
+                "Universally revered.",
+                "His writings are sacred."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Che Guevara",
+            "nativeName": "Ernesto 'Che' Guevara",
+            "lifespan": "1928-1967",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary",
+            "background": "Che Guevara was an Argentine doctor who became a key figure in the Cuban Revolution. He is the global symbol of rebellion.",
+            "keyDecisions": [
+                "Joining Fidel in Mexico.",
+                "Commanding the Battle of Santa Clara.",
+                "Executing 'traitors' at La Cabaña.",
+                "Leaving to fight in Bolivia."
+            ],
+            "achievements": [
+                "El Che.",
+                "Guerrilla leader.",
+                "Icon.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Asthma.",
+                "US CIA.",
+                "Failure in Congo and Bolivia.",
+                "Execution."
+            ],
+            "legacy": "Che is the face on the t-shirt. He represents the ideal of the 'New Man'.",
+            "quotes": [
+                "Hasta la victoria siempre."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Icon.",
+            "culturalImpact": "He is the most photographed man in history.",
+            "primarySources": [
+                "Motorcycle Diaries.",
+                "Guerrilla Warfare."
+            ],
+            "modernInterpretations": [
+                "Romanticized as a hero.",
+                "Criticized for his brutality."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Celia Cruz",
+            "nativeName": "Úrsula Hilaria Celia de la Caridad Cruz Alfonso",
+            "lifespan": "1925-2003",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Celia Cruz was the 'Queen of Salsa'. She brought Cuban music to the world and became a symbol of the exile community.",
+            "keyDecisions": [
+                "Singing with La Sonora Matancera.",
+                "Leaving Cuba in 1960.",
+                "Refusing to return (banned by Castro).",
+                "Shouting 'Azúcar!'."
+            ],
+            "achievements": [
+                "Queen of Salsa.",
+                "Grammy winner.",
+                "Icon.",
+                "Voice of freedom."
+            ],
+            "challenges": [
+                "Exile.",
+                "Being banned in Cuba.",
+                "Racism.",
+                "Cancer."
+            ],
+            "legacy": "Celia is the sound of joy. Her voice is the soul of the diaspora.",
+            "quotes": [
+                "Azúcar!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Queen.",
+            "culturalImpact": "She is a legend.",
+            "primarySources": [
+                "Songs.",
+                "Autobiography."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a goddess.",
+                "Symbol of anti-communism."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Alicia Alonso",
+            "nativeName": "Alicia Ernestina de la Caridad del Cobre Martínez del Hoyo",
+            "lifespan": "1920-2019",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Ballerina",
+            "background": "Alicia Alonso was a prima ballerina and choreographer. She founded the National Ballet of Cuba and danced well into her 70s, despite being nearly blind.",
+            "keyDecisions": [
+                "Founding the Ballet Nacional de Cuba.",
+                "Staying in Cuba after the revolution.",
+                "Dancing 'Giselle' while blind.",
+                "Training generations of dancers."
+            ],
+            "achievements": [
+                "Prima Ballerina Assoluta.",
+                "Founder.",
+                "Legend.",
+                "Centenarian (almost)."
+            ],
+            "challenges": [
+                "Blindness (detached retinas).",
+                "Politics.",
+                "Age.",
+                "Dictatorial style."
+            ],
+            "legacy": "Alicia Alonso put Cuba on the map of ballet. She proved art could thrive in revolution.",
+            "quotes": [
+                "Dance is life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Ballerina.",
+            "culturalImpact": "Cuban ballet is world-class.",
+            "primarySources": [
+                "Performances.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Criticized for her support of Castro."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Antonio Maceo",
+            "nativeName": "Antonio de la Caridad Maceo y Grajales",
+            "lifespan": "1845-1896",
+            "era": "Modern Period (19th Century)",
+            "role": "General",
+            "background": "Antonio Maceo was the 'Bronze Titan'. He was the second-in-command of the Cuban Army of Independence and a brilliant guerrilla strategist.",
+            "keyDecisions": [
+                "Issuing the Protest of Baraguá (refusing surrender).",
+                "Leading the Invasion from East to West.",
+                "Fighting in over 900 battles.",
+                "Dying in combat."
+            ],
+            "achievements": [
+                "The Bronze Titan.",
+                "General.",
+                "Abolitionist.",
+                "Hero."
+            ],
+            "challenges": [
+                "Racism (even within the independence movement).",
+                "Spanish army.",
+                "Wounds (26 times).",
+                "Betrayal."
+            ],
+            "legacy": "Maceo is the arm of the revolution. 'Whoever tries to conquer Cuba will gather the dust of her soil soaked in blood, if he does not perish in the fight.'",
+            "quotes": [
+                "No rights are begged for, they are won with the edge of the machete."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Titan.",
+            "culturalImpact": "He is a symbol of black resistance.",
+            "primarySources": [
+                "Letters.",
+                "Military records."
+            ],
+            "modernInterpretations": [
+                "Revered as a giant.",
+                "His integrity is unquestioned."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Carlos Finlay",
+            "nativeName": "Carlos Juan Finlay",
+            "lifespan": "1833-1915",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Scientist",
+            "background": "Carlos Finlay was a physician and epidemiologist. He discovered that yellow fever is transmitted by mosquitoes, saving countless lives.",
+            "keyDecisions": [
+                "Proposing the mosquito vector theory.",
+                "Conducting experiments.",
+                "Persuading Walter Reed.",
+                "Serving as Chief Health Officer."
+            ],
+            "achievements": [
+                "Conqueror of Yellow Fever.",
+                "Scientist.",
+                "Nobel nominee.",
+                "Hero."
+            ],
+            "challenges": [
+                "Ridicule ('The Mosquito Man').",
+                "Skepticism.",
+                "Lack of recognition (initially).",
+                "US claiming credit."
+            ],
+            "legacy": "Finlay saved the Panama Canal and the tropics. He is the greatest Cuban scientist.",
+            "quotes": [
+                "The mosquito."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scientist.",
+            "culturalImpact": "UNESCO awards the Finlay Prize.",
+            "primarySources": [
+                "Papers.",
+                "The Mosquito Hypothetically Considered."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "Vindicated by history."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Teófilo Stevenson",
+            "nativeName": "Teófilo Stevenson Lawrence",
+            "lifespan": "1952-2012",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Teófilo Stevenson was a boxer. He won three Olympic gold medals and famously refused millions to fight Muhammad Ali, staying loyal to the revolution.",
+            "keyDecisions": [
+                "Winning Gold in Munich, Montreal, and Moscow.",
+                "Refusing to turn professional.",
+                "Staying in Cuba.",
+                "Becoming a coach."
+            ],
+            "achievements": [
+                "3x Olympic Champion.",
+                "Greatest amateur boxer.",
+                "National Hero.",
+                "Legend."
+            ],
+            "challenges": [
+                "Temptation of money.",
+                "Boycotts (1984, 1988).",
+                "Alcoholism (later years).",
+                "Pressure."
+            ],
+            "legacy": "Stevenson is the champion of the people. 'What is a million dollars compared to the love of eight million Cubans?'",
+            "quotes": [
+                "I would rather have the love of 8 million Cubans."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "He is a symbol of loyalty.",
+            "primarySources": [
+                "Fight records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a legend.",
+                "The Ali fight is the greatest 'what if'."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Gloria Estefan",
+            "nativeName": "Gloria María Milagrosa Fajardo García",
+            "lifespan": "1957-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Gloria Estefan is a singer. She is the 'Queen of Latin Pop', fleeing Cuba as a child and becoming a global superstar with the Miami Sound Machine.",
+            "keyDecisions": [
+                "Fleeing to Miami.",
+                "Joining the Miami Sound Machine.",
+                "Crossing over to English pop ('Conga').",
+                "Recovering from a broken back."
+            ],
+            "achievements": [
+                "Queen of Latin Pop.",
+                "Grammy winner.",
+                "Icon.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Exile.",
+                "Bus accident (paralysis risk).",
+                "Breaking into the US market.",
+                "Politics."
+            ],
+            "legacy": "Gloria Estefan opened the door for Latin music. She is the face of Miami.",
+            "quotes": [
+                "Conga!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Star.",
+            "culturalImpact": "She bridged cultures.",
+            "primarySources": [
+                "Songs.",
+                "On Your Feet!"
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Her resilience is admired."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "José Raúl Capablanca",
+            "nativeName": "José Raúl Capablanca y Graupera",
+            "lifespan": "1888-1942",
+            "era": "Modern Period (20th Century)",
+            "role": "Chess Player",
+            "background": "Capablanca was a chess grandmaster and World Champion. Known as the 'Human Chess Machine', he was a prodigy famous for his endgame skill and speed.",
+            "keyDecisions": [
+                "Learning chess at age 4.",
+                "Defeating Lasker for the title.",
+                "Proposed the 'Capablanca Chess' variant.",
+                "Serving as a diplomat."
+            ],
+            "achievements": [
+                "World Chess Champion.",
+                "Genius.",
+                "Diplomat.",
+                "Legend."
+            ],
+            "challenges": [
+                "Alekhine (losing the title).",
+                "High blood pressure.",
+                "Laziness (relied on talent).",
+                "Politics."
+            ],
+            "legacy": "Capablanca is the Mozart of chess. His games are pure logic.",
+            "quotes": [
+                "You may learn much more from a game you lose than from a game you win."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Prodigy.",
+            "culturalImpact": "He is a god to chess players.",
+            "primarySources": [
+                "Chess Fundamentals.",
+                "Game records."
+            ],
+            "modernInterpretations": [
+                "Revered as a natural genius.",
+                "His intuition was unmatched."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Camilo Cienfuegos",
+            "nativeName": "Camilo Cienfuegos Gorriarán",
+            "lifespan": "1932-1959",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary",
+            "background": "Camilo Cienfuegos was a revolutionary leader. Known as the 'Hero of Yaguajay', he was one of Castro's top commanders before disappearing in a plane crash.",
+            "keyDecisions": [
+                "Joining the Granma expedition.",
+                "Leading the invasion to the West.",
+                "Capturing Yaguajay.",
+                "Arresting Huber Matos."
+            ],
+            "achievements": [
+                "Hero of Yaguajay.",
+                "Commander.",
+                "Man of the People.",
+                "Legend."
+            ],
+            "challenges": [
+                "War.",
+                "Politics.",
+                "Disappearance.",
+                "Mystery."
+            ],
+            "legacy": "Camilo is the smiling face of the revolution. 'Vas bien, Fidel' (You're doing well, Fidel).",
+            "quotes": [
+                "Vas bien, Fidel."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Hero.",
+            "culturalImpact": "Flowers are thrown into the sea for him.",
+            "primarySources": [
+                "Speeches.",
+                "Photos."
+            ],
+            "modernInterpretations": [
+                "Revered as a pure hero.",
+                "His death fuels conspiracy theories."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Nicolás Guillén",
+            "nativeName": "Nicolás Guillén Batista",
+            "lifespan": "1902-1989",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Nicolás Guillén was the National Poet of Cuba. He pioneered 'poesía negra' (black poetry), celebrating Afro-Cuban culture and rhythms.",
+            "keyDecisions": [
+                "Writing 'Motivos de son'.",
+                "Joining the Communist Party.",
+                "Serving as president of the UNEAC.",
+                "Celebrating the revolution."
+            ],
+            "achievements": [
+                "National Poet.",
+                "Voice of Afro-Cuba.",
+                "Innovator.",
+                "Activist."
+            ],
+            "challenges": [
+                "Racism.",
+                "Exile (under Batista).",
+                "Censorship (of others).",
+                "Politics."
+            ],
+            "legacy": "Guillén gave Cuba its voice. He mixed Spanish and African to create something new.",
+            "quotes": [
+                "I have."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "He is a giant of literature.",
+            "primarySources": [
+                "Sóngoro Cosongo.",
+                "West Indies, Ltd."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His political role is debated."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Mariana Grajales",
+            "nativeName": "Mariana Grajales Cuello",
+            "lifespan": "1815-1893",
+            "era": "Modern Period (19th Century)",
+            "role": "Mother",
+            "background": "Mariana Grajales is the 'Mother of Cuba'. She was the mother of the Maceo brothers and dedicated her entire family to the cause of independence.",
+            "keyDecisions": [
+                "Making her family swear to free Cuba.",
+                "Running bush hospitals.",
+                "Sending her youngest to war.",
+                "Dying in exile."
+            ],
+            "achievements": [
+                "Mother of the Nation.",
+                "Heroine.",
+                "Symbol of sacrifice.",
+                "Patriot."
+            ],
+            "challenges": [
+                "War.",
+                "Loss of husband and sons.",
+                "Exile.",
+                "Poverty."
+            ],
+            "legacy": "Mariana is the mother. She represents the strength of Cuban women.",
+            "quotes": [
+                "And you, stand up, for it is time you fought."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Mother.",
+            "culturalImpact": "She is a saint of the revolution.",
+            "primarySources": [
+                "Biographies.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a symbol of patriotism.",
+                "Her sacrifice is legendary."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Compay Segundo",
+            "nativeName": "Máximo Francisco Repilado Muñoz",
+            "lifespan": "1907-2003",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Compay Segundo was a musician and composer. He found global fame in his 90s as part of the Buena Vista Social Club.",
+            "keyDecisions": [
+                "Inventing the armónico (guitar).",
+                "Writing 'Chan Chan'.",
+                "Rolling cigars for a living.",
+                "Joining Ry Cooder."
+            ],
+            "achievements": [
+                "Buena Vista Social Club.",
+                "Grammy winner.",
+                "Legend.",
+                "Centenarian (almost)."
+            ],
+            "challenges": [
+                "Obscurity.",
+                "Poverty.",
+                "Age.",
+                "Politics."
+            ],
+            "legacy": "Compay is the sound of Son. He proved it's never too late.",
+            "quotes": [
+                "Chan Chan."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Musician.",
+            "culturalImpact": "He revived traditional music.",
+            "primarySources": [
+                "Songs.",
+                "Buena Vista Social Club (Film)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a treasure.",
+                "His smile is iconic."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Gertrudis Gómez de Avellaneda",
+            "nativeName": "Gertrudis Gómez de Avellaneda",
+            "lifespan": "1814-1873",
+            "era": "Modern Period (19th Century)",
+            "role": "Writer",
+            "background": "Gertrudis Gómez de Avellaneda was a writer and poet. She was one of the greatest Romantic authors, writing the anti-slavery novel 'Sab' before 'Uncle Tom's Cabin'.",
+            "keyDecisions": [
+                "Writing 'Sab'.",
+                "Moving to Spain.",
+                "Applying to the Royal Academy (rejected for being a woman).",
+                "Writing plays."
+            ],
+            "achievements": [
+                "Literary giant.",
+                "Abolitionist.",
+                "Feminist.",
+                "Dramatist."
+            ],
+            "challenges": [
+                "Sexism.",
+                "Colonial censorship.",
+                "Tragic love life.",
+                "Rejection."
+            ],
+            "legacy": "Tula is the forgotten genius. She was a woman ahead of her time.",
+            "quotes": [
+                "Love."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "She is a feminist icon.",
+            "primarySources": [
+                "Sab.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "Her work is being rediscovered."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Javier Sotomayor",
+            "nativeName": "Javier Sotomayor Sanabria",
+            "lifespan": "1967-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Javier Sotomayor is a high jumper. He is the greatest high jumper of all time, holding the world record (2.45m) since 1993.",
+            "keyDecisions": [
+                "Switching to high jump.",
+                "Setting the world record in Salamanca.",
+                "Winning Gold in Barcelona.",
+                "Boycotting Seoul and LA."
+            ],
+            "achievements": [
+                "World Record Holder.",
+                "Olympic Champion.",
+                "Prince of Heights.",
+                "Legend."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Boycotts.",
+                "Doping ban (cocaine - disputed).",
+                "Gravity."
+            ],
+            "legacy": "Sotomayor is the bird man. No one has jumped higher.",
+            "quotes": [
+                "2.45."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Jumper.",
+            "culturalImpact": "He is a sports god.",
+            "primarySources": [
+                "Jump records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the GOAT.",
+                "His record stands."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Wilfredo Lam",
+            "nativeName": "Wifredo Óscar de la Concepción Lam y Castilla",
+            "lifespan": "1902-1982",
+            "era": "Modern Period (20th Century)",
+            "role": "Artist",
+            "background": "Wilfredo Lam was a painter. He fused Surrealism and Cubism with Afro-Cuban spirit, creating masterpieces like 'The Jungle'.",
+            "keyDecisions": [
+                "Studying in Spain.",
+                "Meeting Picasso.",
+                "Returning to Cuba (Santería influence).",
+                "Painting 'The Jungle'."
+            ],
+            "achievements": [
+                "Master artist.",
+                "Surrealist.",
+                "Innovator.",
+                "Icon."
+            ],
+            "challenges": [
+                "Racism.",
+                "Spanish Civil War.",
+                "Exile.",
+                "Health."
+            ],
+            "legacy": "Lam is the painter of the spirits. He brought Africa to MoMA.",
+            "quotes": [
+                "I wanted to paint the drama of my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Artist.",
+            "culturalImpact": "He is a giant of modern art.",
+            "primarySources": [
+                "Paintings.",
+                "Drawings."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His work is priceless."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Tomás Gutiérrez Alea",
+            "nativeName": "Tomás Gutiérrez Alea (Titón)",
+            "lifespan": "1928-1996",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Director",
+            "background": "Titón was a filmmaker. He was the greatest director of the Cuban Revolution, known for 'Memories of Underdevelopment' and 'Strawberry and Chocolate'.",
+            "keyDecisions": [
+                "Founding ICAIC.",
+                "Directing 'Memories of Underdevelopment'.",
+                "Critiquing the revolution from within.",
+                "Making 'Strawberry and Chocolate'."
+            ],
+            "achievements": [
+                "Master director.",
+                "Oscar nominee.",
+                "Intellectual.",
+                "Critic."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Bureaucracy.",
+                "Cancer.",
+                "Balancing art and politics."
+            ],
+            "legacy": "Titón is the eye of the revolution. He showed its flaws and its beauty.",
+            "quotes": [
+                "Strawberry and Chocolate."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Director.",
+            "culturalImpact": "He changed Cuban cinema.",
+            "primarySources": [
+                "Films.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His films are classics."
+            ]
+        }
+    ]
+}

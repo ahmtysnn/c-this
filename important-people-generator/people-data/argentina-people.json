@@ -1,0 +1,815 @@
+{
+    "country": "Argentina",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "José de San Martín",
+            "nativeName": "José Francisco de San Martín y Matorras",
+            "lifespan": "1778-1850",
+            "era": "Independence Period (19th Century)",
+            "role": "General, Liberator",
+            "background": "José de San Martín was born in Yapeyú, Corrientes, in 1778. He moved to Spain at a young age and served in the Spanish army for 20 years, gaining valuable military experience. In 1812, he returned to Buenos Aires to join the independence movement against Spanish rule. He created the Regiment of Mounted Grenadiers and later the Army of the Andes. His strategic brilliance was demonstrated in the Crossing of the Andes, a feat considered one of the greatest military achievements in history, which led to the liberation of Chile and later Peru.",
+            "keyDecisions": [
+                "Returning to South America in 1812 to fight for independence.",
+                "Organizing the Army of the Andes and executing the Crossing of the Andes in 1817.",
+                "Declaring the independence of Peru in 1821.",
+                "Meeting with Simón Bolívar in Guayaquil and deciding to withdraw from command to allow Bolívar to complete the liberation of Peru."
+            ],
+            "achievements": [
+                "Liberated Argentina, Chile, and Peru from Spanish rule.",
+                "Considered the 'Father of the Nation' in Argentina.",
+                "Demonstrated exceptional military strategy and leadership.",
+                "Established the National Library of Peru."
+            ],
+            "challenges": [
+                "Overcoming the formidable natural barrier of the Andes mountains with an army.",
+                "Dealing with internal political strife and lack of support from the Buenos Aires government.",
+                "Facing superior Spanish royalist forces.",
+                "Living in exile in Europe for the last decades of his life."
+            ],
+            "legacy": "San Martín is revered as a national hero in Argentina and Peru. His selfless dedication to the cause of independence and his refusal to participate in civil wars set a high moral standard. He is remembered as the 'Saint of the Sword'.",
+            "quotes": [
+                "Serás lo que debas ser o no serás nada. (You will be what you must be, or you will be nothing.)",
+                "My saber will never leave its sheath for political opinions.",
+                "The library is destined to universal education, and is more powerful than our armies."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Key figure in the Spanish American wars of independence.",
+            "culturalImpact": "His image is ubiquitous in Argentina, appearing on currency, statues, and street names. His life is taught in schools as a model of patriotism and integrity.",
+            "primarySources": [
+                "Letters and correspondence of San Martín.",
+                "Military records of the Army of the Andes.",
+                "Memoirs of his contemporaries."
+            ],
+            "modernInterpretations": [
+                "Historians continue to analyze his strategic genius and his political decisions, particularly the Guayaquil conference.",
+                "He is viewed as a unifying figure in a historically divided nation."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Eva Perón",
+            "nativeName": "María Eva Duarte de Perón",
+            "lifespan": "1919-1952",
+            "era": "Modern Period (20th Century)",
+            "role": "First Lady, Politician, Activist",
+            "background": "Eva Perón, affectionately known as Evita, was born in rural Argentina in 1919. She moved to Buenos Aires at 15 to pursue an acting career. In 1944, she met Colonel Juan Perón, and they married the following year. As First Lady, she became a powerful political figure, championing the rights of workers (the 'descamisados') and women. She founded the Eva Perón Foundation to provide social services and played a crucial role in the passage of women's suffrage in Argentina.",
+            "keyDecisions": [
+                "Campaigning for women's right to vote, achieved in 1947.",
+                "Establishing the Eva Perón Foundation to bypass bureaucracy and directly help the poor.",
+                "Declining the nomination for Vice President in 1951 due to health and military opposition.",
+                "Supporting the rights of labor unions and workers."
+            ],
+            "achievements": [
+                "Secured women's suffrage in Argentina.",
+                "Built hospitals, schools, and orphanages through her foundation.",
+                "Became a spiritual leader of the nation and a symbol of the Peronist movement.",
+                "Formed the Female Peronist Party."
+            ],
+            "challenges": [
+                "Overcoming her humble origins and the stigma of being an actress in high society.",
+                "Battling cervical cancer, which claimed her life at age 33.",
+                "Facing opposition from the military and the traditional oligarchy.",
+                "Navigating the complex and polarized political landscape of Argentina."
+            ],
+            "legacy": "Evita remains a polarizing but iconic figure. To her supporters, she is a saint who fought for the poor; to her detractors, a populist demagogue. Her influence on Argentine politics and culture is undeniable and enduring.",
+            "quotes": [
+                "I will come again, and I will be millions.",
+                "Where there is a need, there is a right.",
+                "My biggest fear in life is to be forgotten."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Champion of the poor and women's rights, and a central figure in Peronism.",
+            "culturalImpact": "Subject of the musical 'Evita', numerous books, and films. Her image is a symbol of social justice for many Argentines.",
+            "primarySources": [
+                "La Razón de mi Vida (autobiography).",
+                "Speeches and radio broadcasts.",
+                "Foundation records."
+            ],
+            "modernInterpretations": [
+                "Feminist scholars analyze her role in empowering women.",
+                "Political scientists study her brand of populism and charisma."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Jorge Luis Borges",
+            "nativeName": "Jorge Francisco Isidoro Luis Borges Acevedo",
+            "lifespan": "1899-1986",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Poet",
+            "background": "Jorge Luis Borges was born in Buenos Aires in 1899. He was educated in Europe and became fluent in several languages. Borges is considered one of the most important writers of the 20th century, known for his short stories, essays, and poems that explore themes of infinity, mirrors, labyrinths, and the nature of reality. Despite becoming blind in his later years, he continued to write and lecture, serving as the Director of the National Library of Argentina.",
+            "keyDecisions": [
+                "Focusing on short fiction and essays rather than novels.",
+                "Opposing Peronism, which led to his removal from a library post.",
+                "Embracing ultraism in his early poetry.",
+                "Collaborating with Adolfo Bioy Casares."
+            ],
+            "achievements": [
+                "Revolutionized Latin American literature and influenced the magic realism movement.",
+                "Won the Cervantes Prize and the Jerusalem Prize.",
+                "Created a unique literary universe that challenges the reader's perception of time and space.",
+                "Director of the National Library of Argentina."
+            ],
+            "challenges": [
+                "Progressive blindness, which he described as a 'slow nightfall'.",
+                "Political persecution during the Perón era.",
+                "Being overlooked for the Nobel Prize in Literature, possibly due to his political views.",
+                "Shyness and introversion in his personal life."
+            ],
+            "legacy": "Borges's work has had a profound impact on world literature and philosophy. His concepts of the labyrinth and the infinite library have become cultural archetypes. He is regarded as a master of the Spanish language.",
+            "quotes": [
+                "I have always imagined that Paradise will be a kind of library.",
+                "To fall in love is to create a religion that has a fallible god.",
+                "Don't talk unless you can improve the silence."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "One of the most influential writers of the 20th century.",
+            "culturalImpact": "His works are studied globally. The term 'Borgesian' is used to describe surreal or complex situations.",
+            "primarySources": [
+                "Ficciones (1944).",
+                "The Aleph (1949).",
+                "Labyrinths (1962)."
+            ],
+            "modernInterpretations": [
+                "Critics explore the philosophical and mathematical underpinnings of his work.",
+                "His influence is traced in authors like Umberto Eco and Julio Cortázar."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Che Guevara",
+            "nativeName": "Ernesto Guevara",
+            "lifespan": "1928-1967",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary, Physician",
+            "background": "Ernesto 'Che' Guevara was born in Rosario, Argentina, in 1928. Trained as a doctor, his motorcycle journey through South America exposed him to the poverty and injustice faced by the continent's people, radicalizing his political views. He joined Fidel Castro's 26th of July Movement and played a pivotal role in the Cuban Revolution. He later attempted to incite revolutions in Africa and Bolivia, where he was captured and executed.",
+            "keyDecisions": [
+                "Embarking on his motorcycle diaries journey across South America.",
+                "Joining Fidel Castro in Mexico to overthrow the Batista regime in Cuba.",
+                "Serving as Minister of Industries and President of the National Bank in Cuba.",
+                "Leaving Cuba to spread revolution in Congo and Bolivia."
+            ],
+            "achievements": [
+                "Key figure in the success of the Cuban Revolution.",
+                "Authored 'Guerrilla Warfare', a manual for revolutionary tactics.",
+                "Became a global symbol of rebellion and anti-imperialism.",
+                "Implemented literacy and health campaigns in Cuba."
+            ],
+            "challenges": [
+                "Severe asthma throughout his life.",
+                "Managing the economic transition in post-revolution Cuba.",
+                "Failed revolutionary attempts in Congo and Bolivia.",
+                "Evading the CIA and Bolivian army."
+            ],
+            "legacy": "Che Guevara is a global icon of revolution, his face adorning t-shirts and posters worldwide. He is celebrated by some as a hero of the oppressed and condemned by others for his role in executions and authoritarianism.",
+            "quotes": [
+                "The revolution is not an apple that falls when it is ripe. You have to make it fall.",
+                "Better to die standing than to live on your knees.",
+                "Let the world change you and you can change the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Major figure of the Cuban Revolution and symbol of radical change.",
+            "culturalImpact": "The photo 'Guerrillero Heroico' is one of the most recognizable images in the world. He inspired generations of activists.",
+            "primarySources": [
+                "The Motorcycle Diaries.",
+                "Guerrilla Warfare.",
+                "Bolivian Diary."
+            ],
+            "modernInterpretations": [
+                "Debate continues over his effectiveness as a policymaker versus his success as a guerrilla leader.",
+                "His image has been commodified, contrasting with his anti-capitalist beliefs."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Lionel Messi",
+            "nativeName": "Lionel Andrés Messi",
+            "lifespan": "1987-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete, Footballer",
+            "background": "Lionel Messi was born in Rosario, Argentina, in 1987. Diagnosed with a growth hormone deficiency as a child, he moved to Spain to join FC Barcelona's youth academy, which paid for his treatment. He became one of the greatest football players of all time, winning numerous awards including multiple Ballon d'Or titles. In 2022, he led Argentina to victory in the FIFA World Cup, cementing his legacy.",
+            "keyDecisions": [
+                "Moving to Barcelona at age 13 to pursue his football career.",
+                "Choosing to play for the Argentine national team despite eligibility for Spain.",
+                "Leaving Barcelona for Paris Saint-Germain in 2021.",
+                "Joining Inter Miami in MLS in 2023."
+            ],
+            "achievements": [
+                "Won the FIFA World Cup with Argentina in 2022.",
+                "Record holder for most Ballon d'Or awards.",
+                "All-time top scorer for FC Barcelona and La Liga.",
+                "Won the Copa América in 2021."
+            ],
+            "challenges": [
+                "Overcoming growth hormone deficiency in childhood.",
+                "Facing intense pressure to replicate club success with the national team.",
+                "Losing several major international finals before his 2021 breakthrough.",
+                "Adapting to life in Europe at a young age."
+            ],
+            "legacy": "Messi is widely regarded as the greatest footballer of all time (GOAT). His humility and skill have made him a global role model. His World Cup win brought immense joy and unity to Argentina.",
+            "quotes": [
+                "You have to fight to reach your dream. You have to sacrifice and work hard for it.",
+                "I start early and I stay late, day after day, year after year.",
+                "It took me 17 years and 114 days to become an overnight success."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Global sports icon and arguably the greatest footballer in history.",
+            "culturalImpact": "He inspires millions of children worldwide. His jersey is one of the most sold globally. He is a source of immense national pride for Argentina.",
+            "primarySources": [
+                "Match records and statistics.",
+                "Interviews and press conferences.",
+                "Documentaries like 'Messi' (2014)."
+            ],
+            "modernInterpretations": [
+                "Analyzed for his impact on the economics of football.",
+                "Studied as a case of talent development and perseverance."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Diego Maradona",
+            "nativeName": "Diego Armando Maradona",
+            "lifespan": "1960-2020",
+            "era": "Modern Period (20th Century)",
+            "role": "Athlete, Footballer",
+            "background": "Diego Maradona was born in a shantytown in Lanús, Argentina, in 1960. His prodigious talent was evident from a young age. He led Argentina to victory in the 1986 World Cup, scoring the infamous 'Hand of God' goal and the 'Goal of the Century' in the same match against England. His career was marked by brilliance on the field and controversy off it.",
+            "keyDecisions": [
+                "Moving to Europe to play for Barcelona and then Napoli.",
+                "Leading Napoli to their first Serie A titles.",
+                "Managing the Argentine national team in 2010.",
+                "His various comebacks to football."
+            ],
+            "achievements": [
+                "Won the 1986 FIFA World Cup.",
+                "Transformed Napoli into a championship-winning team.",
+                "Voted FIFA Player of the Century (jointly with Pelé).",
+                "Regarded as a god-like figure in Argentina and Naples."
+            ],
+            "challenges": [
+                "Struggles with drug addiction and health issues.",
+                "Suspensions from football due to doping.",
+                "Media scrutiny and legal battles.",
+                "Managing his fame and personal life."
+            ],
+            "legacy": "Maradona is a cultural icon in Argentina, often referred to as 'D10S' (a play on 'Dios' and his jersey number 10). He represents the rebellious spirit and raw talent of the Argentine potrero.",
+            "quotes": [
+                "The goal was scored a little bit by the hand of God, a little by the head of Maradona.",
+                "I am black or white, I'll never be grey in my life.",
+                "To see the ball, to run after it, makes me the happiest man in the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "One of the most gifted and controversial athletes in history.",
+            "culturalImpact": "The 'Church of Maradona' was founded by his fans. He is the subject of countless songs and movies.",
+            "primarySources": [
+                "El Diego (autobiography).",
+                "Match footage and reports.",
+                "Documentaries like 'Diego Maradona' (2019)."
+            ],
+            "modernInterpretations": [
+                "Viewed as a flawed genius and a victim of his own success.",
+                "His impact on Neapolitan culture is still deeply felt."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Pope Francis",
+            "nativeName": "Jorge Mario Bergoglio",
+            "lifespan": "1936-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Religious Leader",
+            "background": "Jorge Mario Bergoglio was born in Buenos Aires in 1936. He worked as a chemical technician and bouncer before entering the priesthood. A Jesuit, he became Archbishop of Buenos Aires and was known for his humility and concern for the poor. In 2013, he was elected Pope, becoming the first Pope from the Americas and the Southern Hemisphere.",
+            "keyDecisions": [
+                "Choosing the name Francis in honor of Saint Francis of Assisi.",
+                "Refusing to live in the Apostolic Palace, opting for a simpler guest house.",
+                "Issuing the encyclical 'Laudato Si'' on the environment.",
+                "Promoting a more inclusive and merciful church."
+            ],
+            "achievements": [
+                "First Jesuit Pope and first Pope from the Americas.",
+                "Reformed the Vatican Bank and administration.",
+                "Advocated for action on climate change and migration.",
+                "Brokered diplomatic relations between the US and Cuba."
+            ],
+            "challenges": [
+                "Addressing the clergy sex abuse scandal.",
+                "Facing opposition from conservative factions within the Church.",
+                "Managing the declining influence of the Church in the West.",
+                "Health issues in his later years."
+            ],
+            "legacy": "Pope Francis has shifted the Catholic Church's focus towards social justice, mercy, and environmental stewardship. He is seen as a reformer who seeks to modernize the Church while maintaining its core traditions.",
+            "quotes": [
+                "Who am I to judge?",
+                "This economy kills.",
+                "First of all, I want to say good evening."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Leader of the Catholic Church and a major global moral voice.",
+            "culturalImpact": "His papacy has sparked global conversations on poverty, capitalism, and the environment. He is a source of pride for Latin America.",
+            "primarySources": [
+                "Encyclicals (Laudato Si', Fratelli Tutti).",
+                "Homilies and speeches.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Analyzed for his theological shift towards the 'peripheries'.",
+                "His leadership style is studied in organizational management."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Manuel Belgrano",
+            "nativeName": "Manuel José Joaquín del Corazón de Jesús Belgrano",
+            "lifespan": "1770-1820",
+            "era": "Independence Period (19th Century)",
+            "role": "General, Economist, Politician",
+            "background": "Manuel Belgrano was born in Buenos Aires in 1770. He studied law in Spain and returned to Argentina inspired by Enlightenment ideas. He was a key figure in the May Revolution of 1810 and led military campaigns for independence. He is best known for creating the flag of Argentina.",
+            "keyDecisions": [
+                "Creating the Argentine flag in 1812.",
+                "Leading the Jujuy Exodus to deny resources to the Spanish army.",
+                "Advocating for public education and economic development.",
+                "Donating his monetary rewards for the creation of schools."
+            ],
+            "achievements": [
+                "Creator of the Argentine Flag.",
+                "Won key battles like Tucumán and Salta.",
+                "Promoted agriculture, industry, and commerce.",
+                "One of the principal leaders of the Argentine War of Independence."
+            ],
+            "challenges": [
+                "Lack of formal military training.",
+                "Health problems and poverty in his final years.",
+                "Political infighting among independence leaders.",
+                "Defeats in the Paraguay and Vilcapugio campaigns."
+            ],
+            "legacy": "Belgrano is honored as one of the founding fathers of Argentina. His creation of the flag is a lasting symbol of national identity. He is remembered for his integrity and sacrifice.",
+            "quotes": [
+                "Life is nothing if liberty is lost.",
+                "I seek nothing for myself; I only wish to be useful to my countrymen.",
+                "Fear only belongs to the criminals."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Creator of the national flag and key independence leader.",
+            "culturalImpact": "Flag Day in Argentina is celebrated on the anniversary of his death. His monument dominates the Plaza de Mayo.",
+            "primarySources": [
+                "Autobiography.",
+                "Correspondence with San Martín.",
+                "Government decrees."
+            ],
+            "modernInterpretations": [
+                "Highlighted for his progressive views on education and women's rights.",
+                "Seen as a selfless patriot compared to other caudillos."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Domingo Faustino Sarmiento",
+            "nativeName": "Domingo Faustino Sarmiento",
+            "lifespan": "1811-1888",
+            "era": "Nation Building (19th Century)",
+            "role": "President, Educator, Writer",
+            "background": "Sarmiento was born in San Juan in 1811. A self-taught intellectual, he was a fierce opponent of the dictator Juan Manuel de Rosas. He spent years in exile in Chile. As President of Argentina (1868-1874), he focused on modernizing the country through education, immigration, and infrastructure.",
+            "keyDecisions": [
+                "Promoting public education as the foundation of democracy.",
+                "Encouraging European immigration to populate the country.",
+                "Writing 'Facundo', a critique of caudillismo.",
+                "Modernizing the military and communication systems."
+            ],
+            "achievements": [
+                "Tripled the school enrollment during his presidency.",
+                "Established the first teacher training colleges.",
+                "Authored 'Facundo: Civilization and Barbarism', a classic of Latin American literature.",
+                "Laid the groundwork for Argentina's golden age."
+            ],
+            "challenges": [
+                "Political opposition and civil unrest.",
+                "The War of the Triple Alliance against Paraguay.",
+                "Yellow fever epidemic in Buenos Aires.",
+                "Criticism for his views on indigenous peoples and gauchos."
+            ],
+            "legacy": "Known as the 'Teacher of the Americas', Sarmiento is revered for his contribution to education. However, his Eurocentric views and harsh treatment of indigenous populations are subjects of modern criticism.",
+            "quotes": [
+                "Barbarians, ideas cannot be killed!",
+                "To educate the sovereign.",
+                "All problems are problems of education."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Architect of the Argentine educational system and modern state.",
+            "culturalImpact": "Teacher's Day is celebrated on his death anniversary. His book 'Facundo' is essential reading.",
+            "primarySources": [
+                "Facundo (1845).",
+                "Recuerdos de Provincia.",
+                "Presidential papers."
+            ],
+            "modernInterpretations": [
+                "Praised for his vision of a modern nation but criticized for his racism and elitism.",
+                "His dichotomy of 'civilization vs. barbarism' is still debated."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Mercedes Sosa",
+            "nativeName": "Haydée Mercedes Sosa",
+            "lifespan": "1935-2009",
+            "era": "Modern Period (20th Century)",
+            "role": "Singer, Activist",
+            "background": "Mercedes Sosa, known as 'La Negra', was born in Tucumán in 1935. She was a key figure in the Nueva Canción movement, using folk music to address social and political issues. Her powerful voice and commitment to the poor made her a target of the military dictatorship, forcing her into exile.",
+            "keyDecisions": [
+                "Championing the 'Nueva Canción' movement.",
+                "Refusing to stop singing protest songs despite threats.",
+                "Returning to Argentina in 1982 shortly before the end of the dictatorship.",
+                "Collaborating with rock and pop artists to bridge musical generations."
+            ],
+            "achievements": [
+                "Considered the 'Voice of Latin America'.",
+                "Won several Latin Grammy Awards.",
+                "Performed at prestigious venues like Carnegie Hall and the Sistine Chapel.",
+                "Her version of 'Gracias a la Vida' became an anthem."
+            ],
+            "challenges": [
+                "Censorship and persecution by the military junta.",
+                "Exile in Europe.",
+                "Health struggles in her later years.",
+                "Overcoming prejudice as a woman of indigenous descent."
+            ],
+            "legacy": "Mercedes Sosa is an icon of Argentine folk music and human rights. Her music continues to inspire hope and resistance. She brought Argentine folklore to the world stage.",
+            "quotes": [
+                "Everything changes, that is not strange.",
+                "I don't sing for singing's sake, nor to show off my voice.",
+                "Thanks to life, which has given me so much."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The most famous Argentine folk singer and a symbol of resistance.",
+            "culturalImpact": "Her songs are staples of Latin American culture. She paved the way for future generations of musicians.",
+            "primarySources": [
+                "Discography (Cantata Sudamericana, Mujeres Argentinas).",
+                "Concert recordings.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a unifying cultural figure who transcended political divides in her later years.",
+                "Her influence on the 'Rock Nacional' movement is acknowledged."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Carlos Gardel",
+            "nativeName": "Charles Romuald Gardes",
+            "lifespan": "1890-1935",
+            "era": "Modern Period (Early 20th Century)",
+            "role": "Singer, Songwriter, Actor",
+            "background": "Carlos Gardel's birthplace is disputed (France or Uruguay), but he grew up in Buenos Aires. He is the most prominent figure in the history of tango. His baritone voice and dramatic phrasing popularized tango worldwide. He died tragically in a plane crash in Colombia at the height of his fame.",
+            "keyDecisions": [
+                "Transitioning tango from instrumental to vocal music (tango-canción).",
+                "Touring Europe and the US to internationalize tango.",
+                "Starring in films to promote his music.",
+                "Collaborating with lyricist Alfredo Le Pera."
+            ],
+            "achievements": [
+                "Known as 'The King of Tango'.",
+                "Composed classics like 'El día que me quieras' and 'Por una cabeza'.",
+                "Sold millions of records and starred in Paramount films.",
+                "Created the archetype of the tango singer."
+            ],
+            "challenges": [
+                "Overcoming a humble background.",
+                "Navigating the transition from silent to sound film.",
+                "Maintaining his image and career across different continents.",
+                "His untimely death cut short a legendary career."
+            ],
+            "legacy": "Gardel is a national myth in Argentina. The saying 'Gardel sings better every day' reflects his enduring popularity. His tomb is a pilgrimage site.",
+            "quotes": [
+                "Twenty years is nothing.",
+                "I am not from here, nor from there.",
+                "My Buenos Aires beloved."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The personification of Tango.",
+            "culturalImpact": "He defined the style and elegance of tango. His films are classics of early Latin American cinema.",
+            "primarySources": [
+                "Recordings (hundreds of songs).",
+                "Films (Cuesta abajo, El día que me quieras).",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "His voice remains the benchmark for tango singers.",
+                "The mystery of his birth adds to his legend."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Astor Piazzolla",
+            "nativeName": "Astor Pantaleón Piazzolla",
+            "lifespan": "1921-1992",
+            "era": "Modern Period (20th Century)",
+            "role": "Composer, Bandoneon Player",
+            "background": "Astor Piazzolla was born in Mar del Plata in 1921 and spent part of his childhood in New York. He revolutionized tango by incorporating elements of jazz and classical music, creating 'Nuevo Tango'. Initially rejected by traditionalists, his music eventually gained worldwide acclaim.",
+            "keyDecisions": [
+                "Studying with Nadia Boulanger in Paris, who encouraged him to embrace his tango roots.",
+                "Breaking with traditional tango structure and instrumentation.",
+                "Forming the Octeto Buenos Aires and later the Quinteto.",
+                "Collaborating with diverse artists like Gerry Mulligan."
+            ],
+            "achievements": [
+                "Created 'Nuevo Tango', revitalizing the genre.",
+                "Composed 'Libertango' and 'Adiós Nonino'.",
+                "Elevated the bandoneon to a concert instrument.",
+                "Influenced classical and jazz musicians globally."
+            ],
+            "challenges": [
+                "Harsh criticism and rejection from tango traditionalists in Argentina.",
+                "Financial struggles early in his career.",
+                "Health issues including a heart attack.",
+                "Balancing his innovative spirit with the expectations of the public."
+            ],
+            "legacy": "Piazzolla is one of the most performed composers of the 20th century. He saved tango from stagnation and gave it a new, modern language. His music is played in concert halls worldwide.",
+            "quotes": [
+                "For me, tango was always for the ear rather than the feet.",
+                "I have a vision of the tango that is different from everyone else.",
+                "Music is the only thing that can save the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Revolutionized tango music.",
+            "culturalImpact": "His music captures the urban essence of Buenos Aires. He bridged the gap between popular and classical music.",
+            "primarySources": [
+                "Musical scores and recordings.",
+                "Memoirs.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Regarded as a musical genius who was ahead of his time.",
+                "His works are standard repertoire for orchestras and soloists."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "René Favaloro",
+            "nativeName": "René Gerónimo Favaloro",
+            "lifespan": "1923-2000",
+            "era": "Modern Period (20th Century)",
+            "role": "Cardiac Surgeon, Educator",
+            "background": "René Favaloro was born in La Plata in 1923. He worked as a rural doctor before moving to the US to specialize in thoracic surgery. In 1967, he performed the first documented coronary artery bypass surgery, a technique that has saved countless lives. He returned to Argentina to establish a foundation dedicated to cardiology and education.",
+            "keyDecisions": [
+                "Working as a rural doctor in La Pampa for 12 years.",
+                "Moving to the Cleveland Clinic to study cardiac surgery.",
+                "Developing the coronary artery bypass graft (CABG) technique.",
+                "Returning to Argentina to serve his country despite better opportunities abroad."
+            ],
+            "achievements": [
+                "Pioneered coronary artery bypass surgery.",
+                "Established the Favaloro Foundation.",
+                "Trained hundreds of surgeons.",
+                "Advocated for a healthcare system based on social justice."
+            ],
+            "challenges": [
+                "Navigating the economic crises in Argentina.",
+                "Financial difficulties for his foundation due to government debts.",
+                "Fighting corruption in the healthcare system.",
+                "His tragic suicide in 2000, driven by despair over the state of his country."
+            ],
+            "legacy": "Favaloro is a national hero in Argentina, respected for his medical contributions and his moral integrity. His suicide sparked a national debate on the neglect of science and health.",
+            "quotes": [
+                "We must fight for a more humanistic medicine.",
+                "I am just a simple worker.",
+                "Progress must be for everyone, otherwise it is not progress."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Revolutionized cardiac surgery with the bypass technique.",
+            "culturalImpact": "His name is synonymous with excellence and ethics in medicine. The bypass is one of the most common surgeries worldwide.",
+            "primarySources": [
+                "Surgical journals describing the bypass technique.",
+                "His books (Recuerdos de un médico rural).",
+                "Foundation archives."
+            ],
+            "modernInterpretations": [
+                "Remembered as a martyr for the cause of public health.",
+                "His critique of the medical business remains relevant."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Julio Cortázar",
+            "nativeName": "Julio Florencio Cortázar",
+            "lifespan": "1914-1984",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Intellectual",
+            "background": "Julio Cortázar was born in Brussels to Argentine parents and grew up in Buenos Aires. He was a central figure of the Latin American Boom. His masterpiece, 'Hopscotch' (Rayuela), challenged the conventional structure of the novel. He lived much of his life in Paris and was politically active in support of leftist causes.",
+            "keyDecisions": [
+                "Moving to Paris in 1951.",
+                "Writing 'Hopscotch' with a non-linear structure.",
+                "Supporting the Cuban and Nicaraguan revolutions.",
+                "Translating Edgar Allan Poe into Spanish."
+            ],
+            "achievements": [
+                "Author of 'Hopscotch', a landmark of experimental literature.",
+                "Master of the short story form.",
+                "Influenced a generation of writers with his playful and intellectual style.",
+                "Won the Prix Médicis."
+            ],
+            "challenges": [
+                "Living in exile.",
+                "Balancing his literary work with political activism.",
+                "Health issues (leukemia).",
+                "Criticism from both the right and the left for his political stances."
+            ],
+            "legacy": "Cortázar is beloved for his imagination, humor, and literary innovation. He remains one of the most read Latin American authors. His work bridges the gap between surrealism and reality.",
+            "quotes": [
+                "And we looked for each other not to find each other but to meet each other.",
+                "Culture is the exercise of freedom.",
+                "Only by living absurdly is it possible to break out of this infinite absurdity."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Key figure of the Latin American literary Boom.",
+            "culturalImpact": "His stories are studied in schools and universities. He redefined the relationship between author and reader.",
+            "primarySources": [
+                "Hopscotch (1963).",
+                "Bestiario (1951).",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "His exploration of jazz and city life is highlighted.",
+                "His open-ended narratives continue to fascinate critics."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Quino",
+            "nativeName": "Joaquín Salvador Lavado Tejón",
+            "lifespan": "1932-2020",
+            "era": "Modern Period (20th Century)",
+            "role": "Cartoonist, Humorist",
+            "background": "Quino was born in Mendoza in 1932. He is best known for creating 'Mafalda', a comic strip about a socially conscious six-year-old girl. Mafalda became a cultural phenomenon in Argentina and throughout the Spanish-speaking world, offering sharp social and political commentary.",
+            "keyDecisions": [
+                "Creating Mafalda in 1964.",
+                "Ending the Mafalda strip in 1973 to avoid repetition and political pressure.",
+                "Continuing to publish graphic humor without recurring characters.",
+                "Using humor to criticize authoritarianism and social inequality."
+            ],
+            "achievements": [
+                "Mafalda is the most popular comic strip in Latin America.",
+                "Won the Prince of Asturias Award for Communication and Humanities.",
+                "Translated into over 30 languages.",
+                "His work remains relevant decades later."
+            ],
+            "challenges": [
+                "Censorship during the military dictatorship.",
+                "Exile in Italy.",
+                "Maintaining the quality of his work over decades.",
+                "Vision problems in his later years."
+            ],
+            "legacy": "Quino is regarded as a master of graphic humor. Mafalda is a symbol of non-conformity and critical thinking. His work has educated generations on human rights and democracy.",
+            "quotes": [
+                "Stop the world, I want to get off!",
+                "The problem is that there are more problemologists than solutionologists.",
+                "Ideally, one would have the heart in the head and the brain in the chest."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Creator of Mafalda and a brilliant social commentator.",
+            "culturalImpact": "Mafalda quotes are part of everyday language in Argentina. Statues of Mafalda exist in Buenos Aires and Spain.",
+            "primarySources": [
+                "Mafalda comic strips (1964-1973).",
+                "Humor books (Mundo Quino, Potentes, prepotentes e impotentes).",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "His critique of the middle class and global politics is seen as timeless.",
+                "Mafalda is considered a feminist icon by many."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Juan Manuel de Rosas",
+            "nativeName": "Juan Manuel José Domingo Ortiz de Rosas",
+            "lifespan": "1793-1877",
+            "era": "Nation Building (19th Century)",
+            "role": "Politician, Caudillo",
+            "background": "Juan Manuel de Rosas was a wealthy landowner who became the Governor of Buenos Aires and the de facto ruler of the Argentine Confederation. He was a Federalist leader who ruled with an iron fist, maintaining order but suppressing opposition. His era is known as the 'Rosista' period.",
+            "keyDecisions": [
+                "Establishing the 'Mazorca', a parapolice force to control dissent.",
+                "Defending national sovereignty against French and British blockades.",
+                "Opposing the Unitarian faction.",
+                "Going into exile in England after his defeat at the Battle of Caseros."
+            ],
+            "achievements": [
+                "Maintained the territorial integrity of the Argentine Confederation.",
+                "Defended the country against foreign intervention (Battle of Vuelta de Obligado).",
+                "Brought stability after years of civil war.",
+                "Represented the interests of the rural gauchos and landowners."
+            ],
+            "challenges": [
+                "Constant civil wars against Unitarians.",
+                "Foreign blockades affecting the economy.",
+                "Betrayal by his former ally Justo José de Urquiza.",
+                "Living in exile as a farmer in Southampton."
+            ],
+            "legacy": "Rosas is a highly controversial figure. For decades he was vilified as a tyrant, but historical revisionism has highlighted his defense of sovereignty and his popular support. He represents the Federalist tradition.",
+            "quotes": [
+                "He who does not hear the voice of the laws will hear the voice of the thunder.",
+                "I have not been a tyrant, but a man of order.",
+                "The people are my only support."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Dominant political figure of the mid-19th century.",
+            "culturalImpact": "His portrait was on the 20 peso bill. The color red (Federalist) was mandatory during his rule. He is a symbol of Argentine nationalism.",
+            "primarySources": [
+                "Government correspondence.",
+                "The British Packet and Argentine News.",
+                "Revisionist histories."
+            ],
+            "modernInterpretations": [
+                "Debate continues between 'Rosistas' and liberal historians.",
+                "Seen as a precursor to modern populism."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Gabriela Sabatini",
+            "nativeName": "Gabriela Beatriz Sabatini",
+            "lifespan": "1970-",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Athlete, Tennis Player",
+            "background": "Gabriela Sabatini was born in Buenos Aires in 1970. She became a tennis sensation in the 1980s and 1990s, known for her elegant style and one-handed backhand. She won the US Open in 1990 and was a silver medalist at the 1988 Olympics. She is considered one of the greatest South American female athletes.",
+            "keyDecisions": [
+                "Turning professional at a young age.",
+                "Developing a signature perfume line that became highly successful.",
+                "Retiring early at age 26 to pursue other interests.",
+                "Engaging in philanthropy."
+            ],
+            "achievements": [
+                "Won the US Open (1990) and Wimbledon doubles (1988).",
+                "Olympic Silver Medalist (1988).",
+                "Inducted into the International Tennis Hall of Fame.",
+                "Successful businesswoman with her perfume brand."
+            ],
+            "challenges": [
+                "Competing against legends like Steffi Graf and Monica Seles.",
+                "Shyness and media pressure.",
+                "Maintaining motivation at a high level.",
+                "The physical toll of professional tennis."
+            ],
+            "legacy": "Sabatini popularized tennis in Argentina, especially among women. She is admired for her sportsmanship and grace both on and off the court.",
+            "quotes": [
+                "I think I'm a very normal person who plays tennis.",
+                "Winning is not everything.",
+                "I want to be remembered as a good person."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Argentina's greatest female tennis player.",
+            "culturalImpact": "She inspired a tennis boom in the country. Her name is a brand in itself.",
+            "primarySources": [
+                "Match records.",
+                "Press interviews.",
+                "WTA archives."
+            ],
+            "modernInterpretations": [
+                "Role model for female athletes.",
+                "Example of a successful transition from sports to business."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Juan Manuel Fangio",
+            "nativeName": "Juan Manuel Fangio",
+            "lifespan": "1911-1995",
+            "era": "Modern Period (20th Century)",
+            "role": "Athlete, Racing Driver",
+            "background": "Juan Manuel Fangio, nicknamed 'El Chueco', was born in Balcarce in 1911. He dominated the first decade of Formula One racing, winning the World Drivers' Championship five times with four different teams—a record that stood for 47 years. He is considered one of the greatest drivers in history.",
+            "keyDecisions": [
+                "Moving to Europe to compete in Formula One in his late 30s.",
+                "Switching teams frequently to ensure he had the best car.",
+                "Retiring while still at the top of his game.",
+                "Surviving a kidnapping in Cuba in 1958."
+            ],
+            "achievements": [
+                "Five-time Formula One World Champion (1951, 1954, 1955, 1956, 1957).",
+                "Won 24 of his 52 Formula One races (highest winning percentage).",
+                "Regarded as the 'Master' of racing.",
+                "President of Mercedes-Benz Argentina."
+            ],
+            "challenges": [
+                "Competing in a highly dangerous era of motorsport.",
+                "Starting his F1 career at an older age than most.",
+                "Recovering from a serious accident in Monza in 1952.",
+                "Political instability in Argentina."
+            ],
+            "legacy": "Fangio's driving skill and sportsmanship are legendary. He set the standard for professional racing drivers. His record of championships was only surpassed by Michael Schumacher and Lewis Hamilton decades later.",
+            "quotes": [
+                "You must always strive to be the best, but you must never believe that you are.",
+                "To finish first, you must first finish.",
+                "Crazy people are not those who run, but those who watch."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "One of the greatest F1 drivers of all time.",
+            "culturalImpact": "A source of immense national pride. The Fangio Museum in Balcarce is a major attraction.",
+            "primarySources": [
+                "Race results and statistics.",
+                "Biographies.",
+                "Documentaries."
+            ],
+            "modernInterpretations": [
+                "His winning percentage remains a benchmark.",
+                "His ability to win with different teams highlights his adaptability and skill."
+            ]
+        }
+    ]
+}

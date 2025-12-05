@@ -1,0 +1,753 @@
+{
+    "country": "Niger",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Hamani Diori",
+            "nativeName": "Hamani Diori",
+            "lifespan": "1916-1989",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Hamani Diori was the first President of Niger. He led the country to independence and was a key figure in Francophone Africa until he was overthrown in a coup.",
+            "keyDecisions": [
+                "Founding the PPN-RDA.",
+                "Negotiating independence.",
+                "Supporting the Biafran separatists (controversial).",
+                "Being overthrown by Kountché."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "Diplomat.",
+                "Teacher.",
+                "Mediator."
+            ],
+            "challenges": [
+                "Drought (Sahel famine).",
+                "Corruption allegations.",
+                "Military coup (1974).",
+                "House arrest."
+            ],
+            "legacy": "Diori is the father of the nation, but his end was tragic. He represents the first era of post-colonial rule.",
+            "quotes": [
+                "African unity."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Father.",
+            "culturalImpact": "He is remembered as a statesman.",
+            "primarySources": [
+                "Speeches.",
+                "French archives."
+            ],
+            "modernInterpretations": [
+                "Respected for his diplomacy.",
+                "Criticized for his handling of the famine."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Seyni Kountché",
+            "nativeName": "Seyni Kountché",
+            "lifespan": "1931-1987",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Seyni Kountché was a military officer who ruled Niger from 1974 until his death. He is known for his strict discipline and focus on food security.",
+            "keyDecisions": [
+                "Leading the 1974 coup.",
+                "Suspending the constitution.",
+                "Promoting agriculture.",
+                "Fighting corruption."
+            ],
+            "achievements": [
+                "Restored order.",
+                "Improved food security.",
+                "Built infrastructure (Stade Seyni Kountché).",
+                "Honest leader."
+            ],
+            "challenges": [
+                "Coup attempts.",
+                "Libyan interference.",
+                "Health (brain tumor).",
+                "Authoritarianism."
+            ],
+            "legacy": "Kountché is the strict father. He is respected for his integrity and discipline.",
+            "quotes": [
+                "Order and work."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Soldier.",
+            "culturalImpact": "The national stadium is named after him.",
+            "primarySources": [
+                "Decrees.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a patriot.",
+                "His era is seen as stable."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Mamadou Tandja",
+            "nativeName": "Mamadou Tandja",
+            "lifespan": "1938-2020",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Mamadou Tandja was the President of Niger who brought stability but was overthrown when he tried to extend his term (Tazartché).",
+            "keyDecisions": [
+                "Winning elections in 1999 and 2004.",
+                "Improving the economy.",
+                "Changing the constitution to stay in power.",
+                "Being overthrown in 2010."
+            ],
+            "achievements": [
+                "Restored democracy (initially).",
+                "Economic growth.",
+                "Colonel.",
+                "Popular (initially)."
+            ],
+            "challenges": [
+                "Tuareg rebellion.",
+                "Famine.",
+                "Tazartché crisis.",
+                "Coup."
+            ],
+            "legacy": "Tandja is a lesson in overstaying one's welcome. He did good work but ruined it with greed.",
+            "quotes": [
+                "The people demand it."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Strongman.",
+            "culturalImpact": "His nickname was 'Baba T'."
+        },
+        {
+            "id": 4,
+            "name": "Djibo Bakary",
+            "nativeName": "Djibo Bakary",
+            "lifespan": "1922-1998",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician",
+            "background": "Djibo Bakary was a socialist politician and the first mayor of Niamey. He campaigned for immediate independence in the 1958 referendum (Sawaba movement).",
+            "keyDecisions": [
+                "Founding the Sawaba party.",
+                "Campaigning for 'No' in 1958.",
+                "Going into exile.",
+                "Attempting a guerrilla war."
+            ],
+            "achievements": [
+                "Independence hero.",
+                "Socialist leader.",
+                "Mayor.",
+                "Visionary."
+            ],
+            "challenges": [
+                "French interference.",
+                "Diori's repression.",
+                "Exile.",
+                "Failure of the referendum."
+            ],
+            "legacy": "Bakary is the lost alternative. He wanted total freedom, not the French community.",
+            "quotes": [
+                "Sawaba (Freedom)."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Revolutionary.",
+            "culturalImpact": "He is a hero to the left.",
+            "primarySources": [
+                "Sawaba archives.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a true patriot.",
+                "His failure is blamed on rigging."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Mahamadou Issoufou",
+            "nativeName": "Mahamadou Issoufou",
+            "lifespan": "1952-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "President",
+            "background": "Mahamadou Issoufou was the President of Niger who won the Ibrahim Prize for stepping down after his two terms, a rarity in the region.",
+            "keyDecisions": [
+                "Founding the PNDS party.",
+                "Winning the 2011 election.",
+                "Fighting Boko Haram.",
+                "Respecting the constitution."
+            ],
+            "achievements": [
+                "Ibrahim Prize winner.",
+                "Democrat.",
+                "Engineer.",
+                "Statesman."
+            ],
+            "challenges": [
+                "Terrorism.",
+                "Poverty.",
+                "Migration crisis.",
+                "Coup attempts."
+            ],
+            "legacy": "Issoufou is the model democrat. His peaceful transfer of power is his greatest achievement.",
+            "quotes": [
+                "Democracy is irreversible."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Democrat.",
+            "culturalImpact": "He is respected globally.",
+            "primarySources": [
+                "Speeches.",
+                "Ibrahim Prize citation."
+            ],
+            "modernInterpretations": [
+                "Praised for stepping down.",
+                "Criticized for domestic politics."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Mano Dayak",
+            "nativeName": "Mano Dayak",
+            "lifespan": "1949-1995",
+            "era": "Modern Period (20th Century)",
+            "role": "Rebel Leader",
+            "background": "Mano Dayak was a Tuareg leader and writer. He led the Tuareg rebellion in the 1990s and died in a mysterious plane crash while negotiating peace.",
+            "keyDecisions": [
+                "Leading the CRA (rebel group).",
+                "Writing books about Tuareg culture.",
+                "Negotiating with the government.",
+                "Dying in a crash."
+            ],
+            "achievements": [
+                "Tuareg spokesman.",
+                "Writer.",
+                "Guide (Paris-Dakar).",
+                "Martyr."
+            ],
+            "challenges": [
+                "Marginalization of Tuaregs.",
+                "War.",
+                "Distrust.",
+                "Death."
+            ],
+            "legacy": "Mano Dayak is the voice of the desert. He tried to bridge the gap between the Tuareg and the state.",
+            "quotes": [
+                "I was born with sand in my eyes."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Tuareg Leader.",
+            "culturalImpact": "The airport in Agadez is named after him.",
+            "primarySources": [
+                "I Was Born with Sand in My Eyes.",
+                "Peace accords."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His death is still suspicious."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Sarrounia",
+            "nativeName": "Sarrounia Mangou",
+            "lifespan": "19th Century",
+            "era": "Modern Period (19th Century)",
+            "role": "Queen, Warrior",
+            "background": "Sarrounia was a queen/priestess of the Azna people. She famously resisted the French Voulet-Chanoine mission in 1899.",
+            "keyDecisions": [
+                "Refusing to submit to the French.",
+                "Using magic and strategy.",
+                "Leading her troops in the Battle of Lougou.",
+                "Retreating to the forest."
+            ],
+            "achievements": [
+                "Resisted colonial conquest.",
+                "Sorceress.",
+                "Queen.",
+                "Symbol of resistance."
+            ],
+            "challenges": [
+                "French firepower.",
+                "Betrayal.",
+                "Isolation.",
+                "War."
+            ],
+            "legacy": "Sarrounia is the Amazon of Niger. She proved that magic and courage could fight guns.",
+            "quotes": [
+                "I will not bow."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sorceress Queen.",
+            "culturalImpact": "Subject of a famous film and book.",
+            "primarySources": [
+                "Oral traditions.",
+                "French reports."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a feminist icon.",
+                "Her power is legendary."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Boubou Hama",
+            "nativeName": "Boubou Hama",
+            "lifespan": "1906-1982",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Politician",
+            "background": "Boubou Hama was a historian, writer, and the President of the National Assembly. He was the intellectual giant of the Diori era.",
+            "keyDecisions": [
+                "Writing history books.",
+                "Promoting culture.",
+                "Serving as Diori's right hand.",
+                "Being imprisoned after the coup."
+            ],
+            "achievements": [
+                "Man of Culture.",
+                "Historian.",
+                "Politician.",
+                "Teacher."
+            ],
+            "challenges": [
+                "Political fall.",
+                "Imprisonment.",
+                "Preserving oral history.",
+                "Legacy."
+            ],
+            "legacy": "Boubou Hama is the memory of Niger. His books preserved the past for the future.",
+            "quotes": [
+                "A double culture."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sage.",
+            "culturalImpact": "The national museum is named after him.",
+            "primarySources": [
+                "The Empire of Gao.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Revered as a scholar.",
+                "His political role is secondary to his writing."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Oumarou Ganda",
+            "nativeName": "Oumarou Ganda",
+            "lifespan": "1935-1981",
+            "era": "Modern Period (20th Century)",
+            "role": "Director",
+            "background": "Oumarou Ganda was a filmmaker who started as an actor in Jean Rouch's 'Moi, un Noir'. He became a pioneer of African cinema.",
+            "keyDecisions": [
+                "Acting for Jean Rouch.",
+                "Directing 'Cabascabo'.",
+                "Winning the Golden Prize at Moscow.",
+                "Telling African stories."
+            ],
+            "achievements": [
+                "Pioneer director.",
+                "FESPACO winner.",
+                "Actor.",
+                "Storyteller."
+            ],
+            "challenges": [
+                "Lack of funding.",
+                "Colonial gaze.",
+                "Health.",
+                "Early death."
+            ],
+            "legacy": "Ganda is the father of Nigerien cinema. He moved from being the subject to being the creator.",
+            "quotes": [
+                "I want to show reality."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Filmmaker.",
+            "culturalImpact": "The cultural center is named after him.",
+            "primarySources": [
+                "Cabascabo.",
+                "The Exile."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His work is classic."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Ali Saibou",
+            "nativeName": "Ali Saibou",
+            "lifespan": "1940-2011",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Ali Saibou succeeded Kountché and oversaw the transition to multi-party democracy in the early 1990s.",
+            "keyDecisions": [
+                "Succeeding Kountché.",
+                "Declaring a general amnesty.",
+                "Convening the National Conference.",
+                "Stepping down."
+            ],
+            "achievements": [
+                "Democratizer.",
+                "Man of peace.",
+                "General.",
+                "Farmer."
+            ],
+            "challenges": [
+                "Student protests.",
+                "Tuareg rebellion.",
+                "Economic crisis.",
+                "Transition."
+            ],
+            "legacy": "Saibou is the man of the transition. He allowed democracy to happen without bloodshed.",
+            "quotes": [
+                "Peace."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Transition Leader.",
+            "culturalImpact": "He is remembered fondly.",
+            "primarySources": [
+                "Speeches.",
+                "Conference records."
+            ],
+            "modernInterpretations": [
+                "Viewed as a benevolent leader.",
+                "His willingness to yield power is praised."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Zalika Souley",
+            "nativeName": "Zalika Souley",
+            "lifespan": "1947-2021",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Actress",
+            "background": "Zalika Souley was the first professional actress in Niger and arguably in sub-Saharan Africa. She starred in many of Oumarou Ganda's films.",
+            "keyDecisions": [
+                "Acting in 'Le Retour d'un Aventurier'.",
+                "Defying social norms.",
+                "Living a bohemian life.",
+                "Staying in Niamey."
+            ],
+            "achievements": [
+                "First actress.",
+                "Cinema icon.",
+                "Pioneer.",
+                "Rebel."
+            ],
+            "challenges": [
+                "Poverty in later life.",
+                "Social stigma.",
+                "Decline of the industry.",
+                "Health."
+            ],
+            "legacy": "Zalika is the queen of Nigerien cinema. Her life was as dramatic as her roles.",
+            "quotes": [
+                "I loved cinema."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Star.",
+            "culturalImpact": "She paved the way for women in arts.",
+            "primarySources": [
+                "Films.",
+                "Documentary 'Al'lèèssi'."
+            ],
+            "modernInterpretations": [
+                "Revered as a legend.",
+                "Her plight highlighted the neglect of artists."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Rahmatou Keïta",
+            "nativeName": "Rahmatou Keïta",
+            "lifespan": "1950s-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Journalist, Director",
+            "background": "Rahmatou Keïta is a journalist and filmmaker. She is known for her documentaries and for promoting African culture.",
+            "keyDecisions": [
+                "Working as a journalist in France.",
+                "Directing 'Al'lèèssi'.",
+                "Directing 'The Wedding Ring'.",
+                "Writing books."
+            ],
+            "achievements": [
+                "Award-winning director.",
+                "Journalist.",
+                "Cultural ambassador.",
+                "Feminist."
+            ],
+            "challenges": [
+                "Funding.",
+                "Distribution.",
+                "Being a woman in the industry.",
+                "Preserving tradition."
+            ],
+            "legacy": "Keïta is the modern voice of Niger. She tells stories of women and aristocracy.",
+            "quotes": [
+                "My culture is my strength."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Storyteller.",
+            "culturalImpact": "Her films are visually stunning.",
+            "primarySources": [
+                "Films.",
+                "Articles."
+            ],
+            "modernInterpretations": [
+                "Celebrated as an artist.",
+                "Her work is elegant."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Moussa Maâzou",
+            "nativeName": "Ouwo Moussa Maâzou",
+            "lifespan": "1988-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Moussa Maâzou is a professional footballer. He is one of the most successful Nigerien players, having played in Europe and for the national team.",
+            "keyDecisions": [
+                "Signing with CSKA Moscow.",
+                "Playing for the Mena (national team).",
+                "Scoring goals in AFCON qualifiers.",
+                "Traveling the world."
+            ],
+            "achievements": [
+                "Top scorer.",
+                "National icon.",
+                "Role model.",
+                "Athlete."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Inconsistency.",
+                "Club instability.",
+                "Criticism."
+            ],
+            "legacy": "Maâzou is the star of the Mena. He gave hope to young footballers.",
+            "quotes": [
+                "I play for Niger."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Striker.",
+            "culturalImpact": "He is famous.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a talent.",
+                "His career was a rollercoaster."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Hama Amadou",
+            "nativeName": "Hama Amadou",
+            "lifespan": "1950-2024",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Politician",
+            "background": "Hama Amadou was a Prime Minister and opposition leader. He was a central figure in Nigerien politics for decades, known as 'The Phoenix'.",
+            "keyDecisions": [
+                "Serving as Prime Minister under Tandja.",
+                "Breaking with Tandja.",
+                "Running for president.",
+                "Going into exile."
+            ],
+            "achievements": [
+                "Prime Minister.",
+                "Kingmaker.",
+                "Survivor.",
+                "Orator."
+            ],
+            "challenges": [
+                "Baby trafficking scandal (imprisoned).",
+                "Exile.",
+                "Health.",
+                "Political rivalry."
+            ],
+            "legacy": "Hama Amadou was the eternal contender. His death marked the end of a political generation.",
+            "quotes": [
+                "I will return."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Phoenix.",
+            "culturalImpact": "He had a cult following.",
+            "primarySources": [
+                "Speeches.",
+                "Court records."
+            ],
+            "modernInterpretations": [
+                "Viewed as brilliant but controversial.",
+                "His legal troubles tarnished his image."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Kel Assouf",
+            "nativeName": "Anana Harouna (Kel Assouf)",
+            "lifespan": "1980s-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician",
+            "background": "Kel Assouf is a Tuareg rock band led by Anana Harouna. They blend traditional desert blues with heavy rock.",
+            "keyDecisions": [
+                "Moving to Brussels.",
+                "Forming the band.",
+                "Mixing rock and Ishumar music.",
+                "Touring globally."
+            ],
+            "achievements": [
+                "Global ambassadors of Tuareg rock.",
+                "Innovators.",
+                "Musicians.",
+                "Activists."
+            ],
+            "challenges": [
+                "Exile.",
+                "Competition (Tinariwen).",
+                "Preserving identity.",
+                "Music industry."
+            ],
+            "legacy": "Kel Assouf is the new sound of the Sahara. They carry the message of the desert to the world.",
+            "quotes": [
+                "Black Tenere."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Rocker.",
+            "culturalImpact": "They are popular in Europe.",
+            "primarySources": [
+                "Albums.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Celebrated as energetic.",
+                "Their fusion is unique."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Ide Oumarou",
+            "nativeName": "Ide Oumarou",
+            "lifespan": "1937-2002",
+            "era": "Modern Period (20th Century)",
+            "role": "Diplomat, Writer",
+            "background": "Ide Oumarou was a diplomat and writer. He served as the Secretary-General of the OAU (Organization of African Unity) and wrote 'Gros Plan'.",
+            "keyDecisions": [
+                "Serving as Foreign Minister.",
+                "Leading the OAU.",
+                "Writing novels.",
+                "Promoting African unity."
+            ],
+            "achievements": [
+                "OAU Secretary-General.",
+                "Grand Prize for Literature.",
+                "Statesman.",
+                "Intellectual."
+            ],
+            "challenges": [
+                "Diplomatic crises.",
+                "Apartheid era.",
+                "Health.",
+                "Writing."
+            ],
+            "legacy": "Ide Oumarou was a voice of reason. He represented Niger on the world stage.",
+            "quotes": [
+                "Africa must unite."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Diplomat.",
+            "culturalImpact": "His books are read.",
+            "primarySources": [
+                "Gros Plan.",
+                "OAU records."
+            ],
+            "modernInterpretations": [
+                "Respected as a thinker.",
+                "His literary work is underrated."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Alhaji Mamman Shata",
+            "nativeName": "Mamman Shata",
+            "lifespan": "1923-1999",
+            "era": "Modern Period (20th Century)",
+            "role": "Musician",
+            "background": "Mamman Shata was a Hausa griot and singer. Although Nigerian by birth, he is a cultural icon in Niger and the entire Hausa-speaking world.",
+            "keyDecisions": [
+                "Singing for the people.",
+                "Recording thousands of songs.",
+                "Traveling across the region.",
+                "Preserving oral history."
+            ],
+            "achievements": [
+                "King of Hausa music.",
+                "Legend.",
+                "Philosopher.",
+                "Doctor of Letters (Honorary)."
+            ],
+            "challenges": [
+                "Illiteracy.",
+                "Politics.",
+                "Health.",
+                "Fame."
+            ],
+            "legacy": "Shata is the voice of the Hausa people. His wisdom is quoted daily.",
+            "quotes": [
+                "Bakandamiya."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Griot.",
+            "culturalImpact": "He is a god of music.",
+            "primarySources": [
+                "Songs.",
+                "Oral traditions."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His memory is sacred."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Aïchatou Mindaoudou",
+            "nativeName": "Aïchatou Mindaoudou Souleymane",
+            "lifespan": "1959-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Diplomat",
+            "background": "Aïchatou Mindaoudou is a diplomat and politician. She served as Foreign Minister and as the UN Special Representative in Côte d'Ivoire.",
+            "keyDecisions": [
+                "Serving as Foreign Minister.",
+                "Leading UN missions (UNOCI, UNAMID).",
+                "Advocating for women.",
+                "Mediating conflicts."
+            ],
+            "achievements": [
+                "Top diplomat.",
+                "UN leader.",
+                "Lawyer.",
+                "Role model."
+            ],
+            "challenges": [
+                "Conflict zones.",
+                "Politics.",
+                "Gender barriers.",
+                "Pressure."
+            ],
+            "legacy": "Mindaoudou is one of the most powerful women in Africa. She represents Nigerien competence.",
+            "quotes": [
+                "Peace is possible."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Peacemaker.",
+            "culturalImpact": "She is respected globally.",
+            "primarySources": [
+                "UN reports.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a leader.",
+                "Her work in Côte d'Ivoire was crucial."
+            ]
+        }
+    ]
+}

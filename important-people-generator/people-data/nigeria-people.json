@@ -1,0 +1,798 @@
+{
+    "country": "Nigeria",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Nnamdi Azikiwe",
+            "nativeName": "Nnamdi Azikiwe (Zik)",
+            "lifespan": "1904-1996",
+            "era": "Modern Period (20th Century)",
+            "role": "President, Nationalist",
+            "background": "Nnamdi Azikiwe, often called 'Zik of Africa', was a driving force behind Nigeria's independence and served as its first President. He was a pan-Africanist and a journalist who used his newspapers to advocate for freedom.",
+            "keyDecisions": [
+                "Founding the West African Pilot newspaper.",
+                "Co-founding the National Council of Nigeria and the Cameroons (NCNC).",
+                "Advocating for a federal system of government.",
+                "Becoming the first Governor-General and then President of Nigeria."
+            ],
+            "achievements": [
+                "Father of Nigerian Nationalism.",
+                "First President of Nigeria.",
+                "Promoted education and founded the University of Nigeria, Nsukka.",
+                "Champion of Pan-Africanism."
+            ],
+            "challenges": [
+                "Colonial opposition and sedition charges.",
+                "Ethnic tensions between the Igbo, Yoruba, and Hausa-Fulani.",
+                "The 1966 military coup which ousted him.",
+                "The Nigerian Civil War (Biafra)."
+            ],
+            "legacy": "Zik is a giant of African history. His motto 'Show the light and the people will find the way' inspired a generation. He is on the 500 Naira note.",
+            "quotes": [
+                "Originality is the essence of true scholarship. Creativity is the soul of the true scholar.",
+                "No matter how old an individual may be, no matter how wealthy, no matter how famous, he is still a student of life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First President and Father of the Nation.",
+            "culturalImpact": "His name is synonymous with Nigerian independence. Zikist movement was a major political force.",
+            "primarySources": [
+                "My Odyssey (Autobiography).",
+                "Renascent Africa.",
+                "Newspaper editorials."
+            ],
+            "modernInterpretations": [
+                "Revered as a unifying figure.",
+                "His compromises during the independence era are sometimes debated."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Obafemi Awolowo",
+            "nativeName": "Obafemi Jeremiah Oyeniyi Awolowo",
+            "lifespan": "1909-1987",
+            "era": "Modern Period (20th Century)",
+            "role": "Premier, Nationalist",
+            "background": "Chief Obafemi Awolowo was a nationalist and statesman who played a key role in Nigeria's independence movement. He was the Premier of the Western Region and is credited with establishing free primary education and the first television station in Africa.",
+            "keyDecisions": [
+                "Founding the Action Group party.",
+                "Implementing free universal primary education in the West.",
+                "Advocating for federalism.",
+                "Serving as Federal Commissioner for Finance during the Civil War."
+            ],
+            "achievements": [
+                "Sage of Nigerian Politics.",
+                "Built the Cocoa House and Liberty Stadium.",
+                "Established the first TV station in Africa (WNTV).",
+                "Managed Nigeria's finances during the war without borrowing."
+            ],
+            "challenges": [
+                "Treasonable felony trial and imprisonment.",
+                "Political rivalry with Zik and Ahmadu Bello.",
+                "Losing the presidential elections.",
+                "The complexity of Nigerian ethnic politics."
+            ],
+            "legacy": "Awo is the father of the Yoruba nation and a progressive icon. His policies on education and healthcare set the standard. He is on the 100 Naira note.",
+            "quotes": [
+                "Violence never settles anything right: apart from injuring your own soul, it injures the best cause.",
+                "I need not be a prime minister to be a statesman."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Premier of Western Region and Federalist.",
+            "culturalImpact": "His 'Awoism' ideology is still influential. The cap he wore is iconic.",
+            "primarySources": [
+                "Path to Nigerian Freedom.",
+                "Awo: The Autobiography of Chief Obafemi Awolowo.",
+                "Voice of Reason."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the best President Nigeria never had.",
+                "His role in the Civil War blockade is controversial in the East."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ahmadu Bello",
+            "nativeName": "Ahmadu Bello (Sardauna of Sokoto)",
+            "lifespan": "1910-1966",
+            "era": "Modern Period (20th Century)",
+            "role": "Premier, Traditional Leader",
+            "background": "Sir Ahmadu Bello was the Sardauna of Sokoto and the Premier of the Northern Region. He was the dominant political figure in the North and a key architect of Nigerian independence. He was assassinated in the 1966 coup.",
+            "keyDecisions": [
+                "Leading the Northern People's Congress (NPC).",
+                "Choosing to remain Premier of the North rather than becoming Prime Minister.",
+                "Promoting the 'Northernization' policy.",
+                "Unifying the diverse tribes of the North."
+            ],
+            "achievements": [
+                "Modernized Northern Nigeria.",
+                "Founded Ahmadu Bello University.",
+                "Unified the North politically.",
+                "Knighted by Queen Elizabeth II."
+            ],
+            "challenges": [
+                "Bridging the educational gap between North and South.",
+                "Managing religious and ethnic diversity.",
+                "The 1966 coup which targeted him specifically.",
+                "Accusations of feudalism."
+            ],
+            "legacy": "The Sardauna is the patron saint of Northern politics. His legacy of leadership and development is revered. He is on the 200 Naira note.",
+            "quotes": [
+                "I would rather be called the Sultan of Sokoto than the President of Nigeria.",
+                "Here in Northern Nigeria we have people of many different races, tribes and religions who are knit together to common history, common interest and common goals."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Premier of Northern Region.",
+            "culturalImpact": "He is the symbol of Northern unity. His assassination triggered the events leading to the Civil War.",
+            "primarySources": [
+                "My Life (Autobiography).",
+                "Speeches.",
+                "Colonial records."
+            ],
+            "modernInterpretations": [
+                "Revered as a martyr in the North.",
+                "Viewed as a conservative figure in the South."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Fela Kuti",
+            "nativeName": "Fela Anikulapo Kuti",
+            "lifespan": "1938-1997",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Musician, Activist",
+            "background": "Fela Kuti was the pioneer of Afrobeat music and a fierce human rights activist. He used his music to criticize military dictators, corruption, and colonial mentality. He declared his compound, the Kalakuta Republic, independent.",
+            "keyDecisions": [
+                "Creating Afrobeat by fusing jazz, funk, and highlife.",
+                "Singing in Pidgin English to reach the masses.",
+                "Criticizing the government in songs like 'Zombie' and 'International Thief Thief'.",
+                "Marrying 27 women in one day."
+            ],
+            "achievements": [
+                "King of Afrobeat.",
+                "Global music icon.",
+                "Voice of the voiceless.",
+                "Inspired a generation of activists."
+            ],
+            "challenges": [
+                "Constant harassment, arrests, and beatings by the military.",
+                "The destruction of the Kalakuta Republic.",
+                "The murder of his mother by soldiers.",
+                "Health issues (AIDS-related)."
+            ],
+            "legacy": "Fela is a god of music and resistance. 'Fela!' the musical was a Broadway hit. His shrine is a tourist attraction.",
+            "quotes": [
+                "Music is the weapon of the future.",
+                "I hold death in my pouch, I cannot die.",
+                "Human rights is my property."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Creator of Afrobeat and political dissident.",
+            "culturalImpact": "His sons Femi and Seun continue his legacy. He is the symbol of anti-establishment.",
+            "primarySources": [
+                "Songs (Zombie, Water No Get Enemy).",
+                "Biographies.",
+                "Documentaries."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a musical genius and prophet.",
+                "His lifestyle is controversial but his message is timeless."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Chinua Achebe",
+            "nativeName": "Chinua Achebe",
+            "lifespan": "1930-2013",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Chinua Achebe was a novelist, poet, and critic. His debut novel, 'Things Fall Apart', is the most widely read book in modern African literature. He challenged Western narratives about Africa.",
+            "keyDecisions": [
+                "Writing 'Things Fall Apart' as a response to 'Heart of Darkness'.",
+                "Writing in English to reach a global audience.",
+                "Supporting Biafra during the Civil War.",
+                "Rejecting national honors in protest of corruption."
+            ],
+            "achievements": [
+                "Father of Modern African Literature.",
+                "Man Booker International Prize.",
+                "Things Fall Apart has sold over 20 million copies.",
+                "Gave Africa a voice in world literature."
+            ],
+            "challenges": [
+                "The Nigerian Civil War.",
+                "Car accident that left him paralyzed.",
+                "Living in exile.",
+                "Criticism for his views on Awo and the war."
+            ],
+            "legacy": "Achebe is a literary titan. He taught the world that 'until the lions have their own historians, the history of the hunt will always glorify the hunter'.",
+            "quotes": [
+                "Proverbs are the palm oil with which words are eaten.",
+                "One of the truest tests of integrity is its blunt refusal to be compromised.",
+                "Storytellers are a threat. They threaten all champions of control."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Author of Things Fall Apart.",
+            "culturalImpact": "His books are required reading globally. He redefined African identity.",
+            "primarySources": [
+                "Things Fall Apart.",
+                "There Was a Country.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Revered as a sage and storyteller.",
+                "His memoir 'There Was a Country' sparked renewed debate about the Civil War."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Wole Soyinka",
+            "nativeName": "Akinwande Oluwole Babatunde Soyinka",
+            "lifespan": "1934-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Playwright, Activist",
+            "background": "Wole Soyinka is a playwright, poet, and essayist. He was the first African to be awarded the Nobel Prize in Literature (1986). He is a fierce critic of tyranny and has been imprisoned multiple times.",
+            "keyDecisions": [
+                "Attempting to mediate during the Civil War (leading to his imprisonment).",
+                "Writing plays that blend Yoruba mythology with modern issues.",
+                "Fleeing into exile during the Abacha regime.",
+                "Tearing up his US green card after Trump's election."
+            ],
+            "achievements": [
+                "Nobel Prize in Literature (1986).",
+                "Founded the Pyrates Confraternity.",
+                "Wrote 'Death and the King's Horseman'.",
+                "Global voice for human rights."
+            ],
+            "challenges": [
+                "Solitary confinement for 22 months.",
+                "Death sentence in absentia.",
+                "Constant conflict with military regimes.",
+                "Being misunderstood as an elitist."
+            ],
+            "legacy": "Soyinka is the conscience of the nation. His command of language is unmatched. He remains a thorn in the side of bad leaders.",
+            "quotes": [
+                "The man dies in all who keep silent in the face of tyranny.",
+                "Books and all forms of writing are terror to those who wish to suppress the truth.",
+                "I am a glutton for tranquility."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First African Nobel Laureate in Literature.",
+            "culturalImpact": "His plays are classics. He is a symbol of intellectual resistance.",
+            "primarySources": [
+                "The Man Died: Prison Notes.",
+                "Ake: The Years of Childhood.",
+                "Plays."
+            ],
+            "modernInterpretations": [
+                "Respected as a literary giant.",
+                "His complex English is sometimes seen as inaccessible to the masses."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Funmilayo Ransome-Kuti",
+            "nativeName": "Funmilayo Ransome-Kuti",
+            "lifespan": "1900-1978",
+            "era": "Modern Period (20th Century)",
+            "role": "Activist, Educator",
+            "background": "Funmilayo Ransome-Kuti was a feminist, educator, and anti-colonial activist. She was the mother of Fela Kuti. She led the Abeokuta Women's Revolt, forcing the Alake (King) to abdicate.",
+            "keyDecisions": [
+                "Founding the Abeokuta Women's Union.",
+                "Leading protests against unfair taxation of market women.",
+                "Being the first Nigerian woman to drive a car.",
+                "Negotiating with the British colonial government."
+            ],
+            "achievements": [
+                "Lioness of Lisabi.",
+                "Forced the abdication of the Alake of Egbaland.",
+                "Champion of women's suffrage.",
+                "Lenin Peace Prize."
+            ],
+            "challenges": [
+                "Patriarchal society.",
+                "Colonial oppression.",
+                "Being thrown out of a window by soldiers at her son's compound (leading to her death).",
+                "Fighting for women's rights in a conservative era."
+            ],
+            "legacy": "She is the mother of Nigerian feminism. Her courage is legendary. She raised a dynasty of activists and musicians.",
+            "quotes": [
+                "As for the charges against me, I am unconcerned.",
+                "We shall not pay tax until we have representation."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Pioneer of women's rights.",
+            "culturalImpact": "She is a role model for Nigerian women. Her death is a reminder of military brutality.",
+            "primarySources": [
+                "Biographies.",
+                "Newspaper archives.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a fearless leader.",
+                "Recognized as one of the most important women in Nigerian history."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Murtala Muhammed",
+            "nativeName": "Murtala Ramat Muhammed",
+            "lifespan": "1938-1976",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Head of State, General",
+            "background": "General Murtala Muhammed was a military Head of State who came to power in 1975. He launched a massive anti-corruption campaign and initiated the process of moving the capital to Abuja. He was assassinated in a failed coup.",
+            "keyDecisions": [
+                "Overthrowing Yakubu Gowon.",
+                "Purging the civil service of corrupt officials ('with immediate effect').",
+                "Creating new states.",
+                "Deciding to move the capital from Lagos to Abuja."
+            ],
+            "achievements": [
+                "Restored a sense of discipline and purpose to Nigeria.",
+                "National Hero.",
+                "Supported liberation movements in Angola and Mozambique.",
+                "His face is on the 20 Naira note."
+            ],
+            "challenges": [
+                "Entrenched corruption.",
+                "The brevity of his rule (200 days).",
+                "Assassination in traffic.",
+                "His role in the Civil War (Asaba Massacre)."
+            ],
+            "legacy": "Murtala is the 'JFK of Nigeria'. His short rule is remembered as a golden age of dynamism. He is a martyr.",
+            "quotes": [
+                "Africa has come of age.",
+                "This government will not tolerate indiscipline."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Reformist Head of State.",
+            "culturalImpact": "Murtala Muhammed International Airport is named after him. He represents bold leadership.",
+            "primarySources": [
+                "Speeches.",
+                "Government decrees.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Adored for his anti-corruption stance.",
+                "Criticized for the lack of due process in his purges and his war record."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Ngozi Okonjo-Iweala",
+            "nativeName": "Ngozi Okonjo-Iweala",
+            "lifespan": "1954-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Economist, Diplomat",
+            "background": "Dr. Ngozi Okonjo-Iweala is a global economist and the first female and first African Director-General of the World Trade Organization (WTO). She served twice as Nigeria's Finance Minister.",
+            "keyDecisions": [
+                "Negotiating the cancellation of Nigeria's $30 billion debt to the Paris Club.",
+                "Implementing economic reforms.",
+                "Running for the presidency of the World Bank.",
+                "Leading the WTO."
+            ],
+            "achievements": [
+                "First female DG of WTO.",
+                "Cleared Nigeria's debt.",
+                "Time 100 Most Influential People.",
+                "Global role model for women."
+            ],
+            "challenges": [
+                "Fighting corruption (her mother was kidnapped as a threat).",
+                "Navigating the politics of international trade.",
+                "Criticism of her policies at home.",
+                "Breaking glass ceilings."
+            ],
+            "legacy": "Ngozi is 'Okonjo-Wahala' (Trouble) to the corrupt, but a hero to the world. She represents competence and integrity.",
+            "quotes": [
+                "I can take the hardship, I can take the criticism, but I will not let anyone stop me from doing what is right.",
+                "Investing in women is smart economics."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "WTO Director-General.",
+            "culturalImpact": "Her signature headgear is iconic. She inspires girls to pursue economics and leadership.",
+            "primarySources": [
+                "Reforming the Unreformable.",
+                "Fighting Corruption is Dangerous.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a global leader.",
+                "Her technocratic approach is widely respected."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Usman dan Fodio",
+            "nativeName": "Usman dan Fodio",
+            "lifespan": "1754-1817",
+            "era": "Modern Period (18th-19th Century)",
+            "role": "Religious Leader, Scholar",
+            "background": "Shehu Usman dan Fodio was a Fulani Islamic scholar and revolutionary who founded the Sokoto Caliphate. He led a jihad against the Hausa kingdoms, criticizing their corruption and syncretism.",
+            "keyDecisions": [
+                "Preaching against the corruption of the Hausa rulers.",
+                "Launching the Jihad of 1804.",
+                "Establishing the Sokoto Caliphate.",
+                "Writing extensively on theology and law."
+            ],
+            "achievements": [
+                "Founded one of the largest empires in Africa.",
+                "Unified the Hausa states.",
+                "Promoted Islamic scholarship and literacy.",
+                "Established a system of administration that lasted for a century."
+            ],
+            "challenges": [
+                "Resistance from the Hausa kings (Sarkis).",
+                "Managing a vast and diverse empire.",
+                "Internal dissent.",
+                "Balancing religious idealism with political reality."
+            ],
+            "legacy": "The Sokoto Caliphate profoundly shaped Northern Nigeria. His descendants (the Sultans of Sokoto) are still the spiritual leaders of Nigerian Muslims.",
+            "quotes": [
+                "Conscience is an open wound; only truth can heal it.",
+                "A kingdom can endure with unbelief, but it cannot endure with injustice."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Founder of the Sokoto Caliphate.",
+            "culturalImpact": "His writings are still studied. He is a hero of the Fulani people.",
+            "primarySources": [
+                "Kitab al-Farq.",
+                "Bayan Wujub al-Hijra.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a reformer and saint.",
+                "His jihad is sometimes invoked by modern Islamist groups (controversially)."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Olaudah Equiano",
+            "nativeName": "Olaudah Equiano (Gustavus Vassa)",
+            "lifespan": "1745-1797",
+            "era": "Modern Period (18th Century)",
+            "role": "Abolitionist, Writer",
+            "background": "Olaudah Equiano was a former enslaved African who bought his freedom and became a prominent abolitionist in Britain. His autobiography was a bestseller and helped turn public opinion against the slave trade.",
+            "keyDecisions": [
+                "Learning to read and write.",
+                "Buying his own freedom.",
+                "Joining the Sons of Africa abolitionist group.",
+                "Publishing his autobiography."
+            ],
+            "achievements": [
+                "Wrote 'The Interesting Narrative of the Life of Olaudah Equiano'.",
+                "Instrumental in the abolition of the slave trade.",
+                "First African to explore the Arctic.",
+                "Proved the humanity of Africans to a skeptical Europe."
+            ],
+            "challenges": [
+                "The horrors of the Middle Passage and slavery.",
+                "Racism in Britain.",
+                "Proving his origins (some debated if he was born in Africa).",
+                "Fighting a powerful economic system."
+            ],
+            "legacy": "Equiano is the father of black literature. His book is a classic. He is a symbol of resilience and freedom.",
+            "quotes": [
+                "The tortures and murder of God's creatures is not justice.",
+                "Am I not a man and a brother?"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Pioneer Abolitionist.",
+            "culturalImpact": "His story is the definitive account of the African experience of slavery.",
+            "primarySources": [
+                "The Interesting Narrative.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero of the African Diaspora.",
+                "His Igbo origins are a source of pride."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Anthony Enahoro",
+            "nativeName": "Anthony Eromosele Enahoro",
+            "lifespan": "1923-2010",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician, Activist",
+            "background": "Chief Anthony Enahoro was a foremost anti-colonial activist. He is famous for moving the first motion for Nigeria's independence in the parliament in 1953. He remained a pro-democracy activist until his death.",
+            "keyDecisions": [
+                "Moving the motion for independence in 1953.",
+                "Opposing the Abacha dictatorship (NADECO).",
+                "Going into exile.",
+                "Advocating for restructuring Nigeria."
+            ],
+            "achievements": [
+                "Father of Nigerian Independence motion.",
+                "Youngest editor ever (at age 21).",
+                "Information Minister during the Civil War.",
+                "Champion of democracy."
+            ],
+            "challenges": [
+                "Imprisonment for sedition and treason.",
+                "The rejection of his 1953 motion by Northern delegates.",
+                "Living in exile.",
+                "The failure of Nigeria to achieve true federalism."
+            ],
+            "legacy": "Enahoro is the symbol of the struggle for independence and democracy. He never gave up on the Nigerian project.",
+            "quotes": [
+                "Self-government for Nigeria now.",
+                "The struggle continues."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Mover of the Independence Motion.",
+            "culturalImpact": "He is a hero of the Midwest and the pro-democracy movement.",
+            "primarySources": [
+                "Fugitive Offender (Autobiography).",
+                "Parliamentary Hansards.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as an elder statesman.",
+                "His call for restructuring is still the main topic of Nigerian politics."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Herbert Macaulay",
+            "nativeName": "Olayinka Herbert Samuel Heelas Badmus Macaulay",
+            "lifespan": "1864-1946",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Nationalist, Surveyor",
+            "background": "Herbert Macaulay is considered the 'Father of Nigerian Nationalism'. A grandson of Bishop Crowther, he founded the first political party in Nigeria (NNDP) and fought against colonial land seizures.",
+            "keyDecisions": [
+                "Founding the NNDP in 1923.",
+                "Defending the rights of the Eleko of Lagos.",
+                "Opposing the water rate tax.",
+                "Mentoring Zik and other younger nationalists."
+            ],
+            "achievements": [
+                "Father of Nigerian Nationalism.",
+                "First Nigerian civil engineer.",
+                "Successfully challenged the colonial government in the Privy Council.",
+                "His face is on the 1 Naira coin."
+            ],
+            "challenges": [
+                "Imprisonment by the colonial government.",
+                "Being barred from public office.",
+                "The limitations of Lagos-centric politics.",
+                "Dying just before the NCNC tour."
+            ],
+            "legacy": "Macaulay laid the foundation for Nigerian politics. He proved that the colonial government could be challenged.",
+            "quotes": [
+                "The dimensions of 'The True Whig' are not to be measured by the yardstick of the 'False Whig'.",
+                "Lagos belongs to the people of Lagos."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of Nigerian Nationalism.",
+            "culturalImpact": "He is the grandfather of Nigerian politics. The 'Wizard of Kirsten Hall'.",
+            "primarySources": [
+                "Lagos Daily News.",
+                "Colonial court records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a pioneer.",
+                "His elite background is noted, but his commitment to the people is unquestioned."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Queen Amina",
+            "nativeName": "Amina Sukhera",
+            "lifespan": "c. 1533-1610",
+            "era": "Pre-Colonial Period (16th Century)",
+            "role": "Warrior Queen",
+            "background": "Queen Amina of Zazzau (Zaria) was a legendary Hausa warrior queen. She expanded the territory of the Hausa people to its largest borders and built famous walls around the cities she conquered.",
+            "keyDecisions": [
+                "Refusing to marry so she could rule.",
+                "Leading her army personally into battle.",
+                "Building the 'Ganuwar Amina' (Amina's Walls).",
+                "Opening up trade routes."
+            ],
+            "achievements": [
+                "Expanded Zazzau to the Niger River.",
+                "First woman to become Sarauniya (Queen) in a male-dominated society.",
+                "Introduced kola nut cultivation to the region.",
+                "Legendary military strategist."
+            ],
+            "challenges": [
+                "Gender bias.",
+                "Constant warfare.",
+                "Maintaining control over conquered territories.",
+                "Her mysterious death."
+            ],
+            "legacy": "Amina is the symbol of female power in Nigeria. 'A woman as capable as a man' is her epithet. She is the inspiration for Xena-like figures in African lore.",
+            "quotes": [
+                "I am Amina, daughter of Nikatau, a woman as capable as a man."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Warrior Queen of Zazzau.",
+            "culturalImpact": "Statue in Lagos. Subject of movies and books. Symbol of feminism.",
+            "primarySources": [
+                "Kano Chronicle.",
+                "Oral traditions."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a feminist icon.",
+                "Some debate the extent of her conquests, but her existence is historical."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Samuel Ajayi Crowther",
+            "nativeName": "Ajayi",
+            "lifespan": "1809-1891",
+            "era": "Modern Period (19th Century)",
+            "role": "Bishop, Linguist",
+            "background": "Bishop Samuel Ajayi Crowther was a Yoruba scholar and the first African Anglican bishop. Rescued from a slave ship, he became a missionary and translated the Bible into Yoruba, standardizing the language.",
+            "keyDecisions": [
+                "Converting to Christianity after being rescued.",
+                "Translating the Bible into Yoruba.",
+                "Leading the Niger Mission.",
+                "Advocating for the 'Three Cs' (Christianity, Commerce, Civilization)."
+            ],
+            "achievements": [
+                "First African Bishop.",
+                "Father of Yoruba literature.",
+                "Doctor of Divinity from Oxford.",
+                "Bridge between African and Western cultures."
+            ],
+            "challenges": [
+                "Racism from white missionaries (Henry Townsend).",
+                "Kidnapped and enslaved as a boy.",
+                "Resistance from traditionalists.",
+                "The collapse of the Niger Mission under racist pressure."
+            ],
+            "legacy": "Crowther is a giant of Nigerian history. He proved the intellectual capacity of Africans. The Yoruba Bible is his monument.",
+            "quotes": [
+                "God moves in a mysterious way.",
+                "I am a brand plucked from the burning."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First African Bishop and Translator.",
+            "culturalImpact": "He created the standard Yoruba language used today. He is a hero to Christians.",
+            "primarySources": [
+                "Journals.",
+                "Yoruba Bible.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint and scholar.",
+                "His treatment by the church in his later years is seen as a prime example of colonial racism."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Tafawa Balewa",
+            "nativeName": "Abubakar Tafawa Balewa",
+            "lifespan": "1912-1966",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister",
+            "background": "Sir Abubakar Tafawa Balewa was the first and only Prime Minister of independent Nigeria. Known as the 'Golden Voice of Africa' for his oratory, he was a moderate leader who was assassinated in the 1966 coup.",
+            "keyDecisions": [
+                "Forming a coalition government.",
+                "Delivering Nigeria's independence speech.",
+                "Founding the Organization of African Unity (OAU).",
+                "Maintaining a pro-Western foreign policy."
+            ],
+            "achievements": [
+                "First Prime Minister.",
+                "Golden Voice of Africa.",
+                "Knighted by the Queen.",
+                "Symbol of Northern leadership."
+            ],
+            "challenges": [
+                "Being overshadowed by the Sardauna.",
+                "The political turbulence of the First Republic.",
+                "The Western Region crisis.",
+                "Assassination."
+            ],
+            "legacy": "Balewa is remembered as a gentleman and a victim of circumstances. His portrait is on the 5 Naira note.",
+            "quotes": [
+                "Today is Independence Day.",
+                "We shall not fail for want of determination."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Prime Minister.",
+            "culturalImpact": "Tafawa Balewa Square in Lagos is a national monument.",
+            "primarySources": [
+                "Speeches.",
+                "Parliamentary records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Respected for his humility.",
+                "Seen as a tragic figure caught in the crossfire."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Ken Saro-Wiwa",
+            "nativeName": "Kenule Beeson Saro-Wiwa",
+            "lifespan": "1941-1995",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Activist, Writer",
+            "background": "Ken Saro-Wiwa was an environmental activist and writer who fought for the rights of the Ogoni people against the degradation of their land by oil companies (Shell) and the Nigerian government. He was executed by the Abacha regime.",
+            "keyDecisions": [
+                "Founding the Movement for the Survival of the Ogoni People (MOSOP).",
+                "Leading peaceful protests against Shell.",
+                "Writing 'Sozaboy' (novel in rotten English).",
+                "Refusing to be silenced."
+            ],
+            "achievements": [
+                "Right Livelihood Award.",
+                "Brought global attention to the Niger Delta crisis.",
+                "Goldman Environmental Prize.",
+                "Martyr for environmental justice."
+            ],
+            "challenges": [
+                "Fighting a multinational giant and a military dictatorship.",
+                "Imprisonment and torture.",
+                "False accusations of murder.",
+                "Execution by hanging."
+            ],
+            "legacy": "Saro-Wiwa is an icon of environmentalism. His execution led to Nigeria's suspension from the Commonwealth. 'The fish have died' is his haunting message.",
+            "quotes": [
+                "Lord take my soul, but the struggle continues.",
+                "I accuse the oil companies of practicing genocide against the Ogoni.",
+                "The pen is mightier than the sword."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Environmental Martyr.",
+            "culturalImpact": "He inspired the Niger Delta struggle. His writing is unique.",
+            "primarySources": [
+                "A Month and a Day (Detention Diary).",
+                "Sozaboy.",
+                "MOSOP Manifesto."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "Shell settled a lawsuit over his death for $15.5 million (without admitting guilt)."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Stephen Keshi",
+            "nativeName": "Stephen Okechukwu Keshi",
+            "lifespan": "1962-2016",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete, Coach",
+            "background": "Stephen Keshi, the 'Big Boss', was a football legend. He captained the Super Eagles to victory in the 1994 African Cup of Nations and later coached them to victory in 2013, becoming one of only two men to win the AFCON as player and coach.",
+            "keyDecisions": [
+                "Moving to Europe to play professionally (opening the door for others).",
+                "Captaining the 'Golden Generation' of 1994.",
+                "Coaching Togo to their first World Cup.",
+                "Coaching Nigeria to AFCON glory in 2013."
+            ],
+            "achievements": [
+                "Won AFCON as player and coach.",
+                "Qualified two African nations for the World Cup.",
+                "Captain of the Super Eagles.",
+                "Legend of African football."
+            ],
+            "challenges": [
+                "Conflict with football administrators.",
+                "The pressure of coaching the Super Eagles.",
+                "Sudden death at 54.",
+                "Managing big egos in the team."
+            ],
+            "legacy": "Keshi is the Big Boss. He proved that African coaches could succeed. He is a legend.",
+            "quotes": [
+                "I am not a foreign coach, I am a Nigerian coach.",
+                "Football is my life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Football Legend.",
+            "culturalImpact": "He is the face of Nigerian football success.",
+            "primarySources": [
+                "Match records.",
+                "Interviews.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a patriot and leader.",
+                "His death was a shock to the nation."
+            ]
+        }
+    ]
+}

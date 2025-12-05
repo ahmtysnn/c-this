@@ -1,0 +1,761 @@
+{
+    "country": "Poland",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Marie Curie",
+            "nativeName": "Maria Skłodowska-Curie",
+            "lifespan": "1867-1934",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Scientist",
+            "background": "Marie Curie was a physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize and the only person to win in two different scientific fields.",
+            "keyDecisions": [
+                "Moving to Paris to study.",
+                "Isolating radium and polonium.",
+                "Refusing to patent her discoveries.",
+                "Driving mobile X-ray units in WWI."
+            ],
+            "achievements": [
+                "Nobel Prize in Physics (1903).",
+                "Nobel Prize in Chemistry (1911).",
+                "Discovered two elements.",
+                "First female professor at the Sorbonne."
+            ],
+            "challenges": [
+                "Sexism in science.",
+                "Poverty.",
+                "Radiation sickness (aplastic anemia).",
+                "Scandal over her affair with Langevin."
+            ],
+            "legacy": "Marie Curie is the mother of modern physics. She is a global icon of science.",
+            "quotes": [
+                "Nothing in life is to be feared, it is only to be understood."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Scientific Genius.",
+            "culturalImpact": "She is the most famous Polish woman in history. Polonium is named after Poland.",
+            "primarySources": [
+                "Lab notebooks.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius and feminist icon.",
+                "Her sacrifice for science is legendary."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Pope John Paul II",
+            "nativeName": "Karol Józef Wojtyła",
+            "lifespan": "1920-2005",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Religious Leader",
+            "background": "John Paul II was the head of the Catholic Church from 1978 to 2005. He was the first non-Italian pope in 455 years and played a crucial role in ending communism in Europe.",
+            "keyDecisions": [
+                "Visiting Poland in 1979 ('Be not afraid').",
+                "Supporting Solidarity.",
+                "Traveling the world (104 trips).",
+                "Forgiving his assassin."
+            ],
+            "achievements": [
+                "Saint.",
+                "Helped fall the Iron Curtain.",
+                "Most traveled Pope.",
+                "Improved relations with Jews."
+            ],
+            "challenges": [
+                "Assassination attempt (1981).",
+                "Parkinson's disease.",
+                "Clerical sex abuse scandals (criticized for handling).",
+                "Communism."
+            ],
+            "legacy": "John Paul II is the spiritual father of free Poland. He changed the course of history.",
+            "quotes": [
+                "Be not afraid."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Polish Pope.",
+            "culturalImpact": "He is a national hero. His picture is in every Polish home.",
+            "primarySources": [
+                "Encyclicals.",
+                "Crossing the Threshold of Hope."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint.",
+                "His conservative views are debated today."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Frédéric Chopin",
+            "nativeName": "Fryderyk Franciszek Chopin",
+            "lifespan": "1810-1849",
+            "era": "Modern Period (19th Century)",
+            "role": "Composer",
+            "background": "Frédéric Chopin was a composer and virtuoso pianist of the Romantic era. He wrote primarily for solo piano and is known as the 'Poet of the Piano'.",
+            "keyDecisions": [
+                "Leaving Poland before the November Uprising.",
+                "Settling in Paris.",
+                "Refusing to return to Russian-occupied Poland.",
+                "Composing mazurkas and polonaises to honor his homeland."
+            ],
+            "achievements": [
+                "Greatest Polish composer.",
+                "Revolutionized piano music.",
+                "National icon.",
+                "Musical genius."
+            ],
+            "challenges": [
+                "Tuberculosis.",
+                "Exile.",
+                "Turbulent relationship with George Sand.",
+                "Early death."
+            ],
+            "legacy": "Chopin is the soul of Poland. His heart is buried in Warsaw, his body in Paris.",
+            "quotes": [
+                "Simplicity is the final achievement."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Poet of the Piano.",
+            "culturalImpact": "The Chopin Competition is the Olympics of piano. His music defined Polish nationalism.",
+            "primarySources": [
+                "Sheet music.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His music is timeless."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Lech Wałęsa",
+            "nativeName": "Lech Wałęsa",
+            "lifespan": "1943-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Activist, President",
+            "background": "Lech Wałęsa is a labor leader who co-founded Solidarity, the Soviet bloc's first independent trade union. He won the Nobel Peace Prize and served as President of Poland.",
+            "keyDecisions": [
+                "Jumping over the shipyard fence (1980).",
+                "Leading the strike.",
+                "Signing the Gdansk Agreement.",
+                "Negotiating the Round Table Talks."
+            ],
+            "achievements": [
+                "Nobel Peace Prize (1983).",
+                "First democratically elected President.",
+                "Toppled communism.",
+                "Legendary electrician."
+            ],
+            "challenges": [
+                "Martial law (internment).",
+                "Communist repression.",
+                "Allegations of collaboration ('Bolek').",
+                "Political infighting."
+            ],
+            "legacy": "Wałęsa is the symbol of the fall of communism. He is a hero of the 20th century.",
+            "quotes": [
+                "We, the people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Solidarity Leader.",
+            "culturalImpact": "His mustache is iconic. He is a controversial but historic figure.",
+            "primarySources": [
+                "A Way of Hope (Autobiography).",
+                "Gdansk Agreement."
+            ],
+            "modernInterpretations": [
+                "Revered abroad.",
+                "Polarizing at home due to his presidency and past."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Nicolaus Copernicus",
+            "nativeName": "Mikołaj Kopernik",
+            "lifespan": "1473-1543",
+            "era": "Renaissance Period (15th-16th Century)",
+            "role": "Astronomer",
+            "background": "Nicolaus Copernicus was a Renaissance polymath who formulated a model of the universe that placed the Sun rather than the Earth at the center (heliocentrism).",
+            "keyDecisions": [
+                "Proposing the heliocentric theory.",
+                "Writing 'De revolutionibus orbium coelestium'.",
+                "Delaying publication until his death.",
+                "Working as a canon and physician."
+            ],
+            "achievements": [
+                "Stopped the Sun and moved the Earth.",
+                "Father of Modern Astronomy.",
+                "Copernican Revolution.",
+                "Economic theories (Gresham's Law)."
+            ],
+            "challenges": [
+                "Church doctrine.",
+                "Lack of telescopes.",
+                "Fear of ridicule.",
+                "Scientific dogma."
+            ],
+            "legacy": "Copernicus changed our place in the universe. He is the father of the Scientific Revolution.",
+            "quotes": [
+                "To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Astronomer.",
+            "culturalImpact": "He is a national hero. Torun is his city.",
+            "primarySources": [
+                "De revolutionibus orbium coelestium.",
+                "Commentariolus."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His nationality (Polish/German) was once debated, now settled as Polish."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Józef Piłsudski",
+            "nativeName": "Józef Klemens Piłsudski",
+            "lifespan": "1867-1935",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Statesman, Marshal",
+            "background": "Józef Piłsudski was a statesman who was chiefly responsible for the creation of the Second Polish Republic in 1918. He defeated the Red Army in 1920.",
+            "keyDecisions": [
+                "Creating the Polish Legions.",
+                "Declaring independence in 1918.",
+                "Winning the Battle of Warsaw (Miracle on the Vistula).",
+                "Staging the May Coup (1926)."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "Saved Europe from Bolshevism.",
+                "First Marshal of Poland.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Russian imprisonment.",
+                "Siberian exile.",
+                "Political fragmentation.",
+                "Authoritarianism (Sanacja)."
+            ],
+            "legacy": "Piłsudski is the grandfather of modern Poland. He is the protector of the state.",
+            "quotes": [
+                "To be defeated and not submit, is victory."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Marshal.",
+            "culturalImpact": "He is revered by patriots. His tomb is in Wawel Cathedral.",
+            "primarySources": [
+                "Memoirs.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "His coup is criticized by democrats."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Tadeusz Kościuszko",
+            "nativeName": "Andrzej Tadeusz Bonawentura Kościuszko",
+            "lifespan": "1746-1817",
+            "era": "Modern Period (18th-19th Century)",
+            "role": "General",
+            "background": "Tadeusz Kościuszko was a military engineer and leader who fought in the American Revolutionary War and led the Kościuszko Uprising against Russia.",
+            "keyDecisions": [
+                "Fighting for American independence (Saratoga, West Point).",
+                "Leading the 1794 Uprising.",
+                "Issuing the Proclamation of Połaniec (freeing serfs).",
+                "Refusing to serve Napoleon."
+            ],
+            "achievements": [
+                "Hero of Two Worlds.",
+                "Designed West Point.",
+                "Champion of liberty.",
+                "Abolitionist."
+            ],
+            "challenges": [
+                "Defeat at Maciejowice.",
+                "Imprisonment in Russia.",
+                "The partitions of Poland.",
+                "Exile."
+            ],
+            "legacy": "Kościuszko is the ultimate freedom fighter. He is a hero in Poland, the US, and Belarus.",
+            "quotes": [
+                "For our freedom and yours."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Hero of Two Worlds.",
+            "culturalImpact": "Mount Kosciuszko (Australia) is named after him. Bridges in NY are named after him.",
+            "primarySources": [
+                "Letters.",
+                "Military orders."
+            ],
+            "modernInterpretations": [
+                "Revered as a pure hero.",
+                "His commitment to human rights was ahead of his time."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Adam Mickiewicz",
+            "nativeName": "Adam Bernard Mickiewicz",
+            "lifespan": "1798-1855",
+            "era": "Modern Period (19th Century)",
+            "role": "Poet",
+            "background": "Adam Mickiewicz is the national poet of Poland. A Romantic bard, his works inspired the Polish independence movement during the partitions.",
+            "keyDecisions": [
+                "Writing 'Pan Tadeusz'.",
+                "Going into exile.",
+                "Organizing the Polish Legion in Italy.",
+                "Lecturing at the Collège de France."
+            ],
+            "achievements": [
+                "National Bard.",
+                "Wrote the national epic.",
+                "Spiritual leader of the Great Emigration.",
+                "Prophet."
+            ],
+            "challenges": [
+                "Exile.",
+                "Censorship.",
+                "Mysticism (Towianism).",
+                "Cholera (cause of death)."
+            ],
+            "legacy": "Mickiewicz is the voice of Poland. 'Pan Tadeusz' is the Polish bible.",
+            "quotes": [
+                "Lithuania, my fatherland! You are like health."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Bard.",
+            "culturalImpact": "His statue is in every major city. He kept the nation alive through words.",
+            "primarySources": [
+                "Pan Tadeusz.",
+                "Forefathers' Eve."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His messianism is studied."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "John III Sobieski",
+            "nativeName": "Jan III Sobieski",
+            "lifespan": "1629-1696",
+            "era": "Early Modern Period (17th Century)",
+            "role": "King",
+            "background": "John III Sobieski was the King of Poland and Grand Duke of Lithuania. He is famous for his victory over the Ottoman Turks at the Battle of Vienna in 1683.",
+            "keyDecisions": [
+                "Leading the relief of Vienna.",
+                "Leading the largest cavalry charge in history (Winged Hussars).",
+                "Reforming the army.",
+                "Patronizing the arts."
+            ],
+            "achievements": [
+                "Savior of Vienna.",
+                "Lion of Lechistan.",
+                "Defeated the Ottomans.",
+                "Last great King of Poland."
+            ],
+            "challenges": [
+                "Internal opposition (magnates).",
+                "The decline of the Commonwealth.",
+                "Health issues (obesity).",
+                "Ungrateful allies."
+            ],
+            "legacy": "Sobieski is the defender of Christendom. His victory at Vienna is a turning point in European history.",
+            "quotes": [
+                "Veni, vidi, Deus vicit (I came, I saw, God conquered)."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Savior of Europe.",
+            "culturalImpact": "He is a symbol of military glory. The Winged Hussars are legendary.",
+            "primarySources": [
+                "Letters to Queen Marysieńka.",
+                "Military records."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "His reign was the last flash of brilliance before the decline."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Irena Sendler",
+            "nativeName": "Irena Stanisława Sendlerowa",
+            "lifespan": "1910-2008",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Humanitarian",
+            "background": "Irena Sendler was a social worker and nurse who served in the Polish Underground during WWII. She smuggled 2,500 Jewish children out of the Warsaw Ghetto.",
+            "keyDecisions": [
+                "Joining Zegota (Council to Aid Jews).",
+                "Smuggling children in ambulances and toolboxes.",
+                "Burying their names in jars.",
+                "Refusing to betray her network under torture."
+            ],
+            "achievements": [
+                "Saved 2,500 children.",
+                "Righteous Among the Nations.",
+                "Order of the White Eagle.",
+                "Nominated for Nobel Peace Prize."
+            ],
+            "challenges": [
+                "Gestapo arrest and torture (broken legs).",
+                "Death sentence (escaped).",
+                "Communist persecution.",
+                "Obscurity for decades."
+            ],
+            "legacy": "Sendler is an angel of mercy. She showed the power of one person to do good.",
+            "quotes": [
+                "Every child saved with my help is the justification of my existence on this Earth, not a title to glory."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Holocaust Heroine.",
+            "culturalImpact": "She is a national hero. 'Life in a Jar' play made her famous.",
+            "primarySources": [
+                "Interviews.",
+                "Zegota records."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint.",
+                "Her humility is legendary."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Robert Lewandowski",
+            "nativeName": "Robert Lewandowski",
+            "lifespan": "1988-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Robert Lewandowski is a professional footballer and captain of the Polish national team. He is one of the greatest strikers of all time.",
+            "keyDecisions": [
+                "Moving to the Bundesliga (Dortmund, Bayern).",
+                "Scoring 5 goals in 9 minutes.",
+                "Breaking Gerd Muller's record.",
+                "Leading Poland to major tournaments."
+            ],
+            "achievements": [
+                "FIFA Best Men's Player.",
+                "Bundesliga records.",
+                "Champions League winner.",
+                "National icon."
+            ],
+            "challenges": [
+                "Early career rejection.",
+                "Pressure.",
+                "Injuries.",
+                "Carrying the national team."
+            ],
+            "legacy": "Lewandowski is the face of modern Poland. He is a global superstar.",
+            "quotes": [
+                "Never stop dreaming."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Football Star.",
+            "culturalImpact": "He is an idol to millions.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His professionalism is a model."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Wisława Szymborska",
+            "nativeName": "Maria Wisława Anna Szymborska",
+            "lifespan": "1923-2012",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Poet",
+            "background": "Wisława Szymborska was a poet, essayist, and translator. She won the Nobel Prize in Literature in 1996 for her ironic and philosophical poetry.",
+            "keyDecisions": [
+                "Writing poetry with 'Mozartian joy'.",
+                "Renouncing her early socialist realism works.",
+                "Living a private life in Krakow.",
+                "Creating collages."
+            ],
+            "achievements": [
+                "Nobel Prize in Literature.",
+                "Order of the White Eagle.",
+                "Master of irony.",
+                "Beloved poet."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Shyness (the 'Nobel tragedy').",
+                "Smoking.",
+                "Political changes."
+            ],
+            "legacy": "Szymborska is the wise grandmother of Polish literature. Her poems are simple yet profound.",
+            "quotes": [
+                "I prefer the absurdity of writing poems to the absurdity of not writing poems."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Nobel Laureate.",
+            "culturalImpact": "Her poems are widely quoted. She is a symbol of Krakow.",
+            "primarySources": [
+                "View with a Grain of Sand.",
+                "Calling Out to Yeti."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Her wit is timeless."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Witold Pilecki",
+            "nativeName": "Witold Pilecki",
+            "lifespan": "1901-1948",
+            "era": "Modern Period (20th Century)",
+            "role": "Soldier, Spy",
+            "background": "Witold Pilecki was a cavalry officer and intelligence agent. He volunteered to be imprisoned in Auschwitz to gather intelligence and organize resistance.",
+            "keyDecisions": [
+                "Volunteering for Auschwitz (Operation).",
+                "Organizing the ZOW resistance in the camp.",
+                "Escaping from Auschwitz.",
+                "Fighting in the Warsaw Uprising."
+            ],
+            "achievements": [
+                "Wrote the Pilecki Report (first intel on the Holocaust).",
+                "Only person to volunteer for Auschwitz.",
+                "Hero of the Underground.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Horrors of Auschwitz.",
+                "Communist torture.",
+                "Show trial.",
+                "Execution."
+            ],
+            "legacy": "Pilecki is the bravest of the brave. His story was suppressed by communists for decades.",
+            "quotes": [
+                "I tried to live my life so that in the hour of my death I would feel joy rather than fear."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Volunteer.",
+            "culturalImpact": "He is a symbol of total sacrifice. 'The Auschwitz Volunteer' book made him famous globally.",
+            "primarySources": [
+                "The Pilecki Report.",
+                "Trial records."
+            ],
+            "modernInterpretations": [
+                "Revered as a saintly hero.",
+                "His execution is seen as a judicial murder."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Andrzej Wajda",
+            "nativeName": "Andrzej Witold Wajda",
+            "lifespan": "1926-2016",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Filmmaker",
+            "background": "Andrzej Wajda was a film director. He is the father of the Polish Film School and won an Honorary Oscar. His films chronicled Poland's turbulent history.",
+            "keyDecisions": [
+                "Making 'Ashes and Diamonds'.",
+                "Filming 'Man of Iron' during Solidarity.",
+                "Directing 'Katyn'.",
+                "Founding the Wajda School."
+            ],
+            "achievements": [
+                "Honorary Oscar.",
+                "Palme d'Or.",
+                "Chronicler of Polish history.",
+                "Senator."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Political pressure.",
+                "Funding.",
+                "Old age."
+            ],
+            "legacy": "Wajda is the conscience of Polish cinema. He told the stories that couldn't be told.",
+            "quotes": [
+                "To speak of what is difficult."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Cinema Master.",
+            "culturalImpact": "His films are national treasures.",
+            "primarySources": [
+                "Films (Katyn, Man of Marble).",
+                "Autobiography."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a maestro.",
+                "His work is essential for understanding Poland."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Casimir the Great",
+            "nativeName": "Kazimierz III Wielki",
+            "lifespan": "1310-1370",
+            "era": "Medieval Period (14th Century)",
+            "role": "King",
+            "background": "Casimir III was the last King of the Piast dynasty. He is known as the Great because he modernized the country, built castles, and founded the University of Krakow.",
+            "keyDecisions": [
+                "Codifying the laws.",
+                "Founding the Jagiellonian University.",
+                "Protecting the Jews.",
+                "Building 50 castles (Trail of the Eagles' Nests)."
+            ],
+            "achievements": [
+                "Found Poland built of wood and left it built of stone.",
+                "Doubled the size of the kingdom.",
+                "Peasant King.",
+                "Great Builder."
+            ],
+            "challenges": [
+                "Teutonic Knights.",
+                "Lack of a male heir.",
+                "Black Death (which Poland largely avoided).",
+                "Diplomacy."
+            ],
+            "legacy": "Casimir is the model of a good king. He made Poland a European power.",
+            "quotes": [
+                "One King, one law, one currency."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Builder.",
+            "culturalImpact": "He is on the 50 Zloty note. A symbol of wisdom.",
+            "primarySources": [
+                "Chronicles of Dlugosz.",
+                "Charters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the greatest Polish king.",
+                "His tolerance is praised."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Henryk Sienkiewicz",
+            "nativeName": "Henryk Adam Aleksander Pius Sienkiewicz",
+            "lifespan": "1846-1916",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Writer",
+            "background": "Henryk Sienkiewicz was a journalist and novelist. He won the Nobel Prize in Literature in 1905, best known for 'Quo Vadis' and 'The Trilogy'.",
+            "keyDecisions": [
+                "Writing 'The Trilogy' to cheer up hearts.",
+                "Writing 'Quo Vadis'.",
+                "Advocating for Poland abroad.",
+                "Traveling to America."
+            ],
+            "achievements": [
+                "Nobel Prize in Literature.",
+                "Most popular Polish writer.",
+                "National icon.",
+                "Philanthropist."
+            ],
+            "challenges": [
+                "Critics.",
+                "Health issues.",
+                "WWI (died in Switzerland).",
+                "Censorship."
+            ],
+            "legacy": "Sienkiewicz is the storyteller of the nation. His books defined Polish patriotism.",
+            "quotes": [
+                "To cheer up hearts."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Nobel Laureate.",
+            "culturalImpact": "His characters are household names.",
+            "primarySources": [
+                "The Trilogy.",
+                "Quo Vadis."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His historical accuracy is sometimes debated."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Ignacy Jan Paderewski",
+            "nativeName": "Ignacy Jan Paderewski",
+            "lifespan": "1860-1941",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Pianist, Politician",
+            "background": "Ignacy Paderewski was a world-famous pianist and composer who became the Prime Minister of Poland. He used his fame to advocate for Polish independence (e.g., with Woodrow Wilson).",
+            "keyDecisions": [
+                "Touring the world.",
+                "Persuading Wilson to include Poland in the 14 Points.",
+                "Becoming Prime Minister.",
+                "Signing the Treaty of Versailles."
+            ],
+            "achievements": [
+                "World's most famous musician (at the time).",
+                "Father of Independence.",
+                "Prime Minister.",
+                "Philanthropist."
+            ],
+            "challenges": [
+                "Political inexperience.",
+                "Rivalry with Piłsudski.",
+                "Exile.",
+                "WWII."
+            ],
+            "legacy": "Paderewski is the artist-statesman. He played his way to freedom.",
+            "quotes": [
+                "Music is the only universal language."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Artist Statesman.",
+            "culturalImpact": "He is a symbol of soft power.",
+            "primarySources": [
+                "Memoirs.",
+                "Recordings."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a patriot.",
+                "His dual career is unique."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Zbigniew Brzezinski",
+            "nativeName": "Zbigniew Kazimierz Brzeziński",
+            "lifespan": "1928-2017",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Diplomat",
+            "background": "Zbigniew Brzezinski was a Polish-American political scientist and National Security Advisor to Jimmy Carter. He was a key Cold War strategist.",
+            "keyDecisions": [
+                "Advising Carter.",
+                "Supporting the Mujahideen in Afghanistan.",
+                "Normalizing relations with China.",
+                "Supporting Solidarity."
+            ],
+            "achievements": [
+                "National Security Advisor.",
+                "Strategist.",
+                "Helped end the Cold War.",
+                "Intellectual."
+            ],
+            "challenges": [
+                "Iran Hostage Crisis.",
+                "Conflict with Cyrus Vance.",
+                "Soviet aggression.",
+                "Criticism of his hawkishness."
+            ],
+            "legacy": "Brzezinski is the grand strategist. He never forgot Poland.",
+            "quotes": [
+                "The Grand Chessboard."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Strategist.",
+            "culturalImpact": "He is a hero in Poland for his anti-Soviet stance.",
+            "primarySources": [
+                "The Grand Chessboard.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Respected as a visionary.",
+                "His role in Afghanistan is debated."
+            ]
+        }
+    ]
+}

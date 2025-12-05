@@ -1,0 +1,761 @@
+{
+    "country": "Yemen",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Queen of Sheba",
+            "nativeName": "Bilqis",
+            "lifespan": "c. 10th Century BCE",
+            "era": "Ancient Period",
+            "role": "Queen",
+            "background": "The Queen of Sheba is a legendary figure mentioned in the Bible and the Quran. She ruled the Kingdom of Saba (Sheba) in modern-day Yemen and visited King Solomon.",
+            "keyDecisions": [
+                "Traveling to Jerusalem to test Solomon's wisdom.",
+                "Bringing gifts of gold and spices.",
+                "Converting to monotheism (in Islamic tradition).",
+                "Ruling a prosperous kingdom."
+            ],
+            "achievements": [
+                "Ruler of a wealthy empire.",
+                "Diplomat.",
+                "Symbol of wisdom and beauty.",
+                "Legendary figure."
+            ],
+            "challenges": [
+                "Long journey across the desert.",
+                "Dealing with a powerful foreign king.",
+                "Maintaining her sovereignty.",
+                "Myth vs. History."
+            ],
+            "legacy": "Bilqis is the mother of Yemen. She represents the ancient glory of South Arabia.",
+            "quotes": [
+                "I found a woman ruling them."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Queen.",
+            "culturalImpact": "She is a central figure in Yemeni identity.",
+            "primarySources": [
+                "Bible (Kings).",
+                "Quran (Surah An-Naml)."
+            ],
+            "modernInterpretations": [
+                "Revered as a powerful female ruler.",
+                "Her story is a source of national pride."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Tawakkol Karman",
+            "nativeName": "Tawakkol Abdel-Salam Karman",
+            "lifespan": "1979-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Activist",
+            "background": "Tawakkol Karman is a journalist and human rights activist. She was a key figure in the 2011 Yemeni Revolution and the first Arab woman to win the Nobel Peace Prize.",
+            "keyDecisions": [
+                "Leading protests in Change Square.",
+                "Founding 'Women Journalists Without Chains'.",
+                "Advocating for non-violence.",
+                "Criticizing the Saleh regime."
+            ],
+            "achievements": [
+                "Nobel Peace Prize (2011).",
+                "Mother of the Revolution.",
+                "Global voice for democracy.",
+                "Journalist."
+            ],
+            "challenges": [
+                "Threats and harassment.",
+                "Arrest.",
+                "Civil war.",
+                "Exile."
+            ],
+            "legacy": "Tawakkol Karman is the face of the Arab Spring in Yemen. She showed the power of women.",
+            "quotes": [
+                "I am a citizen of the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Activist.",
+            "culturalImpact": "She inspired women across the region.",
+            "primarySources": [
+                "Speeches.",
+                "Articles."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "Her political stance is sometimes controversial."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ali Abdullah Saleh",
+            "nativeName": "Ali Abdullah Saleh",
+            "lifespan": "1942-2017",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Ali Abdullah Saleh was the President of Yemen for over three decades. He unified North and South Yemen in 1990 and ruled with a complex web of alliances.",
+            "keyDecisions": [
+                "Unifying Yemen.",
+                "Ruling by 'dancing on the heads of snakes'.",
+                "Stepping down after the 2011 protests.",
+                "Allying with the Houthis (and then betraying them)."
+            ],
+            "achievements": [
+                "Unification of Yemen.",
+                "Longest-serving president.",
+                "Political survivor.",
+                "Modernizer (initially)."
+            ],
+            "challenges": [
+                "Civil war (1994).",
+                "Houthi insurgency.",
+                "Al-Qaeda.",
+                "Assassination (by Houthis)."
+            ],
+            "legacy": "Saleh defined modern Yemen. His legacy is one of unity and chaos.",
+            "quotes": [
+                "Ruling Yemen is like dancing on the heads of snakes."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Strongman.",
+            "culturalImpact": "His shadow still looms over the conflict.",
+            "primarySources": [
+                "Speeches.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Viewed as a master manipulator.",
+                "His death marked the end of an era."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Arwa al-Sulayhi",
+            "nativeName": "Arwa bint Ahmad al-Sulayhi",
+            "lifespan": "1048-1138",
+            "era": "Medieval Period (11th-12th Century)",
+            "role": "Queen",
+            "background": "Queen Arwa was the ruler of the Sulayhid dynasty. She is the first woman to be accorded the prestigious title of hujja in Isma'ili Islam.",
+            "keyDecisions": [
+                "Moving the capital to Jibla.",
+                "Building mosques and roads.",
+                "Ruling for over 50 years.",
+                "Supporting the Fatimids."
+            ],
+            "achievements": [
+                "Greatest queen of Islamic Yemen.",
+                "Architectural patron.",
+                "Religious leader (Hujja).",
+                "Administrator."
+            ],
+            "challenges": [
+                "Internal rivals.",
+                "Managing a complex kingdom.",
+                "Being a woman in a patriarchal society.",
+                "Succession."
+            ],
+            "legacy": "Queen Arwa is the 'Little Queen of Sheba'. Her mosque in Jibla is a masterpiece.",
+            "quotes": [
+                "Justice is the foundation of rule."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Builder Queen.",
+            "culturalImpact": "She is revered by Isma'ilis and Yemenis alike.",
+            "primarySources": [
+                "Historical chronicles.",
+                "Inscriptions."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a wise and benevolent ruler.",
+                "Her reign was a golden age."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Abdullah al-Baradouni",
+            "nativeName": "Abdullah al-Baradouni",
+            "lifespan": "1929-1999",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Abdullah al-Baradouni was a blind poet and intellectual. He is considered Yemen's greatest modern poet, known for his biting satire and social criticism.",
+            "keyDecisions": [
+                "Overcoming blindness (lost sight at age 6).",
+                "Criticizing the Imamate and the Republic.",
+                "Writing 'From the Land of Sheba'.",
+                "Predicting the future."
+            ],
+            "achievements": [
+                "UNESCO prize.",
+                "Voice of the people.",
+                "Literary giant.",
+                "Prophet-poet."
+            ],
+            "challenges": [
+                "Blindness.",
+                "Poverty.",
+                "Imprisonment.",
+                "Censorship."
+            ],
+            "legacy": "Baradouni is the conscience of Yemen. His poems are recited like proverbs.",
+            "quotes": [
+                "My country is a graveyard."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Seer.",
+            "culturalImpact": "He is a national treasure.",
+            "primarySources": [
+                "Poems.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His warnings about Yemen's fate were prescient."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Imam Yahya",
+            "nativeName": "Yahya Muhammad Hamid ed-Din",
+            "lifespan": "1869-1948",
+            "era": "Modern Period (20th Century)",
+            "role": "Imam, King",
+            "background": "Imam Yahya was the ruler of the Mutawakkilite Kingdom of Yemen. He secured independence from the Ottoman Empire but kept Yemen in isolation.",
+            "keyDecisions": [
+                "Leading the revolt against the Ottomans.",
+                "Signing the Treaty of Da'an.",
+                "Isolating Yemen from the world.",
+                "Being assassinated in the Al-Waziri coup."
+            ],
+            "achievements": [
+                "Founder of the modern kingdom.",
+                "Expelled the Turks.",
+                "Unificator (of the North).",
+                "Zaydi leader."
+            ],
+            "challenges": [
+                "British in Aden.",
+                "Saudi expansion (lost Asir).",
+                "Internal dissent.",
+                "Modernization vs. Tradition."
+            ],
+            "legacy": "Imam Yahya created an independent Yemen but froze it in time. His death sparked chaos.",
+            "quotes": [
+                "I prefer poverty in freedom to wealth in slavery."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Imam.",
+            "culturalImpact": "He represents the old order.",
+            "primarySources": [
+                "Royal decrees.",
+                "British reports."
+            ],
+            "modernInterpretations": [
+                "Viewed as a tyrant by republicans.",
+                "Respected as a nationalist by traditionalists."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Abu Muhammad al-Hasan al-Hamdani",
+            "nativeName": "Abu Muhammad al-Hasan al-Hamdani",
+            "lifespan": "893-945",
+            "era": "Medieval Period (10th Century)",
+            "role": "Geographer, Historian",
+            "background": "Al-Hamdani was a geographer, poet, and grammarian. His work 'Sifat Jazirat al-Arab' is the most important source on the geography of ancient Arabia.",
+            "keyDecisions": [
+                "Documenting the geography of Yemen.",
+                "Preserving the history of the Himyarites.",
+                "Writing 'Al-Iklil'.",
+                "Dying in prison (Sana'a)."
+            ],
+            "achievements": [
+                "Greatest scholar of medieval Yemen.",
+                "Preserved ancient history.",
+                "Astronomer.",
+                "Poet."
+            ],
+            "challenges": [
+                "Political persecution.",
+                "Imprisonment.",
+                "Loss of manuscripts.",
+                "Tribal conflict."
+            ],
+            "legacy": "Al-Hamdani is the 'Tongue of Yemen'. His works are the foundation of Yemeni identity.",
+            "quotes": [
+                "Description of the Arabian Peninsula."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scholar.",
+            "culturalImpact": "He is the primary source for pre-Islamic Yemen.",
+            "primarySources": [
+                "Sifat Jazirat al-Arab.",
+                "Al-Iklil."
+            ],
+            "modernInterpretations": [
+                "Revered as a polymath.",
+                "His work is still studied."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Mukarram Ahmed",
+            "nativeName": "Mukarram Ahmed",
+            "lifespan": "11th Century",
+            "era": "Medieval Period (11th Century)",
+            "role": "King",
+            "background": "Mukarram was the second Sulayhid ruler and the husband of Queen Arwa. He is known for transferring power to his capable wife.",
+            "keyDecisions": [
+                "Marrying Arwa.",
+                "Delegating authority to her due to illness.",
+                "Moving the capital.",
+                "Expanding the kingdom."
+            ],
+            "achievements": [
+                "Sulayhid ruler.",
+                "Recognized his wife's talent.",
+                "Stabilized the realm.",
+                "Builder."
+            ],
+            "challenges": [
+                "Paralysis/Illness.",
+                "Warfare.",
+                "Succession.",
+                "Fatimids."
+            ],
+            "legacy": "Mukarram is the supportive husband. His trust in Arwa allowed her to shine.",
+            "quotes": [
+                "She is the Hujja."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The King Consort.",
+            "culturalImpact": "His partnership with Arwa is unique.",
+            "primarySources": [
+                "Chronicles.",
+                "History of Yemen."
+            ],
+            "modernInterpretations": [
+                "Viewed as a pragmatic ruler.",
+                "Overshadowed by his wife."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Muhammad al-Badr",
+            "nativeName": "Muhammad al-Badr",
+            "lifespan": "1926-1996",
+            "era": "Modern Period (20th Century)",
+            "role": "King",
+            "background": "Muhammad al-Badr was the last King of the Mutawakkilite Kingdom of Yemen. He was overthrown in a coup just a week after taking the throne, sparking the North Yemen Civil War.",
+            "keyDecisions": [
+                "Succeeding his father Imam Ahmed.",
+                "Promising reforms.",
+                "Fleeing to the mountains after the coup.",
+                "Leading the royalist forces."
+            ],
+            "achievements": [
+                "Last Imam.",
+                "Resisted the republicans for 8 years.",
+                "Survivor.",
+                "Symbol of the monarchy."
+            ],
+            "challenges": [
+                "Nasser's Egypt (supporting republicans).",
+                "Betrayal by the army.",
+                "Civil war.",
+                "Exile in UK."
+            ],
+            "legacy": "Al-Badr is the tragic last king. His overthrow marked the birth of the republic.",
+            "quotes": [
+                "I am the Imam."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Last King.",
+            "culturalImpact": "He represents the end of a 1000-year Imamate.",
+            "primarySources": [
+                "Memoirs.",
+                "History books."
+            ],
+            "modernInterpretations": [
+                "Viewed as a victim of history.",
+                "His resistance was tenacious."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Abdul Fattah Ismail",
+            "nativeName": "Abdul Fattah Ismail",
+            "lifespan": "1939-1986",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Abdul Fattah Ismail was the Marxist intellectual and leader of South Yemen (PDRY). He founded the Yemeni Socialist Party.",
+            "keyDecisions": [
+                "Leading the NLF.",
+                "Establishing a Marxist state.",
+                "Signing the treaty of friendship with the USSR.",
+                "Returning from exile to die in the 1986 civil war."
+            ],
+            "achievements": [
+                "Founder of the PDRY.",
+                "Ideologue.",
+                "Modernized the south (education, women's rights).",
+                "Writer."
+            ],
+            "challenges": [
+                "Internal party conflict.",
+                "Economic isolation.",
+                "War with the North.",
+                "Assassination."
+            ],
+            "legacy": "Ismail is the father of Yemeni socialism. His legacy is mixed with the blood of 1986.",
+            "quotes": [
+                "Scientific socialism."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Socialist.",
+            "culturalImpact": "He is remembered by the left.",
+            "primarySources": [
+                "Party documents.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Celebrated as an intellectual.",
+                "Criticized for dogmatism."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Shalom Shabazi",
+            "nativeName": "Shalom Shabazi",
+            "lifespan": "1619-1720",
+            "era": "Early Modern Period (17th Century)",
+            "role": "Poet, Rabbi",
+            "background": "Shalom Shabazi was a Jewish Yemeni poet and rabbi. He is revered by both Jews and Muslims in Yemen as a holy man and miracle worker.",
+            "keyDecisions": [
+                "Writing thousands of poems (Diwan).",
+                "Leading the community during the Mawza Exile.",
+                "Writing in Hebrew, Arabic, and Aramaic.",
+                "Comforting the persecuted."
+            ],
+            "achievements": [
+                "Greatest Yemeni Jewish poet.",
+                "Saint (Mori).",
+                "Preserved the community.",
+                "Mystic (Kabbalist)."
+            ],
+            "challenges": [
+                "Persecution (Exile of Mawza).",
+                "Poverty.",
+                "Famine.",
+                "Survival."
+            ],
+            "legacy": "Shabazi is the bridge between cultures. His tomb in Taiz was a pilgrimage site for all.",
+            "quotes": [
+                "Love of the soul."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Saint.",
+            "culturalImpact": "His songs are still sung at weddings.",
+            "primarySources": [
+                "Diwan.",
+                "Oral tradition."
+            ],
+            "modernInterpretations": [
+                "Revered as a spiritual giant.",
+                "Symbol of coexistence."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Mohammed Mahmoud Al-Zubairi",
+            "nativeName": "Mohammed Mahmoud Al-Zubairi",
+            "lifespan": "1910-1965",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet, Revolutionary",
+            "background": "Al-Zubairi was a poet and revolutionary known as the 'Father of the Free Yemenis'. He fought against the Imamate and was assassinated.",
+            "keyDecisions": [
+                "Founding the Free Yemeni Party.",
+                "Writing revolutionary poetry.",
+                "Opposing the 1948 coup failure.",
+                "Calling for a republic."
+            ],
+            "achievements": [
+                "Father of the Revolution.",
+                "Poet of the People.",
+                "Martyr.",
+                "Intellectual."
+            ],
+            "challenges": [
+                "Exile in Egypt and Pakistan.",
+                "Imam's tyranny.",
+                "Assassination.",
+                "Disunity."
+            ],
+            "legacy": "Al-Zubairi ignited the spark of freedom. His poetry fueled the 1962 revolution.",
+            "quotes": [
+                "We are a people who refuse to die."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Revolutionary.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Poems.",
+                "Political writings."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the soul of the republic.",
+                "His words are still relevant."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Amat Al Alim Alsoswa",
+            "nativeName": "Amat Al Alim Alsoswa",
+            "lifespan": "1958-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Politician",
+            "background": "Amat Al Alim Alsoswa is a politician and diplomat. She was Yemen's first female Minister of Human Rights and a high-ranking UN official.",
+            "keyDecisions": [
+                "Advocating for women's rights.",
+                "Serving as Minister.",
+                "Joining the UNDP.",
+                "Breaking the glass ceiling."
+            ],
+            "achievements": [
+                "First female minister.",
+                "UN Assistant Secretary-General.",
+                "Role model.",
+                "Reformer."
+            ],
+            "challenges": [
+                "Conservative society.",
+                "Political instability.",
+                "War.",
+                "Gender bias."
+            ],
+            "legacy": "Alsoswa proved that Yemeni women can lead on the world stage.",
+            "quotes": [
+                "Women are the future."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Pioneer.",
+            "culturalImpact": "She paved the way for others.",
+            "primarySources": [
+                "UN reports.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Respected as a capable leader.",
+                "Her work is ongoing."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Ali Salem al-Beidh",
+            "nativeName": "Ali Salem al-Beidh",
+            "lifespan": "1939-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Politician",
+            "background": "Ali Salem al-Beidh was the leader of South Yemen who signed the unification agreement with Saleh. He later tried to secede in 1994.",
+            "keyDecisions": [
+                "Signing the unification deal (1990).",
+                "Serving as Vice President.",
+                "Declaring secession (1994).",
+                "Living in exile."
+            ],
+            "achievements": [
+                "Unification (and attempted separation).",
+                "Leader of the South.",
+                "Survivor.",
+                "Symbol of the Southern Movement."
+            ],
+            "challenges": [
+                "Marginalization by the North.",
+                "Civil war defeat.",
+                "Exile.",
+                "Loss of power."
+            ],
+            "legacy": "Al-Beidh is the face of the Southern grievance. He is a tragic figure of unity.",
+            "quotes": [
+                "Unity or Death."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Southerner.",
+            "culturalImpact": "He is still influential in the South.",
+            "primarySources": [
+                "Treaties.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Blamed for a hasty unity.",
+                "Revered by separatists."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Zayd ibn Ali",
+            "nativeName": "Zayd ibn Ali",
+            "lifespan": "695-740",
+            "era": "Medieval Period (8th Century)",
+            "role": "Imam",
+            "background": "Zayd ibn Ali was the founder of the Zaydi sect of Shia Islam, which dominates Northern Yemen. He led a revolt against the Umayyads.",
+            "keyDecisions": [
+                "Leading the revolt in Kufa.",
+                "Establishing the Zaydi jurisprudence.",
+                "Fighting tyranny.",
+                "Martyrdom."
+            ],
+            "achievements": [
+                "Founder of Zaydism.",
+                "Imam.",
+                "Scholar.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Umayyad power.",
+                "Betrayal.",
+                "Defining a new path.",
+                "Death."
+            ],
+            "legacy": "Zayd is the spiritual father of the Yemeni Imams. His theology shapes Yemen to this day.",
+            "quotes": [
+                "Live as a free man or die as a martyr."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Imam.",
+            "culturalImpact": "Zaydism is unique to Yemen.",
+            "primarySources": [
+                "Majmu' al-Fiqh.",
+                "History of Tabari."
+            ],
+            "modernInterpretations": [
+                "Revered as a revolutionary.",
+                "His legacy is central to the Houthi movement."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Naseem Hamed",
+            "nativeName": "Naseem Hamed (Prince Naseem)",
+            "lifespan": "1974-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Naseem Hamed is a British-Yemeni boxer. Known as 'Prince Naseem', he was a featherweight world champion and known for his flamboyant style.",
+            "keyDecisions": [
+                "Embracing his Yemeni heritage.",
+                "Entering the ring on a flying carpet.",
+                "Dominating the featherweight division.",
+                "Retiring early."
+            ],
+            "achievements": [
+                "World Champion.",
+                "Boxing Hall of Fame.",
+                "Global superstar.",
+                "Entertainer."
+            ],
+            "challenges": [
+                "Criticism of his arrogance.",
+                "Loss to Barrera.",
+                "Hand injuries.",
+                "Maintaining discipline."
+            ],
+            "legacy": "Prince Naseem put Yemen on the sporting map. He inspired a generation of Arab boxers.",
+            "quotes": [
+                "I am a legend."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Prince.",
+            "culturalImpact": "He is a source of immense pride.",
+            "primarySources": [
+                "Fight records.",
+                "Videos."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a unique talent.",
+                "His showmanship is missed."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Abdul Aziz Al-Maqaleh",
+            "nativeName": "Abdul Aziz Al-Maqaleh",
+            "lifespan": "1937-2022",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Poet, Critic",
+            "background": "Al-Maqaleh was a poet and literary critic. He was the head of Sana'a University and a mentor to generations of writers.",
+            "keyDecisions": [
+                "Modernizing Yemeni poetry.",
+                "Supporting the revolution.",
+                "Leading the Writers' Union.",
+                "Staying in Sana'a during the war."
+            ],
+            "achievements": [
+                "Al-Owais Prize.",
+                "Literary giant.",
+                "Academic leader.",
+                "Cultural icon."
+            ],
+            "challenges": [
+                "War.",
+                "Censorship.",
+                "Health.",
+                "Preserving culture in chaos."
+            ],
+            "legacy": "Al-Maqaleh is the teacher of Yemen. His poetry is the memory of the nation.",
+            "quotes": [
+                "Sana'a is a poem."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Professor.",
+            "culturalImpact": "He is deeply mourned.",
+            "primarySources": [
+                "Poems.",
+                "Critiques."
+            ],
+            "modernInterpretations": [
+                "Revered as a father figure.",
+                "His work is foundational."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Shamir",
+            "nativeName": "Shamir (King of Himyar)",
+            "lifespan": "3rd Century",
+            "era": "Ancient Period",
+            "role": "King",
+            "background": "Shamir Yuhar'ish was a Himyarite king who united Yemen and assumed the title 'King of Saba and Dhu Raydan and Hadramaut and Yamnat'.",
+            "keyDecisions": [
+                "Uniting the South Arabian kingdoms.",
+                "Sending diplomats to China.",
+                "Building dams.",
+                "Expanding the empire."
+            ],
+            "achievements": [
+                "First unifier of Yemen.",
+                "Great King.",
+                "Diplomat.",
+                "Builder."
+            ],
+            "challenges": [
+                "Roman expansion.",
+                "Tribal wars.",
+                "Maintaining the Ma'rib Dam.",
+                "Succession."
+            ],
+            "legacy": "Shamir is the ancient unifier. He created the concept of a greater Yemen.",
+            "quotes": [
+                "King of all the South."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Unifier.",
+            "culturalImpact": "He is a symbol of ancient power.",
+            "primarySources": [
+                "Inscriptions.",
+                "Coins."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a great ancestor.",
+                "His title is still recalled."
+            ]
+        }
+    ]
+}

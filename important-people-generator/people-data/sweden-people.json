@@ -1,0 +1,761 @@
+{
+    "country": "Sweden",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Alfred Nobel",
+            "nativeName": "Alfred Bernhard Nobel",
+            "lifespan": "1833-1896",
+            "era": "Modern Period (19th Century)",
+            "role": "Inventor, Philanthropist",
+            "background": "Alfred Nobel was an inventor and industrialist. He invented dynamite and, in his will, established the Nobel Prizes to honor those who confer the 'greatest benefit to humankind'.",
+            "keyDecisions": [
+                "Inventing dynamite.",
+                "Amassing a fortune in explosives.",
+                "Reading his own premature obituary ('The Merchant of Death is Dead').",
+                "Establishing the Nobel Prizes."
+            ],
+            "achievements": [
+                "Inventor of Dynamite.",
+                "Founder of Nobel Prizes.",
+                "Chemist.",
+                "Pacifist (ironically)."
+            ],
+            "challenges": [
+                "Explosions (killed his brother).",
+                "Public image ('Merchant of Death').",
+                "Loneliness.",
+                "Health."
+            ],
+            "legacy": "Nobel changed the world twice: with explosives and with peace. His name is synonymous with excellence.",
+            "quotes": [
+                "I intend to leave after my death a large fund for the promotion of the peace idea."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Benefactor.",
+            "culturalImpact": "The Nobel Prize is the highest honor in the world.",
+            "primarySources": [
+                "Will.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "His dual legacy is studied."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Astrid Lindgren",
+            "nativeName": "Astrid Anna Emilia Lindgren",
+            "lifespan": "1907-2002",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Astrid Lindgren was a children's author. She created Pippi Longstocking, the strongest girl in the world, and championed children's rights.",
+            "keyDecisions": [
+                "Writing Pippi Longstocking.",
+                "Advocating against corporal punishment.",
+                "Toppling the government (Pomperipossa tax debate).",
+                "Remaining humble."
+            ],
+            "achievements": [
+                "Creator of Pippi.",
+                "Literary giant.",
+                "Activist.",
+                "National treasure."
+            ],
+            "challenges": [
+                "Single motherhood (early on).",
+                "Critics (Pippi was 'bad behavior').",
+                "Taxes.",
+                "Age."
+            ],
+            "legacy": "Astrid Lindgren taught children to be free. She is the most read Swedish author.",
+            "quotes": [
+                "I have never tried that before, so I think I should definitely be able to do that."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Storyteller.",
+            "culturalImpact": "Pippi is a global icon.",
+            "primarySources": [
+                "Pippi Longstocking.",
+                "Diaries."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Her values are Swedish values."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ingmar Bergman",
+            "nativeName": "Ernst Ingmar Bergman",
+            "lifespan": "1918-2007",
+            "era": "Modern Period (20th Century)",
+            "role": "Director",
+            "background": "Ingmar Bergman was a filmmaker. He is one of the greatest directors in history, known for his exploration of faith, death, and the human psyche.",
+            "keyDecisions": [
+                "Directing 'The Seventh Seal'.",
+                "Working on Fårö.",
+                "Exploring existential dread.",
+                "Refusing to compromise."
+            ],
+            "achievements": [
+                "Master director.",
+                "Oscar winner.",
+                "Philosopher.",
+                "Giant of cinema."
+            ],
+            "challenges": [
+                "Tax evasion charges (exile).",
+                "Stomach ulcers.",
+                "Turbulent personal life.",
+                "Depression."
+            ],
+            "legacy": "Bergman is the poet of the screen. He played chess with Death.",
+            "quotes": [
+                "I am the hope of the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Director.",
+            "culturalImpact": "He defined art house cinema.",
+            "primarySources": [
+                "Films.",
+                "The Magic Lantern."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His films are timeless."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "ABBA",
+            "nativeName": "Agnetha, Björn, Benny, Anni-Frid",
+            "lifespan": "1972-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musicians",
+            "background": "ABBA is a pop supergroup. They won Eurovision with 'Waterloo' and became one of the best-selling music artists of all time.",
+            "keyDecisions": [
+                "Winning Eurovision (1974).",
+                "Writing 'Dancing Queen'.",
+                "Divorcing but keeping the band.",
+                "Creating the Avatar show (Voyage)."
+            ],
+            "achievements": [
+                "Pop legends.",
+                "Hit makers.",
+                "Icons.",
+                "Innovators."
+            ],
+            "challenges": [
+                "Critics (hated them in the 70s).",
+                "Divorce.",
+                "Stalkers.",
+                "Burnout."
+            ],
+            "legacy": "ABBA is the sound of pop. They are the gold standard.",
+            "quotes": [
+                "The winner takes it all."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Icons.",
+            "culturalImpact": "Mamma Mia!",
+            "primarySources": [
+                "Songs.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as geniuses.",
+                "Their music never dies."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Carl Linnaeus",
+            "nativeName": "Carl von Linné",
+            "lifespan": "1707-1778",
+            "era": "Early Modern Period (18th Century)",
+            "role": "Scientist",
+            "background": "Carl Linnaeus was a botanist and zoologist. He is the father of modern taxonomy, creating the binomial nomenclature system (Homo sapiens).",
+            "keyDecisions": [
+                "Creating the Systema Naturae.",
+                "Classifying humans as primates.",
+                "Sending 'apostles' around the world.",
+                "Naming everything."
+            ],
+            "achievements": [
+                "Father of Taxonomy.",
+                "Prince of Botanists.",
+                "Scientist.",
+                "Knight."
+            ],
+            "challenges": [
+                "Church opposition.",
+                "Rivals.",
+                "Travel hardships.",
+                "Stroke."
+            ],
+            "legacy": "Linnaeus organized nature. We still use his names today.",
+            "quotes": [
+                "God created, Linnaeus organized."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Taxonomist.",
+            "culturalImpact": "He named us.",
+            "primarySources": [
+                "Systema Naturae.",
+                "Species Plantarum."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His racial classifications are criticized."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Gustavus Adolphus",
+            "nativeName": "Gustav II Adolf",
+            "lifespan": "1594-1632",
+            "era": "Early Modern Period (17th Century)",
+            "role": "King, General",
+            "background": "Gustavus Adolphus was the King of Sweden. Known as the 'Lion of the North', he made Sweden a great power during the Thirty Years' War.",
+            "keyDecisions": [
+                "Intervening in the Thirty Years' War.",
+                "Reforming the army (combined arms).",
+                "Winning the Battle of Breitenfeld.",
+                "Dying at Lützen."
+            ],
+            "achievements": [
+                "Lion of the North.",
+                "Father of Modern Warfare.",
+                "Great Power builder.",
+                "Hero."
+            ],
+            "challenges": [
+                "Habsburg Empire.",
+                "Fog of war.",
+                "Wounds.",
+                "Death."
+            ],
+            "legacy": "Gustavus Adolphus saved Protestantism. He made Sweden an empire.",
+            "quotes": [
+                "God is with us."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Lion.",
+            "culturalImpact": "He is studied by generals.",
+            "primarySources": [
+                "Letters.",
+                "Battle plans."
+            ],
+            "modernInterpretations": [
+                "Revered as a military genius.",
+                "Symbol of Swedish power."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Greta Thunberg",
+            "nativeName": "Greta Tintin Eleonora Ernman Thunberg",
+            "lifespan": "2003-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Activist",
+            "background": "Greta Thunberg is a climate activist. She started the 'School Strike for Climate' outside the Swedish parliament, sparking a global movement.",
+            "keyDecisions": [
+                "Skipping school to protest.",
+                "Sailing across the Atlantic.",
+                "Speaking at the UN ('How dare you').",
+                "Inspiring Fridays for Future."
+            ],
+            "achievements": [
+                "Person of the Year.",
+                "Global voice.",
+                "Icon.",
+                "Leader."
+            ],
+            "challenges": [
+                "Climate change deniers.",
+                "Asperger's (superpower).",
+                "Threats.",
+                "Burnout."
+            ],
+            "legacy": "Greta is the voice of the future. She shamed the world into listening.",
+            "quotes": [
+                "How dare you."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Activist.",
+            "culturalImpact": "She changed the conversation.",
+            "primarySources": [
+                "Speeches.",
+                "No One Is Too Small to Make a Difference."
+            ],
+            "modernInterpretations": [
+                "Revered by youth.",
+                "Polarizing figure."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Zlatan Ibrahimović",
+            "nativeName": "Zlatan Ibrahimović",
+            "lifespan": "1981-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Zlatan Ibrahimović is a footballer. Known for his acrobatic goals and massive ego, he is one of the most decorated strikers in history.",
+            "keyDecisions": [
+                "Leaving Malmö FF.",
+                "Scoring the bicycle kick against England.",
+                "Calling himself a lion.",
+                "Playing until 41."
+            ],
+            "achievements": [
+                "Lion.",
+                "Goal machine.",
+                "Champion (everywhere but UCL).",
+                "Icon."
+            ],
+            "challenges": [
+                "Injuries (ACL).",
+                "Critics.",
+                "Pep Guardiola.",
+                "Age."
+            ],
+            "legacy": "Zlatan is Zlatan. He put Sweden on the football map.",
+            "quotes": [
+                "Lions don't compare themselves to humans."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Lion.",
+            "culturalImpact": "He is a cult hero.",
+            "primarySources": [
+                "I Am Zlatan.",
+                "Goals."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His personality is unique."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Dag Hammarskjöld",
+            "nativeName": "Dag Hjalmar Agne Carl Hammarskjöld",
+            "lifespan": "1905-1961",
+            "era": "Modern Period (20th Century)",
+            "role": "Diplomat",
+            "background": "Dag Hammarskjöld was the Secretary-General of the UN. He is considered the greatest UN leader, dying in a mysterious plane crash while negotiating peace in the Congo.",
+            "keyDecisions": [
+                "Accepting the UN post.",
+                "Creating UN peacekeepers.",
+                "Intervening in Suez and Congo.",
+                "Flying to Ndola."
+            ],
+            "achievements": [
+                "Nobel Peace Prize (posthumous).",
+                "Statesman.",
+                "Mystic (Markings).",
+                "Martyr."
+            ],
+            "challenges": [
+                "Cold War.",
+                "Suez Crisis.",
+                "Congo Crisis.",
+                "Assassination (likely)."
+            ],
+            "legacy": "Hammarskjöld is the standard. He died for peace.",
+            "quotes": [
+                "The longest journey is the journey inwards."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Peacemaker.",
+            "culturalImpact": "He is a secular saint.",
+            "primarySources": [
+                "Markings.",
+                "UN records."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "His death is still investigated."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Raoul Wallenberg",
+            "nativeName": "Raoul Gustaf Wallenberg",
+            "lifespan": "1912-1947?",
+            "era": "Modern Period (20th Century)",
+            "role": "Diplomat, Hero",
+            "background": "Raoul Wallenberg was a diplomat. He saved tens of thousands of Jews in Nazi-occupied Hungary by issuing protective passports and setting up safe houses.",
+            "keyDecisions": [
+                "Going to Budapest.",
+                "Issuing Schutz-Passes.",
+                "Confronting Nazis.",
+                "Disappearing into Soviet custody."
+            ],
+            "achievements": [
+                "Righteous Among the Nations.",
+                "Savior.",
+                "Hero.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Nazis (Eichmann).",
+                "Time.",
+                "Soviets (SMERSH).",
+                "Death in Gulag."
+            ],
+            "legacy": "Wallenberg showed that one man can make a difference. His fate remains a mystery.",
+            "quotes": [
+                "I will never be able to go back to Sweden without knowing that I've done all I could."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Savior.",
+            "culturalImpact": "He is an honorary citizen of the US, Canada, Israel.",
+            "primarySources": [
+                "Letters.",
+                "Testimonies."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint.",
+                "Symbol of courage."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "August Strindberg",
+            "nativeName": "Johan August Strindberg",
+            "lifespan": "1849-1912",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Writer, Playwright",
+            "background": "August Strindberg was a writer and painter. He is the father of modern Swedish literature and a pioneer of expressionist theater.",
+            "keyDecisions": [
+                "Writing 'The Red Room'.",
+                "Creating 'Miss Julie'.",
+                "Experimenting with alchemy.",
+                "Feuding with everyone."
+            ],
+            "achievements": [
+                "Literary giant.",
+                "Playwright.",
+                "Painter.",
+                "Mad genius."
+            ],
+            "challenges": [
+                "Mental illness (Inferno crisis).",
+                "Divorces.",
+                "Poverty.",
+                "Controversy."
+            ],
+            "legacy": "Strindberg is the titan. He dissected the human soul with a scalpel.",
+            "quotes": [
+                "I find the joy of life in its violent and cruel struggles."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Titan.",
+            "culturalImpact": "He influenced O'Neill and Tennessee Williams.",
+            "primarySources": [
+                "Miss Julie.",
+                "The Red Room."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His misogyny is criticized."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Greta Garbo",
+            "nativeName": "Greta Lovisa Gustafsson",
+            "lifespan": "1905-1990",
+            "era": "Modern Period (20th Century)",
+            "role": "Actress",
+            "background": "Greta Garbo was an actress. She was one of the greatest stars of the silent and golden eras of Hollywood, famous for her beauty and her reclusive nature.",
+            "keyDecisions": [
+                "Moving to Hollywood.",
+                "Transitioning to talkies ('Garbo Talks!').",
+                "Retiring at 35.",
+                "Wanting to be alone."
+            ],
+            "achievements": [
+                "The Divine.",
+                "Oscar winner (Honorary).",
+                "Icon.",
+                "Enigma."
+            ],
+            "challenges": [
+                "Fame.",
+                "Shyness.",
+                "Studio system.",
+                "Solitude."
+            ],
+            "legacy": "Garbo is the face. She remains the ultimate mystery of cinema.",
+            "quotes": [
+                "I want to be alone."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Star.",
+            "culturalImpact": "She is a legend.",
+            "primarySources": [
+                "Films.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a goddess.",
+                "Her privacy is respected."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Avicii",
+            "nativeName": "Tim Bergling (Avicii)",
+            "lifespan": "1989-2018",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician, DJ",
+            "background": "Avicii was a DJ and producer. He revolutionized electronic dance music (EDM) by blending it with country and folk, creating global hits like 'Wake Me Up'.",
+            "keyDecisions": [
+                "Releasing 'Levels'.",
+                "Mixing country with EDM ('Wake Me Up').",
+                "Retiring from touring.",
+                "Struggling with mental health."
+            ],
+            "achievements": [
+                "EDM pioneer.",
+                "Hit maker.",
+                "Visionary.",
+                "Star."
+            ],
+            "challenges": [
+                "Anxiety.",
+                "Alcoholism.",
+                "Touring schedule.",
+                "Suicide."
+            ],
+            "legacy": "Avicii changed the sound of pop. His death sparked a conversation on mental health.",
+            "quotes": [
+                "One day you'll leave this world behind, so live a life you will remember."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The DJ.",
+            "culturalImpact": "He is missed.",
+            "primarySources": [
+                "Songs.",
+                "True Stories (Documentary)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "Tragic hero."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Queen Christina",
+            "nativeName": "Kristina",
+            "lifespan": "1626-1689",
+            "era": "Early Modern Period (17th Century)",
+            "role": "Queen",
+            "background": "Christina was the Queen of Sweden. She abdicated the throne, converted to Catholicism, and moved to Rome, becoming a patron of the arts and a scandalous figure.",
+            "keyDecisions": [
+                "Ruling as a 'King'.",
+                "Inviting Descartes to Sweden.",
+                "Abdicating.",
+                "Converting to Catholicism."
+            ],
+            "achievements": [
+                "Queen.",
+                "Intellectual.",
+                "Patron.",
+                "Rebel."
+            ],
+            "challenges": [
+                "Gender roles.",
+                "Religion.",
+                "Scandal.",
+                "Money."
+            ],
+            "legacy": "Christina is the Minerva of the North. She lived on her own terms.",
+            "quotes": [
+                "I was born free, lived free, and will die free."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Queen.",
+            "culturalImpact": "She is a feminist icon.",
+            "primarySources": [
+                "Letters.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Revered as a brilliant mind.",
+                "Her gender identity is debated."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Olof Palme",
+            "nativeName": "Sven Olof Joachim Palme",
+            "lifespan": "1927-1986",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister",
+            "background": "Olof Palme was a Prime Minister. A social democrat, he was a vocal critic of the Vietnam War and Apartheid, assassinated on a Stockholm street.",
+            "keyDecisions": [
+                "Criticizing the US bombing of Hanoi.",
+                "Supporting the ANC.",
+                "Building the welfare state.",
+                "Walking home without bodyguards."
+            ],
+            "achievements": [
+                "Statesman.",
+                "Humanitarian.",
+                "Orator.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Cold War.",
+                "Hatred from the right.",
+                "Assassination.",
+                "Unsolved murder."
+            ],
+            "legacy": "Palme is the conscience of Sweden. His death ended the age of innocence.",
+            "quotes": [
+                "Politics is about wanting something."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Statesman.",
+            "culturalImpact": "His murder is a national trauma.",
+            "primarySources": [
+                "Speeches.",
+                "Articles."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "His killer is still debated."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Björn Borg",
+            "nativeName": "Björn Rune Borg",
+            "lifespan": "1956-",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Athlete",
+            "background": "Björn Borg is a tennis player. The 'Ice Man' won 11 Grand Slam titles and revolutionized the game with his topspin and two-handed backhand.",
+            "keyDecisions": [
+                "Winning Wimbledon 5 times in a row.",
+                "Rivalry with McEnroe.",
+                "Retiring at 26.",
+                "Starting a fashion brand."
+            ],
+            "achievements": [
+                "Ice Man.",
+                "Legend.",
+                "Fashion icon.",
+                "GOAT candidate."
+            ],
+            "challenges": [
+                "Burnout.",
+                "Fame.",
+                "Financial troubles.",
+                "Comeback attempt."
+            ],
+            "legacy": "Borg is the rock star of tennis. He made the sport cool.",
+            "quotes": [
+                "If you're afraid of losing, then you daren't win."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Legend.",
+            "culturalImpact": "He is a global brand.",
+            "primarySources": [
+                "Match records.",
+                "Borg vs McEnroe."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His early retirement is a mystery."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Selma Lagerlöf",
+            "nativeName": "Selma Ottilia Lovisa Lagerlöf",
+            "lifespan": "1858-1940",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Writer",
+            "background": "Selma Lagerlöf was a writer. She was the first woman to win the Nobel Prize in Literature, known for 'The Wonderful Adventures of Nils'.",
+            "keyDecisions": [
+                "Writing 'Gösta Berling's Saga'.",
+                "Writing 'Nils Holgersson'.",
+                "Winning the Nobel Prize.",
+                "Saving Nelly Sachs from Nazis."
+            ],
+            "achievements": [
+                "Nobel Laureate.",
+                "First woman in Swedish Academy.",
+                "Storyteller.",
+                "Icon."
+            ],
+            "challenges": [
+                "Hip injury.",
+                "Debt (saving Mårbacka).",
+                "Critics.",
+                "War."
+            ],
+            "legacy": "Lagerlöf is the queen of Swedish letters. She is on the 20 kronor note.",
+            "quotes": [
+                "Culture is what remains when that which has been learned is entirely forgotten."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "She is a national hero.",
+            "primarySources": [
+                "Nils Holgersson.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "Her imagination is boundless."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Anders Celsius",
+            "nativeName": "Anders Celsius",
+            "lifespan": "1701-1744",
+            "era": "Early Modern Period (18th Century)",
+            "role": "Scientist",
+            "background": "Anders Celsius was an astronomer. He invented the centigrade temperature scale (Celsius), though he originally set 0 as boiling and 100 as freezing.",
+            "keyDecisions": [
+                "Inventing the temperature scale.",
+                "Building the Uppsala Observatory.",
+                "Studying the aurora borealis.",
+                "Measuring the shape of the earth."
+            ],
+            "achievements": [
+                "Celsius scale.",
+                "Astronomer.",
+                "Professor.",
+                "Scientist."
+            ],
+            "challenges": [
+                "Tuberculosis.",
+                "Early death.",
+                "Rivals.",
+                "Calibration."
+            ],
+            "legacy": "Celsius is a household name. He defined how we measure heat.",
+            "quotes": [
+                "0 to 100."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scientist.",
+            "culturalImpact": "Used globally (except US).",
+            "primarySources": [
+                "Papers.",
+                "Observations."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a pioneer.",
+                "Linnaeus flipped his scale."
+            ]
+        }
+    ]
+}

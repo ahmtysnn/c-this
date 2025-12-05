@@ -1,0 +1,761 @@
+{
+    "country": "Jordan",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "King Hussein",
+            "nativeName": "Hussein bin Talal",
+            "lifespan": "1935-1999",
+            "era": "Modern Period (20th Century)",
+            "role": "King",
+            "background": "King Hussein was the King of Jordan for 46 years. He guided the country through the turbulent Cold War and Arab-Israeli conflicts, eventually signing a peace treaty with Israel.",
+            "keyDecisions": [
+                "Ascending to the throne at 17.",
+                "Navigating the Six-Day War.",
+                "Expelling the PLO (Black September).",
+                "Signing the peace treaty with Israel (1994)."
+            ],
+            "achievements": [
+                "Father of Modern Jordan.",
+                "Peacemaker.",
+                "Survivor (numerous assassination attempts).",
+                "Statesman."
+            ],
+            "challenges": [
+                "Regional wars.",
+                "Internal unrest.",
+                "Cancer.",
+                "Balancing East and West."
+            ],
+            "legacy": "King Hussein is the father figure. He built the state and kept it stable in a ring of fire.",
+            "quotes": [
+                "Peace is not just a treaty, it is a state of mind."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The King.",
+            "culturalImpact": "He is deeply loved.",
+            "primarySources": [
+                "Uneasy Lies the Head.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a wise leader.",
+                "Symbol of stability."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Queen Rania",
+            "nativeName": "Rania Al-Abdullah",
+            "lifespan": "1970-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Queen",
+            "background": "Queen Rania is the Queen Consort of Jordan. She is a global advocate for education, health, and cross-cultural dialogue.",
+            "keyDecisions": [
+                "Marrying Prince Abdullah.",
+                "Launching the Madrasati initiative.",
+                "Speaking out against extremism.",
+                "Using social media for diplomacy."
+            ],
+            "achievements": [
+                "Global advocate.",
+                "Humanitarian.",
+                "Style icon.",
+                "Author."
+            ],
+            "challenges": [
+                "Refugee crisis.",
+                "Criticism (spending).",
+                "Regional instability.",
+                "Modernizing tradition."
+            ],
+            "legacy": "Queen Rania is the modern face of the Arab world. She challenges stereotypes.",
+            "quotes": [
+                "We are stronger when we listen and smarter when we share."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Queen.",
+            "culturalImpact": "She is a role model for women.",
+            "primarySources": [
+                "Interviews.",
+                "Books."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "Her elegance is admired."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Wasfi Tal",
+            "nativeName": "Wasfi al-Tal",
+            "lifespan": "1919-1971",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister",
+            "background": "Wasfi Tal was a three-time Prime Minister. He was a staunch loyalist to the Hashemite throne and was assassinated by the Black September organization in Cairo.",
+            "keyDecisions": [
+                "Fighting in the British Army (WWII).",
+                "Leading the crackdown on the PLO (Black September).",
+                "Modernizing the administration.",
+                "Attending the Arab League summit (where he was killed)."
+            ],
+            "achievements": [
+                "Statesman.",
+                "Patriot.",
+                "Reformer.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Palestinian militants.",
+                "Syrian intervention.",
+                "Corruption.",
+                "Assassination."
+            ],
+            "legacy": "Wasfi Tal is the symbol of Jordanian statehood. He died for the country's sovereignty.",
+            "quotes": [
+                "Jordan is for Jordanians."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Patriot.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Speeches.",
+                "Government records."
+            ],
+            "modernInterpretations": [
+                "Revered by East Bankers.",
+                "Controversial among Palestinians."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Abu Musab al-Zarqawi",
+            "nativeName": "Ahmad Fadil al-Nazal al-Khalayleh",
+            "lifespan": "1966-2006",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Terrorist",
+            "background": "Al-Zarqawi was a jihadist leader who founded Al-Qaeda in Iraq (precursor to ISIS). He was responsible for brutal violence and sectarian war.",
+            "keyDecisions": [
+                "Going to Afghanistan.",
+                "Founding Jama'at al-Tawhid wal-Jihad.",
+                "Declaring war on Shias.",
+                "Bombing hotels in Amman (2005)."
+            ],
+            "achievements": [
+                "Founder of ISIS precursor.",
+                "Terrorist leader.",
+                "Insurgent.",
+                "Notorious figure."
+            ],
+            "challenges": [
+                "US military.",
+                "Jordanian intelligence.",
+                "Rival jihadists.",
+                "Death by airstrike."
+            ],
+            "legacy": "Zarqawi is the face of evil. His legacy is the sectarian bloodbath in the region.",
+            "quotes": [
+                "The spark has been lit."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Extremist.",
+            "culturalImpact": "He changed the nature of global terror.",
+            "primarySources": [
+                "Videos.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Reviled as a monster.",
+                "Studied as a case of radicalization."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Abdullah II",
+            "nativeName": "Abdullah II bin Al-Hussein",
+            "lifespan": "1962-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "King",
+            "background": "Abdullah II is the current King of Jordan. He has led the country since 1999, focusing on economic modernization and stability amidst regional chaos.",
+            "keyDecisions": [
+                "Succeeding his father.",
+                "Establishing the King Abdullah II Design and Development Bureau.",
+                "Fighting ISIS.",
+                "Managing the Syrian refugee crisis."
+            ],
+            "achievements": [
+                "Modernizer.",
+                "Military leader.",
+                "Diplomat.",
+                "Guardian of Holy Sites."
+            ],
+            "challenges": [
+                "Arab Spring.",
+                "Economic crisis.",
+                "ISIS.",
+                "Water scarcity."
+            ],
+            "legacy": "Abdullah II is the stabilizer. He has kept Jordan safe in a dangerous neighborhood.",
+            "quotes": [
+                "Jordan First."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Leader.",
+            "culturalImpact": "He is respected globally.",
+            "primarySources": [
+                "Our Last Best Chance.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Praised for his moderation.",
+                "Faces pressure for reform."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Toujan al-Faisal",
+            "nativeName": "Toujan al-Faisal",
+            "lifespan": "1948-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Politician, Activist",
+            "background": "Toujan al-Faisal was the first woman elected to the Jordanian Parliament. She is a fierce critic of corruption and government policies.",
+            "keyDecisions": [
+                "Running for parliament.",
+                "Exposing corruption.",
+                "Criticizing the peace treaty.",
+                "Going on hunger strike."
+            ],
+            "achievements": [
+                "First female MP.",
+                "Human rights defender.",
+                "Whistleblower.",
+                "Icon."
+            ],
+            "challenges": [
+                "Imprisonment.",
+                "Disqualification.",
+                "Threats.",
+                "Health."
+            ],
+            "legacy": "Toujan is the iron woman. She broke the glass ceiling and paid the price.",
+            "quotes": [
+                "I will not be silenced."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Pioneer.",
+            "culturalImpact": "She is a symbol of courage.",
+            "primarySources": [
+                "Interviews.",
+                "Articles."
+            ],
+            "modernInterpretations": [
+                "Respected for her integrity.",
+                "Marginalized by the state."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Mustafa Wahbi Tal",
+            "nativeName": "Mustafa Wahbi Tal (Arar)",
+            "lifespan": "1899-1949",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Arar was a poet and lawyer. He is considered Jordan's national poet, known for his rebellious spirit and defense of the marginalized (Gypsies).",
+            "keyDecisions": [
+                "Writing poetry in the local dialect.",
+                "Defending the poor.",
+                "Criticizing the British mandate.",
+                "Drinking and wandering."
+            ],
+            "achievements": [
+                "National Poet.",
+                "Voice of the people.",
+                "Lawyer.",
+                "Rebel."
+            ],
+            "challenges": [
+                "Exile.",
+                "Alcoholism.",
+                "Political persecution.",
+                "Poverty."
+            ],
+            "legacy": "Arar is the voice of the land. His poems are the soul of Jordan.",
+            "quotes": [
+                "O God, I am drunk."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "A literary award is named after him.",
+            "primarySources": [
+                "Ashiyyat Wadi al-Yabis.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a cultural icon.",
+                "Symbol of Jordanian identity."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Habis al-Majali",
+            "nativeName": "Habis al-Majali",
+            "lifespan": "1914-2001",
+            "era": "Modern Period (20th Century)",
+            "role": "Field Marshal",
+            "background": "Habis al-Majali was a military commander. He led Jordanian forces in the 1948 Arab-Israeli War, successfully defending the Old City of Jerusalem and Latrun.",
+            "keyDecisions": [
+                "Joining the Arab Legion.",
+                "Holding Latrun against Israeli attacks.",
+                "Serving as Chief of Staff.",
+                "Defeating the PLO in 1970."
+            ],
+            "achievements": [
+                "Field Marshal.",
+                "Hero of Latrun.",
+                "Defender of the Throne.",
+                "Legend."
+            ],
+            "challenges": [
+                "War.",
+                "Politics.",
+                "Black September.",
+                "Retirement."
+            ],
+            "legacy": "Habis is the soldier. He is the only Arab commander to win major victories in 1948.",
+            "quotes": [
+                "We will not retreat."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Commander.",
+            "culturalImpact": "He is a legend in the army.",
+            "primarySources": [
+                "Memoirs.",
+                "Military history."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "Symbol of military prowess."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Princess Haya",
+            "nativeName": "Haya bint Hussein",
+            "lifespan": "1974-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Princess, Equestrian",
+            "background": "Princess Haya is an Olympian equestrian and humanitarian. She fled her marriage to the Ruler of Dubai in a high-profile legal battle.",
+            "keyDecisions": [
+                "Competing in the 2000 Olympics.",
+                "Marrying Sheikh Mohammed.",
+                "Fleeing to London.",
+                "Winning custody of her children."
+            ],
+            "achievements": [
+                "Olympian.",
+                "UN Messenger of Peace.",
+                "Survivor.",
+                "Mother."
+            ],
+            "challenges": [
+                "High-profile divorce.",
+                "Threats.",
+                "Public scrutiny.",
+                "Legal battles."
+            ],
+            "legacy": "Princess Haya is a survivor. She stood up to power to protect her children.",
+            "quotes": [
+                "I want to be free."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Princess.",
+            "culturalImpact": "Her case set legal precedents.",
+            "primarySources": [
+                "Court judgments.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Supported for her courage.",
+                "Symbol of women's rights."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Zaid ibn Shaker",
+            "nativeName": "Zaid ibn Shaker",
+            "lifespan": "1934-2002",
+            "era": "Modern Period (20th Century)",
+            "role": "Field Marshal, Prime Minister",
+            "background": "Zaid ibn Shaker was a cousin of King Hussein and his most trusted advisor. He served as Commander-in-Chief and Prime Minister three times.",
+            "keyDecisions": [
+                "Serving in the military.",
+                "Advising the King during crises.",
+                "Leading the transition government (1989).",
+                "Modernizing the army."
+            ],
+            "achievements": [
+                "Prince.",
+                "Field Marshal.",
+                "Prime Minister.",
+                "Loyalist."
+            ],
+            "challenges": [
+                "Black September.",
+                "Economic riots (1989).",
+                "Health.",
+                "Burden of trust."
+            ],
+            "legacy": "Zaid ibn Shaker was the King's shadow. He was the pillar of the regime.",
+            "quotes": [
+                "Duty."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Advisor.",
+            "culturalImpact": "He is respected for his discretion.",
+            "primarySources": [
+                "Official records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a statesman.",
+                "Symbol of loyalty."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Maha Al-Muasher",
+            "nativeName": "Maha Al-Muasher",
+            "lifespan": "20th-21st Century",
+            "era": "Contemporary Period",
+            "role": "Artist",
+            "background": "Maha Al-Muasher is a prominent Jordanian artist. Her work explores themes of identity, nature, and the human condition.",
+            "keyDecisions": [
+                "Studying art.",
+                "Exhibiting internationally.",
+                "Promoting Jordanian art.",
+                "Teaching."
+            ],
+            "achievements": [
+                "Master artist.",
+                "Cultural ambassador.",
+                "Pioneer.",
+                "Educator."
+            ],
+            "challenges": [
+                "Art market.",
+                "Recognition.",
+                "Funding.",
+                "Expression."
+            ],
+            "legacy": "Maha Al-Muasher is a leading figure in Jordanian art. She brings color to the desert.",
+            "quotes": [
+                "Art is life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Artist.",
+            "culturalImpact": "Her work is collected widely.",
+            "primarySources": [
+                "Paintings.",
+                "Exhibitions."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a talent.",
+                "Symbol of modern culture."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Ahmad al-Lozi",
+            "nativeName": "Ahmad al-Lozi",
+            "lifespan": "1925-2014",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister",
+            "background": "Ahmad al-Lozi was a politician who served as Prime Minister and Chief of the Royal Court. He was a key figure in Jordanian politics for decades.",
+            "keyDecisions": [
+                "Serving as Prime Minister.",
+                "Navigating the aftermath of Black September.",
+                "Drafting the constitution (amendments).",
+                "Serving in the Senate."
+            ],
+            "achievements": [
+                "Statesman.",
+                "Prime Minister.",
+                "Senator.",
+                "Elder."
+            ],
+            "challenges": [
+                "Political instability.",
+                "Economic development.",
+                "Regional pressure.",
+                "Age."
+            ],
+            "legacy": "Al-Lozi was a wise man of the state. He represented continuity.",
+            "quotes": [
+                "Service."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Statesman.",
+            "culturalImpact": "He is respected across the spectrum.",
+            "primarySources": [
+                "Memoirs.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a pillar of the state.",
+                "Symbol of wisdom."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Emily Bisharat",
+            "nativeName": "Emily Bisharat",
+            "lifespan": "d. 2004",
+            "era": "Modern Period (20th Century)",
+            "role": "Lawyer, Activist",
+            "background": "Emily Bisharat was the first female lawyer in Jordan. She founded the Arab Women's Union and fought for women's suffrage.",
+            "keyDecisions": [
+                "Becoming a lawyer.",
+                "Founding the Arab Women's Union.",
+                "Fighting for the right to vote (granted in 1974).",
+                "Philanthropy."
+            ],
+            "achievements": [
+                "First female lawyer.",
+                "Suffragette.",
+                "Pioneer.",
+                "Leader."
+            ],
+            "challenges": [
+                "Patriarchy.",
+                "Legal system.",
+                "Social norms.",
+                "Funding."
+            ],
+            "legacy": "Emily Bisharat opened the courtrooms to women. She is the mother of Jordanian feminism.",
+            "quotes": [
+                "Justice has no gender."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Pioneer.",
+            "culturalImpact": "She paved the way for Toujan al-Faisal.",
+            "primarySources": [
+                "Legal records.",
+                "Union archives."
+            ],
+            "modernInterpretations": [
+                "Revered as a trailblazer.",
+                "Her work is continued by others."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Amer Shafi",
+            "nativeName": "Amer Shafi",
+            "lifespan": "1982-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Amer Shafi is a football goalkeeper. Known as the 'Whale of Asia', he is the most capped Jordanian player and a national icon.",
+            "keyDecisions": [
+                "Playing for Al-Wehdat.",
+                "Representing the national team (176 caps).",
+                "Making incredible saves in the Asian Cup.",
+                "Retiring."
+            ],
+            "achievements": [
+                "The Whale.",
+                "Captain.",
+                "Legend.",
+                "Record holder."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Suspensions.",
+                "Club rivalries.",
+                "Age."
+            ],
+            "legacy": "Shafi is the wall. He is the greatest Jordanian footballer.",
+            "quotes": [
+                "For Jordan."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Athlete.",
+            "culturalImpact": "He is beloved by fans.",
+            "primarySources": [
+                "Match records.",
+                "Videos."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Symbol of sportsmanship."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Mesha",
+            "nativeName": "Mesha",
+            "lifespan": "9th Century BC",
+            "era": "Ancient Period",
+            "role": "King",
+            "background": "Mesha was the King of Moab (modern Jordan). He is famous for the Mesha Stele, which describes his victory over Israel and mentions the 'House of David'.",
+            "keyDecisions": [
+                "Rebelling against Israel.",
+                "Sacrificing his son (according to the Bible).",
+                "Building cities.",
+                "Commissioning the Mesha Stele."
+            ],
+            "achievements": [
+                "King of Moab.",
+                "Conqueror.",
+                "Builder.",
+                "Author (of the stele)."
+            ],
+            "challenges": [
+                "Kingdom of Israel.",
+                "War.",
+                "Drought.",
+                "Survival."
+            ],
+            "legacy": "Mesha is the ancient voice of Jordan. His stele is a key historical document.",
+            "quotes": [
+                "I am Mesha, son of Chemosh."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The King.",
+            "culturalImpact": "The stele is in the Louvre.",
+            "primarySources": [
+                "Mesha Stele.",
+                "Bible (Kings)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a powerful ruler.",
+                "Symbol of ancient identity."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Aretas IV",
+            "nativeName": "Aretas IV Philopatris",
+            "lifespan": "9 BC-40 AD",
+            "era": "Ancient Period",
+            "role": "King",
+            "background": "Aretas IV was the King of the Nabataeans. Under his rule, Petra reached its height, and many of its famous monuments (like the Treasury) were built.",
+            "keyDecisions": [
+                "Expanding the kingdom.",
+                "Building Petra.",
+                "Fighting Herod Antipas.",
+                "Mentioned by Paul the Apostle."
+            ],
+            "achievements": [
+                "Builder of Petra.",
+                "King.",
+                "Lover of his people (Philopatris).",
+                "Wealthiest Nabataean."
+            ],
+            "challenges": [
+                "Rome.",
+                "Herodians.",
+                "Trade routes.",
+                "Succession."
+            ],
+            "legacy": "Aretas built the Rose City. Petra is his monument.",
+            "quotes": [
+                "Philopatris."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Builder.",
+            "culturalImpact": "Petra is a world wonder.",
+            "primarySources": [
+                "Josephus.",
+                "Inscriptions."
+            ],
+            "modernInterpretations": [
+                "Revered as a great king.",
+                "Symbol of Nabataean glory."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Sulayman al-Nabulsi",
+            "nativeName": "Sulayman al-Nabulsi",
+            "lifespan": "1908-1976",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister",
+            "background": "Sulayman al-Nabulsi was a leftist Prime Minister. He led the only elected parliamentary government in Jordan's history (1956-1957) before being dismissed.",
+            "keyDecisions": [
+                "Founding the National Socialist Party.",
+                "Winning the 1956 election.",
+                "Terminating the Anglo-Jordanian treaty.",
+                "Clashing with the King."
+            ],
+            "achievements": [
+                "Democrat.",
+                "Nationalist.",
+                "Prime Minister.",
+                "Ideologue."
+            ],
+            "challenges": [
+                "The Palace.",
+                "Cold War.",
+                "Internal coup attempt.",
+                "House arrest."
+            ],
+            "legacy": "Nabulsi represents the 'what if' of Jordanian democracy. He was the voice of Arab nationalism.",
+            "quotes": [
+                "The will of the people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Democrat.",
+            "culturalImpact": "He is a hero to the left.",
+            "primarySources": [
+                "Speeches.",
+                "Political history."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a patriot.",
+                "His dismissal is a turning point."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Zaha Hadid",
+            "nativeName": "Zaha Hadid",
+            "lifespan": "1950-2016",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Architect",
+            "background": "Zaha Hadid was an Iraqi-British architect with strong ties to Jordan (designed the King Abdullah II House of Culture). She was the first woman to win the Pritzker Prize.",
+            "keyDecisions": [
+                "Studying in Beirut and London.",
+                "Founding Zaha Hadid Architects.",
+                "Designing the Petra Visitor Center (unbuilt).",
+                "Breaking the curve."
+            ],
+            "achievements": [
+                "Queen of the Curve.",
+                "Pritzker winner.",
+                "Dame.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Sexism.",
+                ""Unbuildable" designs.",
+                "Critics.",
+                "Heart attack."
+            ],
+            "legacy": "Zaha changed architecture. Her influence in the region is profound.",
+            "quotes": [
+                "There are 360 degrees, so why stick to one?"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Architect.",
+            "culturalImpact": "She is an icon.",
+            "primarySources": [
+                "Buildings.",
+                "Drawings."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Her work is futuristic."
+            ]
+        }
+    ]
+}

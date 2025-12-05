@@ -1,0 +1,761 @@
+{
+    "country": "Uganda",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Yoweri Museveni",
+            "nativeName": "Yoweri Kaguta Museveni",
+            "lifespan": "1944-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Yoweri Museveni is the President of Uganda, having been in power since 1986. He led the National Resistance Army (NRA) to overthrow the regimes of Idi Amin and Milton Obote.",
+            "keyDecisions": [
+                "Launching the Bush War (1981-1986).",
+                "Implementing the Ten-Point Program.",
+                "Fighting HIV/AIDS (ABC strategy).",
+                "Intervening in regional conflicts (DRC, South Sudan, Somalia)."
+            ],
+            "achievements": [
+                "Restored stability after decades of chaos.",
+                "Reduced HIV/AIDS prevalence.",
+                "Economic growth.",
+                "Longest-serving leader."
+            ],
+            "challenges": [
+                "The Lord's Resistance Army (LRA) insurgency.",
+                "Corruption.",
+                "Removing term limits and age limits.",
+                "Criticism for authoritarianism."
+            ],
+            "legacy": "Museveni is the father of modern Uganda. He is credited with peace but criticized for overstaying his welcome.",
+            "quotes": [
+                "The problem of Africa in general and Uganda in particular is not the people but leaders who want to overstay in power."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Liberator.",
+            "culturalImpact": "He defines the political landscape. His hat and speeches are iconic.",
+            "primarySources": [
+                "Sowing the Mustard Seed (Autobiography).",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a stabilizer.",
+                "Viewed as a dictator by the opposition."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Idi Amin",
+            "nativeName": "Idi Amin Dada Oumee",
+            "lifespan": "c. 1925-2003",
+            "era": "Modern Period (20th Century)",
+            "role": "Dictator",
+            "background": "Idi Amin was a military officer who served as the President of Uganda from 1971 to 1979. His regime was characterized by human rights abuses, political repression, and economic collapse.",
+            "keyDecisions": [
+                "Staging the 1971 coup.",
+                "Expelling the Asians (1972).",
+                "Hosting Palestinian hijackers (Entebbe Raid).",
+                "Invading Tanzania (leading to his downfall)."
+            ],
+            "achievements": [
+                "Self-proclaimed Conqueror of the British Empire.",
+                "Chairman of the OAU.",
+                "Built up the military.",
+                "Notorious global figure."
+            ],
+            "challenges": [
+                "Economic collapse after expelling Asians.",
+                "International isolation.",
+                "Paranoia.",
+                "Defeat by Tanzania."
+            ],
+            "legacy": "Amin is the archetype of the African dictator. His rule is known as the reign of terror.",
+            "quotes": [
+                "I am the hero of Africa."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Butcher of Uganda.",
+            "culturalImpact": "He is the subject of 'The Last King of Scotland'. A symbol of brutality.",
+            "primarySources": [
+                "Decrees.",
+                "News footage."
+            ],
+            "modernInterpretations": [
+                "Reviled as a monster.",
+                "Some revisionists argue he was a nationalist who stood up to the West."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Milton Obote",
+            "nativeName": "Apollo Milton Obote",
+            "lifespan": "1925-2005",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Milton Obote was the leader who led Uganda to independence in 1962. He served as Prime Minister and then President twice, both times ending in military coups.",
+            "keyDecisions": [
+                "Leading the UPC to independence.",
+                "Abolishing the kingdoms (1966 Crisis).",
+                "Implementing the Common Man's Charter (socialism).",
+                "Fighting the Bush War against Museveni."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "First Prime Minister.",
+                "Pan-Africanist.",
+                "Built schools and hospitals."
+            ],
+            "challenges": [
+                "Tribalism (Buganda vs. the North).",
+                "Coups by Idi Amin and the Okellos.",
+                "The Luwero Triangle war.",
+                "Exile."
+            ],
+            "legacy": "Obote is a tragic figure. He is the father of the nation but also blamed for its instability.",
+            "quotes": [
+                "I shall return."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Independence Leader.",
+            "culturalImpact": "He is a polarizing figure, loved in the North and hated in Buganda.",
+            "primarySources": [
+                "The Common Man's Charter.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Viewed as a brilliant politician who lost control.",
+                "His abolition of kingdoms is still a sore point."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Kabaka Mutesa II",
+            "nativeName": "Sir Edward Frederick William David Walugembe Mutebi Luwangula Muteesa II (King Freddie)",
+            "lifespan": "1924-1969",
+            "era": "Modern Period (20th Century)",
+            "role": "King, President",
+            "background": "Mutesa II was the Kabaka (King) of Buganda and the first President of Uganda. He was exiled by the British and later by Obote.",
+            "keyDecisions": [
+                "Demanding independence for Buganda.",
+                "Accepting the presidency in a coalition with Obote.",
+                "Resisting Obote's centralization.",
+                "Escaping the palace attack in 1966."
+            ],
+            "achievements": [
+                "Kabaka of Buganda.",
+                "First President.",
+                "Symbol of Ganda nationalism.",
+                "Major General in the British Army."
+            ],
+            "challenges": [
+                "Conflict between traditionalism and nationalism.",
+                "The 1966 Crisis (Battle of Mengo Hill).",
+                "Exile in London.",
+                "Poverty and death in exile."
+            ],
+            "legacy": "King Freddie is a martyr for the Buganda Kingdom. His desecration by Obote led to decades of conflict.",
+            "quotes": [
+                "The desecration of my kingdom is unbearable."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "King Freddie.",
+            "culturalImpact": "He is worshipped by the Baganda. His return for burial was a massive event.",
+            "primarySources": [
+                "Desecration of My Kingdom (Autobiography).",
+                "Colonial records."
+            ],
+            "modernInterpretations": [
+                "Revered as a victim of tyranny.",
+                "Symbol of the monarchist cause."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Kabaka Mwanga II",
+            "nativeName": "Danieri Basammula-Ekkere Mwanga II Mukasa",
+            "lifespan": "1868-1903",
+            "era": "Colonial Period (19th Century)",
+            "role": "King",
+            "background": "Mwanga II was the Kabaka of Buganda who ordered the execution of the Uganda Martyrs. He resisted British colonization and was exiled to the Seychelles.",
+            "keyDecisions": [
+                "Ordering the execution of Christian converts (1886).",
+                "Signing treaties with the British (under duress).",
+                "Rebelling against the British (Mwanga's Rebellion).",
+                "Joining forces with his enemy Kabarega."
+            ],
+            "achievements": [
+                "Last independent King of Buganda.",
+                "Resisted imperialism.",
+                "Unlikely alliance with Bunyoro.",
+                "Died in exile."
+            ],
+            "challenges": [
+                "Religious wars (Muslims, Catholics, Protestants).",
+                "British military power.",
+                "Internal dissent.",
+                "Exile."
+            ],
+            "legacy": "Mwanga is a complex figure. He is the villain of the Martyrs' story but a hero of resistance.",
+            "quotes": [
+                "I will not give up my land."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Resistance King.",
+            "culturalImpact": "The Uganda Martyrs Shrine is a major pilgrimage site. He is a symbol of defiance.",
+            "primarySources": [
+                "Missionary journals.",
+                "Colonial records."
+            ],
+            "modernInterpretations": [
+                "Viewed as a tyrant by the church.",
+                "Viewed as a patriot by nationalists."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Omukama Kabarega",
+            "nativeName": "Chwa II Kabalega",
+            "lifespan": "1853-1923",
+            "era": "Colonial Period (19th-20th Century)",
+            "role": "King",
+            "background": "Kabarega was the Omukama (King) of Bunyoro. He is famous for his fierce resistance against the British and their Buganda allies using guerrilla warfare.",
+            "keyDecisions": [
+                "Modernizing his army (Abarusura).",
+                "Fighting a guerrilla war for 9 years.",
+                "Allying with Mwanga II.",
+                "Refusing to surrender."
+            ],
+            "achievements": [
+                "Greatest resistance leader.",
+                "Built a professional army.",
+                "Defended Bunyoro's sovereignty.",
+                "National Hero."
+            ],
+            "challenges": [
+                "British scorched-earth tactics.",
+                "Buganda expansionism.",
+                "Capture and exile to Seychelles.",
+                "Loss of the 'Lost Counties'."
+            ],
+            "legacy": "Kabarega is the hero of Bunyoro. He is a symbol of African resistance.",
+            "quotes": [
+                "I will die fighting."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Warrior King.",
+            "culturalImpact": "He is honored as a national hero. His tactics are studied.",
+            "primarySources": [
+                "Oral traditions.",
+                "British military reports."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a military genius.",
+                "His resistance is a source of pride."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Joshua Cheptegei",
+            "nativeName": "Joshua Kiprui Cheptegei",
+            "lifespan": "1996-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Joshua Cheptegei is a long-distance runner and the current world record holder for the 5000m and 10000m. He is Uganda's greatest athlete.",
+            "keyDecisions": [
+                "Focusing on track running.",
+                "Recovering from his collapse at the 2017 World Cross Country.",
+                "Breaking the long-standing records of Bekele.",
+                "Winning Olympic Gold."
+            ],
+            "achievements": [
+                "World Record Holder (5000m, 10000m).",
+                "Olympic Gold Medalist.",
+                "World Champion.",
+                "Put Uganda on top of the running world."
+            ],
+            "challenges": [
+                "Competition from Kenyans and Ethiopians.",
+                "The 2017 collapse (public humiliation).",
+                "Training in Kapchorwa.",
+                "Pressure."
+            ],
+            "legacy": "Cheptegei is the Golden Boy. He proved Uganda can beat the world.",
+            "quotes": [
+                "I want to be the greatest."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Track Legend.",
+            "culturalImpact": "He inspires the youth. A national icon.",
+            "primarySources": [
+                "Race records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His mental strength is admired."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Stephen Kiprotich",
+            "nativeName": "Stephen Kiprotich",
+            "lifespan": "1989-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Stephen Kiprotich is a long-distance runner who won the marathon gold medal at the 2012 London Olympics, Uganda's first gold since 1972.",
+            "keyDecisions": [
+                "Moving to Kenya to train.",
+                "Running the Olympic marathon.",
+                "Surprising the favorites.",
+                "Ending the 40-year gold drought."
+            ],
+            "achievements": [
+                "Olympic Gold Medalist (2012).",
+                "World Champion (2013).",
+                "National Hero.",
+                "Prison Warden (his job)."
+            ],
+            "challenges": [
+                "Lack of support initially.",
+                "Training away from home.",
+                "Competition.",
+                "Staying humble."
+            ],
+            "legacy": "Kiprotich broke the curse. His victory united the nation.",
+            "quotes": [
+                "I ran for my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Olympic Champion.",
+            "culturalImpact": "He sparked a running boom in Uganda.",
+            "primarySources": [
+                "Race footage.",
+                "News reports."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His victory is a favorite sporting memory."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Philly Lutaaya",
+            "nativeName": "Philly Bongoley Lutaaya",
+            "lifespan": "1951-1989",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Musician, Activist",
+            "background": "Philly Lutaaya was a musician who was the first prominent Ugandan to publicly declare he had HIV/AIDS. He spent his last years campaigning against the stigma.",
+            "keyDecisions": [
+                "Coming out as HIV positive (1989).",
+                "Recording the album 'Born in Africa'.",
+                "Touring schools to educate youth.",
+                "Writing 'Alone and Frightened'."
+            ],
+            "achievements": [
+                "Face of the fight against AIDS.",
+                "Saved countless lives through awareness.",
+                "Musical legend.",
+                "Lifetime Achievement Award."
+            ],
+            "challenges": [
+                "Stigma and discrimination.",
+                "Declining health.",
+                "Public skepticism.",
+                "Death at 38."
+            ],
+            "legacy": "Philly Lutaaya is a hero. His Christmas album is the soundtrack of the holidays in Uganda. His bravery changed the course of the epidemic.",
+            "quotes": [
+                "Today it's me, tomorrow someone else."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "AIDS Activist.",
+            "culturalImpact": "Philly Lutaaya Day (Oct 17). His music lives on.",
+            "primarySources": [
+                "Born in Africa (Documentary).",
+                "Songs."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a savior.",
+                "His message is still relevant."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Janani Luwum",
+            "nativeName": "Janani Jakaliya Luwum",
+            "lifespan": "1922-1977",
+            "era": "Modern Period (20th Century)",
+            "role": "Archbishop, Martyr",
+            "background": "Janani Luwum was the Archbishop of the Church of Uganda. He was a vocal critic of Idi Amin's brutality and was murdered by the regime in 1977.",
+            "keyDecisions": [
+                "Speaking out against disappearances and killings.",
+                "Delivering a protest note to Amin.",
+                "Refusing to flee the country.",
+                "Accepting his martyrdom."
+            ],
+            "achievements": [
+                "Martyr of the 20th Century (Westminster Abbey statue).",
+                "Voice of the voiceless.",
+                "United the churches.",
+                "Saint."
+            ],
+            "challenges": [
+                "Threats from Amin.",
+                "False accusations of treason.",
+                "Brutal murder (staged car accident).",
+                "Fear in the church."
+            ],
+            "legacy": "Luwum is a saint. Janani Luwum Day is a public holiday. He represents the moral courage of the church.",
+            "quotes": [
+                "I am prepared to die in the army of Jesus."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Modern Martyr.",
+            "culturalImpact": "He is one of the ten 20th-century martyrs at Westminster Abbey.",
+            "primarySources": [
+                "Church records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a holy man.",
+                "His death turned the world against Amin."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Bobi Wine",
+            "nativeName": "Robert Kyagulanyi Ssentamu",
+            "lifespan": "1982-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician, Politician",
+            "background": "Bobi Wine is a pop star turned politician. He is the leader of the National Unity Platform (NUP) and the main challenger to President Museveni. He calls himself the 'Ghetto President'.",
+            "keyDecisions": [
+                "Singing socially conscious music.",
+                "Running for MP (Kyadondo East).",
+                "Running for President in 2021.",
+                "Leading the People Power movement."
+            ],
+            "achievements": [
+                "Ghetto President.",
+                "Mobilized the youth.",
+                "Leader of the Opposition.",
+                "Global icon of resistance."
+            ],
+            "challenges": [
+                "Arrest and torture.",
+                "House arrest.",
+                "Violence against his supporters.",
+                "Censorship."
+            ],
+            "legacy": "Bobi Wine represents the new generation. He has shaken the establishment.",
+            "quotes": [
+                "We are removing a dictator."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Opposition Leader.",
+            "culturalImpact": "His red beret is a symbol of resistance. 'Bobi Wine: The People's President' documentary.",
+            "primarySources": [
+                "Songs (Tuliyambala Engule).",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Hero to the youth.",
+                "Troublemaker to the government."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Benedicto Kiwanuka",
+            "nativeName": "Benedicto Kagimu Mugumba Kiwanuka",
+            "lifespan": "1922-1972",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician, Judge",
+            "background": "Benedicto Kiwanuka was the first Prime Minister of Uganda (pre-independence) and the first black Chief Justice. He was murdered by Idi Amin for refusing to compromise the judiciary.",
+            "keyDecisions": [
+                "Leading the Democratic Party (DP).",
+                "Serving as Chief Justice.",
+                "Ruling against the government in sensitive cases.",
+                "Refusing to resign."
+            ],
+            "achievements": [
+                "First Prime Minister.",
+                "Chief Justice.",
+                "Martyr for the rule of law.",
+                "Catholic leader."
+            ],
+            "challenges": [
+                "Religious politics (Catholic vs. Protestant).",
+                "Conflict with Obote and Amin.",
+                "Abduction from the High Court.",
+                "Disappearance (body never found)."
+            ],
+            "legacy": "Kiwanuka is the symbol of justice. The High Court building is named after him.",
+            "quotes": [
+                "Justice must be done."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Martyr for Justice.",
+            "culturalImpact": "He is a hero to the legal profession and the Catholic Church.",
+            "primarySources": [
+                "Court judgments.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a man of principle.",
+                "His murder marked the collapse of the rule of law."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "John Akii-Bua",
+            "nativeName": "John Akii-Bua",
+            "lifespan": "1949-1997",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Athlete",
+            "background": "John Akii-Bua was a hurdler who won Uganda's first Olympic gold medal at the 1972 Munich Olympics in the 400m hurdles, setting a world record.",
+            "keyDecisions": [
+                "Switching from high jump to hurdles.",
+                "Running in the inside lane (unusual).",
+                "Winning gold in world record time.",
+                "Fleeing Amin's regime."
+            ],
+            "achievements": [
+                "First Olympic Gold for Uganda.",
+                "World Record Holder.",
+                "Legendary performance.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Living under Amin (who killed his brothers).",
+                "Exile.",
+                "Poverty in later life.",
+                "Lack of recognition."
+            ],
+            "legacy": "Akii-Bua is the pioneer. His 1972 victory is one of the greatest moments in Olympic history.",
+            "quotes": [
+                "I am a hurdler."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Gold.",
+            "culturalImpact": "A stadium is named after him (in theory).",
+            "primarySources": [
+                "Race footage.",
+                "Documentaries."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His tragic post-career life is a warning."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Yusuf Lule",
+            "nativeName": "Yusuf Kironde Lule",
+            "lifespan": "1912-1985",
+            "era": "Modern Period (20th Century)",
+            "role": "President, Academic",
+            "background": "Yusuf Lule was an academic who served as the President of Uganda for 68 days after the fall of Idi Amin. He was the first principal of Makerere University.",
+            "keyDecisions": [
+                "Leading Makerere University.",
+                "Chairing the Moshi Conference.",
+                "Accepting the presidency.",
+                "Trying to assert authority over the military (leading to his removal)."
+            ],
+            "achievements": [
+                "First African Principal of Makerere.",
+                "President.",
+                "Intellectual leader.",
+                "Founded the NRM (with Museveni)."
+            ],
+            "challenges": [
+                "Political inexperience.",
+                "Power struggle with the UNLF.",
+                "Removal from office.",
+                "Exile."
+            ],
+            "legacy": "Lule is the scholar-president. His short rule represents the chaotic transition period.",
+            "quotes": [
+                "Uganda is free."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Short-lived President.",
+            "culturalImpact": "He is remembered as a decent man in a dirty game.",
+            "primarySources": [
+                "Academic papers.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Respected for his intellect.",
+                "Viewed as politically naive."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Emmanuel Wamala",
+            "nativeName": "Emmanuel Wamala",
+            "lifespan": "1926-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Cardinal",
+            "background": "Emmanuel Wamala is a Cardinal of the Catholic Church and the Archbishop Emeritus of Kampala. He has been a moral voice in Uganda for decades.",
+            "keyDecisions": [
+                "Serving as Archbishop of Kampala.",
+                "Advocating for peace and justice.",
+                "Building schools and hospitals.",
+                "Promoting interfaith dialogue."
+            ],
+            "achievements": [
+                "Cardinal.",
+                "Moral leader.",
+                "Patron of education.",
+                "Voice of reason."
+            ],
+            "challenges": [
+                "Navigating political turbulence.",
+                "The HIV/AIDS crisis.",
+                "Poverty in the church.",
+                "Age."
+            ],
+            "legacy": "Cardinal Wamala is a pillar of the nation. He is respected by all political sides.",
+            "quotes": [
+                "Peace is a gift from God."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Religious Leader.",
+            "culturalImpact": "He is a father figure to the nation.",
+            "primarySources": [
+                "Sermons.",
+                "Pastoral letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a holy and wise man.",
+                "His longevity is celebrated."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Okot p'Bitek",
+            "nativeName": "Okot p'Bitek",
+            "lifespan": "1931-1982",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet, Scholar",
+            "background": "Okot p'Bitek was a poet and anthropologist. He is best known for his poem 'Song of Lawino', a defense of African culture against Westernization.",
+            "keyDecisions": [
+                "Writing 'Song of Lawino'.",
+                "Promoting African oral literature.",
+                "Playing football for the national team.",
+                "Directing the National Theatre."
+            ],
+            "achievements": [
+                "Father of East African Literature.",
+                "Cultural icon.",
+                "Champion of Acoli culture.",
+                "Intellectual."
+            ],
+            "challenges": [
+                "Exile under Amin.",
+                "Alcoholism.",
+                "Early death.",
+                "Cultural imperialism."
+            ],
+            "legacy": "Okot is the voice of cultural pride. 'Song of Lawino' is the most famous African poem.",
+            "quotes": [
+                "Let no one uproot the pumpkin in the old homestead."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary Giant.",
+            "culturalImpact": "He influenced a generation of writers.",
+            "primarySources": [
+                "Song of Lawino.",
+                "Song of Ocol."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His work is a staple in schools."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Dorcus Inzikuru",
+            "nativeName": "Dorcus Inzikuru",
+            "lifespan": "1982-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Dorcus Inzikuru is a track and field athlete who won the first world title for Uganda in the 3000m steeplechase in 2005. She is known as the 'Arua Gazelle'.",
+            "keyDecisions": [
+                "Running the steeplechase (a new event for women).",
+                "Winning the World Championship.",
+                "Overcoming personal struggles.",
+                "Inspiring girls in West Nile."
+            ],
+            "achievements": [
+                "World Champion (2005).",
+                "Commonwealth Gold Medalist.",
+                "Ended a 33-year gold drought.",
+                "Role model."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Sinusitis.",
+                "Personal life issues.",
+                "Lack of facilities in Arua."
+            ],
+            "legacy": "Inzikuru put women's running on the map in Uganda. She is a legend in the West Nile region.",
+            "quotes": [
+                "I run for my people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Golden Girl.",
+            "culturalImpact": "She inspired many girls to take up sports.",
+            "primarySources": [
+                "Race footage.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a pioneer.",
+                "Her comeback attempts are admired."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Godfrey Binaisa",
+            "nativeName": "Godfrey Lukongwa Binaisa",
+            "lifespan": "1920-2010",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Godfrey Binaisa was the President of Uganda from 1979 to 1980. He was a lawyer who famously drafted the 1967 'Pigeonhole Constitution' before falling out with Obote.",
+            "keyDecisions": [
+                "Drafting the 1967 Constitution.",
+                "Serving as President under the UNLF.",
+                "Trying to transfer powerful military officers (leading to his coup).",
+                "Living in exile in the US."
+            ],
+            "achievements": [
+                "President.",
+                "Attorney General.",
+                "QC (Queen's Counsel).",
+                "Survivor."
+            ],
+            "challenges": [
+                "The military commission (Museveni and Oyite-Ojok).",
+                "Lack of a political base.",
+                "The 'Umbrella' political system.",
+                "Being removed from power."
+            ],
+            "legacy": "Binaisa is a colorful figure. He is remembered for his humor and his short, chaotic presidency.",
+            "quotes": [
+                "Entebbe is sweet (referring to the State House)."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Interim President.",
+            "culturalImpact": "He is a symbol of the post-Amin confusion.",
+            "primarySources": [
+                "Speeches.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Viewed as an intellectual but weak leader.",
+                "His 'Entebbe is sweet' quote is legendary."
+            ]
+        }
+    ]
+}

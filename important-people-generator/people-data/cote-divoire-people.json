@@ -1,0 +1,761 @@
+{
+    "country": "Côte d'Ivoire",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Félix Houphouët-Boigny",
+            "nativeName": "Dia Houphouët",
+            "lifespan": "1905-1993",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Félix Houphouët-Boigny was the first President of Côte d'Ivoire. Known as 'Le Vieux' (The Old One), he led the country to independence and economic prosperity (the Ivorian Miracle).",
+            "keyDecisions": [
+                "Founding the RDA party.",
+                "Serving as a minister in the French government.",
+                "Leading the country to independence.",
+                "Building the Basilica in Yamoussoukro."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "Ivorian Miracle (economic boom).",
+                "Peace prize namesake.",
+                "Builder."
+            ],
+            "challenges": [
+                "Economic crisis in the 80s.",
+                "One-party rule criticism.",
+                "Succession battle.",
+                "Cost of the Basilica."
+            ],
+            "legacy": "Houphouët-Boigny is the father of the nation. He built modern Côte d'Ivoire.",
+            "quotes": [
+                "Peace is not a word, it is a behavior."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sage.",
+            "culturalImpact": "Yamoussoukro is his monument.",
+            "primarySources": [
+                "Speeches.",
+                "French archives."
+            ],
+            "modernInterpretations": [
+                "Revered as a wise leader.",
+                "His authoritarianism is acknowledged."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Didier Drogba",
+            "nativeName": "Didier Yves Drogba Tébily",
+            "lifespan": "1978-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Didier Drogba is a former footballer who played as a striker. He is the all-time top scorer for the national team and a Chelsea legend.",
+            "keyDecisions": [
+                "Signing with Chelsea.",
+                "Stopping a civil war (with a speech).",
+                "Building hospitals.",
+                "Running for FIF president."
+            ],
+            "achievements": [
+                "Champions League winner.",
+                "African Player of the Year (twice).",
+                "Peacemaker.",
+                "Philanthropist."
+            ],
+            "challenges": [
+                "Losing the AFCON finals.",
+                "Civil war in his country.",
+                "Injuries.",
+                "Politics."
+            ],
+            "legacy": "Drogba is more than a player; he is a unifier. His appeal for peace in 2005 is legendary.",
+            "quotes": [
+                "Please, lay down your weapons."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Peacemaker.",
+            "culturalImpact": "He is a god in Abidjan.",
+            "primarySources": [
+                "Match records.",
+                "Documentaries."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "His influence transcends sport."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Alpha Blondy",
+            "nativeName": "Seydou Koné (Alpha Blondy)",
+            "lifespan": "1953-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Alpha Blondy is a reggae singer. He is known as the 'Bob Marley of Africa' and sings in Dioula, French, English, and Hebrew.",
+            "keyDecisions": [
+                "Recording 'Jah Glory'.",
+                "Singing 'Brigadier Sabari' (about police brutality).",
+                "Promoting peace and unity.",
+                "Performing in Israel."
+            ],
+            "achievements": [
+                "Global reggae star.",
+                "UN Messenger of Peace.",
+                "Voice of the voiceless.",
+                "Innovator."
+            ],
+            "challenges": [
+                "Mental health issues.",
+                "Political instability.",
+                "Censorship.",
+                "Health."
+            ],
+            "legacy": "Alpha Blondy is the voice of Ivorian youth. His music is the soundtrack of the streets.",
+            "quotes": [
+                "Peace in Liberia."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Reggae Star.",
+            "culturalImpact": "He made reggae African.",
+            "primarySources": [
+                "Albums.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Revered as a legend.",
+                "His message of peace is timeless."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Queen Abla Pokou",
+            "nativeName": "Abla Pokou",
+            "lifespan": "18th Century",
+            "era": "Early Modern Period (18th Century)",
+            "role": "Queen",
+            "background": "Queen Abla Pokou was the founder of the Baoulé people. Legend says she sacrificed her son to cross the Comoé River and save her people.",
+            "keyDecisions": [
+                "Leading her people from Ghana.",
+                "Sacrificing her son to the river spirit.",
+                "Saying 'Ba-ouli' (The child is dead).",
+                "Establishing the kingdom."
+            ],
+            "achievements": [
+                "Founder of the Baoulé.",
+                "Queen Mother.",
+                "Savior.",
+                "Leader."
+            ],
+            "challenges": [
+                "Pursuit by the Ashanti.",
+                "The river crossing.",
+                "Sacrifice.",
+                "Building a new home."
+            ],
+            "legacy": "Abla Pokou is the mother of the Baoulé. Her sacrifice is the foundational myth of the nation.",
+            "quotes": [
+                "Ba-ouli."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Queen.",
+            "culturalImpact": "She is a symbol of maternal sacrifice.",
+            "primarySources": [
+                "Oral traditions.",
+                "Legends."
+            ],
+            "modernInterpretations": [
+                "Revered as a heroine.",
+                "Her story is taught to every child."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Alassane Ouattara",
+            "nativeName": "Alassane Dramane Ouattara",
+            "lifespan": "1942-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Alassane Ouattara is the current President of Côte d'Ivoire. An economist, he worked for the IMF before entering politics.",
+            "keyDecisions": [
+                "Serving as Prime Minister under Houphouët.",
+                "Running for president (and being disqualified).",
+                "Winning the 2010 election.",
+                "Rebuilding the economy."
+            ],
+            "achievements": [
+                "Economic recovery.",
+                "Infrastructure projects.",
+                "Stability (post-2011).",
+                "Economist."
+            ],
+            "challenges": [
+                "Civil war (2002, 2011).",
+                "Ivoirité (citizenship issue).",
+                "Gbagbo's refusal to step down.",
+                "Third term controversy."
+            ],
+            "legacy": "Ouattara is the technocrat who rebuilt the country. His legacy is one of development and division.",
+            "quotes": [
+                "Emergence 2020."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Builder.",
+            "culturalImpact": "He modernized Abidjan.",
+            "primarySources": [
+                "IMF reports.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Praised for the economy.",
+                "Criticized for authoritarianism."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Laurent Gbagbo",
+            "nativeName": "Laurent Koudou Gbagbo",
+            "lifespan": "1945-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Laurent Gbagbo was the President of Côte d'Ivoire from 2000 to 2011. A historian and socialist, he was a long-time opponent of Houphouët-Boigny.",
+            "keyDecisions": [
+                "Founding the FPI party.",
+                "Winning the 2000 election.",
+                "Resisting the rebellion.",
+                "Refusing to concede in 2010."
+            ],
+            "achievements": [
+                "Father of Multipartyism.",
+                "Historian.",
+                "Anti-imperialist rhetoric.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Civil war.",
+                "ICC trial (acquitted).",
+                "Economic sanctions.",
+                "Loss of power."
+            ],
+            "legacy": "Gbagbo is the hero of the street. His trial at the ICC made him a martyr to his supporters.",
+            "quotes": [
+                "We win or we win."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Opponent.",
+            "culturalImpact": "He represents sovereignty to many.",
+            "primarySources": [
+                "Speeches.",
+                "Books."
+            ],
+            "modernInterpretations": [
+                "Viewed as a patriot by supporters.",
+                "Viewed as a divisive figure by critics."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Magic System",
+            "nativeName": "Magic System (A'Salfo, Goudé, Tino, Manadja)",
+            "lifespan": "1996-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musicians",
+            "background": "Magic System is a Zouglou band from Abidjan. They are famous for the hit 'Premier Gaou' and for organizing the FEMUA festival.",
+            "keyDecisions": [
+                "Recording 'Premier Gaou'.",
+                "Staying together as a group.",
+                "Creating FEMUA.",
+                "Building schools."
+            ],
+            "achievements": [
+                "Global ambassadors of Zouglou.",
+                "Philanthropists.",
+                "Hit makers.",
+                "Cultural icons."
+            ],
+            "challenges": [
+                "Poverty (initially).",
+                "Piracy.",
+                "Staying relevant.",
+                "Managing fame."
+            ],
+            "legacy": "Magic System put Zouglou on the world map. They are the pride of Anoumabo.",
+            "quotes": [
+                "Premier Gaou."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Ambassadors.",
+            "culturalImpact": "Their music is played at every wedding.",
+            "primarySources": [
+                "Albums.",
+                "FEMUA."
+            ],
+            "modernInterpretations": [
+                "Celebrated as legends.",
+                "Their social work is praised."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Bernard Dadié",
+            "nativeName": "Bernard Binlin Dadié",
+            "lifespan": "1916-2019",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Bernard Dadié was a writer and politician. He is considered the father of Ivorian literature and lived to be 103.",
+            "keyDecisions": [
+                "Writing 'Climbié'.",
+                "Serving as Minister of Culture.",
+                "Founding the Cercle Culturel.",
+                "Writing poems in prison."
+            ],
+            "achievements": [
+                "Grand Prize for Literature.",
+                "Centenarian.",
+                "Minister.",
+                "Storyteller."
+            ],
+            "challenges": [
+                "Colonial imprisonment.",
+                "Censorship.",
+                "Political struggles.",
+                "Old age."
+            ],
+            "legacy": "Dadié is the grandfather of letters. His work captures the soul of the country.",
+            "quotes": [
+                "I thank you God for creating me black."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "He is taught in schools.",
+            "primarySources": [
+                "Climbié.",
+                "Un Nègre à Paris."
+            ],
+            "modernInterpretations": [
+                "Revered as a sage.",
+                "His wit is legendary."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Yaya Touré",
+            "nativeName": "Gnégnéri Yaya Touré",
+            "lifespan": "1983-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Yaya Touré is a former footballer who played as a midfielder. He is one of the greatest African players, known for his power and technique.",
+            "keyDecisions": [
+                "Joining Barcelona.",
+                "Moving to Manchester City.",
+                "Winning the AFCON 2015.",
+                "Winning 4 African Player of the Year awards."
+            ],
+            "achievements": [
+                "4-time African Player of the Year.",
+                "Premier League Champion.",
+                "AFCON Champion.",
+                "Legend."
+            ],
+            "challenges": [
+                "Racism.",
+                "Underappreciation.",
+                "Birthday cake incident.",
+                "Injuries."
+            ],
+            "legacy": "Yaya is the complete midfielder. He dominated the Premier League.",
+            "quotes": [
+                "I want to be the best."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Engine.",
+            "culturalImpact": "He is an idol.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a giant of the game.",
+                "His talent is undeniable."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Ahmadou Kourouma",
+            "nativeName": "Ahmadou Kourouma",
+            "lifespan": "1927-2003",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Ahmadou Kourouma was a writer known for his unique style that blended French with Malinke syntax. His book 'Allah is Not Obliged' is a masterpiece.",
+            "keyDecisions": [
+                "Writing 'The Suns of Independence'.",
+                "Criticizing dictatorships.",
+                "Writing about child soldiers.",
+                "Living in exile."
+            ],
+            "achievements": [
+                "Renaudot Prize.",
+                "Literary innovator.",
+                "Voice of the oppressed.",
+                "Mathematician."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Exile.",
+                "Publishing difficulties.",
+                "Political threats."
+            ],
+            "legacy": "Kourouma reinvented the French language. He told the ugly truths of post-colonial Africa.",
+            "quotes": [
+                "Allah is not obliged to be fair."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Innovator.",
+            "culturalImpact": "He is a giant of African literature.",
+            "primarySources": [
+                "The Suns of Independence.",
+                "Allah is Not Obliged."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His style is studied."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Marie Koré",
+            "nativeName": "Marie Koré",
+            "lifespan": "1912-1953",
+            "era": "Modern Period (20th Century)",
+            "role": "Activist",
+            "background": "Marie Koré was a freedom fighter. She led the women's march on Grand-Bassam in 1949 to demand the release of imprisoned political leaders.",
+            "keyDecisions": [
+                "Organizing the march.",
+                "Confronting the colonial police.",
+                "Going to prison.",
+                "Inspiring other women."
+            ],
+            "achievements": [
+                "Heroine of Grand-Bassam.",
+                "Independence activist.",
+                "Martyr (died young).",
+                "Leader."
+            ],
+            "challenges": [
+                "Police brutality.",
+                "Imprisonment.",
+                "Sexism.",
+                "Health."
+            ],
+            "legacy": "Marie Koré is the symbol of female resistance. The march is a key moment in history.",
+            "quotes": [
+                "Free our husbands."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Heroine.",
+            "culturalImpact": "She is on the 2000 CFA note (group).",
+            "primarySources": [
+                "History books.",
+                "Oral accounts."
+            ],
+            "modernInterpretations": [
+                "Revered as a patriot.",
+                "Her courage is legendary."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Gouro",
+            "nativeName": "Zaouli (Mask)",
+            "lifespan": "Traditional",
+            "era": "Traditional",
+            "role": "Cultural Symbol",
+            "background": "The Zaouli is a traditional dance and mask of the Guro people. While not a person, the creators and performers of Zaouli are central to Ivorian culture.",
+            "keyDecisions": [
+                "Creating the mask.",
+                "Developing the rapid footwork.",
+                "Performing at festivals.",
+                "Preserving the tradition."
+            ],
+            "achievements": [
+                "UNESCO Intangible Heritage.",
+                "Most difficult dance.",
+                "Viral sensation.",
+                "Symbol of beauty."
+            ],
+            "challenges": [
+                "Modernization.",
+                "Physical demands.",
+                "Secrecy.",
+                "Commercialization."
+            ],
+            "legacy": "Zaouli is the face of Ivorian culture. It represents the beauty of the Guro woman.",
+            "quotes": [
+                "Dance."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dance.",
+            "culturalImpact": "It is famous worldwide.",
+            "primarySources": [
+                "UNESCO listing.",
+                "Videos."
+            ],
+            "modernInterpretations": [
+                "Celebrated as art.",
+                "The dancers are athletes."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Ernesto Djédjé",
+            "nativeName": "Ernesto Djédjé",
+            "lifespan": "1947-1983",
+            "era": "Modern Period (20th Century)",
+            "role": "Musician",
+            "background": "Ernesto Djédjé was a singer and the king of Ziglibithy. He modernized traditional Bété music and influenced a generation.",
+            "keyDecisions": [
+                "Creating Ziglibithy.",
+                "Modernizing tradition.",
+                "Wearing the afro.",
+                "Dying young."
+            ],
+            "achievements": [
+                "King of Ziglibithy.",
+                "Gnoantré.",
+                "Cultural icon.",
+                "Innovator."
+            ],
+            "challenges": [
+                "Short career.",
+                "Rivalries.",
+                "Mysterious death.",
+                "Legacy battles."
+            ],
+            "legacy": "Djédjé is the Elvis of Côte d'Ivoire. His music is the root of Zouglou and Coupé-Décalé.",
+            "quotes": [
+                "Ziboté."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The King.",
+            "culturalImpact": "He is a legend.",
+            "primarySources": [
+                "Albums.",
+                "Documentaries."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His style is inimitable."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Murielle Ahouré",
+            "nativeName": "Murielle Ahouré-Demps",
+            "lifespan": "1987-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Murielle Ahouré is a sprinter. She is the first African woman to win a medal in the 100m and 200m at the World Championships.",
+            "keyDecisions": [
+                "Training in the US.",
+                "Winning silver in Moscow 2013.",
+                "Winning gold indoors.",
+                "Inspiring girls."
+            ],
+            "achievements": [
+                "World Champion (Indoor).",
+                "African Record Holder.",
+                "Role model.",
+                "Sprinter."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Competition (Ta Lou).",
+                "Funding.",
+                "Pressure."
+            ],
+            "legacy": "Ahouré is the fastest woman in Africa. She put Ivorian sprinting on the map.",
+            "quotes": [
+                "Run fast."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sprinter.",
+            "culturalImpact": "She is a national hero.",
+            "primarySources": [
+                "Race records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a pioneer.",
+                "Her rivalry with Ta Lou is legendary."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Amadou Gon Coulibaly",
+            "nativeName": "Amadou Gon Coulibaly",
+            "lifespan": "1959-2020",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Politician",
+            "background": "Amadou Gon Coulibaly was the Prime Minister and the designated successor to Ouattara. His sudden death changed the course of history.",
+            "keyDecisions": [
+                "Serving as Prime Minister.",
+                "Managing the economy.",
+                "Running for president.",
+                "Dying of heart failure."
+            ],
+            "achievements": [
+                "Prime Minister.",
+                "Technocrat.",
+                "Loyalist.",
+                "Lion of Korhogo."
+            ],
+            "challenges": [
+                "Heart transplant.",
+                "Workload.",
+                "Politics.",
+                "Death."
+            ],
+            "legacy": "Gon Coulibaly is the lost leader. His death forced Ouattara to run for a third term.",
+            "quotes": [
+                "Work."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Successor.",
+            "culturalImpact": "He is mourned by his party.",
+            "primarySources": [
+                "Government records.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Respected for his work ethic.",
+                "His death was a shock."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Gottlieb Monekosso",
+            "nativeName": "Gottlieb Lobe Monekosso",
+            "lifespan": "1928-2017",
+            "era": "Modern Period (20th Century)",
+            "role": "Doctor",
+            "background": "Gottlieb Monekosso was a doctor and the Regional Director of the WHO for Africa. He was a pioneer of public health.",
+            "keyDecisions": [
+                "Studying medicine.",
+                "Joining the WHO.",
+                "Fighting tropical diseases.",
+                "Training doctors."
+            ],
+            "achievements": [
+                "WHO Regional Director.",
+                "Professor.",
+                "Health pioneer.",
+                "Minister."
+            ],
+            "challenges": [
+                "Health infrastructure.",
+                "Epidemics.",
+                "Funding.",
+                "Politics."
+            ],
+            "legacy": "Monekosso saved lives. He built the health systems of the region.",
+            "quotes": [
+                "Health for all."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Doctor.",
+            "culturalImpact": "He is a giant of medicine.",
+            "primarySources": [
+                "WHO reports.",
+                "Papers."
+            ],
+            "modernInterpretations": [
+                "Revered as a scholar.",
+                "His work continues."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Meiway",
+            "nativeName": "Désiré Frédéric Ehui (Meiway)",
+            "lifespan": "1962-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Meiway is a singer and the creator of the Zoblazo style. He is known for his white handkerchiefs and energetic performances.",
+            "keyDecisions": [
+                "Creating Zoblazo.",
+                "Releasing '200% Zoblazo'.",
+                "Touring for 30 years.",
+                "Staying independent."
+            ],
+            "achievements": [
+                "King of Zoblazo.",
+                "Kora Award winner.",
+                "Showman.",
+                "Icon."
+            ],
+            "challenges": [
+                "Competition.",
+                "Changing trends.",
+                "Piracy.",
+                "Longevity."
+            ],
+            "legacy": "Meiway is the professor of the dancefloor. His music makes everyone dance.",
+            "quotes": [
+                "Rouler moutou."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Entertainer.",
+            "culturalImpact": "He is a party staple.",
+            "primarySources": [
+                "Albums.",
+                "Videos."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His energy is unmatched."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Henri Konan Bédié",
+            "nativeName": "Henri Konan Bédié",
+            "lifespan": "1934-2023",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Henri Konan Bédié was the second President of Côte d'Ivoire. He coined the concept of 'Ivoirité', which led to ethnic tensions.",
+            "keyDecisions": [
+                "Succeeding Houphouët.",
+                "Promoting Ivoirité.",
+                "Being overthrown in 1999.",
+                "Leading the PDCI."
+            ],
+            "achievements": [
+                "President.",
+                "Sphinx of Daoukro.",
+                "Ambassador.",
+                "Survivor."
+            ],
+            "challenges": [
+                "1999 coup.",
+                "Civil war.",
+                "Political alliances.",
+                "Legacy of division."
+            ],
+            "legacy": "Bédié is a controversial figure. His 'Ivoirité' scarred the nation, but he remained a kingmaker.",
+            "quotes": [
+                "Ivoirité."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sphinx.",
+            "culturalImpact": "He defined the post-Houphouët era.",
+            "primarySources": [
+                "Speeches.",
+                "Party documents."
+            ],
+            "modernInterpretations": [
+                "Blamed for the war by some.",
+                "Respected as an elder by others."
+            ]
+        }
+    ]
+}

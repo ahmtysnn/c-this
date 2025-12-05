@@ -1,0 +1,813 @@
+{
+    "country": "China",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Confucius",
+            "nativeName": "Kong Qiu",
+            "lifespan": "551-479 BC",
+            "era": "Ancient Period (Spring and Autumn)",
+            "role": "Philosopher, Teacher",
+            "background": "Confucius was a Chinese philosopher and politician of the Spring and Autumn period. His philosophy emphasized personal and governmental morality, correctness of social relationships, justice, kindness, and sincerity. His teachings, preserved in the Analects, form the foundation of East Asian culture and society.",
+            "keyDecisions": [
+                "Establishing a school to teach students from all social classes.",
+                "Resigning from his government post to travel and spread his ideas.",
+                "Editing the Five Classics.",
+                "Advocating for rule by virtue rather than by force."
+            ],
+            "achievements": [
+                "Founder of Confucianism.",
+                "His teachings have influenced Chinese civilization for over two millennia.",
+                "Established the Golden Rule ('Do not do to others what you do not want done to yourself').",
+                "Promoted the idea of meritocracy."
+            ],
+            "challenges": [
+                "His ideas were not widely adopted by rulers during his lifetime.",
+                "Living in a time of constant warfare and chaos.",
+                "Facing exile and poverty.",
+                "Seeing his disciples struggle."
+            ],
+            "legacy": "Confucius is the 'Paragon of Chinese Sages'. His influence on Chinese history is unparalleled. Confucianism shaped the social structure, education, and government of China and its neighbors.",
+            "quotes": [
+                "It does not matter how slowly you go as long as you do not stop.",
+                "Our greatest glory is not in never falling, but in rising every time we fall.",
+                "Real knowledge is to know the extent of one's ignorance."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Most influential philosopher in Chinese history.",
+            "culturalImpact": "Confucian temples exist across East Asia. His birthday is Teacher's Day in Taiwan. 'Confucius Institutes' promote Chinese culture globally.",
+            "primarySources": [
+                "The Analects.",
+                "Records of the Grand Historian.",
+                "The Five Classics."
+            ],
+            "modernInterpretations": [
+                "Re-evaluated in modern China as a symbol of traditional culture.",
+                "Debated for his views on hierarchy and women."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Mao Zedong",
+            "nativeName": "Mao Zedong",
+            "lifespan": "1893-1976",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary, Chairman",
+            "background": "Mao Zedong was the founder of the People's Republic of China. Born in Hunan, he became a Marxist-Leninist and led the Communist Party of China to victory in the Chinese Civil War. He ruled China from 1949 until his death in 1976, implementing radical socialist policies.",
+            "keyDecisions": [
+                "Leading the Long March to escape the Nationalists.",
+                "Forming the United Front against the Japanese invasion.",
+                "Proclaiming the founding of the PRC in 1949.",
+                "Launching the Great Leap Forward and the Cultural Revolution."
+            ],
+            "achievements": [
+                "Unified China after decades of civil war and foreign invasion.",
+                "Transformed China from a semi-feudal society into a major world power.",
+                "Improved literacy and life expectancy significantly.",
+                "Developed 'Maoism' (Marxism-Leninism-Mao Zedong Thought)."
+            ],
+            "challenges": [
+                "The failure of the Great Leap Forward, leading to massive famine.",
+                "Internal party purges and power struggles.",
+                "The chaos of the Cultural Revolution.",
+                "Managing relations with the Soviet Union and the US."
+            ],
+            "legacy": "Mao is a colossal and controversial figure. He is revered as the father of modern China but condemned for the millions of deaths caused by his policies. His portrait hangs on Tiananmen Gate.",
+            "quotes": [
+                "Political power grows out of the barrel of a gun.",
+                "Women hold up half the sky.",
+                "A revolution is not a dinner party."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Founder of the People's Republic of China.",
+            "culturalImpact": "The 'Little Red Book' was one of the most printed books in history. His image is iconic in pop art.",
+            "primarySources": [
+                "Selected Works of Mao Zedong.",
+                "Quotations from Chairman Mao.",
+                "Party documents."
+            ],
+            "modernInterpretations": [
+                "Officially assessed as '70% right, 30% wrong' by the CPC.",
+                "Western historians focus on the human cost of his rule."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Qin Shi Huang",
+            "nativeName": "Ying Zheng",
+            "lifespan": "259-210 BC",
+            "era": "Ancient Period (Qin Dynasty)",
+            "role": "Emperor",
+            "background": "Qin Shi Huang was the founder of the Qin dynasty and the first emperor of a unified China. He conquered the Warring States and created a centralized empire. He is known for building the Great Wall, the Terracotta Army, and standardizing writing, currency, and weights.",
+            "keyDecisions": [
+                "Conquering the six other major states to unify China.",
+                "Abolishing feudalism and establishing a centralized bureaucracy.",
+                "Ordering the burning of books and burying of scholars to suppress dissent.",
+                "Commissioning the Terracotta Army for his tomb."
+            ],
+            "achievements": [
+                "Unified China for the first time.",
+                "Standardized the Chinese script, currency, and measurements.",
+                "Connected existing walls to form the Great Wall of China.",
+                "Built a massive national road system."
+            ],
+            "challenges": [
+                "Constant assassination attempts.",
+                "Rebellions due to his harsh legalist rule and high taxes.",
+                "Obsession with immortality (which likely led to his death by mercury poisoning).",
+                "The rapid collapse of his dynasty after his death."
+            ],
+            "legacy": "Qin Shi Huang defined the concept of China (Qin -> China). His administrative system lasted for 2,000 years. He is seen as a brutal but necessary unifier.",
+            "quotes": [
+                "I have collected all the writings of the Empire and burnt them.",
+                "I am the First Emperor, and my successors will be numbered... for ten thousand generations.",
+                "Laws must be strict and punishments severe."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Emperor of unified China.",
+            "culturalImpact": "The Terracotta Warriors are a global wonder. Movies like 'Hero' depict his life.",
+            "primarySources": [
+                "Records of the Grand Historian (Shiji).",
+                "Archaeological findings (Terracotta Army).",
+                "Qin legal codes."
+            ],
+            "modernInterpretations": [
+                "Praised for unification but criticized for tyranny.",
+                "His legalist philosophy is contrasted with Confucianism."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Deng Xiaoping",
+            "nativeName": "Deng Xiaoping",
+            "lifespan": "1904-1997",
+            "era": "Modern Period (20th Century)",
+            "role": "Paramount Leader, Reformer",
+            "background": "Deng Xiaoping was the Paramount Leader of China from 1978 to 1989. A veteran revolutionary, he was purged during the Cultural Revolution but returned to power to lead China's 'Reform and Opening Up'. He is the architect of modern China's economic rise.",
+            "keyDecisions": [
+                "Initiating the 'Reform and Opening Up' policy in 1978.",
+                "Establishing Special Economic Zones (like Shenzhen).",
+                "Restoring college entrance exams.",
+                "Ordering the crackdown on the Tiananmen Square protests in 1989."
+            ],
+            "achievements": [
+                "Lifted hundreds of millions of people out of poverty.",
+                "Transformed China into a global economic superpower.",
+                "Negotiated the return of Hong Kong and Macau.",
+                "Proposed the 'One Country, Two Systems' principle."
+            ],
+            "challenges": [
+                "Balancing economic reform with political stability.",
+                "Overcoming resistance from hardline Maoists.",
+                "Being purged three times in his career.",
+                "The 1989 Tiananmen Square protests."
+            ],
+            "legacy": "Deng is credited with saving the Communist Party and making China rich. His pragmatic approach ('It doesn't matter if a cat is black or white, so long as it catches mice') defines modern China.",
+            "quotes": [
+                "Poverty is not socialism. To be rich is glorious.",
+                "Seek truth from facts.",
+                "Hide your strength, bide your time."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Architect of modern China's economic reforms.",
+            "culturalImpact": "He changed the daily life of every Chinese person. Shenzhen is a monument to his vision.",
+            "primarySources": [
+                "Selected Works of Deng Xiaoping.",
+                "Party resolutions.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Widely respected for his economic achievements.",
+                "His role in 1989 remains a sensitive and censored topic in China."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Sun Yat-sen",
+            "nativeName": "Sun Wen",
+            "lifespan": "1866-1925",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Revolutionary, Politician",
+            "background": "Sun Yat-sen is the 'Father of Modern China'. A physician and revolutionary, he played a key role in overthrowing the Qing dynasty and establishing the Republic of China. He founded the Kuomintang (Nationalist Party) and developed the 'Three Principles of the People'.",
+            "keyDecisions": [
+                "Founding the Revive China Society to overthrow the Qing.",
+                "Leading numerous failed uprisings before the success of the Xinhai Revolution.",
+                "Serving as the first provisional president of the Republic of China.",
+                "Forming an alliance with the Communists to unify China."
+            ],
+            "achievements": [
+                "Ended 2,000 years of imperial rule in China.",
+                "Founded the Republic of China.",
+                "Developed the political philosophy of the Three Principles of the People (Nationalism, Democracy, Livelihood).",
+                "Revered by both the CPC (Mainland) and KMT (Taiwan)."
+            ],
+            "challenges": [
+                "Living in exile for much of his life.",
+                "Lack of military power, forcing him to rely on warlords.",
+                "The betrayal by Yuan Shikai.",
+                "Dying of cancer before seeing a unified China."
+            ],
+            "legacy": "Sun is the unique figure honored in both Mainland China and Taiwan. He represents the dream of a strong, democratic, and prosperous China.",
+            "quotes": [
+                "The revolution is not yet successful, comrades must still struggle.",
+                "The world is for all.",
+                "To understand is hard; to act is easy."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of the Nation (Republic of China) and Forerunner of the Revolution (PRC).",
+            "culturalImpact": "His portrait is displayed on National Day. Zhongshan suits and Zhongshan roads are named after him.",
+            "primarySources": [
+                "The Three Principles of the People.",
+                "Memoirs.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Seen as a visionary idealist.",
+                "His political legacy is claimed by rival governments."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Empress Dowager Cixi",
+            "nativeName": "Cixi",
+            "lifespan": "1835-1908",
+            "era": "Modern Period (Qing Dynasty)",
+            "role": "Empress Dowager, Regent",
+            "background": "Cixi was a concubine who rose to become the de facto ruler of the Qing dynasty for 47 years. She controlled the government through the reigns of two young emperors. Her rule saw the decline of the dynasty amidst foreign aggression and internal rebellion.",
+            "keyDecisions": [
+                "Launching the Xinyou Coup to seize power as regent.",
+                "Supporting the Self-Strengthening Movement to modernize the military.",
+                "Backing the Boxers against foreign powers, leading to the Eight-Nation Alliance invasion.",
+                "Suppressing the Hundred Days' Reform and placing Emperor Guangxu under house arrest."
+            ],
+            "achievements": [
+                "Maintained the Qing dynasty's power for nearly half a century.",
+                "Oversaw some modernization efforts (railways, telegraphs).",
+                "Abolished foot binding and the civil service exam (late in her rule).",
+                "One of the most powerful women in Chinese history."
+            ],
+            "challenges": [
+                "Foreign invasions (Opium Wars, Sino-Japanese War).",
+                "Internal rebellions (Taiping, Boxer).",
+                "Navigating the rigid patriarchal structure of the court.",
+                "The crumbling of the imperial system."
+            ],
+            "legacy": "Cixi has traditionally been villainized as a corrupt tyrant who caused the fall of the Qing. Modern historians offer a more nuanced view, seeing her as a capable politician dealing with impossible odds.",
+            "quotes": [
+                "I have often thought that I am the cleverest woman who ever lived.",
+                "Who makes me unhappy for a day, I will make him unhappy for a lifetime.",
+                "China is a dragon that is waking up."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "De facto ruler of late Qing China.",
+            "culturalImpact": "Subject of numerous books and movies. The Summer Palace in Beijing was rebuilt by her.",
+            "primarySources": [
+                "Court records.",
+                "Diaries of court ladies.",
+                "Diplomatic accounts."
+            ],
+            "modernInterpretations": [
+                "Revisionist history portrays her as a scapegoat for the dynasty's failures.",
+                "Her role in modernization is increasingly recognized."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Bruce Lee",
+            "nativeName": "Lee Jun-fan",
+            "lifespan": "1940-1973",
+            "era": "Modern Period (20th Century)",
+            "role": "Martial Artist, Actor",
+            "background": "Bruce Lee was born in San Francisco and raised in Hong Kong. He revolutionized martial arts by creating Jeet Kune Do, a hybrid philosophy. He became a global pop culture icon through his films, bridging the gap between East and West.",
+            "keyDecisions": [
+                "Moving to the US to teach martial arts.",
+                "Developing his own style, Jeet Kune Do, rejecting rigid forms.",
+                "Returning to Hong Kong to make films like 'The Big Boss'.",
+                "Challenging racial stereotypes in Hollywood."
+            ],
+            "achievements": [
+                "Founder of Jeet Kune Do.",
+                "Global martial arts icon.",
+                "Changed the way Asians were presented in American films.",
+                "One of the most influential martial artists of all time."
+            ],
+            "challenges": [
+                "Racism in Hollywood (losing the lead in 'Kung Fu').",
+                "Physical injury (back injury).",
+                "Proving the effectiveness of his style.",
+                "His untimely death at age 32."
+            ],
+            "legacy": "Bruce Lee is a legend. He popularized martial arts worldwide. His philosophy of self-expression and adaptability ('Be water, my friend') inspires millions.",
+            "quotes": [
+                "Be water, my friend.",
+                "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.",
+                "Using no way as way, having no limitation as limitation."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Cultural icon and martial arts pioneer.",
+            "culturalImpact": "He sparked a global kung fu craze. Statues of him stand in Hong Kong and Mostar.",
+            "primarySources": [
+                "Films (Enter the Dragon).",
+                "The Tao of Jeet Kune Do.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Studied as a philosopher as well as a fighter.",
+                "Symbol of Chinese nationalism and pride."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Jack Ma",
+            "nativeName": "Ma Yun",
+            "lifespan": "1964-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Entrepreneur",
+            "background": "Jack Ma is the co-founder of Alibaba Group, one of the world's largest e-commerce companies. A former English teacher, he was rejected from dozens of jobs before discovering the internet. He became the face of China's tech boom.",
+            "keyDecisions": [
+                "Starting Alibaba in his apartment in 1999.",
+                "Creating Taobao to compete with eBay in China.",
+                "Launching Alipay, revolutionizing payments in China.",
+                "Stepping down as chairman to focus on philanthropy."
+            ],
+            "achievements": [
+                "Built one of the world's most valuable companies.",
+                "Richest man in China for several years.",
+                "Global ambassador for Chinese business.",
+                "Philanthropist in education and environment."
+            ],
+            "challenges": [
+                "Early failures (rejected by KFC).",
+                "Competing with global giants like eBay.",
+                "Navigating the regulatory environment in China.",
+                "His disappearance from public view in 2020 after criticizing regulators."
+            ],
+            "legacy": "Jack Ma represents the entrepreneurial spirit of modern China. He showed that Chinese innovation could compete globally. His fall from grace highlights the complex relationship between business and state in China.",
+            "quotes": [
+                "Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine.",
+                "If you don't give up, you still have a chance.",
+                "We are never in lack of money. We lack people with dreams, who can die for those dreams."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Symbol of China's digital economy.",
+            "culturalImpact": "He inspired a generation of Chinese entrepreneurs. '996' work culture is often associated with his companies.",
+            "primarySources": [
+                "Speeches.",
+                "Alibaba annual reports.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Viewed as a visionary but also a cautionary tale.",
+                "His impact on retail and finance is undeniable."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Li Bai",
+            "nativeName": "Li Bai",
+            "lifespan": "701-762",
+            "era": "Ancient Period (Tang Dynasty)",
+            "role": "Poet",
+            "background": "Li Bai is regarded as one of the greatest poets in Chinese history. Living during the Golden Age of the Tang Dynasty, he was a wandering free spirit known for his love of wine, nature, and the moon. He is often called the 'Poet Immortal'.",
+            "keyDecisions": [
+                "Leaving home to wander China and seek patronage.",
+                "Serving briefly in the Hanlin Academy for Emperor Xuanzong.",
+                "Refusing to bow to power and corruption.",
+                "Writing poetry spontaneously while drinking."
+            ],
+            "achievements": [
+                "Wrote over 1,000 poems that are still recited today.",
+                "Master of the 'Jueju' (quatrain) form.",
+                "Elevated poetry to a high art form.",
+                "Immortalized in Chinese culture."
+            ],
+            "challenges": [
+                "Political exile due to court intrigue.",
+                "The An Lushan Rebellion, which devastated the country.",
+                "A life of wandering and instability.",
+                "Legend says he drowned trying to embrace the moon's reflection."
+            ],
+            "legacy": "Li Bai is the soul of Chinese poetry. His poems are taught in schools across East Asia. He represents the romantic, Taoist spirit of freedom.",
+            "quotes": [
+                "Raising my cup, I ask the Moon to drink.",
+                "All the birds have flown up and gone; A lonely cloud floats leisurely by.",
+                "Heaven has born me talents which must be used."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Greatest Romantic poet of China.",
+            "culturalImpact": "His poems are the standard for Chinese literature. He influenced Western poets like Ezra Pound.",
+            "primarySources": [
+                "Collected Poems of Li Bai.",
+                "Tang Dynasty anthologies.",
+                "Historical records."
+            ],
+            "modernInterpretations": [
+                "Celebrated for his imagination and mastery of language.",
+                "His friendship with Du Fu is legendary."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Wu Zetian",
+            "nativeName": "Wu Zetian",
+            "lifespan": "624-705",
+            "era": "Ancient Period (Tang/Zhou Dynasty)",
+            "role": "Empress Regnant",
+            "background": "Wu Zetian is the only woman in Chinese history to rule as Emperor in her own right. Starting as a concubine, she rose through intelligence and ruthlessness to establish her own dynasty, the Zhou. Her reign was a period of stability and expansion.",
+            "keyDecisions": [
+                "Eliminating rivals to become Empress Consort.",
+                "Ruling behind the curtain for her sick husband and sons.",
+                "Declaring herself Emperor and establishing the Zhou dynasty.",
+                "Promoting Buddhism over Taoism to legitimize her rule."
+            ],
+            "achievements": [
+                "Expanded the Chinese empire into Central Asia.",
+                "Reformed the civil service exam to allow men of merit (not just nobility) to serve.",
+                "Promoted agriculture and reduced taxes.",
+                "Elevated the status of women."
+            ],
+            "challenges": [
+                "Deep-seated Confucian opposition to female rule.",
+                "Constant plots and rebellions.",
+                "Maintaining power through a secret police force.",
+                "Being forced to abdicate in her old age."
+            ],
+            "legacy": "Wu Zetian was demonized by Confucian historians for centuries but is now recognized as a capable and effective ruler. She broke the ultimate glass ceiling in imperial China.",
+            "quotes": [
+                "To rule is to serve.",
+                "I am the Emperor.",
+                "A woman can rule as well as a man."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Only female Emperor of China.",
+            "culturalImpact": "Subject of countless dramas and novels. Her 'Wordless Stele' stands at her tomb.",
+            "primarySources": [
+                "Old Book of Tang.",
+                "New Book of Tang.",
+                "Zizhi Tongjian."
+            ],
+            "modernInterpretations": [
+                "Feminist icon in China.",
+                "Her ruthless methods are contextualized within the brutal politics of the time."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Zhou Enlai",
+            "nativeName": "Zhou Enlai",
+            "lifespan": "1898-1976",
+            "era": "Modern Period (20th Century)",
+            "role": "Premier, Diplomat",
+            "background": "Zhou Enlai was the first Premier of the People's Republic of China, serving from 1949 until his death. He was Mao's right-hand man but was seen as a moderating force. He was a master diplomat who played a key role in the opening of relations with the West.",
+            "keyDecisions": [
+                "Leading the Nanchang Uprising.",
+                "Negotiating the United Front with the KMT.",
+                "Attending the Bandung Conference.",
+                "Welcoming Richard Nixon to China in 1972."
+            ],
+            "achievements": [
+                "Managed the Chinese government for decades.",
+                "Protected many cultural treasures and people during the Cultural Revolution.",
+                "Established China's foreign policy principles.",
+                "Oversaw the 'Four Modernizations' program."
+            ],
+            "challenges": [
+                "Surviving the political purges of the Mao era.",
+                "Mitigating the damage of the Great Leap Forward and Cultural Revolution.",
+                "Balancing loyalty to Mao with the needs of the state.",
+                "Battling cancer in his final years."
+            ],
+            "legacy": "Zhou is widely beloved in China as a dedicated and humane leader. The 'Tiananmen Incident' of 1976 was a spontaneous display of mourning for him. He is the 'People's Premier'.",
+            "quotes": [
+                "All diplomacy is a continuation of war by other means.",
+                "Serve the people.",
+                "I have no children, but all the children of China are my children."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Premier of the PRC and master diplomat.",
+            "culturalImpact": "He represents the intellectual and cosmopolitan side of the revolution. His image is one of grace and competence.",
+            "primarySources": [
+                "Diplomatic archives.",
+                "Biographies.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Praised for his survival skills and diplomatic victories.",
+                "Criticized by some for enabling Mao's excesses."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Lu Xun",
+            "nativeName": "Zhou Shuren",
+            "lifespan": "1881-1936",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Intellectual",
+            "background": "Lu Xun is considered the father of modern Chinese literature. He abandoned medical studies to write, believing he could better cure China's spiritual ills with words. His stories, like 'The True Story of Ah Q', are scathing critiques of traditional Chinese society.",
+            "keyDecisions": [
+                "Dropping out of medical school in Japan to become a writer.",
+                "Writing in vernacular Chinese (Baihua) rather than classical.",
+                "Supporting the May Fourth Movement.",
+                "Mentoring young writers and leftists."
+            ],
+            "achievements": [
+                "Wrote 'A Madman's Diary', the first modern short story in Chinese.",
+                "Pioneered the use of vernacular Chinese in literature.",
+                "Influenced generations of Chinese intellectuals and revolutionaries.",
+                "Celebrated by Mao Zedong as the 'commander of China's cultural revolution'."
+            ],
+            "challenges": [
+                "Censorship and persecution by the KMT government.",
+                "Despair over the state of China.",
+                "Health issues (tuberculosis).",
+                "Refusing the Nobel Prize nomination (rumored)."
+            ],
+            "legacy": "Lu Xun's works are essential reading in China. He diagnosed the 'national character' flaws of the Chinese people. He is a symbol of intellectual integrity and social criticism.",
+            "quotes": [
+                "Hope is like a path in the countryside: originally there was no path, but as people walk this way again and again, a path appears.",
+                "Save the children.",
+                "Fierce-browed, I coolly defy a thousand pointing fingers; Head-bowed, like a willing ox I serve the children."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of modern Chinese literature.",
+            "culturalImpact": "His characters are cultural archetypes. His essays are models of critical thinking.",
+            "primarySources": [
+                "Call to Arms.",
+                "Wandering.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Revered as a patriot and thinker.",
+                "His critique of tradition is still relevant today."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Tu Youyou",
+            "nativeName": "Tu Youyou",
+            "lifespan": "1930-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Scientist, Pharmacist",
+            "background": "Tu Youyou is a pharmaceutical chemist who discovered artemisinin and dihydroartemisinin, used to treat malaria. She turned to traditional Chinese medicine texts to find a cure, saving millions of lives worldwide. She is the first Chinese Nobel laureate in Physiology or Medicine.",
+            "keyDecisions": [
+                "Leading Project 523 to find a malaria cure during the Vietnam War.",
+                "Consulting ancient texts like 'The Handbook of Prescriptions for Emergencies'.",
+                "Testing the drug on herself to ensure safety.",
+                "Isolating the active ingredient from sweet wormwood."
+            ],
+            "achievements": [
+                "Nobel Prize in Physiology or Medicine (2015).",
+                "Lasker Award.",
+                "Discovered a cure for malaria that saved millions, especially in Africa.",
+                "Bridged traditional Chinese medicine and modern science."
+            ],
+            "challenges": [
+                "Working in obscurity during the Cultural Revolution.",
+                "Lack of a doctorate or overseas training (called the 'Three Noes' scientist).",
+                "Initial lack of recognition for her team's work.",
+                "The difficulty of extracting the compound."
+            ],
+            "legacy": "Tu Youyou is a national hero. Her work proved the value of traditional knowledge when applied with scientific rigor. She inspired women in science in China.",
+            "quotes": [
+                "Every scientist dreams of doing something that can help the world.",
+                "The discovery of artemisinin is a gift to mankind from traditional Chinese medicine.",
+                "I was just doing my job."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Nobel laureate who found the cure for malaria.",
+            "culturalImpact": "She revitalized interest in TCM. She is a symbol of quiet dedication.",
+            "primarySources": [
+                "Research papers.",
+                "Nobel lecture.",
+                "Ancient medical texts."
+            ],
+            "modernInterpretations": [
+                "Celebrated for her perseverance and humility.",
+                "Her success sparked debate about the academic system in China."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Yao Ming",
+            "nativeName": "Yao Ming",
+            "lifespan": "1980-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete, Basketball Player",
+            "background": "Yao Ming is a former professional basketball player who played for the Houston Rockets in the NBA. Standing 7'6\", he was a dominant center and an 8-time All-Star. He played a crucial role in popularizing the NBA in China.",
+            "keyDecisions": [
+                "Entering the NBA draft in 2002.",
+                "Playing for the Chinese national team in the Olympics.",
+                "Retiring early due to injuries.",
+                "Becoming President of the Chinese Basketball Association."
+            ],
+            "achievements": [
+                "Naismith Memorial Basketball Hall of Fame inductee.",
+                "8-time NBA All-Star.",
+                "Carried the Olympic torch in Beijing 2008.",
+                "Global ambassador for wildlife conservation (shark fin soup campaign)."
+            ],
+            "challenges": [
+                "Cultural and language barriers in the US.",
+                "Immense pressure to represent 1.3 billion people.",
+                "Chronic foot and ankle injuries.",
+                "Navigating the expectations of both the NBA and the CBA."
+            ],
+            "legacy": "Yao Ming is the most famous Chinese athlete globally. He built a bridge between China and the US through sports. He continues to work in sports management and philanthropy.",
+            "quotes": [
+                "No matter if you are new or an old team member, you need time to adjust to one another.",
+                "Basketball is not just a sport, it is a lifestyle.",
+                "I'm not a hero. I'm just a basketball player."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Global sports icon and bridge between East and West.",
+            "culturalImpact": "He made basketball the most popular sport in China. The 'Yao Ming Face' meme is internet history.",
+            "primarySources": [
+                "NBA statistics.",
+                "Documentary 'The Year of the Yao'.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Seen as a model of sports diplomacy.",
+                "His conservation work is highly praised."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Zheng He",
+            "nativeName": "Ma He",
+            "lifespan": "1371-1433",
+            "era": "Ancient Period (Ming Dynasty)",
+            "role": "Explorer, Admiral",
+            "background": "Zheng He was a Muslim eunuch who became a great admiral during the Ming Dynasty. He commanded seven massive treasure voyages to Southeast Asia, South Asia, the Middle East, and East Africa, showcasing Chinese power and trade.",
+            "keyDecisions": [
+                "Serving the Yongle Emperor.",
+                "Commanding the largest wooden fleet in history.",
+                "Establishing diplomatic relations with over 30 nations.",
+                "Bringing back exotic animals (like giraffes) to China."
+            ],
+            "achievements": [
+                "Led seven epic voyages.",
+                "Expanded the Ming tribute system.",
+                "Spread Chinese culture and technology.",
+                "Navigated the Indian Ocean before the Europeans."
+            ],
+            "challenges": [
+                "Political opposition from Confucian officials who opposed the cost of the voyages.",
+                "Navigating unknown waters and pirate attacks.",
+                "Being a eunuch in the imperial court.",
+                "The destruction of his records after his death."
+            ],
+            "legacy": "Zheng He is a symbol of China's peaceful rise and maritime history. His voyages prove China was a global naval power centuries ago.",
+            "quotes": [
+                "We have traversed more than 100,000 li of immense water spaces.",
+                "The countries beyond the horizon... are all under heaven."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Greatest Chinese explorer.",
+            "culturalImpact": "He is celebrated in China and Southeast Asia. He represents the 'Maritime Silk Road'.",
+            "primarySources": [
+                "Ming Shilu (Veritable Records of the Ming).",
+                "Inscriptions on steles.",
+                "Accounts of crew members."
+            ],
+            "modernInterpretations": [
+                "Used to promote the Belt and Road Initiative.",
+                "Debate exists over the purpose of his voyages (trade vs. power projection)."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Ai Weiwei",
+            "nativeName": "Ai Weiwei",
+            "lifespan": "1957-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Artist, Activist",
+            "background": "Ai Weiwei is China's most famous contemporary artist and political activist. Son of the poet Ai Qing, he helped design the Bird's Nest stadium for the 2008 Olympics but later criticized the government. He uses art to address human rights and corruption.",
+            "keyDecisions": [
+                "Returning to China from the US in 1993.",
+                "Investigating the Sichuan earthquake schools corruption.",
+                "Blogging and using social media to criticize the state.",
+                "Living in exile in Europe."
+            ],
+            "achievements": [
+                "Designed the Beijing National Stadium (Bird's Nest).",
+                "World-renowned art installations (Sunflower Seeds).",
+                "Documented the refugee crisis ('Human Flow').",
+                "Symbol of artistic freedom."
+            ],
+            "challenges": [
+                "Surveillance, beating, and detention by police.",
+                "Destruction of his studio.",
+                "Living in exile.",
+                "Being erased from Chinese media."
+            ],
+            "legacy": "Ai Weiwei is a global voice for conscience. He challenges the world to look at uncomfortable truths. His art blurs the line between aesthetics and activism.",
+            "quotes": [
+                "Everything is art. Everything is politics.",
+                "Liberty is about our rights to question everything.",
+                "The world is not changing if you don't shoulder the burden of responsibility."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Prominent dissident artist.",
+            "culturalImpact": "He is a superstar in the art world. His middle finger series is iconic.",
+            "primarySources": [
+                "Artworks.",
+                "Blog posts.",
+                "Documentaries (Ai Weiwei: Never Sorry)."
+            ],
+            "modernInterpretations": [
+                "Viewed as a hero in the West and a troublemaker by the Chinese state.",
+                "His work is a barometer for freedom of expression."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Xi Jinping",
+            "nativeName": "Xi Jinping",
+            "lifespan": "1953-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "President, General Secretary",
+            "background": "Xi Jinping is the current leader of China. Son of a revolutionary veteran, he rose through the ranks to become the most powerful Chinese leader since Mao. He has centralized power, launched an anti-corruption campaign, and promoted the 'Chinese Dream'.",
+            "keyDecisions": [
+                "Launching a massive anti-corruption campaign.",
+                "Abolishing presidential term limits.",
+                "Initiating the Belt and Road Initiative.",
+                "Strengthening the Party's control over society."
+            ],
+            "achievements": [
+                "Consolidated power as the 'Core' of the leadership.",
+                "Eliminated extreme poverty in China (officially).",
+                "Modernized the military.",
+                "Elevated China's global influence."
+            ],
+            "challenges": [
+                "Economic slowdown.",
+                "Trade war with the US.",
+                "Demographic crisis.",
+                "International criticism over human rights (Xinjiang, Hong Kong)."
+            ],
+            "legacy": "Xi has fundamentally reshaped China, moving away from collective leadership to strongman rule. His 'Xi Jinping Thought' is enshrined in the constitution. He aims to make China a global superpower by 2049.",
+            "quotes": [
+                "The Chinese Dream is the rejuvenation of the Chinese nation.",
+                "Houses are for living in, not for speculation.",
+                "Common prosperity."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Current Paramount Leader of China.",
+            "culturalImpact": "His political thought dominates Chinese education and media. He is the face of the new era.",
+            "primarySources": [
+                "The Governance of China (books).",
+                "Speeches.",
+                "Party documents."
+            ],
+            "modernInterpretations": [
+                "Analyzed as a transformative but authoritarian leader.",
+                "His impact on the world order is the subject of intense global debate."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Sima Qian",
+            "nativeName": "Sima Qian",
+            "lifespan": "145-86 BC",
+            "era": "Ancient Period (Han Dynasty)",
+            "role": "Historian",
+            "background": "Sima Qian was the Grand Historian of the Han Dynasty. He wrote the 'Records of the Grand Historian' (Shiji), a monumental history of China from the Yellow Emperor to his own time. He chose castration over death to finish his work.",
+            "keyDecisions": [
+                "Defending General Li Ling, which angered the Emperor.",
+                "Choosing the humiliation of castration instead of suicide to complete his history.",
+                "Creating the biographical style of history writing.",
+                "Traveling extensively to verify historical sites."
+            ],
+            "achievements": [
+                "Authored the Shiji, the model for all official Chinese histories.",
+                "Established the framework of Chinese historiography.",
+                "Preserved the history of early China.",
+                "His writing style influenced Chinese prose for millennia."
+            ],
+            "challenges": [
+                "The wrath of Emperor Wu.",
+                "Physical and psychological trauma of castration.",
+                "The immense task of compiling thousands of years of history.",
+                "Writing honestly about powerful figures."
+            ],
+            "legacy": "Sima Qian is the 'Father of Chinese Historiography'. His dedication to truth and his literary talent make him a moral giant. The Shiji is one of the world's great historical works.",
+            "quotes": [
+                "A man has only one death. That death may be as heavy as Mount Tai, or as light as a goose feather.",
+                "I have examined the deeds and events of the past and investigated the principles behind their success and failure.",
+                "To know men, one must know their history."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "China's greatest historian.",
+            "culturalImpact": "His phrase about death is a Chinese idiom. He set the standard for the duty of a historian.",
+            "primarySources": [
+                "Records of the Grand Historian (Shiji).",
+                "Letter to Ren An."
+            ],
+            "modernInterpretations": [
+                "Admired for his integrity and resilience.",
+                "His work is the primary source for ancient Chinese history."
+            ]
+        }
+    ]
+}

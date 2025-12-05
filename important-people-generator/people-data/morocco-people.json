@@ -1,0 +1,760 @@
+{
+    "country": "Morocco",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Ibn Battuta",
+            "nativeName": "Abu Abdullah Muhammad ibn Battuta",
+            "lifespan": "1304-1369",
+            "era": "Medieval Period (14th Century)",
+            "role": "Explorer",
+            "background": "Ibn Battuta was a scholar and explorer who travelled more extensively than any other explorer in pre-modern history, covering most of the Islamic world and beyond.",
+            "keyDecisions": [
+                "Leaving Tangier for Hajj (and not returning for 24 years).",
+                "Traveling to India, China, and Mali.",
+                "Serving as a judge (Qadi) in various lands.",
+                "Dictating his travels to Ibn Juzayy."
+            ],
+            "achievements": [
+                "Traveled 75,000 miles (more than Marco Polo).",
+                "Wrote 'The Rihla' (The Journey).",
+                "Documented the 14th-century world.",
+                "Served as an ambassador."
+            ],
+            "challenges": [
+                "Bandit attacks.",
+                "Shipwrecks.",
+                "Black Death.",
+                "Political instability in Delhi."
+            ],
+            "legacy": "Ibn Battuta is the Prince of Travelers. His book is a primary source for medieval history.",
+            "quotes": [
+                "Traveling – it leaves you speechless, then turns you into a storyteller."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Traveler.",
+            "culturalImpact": "Tangier airport is named after him. He is a symbol of curiosity.",
+            "primarySources": [
+                "The Rihla."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the greatest explorer of all time.",
+                "His observations are invaluable."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Tariq ibn Ziyad",
+            "nativeName": "Tariq ibn Ziyad",
+            "lifespan": "died c. 720",
+            "era": "Medieval Period (8th Century)",
+            "role": "General",
+            "background": "Tariq ibn Ziyad was a Berber commander who led the Muslim conquest of Visigothic Hispania in 711. Gibraltar (Jabal Tariq) is named after him.",
+            "keyDecisions": [
+                "Crossing the Strait of Gibraltar.",
+                "Burning his ships (legendary).",
+                "Defeating King Roderic at the Battle of Guadalete.",
+                "Conquering Toledo."
+            ],
+            "achievements": [
+                "Conquered Spain (Al-Andalus).",
+                "Gibraltar is named after him.",
+                "Started 800 years of Muslim rule in Spain.",
+                "Military genius."
+            ],
+            "challenges": [
+                "Outnumbered forces.",
+                "Unknown terrain.",
+                "Rivalry with Musa ibn Nusayr.",
+                "Recall to Damascus."
+            ],
+            "legacy": "Tariq changed the history of Europe. He is a hero in the Muslim world.",
+            "quotes": [
+                "The sea is behind you, and the enemy is before you."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Conqueror.",
+            "culturalImpact": "His name is immortalized in geography.",
+            "primarySources": [
+                "Chronicle of 754.",
+                "Ibn Abd al-Hakam."
+            ],
+            "modernInterpretations": [
+                "Revered as a brilliant strategist.",
+                "His speech is a classic of Arabic rhetoric."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Mohammed V",
+            "nativeName": "Mohammed V",
+            "lifespan": "1909-1961",
+            "era": "Modern Period (20th Century)",
+            "role": "King",
+            "background": "Mohammed V was the Sultan and later King of Morocco. He is the father of Moroccan independence and protected Moroccan Jews during WWII.",
+            "keyDecisions": [
+                "Refusing to apply Vichy anti-Jewish laws.",
+                "Supporting the independence movement (Istiqlal).",
+                "Enduring exile in Madagascar.",
+                "Negotiating independence from France."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "Savior of Jews ('There are no Jews in Morocco, only subjects').",
+                "First King of Morocco.",
+                "National unity."
+            ],
+            "challenges": [
+                "French protectorate.",
+                "Exile.",
+                "Balancing tradition and modernity.",
+                "Political unrest."
+            ],
+            "legacy": "Mohammed V is a saintly figure. His mausoleum is a national shrine.",
+            "quotes": [
+                "We are delighted to be a free and independent nation."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of the Nation.",
+            "culturalImpact": "He is revered by both Muslims and Jews.",
+            "primarySources": [
+                "Speeches.",
+                "French archives."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a righteous leader.",
+                "His protection of Jews is highlighted globally."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Ibn Khaldun",
+            "nativeName": "Abd al-Rahman ibn Khaldun",
+            "lifespan": "1332-1406",
+            "era": "Medieval Period (14th Century)",
+            "role": "Historian, Sociologist",
+            "background": "Ibn Khaldun was a historian and philosopher. He is considered the father of sociology, historiography, and economics. He wrote the 'Muqaddimah'.",
+            "keyDecisions": [
+                "Writing the Muqaddimah (Introduction to History).",
+                "Developing the theory of Asabiyyah (social cohesion).",
+                "Meeting Tamerlane.",
+                "Serving as a judge in Cairo."
+            ],
+            "achievements": [
+                "Father of Sociology.",
+                "Father of Economics (pre-Adam Smith).",
+                "Revolutionized the study of history.",
+                "Intellectual giant."
+            ],
+            "challenges": [
+                "Political intrigue (imprisonment).",
+                "Loss of his family in a shipwreck.",
+                "Constant travel.",
+                "Plague."
+            ],
+            "legacy": "Ibn Khaldun is one of the greatest minds in history. His theories are still taught today.",
+            "quotes": [
+                "He who finds a new path is a pathfinder, even if the trail has to be found again by others."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Historian.",
+            "culturalImpact": "He is claimed by Tunisia (birth) and Morocco (ancestry/residence).",
+            "primarySources": [
+                "The Muqaddimah.",
+                "Kitab al-Ibar."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His cyclical theory of history is famous."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hassan II",
+            "nativeName": "Hassan II",
+            "lifespan": "1929-1999",
+            "era": "Contemporary Period (20th Century)",
+            "role": "King",
+            "background": "Hassan II was the King of Morocco for 38 years. He was a brilliant statesman who modernized the country but ruled with an iron fist (Years of Lead).",
+            "keyDecisions": [
+                "Organizing the Green March (to claim Western Sahara).",
+                "Surviving two coup attempts.",
+                "Acting as a bridge between Israel and Arabs.",
+                "Building the Hassan II Mosque."
+            ],
+            "achievements": [
+                "Recovered the Sahara.",
+                "Built modern Morocco.",
+                "Diplomatic genius.",
+                "Great Builder."
+            ],
+            "challenges": [
+                "The Years of Lead (repression).",
+                "Polisario war.",
+                "Economic crises.",
+                "Assassination attempts."
+            ],
+            "legacy": "Hassan II is the builder of modern Morocco. He is respected for his intellect but criticized for human rights abuses.",
+            "quotes": [
+                "Morocco is like a tree whose roots lie in Africa but whose leaves breathe in European air."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Builder.",
+            "culturalImpact": "The Hassan II Mosque is his monument. The Green March is a national holiday.",
+            "primarySources": [
+                "The Challenge (Memoir).",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Viewed as a great king.",
+                "The Equity and Reconciliation Commission addressed his era's abuses."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Yusuf ibn Tashfin",
+            "nativeName": "Yusuf ibn Tashfin",
+            "lifespan": "c. 1009-1106",
+            "era": "Medieval Period (11th Century)",
+            "role": "Sultan",
+            "background": "Yusuf ibn Tashfin was the leader of the Almoravid empire. He founded Marrakesh and saved Muslim Spain from Christian conquest at the Battle of Sagrajas.",
+            "keyDecisions": [
+                "Founding Marrakesh.",
+                "Crossing into Spain to help the Taifa kings.",
+                "Winning the Battle of Sagrajas.",
+                "Unifying the Maghreb and Al-Andalus."
+            ],
+            "achievements": [
+                "Founder of Marrakesh.",
+                "Savior of Al-Andalus.",
+                "Created a vast empire.",
+                "Lived to be 100 (allegedly)."
+            ],
+            "challenges": [
+                "The Reconquista (El Cid).",
+                "Managing tribal alliances.",
+                "Integrating diverse cultures.",
+                "Old age."
+            ],
+            "legacy": "Yusuf is the father of Marrakesh. He established Morocco as an imperial power.",
+            "quotes": [
+                "I would rather be a camel driver in Africa than a swineherd in Castile."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Empire Builder.",
+            "culturalImpact": "Marrakesh is his legacy.",
+            "primarySources": [
+                "Rawd al-Qirtas.",
+                "Chronicles."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a pious warrior.",
+                "His austerity is contrasted with the luxury of Al-Andalus."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Fatima al-Fihri",
+            "nativeName": "Fatima bint Muhammad Al-Fihriya Al-Qurashiya",
+            "lifespan": "c. 800-880",
+            "era": "Medieval Period (9th Century)",
+            "role": "Philanthropist",
+            "background": "Fatima al-Fihri was a wealthy woman who founded the University of Al-Qarawiyyin in Fez, the oldest existing, continually operating educational institution in the world.",
+            "keyDecisions": [
+                "Using her inheritance to build a mosque/university.",
+                "Supervising the construction.",
+                "Fasting during the construction.",
+                "Dedicating it to the community."
+            ],
+            "achievements": [
+                "Founded the world's oldest university.",
+                "Pioneer of higher education.",
+                "Patron of learning.",
+                "Devout Muslim."
+            ],
+            "challenges": [
+                "Being a woman in a patriarchal society.",
+                "Construction logistics.",
+                "Ensuring the endowment (Waqf) lasted.",
+                "Migration from Kairouan."
+            ],
+            "legacy": "Fatima gave the world the university. She is a symbol of female leadership and piety.",
+            "quotes": [
+                "Knowledge is light."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Mother of Universities.",
+            "culturalImpact": "Al-Qarawiyyin is the heart of Fez. UNESCO recognizes it as the oldest university.",
+            "primarySources": [
+                "Foundation inscriptions.",
+                "Historical accounts."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "Her contribution to civilization is immense."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Abdelkrim al-Khattabi",
+            "nativeName": "Muhammad ibn Abd al-Karim al-Khattabi",
+            "lifespan": "1882-1963",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary",
+            "background": "Abdelkrim was a Riffian political and military leader. He led the Rif War against Spanish and French colonization and established the short-lived Republic of the Rif.",
+            "keyDecisions": [
+                "Leading the Rif War.",
+                "Winning the Battle of Annual (crushing the Spanish).",
+                "Establishing a republic.",
+                "Inventing guerrilla tactics."
+            ],
+            "achievements": [
+                "Defeated a European army (Annual).",
+                "Inspired Ho Chi Minh and Che Guevara.",
+                "Lion of the Rif.",
+                "Anti-colonial icon."
+            ],
+            "challenges": [
+                "Fighting two colonial powers (Spain and France).",
+                "Chemical weapons used against him.",
+                "Exile.",
+                "Lack of international recognition."
+            ],
+            "legacy": "Abdelkrim is the father of modern guerrilla warfare. He is a hero of the Rif and the Third World.",
+            "quotes": [
+                "I am not a visionary. I am a man who knows that freedom must be taken."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Lion of the Rif.",
+            "culturalImpact": "He is a symbol of resistance.",
+            "primarySources": [
+                "Memoirs.",
+                "Military reports."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a tactical genius.",
+                "His legacy is still politically sensitive in Morocco."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Averroes",
+            "nativeName": "Ibn Rushd (Averroes)",
+            "lifespan": "1126-1198",
+            "era": "Medieval Period (12th Century)",
+            "role": "Philosopher",
+            "background": "Averroes was a polymath born in Cordoba but who served the Almohad caliphs in Marrakesh. He is known as 'The Commentator' for his works on Aristotle.",
+            "keyDecisions": [
+                "Writing commentaries on Aristotle.",
+                "Defending philosophy against Al-Ghazali ('The Incoherence of the Incoherence').",
+                "Serving as a judge and physician.",
+                "Dying in Marrakesh."
+            ],
+            "achievements": [
+                "The Commentator.",
+                "Saved Aristotle for the West.",
+                "Father of secular thought (Averroism).",
+                "Polymath."
+            ],
+            "challenges": [
+                "Accusations of heresy.",
+                "Exile.",
+                "Burning of his books.",
+                "Political shifts."
+            ],
+            "legacy": "Averroes sparked the Renaissance in Europe. He argued for the harmony of religion and philosophy.",
+            "quotes": [
+                "Ignorance leads to fear, fear leads to hate, and hate leads to violence."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Commentator.",
+            "culturalImpact": "He is a bridge between Islam and the West.",
+            "primarySources": [
+                "The Incoherence of the Incoherence.",
+                "Commentaries."
+            ],
+            "modernInterpretations": [
+                "Revered as a champion of reason.",
+                "His influence on Aquinas and Dante is acknowledged."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Zaynab an-Nafzawiyyah",
+            "nativeName": "Zaynab an-Nafzawiyyah",
+            "lifespan": "11th Century",
+            "era": "Medieval Period (11th Century)",
+            "role": "Queen",
+            "background": "Zaynab was the wife of Yusuf ibn Tashfin and a powerful political figure. She is said to have been the brains behind the Almoravid expansion.",
+            "keyDecisions": [
+                "Marrying Yusuf ibn Tashfin.",
+                "Advising on the construction of Marrakesh.",
+                "Managing the administration.",
+                "Using her wealth for the state."
+            ],
+            "achievements": [
+                "Co-founder of Marrakesh.",
+                "Queen of the Maghreb.",
+                "Political strategist.",
+                "Wealthy merchant."
+            ],
+            "challenges": [
+                "Tribal politics.",
+                "Being a woman in power.",
+                "The harsh desert environment.",
+                "War."
+            ],
+            "legacy": "Zaynab is the mother of the Almoravid dynasty. There is a saying: 'There was no woman like her in her time'.",
+            "quotes": [
+                "Marry the man who can conquer the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Queen.",
+            "culturalImpact": "She is a symbol of Berber female power.",
+            "primarySources": [
+                "Chronicles.",
+                "Oral traditions."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a partner in power.",
+                "Her intelligence is legendary."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Hicham El Guerrouj",
+            "nativeName": "Hicham El Guerrouj",
+            "lifespan": "1974-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Hicham El Guerrouj is a middle-distance runner. He is the current world record holder for the 1500m and mile. He won two gold medals at the 2004 Olympics.",
+            "keyDecisions": [
+                "Training at high altitude in Ifrane.",
+                "Overcoming the fall in Atlanta 1996.",
+                "Winning double gold in Athens 2004.",
+                "Retiring on top."
+            ],
+            "achievements": [
+                "World Record Holder (1500m, Mile).",
+                "Double Olympic Champion.",
+                "King of the Mile.",
+                "Greatest middle-distance runner ever."
+            ],
+            "challenges": [
+                "The 'curse' of the Olympics (1996, 2000).",
+                "Pressure.",
+                "Injuries.",
+                "Rivalry with Bernard Lagat."
+            ],
+            "legacy": "El Guerrouj is a sporting legend. His records still stand after two decades.",
+            "quotes": [
+                "I run for my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "King of the Mile.",
+            "culturalImpact": "He is a national hero. An inspiration to youth.",
+            "primarySources": [
+                "Race records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the GOAT.",
+                "His humility is praised."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Nawal El Moutawakel",
+            "nativeName": "Nawal El Moutawakel",
+            "lifespan": "1962-",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Athlete, Administrator",
+            "background": "Nawal El Moutawakel is a former hurdler who won the 400m hurdles at the 1984 Olympics, becoming the first Muslim woman born on the continent of Africa to become an Olympic champion.",
+            "keyDecisions": [
+                "Competing in the Olympics.",
+                "Breaking barriers for Muslim women.",
+                "Serving on the IOC.",
+                "Becoming a government minister."
+            ],
+            "achievements": [
+                "Olympic Gold Medalist (1984).",
+                "First Muslim woman Olympic champion.",
+                "IOC Vice President.",
+                "Pioneer."
+            ],
+            "challenges": [
+                "Social stigma.",
+                "Lack of resources.",
+                "Pressure.",
+                "Breaking the glass ceiling."
+            ],
+            "legacy": "Nawal opened the door for women in sports in the Arab world. She is a trailblazer.",
+            "quotes": [
+                "For Arab women, I was the spark."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Pioneer.",
+            "culturalImpact": "She changed the perception of women in sport.",
+            "primarySources": [
+                "Race footage.",
+                "IOC records."
+            ],
+            "modernInterpretations": [
+                "Revered as a feminist icon.",
+                "Her leadership in the IOC is significant."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Ahmad al-Mansur",
+            "nativeName": "Ahmad al-Mansur al-Dhahabi",
+            "lifespan": "1549-1603",
+            "era": "Early Modern Period (16th Century)",
+            "role": "Sultan",
+            "background": "Ahmad al-Mansur was the Saadi Sultan who defeated Portugal at the Battle of the Three Kings and conquered the Songhai Empire in Mali, earning the title 'The Golden' (Al-Dhahabi).",
+            "keyDecisions": [
+                "Winning the Battle of the Three Kings.",
+                "Invading the Songhai Empire for gold.",
+                "Building the El Badi Palace.",
+                "Trading with Queen Elizabeth I."
+            ],
+            "achievements": [
+                "The Golden Sultan.",
+                "Defeated Portugal.",
+                "Wealthiest ruler of his time.",
+                "Diplomacy with England."
+            ],
+            "challenges": [
+                "Ottoman pressure.",
+                "Spanish threat.",
+                "Logistics of the trans-Saharan campaign.",
+                "Plague (cause of death)."
+            ],
+            "legacy": "Al-Mansur made Morocco a superpower. His palace was a wonder of the world.",
+            "quotes": [
+                "I have conquered the Sudan."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Golden King.",
+            "culturalImpact": "The Saadian Tombs are his resting place. He is a symbol of power.",
+            "primarySources": [
+                "Chronicles.",
+                "Diplomatic letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a great strategist.",
+                "His invasion of Mali is criticized for its brutality."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Tahar Ben Jelloun",
+            "nativeName": "Tahar Ben Jelloun",
+            "lifespan": "1944-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Tahar Ben Jelloun is a Moroccan writer and poet who writes in French. He won the Prix Goncourt for 'The Sacred Night'. He explores themes of identity, racism, and sexuality.",
+            "keyDecisions": [
+                "Writing in French.",
+                "Addressing taboo subjects.",
+                "Living in Paris.",
+                "Writing 'Racism Explained to My Daughter'."
+            ],
+            "achievements": [
+                "Prix Goncourt winner.",
+                "Most translated French-language author.",
+                "Cultural bridge.",
+                "Activist."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Criticism for writing in the colonizer's language.",
+                "Racism in France.",
+                "Political views."
+            ],
+            "legacy": "Ben Jelloun is the voice of the Maghreb in Europe. He fights racism through literature.",
+            "quotes": [
+                "Racism is not an opinion, it is a crime."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary Giant.",
+            "culturalImpact": "His books are taught in schools.",
+            "primarySources": [
+                "The Sacred Night.",
+                "The Sand Child."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master storyteller.",
+                "His work on racism is essential."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Chaïbia Talal",
+            "nativeName": "Chaïbia Talal",
+            "lifespan": "1929-2004",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Artist",
+            "background": "Chaïbia Talal was a self-taught painter known for her naive and colorful style. She is the most famous female artist in Morocco.",
+            "keyDecisions": [
+                "Starting to paint after a dream.",
+                "Refusing formal training.",
+                "Exhibiting in Paris and New York.",
+                "Staying true to her rural roots."
+            ],
+            "achievements": [
+                "Icon of Moroccan art.",
+                "Exhibited worldwide.",
+                "Created a unique style.",
+                "Inspiration to women."
+            ],
+            "challenges": [
+                "Widowed at a young age.",
+                "Illiteracy.",
+                "Scorn from academic painters.",
+                "Poverty."
+            ],
+            "legacy": "Chaïbia is the soul of Moroccan color. She proved that art comes from the heart.",
+            "quotes": [
+                "I paint what I feel."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Painter.",
+            "culturalImpact": "Her work is instantly recognizable.",
+            "primarySources": [
+                "Paintings.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "Her 'naive' art is highly sophisticated."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Mehdi Ben Barka",
+            "nativeName": "Mehdi Ben Barka",
+            "lifespan": "1920-1965",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician",
+            "background": "Mehdi Ben Barka was a socialist leader and opponent of King Hassan II. He was the head of the Tricontinental Conference and was abducted and disappeared in Paris.",
+            "keyDecisions": [
+                "Founding the UNFP.",
+                "Opposing the monarchy.",
+                "Organizing the Tricontinental.",
+                "Exile."
+            ],
+            "achievements": [
+                "Leader of the Third World movement.",
+                "Mathematics teacher.",
+                "Symbol of opposition.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Political persecution.",
+                "Death sentence in absentia.",
+                "Abduction (The Ben Barka Affair).",
+                "Betrayal."
+            ],
+            "legacy": "Ben Barka is the Che Guevara of Morocco. His disappearance remains a mystery.",
+            "quotes": [
+                "The political option."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dissident.",
+            "culturalImpact": "His fate haunts French-Moroccan relations.",
+            "primarySources": [
+                "Political writings.",
+                "Police files."
+            ],
+            "modernInterpretations": [
+                "Revered as a revolutionary.",
+                "Symbol of the 'Years of Lead'."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Fatema Mernissi",
+            "nativeName": "Fatema Mernissi",
+            "lifespan": "1940-2015",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Sociologist, Feminist",
+            "background": "Fatema Mernissi was a sociologist and writer. She was a pioneer of Islamic feminism, arguing that the oppression of women is not intrinsic to Islam but a result of patriarchal interpretation.",
+            "keyDecisions": [
+                "Writing 'Beyond the Veil'.",
+                "Reinterpreting Hadith.",
+                "Challenging patriarchy.",
+                "Writing 'Dreams of Trespass'."
+            ],
+            "achievements": [
+                "Mother of Islamic Feminism.",
+                "Prince of Asturias Award.",
+                "Prolific author.",
+                "Activist."
+            ],
+            "challenges": [
+                "Conservative backlash.",
+                "Censorship.",
+                "Bridging East and West.",
+                "Being a woman in academia."
+            ],
+            "legacy": "Mernissi changed how we read Islam. She gave women a voice in theology.",
+            "quotes": [
+                "Dignity is to have a dream, a strong one."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Islamic Feminist.",
+            "culturalImpact": "Her books are classics of feminist literature.",
+            "primarySources": [
+                "Beyond the Veil.",
+                "The Veil and the Male Elite."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "Her work is foundational."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Gad Elmaleh",
+            "nativeName": "Gad Elmaleh",
+            "lifespan": "1971-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Comedian",
+            "background": "Gad Elmaleh is a Moroccan-Canadian-French comedian and actor. He is one of the most famous comedians in the French-speaking world and has successfully crossed over to the US.",
+            "keyDecisions": [
+                "Moving to Montreal and then Paris.",
+                "Creating one-man shows based on his identity.",
+                "Touring in English ('American Dream').",
+                "Acting in movies."
+            ],
+            "achievements": [
+                "Seinfeld of France.",
+                "Knight of the Order of Arts and Letters.",
+                "Sold out arenas.",
+                "Global star."
+            ],
+            "challenges": [
+                "Language barrier (in the US).",
+                "Plagiarism accusations (CopyComic).",
+                "Cultural identity.",
+                "Starting over in America."
+            ],
+            "legacy": "Gad is the funniest man in the Francophonie. He represents the multicultural Moroccan identity.",
+            "quotes": [
+                "Where is Brian?"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Comedian.",
+            "culturalImpact": "He is a bridge between cultures.",
+            "primarySources": [
+                "Shows (L'autre c'est moi).",
+                "Movies."
+            ],
+            "modernInterpretations": [
+                "Loved for his observational humor.",
+                "His plagiarism scandal tarnished his reputation slightly."
+            ]
+        }
+    ]
+}

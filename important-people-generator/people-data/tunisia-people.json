@@ -1,0 +1,761 @@
+{
+    "country": "Tunisia",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Habib Bourguiba",
+            "nativeName": "Habib Bourguiba",
+            "lifespan": "1903-2000",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Habib Bourguiba was the founder of modern Tunisia and its first President. He led the country to independence from France and implemented radical secular reforms.",
+            "keyDecisions": [
+                "Founding the Neo Destour party.",
+                "Negotiating independence.",
+                "Abolishing the monarchy.",
+                "Passing the Code of Personal Status (women's rights)."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "Liberator of women.",
+                "Modernizer.",
+                "Supreme Combatant."
+            ],
+            "challenges": [
+                "French colonialism.",
+                "Religious conservatives.",
+                "Bizerte crisis.",
+                "Senility (removed in 1987)."
+            ],
+            "legacy": "Bourguiba built the modern state. His education and women's rights policies are his greatest legacy.",
+            "quotes": [
+                "I have created Tunisia."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Father.",
+            "culturalImpact": "He is the central figure of history.",
+            "primarySources": [
+                "Speeches.",
+                "Code of Personal Status."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "Criticized for his authoritarianism."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hannibal Barca",
+            "nativeName": "Hannibal",
+            "lifespan": "247-181 BC",
+            "era": "Ancient Period",
+            "role": "General",
+            "background": "Hannibal was a Carthaginian general and statesman. He is considered one of the greatest military commanders in history, famous for crossing the Alps with elephants to attack Rome.",
+            "keyDecisions": [
+                "Crossing the Alps.",
+                "Winning the Battle of Cannae.",
+                "Refusing to attack Rome directly (controversial).",
+                "Going into exile."
+            ],
+            "achievements": [
+                "Scourge of Rome.",
+                "Tactical genius.",
+                "Hero of Carthage.",
+                "Legend."
+            ],
+            "challenges": [
+                "Roman legions.",
+                "Lack of support from Carthage.",
+                "Scipio Africanus.",
+                "Betrayal."
+            ],
+            "legacy": "Hannibal is the symbol of strategic brilliance. He almost destroyed Rome.",
+            "quotes": [
+                "I will either find a way or make one."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The General.",
+            "culturalImpact": "He is studied in every military academy.",
+            "primarySources": [
+                "Polybius.",
+                "Livy."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "Symbol of resistance against empire."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ibn Khaldun",
+            "nativeName": "Ibn Khaldun",
+            "lifespan": "1332-1406",
+            "era": "Medieval Period",
+            "role": "Historian, Sociologist",
+            "background": "Ibn Khaldun was a historian and philosopher. Born in Tunis, he is considered the father of sociology, historiography, and economics.",
+            "keyDecisions": [
+                "Writing the 'Muqaddimah' (Introduction).",
+                "Developing the theory of Asabiyyah (social cohesion).",
+                "Serving various sultans.",
+                "Meeting Tamerlane."
+            ],
+            "achievements": [
+                "Father of Sociology.",
+                "Historian.",
+                "Philosopher.",
+                "Genius."
+            ],
+            "challenges": [
+                "Political instability.",
+                "Prison.",
+                "Loss of his family (shipwreck).",
+                "Plague."
+            ],
+            "legacy": "Ibn Khaldun changed how we understand history. He saw the cyclical nature of civilizations.",
+            "quotes": [
+                "He who finds a new path is a pathfinder."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scholar.",
+            "culturalImpact": "He is a giant of Islamic thought.",
+            "primarySources": [
+                "The Muqaddimah.",
+                "Autobiography."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "His theories are still applied."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Dido",
+            "nativeName": "Elissa (Dido)",
+            "lifespan": "9th Century BC",
+            "era": "Ancient Period",
+            "role": "Queen",
+            "background": "Dido was the legendary founder and first Queen of Carthage. She fled Tyre and bought as much land as an ox hide could cover (cutting it into thin strips).",
+            "keyDecisions": [
+                "Fleeing Tyre.",
+                "Founding Carthage (Qart-Hadasht).",
+                "The Ox Hide trick.",
+                "Committing suicide (in the Aeneid)."
+            ],
+            "achievements": [
+                "Founder of Carthage.",
+                "Queen.",
+                "Diplomat.",
+                "Legend."
+            ],
+            "challenges": [
+                "Brother Pygmalion.",
+                "Local tribes.",
+                "Aeneas (in myth).",
+                "Patriarchy."
+            ],
+            "legacy": "Dido is the mother of the city. She represents female power and tragedy.",
+            "quotes": [
+                "I have built a city."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Founder.",
+            "culturalImpact": "She is a central figure in the Aeneid.",
+            "primarySources": [
+                "Virgil.",
+                "Justin."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a clever leader.",
+                "Symbol of Carthage."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Tahar Haddad",
+            "nativeName": "Tahar Haddad",
+            "lifespan": "1899-1935",
+            "era": "Modern Period (20th Century)",
+            "role": "Reformer",
+            "background": "Tahar Haddad was a writer and reformer. He advocated for women's rights and workers' rights, arguing that Islam is compatible with modernity.",
+            "keyDecisions": [
+                "Writing 'Our Woman in the Sharia and Society'.",
+                "Founding the first trade union (CGTT).",
+                "Challenging the Zaytuna scholars.",
+                "Dying in isolation."
+            ],
+            "achievements": [
+                "Feminist pioneer.",
+                "Unionist.",
+                "Intellectual.",
+                "Martyr of thought."
+            ],
+            "challenges": [
+                "Conservatives.",
+                "Excommunication.",
+                "Poverty.",
+                "Tuberculosis."
+            ],
+            "legacy": "Haddad was ahead of his time. His ideas formed the basis of Bourguiba's reforms.",
+            "quotes": [
+                "Islam is a revolution."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Reformer.",
+            "culturalImpact": "He is a hero of the women's movement.",
+            "primarySources": [
+                "Our Woman in the Sharia and Society.",
+                "Workers' Rights."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "His rehabilitation took decades."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Azzedine Alaïa",
+            "nativeName": "Azzedine Alaïa",
+            "lifespan": "1935-2017",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Fashion Designer",
+            "background": "Azzedine Alaïa was a couturier. Known as the 'King of Cling', he was a master of cut and fit, rejecting the fashion calendar to create timeless pieces.",
+            "keyDecisions": [
+                "Moving to Paris.",
+                "Working for Dior (briefly).",
+                "Opening his own maison.",
+                "Refusing to follow the schedule."
+            ],
+            "achievements": [
+                "King of Cling.",
+                "Master couturier.",
+                "Sculptor of the body.",
+                "Icon."
+            ],
+            "challenges": [
+                "Racism (early on).",
+                "Industry pressure.",
+                "Death of his sister.",
+                "Perfectionism."
+            ],
+            "legacy": "Alaïa is the designer's designer. He made women feel powerful.",
+            "quotes": [
+                "I am not a designer, I am a couturier."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Couturier.",
+            "culturalImpact": "He is a legend.",
+            "primarySources": [
+                "Dresses.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His work is collected by museums."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Aboul-Qacem Echebbi",
+            "nativeName": "Aboul-Qacem Echebbi",
+            "lifespan": "1909-1934",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Echebbi was a poet. He is the national poet of Tunisia, known for 'The Will to Live', which became an anthem of the Arab Spring.",
+            "keyDecisions": [
+                "Writing poetry in Arabic.",
+                "Modernizing Arabic verse.",
+                "Speaking against colonialism.",
+                "Dying young."
+            ],
+            "achievements": [
+                "National Poet.",
+                "Voice of the people.",
+                "Romantic.",
+                "Revolutionary."
+            ],
+            "challenges": [
+                "Heart disease.",
+                "Traditionalists.",
+                "Colonialism.",
+                "Short life."
+            ],
+            "legacy": "Echebbi is the voice of freedom. 'If the people will to live, destiny must respond.'",
+            "quotes": [
+                "To the tyrants of the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "His verses are in the national anthem.",
+            "primarySources": [
+                "Songs of Life.",
+                "Diwan."
+            ],
+            "modernInterpretations": [
+                "Revered as a prophet of revolution.",
+                "Symbol of youth."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Ons Jabeur",
+            "nativeName": "Ons Jabeur",
+            "lifespan": "1994-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Ons Jabeur is a tennis player. She is the first Arab and African woman to reach a Grand Slam final (Wimbledon, US Open).",
+            "keyDecisions": [
+                "Turning professional.",
+                "Developing her unique style (drop shots).",
+                "Reaching the Wimbledon final.",
+                "Inspiring a generation."
+            ],
+            "achievements": [
+                "Minister of Happiness.",
+                "Trailblazer.",
+                "Champion.",
+                "Icon."
+            ],
+            "challenges": [
+                "Lack of funding.",
+                "Injuries.",
+                "Pressure.",
+                "Breaking barriers."
+            ],
+            "legacy": "Ons Jabeur is the Minister of Happiness. She put Tunisia on the tennis map.",
+            "quotes": [
+                "Yalla!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "She is a national hero.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Role model for Arab women."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Cyprian",
+            "nativeName": "Thascius Caecilius Cyprianus",
+            "lifespan": "200-258",
+            "era": "Ancient Period",
+            "role": "Saint, Bishop",
+            "background": "Cyprian was the Bishop of Carthage and a Church Father. He led the Christians during Roman persecution and was martyred.",
+            "keyDecisions": [
+                "Converting to Christianity.",
+                "Becoming Bishop.",
+                "Guiding the church through the plague.",
+                "Accepting martyrdom."
+            ],
+            "achievements": [
+                "Saint.",
+                "Theologian.",
+                "Martyr.",
+                "Leader."
+            ],
+            "challenges": [
+                "Persecution (Decius, Valerian).",
+                "Plague of Cyprian.",
+                "Schisms (Novatianism).",
+                "Death."
+            ],
+            "legacy": "Cyprian defined the unity of the church. 'You cannot have God for your Father if you do not have the Church for your mother.'",
+            "quotes": [
+                "The blood of the martyrs is the seed of the church."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Saint.",
+            "culturalImpact": "He is a giant of early Christianity.",
+            "primarySources": [
+                "Letters.",
+                "Treatises."
+            ],
+            "modernInterpretations": [
+                "Revered as a doctor of the church.",
+                "His writings are foundational."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Oussama Mellouli",
+            "nativeName": "Oussama Mellouli",
+            "lifespan": "1984-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Oussama Mellouli is a swimmer. He is a three-time Olympic medalist and the first swimmer to win gold in both the pool and open water at the same Olympics.",
+            "keyDecisions": [
+                "Training in the US.",
+                "Winning Gold in Beijing (1500m).",
+                "Winning Gold in London (Marathon).",
+                "Competing in 6 Olympics."
+            ],
+            "achievements": [
+                "Olympic Champion.",
+                "Shark of the Mediterranean.",
+                "Legend.",
+                "Pioneer."
+            ],
+            "challenges": [
+                "Doping ban (Adderall).",
+                "Redemption.",
+                "Age.",
+                "Competition."
+            ],
+            "legacy": "Mellouli is the shark. He is the greatest Tunisian Olympian.",
+            "quotes": [
+                "I swim for my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Shark.",
+            "culturalImpact": "He is a sports icon.",
+            "primarySources": [
+                "Race results.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His longevity is admired."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Sophonisba",
+            "nativeName": "Sophonisba",
+            "lifespan": "3rd Century BC",
+            "era": "Ancient Period",
+            "role": "Noblewoman",
+            "background": "Sophonisba was a Carthaginian noblewoman. She was used as a political pawn during the Second Punic War and drank poison rather than be paraded in a Roman triumph.",
+            "keyDecisions": [
+                "Marrying Syphax (to ally him with Carthage).",
+                "Marrying Masinissa (after Syphax's defeat).",
+                "Drinking the poison sent by Masinissa.",
+                "Dying with dignity."
+            ],
+            "achievements": [
+                "Patriot.",
+                "Tragic heroine.",
+                "Symbol of Carthage.",
+                "Queen."
+            ],
+            "challenges": [
+                "War.",
+                "Scipio Africanus.",
+                "Betrayal.",
+                "Fate."
+            ],
+            "legacy": "Sophonisba is the tragic face of the Punic Wars. She chose death over slavery.",
+            "quotes": [
+                "I die a free woman."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Heroine.",
+            "culturalImpact": "She inspired many operas and plays.",
+            "primarySources": [
+                "Livy.",
+                "Polybius."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a symbol of courage.",
+                "Romanticized in art."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Tawhida Ben Cheikh",
+            "nativeName": "Tawhida Ben Cheikh",
+            "lifespan": "1909-2010",
+            "era": "Modern Period (20th Century)",
+            "role": "Doctor",
+            "background": "Tawhida Ben Cheikh was the first female physician in North Africa. She was a pioneer in women's health and family planning.",
+            "keyDecisions": [
+                "Studying medicine in Paris.",
+                "Opening a clinic in Tunis.",
+                "Leading the family planning campaign.",
+                "Directing the Red Crescent."
+            ],
+            "achievements": [
+                "First female doctor.",
+                "Pioneer.",
+                "Feminist.",
+                "Centenarian."
+            ],
+            "challenges": [
+                "Patriarchy.",
+                "Colonialism.",
+                "Tradition.",
+                "Resources."
+            ],
+            "legacy": "Ben Cheikh opened the door for women in science. She is on the 10 Dinar note.",
+            "quotes": [
+                "Medicine is a mission."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Pioneer.",
+            "culturalImpact": "She is a national icon.",
+            "primarySources": [
+                "Medical records.",
+                "Banknotes."
+            ],
+            "modernInterpretations": [
+                "Revered as a trailblazer.",
+                "Symbol of modern Tunisia."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Hamilcar Barca",
+            "nativeName": "Hamilcar Barca",
+            "lifespan": "275-228 BC",
+            "era": "Ancient Period",
+            "role": "General",
+            "background": "Hamilcar Barca was a Carthaginian general and the father of Hannibal. He commanded Carthaginian forces in Sicily and conquered Spain.",
+            "keyDecisions": [
+                "Defending Sicily (First Punic War).",
+                "Suppressing the Mercenary War.",
+                "Conquering Spain.",
+                "Making Hannibal swear eternal hatred to Rome."
+            ],
+            "achievements": [
+                "Barcid dynasty founder.",
+                "General.",
+                "Strategist.",
+                "Hero."
+            ],
+            "challenges": [
+                "Rome.",
+                "Mercenaries.",
+                "Politics in Carthage.",
+                "Death in battle."
+            ],
+            "legacy": "Hamilcar laid the foundation for Hannibal's war. He was the lightning (Barca).",
+            "quotes": [
+                "I will never be a friend to Rome."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Father.",
+            "culturalImpact": "Barcelona is named after his family.",
+            "primarySources": [
+                "Polybius.",
+                "Cornelius Nepos."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a great commander.",
+                "Overshadowed by his son."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Latifa",
+            "nativeName": "Latifa Bint Alaya El Arfaoui",
+            "lifespan": "1961-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Latifa is a singer and actress. She is one of the most famous Arab pop stars, known for her versatility and longevity.",
+            "keyDecisions": [
+                "Studying in Egypt.",
+                "Collaborating with Baligh Hamdi.",
+                "Founding her charity.",
+                "Singing in multiple dialects."
+            ],
+            "achievements": [
+                "Pop star.",
+                "World Music Award winner.",
+                "Icon.",
+                "Philanthropist."
+            ],
+            "challenges": [
+                "Competition.",
+                "Politics.",
+                "Rumors.",
+                "Staying relevant."
+            ],
+            "legacy": "Latifa is the diva of Tunisia. She bridged the Maghreb and the Mashriq.",
+            "quotes": [
+                "Music is my life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Diva.",
+            "culturalImpact": "She is beloved across the Arab world.",
+            "primarySources": [
+                "Albums.",
+                "Films."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Her elegance is admired."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Perpetua",
+            "nativeName": "Vibia Perpetua",
+            "lifespan": "182-203",
+            "era": "Ancient Period",
+            "role": "Saint, Martyr",
+            "background": "Perpetua was a Christian noblewoman and martyr. Her prison diary is one of the oldest Christian texts written by a woman.",
+            "keyDecisions": [
+                "Refusing to renounce her faith.",
+                "Writing her diary.",
+                "Nursing her baby in prison.",
+                "Guiding the gladiator's sword to her throat."
+            ],
+            "achievements": [
+                "Saint.",
+                "Author.",
+                "Martyr.",
+                "Symbol."
+            ],
+            "challenges": [
+                "Roman persecution.",
+                "Father's pleas.",
+                "Wild beasts.",
+                "Death."
+            ],
+            "legacy": "Perpetua is the witness. Her courage inspired the early church.",
+            "quotes": [
+                "I am a Christian."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "She is mentioned in the Canon of the Mass.",
+            "primarySources": [
+                "The Passion of Perpetua and Felicity.",
+                "Acts."
+            ],
+            "modernInterpretations": [
+                "Revered as a feminist icon of faith.",
+                "Her diary is unique."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Moncef Marzouki",
+            "nativeName": "Moncef Marzouki",
+            "lifespan": "1945-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President, Activist",
+            "background": "Moncef Marzouki is a doctor and human rights activist who served as the first democratically elected President after the 2011 revolution.",
+            "keyDecisions": [
+                "Opposing Ben Ali.",
+                "Living in exile.",
+                "Founding the CPR party.",
+                "Serving as President."
+            ],
+            "achievements": [
+                "Human rights defender.",
+                "President.",
+                "Thinker.",
+                "Symbol of the revolution."
+            ],
+            "challenges": [
+                "Dictatorship.",
+                "Exile.",
+                "Political polarization.",
+                "Governing a transition."
+            ],
+            "legacy": "Marzouki is the philosopher-president. He represents the ideals of the Arab Spring.",
+            "quotes": [
+                "Dignity."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Activist.",
+            "culturalImpact": "He is a polarizing but respected figure.",
+            "primarySources": [
+                "Books.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Praised for his integrity.",
+                "Criticized for his alliances."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Moulay Hassen",
+            "nativeName": "Moulay Hassen El Mehdi",
+            "lifespan": "19th Century",
+            "era": "Modern Period (19th Century)",
+            "role": "Prince",
+            "background": "Moulay Hassen was a prince and reformer. He attempted to modernize the Tunisian army and administration before the French protectorate.",
+            "keyDecisions": [
+                "Supporting the Fundamental Pact.",
+                "Modernizing the army.",
+                "Fighting corruption.",
+                "Resisting French influence."
+            ],
+            "achievements": [
+                "Reformer.",
+                "Patriot.",
+                "Prince.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Debt.",
+                "European pressure.",
+                "Internal resistance.",
+                "Collapse of the state."
+            ],
+            "legacy": "Moulay Hassen tried to save the state. His failure led to colonization.",
+            "quotes": [
+                "Justice."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Reformer.",
+            "culturalImpact": "He is a tragic figure.",
+            "primarySources": [
+                "Archives.",
+                "History books."
+            ],
+            "modernInterpretations": [
+                "Respected for his efforts.",
+                "Symbol of lost opportunity."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Emel Mathlouthi",
+            "nativeName": "Emel Mathlouthi",
+            "lifespan": "1982-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician",
+            "background": "Emel Mathlouthi is a singer-songwriter. Her song 'Kelmti Horra' (My Word is Free) became the anthem of the Tunisian Revolution and the Arab Spring.",
+            "keyDecisions": [
+                "Singing protest songs.",
+                "Performing at the Nobel Peace Prize ceremony.",
+                "Mixing electronica with folk.",
+                "Speaking truth to power."
+            ],
+            "achievements": [
+                "Voice of the Revolution.",
+                "Global artist.",
+                "Icon.",
+                "Innovator."
+            ],
+            "challenges": [
+                "Censorship (under Ben Ali).",
+                "Exile.",
+                "Industry expectations.",
+                "Politics."
+            ],
+            "legacy": "Emel is the voice of freedom. She gave the revolution a soundtrack.",
+            "quotes": [
+                "My word is free."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Voice.",
+            "culturalImpact": "She is a symbol of hope.",
+            "primarySources": [
+                "Kelmti Horra.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a talent.",
+                "Her courage is admired."
+            ]
+        }
+    ]
+}

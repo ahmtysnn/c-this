@@ -1,0 +1,761 @@
+{
+    "country": "Dominican Republic",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Juan Pablo Duarte",
+            "nativeName": "Juan Pablo Duarte y Díez",
+            "lifespan": "1813-1876",
+            "era": "Modern Period (19th Century)",
+            "role": "Founding Father",
+            "background": "Juan Pablo Duarte is the foremost Founding Father of the Dominican Republic. He founded the secret society La Trinitaria to fight for independence from Haiti.",
+            "keyDecisions": [
+                "Founding La Trinitaria.",
+                "Funding the independence movement.",
+                "Refusing the presidency (to avoid civil war).",
+                "Dying in exile."
+            ],
+            "achievements": [
+                "Father of the Nation.",
+                "Visionary.",
+                "Democrat.",
+                "Poet."
+            ],
+            "challenges": [
+                "Haitian occupation.",
+                "Santana (rival).",
+                "Exile.",
+                "Poverty."
+            ],
+            "legacy": "Duarte is the Christ of Dominican liberty. He gave everything and asked for nothing.",
+            "quotes": [
+                "God, Fatherland, and Liberty."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Father.",
+            "culturalImpact": "His face is on the peso.",
+            "primarySources": [
+                "Letters.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint.",
+                "Symbol of pure patriotism."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Rafael Trujillo",
+            "nativeName": "Rafael Leónidas Trujillo Molina",
+            "lifespan": "1891-1961",
+            "era": "Modern Period (20th Century)",
+            "role": "Dictator",
+            "background": "Trujillo was a dictator who ruled the DR for 31 years. Known as 'El Jefe', his regime was one of the bloodiest in Latin American history.",
+            "keyDecisions": [
+                "Seizing power in 1930.",
+                "Ordering the Parsley Massacre (1937).",
+                "Renaming Santo Domingo to Ciudad Trujillo.",
+                "Ordering the Mirabal sisters' murder."
+            ],
+            "achievements": [
+                "El Jefe.",
+                "Modernizer (built infrastructure).",
+                "Paid off foreign debt.",
+                "Tyrant."
+            ],
+            "challenges": [
+                "Internal opposition.",
+                "International sanctions.",
+                "Catholic Church.",
+                "Assassination."
+            ],
+            "legacy": "Trujillo is the beast. He modernized the country but at the cost of its soul.",
+            "quotes": [
+                "God and Trujillo."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dictator.",
+            "culturalImpact": "The Feast of the Goat (novel).",
+            "primarySources": [
+                "Decrees.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Reviled as a monster.",
+                "Some still praise his order."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The Mirabal Sisters",
+            "nativeName": "Patria, Minerva, María Teresa Mirabal",
+            "lifespan": "1924-1960",
+            "era": "Modern Period (20th Century)",
+            "role": "Activists",
+            "background": "The Mirabal Sisters (Las Mariposas) were three sisters who opposed the Trujillo dictatorship. Their brutal assassination sparked the end of the regime.",
+            "keyDecisions": [
+                "Joining the underground movement (14th of June).",
+                "Refusing to be silenced.",
+                "Visiting their husbands in prison.",
+                "Becoming martyrs."
+            ],
+            "achievements": [
+                "Las Mariposas.",
+                "Martyrs.",
+                "Symbols of resistance.",
+                "Heroines."
+            ],
+            "challenges": [
+                "Trujillo.",
+                "Prison.",
+                "Torture.",
+                "Death."
+            ],
+            "legacy": "The butterflies are free. International Day for the Elimination of Violence against Women is their death date.",
+            "quotes": [
+                "If they kill me, I'll take my arms out of the grave and I'll be stronger."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Butterflies.",
+            "culturalImpact": "In the Time of the Butterflies (novel/film).",
+            "primarySources": [
+                "Letters.",
+                "Testimonies."
+            ],
+            "modernInterpretations": [
+                "Revered as saints of democracy.",
+                "Global feminist icons."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Juan Bosch",
+            "nativeName": "Juan Bosch Gaviño",
+            "lifespan": "1909-2001",
+            "era": "Modern Period (20th Century)",
+            "role": "President, Writer",
+            "background": "Juan Bosch was a writer and the first democratically elected president after Trujillo. He was overthrown by a coup after 7 months, leading to the 1965 Civil War.",
+            "keyDecisions": [
+                "Writing short stories.",
+                "Founding the PRD and PLD parties.",
+                "Winning the 1962 election.",
+                "Refusing to compromise with the elite."
+            ],
+            "achievements": [
+                "Literary master.",
+                "President.",
+                "Teacher of politics.",
+                "Moral compass."
+            ],
+            "challenges": [
+                "Military coups.",
+                "US invasion (1965).",
+                "Exile.",
+                "Betrayal."
+            ],
+            "legacy": "Bosch is the professor. He taught the country democracy, even if he couldn't practice it.",
+            "quotes": [
+                "No one can be free without culture."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Intellectual.",
+            "culturalImpact": "His stories are classics.",
+            "primarySources": [
+                "Short stories.",
+                "The Pentagonism."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "Criticized for his rigidity."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Oscar de la Renta",
+            "nativeName": "Óscar Arístides Renta Fiallo",
+            "lifespan": "1932-2014",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Fashion Designer",
+            "background": "Oscar de la Renta was a fashion designer. He dressed First Ladies and stars, becoming one of the most famous names in global fashion.",
+            "keyDecisions": [
+                "Leaving the DR for Spain.",
+                "Working for Balenciaga.",
+                "Launching his own label.",
+                "Defining American elegance."
+            ],
+            "achievements": [
+                "King of Fashion.",
+                "Philanthropist.",
+                "Icon.",
+                "Gentleman."
+            ],
+            "challenges": [
+                "Competition.",
+                "Cancer.",
+                "Staying relevant.",
+                "Adopting a son."
+            ],
+            "legacy": "Oscar is the gentleman of design. He made women feel beautiful.",
+            "quotes": [
+                "Fashion is a trend. Style is within a person."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Designer.",
+            "culturalImpact": "He put the DR on the luxury map.",
+            "primarySources": [
+                "Dresses.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His charity work is admired."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Pedro Martínez",
+            "nativeName": "Pedro Jaime Martínez",
+            "lifespan": "1971-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Pedro Martínez is a baseball pitcher. He is a Hall of Famer and three-time Cy Young winner, considered one of the greatest pitchers of all time.",
+            "keyDecisions": [
+                "Signing with the Dodgers.",
+                "Dominating with the Red Sox.",
+                "Winning the 2004 World Series.",
+                "Throwing at Zimmer (accidentally/heat of moment)."
+            ],
+            "achievements": [
+                "Hall of Famer.",
+                "Cy Young winner.",
+                "World Series Champion.",
+                "Legend."
+            ],
+            "challenges": [
+                "Size (too small).",
+                "Injuries.",
+                "Yankees ('Who is your daddy?').",
+                "Pressure."
+            ],
+            "legacy": "Pedro is the golden arm. He pitched in the steroid era and dominated clean.",
+            "quotes": [
+                "I just want to be someone who people respect."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Ace.",
+            "culturalImpact": "He is a god in Boston and DR.",
+            "primarySources": [
+                "Stats.",
+                "Pedro (Book)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the GOAT.",
+                "His personality is beloved."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Salomé Ureña",
+            "nativeName": "Salomé Ureña de Henríquez",
+            "lifespan": "1850-1897",
+            "era": "Modern Period (19th Century)",
+            "role": "Poet, Educator",
+            "background": "Salomé Ureña was a poet and educator. She founded the first center for women's higher education in the DR.",
+            "keyDecisions": [
+                "Writing patriotic poetry.",
+                "Founding the Instituto de Señoritas.",
+                "Marrying Francisco Henríquez y Carvajal.",
+                "Dying young."
+            ],
+            "achievements": [
+                "Mother of Dominican Education.",
+                "Poet.",
+                "Feminist pioneer.",
+                "Icon."
+            ],
+            "challenges": [
+                "Sexism.",
+                "Political instability.",
+                "Health.",
+                "Balancing family and work."
+            ],
+            "legacy": "Salomé taught women to think. Her poems are the soul of the nation.",
+            "quotes": [
+                "Ruins."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Teacher.",
+            "culturalImpact": "She is a national symbol.",
+            "primarySources": [
+                "Poems.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "Her family (Henríquez Ureña) is legendary."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Matías Ramón Mella",
+            "nativeName": "Matías Ramón Mella Castillo",
+            "lifespan": "1816-1864",
+            "era": "Modern Period (19th Century)",
+            "role": "Founding Father",
+            "background": "Mella is one of the three Founding Fathers. He fired the blunderbuss shot at the Puerta del Conde that proclaimed independence in 1844.",
+            "keyDecisions": [
+                "Joining La Trinitaria.",
+                "Firing the 'Trabucazo'.",
+                "Fighting in the Restoration War.",
+                "Dying of dysentery."
+            ],
+            "achievements": [
+                "Founding Father.",
+                "General.",
+                "Man of Action.",
+                "Hero."
+            ],
+            "challenges": [
+                "Haitian army.",
+                "Santana (exile).",
+                "Spanish annexation.",
+                "Illness."
+            ],
+            "legacy": "Mella is the spark. Without his shot, there is no independence.",
+            "quotes": [
+                "Long live the Dominican Republic!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Soldier.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Military records.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a patriot.",
+                "Symbol of courage."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Francisco del Rosario Sánchez",
+            "nativeName": "Francisco del Rosario Sánchez",
+            "lifespan": "1817-1861",
+            "era": "Modern Period (19th Century)",
+            "role": "Founding Father",
+            "background": "Sánchez is one of the three Founding Fathers. He raised the first Dominican flag and led the country when Duarte was in exile.",
+            "keyDecisions": [
+                "Leading the independence in Duarte's absence.",
+                "Raising the flag.",
+                "Opposing the annexation to Spain.",
+                "Being executed."
+            ],
+            "achievements": [
+                "Founding Father.",
+                "Martyr.",
+                "Leader.",
+                "Hero."
+            ],
+            "challenges": [
+                "Santana (betrayal).",
+                "Exile.",
+                "Capture.",
+                "Firing squad."
+            ],
+            "legacy": "Sánchez is the martyr. He died screaming 'I am the Dominican flag!'.",
+            "quotes": [
+                "I am the Dominican flag."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Letters.",
+                "Trial records."
+            ],
+            "modernInterpretations": [
+                "Revered as a patriot.",
+                "Symbol of sacrifice."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Juan Luis Guerra",
+            "nativeName": "Juan Luis Guerra Seijas",
+            "lifespan": "1957-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Juan Luis Guerra is a singer and composer. He popularized Bachata and Merengue globally, known for his poetic lyrics and musical sophistication.",
+            "keyDecisions": [
+                "Studying at Berklee.",
+                "Writing 'Ojalá Que Llueva Café'.",
+                "Elevating Bachata ('Bachata Rosa').",
+                "Converting to Christianity."
+            ],
+            "achievements": [
+                "King of Bachata.",
+                "Grammy winner.",
+                "Poet.",
+                "Icon."
+            ],
+            "challenges": [
+                "Critics (early on).",
+                "Health (eyes).",
+                "Fame.",
+                "Staying relevant."
+            ],
+            "legacy": "Guerra is the poet of the Caribbean. He made the world dance to Dominican rhythm.",
+            "quotes": [
+                "Burbujas de amor."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Maestro.",
+            "culturalImpact": "He is a national treasure.",
+            "primarySources": [
+                "Albums.",
+                "Songs."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His music is timeless."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Junot Díaz",
+            "nativeName": "Junot Díaz",
+            "lifespan": "1968-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Junot Díaz is a writer. He won the Pulitzer Prize for 'The Brief Wondrous Life of Oscar Wao', capturing the Dominican-American experience.",
+            "keyDecisions": [
+                "Writing in Spanglish.",
+                "Focusing on the diaspora.",
+                "Addressing the 'Fukú' (curse).",
+                "Teaching at MIT."
+            ],
+            "achievements": [
+                "Pulitzer Prize winner.",
+                "MacArthur Fellow.",
+                "Voice of the diaspora.",
+                "Star."
+            ],
+            "challenges": [
+                "Writer's block.",
+                "Controversy (#MeToo).",
+                "Critics.",
+                "Identity."
+            ],
+            "legacy": "Díaz gave the nerds a voice. He made Spanglish literary.",
+            "quotes": [
+                "The half-life of love is forever."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "Oscar Wao is a classic.",
+            "primarySources": [
+                "The Brief Wondrous Life of Oscar Wao.",
+                "Drown."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His reputation is complex."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Gregorio Luperón",
+            "nativeName": "Gregorio Luperón",
+            "lifespan": "1839-1897",
+            "era": "Modern Period (19th Century)",
+            "role": "General, President",
+            "background": "Luperón was the hero of the Restoration War. He defeated the Spanish army to restore Dominican independence after the annexation.",
+            "keyDecisions": [
+                "Leading the guerrilla war.",
+                "Defeating the Spanish.",
+                "Serving as President.",
+                "Refusing to become a dictator."
+            ],
+            "achievements": [
+                "Sword of the Restoration.",
+                "General.",
+                "President.",
+                "Hero."
+            ],
+            "challenges": [
+                "Spanish Empire.",
+                "Baez (rival).",
+                "Exile.",
+                "Cancer."
+            ],
+            "legacy": "Luperón is the second liberator. He saved the republic.",
+            "quotes": [
+                "The Republic is immortal."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Restorer.",
+            "culturalImpact": "Puerto Plata airport is named after him.",
+            "primarySources": [
+                "Autobiography.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a giant.",
+                "Symbol of black power."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Julia Alvarez",
+            "nativeName": "Julia Alvarez",
+            "lifespan": "1950-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Julia Alvarez is a writer. She brought the story of the Mirabal sisters to the world with 'In the Time of the Butterflies'.",
+            "keyDecisions": [
+                "Writing 'How the García Girls Lost Their Accents'.",
+                "Researching the Mirabals.",
+                "Living between cultures.",
+                "Farming coffee."
+            ],
+            "achievements": [
+                "Literary icon.",
+                "National Medal of Arts.",
+                "Storyteller.",
+                "Bridge builder."
+            ],
+            "challenges": [
+                "Exile.",
+                "Language.",
+                "Identity.",
+                "Market expectations."
+            ],
+            "legacy": "Alvarez is the voice of the hyphen (Dominican-American). She reclaimed history.",
+            "quotes": [
+                "A novel is not a history lesson, it is a history lesson of the heart."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Storyteller.",
+            "culturalImpact": "Her books are required reading.",
+            "primarySources": [
+                "In the Time of the Butterflies.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "Her work is beloved."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "David Ortiz",
+            "nativeName": "David Américo Ortiz Arias",
+            "lifespan": "1975-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "David Ortiz (Big Papi) is a baseball player. A Red Sox legend and Hall of Famer, he is known for his clutch hitting and charismatic leadership.",
+            "keyDecisions": [
+                "Joining the Red Sox.",
+                "Breaking the Curse of the Bambino (2004).",
+                "The 'This is our city' speech.",
+                "Retiring on top."
+            ],
+            "achievements": [
+                "Big Papi.",
+                "Hall of Famer.",
+                "3x World Series Champion.",
+                "Icon."
+            ],
+            "challenges": [
+                "Being released by the Twins.",
+                "Shooting incident (2019).",
+                "Pressure.",
+                "Expectations."
+            ],
+            "legacy": "Big Papi is the king of Boston. He is the face of Dominican joy.",
+            "quotes": [
+                "This is our city."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Legend.",
+            "culturalImpact": "He is a global ambassador.",
+            "primarySources": [
+                "Stats.",
+                "Papi (Book)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "His smile is infectious."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Caonabo",
+            "nativeName": "Caonabo",
+            "lifespan": "15th Century-1496",
+            "era": "Pre-Columbian Period",
+            "role": "Chief",
+            "background": "Caonabo was a Taíno cacique. He led the first resistance against Christopher Columbus, destroying the fort of La Navidad.",
+            "keyDecisions": [
+                "Attacking La Navidad.",
+                "Resisting the Spanish.",
+                "Being captured by Ojeda (tricked with handcuffs).",
+                "Dying on a ship to Spain."
+            ],
+            "achievements": [
+                "First Rebel.",
+                "Cacique.",
+                "Warrior.",
+                "Symbol."
+            ],
+            "challenges": [
+                "Spanish steel.",
+                "Disease.",
+                "Betrayal.",
+                "Captivity."
+            ],
+            "legacy": "Caonabo is the first defender. He fought the invasion from day one.",
+            "quotes": [
+                "Freedom."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Chief.",
+            "culturalImpact": "He is a symbol of indigenous resistance.",
+            "primarySources": [
+                "Las Casas.",
+                "Columbus diaries."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "Symbol of the lost Taíno world."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "María Montez",
+            "nativeName": "María África Gracia Vidal",
+            "lifespan": "1912-1951",
+            "era": "Modern Period (20th Century)",
+            "role": "Actress",
+            "background": "María Montez was the 'Queen of Technicolor'. She was the first Dominican to conquer Hollywood, starring in exotic adventure films.",
+            "keyDecisions": [
+                "Moving to Hollywood.",
+                "Creating her persona.",
+                "Starring in 'Arabian Nights'.",
+                "Dying young in a bath."
+            ],
+            "achievements": [
+                "Queen of Technicolor.",
+                "Star.",
+                "Icon.",
+                "Pioneer."
+            ],
+            "challenges": [
+                "Typecasting.",
+                "Accent.",
+                "Industry sexism.",
+                "Early death."
+            ],
+            "legacy": "María Montez is the star. She proved a girl from Barahona could rule the screen.",
+            "quotes": [
+                "When I look at myself in the mirror, I am so beautiful I could scream."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Star.",
+            "culturalImpact": "She is a camp icon.",
+            "primarySources": [
+                "Films.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Her confidence is admired."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Joaquín Balaguer",
+            "nativeName": "Joaquín Antonio Balaguer Ricardo",
+            "lifespan": "1906-2002",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Joaquín Balaguer was a President and writer. A puppet of Trujillo who became the master of the country, ruling for decades with a mix of construction and repression.",
+            "keyDecisions": [
+                "Serving Trujillo.",
+                "Winning the 1966 election (with US help).",
+                "Building massive infrastructure.",
+                "Going blind but staying in power."
+            ],
+            "achievements": [
+                "The Doctor.",
+                "Builder.",
+                "Survivor.",
+                "Enigma."
+            ],
+            "challenges": [
+                "Opposition.",
+                "Blindness.",
+                "Age.",
+                "Legacy of blood (The 12 Years)."
+            ],
+            "legacy": "Balaguer is the sphinx. He built the country but kept it in the dark.",
+            "quotes": [
+                "The constitution is a piece of paper."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sphinx.",
+            "culturalImpact": "He defined modern politics.",
+            "primarySources": [
+                "Memoirs of a Courtier.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Respected for his intellect.",
+                "Reviled for his repression."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Porfirio Rubirosa",
+            "nativeName": "Porfirio Rubirosa Ariza",
+            "lifespan": "1909-1965",
+            "era": "Modern Period (20th Century)",
+            "role": "Diplomat, Playboy",
+            "background": "Porfirio Rubirosa was a diplomat and polo player. He was the ultimate playboy, famous for his romances with the world's richest women and his lifestyle.",
+            "keyDecisions": [
+                "Marrying Trujillo's daughter.",
+                "Marrying Doris Duke and Barbara Hutton.",
+                "Racing Ferraris.",
+                "Dying in a car crash."
+            ],
+            "achievements": [
+                "The Playboy.",
+                "Diplomat.",
+                "Icon of style.",
+                "Legend."
+            ],
+            "challenges": [
+                "Trujillo's jealousy.",
+                "Money (spending it).",
+                "Reputation.",
+                "The end of the party."
+            ],
+            "legacy": "Rubirosa is the last playboy. He lived fast and died young.",
+            "quotes": [
+                "I just want to be happy."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Playboy.",
+            "culturalImpact": "He inspired James Bond (allegedly).",
+            "primarySources": [
+                "Biographies.",
+                "Gossip columns."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Symbol of a bygone era."
+            ]
+        }
+    ]
+}

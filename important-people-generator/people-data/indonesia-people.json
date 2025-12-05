@@ -1,0 +1,804 @@
+{
+    "country": "Indonesia",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Sukarno",
+            "nativeName": "Kusno Sosrodihardjo",
+            "lifespan": "1901-1970",
+            "era": "Modern Period (20th Century)",
+            "role": "President, Revolutionary",
+            "background": "Sukarno was the first President of Indonesia and the leader of the Indonesian independence movement against Dutch colonial rule. He proclaimed Indonesia's independence in 1945 and led the country through its tumultuous early years.",
+            "keyDecisions": [
+                "Proclaiming Indonesian Independence on August 17, 1945.",
+                "Formulating the Pancasila (Five Principles) as the state ideology.",
+                "Hosting the Bandung Conference in 1955.",
+                "Implementing 'Guided Democracy'."
+            ],
+            "achievements": [
+                "Father of the Nation.",
+                "Unified the diverse archipelago into a single nation.",
+                "Leader of the Non-Aligned Movement.",
+                "Successfully resisted Dutch re-colonization efforts."
+            ],
+            "challenges": [
+                "Dutch military aggression.",
+                "Internal rebellions and separatist movements.",
+                "Balancing the military, Islamists, and Communists (Nasakom).",
+                "Economic instability and hyperinflation."
+            ],
+            "legacy": "Sukarno is revered as the 'Proclamator'. His vision of a unified Indonesia remains the bedrock of the nation. His daughter, Megawati, later became president.",
+            "quotes": [
+                "Give me 1,000 old men, I will uproot Semeru from its roots; give me 10 youths, I will shake the world.",
+                "Do not ever forget history (Jasmerah).",
+                "Independence can only be obtained and secured by a nation that has its spirit raging with determination."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Founding father of Indonesia.",
+            "culturalImpact": "His face is on the currency. The airport in Jakarta is named after him (Soekarno-Hatta).",
+            "primarySources": [
+                "Indonesia Accuses (defense speech).",
+                "Autobiography.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Celebrated for his nationalism and anti-imperialism.",
+                "Criticized for his authoritarian turn in later years."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Suharto",
+            "nativeName": "Suharto",
+            "lifespan": "1921-2008",
+            "era": "Modern Period (20th Century)",
+            "role": "President, General",
+            "background": "Suharto was the second President of Indonesia, ruling for 31 years under the 'New Order' regime. He came to power after a failed coup attempt in 1965 and oversaw a period of rapid economic growth and stability, but also authoritarianism and corruption.",
+            "keyDecisions": [
+                "Taking control after the September 30th Movement.",
+                "Purging the Indonesian Communist Party (PKI).",
+                "Invading East Timor in 1975.",
+                "Resigning in 1998 amidst the Asian Financial Crisis and protests."
+            ],
+            "achievements": [
+                "Stabilized the economy and achieved self-sufficiency in rice.",
+                "Developed infrastructure and education.",
+                "Founding member of ASEAN.",
+                "Maintained political stability for three decades."
+            ],
+            "challenges": [
+                "The 1965 anti-communist purge (mass killings).",
+                "Widespread corruption (KKN - Corruption, Collusion, Nepotism).",
+                "Human rights abuses in East Timor, Aceh, and Papua.",
+                "The 1997 Asian Financial Crisis."
+            ],
+            "legacy": "Suharto is the 'Father of Development' to some, but a dictator to others. His legacy is deeply divisive, associated with both prosperity and repression.",
+            "quotes": [
+                "If you want to be a leader, you must be a bridge.",
+                "Development is for the people, not the people for development."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Longest-serving President of Indonesia.",
+            "culturalImpact": "His 'New Order' shaped modern Indonesian society. The 'Reformation' era is defined by the rejection of his policies.",
+            "primarySources": [
+                "Autobiography.",
+                "Government decrees.",
+                "CIA reports."
+            ],
+            "modernInterpretations": [
+                "Credited with economic development.",
+                "Condemned for human rights violations and kleptocracy."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Raden Ajeng Kartini",
+            "nativeName": "Raden Ajeng Kartini",
+            "lifespan": "1879-1904",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Activist, Writer",
+            "background": "Kartini was a Javanese noblewoman and a pioneer in the area of women's rights for Indonesians. She advocated for the education of girls and criticized the restrictive customs of nobility and polygamy.",
+            "keyDecisions": [
+                "Corresponding with Dutch friends to share her ideas.",
+                "Opening a school for girls in her home.",
+                "Refusing to follow traditional seclusion rituals (pingit) as much as possible.",
+                "Accepting a polygamous marriage on the condition she could continue her work."
+            ],
+            "achievements": [
+                "National Hero of Indonesia.",
+                "Her letters were published as 'Letters of a Javanese Princess'.",
+                "Inspired the founding of Kartini Schools.",
+                "Symbol of women's emancipation."
+            ],
+            "challenges": [
+                "Patriarchal Javanese culture.",
+                "Colonial restrictions.",
+                "Dying at the young age of 25 after childbirth.",
+                "Limited freedom of movement."
+            ],
+            "legacy": "Kartini is the symbol of Indonesian feminism. 'Kartini Day' is celebrated annually. Her letters are a classic of Indonesian literature.",
+            "quotes": [
+                "Habis Gelap Terbitlah Terang (Out of Dark, Comes Light).",
+                "I have been longing to make the acquaintance of a 'modern girl'.",
+                "Religion must guard us against committing sins, but more often, sins are committed in the name of religion."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Pioneer of women's education and rights.",
+            "culturalImpact": "Every Indonesian schoolchild learns her song 'Ibu Kita Kartini'.",
+            "primarySources": [
+                "Letters of a Javanese Princess.",
+                "Family archives."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "Some debate whether other female figures (like Cut Nyak Dhien) deserve equal prominence."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "B.J. Habibie",
+            "nativeName": "Bacharuddin Jusuf Habibie",
+            "lifespan": "1936-2019",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President, Engineer",
+            "background": "B.J. Habibie was the third President of Indonesia and a brilliant aerospace engineer. He succeeded Suharto and oversaw the transition to democracy (Reformasi). He is known for his intellect and his love story with his wife Ainun.",
+            "keyDecisions": [
+                "Allowing the referendum for East Timor's independence.",
+                "Releasing political prisoners and lifting press censorship.",
+                "Decentralizing power to the regions.",
+                "Developing Indonesia's first indigenous aircraft (N-250)."
+            ],
+            "achievements": [
+                "Father of Technology in Indonesia.",
+                "Ushered in the democratic era.",
+                "Stabilized the economy after the 1997 crisis.",
+                "Vice President of Messerschmitt-Bölkow-Blohm in Germany."
+            ],
+            "challenges": [
+                "Distrust from the military and students.",
+                "The loss of East Timor (highly controversial at the time).",
+                "Short presidency (only 17 months).",
+                "The death of his beloved wife."
+            ],
+            "legacy": "Habibie is remembered as a genius and a true democrat. His decision to allow press freedom saved Indonesian democracy. His love story is the subject of popular movies.",
+            "quotes": [
+                "I am not a politician, I am an engineer.",
+                "Without love, intelligence is dangerous; without intelligence, love is not enough.",
+                "Be like a spring that gives life to the surroundings."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "President of the Reformation.",
+            "culturalImpact": "The 'Habibie & Ainun' movies are blockbusters. He is a role model for Indonesian students.",
+            "primarySources": [
+                "Decisive Moments.",
+                "Habibie & Ainun (book).",
+                "Engineering patents."
+            ],
+            "modernInterpretations": [
+                "Re-evaluated as the savior of democracy.",
+                "His contribution to science is immense."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Gajah Mada",
+            "nativeName": "Gajah Mada",
+            "lifespan": "c. 1290-1364",
+            "era": "Ancient Period (Majapahit Empire)",
+            "role": "Prime Minister, General",
+            "background": "Gajah Mada was the Mahapatih (Prime Minister) of the Majapahit Empire. He is famous for his 'Palapa Oath', where he vowed not to taste spices (or worldly pleasures) until he had unified the entire archipelago (Nusantara) under Majapahit rule.",
+            "keyDecisions": [
+                "Taking the Palapa Oath (Sumpah Palapa).",
+                "Leading military campaigns to conquer Bali and other kingdoms.",
+                "Serving as regent for Queen Tribhuwana and King Hayam Wuruk.",
+                "Centralizing the administration of the empire."
+            ],
+            "achievements": [
+                "Unified the Nusantara (Indonesian archipelago) for the first time.",
+                "Expanded Majapahit to its greatest extent.",
+                "Codified laws.",
+                "National Hero of Indonesia."
+            ],
+            "challenges": [
+                "The Bubat Tragedy (a diplomatic marriage gone wrong leading to a massacre).",
+                "Court intrigues.",
+                "Managing a vast maritime empire.",
+                "His mysterious death/disappearance."
+            ],
+            "legacy": "Gajah Mada is the ultimate symbol of Indonesian unity and nationalism. The term 'Nusantara' comes from his era. Universitas Gadjah Mada is named after him.",
+            "quotes": [
+                "If I have succeeded in uniting Nusantara, then I will break my fast.",
+                "Lamun huwus kalah Nusantara isun amukti palapa."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Unifier of the Archipelago.",
+            "culturalImpact": "Statues of him are common. He is a character in wayang and video games.",
+            "primarySources": [
+                "Nagarakretagama.",
+                "Pararaton.",
+                "Inscriptions."
+            ],
+            "modernInterpretations": [
+                "Seen as the precursor to the modern Indonesian state.",
+                "The Bubat Tragedy is a sore point in Javanese-Sundanese relations."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Diponegoro",
+            "nativeName": "Pangeran Diponegoro",
+            "lifespan": "1785-1855",
+            "era": "Modern Period (19th Century)",
+            "role": "Prince, Rebel Leader",
+            "background": "Prince Diponegoro was a Javanese prince who led the Java War (1825-1830) against the Dutch colonial government. It was one of the costliest wars in Dutch colonial history.",
+            "keyDecisions": [
+                "Refusing to become Sultan to focus on religious study.",
+                "Launching a holy war against the Dutch.",
+                "Using guerilla warfare tactics.",
+                "Meeting the Dutch for negotiations (where he was treacherously arrested)."
+            ],
+            "achievements": [
+                "Led a massive resistance that nearly bankrupted the Dutch.",
+                "National Hero of Indonesia.",
+                "Symbol of resistance against tyranny.",
+                "United nobility and peasants in the fight."
+            ],
+            "challenges": [
+                "Dutch 'Fortress Strategy' which isolated his forces.",
+                "Betrayal by fellow aristocrats.",
+                "Capture and exile to Makassar.",
+                "Writing his autobiography in exile."
+            ],
+            "legacy": "Diponegoro is the archetype of the resistance fighter. His arrest is a famous painting by Raden Saleh. He is a symbol of Javanese Islam and nationalism.",
+            "quotes": [
+                "The Dutch are not to be trusted.",
+                "Destiny is in the hands of God."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Leader of the Java War.",
+            "culturalImpact": "Diponegoro University and military command (Kodam) are named after him.",
+            "primarySources": [
+                "Babad Diponegoro (Autobiography).",
+                "Dutch military records."
+            ],
+            "modernInterpretations": [
+                "His autobiography is a UNESCO Memory of the World.",
+                "Studied for his blend of Islam and Javanese mysticism."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Cut Nyak Dhien",
+            "nativeName": "Cut Nyak Dhien",
+            "lifespan": "1848-1908",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Guerrilla Leader",
+            "background": "Cut Nyak Dhien was a leader of the Acehnese guerrilla forces during the Aceh War. Following the death of her husband, Teuku Umar, she led the resistance against the Dutch for 25 years.",
+            "keyDecisions": [
+                "Taking up arms after her first husband's death.",
+                "Marrying Teuku Umar to unite their forces.",
+                "Continuing the fight alone after Umar's death.",
+                "Refusing to surrender despite old age and blindness."
+            ],
+            "achievements": [
+                "National Hero of Indonesia.",
+                "Symbol of female strength and Acehnese resistance.",
+                "Kept the Dutch at bay for decades.",
+                "Inspired generations of women."
+            ],
+            "challenges": [
+                "The superior firepower of the Dutch.",
+                "Living in the jungle for years.",
+                "Going blind and suffering from gout.",
+                "Betrayal by one of her troops (out of pity for her health)."
+            ],
+            "legacy": "She is the 'Queen of Jihad'. Her determination is legendary. She died in exile but is buried with honor.",
+            "quotes": [
+                "As Acehnese women, we may not shed tears for those who have been martyred.",
+                "Don't let them touch me!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Acehnese war heroine.",
+            "culturalImpact": "Subject of the best Indonesian film ever made ('Tjoet Nja' Dhien').",
+            "primarySources": [
+                "Dutch colonial archives.",
+                "Oral traditions."
+            ],
+            "modernInterpretations": [
+                "Revered as a devout Muslim and patriot.",
+                "Her story highlights the fierce independence of Aceh."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Pramoedya Ananta Toer",
+            "nativeName": "Pramoedya Ananta Toer",
+            "lifespan": "1925-2006",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Dissident",
+            "background": "Pramoedya was Indonesia's greatest novelist. He spent much of his life in prison under both the Dutch and Suharto regimes. His 'Buru Quartet', written while he was a political prisoner, tells the story of the awakening of Indonesian nationalism.",
+            "keyDecisions": [
+                "Joining the independence struggle.",
+                "Writing the 'Buru Quartet' orally to fellow prisoners before writing it down.",
+                "Refusing to apologize for his leftist sympathies.",
+                "Burning his manuscripts to save them (metaphorically/literally)."
+            ],
+            "achievements": [
+                "Nominated for the Nobel Prize in Literature multiple times.",
+                "Wrote 'This Earth of Mankind'.",
+                "Documented the history of Indonesia from the bottom up.",
+                "Ramon Magsaysay Award."
+            ],
+            "challenges": [
+                "Imprisonment on Buru Island for 14 years without trial.",
+                "Banning of his books by the Suharto government.",
+                "Destruction of his library and manuscripts.",
+                "Being stigmatized as a communist."
+            ],
+            "legacy": "Pramoedya is the conscience of the nation. His works are essential reading. He gave a voice to the voiceless.",
+            "quotes": [
+                "A writer is a person who has the spiritual courage to defend the truth.",
+                "Be just, starting from your thoughts.",
+                "Life is a simple thing, really. It's the interpretations that make it complicated."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Indonesia's most celebrated author.",
+            "culturalImpact": "His books were banned but circulated underground. Now they are classics.",
+            "primarySources": [
+                "The Buru Quartet.",
+                "The Mute's Soliloquy.",
+                "Short stories."
+            ],
+            "modernInterpretations": [
+                "Recognized as a giant of world literature.",
+                "His treatment by the state is a reminder of the dark days of authoritarianism."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Abdurrahman Wahid",
+            "nativeName": "Abdurrahman Wahid (Gus Dur)",
+            "lifespan": "1940-2009",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President, Religious Leader",
+            "background": "Gus Dur was the fourth President of Indonesia and a long-time leader of Nahdlatul Ulama, the world's largest Islamic organization. He was a champion of pluralism, tolerance, and minority rights.",
+            "keyDecisions": [
+                "Promoting interfaith dialogue.",
+                "Lifting the ban on Chinese culture and Confucianism.",
+                "Apologizing for the 1965 massacres.",
+                "Attempting to reform the military."
+            ],
+            "achievements": [
+                "Father of Pluralism.",
+                "Stabilized ethnic and religious tensions.",
+                "Made Chinese New Year a national holiday.",
+                "Ramon Magsaysay Award."
+            ],
+            "challenges": [
+                "Blindness and health issues.",
+                "Political impeachment (controversial).",
+                "Erratic leadership style.",
+                "Conflict with the political elite."
+            ],
+            "legacy": "Gus Dur is loved as a humanist and a saint (Wali). He protected minorities when no one else would. His humor is legendary.",
+            "quotes": [
+                "God doesn't need to be defended.",
+                "Gitu aja kok repot (Why make it so complicated?).",
+                "The highest politics is the politics of humanity."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Champion of pluralism and tolerance.",
+            "culturalImpact": "Revered by Chinese-Indonesians and minorities. His grave is a pilgrimage site.",
+            "primarySources": [
+                "Columns and essays.",
+                "Biographies.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Seen as a visionary who was ahead of his time.",
+                "His impeachment is increasingly viewed as a political coup."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Sudirman",
+            "nativeName": "Soedirman",
+            "lifespan": "1916-1950",
+            "era": "Modern Period (20th Century)",
+            "role": "General",
+            "background": "General Sudirman was the first commander-in-chief of the Indonesian Armed Forces. He led the guerrilla war against the Dutch while suffering from severe tuberculosis, often being carried on a litter.",
+            "keyDecisions": [
+                "Leading the Battle of Ambarawa.",
+                "Choosing to fight a guerrilla war (Gerilya) rather than surrender.",
+                "Refusing to stay in the city when the Dutch attacked.",
+                "Maintaining the unity of the army."
+            ],
+            "achievements": [
+                "First Panglima Besar (Commander-in-Chief).",
+                "National Hero.",
+                "Symbol of military sacrifice and loyalty.",
+                "Never captured by the Dutch."
+            ],
+            "challenges": [
+                "Severe tuberculosis (one functioning lung).",
+                "Lack of equipment and supplies.",
+                "Political instability.",
+                "Dying young at 34."
+            ],
+            "legacy": "Sudirman is the father of the Indonesian military (TNI). Every major city has a street named after him. He represents the 'soldier's soldier'.",
+            "quotes": [
+                "The only property of the Republic that remains intact is the Armed Forces.",
+                "Do not give up."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Commander of the Indonesian National Armed Forces.",
+            "culturalImpact": "Statues of him are ubiquitous. His route is used for military training.",
+            "primarySources": [
+                "Military orders.",
+                "Biographies.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Revered for his piety and asceticism.",
+                "The military's political role is often justified by his legacy."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Mohammad Hatta",
+            "nativeName": "Mohammad Hatta",
+            "lifespan": "1902-1980",
+            "era": "Modern Period (20th Century)",
+            "role": "Vice President, Economist",
+            "background": "Mohammad Hatta, known as 'Bung Hatta', was the first Vice President of Indonesia and a co-proclamator of independence. He was a quiet intellectual and economist who championed the cooperative movement.",
+            "keyDecisions": [
+                "Signing the Proclamation of Independence with Sukarno.",
+                "Leading the Indonesian delegation to the Round Table Conference.",
+                "Resigning as VP in 1956 due to disagreements with Sukarno.",
+                "Promoting cooperatives as the basis of the economy."
+            ],
+            "achievements": [
+                "Father of the Cooperative Movement.",
+                "Secured international recognition of Indonesia's sovereignty.",
+                "Known for his integrity and simplicity.",
+                "National Hero."
+            ],
+            "challenges": [
+                "Exile in Boven-Digoel and Banda Neira.",
+                "Political rift with Sukarno.",
+                "Balancing his democratic ideals with the reality of politics.",
+                "Living a modest life despite his position."
+            ],
+            "legacy": "Hatta is the conscience of the state. He represents integrity and intellect. The Sukarno-Hatta duo is the symbol of the nation.",
+            "quotes": [
+                "Indonesia free and active.",
+                "I will not get married until Indonesia is free.",
+                "Less talk, more work."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Co-proclamator and Father of Cooperatives.",
+            "culturalImpact": "His image is on the currency. He is the model of the honest statesman.",
+            "primarySources": [
+                "Memoirs.",
+                "Economic writings.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Admired for his democratic principles.",
+                "His economic ideas are still debated."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Chairil Anwar",
+            "nativeName": "Chairil Anwar",
+            "lifespan": "1922-1949",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Chairil Anwar was a bohemian poet who revolutionized Indonesian literature. He was part of the 'Generation of '45'. His poems are known for their individualism, vitality, and raw emotion.",
+            "keyDecisions": [
+                "Breaking with the traditional 'Pujangga Baru' style.",
+                "Living a rebellious, wandering life.",
+                "Writing 'Aku' (Me).",
+                "Stealing books to read (legend)."
+            ],
+            "achievements": [
+                "Greatest poet of the '45 Generation.",
+                "Modernized the Indonesian language.",
+                "Wrote iconic poems like 'Aku' and 'Karawang-Bekasi'.",
+                "Died young but left a massive impact."
+            ],
+            "challenges": [
+                "Poverty and illness.",
+                "Criticism for plagiarism in some works.",
+                "Dying at 26 of unknown causes (likely TB or syphilis).",
+                "Living in the chaos of the revolution."
+            ],
+            "legacy": "Chairil is the 'Binatang Jalang' (Wild Beast) of Indonesian letters. His poems are recited at every independence day. He embodies the spirit of the revolution.",
+            "quotes": [
+                "I want to live for another thousand years.",
+                "I am a wild beast, cast out from the herd.",
+                "Once it means once, after that it's death."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Pioneer of modern Indonesian poetry.",
+            "culturalImpact": "His face is iconic. 'Aku' is the most famous Indonesian poem.",
+            "primarySources": [
+                "Deru Campur Debu.",
+                "Kerikil Tajam.",
+                "Aku."
+            ],
+            "modernInterpretations": [
+                "Celebrated for his existentialism.",
+                "His influence on the language is undeniable."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Tan Malaka",
+            "nativeName": "Ibrahim Gelar Datuk Sutan Malaka",
+            "lifespan": "1897-1949",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary, Philosopher",
+            "background": "Tan Malaka was a mysterious and influential communist revolutionary. He conceived the idea of the 'Republic of Indonesia' in his book 'Naar de Republiek Indonesia' years before it existed. He spent most of his life in exile and hiding.",
+            "keyDecisions": [
+                "Writing 'Naar de Republiek Indonesia' in 1925.",
+                "Opposing the failed 1926 communist uprising.",
+                "Founding the Murba Party.",
+                "Fighting for '100% Independence'."
+            ],
+            "achievements": [
+                "Father of the Republic (conceptually).",
+                "National Hero.",
+                "Wrote 'Madilog' (Materialism, Dialectics, Logic).",
+                "Operated under dozens of aliases across the world."
+            ],
+            "challenges": [
+                "Hunted by the Dutch, British, Americans, and Japanese.",
+                "Conflict with the PKI and Sukarno.",
+                "Executed by Indonesian troops during the revolution.",
+                "His grave was lost for decades."
+            ],
+            "legacy": "Tan Malaka is the 'Che Guevara of Asia'. He was erased from history by the New Order but has been rediscovered. He is a hero of the left.",
+            "quotes": [
+                "A voice from the grave is louder than the voice of the living.",
+                "Stumble, fall, rise again.",
+                "The ideal is the key to the future."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Philosopher of the Revolution.",
+            "culturalImpact": "His book 'Madilog' is a cult classic. He represents the radical alternative.",
+            "primarySources": [
+                "Madilog.",
+                "From Jail to Jail.",
+                "Naar de Republiek Indonesia."
+            ],
+            "modernInterpretations": [
+                "Revered as a brilliant thinker and true patriot.",
+                "His execution is seen as a tragedy of the revolution."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Rudy Hartono",
+            "nativeName": "Rudy Hartono Kurniawan",
+            "lifespan": "1949-",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Athlete, Badminton Player",
+            "background": "Rudy Hartono is a legendary badminton player. He won the All England Open Badminton Championships eight times, including seven consecutive titles, a record that still stands. He put Indonesia on the map of world sports.",
+            "keyDecisions": [
+                "Focusing on badminton from a young age.",
+                "Training with intense discipline.",
+                "Dominating the All England in the 60s and 70s.",
+                "Helping Indonesia win the Thomas Cup."
+            ],
+            "achievements": [
+                "8-time All England Champion.",
+                "World Champion (1980).",
+                "Olympic Gold Medalist (demonstration sport in 1972).",
+                "Guinness World Record holder."
+            ],
+            "challenges": [
+                "The pressure of maintaining his winning streak.",
+                "Rivalry with Svend Pri.",
+                "Transitioning to life after sports.",
+                "Health issues."
+            ],
+            "legacy": "Rudy Hartono is the king of badminton. He inspired Indonesia's obsession with the sport. He is a national icon.",
+            "quotes": [
+                "Discipline is the bridge between goals and accomplishment.",
+                "I just wanted to be the best."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Greatest badminton player of his era.",
+            "culturalImpact": "Badminton is Indonesia's national sport largely due to him.",
+            "primarySources": [
+                "Match records.",
+                "Biographies.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a sports legend.",
+                "Role model for discipline."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Anggun",
+            "nativeName": "Anggun Cipta Sasmi",
+            "lifespan": "1974-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Singer",
+            "background": "Anggun is an Indonesian-born singer who achieved international success. She started as a rock star in Indonesia before moving to Europe. Her song 'Snow on the Sahara' was a global hit. She is the most successful Asian artist outside Asia.",
+            "keyDecisions": [
+                "Leaving her fame in Indonesia to start over in London and Paris.",
+                "Switching from rock to pop/world music.",
+                "Becoming a French citizen.",
+                "Serving as a UN Goodwill Ambassador."
+            ],
+            "achievements": [
+                "International hit 'Snow on the Sahara'.",
+                "Best-selling Asian artist outside Asia.",
+                "Judge on Asia's Got Talent.",
+                "World Music Award winner."
+            ],
+            "challenges": [
+                "Struggling to break into the Western market.",
+                "Criticism in Indonesia for changing citizenship.",
+                "Balancing her dual identity.",
+                "Navigating the music industry."
+            ],
+            "legacy": "Anggun proved that an Indonesian artist could go global. She is a cultural ambassador. Her voice is instantly recognizable.",
+            "quotes": [
+                "I am a citizen of the world.",
+                "Music is the language of the soul.",
+                "Don't be afraid to dream big."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "International pop star.",
+            "culturalImpact": "She paved the way for other Indonesian artists (like Agnez Mo). She is a gay icon in France.",
+            "primarySources": [
+                "Discography (Snow on the Sahara).",
+                "Interviews.",
+                "UN reports."
+            ],
+            "modernInterpretations": [
+                "Respected for her talent and perseverance.",
+                "Her comments on religious tolerance are influential."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Pattimura",
+            "nativeName": "Thomas Matulessy",
+            "lifespan": "1783-1817",
+            "era": "Modern Period (19th Century)",
+            "role": "Rebel Leader",
+            "background": "Kapitan Pattimura was a soldier from Ambon who led a rebellion against the Dutch in the Moluccas (Spice Islands). He captured Fort Duurstede but was eventually captured and hanged.",
+            "keyDecisions": [
+                "Leading the attack on Fort Duurstede.",
+                "Uniting the people of Maluku against the return of the Dutch.",
+                "Refusing to cooperate with the colonial authorities.",
+                "Facing the gallows with courage."
+            ],
+            "achievements": [
+                "National Hero.",
+                "Symbol of Maluku resistance.",
+                "Briefly liberated Saparua.",
+                "Inspired future generations."
+            ],
+            "challenges": [
+                "Betrayal by local kings.",
+                "Lack of supplies and gunpowder.",
+                "The overwhelming force of the Dutch military.",
+                "Religious tensions."
+            ],
+            "legacy": "Pattimura is the hero of the East. His image is on the 1000 rupiah note. He represents the fight against exploitation.",
+            "quotes": [
+                "Old Pattimura may die, but young Pattimuras will rise.",
+                "I die for my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Leader of the Maluku rebellion.",
+            "culturalImpact": "Pattimura Day is celebrated in Maluku. He is a symbol of regional pride.",
+            "primarySources": [
+                "Dutch colonial records.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Debate exists over his religion (Christian or Muslim), but he is a hero to all.",
+                "Symbol of anti-colonialism."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Iwan Fals",
+            "nativeName": "Virgiawan Listanto",
+            "lifespan": "1961-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician, Social Critic",
+            "background": "Iwan Fals is a legendary singer-songwriter. His songs are social commentaries on life in Indonesia, criticizing the government, poverty, and injustice. He is the 'Bob Dylan of Indonesia'.",
+            "keyDecisions": [
+                "Singing about the struggles of the common people (Wong Cilik).",
+                "Criticizing the Suharto regime through lyrics (e.g., 'Bento', 'Bongkar').",
+                "Remaining independent despite political pressure.",
+                "Creating the Oi (Orang Indonesia) fan movement."
+            ],
+            "achievements": [
+                "One of the most influential musicians in Indonesian history.",
+                "Time Magazine's Asian Hero.",
+                "Voice of the opposition during the New Order.",
+                "Sold millions of albums."
+            ],
+            "challenges": [
+                "Censorship and banning of his concerts.",
+                "The death of his son, Galang Rambu Anarki.",
+                "Staying relevant in the digital age.",
+                "Balancing fame with his simple lifestyle."
+            ],
+            "legacy": "Iwan Fals is the voice of the people. His songs are anthems of protest. He is a living legend.",
+            "quotes": [
+                "Don't speak about love if you can't throw out the trash.",
+                "Bongkar! (Tear it down!)",
+                "The crying of a baby is the song of the future."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Social critic and musician.",
+            "culturalImpact": "His lyrics are quoted by politicians and activists. Oi is a massive community.",
+            "primarySources": [
+                "Songs (Bento, Bongkar, Surat Buat Wakil Rakyat).",
+                "Concerts.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Respected as an elder statesman of music.",
+                "His early work is considered his best."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Joko Widodo",
+            "nativeName": "Joko Widodo (Jokowi)",
+            "lifespan": "1961-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "President",
+            "background": "Joko Widodo is the 7th President of Indonesia. A former furniture businessman and mayor of Solo, he is the first president not to come from the military or political elite. He is known for his 'blusukan' (impromptu visits) style.",
+            "keyDecisions": [
+                "Moving the capital city to Nusantara.",
+                "Focusing on massive infrastructure development (toll roads, dams).",
+                "Implementing the Omnibus Law.",
+                "Hosting the G20 Summit in Bali."
+            ],
+            "achievements": [
+                "Built more infrastructure than any previous president.",
+                "Maintained economic stability.",
+                "Popularized a down-to-earth leadership style.",
+                "Re-elected for a second term."
+            ],
+            "challenges": [
+                "The COVID-19 pandemic.",
+                "Criticism over democratic backsliding and dynastic politics.",
+                "Balancing relations between China and the US.",
+                "Environmental concerns."
+            ],
+            "legacy": "Jokowi changed the face of Indonesian politics. He represents the rise of the common man. His infrastructure legacy is visible everywhere.",
+            "quotes": [
+                "Work, work, work.",
+                "I am a product of democracy.",
+                "The era of cheap oil is over."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Current President and infrastructure builder.",
+            "culturalImpact": "His style is imitated by local leaders. He is a pop culture figure (metalhead).",
+            "primarySources": [
+                "Speeches.",
+                "Policy documents.",
+                "News reports."
+            ],
+            "modernInterpretations": [
+                "Praised for development but criticized for weakening democratic institutions.",
+                "His final legacy is still being written."
+            ]
+        }
+    ]
+}

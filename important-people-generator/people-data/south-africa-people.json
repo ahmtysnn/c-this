@@ -1,0 +1,772 @@
+{
+    "country": "South Africa",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Nelson Mandela",
+            "nativeName": "Nelson Rolihlahla Mandela (Madiba)",
+            "lifespan": "1918-2013",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "President, Activist",
+            "background": "Nelson Mandela was an anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election.",
+            "keyDecisions": [
+                "Founding the Umkhonto we Sizwe (Spear of the Nation).",
+                "Refusing to renounce violence in exchange for freedom (until conditions were met).",
+                "Negotiating the end of apartheid with F.W. de Klerk.",
+                "Promoting reconciliation rather than revenge (Truth and Reconciliation Commission)."
+            ],
+            "achievements": [
+                "Nobel Peace Prize (1993).",
+                "First black President of South Africa.",
+                "Ended Apartheid.",
+                "Global symbol of forgiveness and peace."
+            ],
+            "challenges": [
+                "27 years in prison (Robben Island).",
+                "The violence of the apartheid regime.",
+                "Preventing civil war during the transition.",
+                "Personal sacrifices (family life)."
+            ],
+            "legacy": "Mandela is one of the most revered figures in human history. He proved that reconciliation is possible even after deep hatred.",
+            "quotes": [
+                "It always seems impossible until it's done.",
+                "Education is the most powerful weapon which you can use to change the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of the Nation.",
+            "culturalImpact": "Mandela Day (July 18) is a global call to action. His 'Madiba shirts' are iconic.",
+            "primarySources": [
+                "Long Walk to Freedom (Autobiography).",
+                "Speeches (Rivonia Trial).",
+                "Letters from prison."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint-like figure.",
+                "Some younger activists criticize his economic compromises."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Desmond Tutu",
+            "nativeName": "Desmond Mpilo Tutu",
+            "lifespan": "1931-2021",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Archbishop, Activist",
+            "background": "Desmond Tutu was an Anglican bishop and theologian known for his work as an anti-apartheid and human rights activist. He coined the term 'Rainbow Nation'.",
+            "keyDecisions": [
+                "Advocating for economic sanctions against apartheid.",
+                "Chairing the Truth and Reconciliation Commission.",
+                "Speaking out against corruption in the post-apartheid government.",
+                "Supporting LGBTQ+ rights."
+            ],
+            "achievements": [
+                "Nobel Peace Prize (1984).",
+                "First black Archbishop of Cape Town.",
+                "Moral compass of the nation.",
+                "Presidential Medal of Freedom."
+            ],
+            "challenges": [
+                "Harassment by the apartheid police.",
+                "Criticism from both white conservatives and black militants.",
+                "Health issues (prostate cancer).",
+                "Witnessing the trauma of the TRC."
+            ],
+            "legacy": "Tutu is the conscience of South Africa. His infectious laughter and moral clarity are legendary.",
+            "quotes": [
+                "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+                "If you are neutral in situations of injustice, you have chosen the side of the oppressor."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Arch.",
+            "culturalImpact": "He is a global symbol of peace and justice. The 'Rainbow Nation' concept defines modern SA.",
+            "primarySources": [
+                "No Future Without Forgiveness.",
+                "Speeches.",
+                "Sermons."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a moral giant.",
+                "His inclusivity is a model for the world."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Shaka Zulu",
+            "nativeName": "Shaka kaSenzangakhona",
+            "lifespan": "c. 1787-1828",
+            "era": "Pre-Colonial Period (19th Century)",
+            "role": "King",
+            "background": "Shaka Zulu was the founder of the Zulu Empire. He revolutionized traditional warfare and united many Nguni people into the Zulu Kingdom.",
+            "keyDecisions": [
+                "Introducing the short stabbing spear (iklwa).",
+                "Implementing the 'buffalo horns' formation.",
+                "Militarizing Zulu society.",
+                "Conquering neighboring tribes (Mfecane)."
+            ],
+            "achievements": [
+                "Founded the Zulu Nation.",
+                "Created a formidable military machine.",
+                "Unified the region.",
+                "Legendary warrior."
+            ],
+            "challenges": [
+                "Illegitimacy (born out of wedlock).",
+                "Resistance from other chiefs.",
+                "The death of his mother Nandi (leading to his erratic behavior).",
+                "Assassination by his half-brothers."
+            ],
+            "legacy": "Shaka is the Napoleon of Africa. The Zulu nation remains the largest ethnic group in South Africa.",
+            "quotes": [
+                "Never leave an enemy behind or it will rise again to fly at your throat."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Founder of the Zulu Nation.",
+            "culturalImpact": "King Shaka International Airport is named after him. He is a symbol of African power.",
+            "primarySources": [
+                "Oral traditions.",
+                "Diaries of early traders (Fynn, Isaacs - often biased)."
+            ],
+            "modernInterpretations": [
+                "Revered as a nation-builder.",
+                "His brutality is acknowledged but contextualized."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Steve Biko",
+            "nativeName": "Bantu Stephen Biko",
+            "lifespan": "1946-1977",
+            "era": "Modern Period (20th Century)",
+            "role": "Activist",
+            "background": "Steve Biko was an anti-apartheid activist and the founder of the Black Consciousness Movement. He famously died in police custody after being beaten.",
+            "keyDecisions": [
+                "Founding the South African Students' Organisation (SASO).",
+                "Promoting the philosophy of 'Black is Beautiful'.",
+                "Empowering black people to liberate their minds.",
+                "Refusing to be intimidated by the police."
+            ],
+            "achievements": [
+                "Father of Black Consciousness.",
+                "Restored black pride.",
+                "Inspired the Soweto Uprising.",
+                "Martyr for freedom."
+            ],
+            "challenges": [
+                "Banning orders (silencing him).",
+                "Police brutality.",
+                "Operating underground.",
+                "Torture and death."
+            ],
+            "legacy": "Biko is the intellectual hero of the struggle. His death exposed the brutality of apartheid to the world.",
+            "quotes": [
+                "The most potent weapon in the hands of the oppressor is the mind of the oppressed.",
+                "Black is beautiful."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Black Consciousness Leader.",
+            "culturalImpact": "The movie 'Cry Freedom' is based on his life. He is an icon of resistance.",
+            "primarySources": [
+                "I Write What I Like.",
+                "Court testimony."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary thinker.",
+                "His philosophy is still relevant today."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "F.W. de Klerk",
+            "nativeName": "Frederik Willem de Klerk",
+            "lifespan": "1936-2021",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "President",
+            "background": "F.W. de Klerk was the last head of state of apartheid-era South Africa. He surprised the world by unbanning the ANC, releasing Nelson Mandela, and dismantling the apartheid system.",
+            "keyDecisions": [
+                "Unbanning the ANC and other liberation movements (Feb 2, 1990).",
+                "Releasing Nelson Mandela.",
+                "Repealing apartheid laws.",
+                "Negotiating the interim constitution."
+            ],
+            "achievements": [
+                "Nobel Peace Prize (1993).",
+                "Ended Apartheid (legally).",
+                "Prevented a racial civil war.",
+                "Deputy President of the Government of National Unity."
+            ],
+            "challenges": [
+                "Right-wing resistance (AWB).",
+                "Distrust from the black majority.",
+                "Third force violence.",
+                "Political transition."
+            ],
+            "legacy": "De Klerk is a complex figure. He is praised for his courage to change but criticized for the crimes of the system he led.",
+            "quotes": [
+                "Peace does not fare well where poverty and deprivation reign.",
+                "I apologize for apartheid."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Last Apartheid President.",
+            "culturalImpact": "His speech in 1990 is a turning point in history.",
+            "primarySources": [
+                "The Last Trek: A New Beginning (Autobiography).",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Acknowledged for his role in the transition.",
+                "His denial of apartheid as a crime against humanity caused controversy."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Miriam Makeba",
+            "nativeName": "Zenzile Miriam Makeba (Mama Africa)",
+            "lifespan": "1932-2008",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Singer, Activist",
+            "background": "Miriam Makeba was a singer and civil rights activist. Known as 'Mama Africa', she introduced African music to the West and used her fame to fight against apartheid.",
+            "keyDecisions": [
+                "Testifying against apartheid at the UN (1963).",
+                "Singing in Xhosa (The Click Song).",
+                "Living in exile for 30 years.",
+                "Returning to South Africa after Mandela's release."
+            ],
+            "achievements": [
+                "Grammy Award winner (first African woman).",
+                "Mama Africa.",
+                "Polar Music Prize.",
+                "Global cultural ambassador."
+            ],
+            "challenges": [
+                "Citizenship revoked by the apartheid government.",
+                "Cancer.",
+                "Marital troubles (married to Stokely Carmichael, causing backlash in the US).",
+                "Life in exile."
+            ],
+            "legacy": "Makeba is the voice of Africa. Her song 'Pata Pata' is a global hit.",
+            "quotes": [
+                "I kept my culture. I kept the music of my roots.",
+                "Age is wisdom."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Mama Africa.",
+            "culturalImpact": "She paved the way for African artists globally. She is a symbol of dignity.",
+            "primarySources": [
+                "Makeba: My Story.",
+                "Songs (Pata Pata, Malaika)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a musical and political icon.",
+                "Her resilience is legendary."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Oliver Tambo",
+            "nativeName": "Oliver Reginald Kaizana Tambo (O.R.)",
+            "lifespan": "1917-1993",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician, Activist",
+            "background": "Oliver Tambo was the President of the African National Congress (ANC) from 1967 to 1991. He led the ANC in exile and was the chief diplomat of the anti-apartheid struggle.",
+            "keyDecisions": [
+                "Establishing the ANC's external mission.",
+                "Building global support against apartheid.",
+                "Keeping the ANC united in exile.",
+                "Preparing the ANC for governance."
+            ],
+            "achievements": [
+                "Longest-serving ANC President.",
+                "Internationalized the struggle.",
+                "Order of Mapungubwe.",
+                "Architect of the ANC's strategy."
+            ],
+            "challenges": [
+                "Living in exile for 30 years.",
+                "Stroke in 1989.",
+                "Managing the armed struggle (MK).",
+                "Being separated from his family."
+            ],
+            "legacy": "Tambo is the glue that held the ANC together. Johannesburg's airport is named after him.",
+            "quotes": [
+                "It is our responsibility to break down barriers of division and create a country where there will be neither Whites nor Blacks, just South Africans."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "ANC President.",
+            "culturalImpact": "He is revered as a selfless leader. The 'O.R. Tambo' award is prestigious.",
+            "primarySources": [
+                "Speeches.",
+                "ANC documents.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a brilliant strategist and diplomat.",
+                "Often seen as the unsung hero compared to Mandela."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Winnie Madikizela-Mandela",
+            "nativeName": "Nomzamo Winifred Zanyiwe Madikizela",
+            "lifespan": "1936-2018",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Activist, Politician",
+            "background": "Winnie Madikizela-Mandela was an anti-apartheid activist and the second wife of Nelson Mandela. She kept his name alive during his imprisonment and was known as the 'Mother of the Nation'.",
+            "keyDecisions": [
+                "Defying banning orders.",
+                "Leading protests in Soweto.",
+                "Creating the Mandela United Football Club (controversial).",
+                "Serving as a Member of Parliament."
+            ],
+            "achievements": [
+                "Mother of the Nation.",
+                "Kept the struggle alive internally.",
+                "Head of the ANC Women's League.",
+                "Symbol of militancy."
+            ],
+            "challenges": [
+                "Solitary confinement (491 days).",
+                "Banishment to Brandfort.",
+                "The Stompie Seipei scandal.",
+                "Divorce from Nelson Mandela."
+            ],
+            "legacy": "Winnie is a polarizing but powerful figure. She represents the raw anger and suffering of the struggle.",
+            "quotes": [
+                "Together, hand in hand, with our matches and our necklaces, we shall liberate this country.",
+                "I am the product of the masses of my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Mother of the Nation.",
+            "culturalImpact": "She is a feminist icon to many. Her life is a testament to resilience.",
+            "primarySources": [
+                "Part of My Soul Went with Him.",
+                "TRC testimony."
+            ],
+            "modernInterpretations": [
+                "Revered as a revolutionary hero.",
+                "Her involvement in violence complicates her legacy."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Chris Hani",
+            "nativeName": "Martin Thembisile Hani",
+            "lifespan": "1942-1993",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician, Soldier",
+            "background": "Chris Hani was the leader of the South African Communist Party and chief of staff of Umkhonto we Sizwe. His assassination in 1993 nearly derailed the transition to democracy.",
+            "keyDecisions": [
+                "Joining the armed struggle.",
+                "Fighting in the Wankie Campaign.",
+                "Leading the SACP.",
+                "Supporting the negotiation process."
+            ],
+            "achievements": [
+                "Most popular leader after Mandela.",
+                "Hero of the youth and workers.",
+                "Military strategist.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Assassination attempts.",
+                "Life in exile.",
+                "Internal ANC conflicts.",
+                "His murder by Janusz Waluś."
+            ],
+            "legacy": "Hani is the lost hope of the left. His death forced the setting of the election date.",
+            "quotes": [
+                "I've never wanted to spare myself because I feel there are people who are no longer around and died for this struggle."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Communist Leader.",
+            "culturalImpact": "He is a hero to the poor. His funeral was a massive event.",
+            "primarySources": [
+                "Speeches.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a man of the people.",
+                "His potential impact on post-apartheid SA is a great 'what if'."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Jan van Riebeeck",
+            "nativeName": "Johan Anthoniszoon van Riebeeck",
+            "lifespan": "1619-1677",
+            "era": "Colonial Period (17th Century)",
+            "role": "Administrator",
+            "background": "Jan van Riebeeck was a Dutch navigator and colonial administrator who founded Cape Town in 1652 as a resupply station for the Dutch East India Company (VOC).",
+            "keyDecisions": [
+                "Establishing the Fort of Good Hope.",
+                "Planting the first vines and hedge.",
+                "Starting the conflict with the Khoikhoi.",
+                "Importing slaves."
+            ],
+            "achievements": [
+                "Founder of Cape Town.",
+                "Started the wine industry in SA.",
+                "Commander of the Cape.",
+                "Documented early Cape life."
+            ],
+            "challenges": [
+                "Harsh conditions.",
+                "Resistance from indigenous people.",
+                "Managing a mutinous crew.",
+                "Lack of resources."
+            ],
+            "legacy": "Van Riebeeck is the father of colonial South Africa. His arrival is the start of modern SA history for some, and the start of conquest for others.",
+            "quotes": [
+                "Today, praise be to God, wine was pressed for the first time from Cape grapes."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Founder of Cape Town.",
+            "culturalImpact": "His face was on the currency for decades. His legacy is highly contested.",
+            "primarySources": [
+                "Journal of Jan van Riebeeck.",
+                "VOC records."
+            ],
+            "modernInterpretations": [
+                "Viewed as a colonizer and invader.",
+                "Historically significant as the founder of the settlement."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Albert Luthuli",
+            "nativeName": "Albert John Luthuli",
+            "lifespan": "1898-1967",
+            "era": "Modern Period (20th Century)",
+            "role": "Chief, Activist",
+            "background": "Chief Albert Luthuli was a teacher, activist, and President of the ANC. He was the first African to be awarded the Nobel Peace Prize (1960) for his non-violent struggle against apartheid.",
+            "keyDecisions": [
+                "Joining the ANC.",
+                "Leading the Defiance Campaign.",
+                "Refusing to resign from the ANC when ordered by the government.",
+                "Burning his pass book."
+            ],
+            "achievements": [
+                "Nobel Peace Prize (1960).",
+                "President-General of the ANC.",
+                "Symbol of Christian non-violence.",
+                "Traditional Chief."
+            ],
+            "challenges": [
+                "Stripped of his chieftaincy.",
+                "Banning orders.",
+                "Treason Trial.",
+                "Mysterious death (train accident)."
+            ],
+            "legacy": "Luthuli is a moral giant. He bridged the gap between traditional leadership and modern politics.",
+            "quotes": [
+                "Let my people go.",
+                "The road to freedom is via the cross."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First African Nobel Laureate.",
+            "culturalImpact": "He gave the struggle international legitimacy.",
+            "primarySources": [
+                "Let My People Go (Autobiography).",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a saintly figure.",
+                "His non-violent stance laid the moral groundwork for the struggle."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Christiaan Barnard",
+            "nativeName": "Christiaan Neethling Barnard",
+            "lifespan": "1922-2001",
+            "era": "Modern Period (20th Century)",
+            "role": "Surgeon",
+            "background": "Dr. Christiaan Barnard was a cardiac surgeon who performed the world's first successful human-to-human heart transplant in 1967 at Groote Schuur Hospital in Cape Town.",
+            "keyDecisions": [
+                "Attempting the first heart transplant.",
+                "Developing new surgical techniques.",
+                "Dealing with the media frenzy.",
+                "Advocating for organ donation."
+            ],
+            "achievements": [
+                "First human heart transplant.",
+                "Put South African medicine on the map.",
+                "Global celebrity.",
+                "Pioneered cardiac surgery."
+            ],
+            "challenges": [
+                "Arthritis (ending his surgical career).",
+                "Ethical controversies.",
+                "Fame and personal life.",
+                "Apartheid isolation."
+            ],
+            "legacy": "Barnard is a medical legend. His feat is one of the greatest medical breakthroughs of the 20th century.",
+            "quotes": [
+                "For a dying man, it is not a difficult decision... If a lion chases you to the bank of a river filled with crocodiles, you will leap into the water, convinced you have a chance to swim to the other side."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Medical Pioneer.",
+            "culturalImpact": "He became an international playboy and celebrity. A symbol of excellence.",
+            "primarySources": [
+                "One Life (Autobiography).",
+                "Medical journals."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius surgeon.",
+                "His personal life is often tabloid fodder."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Brenda Fassie",
+            "nativeName": "Brenda Nokuzola Fassie (MaBrrr)",
+            "lifespan": "1964-2004",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Brenda Fassie was a pop singer known as the 'Madonna of the Townships'. She was a voice for the disenfranchised black majority during and after apartheid.",
+            "keyDecisions": [
+                "Singing 'Weekend Special'.",
+                "Singing 'Black President' (about Mandela).",
+                "Living a controversial and open life.",
+                "Defining Kwaito and Afropop."
+            ],
+            "achievements": [
+                "Queen of African Pop.",
+                "Best-selling artist.",
+                "Kora Award winner.",
+                "Voice of the townships."
+            ],
+            "challenges": [
+                "Drug addiction.",
+                "Media scrutiny.",
+                "Financial troubles.",
+                "Early death."
+            ],
+            "legacy": "Brenda is a pop culture icon. Her music is the soundtrack of the 80s and 90s in SA.",
+            "quotes": [
+                "I'm not a bad girl, I'm just a good girl with bad habits."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Madonna of the Townships.",
+            "culturalImpact": "She is loved for her talent and vulnerability. A bronze statue of her stands in Newtown.",
+            "primarySources": [
+                "Songs (Weekend Special, Vulindlela).",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a musical genius.",
+                "Her tragic life is a cautionary tale."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Paul Kruger",
+            "nativeName": "Stephanus Johannes Paulus Kruger (Oom Paul)",
+            "lifespan": "1825-1904",
+            "era": "Modern Period (19th Century)",
+            "role": "President",
+            "background": "Paul Kruger was the President of the South African Republic (Transvaal). He led the Boers against the British during the Second Boer War. He is the face of Afrikaner nationalism.",
+            "keyDecisions": [
+                "Leading the Great Trek (as a boy).",
+                "Resisting British annexation.",
+                "Declaring war on Britain (1899).",
+                "Going into exile in Europe."
+            ],
+            "achievements": [
+                "President of the ZAR.",
+                "Defended Boer independence.",
+                "Established the Kruger National Park.",
+                "Folk hero."
+            ],
+            "challenges": [
+                "The might of the British Empire.",
+                "Gold rush (Uitlanders).",
+                "Internal dissent.",
+                "Defeat and exile."
+            ],
+            "legacy": "Kruger is the father of the Afrikaner nation. The Kruger Rand and Kruger Park are named after him.",
+            "quotes": [
+                "Take the best from the past and build your future on it."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Boer Leader.",
+            "culturalImpact": "His statue dominates Church Square in Pretoria. He is a symbol of resistance to imperialism.",
+            "primarySources": [
+                "Memoirs.",
+                "State documents."
+            ],
+            "modernInterpretations": [
+                "Revered by Afrikaners.",
+                "Viewed as an obstacle to progress and equality by others."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Thabo Mbeki",
+            "nativeName": "Thabo Mvuyelwa Mbeki",
+            "lifespan": "1942-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Thabo Mbeki was the second President of democratic South Africa. He is an intellectual who championed the 'African Renaissance' and NEPAD.",
+            "keyDecisions": [
+                "Implementing GEAR (economic policy).",
+                "Promoting the African Renaissance.",
+                "Mediating conflicts in Africa (Zimbabwe, DRC).",
+                "HIV/AIDS denialism (controversial)."
+            ],
+            "achievements": [
+                "Economic stability and growth.",
+                "African Union formation.",
+                "Intellectual leadership.",
+                "Deputy President under Mandela."
+            ],
+            "challenges": [
+                "The HIV/AIDS crisis.",
+                "Recall by the ANC (2008).",
+                "Zimbabwe crisis.",
+                "Perceived aloofness."
+            ],
+            "legacy": "Mbeki is the philosopher-king. His vision for Africa is powerful, but his AIDS policy is a dark stain.",
+            "quotes": [
+                "I am an African."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "African Renaissance Man.",
+            "culturalImpact": "His 'I am an African' speech is a masterpiece. He shaped modern African diplomacy.",
+            "primarySources": [
+                "Speeches.",
+                "The Thabo Mbeki I Know (Book)."
+            ],
+            "modernInterpretations": [
+                "Respected for his intellect.",
+                "Criticized for his handling of AIDS and Zimbabwe."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Gary Player",
+            "nativeName": "Gary James Player",
+            "lifespan": "1935-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Gary Player is a professional golfer, considered one of the greatest of all time. He is one of only five players to win the career Grand Slam. He is known as the 'Black Knight'.",
+            "keyDecisions": [
+                "Turning professional.",
+                "Traveling the world to play (logging millions of miles).",
+                "Designing golf courses.",
+                "Promoting fitness."
+            ],
+            "achievements": [
+                "Career Grand Slam winner.",
+                "9 Major championships.",
+                "Designed over 400 golf courses.",
+                "Sports icon."
+            ],
+            "challenges": [
+                "Small stature.",
+                "Anti-apartheid protests at his tournaments.",
+                "Maintaining fitness into old age.",
+                "Family tragedies."
+            ],
+            "legacy": "Player is South Africa's greatest sportsman. He put SA golf on the map.",
+            "quotes": [
+                "The harder you work, the luckier you get."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Golf Legend.",
+            "culturalImpact": "He is a global ambassador for golf and fitness.",
+            "primarySources": [
+                "Tournament records.",
+                "Books on fitness and golf."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His support for the apartheid government in the past is sometimes criticized."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Cyril Ramaphosa",
+            "nativeName": "Matamela Cyril Ramaphosa",
+            "lifespan": "1952-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President, Businessman",
+            "background": "Cyril Ramaphosa is the current President of South Africa. He was a trade union leader, the chief negotiator for the ANC during the transition, and a successful businessman.",
+            "keyDecisions": [
+                "Founding the National Union of Mineworkers (NUM).",
+                "Negotiating the end of apartheid.",
+                "Drafting the Constitution.",
+                "Becoming President after Zuma."
+            ],
+            "achievements": [
+                "Architect of the Constitution.",
+                "Built the NUM into a powerhouse.",
+                "Successful business career (Shanduka).",
+                "President."
+            ],
+            "challenges": [
+                "Marikana massacre (involvement as Lonmin director).",
+                "Phala Phala scandal.",
+                "Fighting corruption within the ANC.",
+                "Economic stagnation."
+            ],
+            "legacy": "Ramaphosa is the negotiator. He wrote the rulebook for the new South Africa.",
+            "quotes": [
+                "Our people want jobs."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Negotiator.",
+            "culturalImpact": "He represents the bridge between business and labor.",
+            "primarySources": [
+                "Constitution of South Africa.",
+                "Speeches.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Seen as a capable leader.",
+                "Criticized for being too cautious and for the Marikana incident."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Charlize Theron",
+            "nativeName": "Charlize Theron",
+            "lifespan": "1975-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Actress",
+            "background": "Charlize Theron is an Academy Award-winning actress and producer. She is one of the world's highest-paid actresses and is known for her versatility.",
+            "keyDecisions": [
+                "Moving to Hollywood.",
+                "Starring in 'Monster' (gaining weight and transforming her look).",
+                "Founding the Charlize Theron Africa Outreach Project.",
+                "Producing her own films."
+            ],
+            "achievements": [
+                "Oscar for Best Actress (Monster).",
+                "Golden Globe winner.",
+                "UN Messenger of Peace.",
+                "Global movie star."
+            ],
+            "challenges": [
+                "Traumatic childhood (mother killed father in self-defense).",
+                "Breaking into Hollywood.",
+                "Language barrier (Afrikaans is her first language).",
+                "Typecasting."
+            ],
+            "legacy": "Charlize is the most successful South African actor. She uses her fame to fight HIV/AIDS.",
+            "quotes": [
+                "You are the master of your own destiny."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Hollywood Star.",
+            "culturalImpact": "She is a source of national pride. 'Benoni girl made good'.",
+            "primarySources": [
+                "Films (Monster, Mad Max: Fury Road).",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a talent and humanitarian.",
+                "Her connection to SA remains strong."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,761 @@
+{
+    "country": "Angola",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Njinga of Ndongo and Matamba",
+            "nativeName": "Njinga Mbandi (Queen Nzinga)",
+            "lifespan": "1583-1663",
+            "era": "Early Modern Period (17th Century)",
+            "role": "Queen",
+            "background": "Njinga was the Queen of the Ndongo and Matamba Kingdoms. She is a legendary figure who fought against Portuguese colonization for decades.",
+            "keyDecisions": [
+                "Refusing to sit on the floor during negotiations (sat on a servant's back).",
+                "Converting to Christianity as a diplomatic tactic.",
+                "Forming alliances with the Dutch.",
+                "Leading her troops into battle in her 60s."
+            ],
+            "achievements": [
+                "Resisted Portuguese conquest for 40 years.",
+                "United Ndongo and Matamba.",
+                "Symbol of African resistance.",
+                "Diplomat."
+            ],
+            "challenges": [
+                "Portuguese military superiority.",
+                "Betrayal by rival tribes.",
+                "Gender bias (ruled as a 'king').",
+                "Slave trade."
+            ],
+            "legacy": "Njinga is the mother of Angolan independence. She is a UNESCO icon.",
+            "quotes": [
+                "I am the King."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Warrior Queen.",
+            "culturalImpact": "Statues of her are everywhere. She is a feminist icon.",
+            "primarySources": [
+                "Portuguese chronicles.",
+                "Oral traditions."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a brilliant strategist.",
+                "Her complexity is admired."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Agostinho Neto",
+            "nativeName": "António Agostinho Neto",
+            "lifespan": "1922-1979",
+            "era": "Modern Period (20th Century)",
+            "role": "President, Poet",
+            "background": "Agostinho Neto was a doctor, poet, and the first President of Angola. He led the MPLA in the war for independence against Portugal.",
+            "keyDecisions": [
+                "Founding the MPLA.",
+                "Writing protest poetry ('Sacred Hope').",
+                "Declaring independence in 1975.",
+                "Inviting Cuban troops to defend Luanda."
+            ],
+            "achievements": [
+                "Father of the Nation.",
+                "Led Angola to independence.",
+                "Renowned poet.",
+                "Doctor."
+            ],
+            "challenges": [
+                "Portuguese secret police (PIDE).",
+                "Civil war (UNITA, FNLA).",
+                "Cold War politics.",
+                "Cancer."
+            ],
+            "legacy": "Neto is the liberator. His birthday is National Heroes' Day.",
+            "quotes": [
+                "The struggle continues, victory is certain."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Liberator.",
+            "culturalImpact": "His mausoleum dominates the Luanda skyline.",
+            "primarySources": [
+                "Sacred Hope (Poems).",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His authoritarian tendencies are sometimes criticized."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Jonas Savimbi",
+            "nativeName": "Jonas Malheiro Savimbi",
+            "lifespan": "1934-2002",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Rebel Leader",
+            "background": "Jonas Savimbi was the founder and leader of UNITA. He fought against the Portuguese and then against the MPLA government in a brutal civil war.",
+            "keyDecisions": [
+                "Founding UNITA.",
+                "Allying with Apartheid South Africa and the US.",
+                "Refusing to accept the 1992 election results.",
+                "Returning to war."
+            ],
+            "achievements": [
+                "Charismatic leader.",
+                "Guerrilla tactician.",
+                "Controlled large parts of Angola.",
+                "Anti-communist icon (in the West)."
+            ],
+            "challenges": [
+                "International sanctions.",
+                "Loss of US support after Cold War.",
+                "Being labeled a war criminal.",
+                "Death in combat."
+            ],
+            "legacy": "Savimbi is a polarizing figure. To some a freedom fighter, to others a warmonger who destroyed the country.",
+            "quotes": [
+                "To win is to resist."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Warlord.",
+            "culturalImpact": "His death marked the end of the civil war.",
+            "primarySources": [
+                "Interviews.",
+                "UNITA manifestos."
+            ],
+            "modernInterpretations": [
+                "Viewed as a tragic figure of ambition.",
+                "His role in prolonging the war is condemned."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "José Eduardo dos Santos",
+            "nativeName": "José Eduardo dos Santos",
+            "lifespan": "1942-2022",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Dos Santos was the President of Angola for 38 years (1979-2017). He oversaw the end of the civil war and the oil boom.",
+            "keyDecisions": [
+                "Taking power after Neto's death.",
+                "Transitioning from Marxism to capitalism.",
+                "Ending the civil war (2002).",
+                "Rebuilding infrastructure with Chinese loans."
+            ],
+            "achievements": [
+                "Architect of Peace.",
+                "Rebuilt the country.",
+                "Made Angola an oil power.",
+                "Political survivor."
+            ],
+            "challenges": [
+                "Civil war.",
+                "Corruption allegations.",
+                "Poverty despite oil wealth.",
+                "Succession."
+            ],
+            "legacy": "Dos Santos brought peace but is criticized for corruption and nepotism.",
+            "quotes": [
+                "Peace is the greatest good."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Peacemaker.",
+            "culturalImpact": "His legacy is currently being reassessed.",
+            "primarySources": [
+                "Speeches.",
+                "Decrees."
+            ],
+            "modernInterpretations": [
+                "Credited with peace.",
+                "Blamed for inequality."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Holden Roberto",
+            "nativeName": "Holden Álvaro Roberto",
+            "lifespan": "1923-2007",
+            "era": "Modern Period (20th Century)",
+            "role": "Nationalist Leader",
+            "background": "Holden Roberto was the leader of the FNLA. He was a key figure in the struggle for independence, initially supported by the CIA.",
+            "keyDecisions": [
+                "Founding the UPA (later FNLA).",
+                "Launching the armed struggle in 1961.",
+                "Allying with Mobutu Sese Seko.",
+                "Losing the Battle of Quifangondo."
+            ],
+            "achievements": [
+                "Father of Angolan Nationalism (one of them).",
+                "Started the war of independence.",
+                "Diplomat.",
+                "Anti-communist."
+            ],
+            "challenges": [
+                "Rivalry with MPLA and UNITA.",
+                "Military defeats.",
+                "Exile.",
+                "Irrelevance in later years."
+            ],
+            "legacy": "Roberto is the forgotten father. His movement lost the power struggle.",
+            "quotes": [
+                "Freedom now."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Nationalist.",
+            "culturalImpact": "He represents the Bakongo nationalism.",
+            "primarySources": [
+                "FNLA documents.",
+                "CIA files."
+            ],
+            "modernInterpretations": [
+                "Respected as a pioneer.",
+                "His military failures are noted."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Leila Lopes",
+            "nativeName": "Leila Luliana da Costa Vieira Lopes",
+            "lifespan": "1986-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Model",
+            "background": "Leila Lopes is an Angolan beauty queen who was crowned Miss Universe 2011. She was the first Angolan to win the title.",
+            "keyDecisions": [
+                "Entering Miss Angola UK.",
+                "Winning Miss Universe in Brazil.",
+                "Using her platform for HIV/AIDS awareness.",
+                "Defending her natural beauty."
+            ],
+            "achievements": [
+                "Miss Universe 2011.",
+                "Global ambassador for Angola.",
+                "Philanthropist.",
+                "Role model."
+            ],
+            "challenges": [
+                "Racism.",
+                "Scrutiny of her documents.",
+                "Pressure.",
+                "Representing a developing nation."
+            ],
+            "legacy": "Leila put Angola on the map for beauty. She inspired millions of African girls.",
+            "quotes": [
+                "Thank God I'm very satisfied with the way God created me."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Queen.",
+            "culturalImpact": "She is a national pride.",
+            "primarySources": [
+                "Pageant footage.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a symbol of Angolan grace.",
+                "Her win was a moment of unity."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Bonga",
+            "nativeName": "Barceló de Carvalho (Bonga)",
+            "lifespan": "1942-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Bonga is a singer and songwriter. He is the master of Semba music and was a track athlete for Benfica before fleeing the Portuguese dictatorship.",
+            "keyDecisions": [
+                "Using music to protest colonial rule.",
+                "Fleeing to Rotterdam.",
+                "Recording 'Angola 72'.",
+                "Popularizing Semba globally."
+            ],
+            "achievements": [
+                "King of Semba.",
+                "Sold millions of albums.",
+                "Voice of the diaspora.",
+                "Athlete (400m record holder)."
+            ],
+            "challenges": [
+                "Exile.",
+                "Censorship.",
+                "Racism.",
+                "Maintaining relevance."
+            ],
+            "legacy": "Bonga is the voice of Angola. His raspy voice is the sound of 'Saudade'.",
+            "quotes": [
+                "Mariquinha."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Musician.",
+            "culturalImpact": "He is a legend in the Lusophone world.",
+            "primarySources": [
+                "Angola 72.",
+                "Kaxexe."
+            ],
+            "modernInterpretations": [
+                "Revered as a cultural icon.",
+                "His music is the soundtrack of independence."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Pepetela",
+            "nativeName": "Artur Carlos Maurício Pestana dos Santos (Pepetela)",
+            "lifespan": "1941-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Pepetela is a novelist and former guerrilla fighter. He won the Camões Prize and writes about Angola's history and society.",
+            "keyDecisions": [
+                "Joining the MPLA guerrillas.",
+                "Writing 'Mayombe' in the bush.",
+                "Serving as Deputy Minister of Education.",
+                "Critiquing the post-war corruption."
+            ],
+            "achievements": [
+                "Camões Prize winner.",
+                "Chronicler of the nation.",
+                "Sociologist.",
+                "Freedom fighter."
+            ],
+            "challenges": [
+                "War.",
+                "Disillusionment with the revolution.",
+                "Censorship (self or state).",
+                "Writing in Portuguese."
+            ],
+            "legacy": "Pepetela is the conscience of Angola. His books explain the country's soul.",
+            "quotes": [
+                "The guerrilla is like a poet."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary Giant.",
+            "culturalImpact": "His books are taught in schools.",
+            "primarySources": [
+                "Mayombe.",
+                "Yaka."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master storyteller.",
+                "His critique of the elite is brave."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Waldemar Bastos",
+            "nativeName": "Waldemar Bastos",
+            "lifespan": "1954-2020",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Waldemar Bastos was a singer known for his soulful Afropop and Fado influences. He called his music 'reflections of my life'.",
+            "keyDecisions": [
+                "Leaving Angola during the civil war.",
+                "Recording 'Pretaluz'.",
+                "Collaborating with David Byrne.",
+                "Singing for peace."
+            ],
+            "achievements": [
+                "World Music Award winner.",
+                "Global ambassador of Angolan music.",
+                "Voice of peace.",
+                "Composer."
+            ],
+            "challenges": [
+                "Exile.",
+                "Loss of his son.",
+                "The pain of war.",
+                "Cancer."
+            ],
+            "legacy": "Waldemar sang the pain and hope of Angola. 'Velha Chica' is a classic.",
+            "quotes": [
+                "My music is about fraternity."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Soul Singer.",
+            "culturalImpact": "He is loved for his emotional depth.",
+            "primarySources": [
+                "Pretaluz.",
+                "Classics of my Soul."
+            ],
+            "modernInterpretations": [
+                "Revered as a musical genius.",
+                "His death was a national loss."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Hoji-ya-Henda",
+            "nativeName": "José Mendes de Carvalho (Hoji-ya-Henda)",
+            "lifespan": "1941-1968",
+            "era": "Modern Period (20th Century)",
+            "role": "Guerrilla Commander",
+            "background": "Hoji-ya-Henda was a legendary MPLA commander. He was killed in action at age 26 and became a symbol of youth sacrifice.",
+            "keyDecisions": [
+                "Joining the armed struggle.",
+                "Leading the Eastern Front.",
+                "Dying in the attack on Karipande.",
+                "Inspiring the youth."
+            ],
+            "achievements": [
+                "Beloved commander.",
+                "Symbol of the pioneer movement.",
+                "Martyr.",
+                "Strategist."
+            ],
+            "challenges": [
+                "Lack of weapons.",
+                "Harsh terrain.",
+                "Portuguese air superiority.",
+                "Early death."
+            ],
+            "legacy": "Hoji-ya-Henda is the Che Guevara of Angola. The youth organization (OMA) reveres him.",
+            "quotes": [
+                "Victory or Death."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "April 14 is Angolan Youth Day in his honor.",
+            "primarySources": [
+                "MPLA archives.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a pure hero.",
+                "His innocence is contrasted with later corruption."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Ana Paula Ribeiro Tavares",
+            "nativeName": "Ana Paula Ribeiro Tavares",
+            "lifespan": "1952-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Poet, Historian",
+            "background": "Ana Paula Tavares is a poet and historian. Her work focuses on women, tradition, and the Angolan landscape.",
+            "keyDecisions": [
+                "Studying history in Lisbon.",
+                "Writing poetry about the female experience.",
+                "Researching the Lunda Cokwe culture.",
+                "Teaching."
+            ],
+            "achievements": [
+                "Acclaimed poet.",
+                "Preserver of oral traditions.",
+                "Academic.",
+                "Feminist voice."
+            ],
+            "challenges": [
+                "Post-colonial identity.",
+                "Balancing academia and art.",
+                "Living in the diaspora.",
+                "Preserving memory."
+            ],
+            "legacy": "Ana Paula Tavares is a guardian of memory. Her poetry is sensual and historical.",
+            "quotes": [
+                "The head of Salomé."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Historian Poet.",
+            "culturalImpact": "She bridges the gap between history and literature.",
+            "primarySources": [
+                "Rites of Passage.",
+                "Ex-Votos."
+            ],
+            "modernInterpretations": [
+                "Revered as a major literary voice.",
+                "Her work is scholarly yet accessible."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Kimpa Vita",
+            "nativeName": "Dona Beatriz Kimpa Vita",
+            "lifespan": "1684-1706",
+            "era": "Early Modern Period (18th Century)",
+            "role": "Prophetess",
+            "background": "Kimpa Vita was a Kongo Empire prophetess who founded the Antonian movement. She claimed to be possessed by Saint Anthony and sought to restore the kingdom.",
+            "keyDecisions": [
+                "Preaching that Jesus was Kongolese.",
+                "Occupying the ruined capital Mbanza Kongo.",
+                "Opposing the Catholic missionaries.",
+                "Being burned at the stake as a heretic."
+            ],
+            "achievements": [
+                "African Joan of Arc.",
+                "Founder of Antonianism.",
+                "Symbol of religious independence.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Civil war in Kongo.",
+                "Capuchin monks.",
+                "King Pedro IV.",
+                "Execution."
+            ],
+            "legacy": "Kimpa Vita is a precursor to African independent churches. She is a nationalist icon.",
+            "quotes": [
+                "Saint Anthony is the restorer of the Kingdom."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Prophetess.",
+            "culturalImpact": "She is a symbol of resistance to cultural colonization.",
+            "primarySources": [
+                "Capuchin reports.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a revolutionary.",
+                "Her syncretism is studied."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Pedro de Mantorras",
+            "nativeName": "Pedro Manuel Torres (Mantorras)",
+            "lifespan": "1982-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Mantorras is a former footballer who played for Benfica and the Angolan national team. He was a key player in Angola's first World Cup qualification.",
+            "keyDecisions": [
+                "Moving to Portugal to play.",
+                "Joining Benfica.",
+                "Playing despite severe knee injuries.",
+                "Helping Angola qualify for 2006 World Cup."
+            ],
+            "achievements": [
+                "Benfica legend.",
+                "World Cup 2006 participant.",
+                "Idol of the masses.",
+                "Philanthropist."
+            ],
+            "challenges": [
+                "Chronic knee problems (early retirement).",
+                "Poverty in childhood.",
+                "Pressure.",
+                "Racism in Europe."
+            ],
+            "legacy": "Mantorras is the people's champion. His story is a rags-to-riches fairytale.",
+            "quotes": [
+                "Let Mantorras play."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Football Idol.",
+            "culturalImpact": "He is adored by Benfica and Angola fans.",
+            "primarySources": [
+                "Match records.",
+                "Biography."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "His injury is a tragedy."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Viriato da Cruz",
+            "nativeName": "Viriato Clemente da Cruz",
+            "lifespan": "1928-1973",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet, Politician",
+            "background": "Viriato da Cruz was a poet and one of the founders of the MPLA. He is considered the father of Angolan poetry in Portuguese.",
+            "keyDecisions": [
+                "Founding the 'Vamos Descobrir Angola' movement.",
+                "Writing 'Namoro'.",
+                "Breaking with Neto and the MPLA leadership.",
+                "Dying in exile in Beijing."
+            ],
+            "achievements": [
+                "Father of Angolan literature.",
+                "MPLA founder.",
+                "Intellectual.",
+                "Nationalist."
+            ],
+            "challenges": [
+                "Internal party conflict.",
+                "Exile.",
+                "Poverty in China.",
+                "Obscurity (until recently)."
+            ],
+            "legacy": "Viriato is the tragic intellectual of the revolution. His poems are classics.",
+            "quotes": [
+                "Make way for the young."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Intellectual.",
+            "culturalImpact": "His remains were finally returned to Angola.",
+            "primarySources": [
+                "Poems.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Rehabilitated as a hero.",
+                "His conflict with Neto is a lesson in politics."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Óscar Ribas",
+            "nativeName": "Óscar Bento Ribas",
+            "lifespan": "1909-2004",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Ethnographer",
+            "background": "Óscar Ribas was a writer and ethnographer who documented Angolan folklore and traditions. He was blind for most of his life.",
+            "keyDecisions": [
+                "Dedicating his life to studying Kimbundu culture.",
+                "Writing 'Uanga'.",
+                "Dictating his works after going blind.",
+                "Preserving oral history."
+            ],
+            "achievements": [
+                "Preserved Angolan folklore.",
+                "Prolific writer.",
+                "Cultural historian.",
+                "Blind scholar."
+            ],
+            "challenges": [
+                "Blindness.",
+                "Colonial indifference.",
+                "Lack of resources.",
+                "Old age."
+            ],
+            "legacy": "Ribas is the memory of Luanda. His work saved traditions from disappearing.",
+            "quotes": [
+                "Tradition is the soul."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Ethnographer.",
+            "culturalImpact": "His dictionary of regionalisms is essential.",
+            "primarySources": [
+                "Uanga.",
+                "Missosso."
+            ],
+            "modernInterpretations": [
+                "Revered as a wise elder.",
+                "His perseverance is inspiring."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Liceu Vieira Dias",
+            "nativeName": "Carlos Aniceto Vieira Dias (Liceu)",
+            "lifespan": "1919-1994",
+            "era": "Modern Period (20th Century)",
+            "role": "Musician",
+            "background": "Liceu Vieira Dias was a musician and founder of the group Ngola Ritmos. He is the father of modern Angolan popular music.",
+            "keyDecisions": [
+                "Founding Ngola Ritmos.",
+                "Singing in Kimbundu (an act of resistance).",
+                "Being imprisoned at Tarrafal.",
+                "Creating the 'Semba' style."
+            ],
+            "achievements": [
+                "Father of Angolan Pop.",
+                "Nationalist.",
+                "Cultural revolutionary.",
+                "Mentor."
+            ],
+            "challenges": [
+                "Imprisonment.",
+                "Censorship.",
+                "Colonial repression.",
+                "Health."
+            ],
+            "legacy": "Liceu created the sound of Angola. He proved that culture is a weapon.",
+            "quotes": [
+                "Muxima."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Music Pioneer.",
+            "culturalImpact": "Ngola Ritmos is legendary.",
+            "primarySources": [
+                "Songs.",
+                "Recordings."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His influence is heard in every Angolan song."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Amélia Veiga",
+            "nativeName": "Amélia Maria Ramos Veiga",
+            "lifespan": "1931-",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Poet",
+            "background": "Amélia Veiga is a Portuguese-born Angolan poet. She was a pioneer of women's poetry in Angola and a strong voice against colonialism.",
+            "keyDecisions": [
+                "Moving to Angola.",
+                "Adopting Angolan citizenship.",
+                "Writing 'Poemas'.",
+                "Teaching."
+            ],
+            "achievements": [
+                "Pioneer of female poetry.",
+                "Cultural activist.",
+                "Teacher.",
+                "Voice of the oppressed."
+            ],
+            "challenges": [
+                "Being a white woman in the nationalist movement.",
+                "Censorship.",
+                "Exile.",
+                "Recognition."
+            ],
+            "legacy": "Amélia Veiga showed that being Angolan is a state of heart. Her poetry is tender and strong.",
+            "quotes": [
+                "Angola is my mother."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poetess.",
+            "culturalImpact": "She is a bridge between cultures.",
+            "primarySources": [
+                "Poems.",
+                "Anthologies."
+            ],
+            "modernInterpretations": [
+                "Respected as a literary figure.",
+                "Her contribution is acknowledged."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Ruy Mingas",
+            "nativeName": "Ruy Alberto Vieira Dias Mingas",
+            "lifespan": "1939-2024",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician, Politician",
+            "background": "Ruy Mingas was a singer, athlete, and politician. He composed the music for the Angolan national anthem.",
+            "keyDecisions": [
+                "Composing 'Angola Avante' (National Anthem).",
+                "Setting poems to music.",
+                "Serving as Minister of Sports.",
+                "Promoting Angolan culture."
+            ],
+            "achievements": [
+                "Composer of the Anthem.",
+                "Diplomat.",
+                "Cultural icon.",
+                "Athlete."
+            ],
+            "challenges": [
+                "Political transition.",
+                "Balancing art and politics.",
+                "Health.",
+                "Legacy."
+            ],
+            "legacy": "Ruy Mingas gave Angola its voice. His songs are the nation's identity.",
+            "quotes": [
+                "Forward, Angola!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Composer.",
+            "culturalImpact": "He is heard at every official ceremony.",
+            "primarySources": [
+                "National Anthem.",
+                "Songs."
+            ],
+            "modernInterpretations": [
+                "Revered as a national treasure.",
+                "His death was a moment of national mourning."
+            ]
+        }
+    ]
+}

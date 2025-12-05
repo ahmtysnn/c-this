@@ -1,0 +1,761 @@
+{
+    "country": "Iraq",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Hammurabi",
+            "nativeName": "Hammurabi",
+            "lifespan": "c. 1810-1750 BCE",
+            "era": "Ancient Period (18th Century BCE)",
+            "role": "King",
+            "background": "Hammurabi was the sixth king of the First Babylonian Dynasty. He conquered Mesopotamia and is best known for issuing the Code of Hammurabi, one of the earliest legal codes.",
+            "keyDecisions": [
+                "Unifying Mesopotamia under Babylon.",
+                "Issuing the Code of Hammurabi.",
+                "Building canals and temples.",
+                "Promoting Marduk as the supreme god."
+            ],
+            "achievements": [
+                "Created the Babylonian Empire.",
+                "The Code of Hammurabi ('Eye for an eye').",
+                "Golden Age of Babylon.",
+                "Lawgiver."
+            ],
+            "challenges": [
+                "Elamite invasions.",
+                "Managing a diverse empire.",
+                "Flood control.",
+                "Rebellions."
+            ],
+            "legacy": "Hammurabi is the father of law. His code influenced legal systems for millennia.",
+            "quotes": [
+                "To bring about the rule of righteousness in the land."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Lawgiver.",
+            "culturalImpact": "His stele is in the Louvre. He is a symbol of justice.",
+            "primarySources": [
+                "Code of Hammurabi.",
+                "Royal letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a wise ruler.",
+                "His laws are seen as harsh but fair for the time."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Saddam Hussein",
+            "nativeName": "Saddam Hussein Abd al-Majid al-Tikriti",
+            "lifespan": "1937-2006",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Dictator",
+            "background": "Saddam Hussein was the President of Iraq from 1979 to 2003. A leading member of the Ba'ath Party, he ruled with an iron fist, leading Iraq into wars with Iran and Kuwait.",
+            "keyDecisions": [
+                "Nationalizing the oil industry.",
+                "Invading Iran (1980).",
+                "Invading Kuwait (1990).",
+                "Using chemical weapons against Kurds (Halabja)."
+            ],
+            "achievements": [
+                "Modernized Iraq's infrastructure (initially).",
+                "Built a strong military.",
+                "Secularized the state.",
+                "Controlled the country for 24 years."
+            ],
+            "challenges": [
+                "Iran-Iraq War (stalemate).",
+                "Gulf War (defeat).",
+                "Sanctions.",
+                "US invasion (2003)."
+            ],
+            "legacy": "Saddam is a polarizing figure. To some, a hero of Arab nationalism; to most, a brutal tyrant.",
+            "quotes": [
+                "Iraq is a great nation."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dictator.",
+            "culturalImpact": "His fall marked the end of an era. His execution was a global event.",
+            "primarySources": [
+                "Speeches.",
+                "Trial transcripts."
+            ],
+            "modernInterpretations": [
+                "Reviled for his crimes.",
+                "Some look back with nostalgia due to current chaos."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Saladin",
+            "nativeName": "An-Nasir Salah ad-Din Yusuf ibn Ayyub",
+            "lifespan": "1137-1193",
+            "era": "Medieval Period (12th Century)",
+            "role": "Sultan",
+            "background": "Saladin was a Kurdish Muslim sultan who founded the Ayyubid dynasty. He recaptured Jerusalem from the Crusaders in 1187 and is renowned for his chivalry.",
+            "keyDecisions": [
+                "Unifying the Muslim world (Egypt and Syria).",
+                "Recapturing Jerusalem.",
+                "Treating captives with mercy.",
+                "Making peace with Richard the Lionheart."
+            ],
+            "achievements": [
+                "Liberator of Jerusalem.",
+                "Sultan of Egypt and Syria.",
+                "Defeated the Crusaders.",
+                "Symbol of chivalry."
+            ],
+            "challenges": [
+                "The Third Crusade.",
+                "Assassins (Hashishin).",
+                "Internal rivals.",
+                "Health issues."
+            ],
+            "legacy": "Saladin is the ultimate hero of the Islamic world. Even his enemies admired him.",
+            "quotes": [
+                "I warn you against shedding blood."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Chivalrous Sultan.",
+            "culturalImpact": "He is a symbol of Muslim unity and honor. Born in Tikrit.",
+            "primarySources": [
+                "Baha ad-Din ibn Shaddad (Biographer).",
+                "Crusader chronicles."
+            ],
+            "modernInterpretations": [
+                "Revered as a saintly warrior.",
+                "His example is cited in peace and war."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Nebuchadnezzar II",
+            "nativeName": "Nabu-kudurri-usur II",
+            "lifespan": "c. 642-562 BCE",
+            "era": "Ancient Period (6th Century BCE)",
+            "role": "King",
+            "background": "Nebuchadnezzar II was the greatest king of the Neo-Babylonian Empire. He built the Hanging Gardens of Babylon and destroyed the First Temple in Jerusalem.",
+            "keyDecisions": [
+                "Rebuilding Babylon.",
+                "Constructing the Ishtar Gate.",
+                "Conquering Judah and Jerusalem.",
+                "Building the Hanging Gardens (allegedly)."
+            ],
+            "achievements": [
+                "Built the wonders of Babylon.",
+                "Created a superpower.",
+                "Biblical figure.",
+                "Great Builder."
+            ],
+            "challenges": [
+                "Egyptian interference.",
+                "Rebellions in the Levant.",
+                "Madness (according to the Bible).",
+                "Succession."
+            ],
+            "legacy": "Nebuchadnezzar is the archetype of the powerful king. Babylon became the center of the world under him.",
+            "quotes": [
+                "Is this not Babylon the Great?"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Builder King.",
+            "culturalImpact": "He is a major figure in the Bible and history. Saddam Hussein compared himself to him.",
+            "primarySources": [
+                "Babylonian Chronicles.",
+                "The Bible (Daniel)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a great builder.",
+                "Vilified in Jewish tradition."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Zaha Hadid",
+            "nativeName": "Zaha Mohammad Hadid",
+            "lifespan": "1950-2016",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Architect",
+            "background": "Zaha Hadid was an Iraqi-British architect. She was the first woman to receive the Pritzker Architecture Prize. Her futuristic designs earned her the nickname 'Queen of the Curve'.",
+            "keyDecisions": [
+                "Studying at the AA in London.",
+                "Founding Zaha Hadid Architects.",
+                "Breaking the glass ceiling in architecture.",
+                "Designing the London Aquatics Centre."
+            ],
+            "achievements": [
+                "Pritzker Prize winner.",
+                "Dame Commander of the British Empire.",
+                "Revolutionized architecture.",
+                "Global icon."
+            ],
+            "challenges": [
+                "Sexism in the industry.",
+                "Her designs being called 'unbuildable'.",
+                "Cardiff Bay Opera House rejection.",
+                "Early death."
+            ],
+            "legacy": "Zaha Hadid changed the skyline of the world. She proved that impossible shapes could be built.",
+            "quotes": [
+                "There are 360 degrees, so why stick to one?"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Queen of the Curve.",
+            "culturalImpact": "Her buildings are landmarks. She is a role model for women.",
+            "primarySources": [
+                "Architectural plans.",
+                "Buildings (Heydar Aliyev Center)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "Her work is timeless."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Gilgamesh",
+            "nativeName": "Gilgamesh",
+            "lifespan": "c. 2700 BCE",
+            "era": "Ancient Period (27th Century BCE)",
+            "role": "King, Mythical Hero",
+            "background": "Gilgamesh was the semi-mythical King of Uruk. He is the protagonist of the Epic of Gilgamesh, the oldest surviving great work of literature.",
+            "keyDecisions": [
+                "Building the walls of Uruk.",
+                "Going on a quest for immortality.",
+                "Fighting Humbaba.",
+                "Befriending Enkidu."
+            ],
+            "achievements": [
+                "Built Uruk.",
+                "Subject of the first epic.",
+                "Sought the meaning of life.",
+                "King of Heroes."
+            ],
+            "challenges": [
+                "The death of Enkidu.",
+                "The wrath of Ishtar.",
+                "The Great Flood (Utnapishtim).",
+                "Mortality."
+            ],
+            "legacy": "Gilgamesh is the first hero. His story explores the human condition.",
+            "quotes": [
+                "He who has seen everything."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The First Hero.",
+            "culturalImpact": "The Epic of Gilgamesh is the foundation of literature.",
+            "primarySources": [
+                "Clay tablets (Epic of Gilgamesh).",
+                "Sumerian King List."
+            ],
+            "modernInterpretations": [
+                "Viewed as a metaphor for the human search for meaning.",
+                "Historical existence is probable."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Al-Mutanabbi",
+            "nativeName": "Abu at-Tayyib Ahmad ibn al-Husayn al-Mutanabbi",
+            "lifespan": "915-965",
+            "era": "Medieval Period (10th Century)",
+            "role": "Poet",
+            "background": "Al-Mutanabbi is considered the greatest poet of the Arabic language. Born in Kufa, his poetry is known for its wisdom, pride, and mastery of the language.",
+            "keyDecisions": [
+                "Claiming to be a prophet (briefly).",
+                "Serving the Hamdanid court in Aleppo.",
+                "Traveling to Egypt and Persia.",
+                "Dying defending his poetry."
+            ],
+            "achievements": [
+                "Greatest Arab Poet.",
+                "Wrote 326 poems.",
+                "Master of panegyric and satire.",
+                "Philosopher-poet."
+            ],
+            "challenges": [
+                "Arrogance (which made enemies).",
+                "Constant travel.",
+                "Political intrigues.",
+                "Ambush by bandits."
+            ],
+            "legacy": "Al-Mutanabbi is the Shakespeare of the Arabs. His verses are proverbs today.",
+            "quotes": [
+                "The horses, the night, and the desert know me."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Poet of Poets.",
+            "culturalImpact": "Al-Mutanabbi Street in Baghdad is the center of book selling.",
+            "primarySources": [
+                "Diwan (Collection of poems).",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His pride is legendary."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Faisal I",
+            "nativeName": "Faisal bin Hussein",
+            "lifespan": "1883-1933",
+            "era": "Modern Period (20th Century)",
+            "role": "King",
+            "background": "Faisal I was the first King of Iraq. A leader of the Arab Revolt during WWI (with Lawrence of Arabia), he tried to build a unified Arab state but was installed by the British in Iraq.",
+            "keyDecisions": [
+                "Leading the Arab Revolt.",
+                "Ruling Syria (briefly).",
+                "Accepting the throne of Iraq.",
+                "Balancing British interests and Arab nationalism."
+            ],
+            "achievements": [
+                "Founder of the Kingdom of Iraq.",
+                "Arab nationalist leader.",
+                "Statesman.",
+                "Modernizer."
+            ],
+            "challenges": [
+                "British mandate.",
+                "Tribal rebellions.",
+                "Religious divisions (Sunni/Shia).",
+                "Early death."
+            ],
+            "legacy": "Faisal is the father of modern Iraq. He famously said, 'There is no Iraqi people yet'.",
+            "quotes": [
+                "I have a heart full of sadness."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First King.",
+            "culturalImpact": "He is a tragic figure of the post-WWI era.",
+            "primarySources": [
+                "Letters.",
+                "British archives."
+            ],
+            "modernInterpretations": [
+                "Respected for his wisdom.",
+                "His task was impossible."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Ashurbanipal",
+            "nativeName": "Ashurbanipal",
+            "lifespan": "668-627 BCE",
+            "era": "Ancient Period (7th Century BCE)",
+            "role": "King",
+            "background": "Ashurbanipal was the last great King of the Neo-Assyrian Empire. He is famous for his library at Nineveh, which preserved the Epic of Gilgamesh.",
+            "keyDecisions": [
+                "Collecting all the world's knowledge.",
+                "Building the Library of Nineveh.",
+                "Crushing the Elamites.",
+                "Hunting lions."
+            ],
+            "achievements": [
+                "Created the first systematic library.",
+                "Ruled the largest empire of his time.",
+                "Scholar-King.",
+                "Patron of arts."
+            ],
+            "challenges": [
+                "Civil war with his brother.",
+                "Rebellions in Babylon and Egypt.",
+                "Overextension of the empire.",
+                "The fall of Assyria shortly after his death."
+            ],
+            "legacy": "Ashurbanipal gave us the history of Mesopotamia. His library is the key to understanding the ancient world.",
+            "quotes": [
+                "I, Ashurbanipal, learned the wisdom of Nabu."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scholar King.",
+            "culturalImpact": "The British Museum holds his library. He is the symbol of Assyrian power.",
+            "primarySources": [
+                "Library of Ashurbanipal.",
+                "Reliefs."
+            ],
+            "modernInterpretations": [
+                "Celebrated as an intellectual.",
+                "His cruelty in war is also noted."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Nuri al-Said",
+            "nativeName": "Nuri Pasha al-Said",
+            "lifespan": "1888-1958",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister",
+            "background": "Nuri al-Said was a dominant figure in Iraqi politics under the monarchy, serving as Prime Minister 14 times. He was pro-British and was brutally killed in the 1958 revolution.",
+            "keyDecisions": [
+                "Aligning Iraq with Britain (Baghdad Pact).",
+                "Modernizing the economy.",
+                "Suppressing opposition.",
+                "Trying to unite with Jordan."
+            ],
+            "achievements": [
+                "Built the modern Iraqi state structure.",
+                "Longest-serving PM.",
+                "Statesman.",
+                "Survivor (until the end)."
+            ],
+            "challenges": [
+                "Arab nationalism (Nasserism).",
+                "Anti-British sentiment.",
+                "The 1958 coup.",
+                "Mob violence."
+            ],
+            "legacy": "Nuri al-Said represents the old order. His death marked the end of the monarchy and the start of the republic.",
+            "quotes": [
+                "The house of the master."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Pasha.",
+            "culturalImpact": "He is a controversial figure, seen as a traitor by nationalists but a pragmatist by historians.",
+            "primarySources": [
+                "Memoirs.",
+                "British records."
+            ],
+            "modernInterpretations": [
+                "Viewed as a competent but out-of-touch leader.",
+                "His brutal death is a warning."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Al-Kindi",
+            "nativeName": "Abu Yusuf Ya'qub ibn Ishaq as-Sabbah al-Kindi",
+            "lifespan": "801-873",
+            "era": "Medieval Period (9th Century)",
+            "role": "Philosopher, Scientist",
+            "background": "Al-Kindi was the first of the Islamic Peripatetic philosophers and is known as the 'Father of Arab Philosophy'. He worked in the House of Wisdom in Baghdad.",
+            "keyDecisions": [
+                "Translating Greek philosophy into Arabic.",
+                "Synthesizing Aristotle with Islamic theology.",
+                "Introducing Indian numerals to the Arab world.",
+                "Writing on cryptography."
+            ],
+            "achievements": [
+                "Father of Arab Philosophy.",
+                "Polymath (medicine, math, music).",
+                "Pioneer of cryptography.",
+                "Preserved Greek knowledge."
+            ],
+            "challenges": [
+                "Opposition from orthodox theologians.",
+                "Persecution under Caliph al-Mutawakkil.",
+                "Loss of his library.",
+                "Old age."
+            ],
+            "legacy": "Al-Kindi started the Golden Age of Islamic philosophy. He proved that faith and reason could coexist.",
+            "quotes": [
+                "We ought not to be ashamed of appreciating the truth."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Philosopher.",
+            "culturalImpact": "He laid the groundwork for Avicenna and Averroes.",
+            "primarySources": [
+                "On First Philosophy.",
+                "Manuscripts."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His work on code-breaking is still relevant."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Sargon of Akkad",
+            "nativeName": "Sargon",
+            "lifespan": "c. 2334-2279 BCE",
+            "era": "Ancient Period (24th Century BCE)",
+            "role": "Emperor",
+            "background": "Sargon of Akkad was the first ruler of the Akkadian Empire, known for his conquests of the Sumerian city-states. He created the world's first empire.",
+            "keyDecisions": [
+                "Conquering Sumer.",
+                "Standardizing weights and measures.",
+                "Creating a standing army.",
+                "Installing his daughter Enheduanna as High Priestess."
+            ],
+            "achievements": [
+                "First Emperor in history.",
+                "Unified Mesopotamia.",
+                "Legendary birth story (basket in the river).",
+                "Military genius."
+            ],
+            "challenges": [
+                "Rebellions.",
+                "Managing a multi-ethnic empire.",
+                "Famine.",
+                "Succession."
+            ],
+            "legacy": "Sargon is the model for all future emperors. He set the standard for kingship.",
+            "quotes": [
+                "I am Sargon, the great king."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The First Emperor.",
+            "culturalImpact": "His legend influenced the story of Moses.",
+            "primarySources": [
+                "Legend of Sargon.",
+                "Victory stelae."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a great conqueror.",
+                "The father of imperialism."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Enheduanna",
+            "nativeName": "Enheduanna",
+            "lifespan": "c. 2285-2250 BCE",
+            "era": "Ancient Period (23rd Century BCE)",
+            "role": "Priestess, Poet",
+            "background": "Enheduanna was the High Priestess of the moon god Nanna in Ur and the daughter of Sargon of Akkad. She is the first known author in history.",
+            "keyDecisions": [
+                "Writing temple hymns.",
+                "Unifying Sumerian and Akkadian theology.",
+                "Surviving a coup attempt.",
+                "Asserting her authority."
+            ],
+            "achievements": [
+                "First named author in history.",
+                "High Priestess.",
+                "Wrote the 'Exaltation of Inanna'.",
+                "Political power."
+            ],
+            "challenges": [
+                "Exile during a rebellion.",
+                "Being a woman in power.",
+                "Religious conflict.",
+                "Restoring her position."
+            ],
+            "legacy": "Enheduanna is the mother of literature. She proved that women held high office in ancient Iraq.",
+            "quotes": [
+                "My king, something has been created that no one has created before."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Author.",
+            "culturalImpact": "She is a feminist icon. Her hymns were used for centuries.",
+            "primarySources": [
+                "The Exaltation of Inanna.",
+                "Temple Hymns."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a literary genius.",
+                "Her existence is proven by archaeology."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Abd al-Karim Qasim",
+            "nativeName": "Abd al-Karim Qasim",
+            "lifespan": "1914-1963",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister",
+            "background": "Abd al-Karim Qasim was a brigadier general who led the 1958 revolution that overthrew the Iraqi monarchy. He became the first Prime Minister of the Republic.",
+            "keyDecisions": [
+                "Overthrowing the monarchy.",
+                "Withdrawing from the Baghdad Pact.",
+                "Promoting land reform.",
+                "Advocating for 'Iraq first' (opposing Nasser)."
+            ],
+            "achievements": [
+                "Founder of the Republic.",
+                "Champion of the poor.",
+                "Social reforms.",
+                "Women's rights (Personal Status Law)."
+            ],
+            "challenges": [
+                "Ba'athist opposition.",
+                "Assassination attempt (by Saddam Hussein).",
+                "Kurdish revolt.",
+                "Execution by firing squad."
+            ],
+            "legacy": "Qasim is remembered as 'The Sole Leader'. He is popular among the poor but hated by pan-Arabists.",
+            "quotes": [
+                "I am the son of the people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sole Leader.",
+            "culturalImpact": "His image is often displayed in Baghdad taxis.",
+            "primarySources": [
+                "Speeches.",
+                "Laws."
+            ],
+            "modernInterpretations": [
+                "Revered as a patriot.",
+                "His execution was televised, shocking the nation."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Jalal Talabani",
+            "nativeName": "Jalal Talabani (Mam Jalal)",
+            "lifespan": "1933-2017",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Jalal Talabani was a Kurdish leader and the President of Iraq from 2005 to 2014. He was the first non-Arab president of an Arab state.",
+            "keyDecisions": [
+                "Founding the PUK.",
+                "Fighting against Saddam Hussein.",
+                "Accepting the presidency of a unified Iraq.",
+                "Mediating between factions."
+            ],
+            "achievements": [
+                "First Kurdish President.",
+                "Peacemaker.",
+                "Wrote the new constitution.",
+                "Uncle Jalal (Mam Jalal)."
+            ],
+            "challenges": [
+                "Civil war.",
+                "Sectarian violence.",
+                "Health issues (stroke).",
+                "Kurdish independence vs. Iraqi unity."
+            ],
+            "legacy": "Talabani is the father of the new Iraq. He was a unifying figure in a divided land.",
+            "quotes": [
+                "Iraq is for all Iraqis."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Unifying President.",
+            "culturalImpact": "He is respected by Kurds and Arabs alike.",
+            "primarySources": [
+                "Speeches.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a statesman.",
+                "His humor and diplomacy are missed."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Gertrude Bell",
+            "nativeName": "Gertrude Margaret Lowthian Bell",
+            "lifespan": "1868-1926",
+            "era": "Modern Period (20th Century)",
+            "role": "Archaeologist, Diplomat",
+            "background": "Gertrude Bell was a British writer, traveller, and political officer. She played a major role in establishing the modern state of Iraq and founded the Iraq Museum.",
+            "keyDecisions": [
+                "Drawing the borders of Iraq.",
+                "Installing Faisal I as King.",
+                "Founding the Baghdad Archaeological Museum.",
+                "Mapping the desert."
+            ],
+            "achievements": [
+                "The Uncrowned Queen of Iraq.",
+                "Created the Iraq Museum.",
+                "Diplomat.",
+                "Explorer."
+            ],
+            "challenges": [
+                "Being a woman in a man's world.",
+                "British bureaucracy.",
+                "Depression.",
+                "Suicide (overdose)."
+            ],
+            "legacy": "Bell created Iraq. Her museum preserved its history until the 2003 looting.",
+            "quotes": [
+                "I am the Khatun."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Khatun.",
+            "culturalImpact": "She is a controversial but essential figure.",
+            "primarySources": [
+                "Diaries.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Respected for her knowledge.",
+                "Criticized for her colonial role."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Al-Jahiz",
+            "nativeName": "Abu Uthman Amr ibn Bahr al-Kinani al-Basri (Al-Jahiz)",
+            "lifespan": "776-868",
+            "era": "Medieval Period (9th Century)",
+            "role": "Scholar, Writer",
+            "background": "Al-Jahiz was an Arab prose writer and theologian. He wrote the 'Book of Animals', which contains early ideas on evolution.",
+            "keyDecisions": [
+                "Writing the Book of Animals.",
+                "Living in the House of Wisdom.",
+                "Developing the adab (literature) style.",
+                "Dying under a pile of books (legend)."
+            ],
+            "achievements": [
+                "Father of Arabic Prose.",
+                "Early evolutionist.",
+                "Satirist.",
+                "Intellectual."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Physical deformity (bulging eyes - Jahiz).",
+                "Persecution.",
+                "Old age."
+            ],
+            "legacy": "Al-Jahiz is a giant of literature. His wit and wisdom are timeless.",
+            "quotes": [
+                "The book is a silent talker."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary Master.",
+            "culturalImpact": "He is the master of Arabic style.",
+            "primarySources": [
+                "Kitab al-Hayawan (Book of Animals).",
+                "Book of Misers."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a precursor to Darwin.",
+                "His humor is still appreciated."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Kadhim Al-Sahir",
+            "nativeName": "Kadhim Jabbar Al-Samurai",
+            "lifespan": "1957-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Kadhim Al-Sahir is a singer and composer, known as the 'Caesar of Arabic Song'. He popularized Iraqi maqam and sings the poems of Nizar Qabbani.",
+            "keyDecisions": [
+                "Collaborating with Nizar Qabbani.",
+                "Singing in classical Arabic.",
+                "Touring the world.",
+                "Refusing to sing for Saddam (later years)."
+            ],
+            "achievements": [
+                "The Caesar.",
+                "Global ambassador of Iraqi music.",
+                "UNICEF Ambassador.",
+                "Sold millions of albums."
+            ],
+            "challenges": [
+                "War and sanctions.",
+                "Exile.",
+                "Censorship.",
+                "Maintaining artistic integrity."
+            ],
+            "legacy": "Kadhim is the voice of romance and Iraq. He brings beauty to a war-torn image.",
+            "quotes": [
+                "Music is my weapon."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Caesar.",
+            "culturalImpact": "He is the most famous living Iraqi artist.",
+            "primarySources": [
+                "Songs (Zidini Ishqan).",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Adored by millions.",
+                "A symbol of Iraqi culture."
+            ]
+        }
+    ]
+}

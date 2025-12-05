@@ -1,0 +1,761 @@
+{
+    "country": "Somalia",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Mohammed Abdullah Hassan",
+            "nativeName": "Sayyid Maxamed Cabdille Xasan",
+            "lifespan": "1856-1920",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Leader, Poet",
+            "background": "The 'Mad Mullah' (a British slur) was a religious and military leader who established the Dervish state and fought against British, Italian, and Ethiopian empires for 20 years.",
+            "keyDecisions": [
+                "Declaring Jihad against colonizers.",
+                "Building forts (Taleh).",
+                "Writing poetry to inspire troops.",
+                "Evading capture for two decades."
+            ],
+            "achievements": [
+                "Father of Somali Nationalism.",
+                "Master poet.",
+                "Military strategist.",
+                "Anti-colonial hero."
+            ],
+            "challenges": [
+                "British air power (first aerial bombardment in Africa).",
+                "Tribal divisions.",
+                "Isolation.",
+                "Influenza (cause of death)."
+            ],
+            "legacy": "The Sayyid is the George Washington of Somalia. His poetry is the core of Somali literature.",
+            "quotes": [
+                "I have no forts, no houses... I have no cultivated fields, no silver or gold for you to take."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sayyid.",
+            "culturalImpact": "His statue stands in Mogadishu.",
+            "primarySources": [
+                "Poems (Gabay).",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a nationalist icon.",
+                "His brutality is sometimes debated."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Siad Barre",
+            "nativeName": "Maxamed Siyaad Barre",
+            "lifespan": "1919-1995",
+            "era": "Modern Period (20th Century)",
+            "role": "President, Dictator",
+            "background": "Siad Barre was the military dictator of Somalia for 21 years. He modernized the country, introduced the Somali script, but led it into a disastrous war and civil collapse.",
+            "keyDecisions": [
+                "Leading the 1969 coup.",
+                "Adopting Scientific Socialism.",
+                "Standardizing the Somali language.",
+                "Invading Ethiopia (Ogaden War)."
+            ],
+            "achievements": [
+                "Literacy campaign.",
+                "Women's rights (Family Law).",
+                "Built infrastructure.",
+                "Strong army."
+            ],
+            "challenges": [
+                "Ogaden War defeat.",
+                "Clan-based rebellions.",
+                "Economic collapse.",
+                "Overthrow in 1991."
+            ],
+            "legacy": "Barre is the father of modern Somalia and its destroyer. His fall marked the start of the civil war.",
+            "quotes": [
+                "Knowledge is light."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dictator.",
+            "culturalImpact": "His legacy is deeply polarizing.",
+            "primarySources": [
+                "Speeches.",
+                "Decrees."
+            ],
+            "modernInterpretations": [
+                "Praised for literacy and unity.",
+                "Condemned for genocide (Isaaq)."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ahmad Gran",
+            "nativeName": "Ahmad ibn Ibrahim al-Ghazi",
+            "lifespan": "1506-1543",
+            "era": "Early Modern Period (16th Century)",
+            "role": "Imam, General",
+            "background": "Ahmad Gran ('The Left-Handed') was an Imam of the Adal Sultanate who conquered three-quarters of Ethiopia in a jihad, using Ottoman muskets.",
+            "keyDecisions": [
+                "Uniting Somali and Afar tribes.",
+                "Acquiring firearms.",
+                "Defeating the Ethiopian Emperor.",
+                "Burning churches."
+            ],
+            "achievements": [
+                "Conqueror of Abyssinia.",
+                "Military genius.",
+                "Imam.",
+                "Hero of Adal."
+            ],
+            "challenges": [
+                "Portuguese intervention (Christovão da Gama).",
+                "Logistics.",
+                "Death in battle (Wayna Daga).",
+                "Legacy of war."
+            ],
+            "legacy": "Gran is the sword of Islam in the Horn. He is a hero in Somalia and a villain in Ethiopia.",
+            "quotes": [
+                "Victory or martyrdom."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Conqueror.",
+            "culturalImpact": "He defined the region's history.",
+            "primarySources": [
+                "Futuh al-Habasha.",
+                "Chronicles."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a great warrior.",
+                "Symbol of Muslim power."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Waris Dirie",
+            "nativeName": "Waris Dirie",
+            "lifespan": "1965-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Model, Activist",
+            "background": "Waris Dirie is a supermodel and activist. She fled a forced marriage and FGM to become a Bond girl and a UN ambassador against FGM.",
+            "keyDecisions": [
+                "Running away across the desert.",
+                "Working at McDonald's in London.",
+                "Being discovered by a photographer.",
+                "Speaking out against FGM."
+            ],
+            "achievements": [
+                "Supermodel.",
+                "UN Ambassador.",
+                "Author ('Desert Flower').",
+                "Survivor."
+            ],
+            "challenges": [
+                "FGM trauma.",
+                "Homelessness.",
+                "Illiteracy (initially).",
+                "Stalkers."
+            ],
+            "legacy": "Waris is the desert flower. She broke the silence on FGM.",
+            "quotes": [
+                "My goal is to save women."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Activist.",
+            "culturalImpact": "Her book is a bestseller.",
+            "primarySources": [
+                "Desert Flower.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "Her courage changed laws."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Aden Adde",
+            "nativeName": "Aden Abdullah Osman Daar",
+            "lifespan": "1908-2007",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Aden Adde was the first President of Somalia. He is remembered as a democrat who peacefully handed over power after losing an election (a rarity in Africa).",
+            "keyDecisions": [
+                "Leading the SYL.",
+                "Uniting British and Italian Somaliland.",
+                "Serving as President.",
+                "Accepting defeat in 1967."
+            ],
+            "achievements": [
+                "Father of the Nation.",
+                "Democrat.",
+                "Statesman.",
+                "Uniter."
+            ],
+            "challenges": [
+                "Building a new state.",
+                "Border disputes.",
+                "Cold War.",
+                "Clan politics."
+            ],
+            "legacy": "Aden Adde is the model statesman. The airport in Mogadishu is named after him.",
+            "quotes": [
+                "Democracy."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The First President.",
+            "culturalImpact": "He is a symbol of integrity.",
+            "primarySources": [
+                "Speeches.",
+                "UN records."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of politics.",
+                "His era is missed."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Nuruddin Farah",
+            "nativeName": "Nuruddin Farah",
+            "lifespan": "1945-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Nuruddin Farah is a novelist. He is the most important Somali writer in English, known for his trilogies exploring dictatorship and women's rights.",
+            "keyDecisions": [
+                "Writing 'From a Crooked Rib'.",
+                "Going into exile.",
+                "Critiquing Siad Barre.",
+                "Returning to Mogadishu."
+            ],
+            "achievements": [
+                "Neustadt Prize winner.",
+                "Perennial Nobel candidate.",
+                "Feminist.",
+                "Voice of conscience."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Exile (22 years).",
+                "Death of his sister (terror attack).",
+                "Writing in English (controversial)."
+            ],
+            "legacy": "Farah is the chronicler of the Somali pain. He keeps the country alive in words.",
+            "quotes": [
+                "Truth is a woman."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "He is a literary giant.",
+            "primarySources": [
+                "From a Crooked Rib.",
+                "Maps."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His feminism is pioneering."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Iman",
+            "nativeName": "Iman Mohamed Abdulmajid",
+            "lifespan": "1955-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Model, Entrepreneur",
+            "background": "Iman is a supermodel and businesswoman. She was the muse of Yves Saint Laurent and founded Iman Cosmetics for women of color.",
+            "keyDecisions": [
+                "Moving to the US.",
+                "Modeling for Vogue.",
+                "Starting her cosmetics line.",
+                "Marrying David Bowie."
+            ],
+            "achievements": [
+                "Supermodel.",
+                "Business mogul.",
+                "Icon.",
+                "Philanthropist."
+            ],
+            "challenges": [
+                "Racism in fashion.",
+                "Refugee status.",
+                "Widowhood.",
+                "Breaking barriers."
+            ],
+            "legacy": "Iman is the queen of fashion. She proved that black is beautiful.",
+            "quotes": [
+                "I am the dream."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Icon.",
+            "culturalImpact": "She changed the industry.",
+            "primarySources": [
+                "Vogue covers.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a legend.",
+                "Her business acumen is praised."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Mo Farah",
+            "nativeName": "Sir Mo Farah",
+            "lifespan": "1983-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Sir Mo Farah is a long-distance runner. Born in Somalia, he was trafficked to the UK as a child and became the most successful British track athlete.",
+            "keyDecisions": [
+                "Running for Great Britain.",
+                "Winning the Double Double (Olympics).",
+                "Doing the Mobot.",
+                "Revealing his true identity (trafficking victim)."
+            ],
+            "achievements": [
+                "4 Olympic Golds.",
+                "Knight.",
+                "Legend.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Trafficking.",
+                "Language barrier.",
+                "Separation from twin brother.",
+                "Pressure."
+            ],
+            "legacy": "Mo Farah is the greatest runner of his generation. His story is heartbreaking and inspiring.",
+            "quotes": [
+                "One Mo Mile."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "He is a British and Somali hero.",
+            "primarySources": [
+                "Race results.",
+                "Documentary."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His honesty is admired."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Hawo Tako",
+            "nativeName": "Xaawo Xasan Kulmiye (Hawo Tako)",
+            "lifespan": "1920s-1948",
+            "era": "Modern Period (20th Century)",
+            "role": "Activist",
+            "background": "Hawo Tako was a member of the Somali Youth League. She was killed during the riots against Italian colonial rule in 1948.",
+            "keyDecisions": [
+                "Joining the SYL.",
+                "Leading protests.",
+                "Fighting with stones.",
+                "Dying for freedom."
+            ],
+            "achievements": [
+                "Martyr.",
+                "Nationalist.",
+                "Symbol of women.",
+                "Heroine."
+            ],
+            "challenges": [
+                "Colonial police.",
+                "Violence.",
+                "Gender roles.",
+                "Death."
+            ],
+            "legacy": "Hawo Tako is the mother of the revolution. Her statue (with a stone and a baby) is a landmark.",
+            "quotes": [
+                "Freedom."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "She inspires women.",
+            "primarySources": [
+                "SYL records.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of the nation.",
+                "Her sacrifice is taught to children."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "K'naan",
+            "nativeName": "Keinan Abdi Warsame",
+            "lifespan": "1978-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician",
+            "background": "K'naan is a poet and rapper. He is famous for 'Wavin' Flag', the anthem of the 2010 World Cup.",
+            "keyDecisions": [
+                "Fleeing the civil war.",
+                "Learning English through rap.",
+                "Writing 'The Dusty Foot Philosopher'.",
+                "Directing films."
+            ],
+            "achievements": [
+                "Global star.",
+                "Poet.",
+                "Activist.",
+                "Storyteller."
+            ],
+            "challenges": [
+                "War trauma.",
+                "Refugee life.",
+                "Industry pressure.",
+                "Returning home."
+            ],
+            "legacy": "K'naan is the dusty foot philosopher. He gave Somalia a new voice.",
+            "quotes": [
+                "When I get older, I will be stronger."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Bard.",
+            "culturalImpact": "Wavin' Flag is an anthem.",
+            "primarySources": [
+                "Songs.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a talent.",
+                "His lyrics are profound."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Hawa Abdi",
+            "nativeName": "Hawa Abdi Dhiblawe",
+            "lifespan": "1947-2020",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Doctor, Activist",
+            "background": "Mama Hawa was a doctor and human rights activist. She turned her farm into a camp for 90,000 displaced people during the war.",
+            "keyDecisions": [
+                "Becoming a doctor (one of the first).",
+                "Opening her clinic.",
+                "Refusing to leave.",
+                "Standing up to Al-Shabaab."
+            ],
+            "achievements": [
+                "Nobel Peace Prize nominee.",
+                "Mother of the Nation.",
+                "Savior of thousands.",
+                "Hero."
+            ],
+            "challenges": [
+                "War.",
+                "Militias.",
+                "Famine.",
+                "Kidnapping."
+            ],
+            "legacy": "Mama Hawa is the saint of Somalia. She kept hope alive.",
+            "quotes": [
+                "I am a doctor, I have no clan."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Saint.",
+            "culturalImpact": "Her foundation continues her work.",
+            "primarySources": [
+                "Keeping Hope Alive.",
+                "News."
+            ],
+            "modernInterpretations": [
+                "Revered as a legend.",
+                "Her courage is unmatched."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Magool",
+            "nativeName": "Halima Khalif Omar (Magool)",
+            "lifespan": "1948-2004",
+            "era": "Modern Period (20th Century)",
+            "role": "Musician",
+            "background": "Magool was a singer. She is one of the most famous voices in Somali history, known for her patriotic and love songs.",
+            "keyDecisions": [
+                "Singing in the Waaberi troupe.",
+                "Performing in Sudan.",
+                "Criticizing the government.",
+                "Dying in exile."
+            ],
+            "achievements": [
+                "Diva.",
+                "Voice of the people.",
+                "Star.",
+                "Legend."
+            ],
+            "challenges": [
+                "Censorship.",
+                "War.",
+                "Health.",
+                "Exile."
+            ],
+            "legacy": "Magool is the flower of the nation. Her voice is the soundtrack of the golden age.",
+            "quotes": [
+                "Somalia."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Diva.",
+            "culturalImpact": "She is beloved.",
+            "primarySources": [
+                "Recordings.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a queen.",
+                "Her songs are timeless."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Abdi Bile",
+            "nativeName": "Abdi Bile",
+            "lifespan": "1962-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Abdi Bile is a middle-distance runner. He was the first Somali World Champion (1500m in 1987).",
+            "keyDecisions": [
+                "Training in the US.",
+                "Winning the World Championship.",
+                "Missing the Olympics (injury).",
+                "Inspiring Mo Farah."
+            ],
+            "achievements": [
+                "World Champion.",
+                "National hero.",
+                "Pioneer.",
+                "Legend."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Civil war (couldn't compete for Somalia).",
+                "Resources.",
+                "Time."
+            ],
+            "legacy": "Abdi Bile is the golden boy. 'Abdi Bile' is slang for a Toyota pickup (fast and tough).",
+            "quotes": [
+                "I run for my people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "He is a symbol of excellence.",
+            "primarySources": [
+                "Race results.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a legend.",
+                "He paved the way."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Hadraawi",
+            "nativeName": "Mohamed Ibrahim Warsame (Hadraawi)",
+            "lifespan": "1943-2022",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Poet",
+            "background": "Hadraawi was the 'Shakespeare of Somalia'. He wrote poems about peace and justice and led the 'Peace Train' march across the war-torn country.",
+            "keyDecisions": [
+                "Writing 'Hoobal'.",
+                "Being imprisoned by Barre.",
+                "Leading the Peace Train.",
+                "Refusing to leave Somaliland."
+            ],
+            "achievements": [
+                "Prince of Poets.",
+                "Peacemaker.",
+                "Philosopher.",
+                "Conscience."
+            ],
+            "challenges": [
+                "Imprisonment (5 years).",
+                "Censorship.",
+                "War.",
+                "Old age."
+            ],
+            "legacy": "Hadraawi is the soul of the nation. His words healed wounds.",
+            "quotes": [
+                "Peace is life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Shakespeare.",
+            "culturalImpact": "His death was a national tragedy.",
+            "primarySources": [
+                "Poems.",
+                "Plays."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of letters.",
+                "His work is sacred."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Ilhan Omar",
+            "nativeName": "Ilhan Omar",
+            "lifespan": "1982-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Politician",
+            "background": "Ilhan Omar is a US Congresswoman. She is the first Somali-American legislator and one of the first Muslim women in Congress.",
+            "keyDecisions": [
+                "Fleeing to the US.",
+                "Running for office.",
+                "Joining 'The Squad'.",
+                "Speaking out."
+            ],
+            "achievements": [
+                "Congresswoman.",
+                "Pioneer.",
+                "Symbol.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Racism.",
+                "Islamophobia.",
+                "Death threats.",
+                "Controversy."
+            ],
+            "legacy": "Ilhan Omar is the dream realized. She represents the diaspora's power.",
+            "quotes": [
+                "I am America's hope and the President's nightmare."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Politician.",
+            "culturalImpact": "She is a global figure.",
+            "primarySources": [
+                "Speeches.",
+                "This Is What America Looks Like."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a trailblazer.",
+                "Polarizing in US politics."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Abdullahi Yusuf Ahmed",
+            "nativeName": "Abdullahi Yusuf Ahmed",
+            "lifespan": "1934-2012",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President, Warlord",
+            "background": "Abdullahi Yusuf was a colonel, rebel leader, and President of the Transitional Federal Government. He founded Puntland.",
+            "keyDecisions": [
+                "Rebelling against Barre (SSDF).",
+                "Founding Puntland.",
+                "Becoming TFG President.",
+                "Inviting Ethiopian troops (2006)."
+            ],
+            "achievements": [
+                "Founder of Puntland.",
+                "President.",
+                "Survivor (liver transplant).",
+                "Strongman."
+            ],
+            "challenges": [
+                "Islamic Courts Union.",
+                "Al-Shabaab.",
+                "Health.",
+                "Legitimacy."
+            ],
+            "legacy": "Yusuf is the iron man. He fought for federalism.",
+            "quotes": [
+                "Law and order."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Colonel.",
+            "culturalImpact": "He shaped modern Somali politics.",
+            "primarySources": [
+                "Speeches.",
+                "News."
+            ],
+            "modernInterpretations": [
+                "Respected for his toughness.",
+                "Criticized for the Ethiopian invasion."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Edna Adan Ismail",
+            "nativeName": "Edna Adan Ismail",
+            "lifespan": "1937-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Doctor, Activist",
+            "background": "Edna Adan is a nurse, midwife, and former Foreign Minister of Somaliland. She built a maternity hospital on a garbage dump.",
+            "keyDecisions": [
+                "Becoming the first Somali nurse.",
+                "Serving in the WHO.",
+                "Building the Edna Adan Hospital.",
+                "Fighting FGM."
+            ],
+            "achievements": [
+                "Hospital builder.",
+                "Minister.",
+                "Templeton Prize winner.",
+                "Hero."
+            ],
+            "challenges": [
+                "War.",
+                "Lack of funding.",
+                "Patriarchy.",
+                "Recognition of Somaliland."
+            ],
+            "legacy": "Edna Adan is the mother of Somaliland. She saves lives every day.",
+            "quotes": [
+                "A woman's life is worth saving."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Healer.",
+            "culturalImpact": "She is a global icon.",
+            "primarySources": [
+                "A Woman of Firsts.",
+                "Hospital records."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint.",
+                "Her energy is boundless."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Barkhad Abdi",
+            "nativeName": "Barkhad Abdi",
+            "lifespan": "1985-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Actor",
+            "background": "Barkhad Abdi is an actor. He went from being a limo driver to an Oscar nominee for his role in 'Captain Phillips'.",
+            "keyDecisions": [
+                "Auditioning for Captain Phillips.",
+                "Improvising 'I'm the captain now'.",
+                "Pursuing a career.",
+                "Helping Somalia."
+            ],
+            "achievements": [
+                "BAFTA winner.",
+                "Oscar nominee.",
+                "Star.",
+                "Inspiration."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Typecasting.",
+                "Sudden fame.",
+                "Hollywood."
+            ],
+            "legacy": "Barkhad is the captain. His line is legendary.",
+            "quotes": [
+                "Look at me. I'm the captain now."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Actor.",
+            "culturalImpact": "He is a meme and a star.",
+            "primarySources": [
+                "Films.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a success story.",
+                "He is proud of his roots."
+            ]
+        }
+    ]
+}

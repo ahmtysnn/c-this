@@ -1,0 +1,761 @@
+{
+    "country": "Bolivia",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Simón Bolívar",
+            "nativeName": "Simón José Antonio de la Santísima Trinidad Bolívar y Palacios",
+            "lifespan": "1783-1830",
+            "era": "Modern Period (19th Century)",
+            "role": "Liberator",
+            "background": "Simón Bolívar was the Liberator of 6 nations. Bolivia is named after him. He was the first President of Bolivia and wrote its first constitution.",
+            "keyDecisions": [
+                "Leading the Admirable Campaign.",
+                "Crossing the Andes.",
+                "Writing the Bolivian Constitution.",
+                "Dreaming of Gran Colombia."
+            ],
+            "achievements": [
+                "El Libertador.",
+                "Founder of Bolivia.",
+                "General.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Spanish Empire.",
+                "Internal divisions.",
+                "Geography.",
+                "Tuberculosis."
+            ],
+            "legacy": "Bolívar is the father. 'If my death contributes to the cessation of parties and the consolidation of the Union, I shall go down to my grave in peace.'",
+            "quotes": [
+                "I have ploughed the sea."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Liberator.",
+            "culturalImpact": "The country bears his name.",
+            "primarySources": [
+                "Jamaica Letter.",
+                "Proclamations."
+            ],
+            "modernInterpretations": [
+                "Revered as a god.",
+                "His legacy is claimed by all sides."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Evo Morales",
+            "nativeName": "Juan Evo Morales Ayma",
+            "lifespan": "1959-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President, Activist",
+            "background": "Evo Morales was the first indigenous President of Bolivia. A former coca grower union leader, he led the country for 14 years, reducing poverty and empowering indigenous people.",
+            "keyDecisions": [
+                "Leading the Cocaleros.",
+                "Nationalizing gas reserves.",
+                "Rewriting the constitution (Plurinational State).",
+                "Running for a fourth term (controversial)."
+            ],
+            "achievements": [
+                "First Indigenous President.",
+                "Economic growth.",
+                "Poverty reduction.",
+                "Symbol of dignity."
+            ],
+            "challenges": [
+                "US opposition.",
+                "Political polarization.",
+                "2019 crisis (resignation/coup).",
+                "Internal MAS splits."
+            ],
+            "legacy": "Evo changed the face of power. He made the indigenous majority visible.",
+            "quotes": [
+                "Coca is not cocaine."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Leader.",
+            "culturalImpact": "He transformed the state.",
+            "primarySources": [
+                "Speeches.",
+                "My Life."
+            ],
+            "modernInterpretations": [
+                "Revered by the poor.",
+                "Criticized for authoritarianism."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Túpac Katari",
+            "nativeName": "Julián Apaza Nina (Túpac Katari)",
+            "lifespan": "1750-1781",
+            "era": "Modern Period (18th Century)",
+            "role": "Rebel",
+            "background": "Túpac Katari was an Aymara leader who led a massive siege of La Paz against the Spanish colonial authorities.",
+            "keyDecisions": [
+                "Adopting the name Túpac Katari.",
+                "Besieging La Paz (twice).",
+                "Uniting Aymara and Quechua.",
+                "Dying by quartering."
+            ],
+            "achievements": [
+                "Indigenous hero.",
+                "General.",
+                "Martyr.",
+                "Symbol."
+            ],
+            "challenges": [
+                "Spanish army.",
+                "Betrayal.",
+                "Logistics.",
+                "Brutal execution."
+            ],
+            "legacy": "Katari is the prophecy. 'I will return and I will be millions.'",
+            "quotes": [
+                "I will return and I will be millions."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Rebel.",
+            "culturalImpact": "He is the inspiration for modern movements.",
+            "primarySources": [
+                "Trial records.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Revered as a messianic figure.",
+                "Symbol of indigenous power."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Bartolina Sisa",
+            "nativeName": "Bartolina Sisa Vargas",
+            "lifespan": "1750-1782",
+            "era": "Modern Period (18th Century)",
+            "role": "Rebel, Commander",
+            "background": "Bartolina Sisa was an Aymara heroine and the wife of Túpac Katari. She commanded troops during the siege of La Paz and was brutally executed.",
+            "keyDecisions": [
+                "Leading the siege.",
+                "Fighting alongside Katari.",
+                "Refusing to betray the cause.",
+                "Enduring torture."
+            ],
+            "achievements": [
+                "Viceroy (Virreina).",
+                "Commander.",
+                "Martyr.",
+                "Symbol of women."
+            ],
+            "challenges": [
+                "Spanish cruelty.",
+                "Capture.",
+                "Execution.",
+                "Patriarchy."
+            ],
+            "legacy": "Bartolina Sisa is the mother of the struggle. International Indigenous Women's Day is celebrated on her death date.",
+            "quotes": [
+                "We will be free."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Heroine.",
+            "culturalImpact": "The peasant women's union is named after her.",
+            "primarySources": [
+                "Trial records.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Revered as a warrior.",
+                "Feminist icon."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Antonio José de Sucre",
+            "nativeName": "Antonio José de Sucre y Alcalá",
+            "lifespan": "1795-1830",
+            "era": "Modern Period (19th Century)",
+            "role": "General, President",
+            "background": "Sucre was the Grand Marshal of Ayacucho and the second President of Bolivia. The constitutional capital (Sucre) is named after him.",
+            "keyDecisions": [
+                "Winning the Battle of Ayacucho.",
+                "Serving as President.",
+                "Resigning to avoid civil war.",
+                "Being assassinated in Berruecos."
+            ],
+            "achievements": [
+                "Grand Marshal.",
+                "Liberator.",
+                "President.",
+                "Gentleman."
+            ],
+            "challenges": [
+                "Political intrigue.",
+                "Assassination.",
+                "Loyalty to Bolívar.",
+                "Building a nation."
+            ],
+            "legacy": "Sucre is the perfect soldier. He was loyal, brave, and incorruptible.",
+            "quotes": [
+                "Talent is the most precious gift."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Marshal.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Letters.",
+                "Military records."
+            ],
+            "modernInterpretations": [
+                "Revered as a martyr.",
+                "Symbol of honor."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Jaime Escalante",
+            "nativeName": "Jaime Escalante",
+            "lifespan": "1930-2010",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Educator",
+            "background": "Jaime Escalante was a math teacher. Famous for teaching calculus to underprivileged students in East LA (Stand and Deliver), he started his career in La Paz.",
+            "keyDecisions": [
+                "Teaching in Bolivia.",
+                "Moving to the US.",
+                "Teaching calculus at Garfield High.",
+                "Proving the critics wrong."
+            ],
+            "achievements": [
+                "Master teacher.",
+                "Inspiration.",
+                "Presidential Medal of Freedom.",
+                "Legend."
+            ],
+            "challenges": [
+                "Language barrier.",
+                "Skepticism (ETS cheating scandal).",
+                "Cancer.",
+                "Funding."
+            ],
+            "legacy": "Escalante proved that 'ganas' (desire) is everything. He is a hero of education.",
+            "quotes": [
+                "Ganas."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Teacher.",
+            "culturalImpact": "Stand and Deliver is a classic.",
+            "primarySources": [
+                "Stand and Deliver.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His methods are studied."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Juana Azurduy de Padilla",
+            "nativeName": "Juana Azurduy",
+            "lifespan": "1780-1862",
+            "era": "Modern Period (19th Century)",
+            "role": "General",
+            "background": "Juana Azurduy was a guerrilla leader who fought for independence alongside her husband Manuel Padilla. She is one of the few women to hold the rank of General in Argentina and Bolivia.",
+            "keyDecisions": [
+                "Joining the revolution.",
+                "Leading cavalry charges.",
+                "Losing her children to war.",
+                "Dying in poverty."
+            ],
+            "achievements": [
+                "General.",
+                "Heroine.",
+                "Liberator.",
+                "Legend."
+            ],
+            "challenges": [
+                "War.",
+                "Loss of family.",
+                "Poverty.",
+                "Obscurity (until recently)."
+            ],
+            "legacy": "Juana Azurduy is the flower of the revolution. She fought like a lioness.",
+            "quotes": [
+                "I have no fear."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The General.",
+            "culturalImpact": "She is a national icon.",
+            "primarySources": [
+                "Military records.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a feminist hero.",
+                "Statues are replacing Columbus."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Víctor Paz Estenssoro",
+            "nativeName": "Víctor Paz Estenssoro",
+            "lifespan": "1907-2001",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Víctor Paz Estenssoro was a four-time President. He led the 1952 Revolution (universal suffrage, land reform) and later imposed neoliberal shock therapy in 1985 to stop hyperinflation.",
+            "keyDecisions": [
+                "Leading the 1952 Revolution.",
+                "Nationalizing mines.",
+                "Passing Decree 21060 (1985).",
+                "Saying 'Bolivia is dying'."
+            ],
+            "achievements": [
+                "Revolutionary.",
+                "Statesman.",
+                "Reformer.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Coups.",
+                "Hyperinflation (23,000%).",
+                "Exile.",
+                "Balancing left and right."
+            ],
+            "legacy": "Paz Estenssoro shaped modern Bolivia twice: first by creating the state, then by saving it from collapse.",
+            "quotes": [
+                "Bolivia is dying."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Statesman.",
+            "culturalImpact": "He is the giant of 20th-century politics.",
+            "primarySources": [
+                "Decrees.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Respected for his pragmatism.",
+                "Criticized for the social cost of 1985."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Marina Núñez del Prado",
+            "nativeName": "Marina Núñez del Prado",
+            "lifespan": "1908-1995",
+            "era": "Modern Period (20th Century)",
+            "role": "Sculptor",
+            "background": "Marina Núñez del Prado was a sculptor. She is one of the most important Latin American artists, known for her abstract forms inspired by Andean landscapes and indigenous women.",
+            "keyDecisions": [
+                "Studying in La Paz.",
+                "Using granite and onyx.",
+                "Focusing on the 'Chola' figure.",
+                "Donating her house as a museum."
+            ],
+            "achievements": [
+                "Master sculptor.",
+                "Cultural ambassador.",
+                "Pioneer.",
+                "Artist."
+            ],
+            "challenges": [
+                "Being a woman in art.",
+                "Working with hard stone.",
+                "Politics.",
+                "Recognition."
+            ],
+            "legacy": "Marina carved the soul of the Andes. Her curves are the mountains.",
+            "quotes": [
+                "Stone speaks."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sculptor.",
+            "culturalImpact": "Her museum is a treasure.",
+            "primarySources": [
+                "Sculptures.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "Her work is timeless."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Marcelo Quiroga Santa Cruz",
+            "nativeName": "Marcelo Quiroga Santa Cruz",
+            "lifespan": "1931-1980",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician, Writer",
+            "background": "Marcelo Quiroga was a socialist leader and writer. He nationalized Gulf Oil and was assassinated during the Garcia Meza coup.",
+            "keyDecisions": [
+                "Nationalizing Gulf Oil.",
+                "Founding the PS-1 party.",
+                "Writing 'Los Deshabitados'.",
+                "Refusing to flee."
+            ],
+            "achievements": [
+                "Martyr of democracy.",
+                "Intellectual.",
+                "Patriot.",
+                "Voice."
+            ],
+            "challenges": [
+                "Dictatorships.",
+                "CIA.",
+                "Assassination.",
+                "Disappearance of his body."
+            ],
+            "legacy": "Quiroga is the conscience of the nation. His body has never been found.",
+            "quotes": [
+                "We will not negotiate with criminals."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "He is a symbol of resistance.",
+            "primarySources": [
+                "Speeches.",
+                "Los Deshabitados."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His murder is a state crime."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Domitila Barrios de Chungara",
+            "nativeName": "Domitila Barrios de Chungara",
+            "lifespan": "1937-2012",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Activist",
+            "background": "Domitila was a leader of the Housewives' Committee of Siglo XX mines. Her hunger strike in 1978 helped bring down the Banzer dictatorship.",
+            "keyDecisions": [
+                "Organizing the housewives.",
+                "Speaking at the UN Women's Conference (1975).",
+                "Starting the hunger strike.",
+                "Writing 'Let Me Speak!'."
+            ],
+            "achievements": [
+                "Feminist icon.",
+                "Union leader.",
+                "Democracy builder.",
+                "Heroine."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Torture.",
+                "Exile.",
+                "Classism."
+            ],
+            "legacy": "Domitila spoke for the miners. She showed that women are the backbone of the revolution.",
+            "quotes": [
+                "Let me speak!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Voice.",
+            "culturalImpact": "Her book is a classic.",
+            "primarySources": [
+                "Let Me Speak!",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a legend.",
+                "Symbol of working-class feminism."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Marco Etcheverry",
+            "nativeName": "Marco Antonio Etcheverry",
+            "lifespan": "1970-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Marco 'El Diablo' Etcheverry is a footballer. He led Bolivia to the 1994 World Cup and is considered the greatest Bolivian player of all time.",
+            "keyDecisions": [
+                "Playing for DC United.",
+                "Leading 'La Verde' to USA 94.",
+                "Scoring against Brazil.",
+                "Getting sent off against Germany (3 minutes in)."
+            ],
+            "achievements": [
+                "El Diablo.",
+                "MLS Legend.",
+                "World Cup player.",
+                "Icon."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Temper.",
+                "Expectations.",
+                "Altitude debates."
+            ],
+            "legacy": "Etcheverry is the devil who brought joy. The 1994 team is immortal.",
+            "quotes": [
+                "Bolivia!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Star.",
+            "culturalImpact": "He is a god of football.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "He is the face of Bolivian soccer."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Adela Zamudio",
+            "nativeName": "Adela Zamudio",
+            "lifespan": "1854-1928",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Poet, Feminist",
+            "background": "Adela Zamudio was a poet and educator. She is the pioneer of Bolivian feminism, known for her poem 'Nacer hombre' (To be born a man).",
+            "keyDecisions": [
+                "Writing feminist poetry.",
+                "Founding a secular school.",
+                "Challenging the Catholic Church.",
+                "Remaining single (Soledad)."
+            ],
+            "achievements": [
+                "Mother of Feminism.",
+                "Poet.",
+                "Teacher.",
+                "Icon."
+            ],
+            "challenges": [
+                "Conservatism.",
+                "Excommunication threats.",
+                "Sexism.",
+                "Solitude."
+            ],
+            "legacy": "Adela Zamudio is the rebel. Bolivian Woman's Day is her birthday.",
+            "quotes": [
+                "To be born a man."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Feminist.",
+            "culturalImpact": "She is studied in schools.",
+            "primarySources": [
+                "Poems.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "Her work is still relevant."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Andrés de Santa Cruz",
+            "nativeName": "Andrés de Santa Cruz y Calahumana",
+            "lifespan": "1792-1865",
+            "era": "Modern Period (19th Century)",
+            "role": "President, Marshal",
+            "background": "Santa Cruz was a Marshal and President. He created the Peru-Bolivian Confederation, attempting to unite the Andes, but was defeated by Chile and Argentina.",
+            "keyDecisions": [
+                "Serving under Bolívar.",
+                "Creating the Confederation.",
+                "Administering the state (Civil Code).",
+                "Going into exile."
+            ],
+            "achievements": [
+                "Grand Marshal of Zepita.",
+                "Protector of the Confederation.",
+                "Administrator.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Neighbors (Chile, Argentina).",
+                "Internal rivals.",
+                "War of the Confederation.",
+                "Exile."
+            ],
+            "legacy": "Santa Cruz had the grandest vision. He tried to recreate the Inca Empire as a modern state.",
+            "quotes": [
+                "Order and progress."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Protector.",
+            "culturalImpact": "He is a controversial but respected figure.",
+            "primarySources": [
+                "Decrees.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a statesman.",
+                "His fall determined the map of South America."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Roberto Mamani Mamani",
+            "nativeName": "Roberto Mamani Mamani",
+            "lifespan": "1962-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Artist",
+            "background": "Mamani Mamani is an Aymara artist. He is famous for his vibrant, colorful paintings depicting Andean cosmology and energy.",
+            "keyDecisions": [
+                "Using bright colors (against academic advice).",
+                "Painting mountains and suns.",
+                "Celebrating Aymara culture.",
+                "Becoming a brand."
+            ],
+            "achievements": [
+                "Master artist.",
+                "Cultural ambassador.",
+                "Icon.",
+                "Prince of the Andes."
+            ],
+            "challenges": [
+                "Racism.",
+                "Art critics.",
+                "Commercialization.",
+                "Identity."
+            ],
+            "legacy": "Mamani Mamani is the color of the Andes. He made indigenous art pop.",
+            "quotes": [
+                "My colors are strong like my people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Artist.",
+            "culturalImpact": "His art is everywhere.",
+            "primarySources": [
+                "Paintings.",
+                "Murals."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a success.",
+                "Symbol of cultural pride."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Lidia Gueiler Tejada",
+            "nativeName": "Lidia Gueiler Tejada",
+            "lifespan": "1921-2011",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Lidia Gueiler was the first female President of Bolivia. She served during a turbulent transition and was overthrown by her cousin, General Garcia Meza.",
+            "keyDecisions": [
+                "Joining the MNR.",
+                "Serving as President of Congress.",
+                "Becoming Interim President.",
+                "Resigning at gunpoint."
+            ],
+            "achievements": [
+                "First female President.",
+                "Democrat.",
+                "Diplomat.",
+                "Pioneer."
+            ],
+            "challenges": [
+                "Military coups.",
+                "Sexism.",
+                "Economic crisis.",
+                "Betrayal."
+            ],
+            "legacy": "Lidia Gueiler stood for democracy. She was a woman of peace in a time of war.",
+            "quotes": [
+                "Peace."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The President.",
+            "culturalImpact": "She is a role model.",
+            "primarySources": [
+                "Memoirs.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Respected for her dignity.",
+                "Her presidency was short but significant."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Simón I. Patiño",
+            "nativeName": "Simón Iturri Patiño",
+            "lifespan": "1860-1947",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Tycoon",
+            "background": "Patiño was the 'Tin Baron'. He became one of the richest men in the world by controlling Bolivia's tin mines, wielding immense political power.",
+            "keyDecisions": [
+                "Discovering the 'La Salvadora' vein.",
+                "Consolidating the tin industry.",
+                "Living in Europe.",
+                "Funding the Chaco War (reluctantly)."
+            ],
+            "achievements": [
+                "Tin King.",
+                "Billionaire.",
+                "Industrialist.",
+                "Power broker."
+            ],
+            "challenges": [
+                "Nationalization (1952).",
+                "Labor strikes (Catavi massacre).",
+                "Public hatred.",
+                "Health."
+            ],
+            "legacy": "Patiño is the symbol of the oligarchy. He built palaces while miners died.",
+            "quotes": [
+                "Tin is Bolivia."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Baron.",
+            "culturalImpact": "His palace in Cochabamba is a museum.",
+            "primarySources": [
+                "Business records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Viewed as an exploiter.",
+                "His business acumen is acknowledged."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Franz Tamayo",
+            "nativeName": "Franz Tamayo Solares",
+            "lifespan": "1879-1956",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Politician",
+            "background": "Franz Tamayo was a poet and philosopher. He wrote 'Creación de la Pedagogía Nacional', arguing that Bolivia's strength lay in its indigenous energy.",
+            "keyDecisions": [
+                "Writing 'La Prometheida'.",
+                "Advocating for mestizaje.",
+                "Serving as President-elect (overthrown).",
+                "Living in isolation."
+            ],
+            "achievements": [
+                "Intellectual giant.",
+                "Poet.",
+                "Philosopher.",
+                "Nationalist."
+            ],
+            "challenges": [
+                "Racism (his own contradictions).",
+                "Politics.",
+                "Misunderstanding.",
+                "Solitude."
+            ],
+            "legacy": "Tamayo is the brain of Bolivian nationalism. He exalted the Indian as the vital force.",
+            "quotes": [
+                "Energy."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Thinker.",
+            "culturalImpact": "A province is named after him.",
+            "primarySources": [
+                "Creación de la Pedagogía Nacional.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His ideas are debated."
+            ]
+        }
+    ]
+}

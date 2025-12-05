@@ -1,0 +1,761 @@
+{
+    "country": "Honduras",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Lempira",
+            "nativeName": "Lempira",
+            "lifespan": "d. 1537",
+            "era": "Colonial Period (16th Century)",
+            "role": "Chieftain",
+            "background": "Lempira was a Lenca war captain. He led the indigenous resistance against the Spanish conquest, gathering an army of 30,000 warriors.",
+            "keyDecisions": [
+                "Uniting the tribes.",
+                "Fortifying the Peñol de Cerquín.",
+                "Resisting the Spanish for months.",
+                "Being assassinated during a parley."
+            ],
+            "achievements": [
+                "National Hero.",
+                "Symbol of resistance.",
+                "Warrior.",
+                "Legend."
+            ],
+            "challenges": [
+                "Spanish steel.",
+                "Horses.",
+                "Betrayal.",
+                "Death."
+            ],
+            "legacy": "Lempira is the soul of Honduras. The currency is named after him.",
+            "quotes": [
+                "No Spanish will enter here."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Hero.",
+            "culturalImpact": "He is honored every July.",
+            "primarySources": [
+                "Spanish chronicles.",
+                "Oral tradition."
+            ],
+            "modernInterpretations": [
+                "Revered as the first defender.",
+                "Symbol of indigenous pride."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Francisco Morazán",
+            "nativeName": "José Francisco Morazán Quezada",
+            "lifespan": "1792-1842",
+            "era": "Modern Period (19th Century)",
+            "role": "General, President",
+            "background": "Francisco Morazán was a liberal general and President of the Federal Republic of Central America. He fought to unite the region and limit the power of the church.",
+            "keyDecisions": [
+                "Winning the Battle of La Trinidad.",
+                "Becoming President of the Federation.",
+                "Expelling the monastic orders.",
+                "Being executed in Costa Rica."
+            ],
+            "achievements": [
+                "The Liberator.",
+                "Unionist.",
+                "General.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Conservatives.",
+                "The Church.",
+                "Separatism.",
+                "Execution."
+            ],
+            "legacy": "Morazán is the George Washington of Central America. His dream of union lives on.",
+            "quotes": [
+                "I declare that my love for Central America dies with me."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Statesman.",
+            "culturalImpact": "Statues of him are everywhere.",
+            "primarySources": [
+                "Memoirs.",
+                "Last Will."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "Symbol of liberalism."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Berta Cáceres",
+            "nativeName": "Berta Isabel Cáceres Flores",
+            "lifespan": "1971-2016",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Activist",
+            "background": "Berta Cáceres was a Lenca environmental activist. She led the fight against the Agua Zarca dam and was assassinated in her home.",
+            "keyDecisions": [
+                "Founding COPINH.",
+                "Opposing the dam.",
+                "Winning the Goldman Prize.",
+                "Refusing to be silenced."
+            ],
+            "achievements": [
+                "Environmental hero.",
+                "Indigenous leader.",
+                "Martyr.",
+                "Symbol."
+            ],
+            "challenges": [
+                "Corporations.",
+                "Hitmen.",
+                "Threats.",
+                "Assassination."
+            ],
+            "legacy": "Berta didn't die, she multiplied. She is a global icon of environmental justice.",
+            "quotes": [
+                "Wake up, humanity! We are out of time."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Activist.",
+            "culturalImpact": "Her face is a symbol of resistance.",
+            "primarySources": [
+                "Speeches.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of nature.",
+                "Her murder exposed corruption."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "José Cecilio del Valle",
+            "nativeName": "José Cecilio del Valle",
+            "lifespan": "1780-1834",
+            "era": "Modern Period (19th Century)",
+            "role": "Philosopher, Politician",
+            "background": "Valle was a scholar and statesman. He wrote the Act of Independence of Central America and was a rival of Morazán, advocating for evolution over revolution.",
+            "keyDecisions": [
+                "Writing the Act of Independence (1821).",
+                "Serving in the Mexican Empire.",
+                "Winning the presidency (but dying before taking office).",
+                "Promoting Pan-Americanism."
+            ],
+            "achievements": [
+                "The Wise (El Sabio).",
+                "Founding Father.",
+                "Intellectual.",
+                "Author."
+            ],
+            "challenges": [
+                "Political turmoil.",
+                "Rivalry with Morazán.",
+                "Health.",
+                "Death."
+            ],
+            "legacy": "Valle is the brain of independence. He was the Jefferson of Central America.",
+            "quotes": [
+                "America will be what we make of it."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sage.",
+            "culturalImpact": "He is on the 100 Lempira note.",
+            "primarySources": [
+                "El Amigo de la Patria.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Respected for his intellect.",
+                "Seen as a moderate."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Salvador Moncada",
+            "nativeName": "Salvador Moncada",
+            "lifespan": "1944-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Scientist",
+            "background": "Sir Salvador Moncada is a pharmacologist. He made groundbreaking discoveries about nitric oxide and inflammation, becoming one of the most cited scientists in the world.",
+            "keyDecisions": [
+                "Studying in London.",
+                "Discovering how aspirin works.",
+                "Identifying nitric oxide.",
+                "Directing the Wolfson Institute."
+            ],
+            "achievements": [
+                "Scientist.",
+                "Knight (Sir).",
+                "Nobel contender.",
+                "Pride of Honduras."
+            ],
+            "challenges": [
+                "Leaving Honduras.",
+                "Academic competition.",
+                "Politics.",
+                "Funding."
+            ],
+            "legacy": "Moncada is the genius. He proved a Honduran could lead world science.",
+            "quotes": [
+                "Science is global."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scientist.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Scientific papers.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a mastermind.",
+                "Role model for students."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Guillermo Anderson",
+            "nativeName": "Guillermo Anderson",
+            "lifespan": "1962-2016",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Guillermo Anderson was a singer-songwriter. He celebrated the nature and culture of the Caribbean coast, becoming the musical voice of Honduras.",
+            "keyDecisions": [
+                "Returning to La Ceiba.",
+                "Singing about 'El Encarguito'.",
+                "Mixing Garifuna rhythms.",
+                "Touring the world."
+            ],
+            "achievements": [
+                "Cultural Ambassador.",
+                "Voice of Honduras.",
+                "Artist.",
+                "Legend."
+            ],
+            "challenges": [
+                "Cancer.",
+                "Small market.",
+                "Politics.",
+                "Early death."
+            ],
+            "legacy": "Guillermo is the sound of home. His songs are anthems of nostalgia.",
+            "quotes": [
+                "En mi país."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Musician.",
+            "culturalImpact": "He is beloved.",
+            "primarySources": [
+                "Songs.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Revered as a national treasure.",
+                "His joy is missed."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Clementina Suárez",
+            "nativeName": "Clementina Suárez",
+            "lifespan": "1902-1991",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Clementina Suárez was a poet and bohemian. Known as the 'New Woman', she broke social norms and promoted Central American art.",
+            "keyDecisions": [
+                "Living a bohemian life.",
+                "Publishing 'Corazón Sangrante'.",
+                "Promoting artists.",
+                "Dying tragically (murdered)."
+            ],
+            "achievements": [
+                "Matriarch of poetry.",
+                "Feminist icon.",
+                "Muse.",
+                "Rebel."
+            ],
+            "challenges": [
+                "Conservatism.",
+                "Gossip.",
+                "Violence.",
+                "Solitude."
+            ],
+            "legacy": "Clementina is the fire. She was a woman ahead of her time.",
+            "quotes": [
+                "I am a poet."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "She is a legend.",
+            "primarySources": [
+                "Poems.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a free spirit.",
+                "Her murder remains a scar."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "David Suazo",
+            "nativeName": "Óscar David Suazo Velásquez",
+            "lifespan": "1979-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "David Suazo (La Pantera) is a footballer. He became a star in Italy's Serie A, playing for Cagliari and Inter Milan.",
+            "keyDecisions": [
+                "Moving to Italy.",
+                "Becoming captain of Cagliari.",
+                "Signing with Inter Milan.",
+                "Scoring goals."
+            ],
+            "achievements": [
+                "La Pantera.",
+                "Serie A Foreign Footballer of the Year.",
+                "Legend.",
+                "Icon."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Racism.",
+                "Competition.",
+                "Retirement."
+            ],
+            "legacy": "Suazo is the King. He showed Hondurans could conquer Europe.",
+            "quotes": [
+                "Goal!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Athlete.",
+            "culturalImpact": "He is a hero.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Role model."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Froylán Turcios",
+            "nativeName": "Froylán Turcios",
+            "lifespan": "1875-1943",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Diplomat",
+            "background": "Froylán Turcios was a writer and journalist. He was a fierce nationalist who supported Sandino in Nicaragua and opposed US intervention.",
+            "keyDecisions": [
+                "Supporting Sandino.",
+                "Writing 'El Vampiro'.",
+                "Serving as a diplomat.",
+                "Defending sovereignty."
+            ],
+            "achievements": [
+                "Intellectual.",
+                "Nationalist.",
+                "Writer.",
+                "Voice."
+            ],
+            "challenges": [
+                "US Marines.",
+                "Dictators.",
+                "Exile.",
+                "Politics."
+            ],
+            "legacy": "Turcios is the pen of resistance. He fought with words.",
+            "quotes": [
+                "Sovereignty."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Intellectual.",
+            "culturalImpact": "He is a literary giant.",
+            "primarySources": [
+                "Novels.",
+                "Articles."
+            ],
+            "modernInterpretations": [
+                "Revered as a patriot.",
+                "His anti-imperialism is remembered."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Visitación Padilla",
+            "nativeName": "Visitación Padilla",
+            "lifespan": "1882-1960",
+            "era": "Modern Period (20th Century)",
+            "role": "Activist, Teacher",
+            "background": "Visitación Padilla was a teacher and feminist. She organized women against the US occupation and the dictatorship of Tiburcio Carías Andino.",
+            "keyDecisions": [
+                "Founding the 'Sociedad Cultural Femenina'.",
+                "Opposing the US Marines.",
+                "Refusing to hang the dictator's portrait.",
+                "Teaching the poor."
+            ],
+            "achievements": [
+                "Feminist pioneer.",
+                "Teacher.",
+                "Patriot.",
+                "Conscience."
+            ],
+            "challenges": [
+                "Dictatorship.",
+                "Patriarchy.",
+                "Poverty.",
+                "Fear."
+            ],
+            "legacy": "Visitación is the teacher of dignity. The women's movement bears her name (Las Chonas).",
+            "quotes": [
+                "For the fatherland."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Teacher.",
+            "culturalImpact": "She is a symbol of resistance.",
+            "primarySources": [
+                "Articles.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a heroine.",
+                "Her legacy is active."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Ramón Amaya Amador",
+            "nativeName": "Ramón Amaya Amador",
+            "lifespan": "1916-1966",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Ramón Amaya Amador was a communist writer. His novel 'Prisión Verde' (Green Prison) exposed the exploitation of workers by the banana companies.",
+            "keyDecisions": [
+                "Working in the banana fields.",
+                "Writing 'Prisión Verde'.",
+                "Going into exile.",
+                "Dying in a plane crash."
+            ],
+            "achievements": [
+                "Voice of the workers.",
+                "Novelist.",
+                "Activist.",
+                "Martyr."
+            ],
+            "challenges": [
+                "United Fruit Company.",
+                "Dictatorship.",
+                "Exile (Prague).",
+                "Censorship."
+            ],
+            "legacy": "Amaya Amador told the truth. His book is the conscience of the banana republic.",
+            "quotes": [
+                "Green Prison."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "His book is required reading.",
+            "primarySources": [
+                "Prisión Verde.",
+                "Cipotes."
+            ],
+            "modernInterpretations": [
+                "Revered as a social realist.",
+                "Symbol of labor rights."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "José Trinidad Cabañas",
+            "nativeName": "José Trinidad Cabañas",
+            "lifespan": "1805-1871",
+            "era": "Modern Period (19th Century)",
+            "role": "General, President",
+            "background": "Cabañas was a general and President. Known as the 'Gentleman General', he was a loyal follower of Morazán and a model of honesty.",
+            "keyDecisions": [
+                "Fighting for the Federation.",
+                "Serving as President.",
+                "Refusing a pension.",
+                "Dying poor."
+            ],
+            "achievements": [
+                "Gentleman General.",
+                "President.",
+                "Patriot.",
+                "Hero."
+            ],
+            "challenges": [
+                "Carrera (Guatemala).",
+                "War.",
+                "Poverty.",
+                "Exile."
+            ],
+            "legacy": "Cabañas is the honest man. He proved politics could be clean.",
+            "quotes": [
+                "Honesty."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Gentleman.",
+            "culturalImpact": "He is on the 10 Lempira note.",
+            "primarySources": [
+                "Letters.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of politics.",
+                "Symbol of integrity."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Alberth Elis",
+            "nativeName": "Alberth Josué Elis Martínez",
+            "lifespan": "1996-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Alberth Elis (La Panterita) is a footballer. Known for his speed and panther celebration, he has played in MLS and France.",
+            "keyDecisions": [
+                "Playing for Houston Dynamo.",
+                "Moving to Bordeaux.",
+                "Recovering from a severe head injury.",
+                "Inspiring youth."
+            ],
+            "achievements": [
+                "La Panterita.",
+                "Star.",
+                "Survivor.",
+                "Role model."
+            ],
+            "challenges": [
+                "Head injury (coma).",
+                "Rehabilitation.",
+                "Career uncertainty.",
+                "Pressure."
+            ],
+            "legacy": "Elis is the fighter. His recovery is a miracle.",
+            "quotes": [
+                "God is great."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Fighter.",
+            "culturalImpact": "He is loved for his spirit.",
+            "primarySources": [
+                "Match records.",
+                "News."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "Symbol of resilience."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Roberto Sosa",
+            "nativeName": "Roberto Sosa",
+            "lifespan": "1930-2011",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Roberto Sosa was a poet. He is considered the national poet of Honduras, known for 'The Poor' and 'Un Mundo para Todos Dividido'.",
+            "keyDecisions": [
+                "Writing about the poor.",
+                "Winning the Adonáis Prize.",
+                "Editing magazines.",
+                "Staying in Honduras."
+            ],
+            "achievements": [
+                "National Poet.",
+                "Voice of the voiceless.",
+                "Master.",
+                "Icon."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Politics.",
+                "Censorship.",
+                "Health."
+            ],
+            "legacy": "Sosa is the conscience. 'The poor are many and therefore impossible to forget.'",
+            "quotes": [
+                "The poor are many."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "His poems are anthems.",
+            "primarySources": [
+                "Los Pobres.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a literary giant.",
+                "His work is timeless."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Dionisio de Herrera",
+            "nativeName": "José Dionisio de la Trinidad de Herrera y Díaz del Valle",
+            "lifespan": "1781-1850",
+            "era": "Modern Period (19th Century)",
+            "role": "Head of State",
+            "background": "Dionisio de Herrera was the first Head of State of Honduras. He was a liberal scholar, cousin of Valle, and uncle-in-law of Morazán.",
+            "keyDecisions": [
+                "Writing the first constitution.",
+                "Abolishing slavery (before Lincoln).",
+                "Defending the state.",
+                "Mentoring Morazán."
+            ],
+            "achievements": [
+                "First Head of State.",
+                "Lawyer.",
+                "Liberal.",
+                "Father."
+            ],
+            "challenges": [
+                "Conservatives.",
+                "Coups.",
+                "Prison.",
+                "Poverty."
+            ],
+            "legacy": "Herrera laid the foundation. He was the teacher of the revolution.",
+            "quotes": [
+                "Law."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Founder.",
+            "culturalImpact": "He is on the 20 Lempira note.",
+            "primarySources": [
+                "Constitution.",
+                "Decrees."
+            ],
+            "modernInterpretations": [
+                "Respected as a statesman.",
+                "Symbol of law."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Juan Ramón Molina",
+            "nativeName": "Juan Ramón Molina",
+            "lifespan": "1875-1908",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Poet",
+            "background": "Juan Ramón Molina was a modernist poet. He was the 'Prince of Honduran Letters', known for his brilliant but tragic life.",
+            "keyDecisions": [
+                "Writing 'Tierras, Mares y Cielos'.",
+                "Traveling to Rio.",
+                "Meeting Rubén Darío.",
+                "Dying of morphine overdose."
+            ],
+            "achievements": [
+                "Modernist master.",
+                "Poet.",
+                "Genius.",
+                "Tragic hero."
+            ],
+            "challenges": [
+                "Alcoholism.",
+                "Depression.",
+                "Poverty.",
+                "Early death."
+            ],
+            "legacy": "Molina is the lost genius. He burned too bright.",
+            "quotes": [
+                "I was born with the soul of a ruin."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "He is a literary legend.",
+            "primarySources": [
+                "Poems.",
+                "Articles."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "Symbol of the cursed poet."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Tiburcio Carías Andino",
+            "nativeName": "Tiburcio Carías Andino",
+            "lifespan": "1876-1969",
+            "era": "Modern Period (20th Century)",
+            "role": "Dictator",
+            "background": "Carías was a dictator who ruled for 16 years (El Cariato). He brought stability and order but at the cost of democracy and freedom.",
+            "keyDecisions": [
+                "Seizing power.",
+                "Banning strikes.",
+                "Building roads.",
+                "Stepping down peacefully (rare)."
+            ],
+            "achievements": [
+                "Dictator.",
+                "General.",
+                "Strongman.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Rebellions.",
+                "Liberals.",
+                "US pressure.",
+                "Legacy."
+            ],
+            "legacy": "Carías is the iron fist. 'Burial, exile, or imprisonment.'",
+            "quotes": [
+                "Encierro, destierro o entierro."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dictator.",
+            "culturalImpact": "He defined an era.",
+            "primarySources": [
+                "Decrees.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Reviled by liberals.",
+                "Respected by conservatives for order."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Carlos Roberto Reina",
+            "nativeName": "Carlos Roberto Reina Idiáquez",
+            "lifespan": "1926-2003",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Carlos Roberto Reina was a President who fought for human rights and curbed the power of the military (The Moral Revolution).",
+            "keyDecisions": [
+                "Abolishing the draft.",
+                "Separating police from army.",
+                "Fighting corruption.",
+                "Promoting human rights."
+            ],
+            "achievements": [
+                "Democrat.",
+                "Reformer.",
+                "Lawyer.",
+                "President."
+            ],
+            "challenges": [
+                "Military power.",
+                "Corruption.",
+                "Economic crisis.",
+                "Bomb attacks."
+            ],
+            "legacy": "Reina tamed the tiger. He returned power to civilians.",
+            "quotes": [
+                "Moral Revolution."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Reformer.",
+            "culturalImpact": "He changed the state.",
+            "primarySources": [
+                "Speeches.",
+                "Laws."
+            ],
+            "modernInterpretations": [
+                "Respected for his courage.",
+                "Symbol of democracy."
+            ]
+        }
+    ]
+}

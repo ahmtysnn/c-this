@@ -1,0 +1,761 @@
+{
+    "country": "Hungary",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Stephen I",
+            "nativeName": "Szent István",
+            "lifespan": "975-1038",
+            "era": "Medieval Period",
+            "role": "King, Saint",
+            "background": "Stephen I was the first King of Hungary. He Christianized the Magyars and established the Kingdom of Hungary, receiving his crown from the Pope.",
+            "keyDecisions": [
+                "Converting to Christianity.",
+                "Defeating pagan rebels (Koppány).",
+                "Receiving the Holy Crown (1000).",
+                "Establishing dioceses."
+            ],
+            "achievements": [
+                "Founder of the State.",
+                "Saint.",
+                "King.",
+                "Apostolic Majesty."
+            ],
+            "challenges": [
+                "Paganism.",
+                "Rebellions.",
+                "Succession (death of son Imre).",
+                "German pressure."
+            ],
+            "legacy": "Stephen is the rock. August 20 is St. Stephen's Day.",
+            "quotes": [
+                "Be humble, mild, and meek."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Founder.",
+            "culturalImpact": "The Holy Crown is the symbol of the nation.",
+            "primarySources": [
+                "Admonitions.",
+                "Legends."
+            ],
+            "modernInterpretations": [
+                "Revered as the father of the nation.",
+                "Symbol of statehood."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ferenc Puskás",
+            "nativeName": "Puskás Ferenc",
+            "lifespan": "1927-2006",
+            "era": "Modern Period (20th Century)",
+            "role": "Athlete",
+            "background": "Ferenc Puskás was a footballer. He was the captain of the 'Mighty Magyars' and a star for Real Madrid, considered one of the greatest scorers ever.",
+            "keyDecisions": [
+                "Leading the Golden Team.",
+                "Defeating England 6-3 (Match of the Century).",
+                "Defecting after 1956.",
+                "Joining Real Madrid."
+            ],
+            "achievements": [
+                "Olympic Champion.",
+                "European Cup winner.",
+                "Galloping Major.",
+                "Legend."
+            ],
+            "challenges": [
+                "1954 World Cup Final (loss).",
+                "Exile.",
+                "Weight gain.",
+                "Communism."
+            ],
+            "legacy": "Puskás is the most famous Hungarian. The FIFA goal of the year award is named after him.",
+            "quotes": [
+                "Small money, small football."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Athlete.",
+            "culturalImpact": "He is a god in Budapest and Madrid.",
+            "primarySources": [
+                "Match records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the GOAT.",
+                "Symbol of the Golden Era."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Franz Liszt",
+            "nativeName": "Liszt Ferenc",
+            "lifespan": "1811-1886",
+            "era": "Modern Period (19th Century)",
+            "role": "Composer, Pianist",
+            "background": "Franz Liszt was a composer and virtuoso pianist. He was the first rock star of classical music (Lisztomania) and a generous patron of other artists.",
+            "keyDecisions": [
+                "Inventing the piano recital.",
+                "Composing Hungarian Rhapsodies.",
+                "Supporting Wagner.",
+                "Taking minor orders (Abbé Liszt)."
+            ],
+            "achievements": [
+                "Piano virtuoso.",
+                "Composer.",
+                "Superstar.",
+                "Philanthropist."
+            ],
+            "challenges": [
+                "Critics.",
+                "Scandals.",
+                "Nationality debates.",
+                "Old age."
+            ],
+            "legacy": "Liszt is the piano. He redefined what was possible on the instrument.",
+            "quotes": [
+                "Génie oblige."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Virtuoso.",
+            "culturalImpact": "The airport is named after him.",
+            "primarySources": [
+                "Music scores.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Symbol of Hungarian music."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Lajos Kossuth",
+            "nativeName": "Kossuth Lajos",
+            "lifespan": "1802-1894",
+            "era": "Modern Period (19th Century)",
+            "role": "Revolutionary",
+            "background": "Lajos Kossuth was a lawyer and politician. He led the Hungarian Revolution of 1848 against the Habsburgs, becoming the Governor-President.",
+            "keyDecisions": [
+                "Demanding reforms.",
+                "Declaring independence (1849).",
+                "Leading the war of independence.",
+                "Going into exile (Turin)."
+            ],
+            "achievements": [
+                "Governor-President.",
+                "Orator.",
+                "Freedom fighter.",
+                "Icon."
+            ],
+            "challenges": [
+                "Austrian army.",
+                "Russian intervention.",
+                "Internal divisions.",
+                "Exile."
+            ],
+            "legacy": "Kossuth is the voice of freedom. His statue stands in the US Capitol.",
+            "quotes": [
+                "I am a man of the people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Revolutionary.",
+            "culturalImpact": "Every town has a Kossuth street.",
+            "primarySources": [
+                "Speeches.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Revered as a national hero.",
+                "Symbol of resistance."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Béla Bartók",
+            "nativeName": "Bartók Béla",
+            "lifespan": "1881-1945",
+            "era": "Modern Period (20th Century)",
+            "role": "Composer",
+            "background": "Béla Bartók was a composer and ethnomusicologist. He collected folk songs and integrated them into modern classical music, creating a unique Hungarian sound.",
+            "keyDecisions": [
+                "Collecting folk music with Kodály.",
+                "Composing 'Bluebeard's Castle'.",
+                "Fleeing the Nazis to the US.",
+                "Dying in New York."
+            ],
+            "achievements": [
+                "Master composer.",
+                "Ethnomusicologist.",
+                "Pianist.",
+                "Genius."
+            ],
+            "challenges": [
+                "Nazism.",
+                "Poverty (in US).",
+                "Leukemia.",
+                "Misunderstanding."
+            ],
+            "legacy": "Bartók preserved the soul. He proved folk music is high art.",
+            "quotes": [
+                "Competitions are for horses, not artists."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Composer.",
+            "culturalImpact": "He is a giant of 20th-century music.",
+            "primarySources": [
+                "Concerto for Orchestra.",
+                "Folk song collections."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "Symbol of integrity."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "István Széchenyi",
+            "nativeName": "Gróf Széchenyi István",
+            "lifespan": "1791-1860",
+            "era": "Modern Period (19th Century)",
+            "role": "Reformer",
+            "background": "Count Széchenyi was a statesman. Known as 'The Greatest Hungarian', he modernized the country, building the Chain Bridge and founding the Academy of Sciences.",
+            "keyDecisions": [
+                "Donating his income to found the Academy.",
+                "Building the Chain Bridge.",
+                "Regulating the Danube.",
+                "Opposing Kossuth's radicalism."
+            ],
+            "achievements": [
+                "The Greatest Hungarian.",
+                "Modernizer.",
+                "Builder.",
+                "Writer."
+            ],
+            "challenges": [
+                "Conservatives.",
+                "Kossuth.",
+                "Mental illness.",
+                "Suicide."
+            ],
+            "legacy": "Széchenyi built the infrastructure. He wanted evolution, not revolution.",
+            "quotes": [
+                "Merjünk nagyok lenni (Let us dare to be great)."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Modernizer.",
+            "culturalImpact": "The Chain Bridge is his monument.",
+            "primarySources": [
+                "Credit.",
+                "Diaries."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "Contrast to Kossuth."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Imre Nagy",
+            "nativeName": "Nagy Imre",
+            "lifespan": "1896-1958",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician, Martyr",
+            "background": "Imre Nagy was a communist politician who led the 1956 Revolution against Soviet rule. He was executed for treason and became a symbol of national independence.",
+            "keyDecisions": [
+                "Siding with the revolutionaries.",
+                "Declaring neutrality.",
+                "Withdrawing from the Warsaw Pact.",
+                "Refusing to resign."
+            ],
+            "achievements": [
+                "Prime Minister.",
+                "Martyr.",
+                "Symbol of 1956.",
+                "Hero."
+            ],
+            "challenges": [
+                "Soviet tanks.",
+                "Betrayal (Kádár).",
+                "Trial.",
+                "Execution."
+            ],
+            "legacy": "Nagy is the martyr. His reburial in 1989 marked the end of communism.",
+            "quotes": [
+                "Our troops are fighting."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "He is the face of the revolution.",
+            "primarySources": [
+                "Radio speeches.",
+                "Trial records."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "Symbol of sacrifice."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Harry Houdini",
+            "nativeName": "Erik Weisz",
+            "lifespan": "1874-1926",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Magician",
+            "background": "Harry Houdini was an illusionist and stunt performer. Born in Budapest, he became the world's most famous escape artist.",
+            "keyDecisions": [
+                "Moving to America.",
+                "Changing his name.",
+                "Inventing the straitjacket escape.",
+                "Debunking spiritualists."
+            ],
+            "achievements": [
+                "Handcuff King.",
+                "Escape artist.",
+                "Superstar.",
+                "Skeptic."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Copycats.",
+                "Spiritualists.",
+                "Appendicitis (death)."
+            ],
+            "legacy": "Houdini is magic. He proved nothing can hold a man.",
+            "quotes": [
+                "My brain is the key that sets me free."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Magician.",
+            "culturalImpact": "He is a pop culture icon.",
+            "primarySources": [
+                "Posters.",
+                "Films."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His Hungarian roots are often forgotten."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "John von Neumann",
+            "nativeName": "Neumann János",
+            "lifespan": "1903-1957",
+            "era": "Modern Period (20th Century)",
+            "role": "Mathematician",
+            "background": "John von Neumann was a mathematician and polymath. He made foundational contributions to quantum mechanics, game theory, nuclear physics, and computer science.",
+            "keyDecisions": [
+                "Moving to the US.",
+                "Working on the Manhattan Project.",
+                "Designing the von Neumann architecture.",
+                "Developing Game Theory."
+            ],
+            "achievements": [
+                "Genius.",
+                "Father of the Computer.",
+                "Strategist (MAD).",
+                "Polymath."
+            ],
+            "challenges": [
+                "Cancer.",
+                "Cold War.",
+                "Complexity.",
+                "Time."
+            ],
+            "legacy": "Von Neumann built the modern world. Your computer runs on his architecture.",
+            "quotes": [
+                "It would appear that we have reached the limits of what it is possible to achieve with computer technology (1949)."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Genius.",
+            "culturalImpact": "He was a Martian (one of the Hungarian scientists).",
+            "primarySources": [
+                "Papers.",
+                "Books."
+            ],
+            "modernInterpretations": [
+                "Revered as one of the smartest humans ever.",
+                "Symbol of the 'Martians'."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Ernő Rubik",
+            "nativeName": "Rubik Ernő",
+            "lifespan": "1944-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Inventor",
+            "background": "Ernő Rubik is an architect and professor. He invented the Rubik's Cube, the world's best-selling toy.",
+            "keyDecisions": [
+                "Inventing the Magic Cube (1974).",
+                "Patenting it.",
+                "Licensing it to Ideal Toy Corp.",
+                "Remaining humble."
+            ],
+            "achievements": [
+                "Inventor of the Cube.",
+                "Professor.",
+                "Millionaire.",
+                "Icon."
+            ],
+            "challenges": [
+                "Iron Curtain (exporting ideas).",
+                "Copycats.",
+                "Fame.",
+                "Solving it himself (took a month)."
+            ],
+            "legacy": "Rubik created a universal language. The Cube is a symbol of intelligence.",
+            "quotes": [
+                "The Cube is an imitation of life itself - or even an improvement on life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Inventor.",
+            "culturalImpact": "The Cube is everywhere.",
+            "primarySources": [
+                "The Cube.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "Symbol of Hungarian creativity."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Zsa Zsa Gabor",
+            "nativeName": "Gábor Sári",
+            "lifespan": "1917-2016",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Actress, Socialite",
+            "background": "Zsa Zsa Gabor was an actress and socialite. Famous for her beauty, her nine husbands, and calling everyone 'Dahling', she was the original famous-for-being-famous star.",
+            "keyDecisions": [
+                "Moving to Hollywood.",
+                "Marrying Conrad Hilton.",
+                "Slapping a police officer.",
+                "Being fabulous."
+            ],
+            "achievements": [
+                "Miss Hungary (1936).",
+                "Hollywood star.",
+                "Icon.",
+                "Author."
+            ],
+            "challenges": [
+                "Scandals.",
+                "Divorces.",
+                "Health.",
+                "Car accidents."
+            ],
+            "legacy": "Zsa Zsa invented the celebrity. She was the Kardashians before the Kardashians.",
+            "quotes": [
+                "I am a marvelous housekeeper. Every time I leave a man I keep his house."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Diva.",
+            "culturalImpact": "She is a camp legend.",
+            "primarySources": [
+                "Films.",
+                "Talk shows."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Symbol of glamour."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Ignaz Semmelweis",
+            "nativeName": "Semmelweis Ignác",
+            "lifespan": "1818-1865",
+            "era": "Modern Period (19th Century)",
+            "role": "Physician",
+            "background": "Ignaz Semmelweis was a doctor. He discovered that handwashing could prevent childbed fever, saving countless lives, but was ridiculed by the medical establishment.",
+            "keyDecisions": [
+                "Observing mortality rates.",
+                "Mandating handwashing with chlorine.",
+                "Publishing his findings.",
+                "Going mad."
+            ],
+            "achievements": [
+                "Savior of Mothers.",
+                "Pioneer of antisepsis.",
+                "Scientist.",
+                "Martyr of science."
+            ],
+            "challenges": [
+                "Medical dogma.",
+                "Ridicule.",
+                "Rejection.",
+                "Asylum (death)."
+            ],
+            "legacy": "Semmelweis was right. The 'Semmelweis reflex' is the rejection of new knowledge.",
+            "quotes": [
+                "Murderers!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Doctor.",
+            "culturalImpact": "He is a hero of medicine.",
+            "primarySources": [
+                "Etiology of Childbed Fever.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a tragic genius.",
+                "Symbol of truth."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Matthias Corvinus",
+            "nativeName": "Hunyadi Mátyás",
+            "lifespan": "1443-1490",
+            "era": "Medieval Period",
+            "role": "King",
+            "background": "Matthias Corvinus was the King of Hungary. Known as 'Matthias the Just', he made Hungary a Renaissance power, building the Bibliotheca Corviniana.",
+            "keyDecisions": [
+                "Creating the Black Army.",
+                "Patronizing the arts.",
+                "Conquering Vienna.",
+                "Ruling with a strong hand."
+            ],
+            "achievements": [
+                "The Just.",
+                "Renaissance King.",
+                "Conqueror.",
+                "Scholar."
+            ],
+            "challenges": [
+                "Ottomans.",
+                "Habsburgs.",
+                "Nobility.",
+                "Succession (no heir)."
+            ],
+            "legacy": "Matthias is the golden age. 'Matthias is dead, justice is lost.'",
+            "quotes": [
+                "The King is just."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The King.",
+            "culturalImpact": "He is the hero of folk tales.",
+            "primarySources": [
+                "Chronicles.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as the greatest king.",
+                "Symbol of strength."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Robert Capa",
+            "nativeName": "Friedmann Endre",
+            "lifespan": "1913-1954",
+            "era": "Modern Period (20th Century)",
+            "role": "Photographer",
+            "background": "Robert Capa was a war photographer. He co-founded Magnum Photos and covered five wars, famously capturing 'The Falling Soldier' and D-Day.",
+            "keyDecisions": [
+                "Changing his name.",
+                "Covering the Spanish Civil War.",
+                "Landing at Omaha Beach.",
+                "Stepping on a landmine in Vietnam."
+            ],
+            "achievements": [
+                "Greatest war photographer.",
+                "Founder of Magnum.",
+                "Adventurer.",
+                "Legend."
+            ],
+            "challenges": [
+                "Danger.",
+                "Loss of Gerda Taro.",
+                "Blurry photos (D-Day).",
+                "Death."
+            ],
+            "legacy": "Capa is the lens. 'If your pictures aren't good enough, you aren't close enough.'",
+            "quotes": [
+                "If your pictures aren't good enough, you aren't close enough."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Photographer.",
+            "culturalImpact": "He defined war photography.",
+            "primarySources": [
+                "Photos.",
+                "Slightly Out of Focus."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "Symbol of bravery."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Judit Polgár",
+            "nativeName": "Polgár Judit",
+            "lifespan": "1976-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Chess Player",
+            "background": "Judit Polgár is a chess grandmaster. She is the greatest female chess player of all time, the only woman to be ranked in the top 10 worldwide.",
+            "keyDecisions": [
+                "Playing in men's tournaments.",
+                "Becoming a Grandmaster at 15.",
+                "Defeating Kasparov.",
+                "Retiring at the top."
+            ],
+            "achievements": [
+                "Queen of Chess.",
+                "Grandmaster.",
+                "Prodigy.",
+                "Icon."
+            ],
+            "challenges": [
+                "Sexism.",
+                "Pressure.",
+                "Kasparov.",
+                "Expectations."
+            ],
+            "legacy": "Judit proved women can play. She broke the gender barrier in chess.",
+            "quotes": [
+                "Chess is mental torture."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Grandmaster.",
+            "culturalImpact": "She is a role model.",
+            "primarySources": [
+                "Game records.",
+                "Books."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the GOAT.",
+                "Symbol of female intellect."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Sándor Petőfi",
+            "nativeName": "Petőfi Sándor",
+            "lifespan": "1823-1849",
+            "era": "Modern Period (19th Century)",
+            "role": "Poet, Revolutionary",
+            "background": "Sándor Petőfi was a poet and revolutionary. He wrote the 'National Song' (Nemzeti dal), which sparked the 1848 Revolution, and died in battle.",
+            "keyDecisions": [
+                "Writing the 'National Song'.",
+                "Reciting it on the museum steps.",
+                "Joining the army.",
+                "Disappearing in battle (Segesvár)."
+            ],
+            "achievements": [
+                "National Poet.",
+                "Revolutionary.",
+                "Hero.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Censorship.",
+                "War.",
+                "Death."
+            ],
+            "legacy": "Petőfi is the fire. 'Talpra magyar!' (Rise up, Magyar!)",
+            "quotes": [
+                "Liberty and love."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "He is the soul of 1848.",
+            "primarySources": [
+                "Poems.",
+                "National Song."
+            ],
+            "modernInterpretations": [
+                "Revered as a god.",
+                "His death is a mystery."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Albert Szent-Györgyi",
+            "nativeName": "Szent-Györgyi Albert",
+            "lifespan": "1893-1986",
+            "era": "Modern Period (20th Century)",
+            "role": "Scientist",
+            "background": "Albert Szent-Györgyi was a biochemist. He discovered Vitamin C (in paprika) and won the Nobel Prize in Physiology or Medicine.",
+            "keyDecisions": [
+                "Isolating Vitamin C.",
+                "Using paprika.",
+                "Winning the Nobel Prize.",
+                "Emigrating to the US."
+            ],
+            "achievements": [
+                "Nobel Laureate.",
+                "Discoverer of Vitamin C.",
+                "Scientist.",
+                "Pacifist."
+            ],
+            "challenges": [
+                "Nazis.",
+                "Communists.",
+                "Research funding.",
+                "War."
+            ],
+            "legacy": "Szent-Györgyi gave us health. And he put paprika on the scientific map.",
+            "quotes": [
+                "Discovery consists of seeing what everybody has seen and thinking what nobody has thought."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scientist.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Papers.",
+                "The Crazy Ape."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "Symbol of Hungarian science."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Attila the Hun",
+            "nativeName": "Attila",
+            "lifespan": "406-453",
+            "era": "Ancient Period",
+            "role": "Ruler",
+            "background": "Attila was the ruler of the Huns. Known as the 'Scourge of God', he built a vast empire and challenged Rome. Hungarians claim him as an ancestor.",
+            "keyDecisions": [
+                "Uniting the Hunnic tribes.",
+                "Invading the Roman Empire.",
+                "Meeting Pope Leo I.",
+                "Dying on his wedding night."
+            ],
+            "achievements": [
+                "Scourge of God.",
+                "Conqueror.",
+                "King.",
+                "Legend."
+            ],
+            "challenges": [
+                "Romans.",
+                "Aetius.",
+                "Logistics.",
+                "Nosebleed (death)."
+            ],
+            "legacy": "Attila is the myth. He is a hero in Hungary and a villain in the West.",
+            "quotes": [
+                "Where my horse has trod, no grass grows."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Ancestor.",
+            "culturalImpact": "Attila is a common name in Hungary.",
+            "primarySources": [
+                "Priscus.",
+                "Legends."
+            ],
+            "modernInterpretations": [
+                "Revered as a powerful king.",
+                "Symbol of martial prowess."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,761 @@
+{
+    "country": "Burkina Faso",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Thomas Sankara",
+            "nativeName": "Thomas Isidore Noël Sankara",
+            "lifespan": "1949-1987",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Thomas Sankara was a revolutionary leader and President of Burkina Faso. Known as 'Africa's Che Guevara', he renamed the country (Land of Upright People) and launched ambitious social programs.",
+            "keyDecisions": [
+                "Renaming Upper Volta to Burkina Faso.",
+                "Vaccinating 2.5 million children in weeks.",
+                "Planting 10 million trees.",
+                "Promoting women's rights (banning FGM)."
+            ],
+            "achievements": [
+                "Revolutionary icon.",
+                "Anti-imperialist.",
+                "Feminist.",
+                "Environmentalist."
+            ],
+            "challenges": [
+                "French opposition.",
+                "Internal dissent.",
+                "Betrayal by Blaise Compaoré.",
+                "Assassination."
+            ],
+            "legacy": "Sankara is a hero to the youth of Africa. His integrity and vision inspire millions.",
+            "quotes": [
+                "Dare to invent the future."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Upright Man.",
+            "culturalImpact": "He is a global symbol of resistance.",
+            "primarySources": [
+                "Speeches.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a martyr.",
+                "His ideas are seeing a revival."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Blaise Compaoré",
+            "nativeName": "Blaise Compaoré",
+            "lifespan": "1951-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Blaise Compaoré was the President of Burkina Faso for 27 years after overthrowing Sankara. He was a key regional mediator but was ousted in a popular uprising in 2014.",
+            "keyDecisions": [
+                "Leading the 1987 coup.",
+                "Reversing Sankara's policies.",
+                "Mediating conflicts in West Africa.",
+                "Attempting to extend his term."
+            ],
+            "achievements": [
+                "Longest-serving president.",
+                "Stability (for a time).",
+                "Mediator.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Shadow of Sankara's murder.",
+                "2014 uprising.",
+                "Exile in Côte d'Ivoire.",
+                "Trial in absentia."
+            ],
+            "legacy": "Compaoré is the villain to Sankara's hero. His fall showed the power of the street.",
+            "quotes": [
+                "I am a man of peace."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Strongman.",
+            "culturalImpact": "His ousting was a historic moment.",
+            "primarySources": [
+                "Decrees.",
+                "Court records."
+            ],
+            "modernInterpretations": [
+                "Condemned for Sankara's death.",
+                "Viewed as a stabilizing force by some."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Joseph Ki-Zerbo",
+            "nativeName": "Joseph Ki-Zerbo",
+            "lifespan": "1922-2006",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Historian",
+            "background": "Joseph Ki-Zerbo was a historian and politician. He was the first African to aggregate in history in France and wrote the 'General History of Africa'.",
+            "keyDecisions": [
+                "Campaigning for 'No' in 1958.",
+                "Writing African history from an African perspective.",
+                "Founding the MLN party.",
+                "Promoting endogenous development."
+            ],
+            "achievements": [
+                "Greatest African historian.",
+                "Right Livelihood Award.",
+                "Professor.",
+                "Socialist leader."
+            ],
+            "challenges": [
+                "Exile.",
+                "Political persecution.",
+                "Burning of his library.",
+                "Old age."
+            ],
+            "legacy": "Ki-Zerbo taught Africa its own history. 'Na an laara, an saara' (If we lie down, we are dead).",
+            "quotes": [
+                "Nan an laara, an saara."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Professor.",
+            "culturalImpact": "He is a giant of intellect.",
+            "primarySources": [
+                "General History of Africa.",
+                "A quand l'Afrique?"
+            ],
+            "modernInterpretations": [
+                "Revered as a sage.",
+                "His slogan is the motto of the resistance."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Princess Yennenga",
+            "nativeName": "Yennenga",
+            "lifespan": "12th Century",
+            "era": "Medieval Period",
+            "role": "Princess, Warrior",
+            "background": "Princess Yennenga was a warrior princess of the Dagomba kingdom. She is the mother of the Mossi people, having founded the dynasty with the hunter Rialé.",
+            "keyDecisions": [
+                "Refusing to marry.",
+                "Fighting in battles.",
+                "Running away on her stallion.",
+                "Marrying Rialé and giving birth to Ouedraogo."
+            ],
+            "achievements": [
+                "Mother of the Mossi.",
+                "Warrior.",
+                "Symbol of independence.",
+                "Legend."
+            ],
+            "challenges": [
+                "Patriarchy.",
+                "Father's control.",
+                "Wilderness.",
+                "Destiny."
+            ],
+            "legacy": "Yennenga is the mother of the nation. The national film award (Golden Stallion of Yennenga) is named after her.",
+            "quotes": [
+                "I want to ride."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Mother.",
+            "culturalImpact": "She is on the coat of arms.",
+            "primarySources": [
+                "Oral traditions.",
+                "Legends."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a feminist icon.",
+                "Symbol of Burkinabé identity."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Maurice Yaméogo",
+            "nativeName": "Maurice Yaméogo",
+            "lifespan": "1921-1993",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Maurice Yaméogo was the first President of Upper Volta (now Burkina Faso). He led the country to independence but was overthrown in a popular uprising in 1966.",
+            "keyDecisions": [
+                "Proclaiming independence.",
+                "Banning opposition parties.",
+                "Reducing salaries (sparking protests).",
+                "Resigning."
+            ],
+            "achievements": [
+                "First President.",
+                "Father of Independence.",
+                "Orator.",
+                "Catholic."
+            ],
+            "challenges": [
+                "Trade unions.",
+                "Economic crisis.",
+                "Authoritarianism.",
+                "1966 uprising."
+            ],
+            "legacy": "Yaméogo is the first casualty of the street. His resignation set a precedent for people power.",
+            "quotes": [
+                "I resign."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The First.",
+            "culturalImpact": "He is remembered with mixed feelings.",
+            "primarySources": [
+                "Speeches.",
+                "French archives."
+            ],
+            "modernInterpretations": [
+                "Viewed as a dictator.",
+                "His peaceful exit is praised."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Norbert Zongo",
+            "nativeName": "Norbert Zongo (Henri Sebgo)",
+            "lifespan": "1949-1998",
+            "era": "Modern Period (20th Century)",
+            "role": "Journalist",
+            "background": "Norbert Zongo was an investigative journalist and publisher of 'L'Indépendant'. He was assassinated while investigating the murder of David Ouedraogo, the driver of Blaise Compaoré's brother.",
+            "keyDecisions": [
+                "Founding L'Indépendant.",
+                "Investigating the Ouedraogo affair.",
+                "Refusing to be silenced.",
+                "Driving his car on the fateful day."
+            ],
+            "achievements": [
+                "Martyr of press freedom.",
+                "Truth teller.",
+                "Writer (The Parachute Drop).",
+                "Symbol."
+            ],
+            "challenges": [
+                "Threats.",
+                "Censorship.",
+                "Corruption.",
+                "Assassination."
+            ],
+            "legacy": "Zongo's death sparked a revolution. 'Borry Bana' (The race is over).",
+            "quotes": [
+                "The worst thing is not the wickedness of the wicked, but the silence of the good."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "He is a hero to journalists.",
+            "primarySources": [
+                "L'Indépendant.",
+                "The Parachute Drop."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "Justice was finally served in 2017 (symbolically)."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Mogho Naba",
+            "nativeName": "Mogho Naba (Title)",
+            "lifespan": "Traditional",
+            "era": "Traditional",
+            "role": "King",
+            "background": "The Mogho Naba is the King of the Mossi people. The dynasty dates back to the 12th century and remains a powerful moral authority in modern Burkina Faso.",
+            "keyDecisions": [
+                "Performing the 'False Departure' ceremony every Friday.",
+                "Mediating political crises (e.g., 2015 coup).",
+                "Preserving tradition.",
+                "Staying above politics."
+            ],
+            "achievements": [
+                "Keeper of peace.",
+                "Symbol of continuity.",
+                "Moral authority.",
+                "King."
+            ],
+            "challenges": [
+                "Modernity.",
+                "Political pressure.",
+                "Relevance.",
+                "Succession."
+            ],
+            "legacy": "The Mogho Naba is the sun of the Mossi. He saved the country from civil war multiple times.",
+            "quotes": [
+                "Peace."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Emperor.",
+            "culturalImpact": "He is revered by all.",
+            "primarySources": [
+                "Court rituals.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Respected as a peacemaker.",
+                "Symbol of stability."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Idrissa Ouédraogo",
+            "nativeName": "Idrissa Ouédraogo",
+            "lifespan": "1954-2018",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Director",
+            "background": "Idrissa Ouédraogo was a film director. He won the Grand Prix at Cannes for 'Tilaï', putting Burkinabé cinema on the world map.",
+            "keyDecisions": [
+                "Studying in Moscow and Paris.",
+                "Directing 'Yaaba'.",
+                "Directing 'Tilaï'.",
+                "Focusing on rural life."
+            ],
+            "achievements": [
+                "Cannes Grand Prix winner.",
+                "Master of cinema.",
+                "Storyteller.",
+                "Ambassador."
+            ],
+            "challenges": [
+                "Funding.",
+                "Health.",
+                "Distribution.",
+                "Expectations."
+            ],
+            "legacy": "Ouédraogo is a giant of African cinema. His visual style is iconic.",
+            "quotes": [
+                "Cinema is universal."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Auteur.",
+            "culturalImpact": "He inspired a generation.",
+            "primarySources": [
+                "Films.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His films are classics."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Hugues Fabrice Zango",
+            "nativeName": "Hugues Fabrice Zango",
+            "lifespan": "1993-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Hugues Fabrice Zango is a triple jumper. He won Burkina Faso's first-ever Olympic medal (Bronze in Tokyo 2020) and is the indoor world record holder.",
+            "keyDecisions": [
+                "Studying electrical engineering.",
+                "Training in France.",
+                "Winning Bronze in Tokyo.",
+                "Breaking the world record."
+            ],
+            "achievements": [
+                "First Olympic medalist.",
+                "World Record Holder (Indoor).",
+                "World Champion.",
+                "Doctor (PhD)."
+            ],
+            "challenges": [
+                "Balancing studies and sport.",
+                "Lack of facilities.",
+                "Competition.",
+                "Pressure."
+            ],
+            "legacy": "Zango is the golden boy. He proved that Burkinabé can fly.",
+            "quotes": [
+                "Work hard."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Olympic records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a role model.",
+                "His intellect is admired."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Gaston Kaboré",
+            "nativeName": "Gaston Kaboré",
+            "lifespan": "1951-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Director",
+            "background": "Gaston Kaboré is a film director and educator. He directed 'Wend Kuuni', a landmark film in African cinema, and founded a film school.",
+            "keyDecisions": [
+                "Directing 'Wend Kuuni'.",
+                "Using oral tradition in film.",
+                "Founding IMAGINE institute.",
+                "Training young filmmakers."
+            ],
+            "achievements": [
+                "César Award winner.",
+                "Pioneer.",
+                "Educator.",
+                "Storyteller."
+            ],
+            "challenges": [
+                "Funding.",
+                "Preserving heritage.",
+                "Building infrastructure.",
+                "Time."
+            ],
+            "legacy": "Kaboré is the teacher of cinema. He ensured the future of the industry.",
+            "quotes": [
+                "Images are important."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Educator.",
+            "culturalImpact": "He is a pillar of FESPACO.",
+            "primarySources": [
+                "Films.",
+                "IMAGINE."
+            ],
+            "modernInterpretations": [
+                "Revered as a wise man.",
+                "His contribution is immense."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Sangoulé Lamizana",
+            "nativeName": "Aboubacar Sangoulé Lamizana",
+            "lifespan": "1916-2005",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Sangoulé Lamizana was a general who ruled Upper Volta for 14 years. He took power after the 1966 uprising and is remembered for his austerity and honesty.",
+            "keyDecisions": [
+                "Taking power in 1966.",
+                "Restoring democracy (briefly).",
+                "Managing the Sahel drought.",
+                "Being overthrown by Saye Zerbo."
+            ],
+            "achievements": [
+                "Stability.",
+                "Honesty.",
+                "General.",
+                "Patriot."
+            ],
+            "challenges": [
+                "Drought.",
+                "Strikes.",
+                "Coups.",
+                "Poverty."
+            ],
+            "legacy": "Lamizana is the wise old man. He died poor, which is rare for a president.",
+            "quotes": [
+                "Austerity."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The General.",
+            "culturalImpact": "He is respected for his integrity.",
+            "primarySources": [
+                "Speeches.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a model of humility.",
+                "His era brings nostalgia."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Georgie Badiel",
+            "nativeName": "Georgie Badiel Liberty",
+            "lifespan": "1985-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Model, Activist",
+            "background": "Georgie Badiel is a model and activist. She was Miss Africa 2004 and fights for clean water access in Burkina Faso.",
+            "keyDecisions": [
+                "Becoming a model.",
+                "Writing 'The Water Princess'.",
+                "Founding the Georgie Badiel Foundation.",
+                "Building wells."
+            ],
+            "achievements": [
+                "Miss Africa.",
+                "Author.",
+                "Philanthropist.",
+                "Water activist."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Walking for water as a child.",
+                "Funding.",
+                "Awareness."
+            ],
+            "legacy": "Georgie Badiel uses her beauty for good. She brings water to the thirsty.",
+            "quotes": [
+                "Water is life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Water Princess.",
+            "culturalImpact": "She is an inspiration.",
+            "primarySources": [
+                "The Water Princess.",
+                "Foundation reports."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a role model.",
+                "Her work saves lives."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Iron Biby",
+            "nativeName": "Cheick Ahmed al-Hassan Sanou (Iron Biby)",
+            "lifespan": "1992-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Iron Biby is a strongman. He holds the world record for the log lift and is the strongest man in the world (in overhead press).",
+            "keyDecisions": [
+                "Starting powerlifting to lose weight.",
+                "Competing internationally.",
+                "Breaking the log lift world record.",
+                "Returning to Bobo-Dioulasso."
+            ],
+            "achievements": [
+                "World Record Holder (Log Lift).",
+                "Strongest Man.",
+                "National hero.",
+                "Gentle giant."
+            ],
+            "challenges": [
+                "Bullying (as a child).",
+                "Size.",
+                "Training facilities.",
+                "Pressure."
+            ],
+            "legacy": "Iron Biby is the strongest Burkinabé. He turned his weakness into his strength.",
+            "quotes": [
+                "Nothing is impossible."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Strongman.",
+            "culturalImpact": "He is beloved by children.",
+            "primarySources": [
+                "Competition records.",
+                "Videos."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "His smile is as big as his muscles."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Diébédo Francis Kéré",
+            "nativeName": "Diébédo Francis Kéré",
+            "lifespan": "1965-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Architect",
+            "background": "Francis Kéré is an architect. He is the first African to win the Pritzker Prize (the Nobel of architecture), known for his sustainable designs.",
+            "keyDecisions": [
+                "Studying in Germany.",
+                "Building a school in his village (Gando).",
+                "Using local materials (mud).",
+                "Designing the Serpentine Pavilion."
+            ],
+            "achievements": [
+                "Pritzker Prize winner.",
+                "Sustainable architect.",
+                "Visionary.",
+                "Community builder."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Skepticism about mud bricks.",
+                "Distance.",
+                "Expectations."
+            ],
+            "legacy": "Kéré builds for the people. He proved that local materials can be modern and beautiful.",
+            "quotes": [
+                "I want to bridge the gap."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Architect.",
+            "culturalImpact": "He is a global star.",
+            "primarySources": [
+                "Buildings.",
+                "Pritzker citation."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His work is the future."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Smarty",
+            "nativeName": "Louis Salif Kiekieta (Smarty)",
+            "lifespan": "1978-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician, Activist",
+            "background": "Smarty is a rapper and activist. He was a leader of the 'Balai Citoyen' (Citizen's Broom) movement that ousted Blaise Compaoré.",
+            "keyDecisions": [
+                "Forming the group Yeleen.",
+                "Founding Balai Citoyen.",
+                "Protesting in 2014.",
+                "Winning the RFI Discoveries Award."
+            ],
+            "achievements": [
+                "Revolutionary artist.",
+                "Prix Découvertes RFI.",
+                "Activist.",
+                "Voice of the youth."
+            ],
+            "challenges": [
+                "Political threats.",
+                "Danger.",
+                "Balancing music and politics.",
+                "Rebuilding."
+            ],
+            "legacy": "Smarty is the voice of the revolution. His music fueled the uprising.",
+            "quotes": [
+                "Our country needs cleaning."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Citizen.",
+            "culturalImpact": "He is a hero of 2014.",
+            "primarySources": [
+                "Songs.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a patriot.",
+                "His courage is admired."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Nazi Boni",
+            "nativeName": "Nazi Boni",
+            "lifespan": "1909-1969",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Politician",
+            "background": "Nazi Boni was a writer and politician. He wrote 'Crépuscule des temps anciens', the first novel by a Burkinabé, and was a rival of Yaméogo.",
+            "keyDecisions": [
+                "Writing his novel.",
+                "Founding the MPA party.",
+                "Opposing Yaméogo.",
+                "Going into exile."
+            ],
+            "achievements": [
+                "First novelist.",
+                "Politician.",
+                "Teacher.",
+                "Historian."
+            ],
+            "challenges": [
+                "Colonialism.",
+                "Political rivalry.",
+                "Exile.",
+                "Death in accident."
+            ],
+            "legacy": "Nazi Boni is the father of Burkinabé literature. His book is a classic of ethnography.",
+            "quotes": [
+                "Twilight of old times."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "Schools are named after him.",
+            "primarySources": [
+                "Crépuscule des temps anciens.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a pioneer.",
+                "His work preserves Bwamu culture."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Bernadette Sanou",
+            "nativeName": "Bernadette Sanou Dao",
+            "lifespan": "1952-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer, Politician",
+            "background": "Bernadette Sanou is a poet and politician. She was the first female Minister of Culture and writes poetry about women and society.",
+            "keyDecisions": [
+                "Writing poetry.",
+                "Serving as Minister.",
+                "Teaching.",
+                "Advocating for women."
+            ],
+            "achievements": [
+                "Poet.",
+                "Minister.",
+                "Teacher.",
+                "Feminist."
+            ],
+            "challenges": [
+                "Sexism.",
+                "Politics.",
+                "Publishing.",
+                "Family."
+            ],
+            "legacy": "Bernadette Sanou is the voice of Burkinabé women. Her poetry is gentle but strong.",
+            "quotes": [
+                "Woman, pillar of the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "She is studied in schools.",
+            "primarySources": [
+                "Poems.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Respected as an intellectual.",
+                "Her service is praised."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Sotigui Kouyaté",
+            "nativeName": "Sotigui Kouyaté",
+            "lifespan": "1936-2010",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Actor",
+            "background": "Sotigui Kouyaté was an actor and griot. He was a favorite of Peter Brook and won the Silver Bear at Berlin for 'London River'.",
+            "keyDecisions": [
+                "Working with Peter Brook.",
+                "Acting in 'The Mahabharata'.",
+                "Playing the father in 'London River'.",
+                "Being a griot."
+            ],
+            "achievements": [
+                "Silver Bear winner.",
+                "Global actor.",
+                "Griot.",
+                "Sage."
+            ],
+            "challenges": [
+                "Racism in Europe.",
+                "Typecasting.",
+                "Health.",
+                "Age."
+            ],
+            "legacy": "Sotigui was the wise man of the stage. His presence was magnetic.",
+            "quotes": [
+                "The word is sacred."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Griot.",
+            "culturalImpact": "He is a legend of theater.",
+            "primarySources": [
+                "Films.",
+                "Plays."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His voice is missed."
+            ]
+        }
+    ]
+}

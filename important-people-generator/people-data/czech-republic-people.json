@@ -1,0 +1,761 @@
+{
+    "country": "Czech Republic",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Václav Havel",
+            "nativeName": "Václav Havel",
+            "lifespan": "1936-2011",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "President, Playwright",
+            "background": "Václav Havel was a dissident playwright who became the first President of the Czech Republic. He led the Velvet Revolution that toppled communism.",
+            "keyDecisions": [
+                "Writing 'The Power of the Powerless'.",
+                "Founding Charter 77.",
+                "Leading the Velvet Revolution.",
+                "Becoming President."
+            ],
+            "achievements": [
+                "President.",
+                "Dissident.",
+                "Playwright.",
+                "Moral leader."
+            ],
+            "challenges": [
+                "Communism.",
+                "Prison.",
+                "Slovakia's secession.",
+                "Health."
+            ],
+            "legacy": "Havel is the conscience of the nation. 'Truth and love must prevail over lies and hatred.'",
+            "quotes": [
+                "Truth and love must prevail over lies and hatred."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The President.",
+            "culturalImpact": "He is a global icon of freedom.",
+            "primarySources": [
+                "The Power of the Powerless.",
+                "Plays."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "Symbol of democracy."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Charles IV",
+            "nativeName": "Karel IV.",
+            "lifespan": "1316-1378",
+            "era": "Medieval Period",
+            "role": "King, Emperor",
+            "background": "Charles IV was the King of Bohemia and Holy Roman Emperor. He made Prague the center of Europe, building the Charles Bridge and Charles University.",
+            "keyDecisions": [
+                "Making Prague the imperial capital.",
+                "Founding Charles University (1348).",
+                "Building the Charles Bridge.",
+                "Writing the Golden Bull."
+            ],
+            "achievements": [
+                "Father of the Country (Otec vlasti).",
+                "Emperor.",
+                "Builder.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Black Death.",
+                "Rivals.",
+                "Finances.",
+                "Succession."
+            ],
+            "legacy": "Charles IV built the Czech identity. He is the greatest Czech.",
+            "quotes": [
+                "Prague."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The King.",
+            "culturalImpact": "Prague is his monument.",
+            "primarySources": [
+                "Vita Caroli.",
+                "Golden Bull."
+            ],
+            "modernInterpretations": [
+                "Revered as the greatest Czech.",
+                "Symbol of the Golden Age."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Jan Hus",
+            "nativeName": "Jan Hus",
+            "lifespan": "1369-1415",
+            "era": "Medieval Period",
+            "role": "Reformer",
+            "background": "Jan Hus was a priest and reformer. He criticized the corruption of the Catholic Church a century before Luther and was burned at the stake as a heretic.",
+            "keyDecisions": [
+                "Preaching in Czech.",
+                "Criticizing indulgences.",
+                "Refusing to recant at Constance.",
+                "Dying in the flames."
+            ],
+            "achievements": [
+                "Reformer.",
+                "Martyr.",
+                "National hero.",
+                "Symbol of truth."
+            ],
+            "challenges": [
+                "The Pope.",
+                "Council of Constance.",
+                "Excommunication.",
+                "Death."
+            ],
+            "legacy": "Hus is the truth. 'Truth prevails' (Pravda vítězí) is the national motto.",
+            "quotes": [
+                "Seek the truth, hear the truth, learn the truth, love the truth, speak the truth, hold the truth and defend the truth until death."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Reformer.",
+            "culturalImpact": "His death sparked the Hussite Wars.",
+            "primarySources": [
+                "Letters.",
+                "Sermons."
+            ],
+            "modernInterpretations": [
+                "Revered as a martyr for conscience.",
+                "Symbol of resistance."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Antonín Dvořák",
+            "nativeName": "Antonín Leopold Dvořák",
+            "lifespan": "1841-1904",
+            "era": "Modern Period (19th Century)",
+            "role": "Composer",
+            "background": "Antonín Dvořák was a composer. He brought Czech folk music to the world stage and composed the 'New World Symphony' while in America.",
+            "keyDecisions": [
+                "Using folk melodies.",
+                "Moving to New York.",
+                "Composing the 'New World Symphony'.",
+                "Returning home."
+            ],
+            "achievements": [
+                "Master composer.",
+                "Global star.",
+                "Melodist.",
+                "Icon."
+            ],
+            "challenges": [
+                "Poverty (early on).",
+                "Critics.",
+                "Homesickness.",
+                "Loss of children."
+            ],
+            "legacy": "Dvořák is the melody of Bohemia. He proved American music could be great too.",
+            "quotes": [
+                "I am a simple Czech musician."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Composer.",
+            "culturalImpact": "His music is played everywhere.",
+            "primarySources": [
+                "Symphonies.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "Symbol of Czech culture."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Franz Kafka",
+            "nativeName": "Franz Kafka",
+            "lifespan": "1883-1924",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Franz Kafka was a writer. Born in Prague, he wrote in German about alienation and bureaucracy. His work was published posthumously against his will.",
+            "keyDecisions": [
+                "Writing 'The Metamorphosis'.",
+                "Working as an insurance clerk.",
+                "Asking Max Brod to burn his work.",
+                "Dying of tuberculosis."
+            ],
+            "achievements": [
+                "Literary giant.",
+                "Prophet of the absurd.",
+                "Icon.",
+                "Adjective (Kafkaesque)."
+            ],
+            "challenges": [
+                "Father complex.",
+                "Anxiety.",
+                "Illness.",
+                "Obscurity (in life)."
+            ],
+            "legacy": "Kafka is the nightmare of the 20th century. He saw the bureaucracy coming.",
+            "quotes": [
+                "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "He defined modern angst.",
+            "primarySources": [
+                "The Trial.",
+                "The Castle."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "Symbol of Prague (tourism)."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Tomáš Garrigue Masaryk",
+            "nativeName": "Tomáš Garrigue Masaryk",
+            "lifespan": "1850-1937",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "President, Philosopher",
+            "background": "Masaryk was the founder and first President of Czechoslovakia. Known as the 'President Liberator', he was a philosopher king who championed democracy.",
+            "keyDecisions": [
+                "Fighting for independence during WWI.",
+                "Founding Czechoslovakia (1918).",
+                "Defending Hilsner (against antisemitism).",
+                "Building a democracy."
+            ],
+            "achievements": [
+                "President Liberator.",
+                "Philosopher.",
+                "Father of the Nation.",
+                "Democrat."
+            ],
+            "challenges": [
+                "Austrian Empire.",
+                "Exile.",
+                "Nationalism.",
+                "Loss of son."
+            ],
+            "legacy": "Masaryk is the father. He built the only democracy in Central Europe between the wars.",
+            "quotes": [
+                "Democracy is discussion."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Founder.",
+            "culturalImpact": "Statues of him are everywhere.",
+            "primarySources": [
+                "The Making of a State.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a moral giant.",
+                "Symbol of the First Republic."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Bedřich Smetana",
+            "nativeName": "Bedřich Smetana",
+            "lifespan": "1824-1884",
+            "era": "Modern Period (19th Century)",
+            "role": "Composer",
+            "background": "Bedřich Smetana was a composer. He is the father of Czech music, famous for 'The Bartered Bride' and the symphonic poem 'Vltava' (The Moldau).",
+            "keyDecisions": [
+                "Composing 'Má vlast' (My Country).",
+                "Creating Czech opera.",
+                "Going deaf.",
+                "Composing while deaf."
+            ],
+            "achievements": [
+                "Father of Czech Music.",
+                "Composer.",
+                "Nationalist.",
+                "Genius."
+            ],
+            "challenges": [
+                "Deafness.",
+                "Syphilis.",
+                "Critics.",
+                "Madness."
+            ],
+            "legacy": "Smetana is the river. 'Vltava' is the unofficial anthem.",
+            "quotes": [
+                "Music."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Composer.",
+            "culturalImpact": "He is the soul of the nation.",
+            "primarySources": [
+                "Má vlast.",
+                "Operas."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His music opens the Prague Spring festival."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Jaromír Jágr",
+            "nativeName": "Jaromír Jágr",
+            "lifespan": "1972-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Jaromír Jágr is a hockey player. He is one of the greatest players of all time, with a career spanning over 30 years in the NHL and Europe.",
+            "keyDecisions": [
+                "Wearing number 68 (Prague Spring).",
+                "Winning two Stanley Cups with Penguins.",
+                "Winning Olympic Gold (Nagano 1998).",
+                "Playing forever."
+            ],
+            "achievements": [
+                "Legend.",
+                "Scorer.",
+                "Icon.",
+                "Ageless wonder."
+            ],
+            "challenges": [
+                "KHL stint.",
+                "Age.",
+                "Injuries.",
+                "Mullet (iconic)."
+            ],
+            "legacy": "Jágr is the legend. He put Czech hockey on top of the world.",
+            "quotes": [
+                "I love the game."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Athlete.",
+            "culturalImpact": "He is a god in Kladno.",
+            "primarySources": [
+                "Stats.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the GOAT.",
+                "Symbol of longevity."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Miloš Forman",
+            "nativeName": "Jan Tomáš Forman",
+            "lifespan": "1932-2018",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Director",
+            "background": "Miloš Forman was a film director. A leader of the Czech New Wave, he moved to Hollywood and won Oscars for 'One Flew Over the Cuckoo's Nest' and 'Amadeus'.",
+            "keyDecisions": [
+                "Making 'Loves of a Blonde'.",
+                "Leaving after 1968 invasion.",
+                "Directing 'Amadeus'.",
+                "Staying true to his roots."
+            ],
+            "achievements": [
+                "Oscar winner.",
+                "Master director.",
+                "Icon.",
+                "Storyteller."
+            ],
+            "challenges": [
+                "Communism.",
+                "Exile.",
+                "Hollywood system.",
+                "Orphaned by Nazis."
+            ],
+            "legacy": "Forman is the bridge. He brought Czech humor to Hollywood.",
+            "quotes": [
+                "Tell the truth."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Director.",
+            "culturalImpact": "Amadeus is a masterpiece.",
+            "primarySources": [
+                "Films.",
+                "Autobiography."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Symbol of artistic freedom."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Jan Amos Komenský",
+            "nativeName": "Jan Amos Komenský (Comenius)",
+            "lifespan": "1592-1670",
+            "era": "Early Modern Period (17th Century)",
+            "role": "Educator, Philosopher",
+            "background": "Comenius was a philosopher and pedagogue. He is the 'Teacher of Nations', the father of modern education who advocated for universal schooling.",
+            "keyDecisions": [
+                "Writing 'Didactica Magna'.",
+                "Creating picture books ('Orbis Pictus').",
+                "Advocating for peace.",
+                "Living in exile."
+            ],
+            "achievements": [
+                "Teacher of Nations.",
+                "Father of Modern Education.",
+                "Bishop.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Thirty Years' War.",
+                "Exile.",
+                "Loss of family.",
+                "Burning of his manuscripts."
+            ],
+            "legacy": "Comenius taught the world how to teach. 'School is the workshop of humanity.'",
+            "quotes": [
+                "Omnia sponte fluant."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Teacher.",
+            "culturalImpact": "UNESCO honors him.",
+            "primarySources": [
+                "Didactica Magna.",
+                "Labyrinth of the World."
+            ],
+            "modernInterpretations": [
+                "Revered as a giant.",
+                "His ideas are still relevant."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Madeleine Albright",
+            "nativeName": "Marie Jana Korbelová",
+            "lifespan": "1937-2022",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Diplomat",
+            "background": "Madeleine Albright was the first female US Secretary of State. Born in Prague, she fled Nazis and Communists to become a global leader.",
+            "keyDecisions": [
+                "Fleeing Czechoslovakia.",
+                "Becoming Secretary of State.",
+                "Expanding NATO.",
+                "Discovering her Jewish roots."
+            ],
+            "achievements": [
+                "Secretary of State.",
+                "Diplomat.",
+                "Icon.",
+                "Professor."
+            ],
+            "challenges": [
+                "Refugee life.",
+                "Sexism.",
+                "Balkan wars.",
+                "Identity."
+            ],
+            "legacy": "Albright is the breaker of glass ceilings. She never forgot Prague.",
+            "quotes": [
+                "There is a special place in hell for women who don't help other women."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Diplomat.",
+            "culturalImpact": "She is a symbol of the diaspora.",
+            "primarySources": [
+                "Madam Secretary.",
+                "Prague Winter."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a leader.",
+                "Her hawkishness is debated."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Alfons Mucha",
+            "nativeName": "Alfons Maria Mucha",
+            "lifespan": "1860-1939",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Artist",
+            "background": "Alfons Mucha was a painter. He is the father of Art Nouveau, famous for his posters of Sarah Bernhardt and his masterpiece 'The Slav Epic'.",
+            "keyDecisions": [
+                "Designing the Gismonda poster.",
+                "Defining Art Nouveau (Le Style Mucha).",
+                "Painting 'The Slav Epic'.",
+                "Being interrogated by the Gestapo."
+            ],
+            "achievements": [
+                "Master of Art Nouveau.",
+                "Painter.",
+                "Patriot.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Critics (who called his style dated).",
+                "Nazis.",
+                "Health."
+            ],
+            "legacy": "Mucha is the style. His flowers and women are iconic.",
+            "quotes": [
+                "Art exists only to communicate a spiritual message."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Artist.",
+            "culturalImpact": "He is the face of the fin de siècle.",
+            "primarySources": [
+                "Posters.",
+                "The Slav Epic."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His patriotism is admired."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Emil Zátopek",
+            "nativeName": "Emil Zátopek",
+            "lifespan": "1922-2000",
+            "era": "Modern Period (20th Century)",
+            "role": "Athlete",
+            "background": "Emil Zátopek was a long-distance runner. Known as the 'Czech Locomotive', he won three gold medals at the 1952 Helsinki Olympics (5k, 10k, Marathon).",
+            "keyDecisions": [
+                "Running in army boots.",
+                "Winning 3 golds in Helsinki.",
+                "Supporting the Prague Spring.",
+                "Being purged to a uranium mine."
+            ],
+            "achievements": [
+                "Czech Locomotive.",
+                "Olympic Legend.",
+                "Innovator (interval training).",
+                "Hero."
+            ],
+            "challenges": [
+                "Communism.",
+                "Pain.",
+                "Politics.",
+                "Manual labor."
+            ],
+            "legacy": "Zátopek is the runner. 'If you want to win something, run 100 meters. If you want to experience something, run a marathon.'",
+            "quotes": [
+                "I am not talented enough to run and smile at the same time."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Locomotive.",
+            "culturalImpact": "He is the greatest runner ever.",
+            "primarySources": [
+                "Records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Symbol of endurance."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Martina Navratilova",
+            "nativeName": "Martina Navrátilová",
+            "lifespan": "1956-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Martina Navratilova is a tennis player. She defected to the US and became one of the greatest players in history, winning 18 Grand Slam singles titles.",
+            "keyDecisions": [
+                "Defecting at 18.",
+                "Coming out as gay.",
+                "Dominating Wimbledon.",
+                "Playing into her 40s."
+            ],
+            "achievements": [
+                "Tennis legend.",
+                "LGBT icon.",
+                "Champion.",
+                "Pioneer."
+            ],
+            "challenges": [
+                "Communism.",
+                "Exile.",
+                "Homophobia.",
+                "Cancer."
+            ],
+            "legacy": "Martina is the fighter. She changed the game with her fitness and aggression.",
+            "quotes": [
+                "The ball doesn't know how old I am."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Legend.",
+            "culturalImpact": "She is a role model.",
+            "primarySources": [
+                "Stats.",
+                "Autobiography."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the GOAT.",
+                "Her courage is admired."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Jan Palach",
+            "nativeName": "Jan Palach",
+            "lifespan": "1948-1969",
+            "era": "Modern Period (20th Century)",
+            "role": "Student, Martyr",
+            "background": "Jan Palach was a student who set himself on fire in Wenceslas Square to protest the Soviet invasion and the apathy of the public.",
+            "keyDecisions": [
+                "Protesting the invasion.",
+                "Self-immolation.",
+                "Leaving a letter.",
+                "Dying for freedom."
+            ],
+            "achievements": [
+                "Martyr.",
+                "Symbol of resistance.",
+                "Torch number 1.",
+                "Hero."
+            ],
+            "challenges": [
+                "Soviet tanks.",
+                "Despair.",
+                "Pain.",
+                "Death."
+            ],
+            "legacy": "Palach is the torch. His sacrifice woke the nation up 20 years later.",
+            "quotes": [
+                "Man must fight against the evil he feels equal to."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "His grave is a shrine.",
+            "primarySources": [
+                "Suicide note.",
+                "Testimonies."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of freedom.",
+                "Symbol of ultimate sacrifice."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Milan Kundera",
+            "nativeName": "Milan Kundera",
+            "lifespan": "1929-2023",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Milan Kundera was a writer. He lived in exile in France and wrote 'The Unbearable Lightness of Being', exploring memory, history, and existence.",
+            "keyDecisions": [
+                "Writing 'The Joke'.",
+                "Leaving for France.",
+                "Writing in French.",
+                "Shunning the media."
+            ],
+            "achievements": [
+                "Literary giant.",
+                "Philosopher.",
+                "Icon.",
+                "Enigma."
+            ],
+            "challenges": [
+                "Communism.",
+                "Exile.",
+                "Loss of citizenship.",
+                "Critics."
+            ],
+            "legacy": "Kundera is the memory. 'The struggle of man against power is the struggle of memory against forgetting.'",
+            "quotes": [
+                "The Unbearable Lightness of Being."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "He is a global intellectual.",
+            "primarySources": [
+                "Novels.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His relationship with Czechs was complicated."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Saint Wenceslas",
+            "nativeName": "Svatý Václav",
+            "lifespan": "907-935",
+            "era": "Medieval Period",
+            "role": "Duke, Saint",
+            "background": "Wenceslas was the Duke of Bohemia. He was murdered by his brother Boleslav and became the patron saint of the Czech state.",
+            "keyDecisions": [
+                "Spreading Christianity.",
+                "Making peace with Germans.",
+                "Being a 'Good King'.",
+                "Martyrdom."
+            ],
+            "achievements": [
+                "Patron Saint.",
+                "Duke.",
+                "Symbol of statehood.",
+                "Legend."
+            ],
+            "challenges": [
+                "Pagan mother.",
+                "Brother's envy.",
+                "Politics.",
+                "Death."
+            ],
+            "legacy": "Wenceslas is the eternal prince. His statue watches over Prague.",
+            "quotes": [
+                "Good King Wenceslas."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Saint.",
+            "culturalImpact": "He is the symbol of the nation.",
+            "primarySources": [
+                "Legends.",
+                "Chronicles."
+            ],
+            "modernInterpretations": [
+                "Revered as the protector.",
+                "Christmas carol hero."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Bohumil Hrabal",
+            "nativeName": "Bohumil Hrabal",
+            "lifespan": "1914-1997",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Bohumil Hrabal was a writer. Known for his stream-of-consciousness style and love of beer, he wrote 'Closely Watched Trains' and 'I Served the King of England'.",
+            "keyDecisions": [
+                "Writing in the pub.",
+                "Feeding cats.",
+                "Staying in Czechoslovakia.",
+                "Falling from a window (feeding pigeons?)."
+            ],
+            "achievements": [
+                "Literary master.",
+                "Storyteller.",
+                "Icon.",
+                "Palaverer."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Alcohol.",
+                "Politics.",
+                "Old age."
+            ],
+            "legacy": "Hrabal is the voice of the pub. He found the pearl in the bottom.",
+            "quotes": [
+                "I served the King of England."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Storyteller.",
+            "culturalImpact": "He is beloved.",
+            "primarySources": [
+                "Novels.",
+                "Short stories."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His death is a legend."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,778 @@
+{
+    "country": "Vietnam",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Ho Chi Minh",
+            "nativeName": "Nguyễn Sinh Cung (Uncle Ho)",
+            "lifespan": "1890-1969",
+            "era": "Modern Period (20th Century)",
+            "role": "President, Revolutionary",
+            "background": "Ho Chi Minh was a revolutionary and politician who served as Prime Minister and President of North Vietnam. He led the Viet Minh independence movement against French colonial rule and later the US-backed South Vietnam.",
+            "keyDecisions": [
+                "Founding the Communist Party of Vietnam.",
+                "Declaring independence from France in 1945.",
+                "Leading the war against the French (First Indochina War).",
+                "Leading the war against the US (Vietnam War)."
+            ],
+            "achievements": [
+                "Father of Modern Vietnam.",
+                "Defeated two world powers (France and USA).",
+                "Unified Vietnam (posthumously).",
+                "Symbol of anti-colonialism worldwide."
+            ],
+            "challenges": [
+                "Exile for 30 years.",
+                "Imprisonment by the Chinese Nationalists.",
+                "Managing the Sino-Soviet split.",
+                "The devastation of war."
+            ],
+            "legacy": "Ho Chi Minh is the most revered figure in Vietnam. Saigon was renamed Ho Chi Minh City. His embalmed body is in a mausoleum in Hanoi.",
+            "quotes": [
+                "Nothing is more precious than independence and liberty.",
+                "Remember that the storm is a good opportunity for the pine and the cypress to show their strength and their stability."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of the Nation.",
+            "culturalImpact": "His image is ubiquitous. He is affectionately called 'Uncle Ho'.",
+            "primarySources": [
+                "Prison Diary.",
+                "Proclamation of Independence.",
+                "Selected Works."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint-like figure in Vietnam.",
+                "Viewed as a nationalist first and communist second by some historians."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Vo Nguyen Giap",
+            "nativeName": "Võ Nguyên Giáp",
+            "lifespan": "1911-2013",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "General",
+            "background": "General Vo Nguyen Giap was a self-taught military strategist who led the Viet Minh and North Vietnamese Army. He is considered one of the greatest military commanders of the 20th century.",
+            "keyDecisions": [
+                "Adopting guerrilla warfare tactics.",
+                "Masterminding the victory at Dien Bien Phu.",
+                "Planning the Tet Offensive (strategic level).",
+                "Building the Ho Chi Minh Trail."
+            ],
+            "achievements": [
+                "Defeated the French at Dien Bien Phu (1954).",
+                "Defeated the US military in the Vietnam War.",
+                "Red Napoleon.",
+                "Lived to be 102."
+            ],
+            "challenges": [
+                "Lack of formal military training.",
+                "Fighting technologically superior enemies.",
+                "Internal political rivalries (Le Duan).",
+                "Logistical nightmares."
+            ],
+            "legacy": "Giap is the architect of Vietnam's military victories. He proved that a peasant army could defeat a superpower.",
+            "quotes": [
+                "To win the war, we had to defeat the enemy's will to invade.",
+                "Any army that fights against the people will be defeated."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Military Genius.",
+            "culturalImpact": "He is a national hero second only to Ho Chi Minh. Studied in military academies worldwide.",
+            "primarySources": [
+                "People's War, People's Army.",
+                "Memoirs.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master strategist.",
+                "His role in the Tet Offensive is debated."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Trung Sisters",
+            "nativeName": "Hai Bà Trưng (Trưng Trắc and Trưng Nhị)",
+            "lifespan": "c. 12-43 AD",
+            "era": "Ancient Period (1st Century)",
+            "role": "Queens, Warriors",
+            "background": "The Trung Sisters were two Vietnamese women who led a rebellion against the Chinese Han Dynasty in 40 AD. They briefly established an independent state and ruled as queens.",
+            "keyDecisions": [
+                "Rebelling against the oppressive rule of Su Ding.",
+                "Leading an army (including many women) to liberate 65 citadels.",
+                "Proclaiming themselves Queens.",
+                "Committing suicide by drowning to avoid capture."
+            ],
+            "achievements": [
+                "Liberated Vietnam from Chinese rule (briefly).",
+                "First national heroines of Vietnam.",
+                "Symbols of female power.",
+                "Established a matriarchal legacy."
+            ],
+            "challenges": [
+                "Fighting the mighty Han Empire.",
+                "Lack of military experience.",
+                "Sustaining the rebellion.",
+                "The return of the Han army under Ma Yuan."
+            ],
+            "legacy": "The Trung Sisters are the mothers of the nation. They are worshipped in temples. They represent the indomitable spirit of Vietnamese women.",
+            "quotes": [
+                "I just want to ride the wind, tread the waves, slay the big whales in the Eastern sea, clean up our frontiers, and save the people from drowning."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "National Heroines.",
+            "culturalImpact": "Streets and districts are named after them. Their anniversary is a holiday.",
+            "primarySources": [
+                "Book of the Later Han.",
+                "Dai Viet Su Ky Toan Thu.",
+                "Legends."
+            ],
+            "modernInterpretations": [
+                "Revered as symbols of patriotism and feminism.",
+                "Proof of women's high status in ancient Vietnam."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Lady Trieu",
+            "nativeName": "Bà Triệu (Triệu Thị Trinh)",
+            "lifespan": "225-248 AD",
+            "era": "Ancient Period (3rd Century)",
+            "role": "Warrior",
+            "background": "Lady Trieu was a female warrior who led a rebellion against the Chinese Kingdom of Wu. She is often depicted riding a war elephant and wielding two swords.",
+            "keyDecisions": [
+                "Refusing to be a concubine or servant.",
+                "Raising an army in the mountains.",
+                "Fighting the Chinese occupiers.",
+                "Committing suicide to maintain dignity."
+            ],
+            "achievements": [
+                "Vietnamese Joan of Arc.",
+                "Inspired resistance against China.",
+                "Symbol of defiance.",
+                "Legendary warrior."
+            ],
+            "challenges": [
+                "Gender norms (she was advised to marry).",
+                "Overwhelming enemy forces.",
+                "Betrayal.",
+                "Short life (died at 23)."
+            ],
+            "legacy": "Lady Trieu is a symbol of female strength. Her quote about riding the waves is famous.",
+            "quotes": [
+                "I'd like to ride storms, kill sharks in the open sea, drive out the aggressors, reconquer the country, undo the ties of serfdom, and never bend my back to be the concubine of whatever man."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Warrior Heroine.",
+            "culturalImpact": "She is a popular figure in folklore and art. A symbol of independence.",
+            "primarySources": [
+                "Vietnamese historical records.",
+                "Folklore."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a feminist icon.",
+                "Her existence blends history and myth."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Ngo Quyen",
+            "nativeName": "Ngô Quyền",
+            "lifespan": "897-944",
+            "era": "Medieval Period (10th Century)",
+            "role": "King, General",
+            "background": "Ngo Quyen was a general who defeated the Southern Han army at the Battle of Bach Dang River in 938 AD. This victory ended 1,000 years of Chinese domination and began Vietnam's long era of independence.",
+            "keyDecisions": [
+                "Using iron-tipped stakes in the riverbed to trap enemy ships.",
+                "Timing the attack with the tides.",
+                "Declaring himself King.",
+                "Establishing the capital at Co Loa."
+            ],
+            "achievements": [
+                "Ended 1,000 years of Chinese rule.",
+                "Won the Battle of Bach Dang.",
+                "Founded the Ngo Dynasty.",
+                "Restored national sovereignty."
+            ],
+            "challenges": [
+                "Unifying the local lords.",
+                "Facing a massive Chinese invasion fleet.",
+                "Rebuilding the nation after centuries of occupation.",
+                "Short reign."
+            ],
+            "legacy": "Ngo Quyen is the liberator of Vietnam. The Battle of Bach Dang is the most famous naval victory in Vietnamese history.",
+            "quotes": [
+                "If we fight with one heart, we will surely win."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Liberator King.",
+            "culturalImpact": "The tactic of stakes in the river was used again by Tran Hung Dao. He is a national hero.",
+            "primarySources": [
+                "Dai Viet Su Ky Toan Thu.",
+                "Chinese histories."
+            ],
+            "modernInterpretations": [
+                "Revered as a military genius.",
+                "The father of Vietnamese independence."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Tran Hung Dao",
+            "nativeName": "Trần Hưng Đạo",
+            "lifespan": "1228-1300",
+            "era": "Medieval Period (13th Century)",
+            "role": "General, Prince",
+            "background": "Tran Hung Dao was the Supreme Commander of the Dai Viet armies that repelled three Mongol invasions in the 13th century. He is one of the few generals in history to defeat the Mongols.",
+            "keyDecisions": [
+                "Writing 'Hich Tuong Si' (Proclamation to the Officers).",
+                "Using scorched-earth tactics.",
+                "Repeating the Bach Dang River stake trap (1288).",
+                "Putting national interest above personal grudges."
+            ],
+            "achievements": [
+                "Defeated the Mongol Empire (Yuan Dynasty) three times.",
+                "Saint of the Vietnamese people (Duc Thanh Tran).",
+                "Wrote 'Binh Thu Yeu Luoc' (Military Art).",
+                "Saved Vietnamese civilization."
+            ],
+            "challenges": [
+                "The terrifying power of the Mongol cavalry.",
+                "Internal defeatism.",
+                "Protecting the royal family.",
+                "Mobilizing the entire population."
+            ],
+            "legacy": "Tran Hung Dao is the patron saint of the Vietnamese navy. He is worshipped as a deity. He represents unity and strategy.",
+            "quotes": [
+                "If you want to surrender, please cut off my head first.",
+                "The army must be like a father and son."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Savior of the Nation.",
+            "culturalImpact": "Temples dedicated to him are everywhere. He is the symbol of loyalty.",
+            "primarySources": [
+                "Dai Viet Su Ky Toan Thu.",
+                "Hich Tuong Si."
+            ],
+            "modernInterpretations": [
+                "Revered as a god of war and protection.",
+                "His military treatises are still studied."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Nguyen Du",
+            "nativeName": "Nguyễn Du",
+            "lifespan": "1766-1820",
+            "era": "Modern Period (18th-19th Century)",
+            "role": "Poet",
+            "background": "Nguyen Du is the most celebrated Vietnamese poet. He wrote 'The Tale of Kieu' (Truyen Kieu), an epic poem that is considered the supreme masterpiece of Vietnamese literature.",
+            "keyDecisions": [
+                "Writing 'The Tale of Kieu' in Chu Nom (vernacular script).",
+                "Serving the Nguyen Dynasty (reluctantly).",
+                "Traveling to China as an ambassador.",
+                "Depicting the suffering of women."
+            ],
+            "achievements": [
+                "Author of The Tale of Kieu.",
+                "UNESCO World Cultural Celebrity.",
+                "Elevated the Vietnamese language.",
+                "Captured the soul of the nation."
+            ],
+            "challenges": [
+                "Political turmoil (Tay Son rebellion).",
+                "Personal poverty and loss.",
+                "Moral conflict in serving a new dynasty.",
+                "The constraints of feudal society."
+            ],
+            "legacy": "Nguyen Du is the Shakespeare of Vietnam. Kieu is quoted in daily life. He defined Vietnamese identity through literature.",
+            "quotes": [
+                "In a hundred years, who will cry for To Nhu (Nguyen Du)?",
+                "Talent and destiny are often at odds."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary Giant.",
+            "culturalImpact": "Kieu is the national epic. Fortune telling using Kieu is a tradition.",
+            "primarySources": [
+                "The Tale of Kieu.",
+                "Poems to the North.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a humanist and master of language.",
+                "His work is timeless."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Le Loi",
+            "nativeName": "Lê Lợi",
+            "lifespan": "1384-1433",
+            "era": "Medieval Period (15th Century)",
+            "role": "Emperor",
+            "background": "Le Loi was the founder of the Later Le Dynasty. He led the Lam Son Uprising against the Ming Chinese occupation, eventually driving them out and restoring independence. He is associated with the legend of the Returned Sword.",
+            "keyDecisions": [
+                "Launching the Lam Son Uprising.",
+                "Employing Nguyen Trai as his strategist.",
+                "Fighting a 10-year war of attrition.",
+                "Returning the magic sword to the Golden Turtle God."
+            ],
+            "achievements": [
+                "Defeated the Ming Dynasty.",
+                "Founded the longest-ruling dynasty in Vietnam.",
+                "Restored Dai Viet.",
+                "Legend of Hoan Kiem Lake."
+            ],
+            "challenges": [
+                "Early defeats and encirclement.",
+                "Lack of food and supplies.",
+                "The immense resources of the Ming.",
+                "Rebuilding a war-torn country."
+            ],
+            "legacy": "Le Loi is the model of a righteous king. The story of the sword is the most famous legend in Hanoi.",
+            "quotes": [
+                "We have raised the banner of righteousness to fight the cruel enemy."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Restorer of Independence.",
+            "culturalImpact": "Hoan Kiem Lake (Lake of the Returned Sword) is the heart of Hanoi. He is a national hero.",
+            "primarySources": [
+                "Lam Son Thuc Luc.",
+                "Binh Ngo Dai Cao.",
+                "Legends."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a man of the people.",
+                "His partnership with Nguyen Trai is legendary."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Nguyen Trai",
+            "nativeName": "Nguyễn Trãi",
+            "lifespan": "1380-1442",
+            "era": "Medieval Period (15th Century)",
+            "role": "Scholar, Strategist, Poet",
+            "background": "Nguyen Trai was a Confucian scholar, poet, and the chief strategist of Le Loi. He wrote the 'Binh Ngo Dai Cao' (Great Proclamation upon the Pacification of the Wu), considered Vietnam's second declaration of independence.",
+            "keyDecisions": [
+                "Joining Le Loi's uprising.",
+                "Advocating for 'winning hearts and minds' (tam cong).",
+                "Writing the Binh Ngo Dai Cao.",
+                "Retiring to Con Son."
+            ],
+            "achievements": [
+                "UNESCO World Cultural Celebrity.",
+                "Architect of the victory against the Ming.",
+                "Greatest writer of his time.",
+                "Moral exemplar."
+            ],
+            "challenges": [
+                "The execution of his father by the Ming.",
+                "Court intrigues after the war.",
+                "The Le Chi Vien tragedy (execution of his entire family).",
+                "Balancing politics and integrity."
+            ],
+            "legacy": "Nguyen Trai is the tragic genius of Vietnam. He represents the ideal scholar-official. His execution is the greatest injustice in history.",
+            "quotes": [
+                "To ensure peace for the people, such is the essence of humanity and justice.",
+                "Better to conquer hearts than citadels."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Cultural and Political Icon.",
+            "culturalImpact": "He is revered for his wisdom and literature. Temples honor him.",
+            "primarySources": [
+                "Binh Ngo Dai Cao.",
+                "Quoc Am Thi Tap.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a humanist and strategist.",
+                "His rehabilitation after death is a lesson in justice."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Quang Trung",
+            "nativeName": "Nguyễn Huệ (Quang Trung)",
+            "lifespan": "1753-1792",
+            "era": "Modern Period (18th Century)",
+            "role": "Emperor, General",
+            "background": "Nguyen Hue, later Emperor Quang Trung, was the leader of the Tay Son rebellion. He is famous for his lightning-fast military campaigns, defeating the Siamese in the south and the Qing Chinese in the north.",
+            "keyDecisions": [
+                "Leading the Tay Son rebellion.",
+                "Defeating the Siamese at Rach Gam-Xoai Mut.",
+                "Launching a surprise attack on the Qing during Tet (1789).",
+                "Promoting the use of Chu Nom."
+            ],
+            "achievements": [
+                "Unified Vietnam after centuries of division.",
+                "Defeated two foreign invasions.",
+                "Never lost a battle.",
+                "Introduced progressive reforms."
+            ],
+            "challenges": [
+                "Fighting on multiple fronts.",
+                "Internal conflict with his brothers.",
+                "Legitimacy (usurper to the Nguyen lords).",
+                "Sudden death at a young age."
+            ],
+            "legacy": "Quang Trung is the military genius of the 18th century. His speed and audacity are legendary.",
+            "quotes": [
+                "Fight to let them know that the Southern country has its owner."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Military Genius.",
+            "culturalImpact": "His victory at Dong Da is celebrated annually. He is a symbol of martial prowess.",
+            "primarySources": [
+                "Dai Viet Su Ky Toan Thu.",
+                "Qing records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a national hero.",
+                "His death is seen as a great loss that allowed French influence to grow."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Chu Van An",
+            "nativeName": "Chu Văn An",
+            "lifespan": "1292-1370",
+            "era": "Medieval Period (14th Century)",
+            "role": "Teacher, Scholar",
+            "background": "Chu Van An is considered the 'Teacher of all generations' in Vietnam. He was a high-ranking official who resigned in protest against corruption and opened a school.",
+            "keyDecisions": [
+                "Submitting the 'Seven Beheadings Petition' to the King.",
+                "Resigning when the King refused to punish corrupt officials.",
+                "Opening a private school to teach Confucianism.",
+                "Living a simple life."
+            ],
+            "achievements": [
+                "Teacher of Emperors.",
+                "Symbol of educational integrity.",
+                "Worshipped in the Temple of Literature.",
+                "Promoted moral education."
+            ],
+            "challenges": [
+                "Corruption in the court.",
+                "Declining Tran Dynasty.",
+                "Maintaining his principles.",
+                "Teaching students from all walks of life."
+            ],
+            "legacy": "Chu Van An is the patron saint of education. Teachers' Day often references him.",
+            "quotes": [
+                "I do not seek fame or profit."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Eternal Teacher.",
+            "culturalImpact": "His statue is in the Temple of Literature. He represents the moral backbone of intellectuals.",
+            "primarySources": [
+                "Dai Viet Su Ky Toan Thu.",
+                "Writings."
+            ],
+            "modernInterpretations": [
+                "Revered as the model teacher.",
+                "Symbol of rectitude."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Ton Duc Thang",
+            "nativeName": "Tôn Đức Thắng",
+            "lifespan": "1888-1980",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Ton Duc Thang was the second President of North Vietnam and the first President of the reunified Socialist Republic of Vietnam. He was a key figure in the labor movement and participated in the Black Sea Mutiny.",
+            "keyDecisions": [
+                "Participating in the Black Sea Mutiny (supporting the Bolsheviks).",
+                "Founding the Red Trade Union.",
+                "Enduring 15 years in Con Dao prison.",
+                "Succeeding Ho Chi Minh as President."
+            ],
+            "achievements": [
+                "Lenin Peace Prize.",
+                "Symbol of the working class.",
+                "First President of reunified Vietnam.",
+                "Uncle Ton."
+            ],
+            "challenges": [
+                "Imprisonment in the 'Tiger Cages' of Con Dao.",
+                "French colonial repression.",
+                "Old age during his presidency.",
+                "Rebuilding the country."
+            ],
+            "legacy": "Ton Duc Thang is the symbol of Southern resistance and labor. A university and street are named after him.",
+            "quotes": [
+                "Unity is strength."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "President and Labor Leader.",
+            "culturalImpact": "He is a respected elder statesman.",
+            "primarySources": [
+                "Biographies.",
+                "Party records."
+            ],
+            "modernInterpretations": [
+                "Revered for his humility and sacrifice.",
+                "Often seen as a complementary figure to Ho Chi Minh."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Pham Van Dong",
+            "nativeName": "Phạm Văn Đồng",
+            "lifespan": "1906-2000",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister",
+            "background": "Pham Van Dong was the longest-serving Prime Minister of Vietnam (1955-1987). He was a close associate of Ho Chi Minh and represented North Vietnam at the Geneva Conference.",
+            "keyDecisions": [
+                "Leading the delegation to the Geneva Conference (1954).",
+                "Serving as Prime Minister for over 30 years.",
+                "Managing the economy and diplomacy during the war.",
+                "Supporting the arts and education."
+            ],
+            "achievements": [
+                "Longest-serving Prime Minister.",
+                "Diplomatic face of North Vietnam.",
+                "Intellectual and cultural leader.",
+                "Maintained stability."
+            ],
+            "challenges": [
+                "Diplomatic isolation.",
+                "Economic hardships.",
+                "The Sino-Vietnamese War.",
+                "Post-war reconstruction."
+            ],
+            "legacy": "Pham Van Dong is the steady hand of the government. He was known for his intellect and culture.",
+            "quotes": [
+                "Culture is the soul of the nation."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Longest Serving PM.",
+            "culturalImpact": "He is remembered as a refined and articulate leader.",
+            "primarySources": [
+                "Speeches.",
+                "Diplomatic cables.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Respected for his dedication.",
+                "His economic policies are sometimes criticized."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Bui Xuan Phai",
+            "nativeName": "Bùi Xuân Phái",
+            "lifespan": "1920-1988",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Painter",
+            "background": "Bui Xuan Phai is one of Vietnam's most famous modern painters, best known for his paintings of Hanoi's Old Quarter ('Pho Phai'). He worked in poverty but left a massive artistic legacy.",
+            "keyDecisions": [
+                "Focusing on painting Hanoi streets.",
+                "Refusing to compromise his artistic vision.",
+                "Using whatever materials he could find (cigarette boxes, newspaper).",
+                "Participating in the Nhan Van-Giai Pham movement (briefly)."
+            ],
+            "achievements": [
+                "Ho Chi Minh Prize.",
+                "Created the 'Pho Phai' style.",
+                "Chronicled the changing face of Hanoi.",
+                "Icon of modern Vietnamese art."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Lack of art supplies.",
+                "Political scrutiny.",
+                "Health issues."
+            ],
+            "legacy": "Phai is the soul of Hanoi. His paintings are national treasures. 'Pho Phai' is a term for his style.",
+            "quotes": [
+                "Hanoi is in my blood."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Master Painter.",
+            "culturalImpact": "He defined the visual identity of old Hanoi.",
+            "primarySources": [
+                "Paintings.",
+                "Diaries.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius who found beauty in the mundane.",
+                "His work is highly collectible."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Trinh Cong Son",
+            "nativeName": "Trịnh Công Sơn",
+            "lifespan": "1939-2001",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Musician, Songwriter",
+            "background": "Trinh Cong Son was a composer, musician, and songwriter. He is widely considered one of the greatest figures in modern Vietnamese music. His anti-war songs were popular on both sides of the conflict.",
+            "keyDecisions": [
+                "Writing anti-war songs (Ca Khuc Da Vang).",
+                "Staying in Vietnam after 1975.",
+                "Composing love songs and philosophical ballads.",
+                "Collaborating with Khanh Ly."
+            ],
+            "achievements": [
+                "Bob Dylan of Vietnam.",
+                "Wrote over 600 songs.",
+                "Golden Disc Award (Japan).",
+                "Voice of a generation."
+            ],
+            "challenges": [
+                "Censorship by both the South and North governments.",
+                "The trauma of war.",
+                "Health issues.",
+                "Post-war re-education."
+            ],
+            "legacy": "Trinh Cong Son's music is the soundtrack of the war and peace. His songs are sung by everyone.",
+            "quotes": [
+                "Live in life, we need a heart. To do what? To let the wind blow it away."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Musical Legend.",
+            "culturalImpact": "His music is a genre of its own (Nhac Trinh). He preached love and humanity.",
+            "primarySources": [
+                "Songs (Noi Vong Tay Lon, Diem Xua).",
+                "Essays.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a philosopher-musician.",
+                "His message of peace is timeless."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Alexandre de Rhodes",
+            "nativeName": "Alexandre de Rhodes",
+            "lifespan": "1591-1660",
+            "era": "Modern Period (17th Century)",
+            "role": "Missionary, Linguist",
+            "background": "Alexandre de Rhodes was a French Jesuit missionary who had a lasting impact on Christianity in Vietnam. He is credited with codifying the Quoc Ngu script (Romanized Vietnamese), which is the national writing system today.",
+            "keyDecisions": [
+                "Publishing the first Vietnamese-Portuguese-Latin dictionary.",
+                "Codifying the Romanized script (Quoc Ngu).",
+                "Evangelizing in Vietnam.",
+                "Lobbying the Pope for a hierarchy in Vietnam."
+            ],
+            "achievements": [
+                "Father of Quoc Ngu.",
+                "Dictionarium Annamiticum Lusitanum et Latinum.",
+                "Laid the foundation for modern Vietnamese literacy.",
+                "Spread Christianity."
+            ],
+            "challenges": [
+                "Expulsion from Vietnam multiple times.",
+                "Persecution of Christians.",
+                "Language barriers.",
+                "Travel dangers."
+            ],
+            "legacy": "De Rhodes gave Vietnam its modern alphabet. Quoc Ngu allowed for mass literacy and modernization.",
+            "quotes": [
+                "I want to give the Vietnamese a way to write their language."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Creator of Quoc Ngu.",
+            "culturalImpact": "Every Vietnamese person uses his script today. He is a bridge between East and West.",
+            "primarySources": [
+                "Dictionary.",
+                "Travelogues.",
+                "Church records."
+            ],
+            "modernInterpretations": [
+                "Recognized for his linguistic contribution.",
+                "His role as a precursor to colonialism is debated."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Xuan Dieu",
+            "nativeName": "Xuân Diệu",
+            "lifespan": "1916-1985",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Xuan Dieu was a prominent poet known as the 'King of Love Poetry'. He was a leader of the New Poetry movement, breaking away from classical forms.",
+            "keyDecisions": [
+                "Pioneering the New Poetry movement.",
+                "Writing openly about love and passion.",
+                "Translating Western literature.",
+                "Supporting the revolution."
+            ],
+            "achievements": [
+                "King of Love Poetry.",
+                "Ho Chi Minh Prize.",
+                "Modernized Vietnamese poetry.",
+                "Member of the Vietnam Academy of Letters."
+            ],
+            "challenges": [
+                "Conservative criticism.",
+                "Living through wars.",
+                "Personal struggles.",
+                "Adapting to socialist realism."
+            ],
+            "legacy": "Xuan Dieu is the poet of youth and love. His poems are taught in schools.",
+            "quotes": [
+                "To live is to love, and to love is to be jealous."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "King of Love Poetry.",
+            "culturalImpact": "He changed the way Vietnamese express emotion.",
+            "primarySources": [
+                "Tho Tho.",
+                "Gui Huong Cho Gio.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a literary innovator.",
+                "His influence on modern poetry is immense."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Dang Thuy Tram",
+            "nativeName": "Đặng Thùy Trâm",
+            "lifespan": "1942-1970",
+            "era": "Modern Period (20th Century)",
+            "role": "Doctor, Diarist",
+            "background": "Dang Thuy Tram was a battlefield surgeon for the North Vietnamese army. Her diary, found by an American soldier and returned decades later, became a bestseller, revealing the humanity and idealism of the youth during the war.",
+            "keyDecisions": [
+                "Volunteering for the battlefield.",
+                "Keeping a diary of her experiences.",
+                "Treating wounded soldiers under fire.",
+                "Sacrificing her life protecting her patients."
+            ],
+            "achievements": [
+                "Author of 'Last Night I Dreamed of Peace'.",
+                "Hero of the People's Armed Forces.",
+                "Symbol of youthful idealism.",
+                "Bridge of reconciliation."
+            ],
+            "challenges": [
+                "The horrors of war.",
+                "Lack of medical supplies.",
+                "Constant danger.",
+                "Loneliness."
+            ],
+            "legacy": "Dang Thuy Tram is the Anne Frank of Vietnam. Her diary touched millions worldwide.",
+            "quotes": [
+                "Only in the midst of suffering do we understand the value of happiness."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Wartime Diarist.",
+            "culturalImpact": "Her diary sparked a reading phenomenon. A hospital is named after her.",
+            "primarySources": [
+                "Last Night I Dreamed of Peace (Diary).",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a symbol of pure patriotism.",
+                "Her story humanized the 'enemy' for many Americans."
+            ]
+        }
+    ]
+}

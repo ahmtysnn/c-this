@@ -1,0 +1,761 @@
+{
+    "country": "Nepal",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Gautama Buddha",
+            "nativeName": "Siddhartha Gautama",
+            "lifespan": "c. 563-483 BCE",
+            "era": "Ancient Period",
+            "role": "Religious Leader",
+            "background": "Siddhartha Gautama was a prince born in Lumbini (modern-day Nepal) who renounced his royal life to seek enlightenment. He founded Buddhism.",
+            "keyDecisions": [
+                "Renouncing his princely life (The Great Departure).",
+                "Meditating under the Bodhi tree.",
+                "Attaining Enlightenment.",
+                "Teaching the Dharma (Four Noble Truths)."
+            ],
+            "achievements": [
+                "Founder of Buddhism.",
+                "The Awakened One.",
+                "Teacher of non-violence.",
+                "Global spiritual icon."
+            ],
+            "challenges": [
+                "Mara's temptations.",
+                "Asceticism (Middle Way).",
+                "Spreading a new philosophy.",
+                "Schisms."
+            ],
+            "legacy": "Buddha is the Light of Asia. His teachings guide millions.",
+            "quotes": [
+                "Peace comes from within. Do not seek it without."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Enlightened One.",
+            "culturalImpact": "Lumbini is a UNESCO World Heritage site.",
+            "primarySources": [
+                "Tripitaka.",
+                "Sutras."
+            ],
+            "modernInterpretations": [
+                "Revered as a god or great teacher.",
+                "Symbol of peace."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Prithvi Narayan Shah",
+            "nativeName": "Prithvi Narayan Shah",
+            "lifespan": "1723-1775",
+            "era": "Early Modern Period (18th Century)",
+            "role": "King",
+            "background": "Prithvi Narayan Shah was the King of Gorkha who unified the warring kingdoms of the Himalayas into the modern nation of Nepal.",
+            "keyDecisions": [
+                "Invading the Kathmandu Valley.",
+                "Conquering Nuwakot.",
+                "Establishing Kathmandu as the capital.",
+                "Closing Nepal to foreigners."
+            ],
+            "achievements": [
+                "Founder of Modern Nepal.",
+                "Unifier.",
+                "Strategist.",
+                "King."
+            ],
+            "challenges": [
+                "British East India Company.",
+                "Malla kings.",
+                "Terrain.",
+                "Logistics."
+            ],
+            "legacy": "Prithvi Narayan Shah is the father of the nation. His maxim 'Nepal is a yam between two stones' defines its foreign policy.",
+            "quotes": [
+                "Nepal is a garden of four castes and thirty-six sub-castes."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Unifier.",
+            "culturalImpact": "His birthday is National Unity Day.",
+            "primarySources": [
+                "Divyopadesh.",
+                "Chronicles."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "Criticized by some ethnic groups for Gorkha dominance."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Tenzing Norgay",
+            "nativeName": "Namgyal Wangdi (Tenzing Norgay)",
+            "lifespan": "1914-1986",
+            "era": "Modern Period (20th Century)",
+            "role": "Mountaineer",
+            "background": "Tenzing Norgay was a Sherpa mountaineer who, along with Edmund Hillary, was the first person to reach the summit of Mount Everest.",
+            "keyDecisions": [
+                "Joining the 1953 British expedition.",
+                "Saving Hillary from a crevasse.",
+                "Pushing for the summit.",
+                "Refusing to say who stepped first."
+            ],
+            "achievements": [
+                "First to summit Everest.",
+                "Tiger of the Snows.",
+                "Global hero.",
+                "Symbol of Sherpa strength."
+            ],
+            "challenges": [
+                "Extreme altitude.",
+                "Cold.",
+                "Racism (initially treated as a porter).",
+                "Fame."
+            ],
+            "legacy": "Tenzing put Nepal on top of the world. He is the most famous Sherpa.",
+            "quotes": [
+                "It has been a long road."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Mountaineer.",
+            "culturalImpact": "He inspired generations of climbers.",
+            "primarySources": [
+                "Man of Everest.",
+                "Expedition logs."
+            ],
+            "modernInterpretations": [
+                "Revered as a legend.",
+                "Symbol of human endurance."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Bhanubhakta Acharya",
+            "nativeName": "Bhanubhakta Acharya",
+            "lifespan": "1814-1868",
+            "era": "Modern Period (19th Century)",
+            "role": "Poet",
+            "background": "Bhanubhakta Acharya was a poet who translated the Ramayana from Sanskrit into Nepali. He is considered the first poet (Adikavi) of the Nepali language.",
+            "keyDecisions": [
+                "Translating the Ramayana into the vernacular.",
+                "Writing poems about social issues.",
+                "Promoting the Nepali language.",
+                "Being imprisoned (for a minor offense)."
+            ],
+            "achievements": [
+                "Adikavi (First Poet).",
+                "Standardized the Nepali language.",
+                "Cultural icon.",
+                "Translator."
+            ],
+            "challenges": [
+                "Elitism of Sanskrit scholars.",
+                "Poverty.",
+                "Imprisonment.",
+                "Obscurity during his life."
+            ],
+            "legacy": "Bhanubhakta gave Nepal its literary voice. He united the country through language.",
+            "quotes": [
+                "One should do good deeds."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "Bhanu Jayanti is a major festival.",
+            "primarySources": [
+                "Bhanubhakta Ramayana.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a father of literature.",
+                "His contribution is foundational."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Amshuverma",
+            "nativeName": "Amshuverma",
+            "lifespan": "6th-7th Century",
+            "era": "Medieval Period (7th Century)",
+            "role": "King",
+            "background": "Amshuverma was a ruler of the Licchavi kingdom. He is known for his enlightened rule, patronage of the arts, and diplomatic marriage of his daughter Bhrikuti to the Tibetan King.",
+            "keyDecisions": [
+                "Marrying Bhrikuti to Songtsen Gampo.",
+                "Promoting Buddhism and Hinduism.",
+                "Writing a grammar book.",
+                "Developing trade."
+            ],
+            "achievements": [
+                "Golden Age of Nepal.",
+                "Diplomat.",
+                "Scholar.",
+                "Patron of arts."
+            ],
+            "challenges": [
+                "Tibetan expansion.",
+                "Internal rivals.",
+                "Balancing religions.",
+                "Succession."
+            ],
+            "legacy": "Amshuverma is the ideal king. He made Nepal a center of culture.",
+            "quotes": [
+                "For the welfare of the people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Enlightened Ruler.",
+            "culturalImpact": "He is a symbol of Nepal's ancient glory.",
+            "primarySources": [
+                "Inscriptions.",
+                "Chinese records."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a wise statesman.",
+                "His era is studied as a model."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Bhrikuti",
+            "nativeName": "Bhrikuti Devi",
+            "lifespan": "7th Century",
+            "era": "Medieval Period (7th Century)",
+            "role": "Princess",
+            "background": "Bhrikuti was a Nepali princess who married the Tibetan Emperor Songtsen Gampo. She is credited with introducing Buddhism to Tibet.",
+            "keyDecisions": [
+                "Marrying the Tibetan king.",
+                "Bringing sacred images of Buddha to Lhasa.",
+                "Building the Jokhang Temple.",
+                "Spreading the Dharma."
+            ],
+            "achievements": [
+                "Green Tara (goddess).",
+                "Mother of Tibetan Buddhism.",
+                "Diplomat.",
+                "Princess."
+            ],
+            "challenges": [
+                "Living in a foreign land.",
+                "Rivalry with the Chinese wife (Wencheng).",
+                "Cultural differences.",
+                "Homesickness."
+            ],
+            "legacy": "Bhrikuti is a goddess in Tibet (Green Tara). She is the bridge between Nepal and Tibet.",
+            "quotes": [
+                "Compassion."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Green Tara.",
+            "culturalImpact": "She is worshipped as a deity.",
+            "primarySources": [
+                "Tibetan chronicles.",
+                "Legends."
+            ],
+            "modernInterpretations": [
+                "Revered as a holy figure.",
+                "Symbol of cultural exchange."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Pasang Lhamu Sherpa",
+            "nativeName": "Pasang Lhamu Sherpa",
+            "lifespan": "1961-1993",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Mountaineer",
+            "background": "Pasang Lhamu Sherpa was the first Nepali woman to summit Mount Everest. She died during the descent, becoming a national martyr.",
+            "keyDecisions": [
+                "Defying gender norms.",
+                "Organizing her own expedition.",
+                "Reaching the summit.",
+                "Refusing to turn back."
+            ],
+            "achievements": [
+                "First Nepali woman on Everest.",
+                "National Hero.",
+                "Inspiration to women.",
+                "Mountaineer."
+            ],
+            "challenges": [
+                "Sexism.",
+                "Lack of funding.",
+                "Bad weather.",
+                "Death."
+            ],
+            "legacy": "Pasang Lhamu is the symbol of Nepali women's courage. A mountain is named after her.",
+            "quotes": [
+                "I want to climb."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Pioneer.",
+            "culturalImpact": "She is a legend.",
+            "primarySources": [
+                "Biographies.",
+                "Expedition reports."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "Her tragedy is mourned."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Jung Bahadur Rana",
+            "nativeName": "Jung Bahadur Kunwar Rana",
+            "lifespan": "1817-1877",
+            "era": "Modern Period (19th Century)",
+            "role": "Prime Minister",
+            "background": "Jung Bahadur Rana was the founder of the Rana dynasty. He seized power in the Kot Massacre and established a hereditary prime ministership that ruled Nepal for a century.",
+            "keyDecisions": [
+                "Orchestrating the Kot Massacre.",
+                "Visiting Europe (first Nepali ruler).",
+                "Codifying laws (Muluki Ain).",
+                "Allying with the British."
+            ],
+            "achievements": [
+                "Founder of Rana Regime.",
+                "Modernizer (legal code).",
+                "Diplomat.",
+                "Strongman."
+            ],
+            "challenges": [
+                "Palace intrigues.",
+                "War with Tibet.",
+                "Balancing British power.",
+                "Assassination attempts."
+            ],
+            "legacy": "Jung Bahadur is a controversial figure. He strengthened the state but created an autocracy.",
+            "quotes": [
+                "The law is king."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Warlord.",
+            "culturalImpact": "The Rana palaces dominate Kathmandu.",
+            "primarySources": [
+                "Muluki Ain.",
+                "History of Nepal."
+            ],
+            "modernInterpretations": [
+                "Viewed as a tyrant and a reformer.",
+                "His legacy is debated."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Laxmi Prasad Devkota",
+            "nativeName": "Laxmi Prasad Devkota",
+            "lifespan": "1909-1959",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Laxmi Prasad Devkota was a poet, playwright, and essayist. Known as the 'Mahakavi' (Great Poet), he is the most beloved figure in Nepali literature.",
+            "keyDecisions": [
+                "Writing 'Muna Madan' in folk meter.",
+                "Writing an epic in 10 days.",
+                "Serving as Minister of Education.",
+                "Smoking excessively."
+            ],
+            "achievements": [
+                "Mahakavi.",
+                "Modernized Nepali literature.",
+                "Humanist.",
+                "Genius."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Mental health issues.",
+                "Cancer.",
+                "Political instability."
+            ],
+            "legacy": "Devkota is the Shakespeare of Nepal. 'Muna Madan' is the most sold book in Nepal.",
+            "quotes": [
+                "A man is great by his heart, not his caste."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Great Poet.",
+            "culturalImpact": "He is quoted daily.",
+            "primarySources": [
+                "Muna Madan.",
+                "Shakuntala."
+            ],
+            "modernInterpretations": [
+                "Revered as a god of letters.",
+                "His humanity is cherished."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "B.P. Koirala",
+            "nativeName": "Bishweshwar Prasad Koirala",
+            "lifespan": "1914-1982",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister, Writer",
+            "background": "B.P. Koirala was a revolutionary, the first democratically elected Prime Minister of Nepal, and a celebrated writer. He fought against the Rana regime and the monarchy.",
+            "keyDecisions": [
+                "Founding the Nepali Congress.",
+                "Leading the 1951 revolution.",
+                "Becoming PM in 1959.",
+                "Writing psychological novels in prison."
+            ],
+            "achievements": [
+                "Father of Democracy.",
+                "Literary giant.",
+                "Socialist thinker.",
+                "Statesman."
+            ],
+            "challenges": [
+                "Imprisonment by King Mahendra.",
+                "Exile in India.",
+                "Cancer.",
+                "Coup of 1960."
+            ],
+            "legacy": "B.P. Koirala is the Gandhi of Nepal. He is a hero of both politics and literature.",
+            "quotes": [
+                "Democracy is indispensable."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Democrat.",
+            "culturalImpact": "His party is still a major force.",
+            "primarySources": [
+                "Atmabrittanta.",
+                "Novels."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "His dream of socialism is still pursued."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Sita",
+            "nativeName": "Sita (Janaki)",
+            "lifespan": "Ancient Period",
+            "era": "Ancient Period",
+            "role": "Goddess/Queen",
+            "background": "Sita is the heroine of the Ramayana and the daughter of King Janaka of Janakpur (Nepal). She is the epitome of virtue and devotion.",
+            "keyDecisions": [
+                "Marrying Rama.",
+                "Following him into exile.",
+                "Resisting Ravana.",
+                "Proving her purity."
+            ],
+            "achievements": [
+                "Goddess of Virtue.",
+                "Daughter of the Earth.",
+                "Queen.",
+                "Symbol of purity."
+            ],
+            "challenges": [
+                "Kidnapping by Ravana.",
+                "Trial by fire.",
+                "Exile (again).",
+                "Suffering."
+            ],
+            "legacy": "Sita is the daughter of Nepal. Janakpur is a major pilgrimage site.",
+            "quotes": [
+                "Rama is my lord."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Goddess.",
+            "culturalImpact": "She is worshipped by millions.",
+            "primarySources": [
+                "Ramayana.",
+                "Puranas."
+            ],
+            "modernInterpretations": [
+                "Revered as the ideal woman.",
+                "Feminist readings question her suffering."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Araniko",
+            "nativeName": "Araniko (Anige)",
+            "lifespan": "1245-1306",
+            "era": "Medieval Period (13th Century)",
+            "role": "Architect",
+            "background": "Araniko was a master architect and artist sent by the King of Nepal to the court of Kublai Khan. He built the White Stupa in Beijing.",
+            "keyDecisions": [
+                "Leading a delegation of artists to Tibet.",
+                "Going to Beijing.",
+                "Building the White Stupa.",
+                "Serving the Yuan dynasty."
+            ],
+            "achievements": [
+                "Built the White Stupa.",
+                "Introduced Himalayan art to China.",
+                "Duke of Liang.",
+                "Master craftsman."
+            ],
+            "challenges": [
+                "Living in a foreign court.",
+                "Jealousy of rivals.",
+                "Distance from home.",
+                "Workload."
+            ],
+            "legacy": "Araniko is the symbol of Nepal-China friendship. He is a global artist.",
+            "quotes": [
+                "Art has no borders."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Architect.",
+            "culturalImpact": "The White Stupa still stands.",
+            "primarySources": [
+                "Chinese annals.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "He is a national hero."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "King Tribhuvan",
+            "nativeName": "Tribhuvan Bir Bikram Shah",
+            "lifespan": "1903-1955",
+            "era": "Modern Period (20th Century)",
+            "role": "King",
+            "background": "King Tribhuvan was the King of Nepal who collaborated with the people to overthrow the Rana regime in 1951, restoring the power of the monarchy and introducing democracy.",
+            "keyDecisions": [
+                "Fleeing to the Indian Embassy.",
+                "Supporting the Nepali Congress.",
+                "Ending 104 years of Rana rule.",
+                "Promising a constituent assembly."
+            ],
+            "achievements": [
+                "Father of the Nation (Democracy).",
+                "Restored the Shah dynasty.",
+                "Ended autocracy.",
+                "Popular king."
+            ],
+            "challenges": [
+                "Rana imprisonment.",
+                "Risking his throne.",
+                "Health.",
+                "Political chaos."
+            ],
+            "legacy": "Tribhuvan is the liberator king. The airport is named after him.",
+            "quotes": [
+                "Democracy for Nepal."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Liberator.",
+            "culturalImpact": "He is a symbol of change.",
+            "primarySources": [
+                "Royal proclamations.",
+                "History books."
+            ],
+            "modernInterpretations": [
+                "Revered as a good king.",
+                "His promise of an assembly was delayed by his son."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Anuradha Koirala",
+            "nativeName": "Anuradha Koirala",
+            "lifespan": "1949-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Activist",
+            "background": "Anuradha Koirala is a social activist and founder of Maiti Nepal. She has rescued thousands of women and girls from sex trafficking.",
+            "keyDecisions": [
+                "Founding Maiti Nepal.",
+                "Patrolling the border.",
+                "Rehabilitating survivors.",
+                "Fighting the traffickers."
+            ],
+            "achievements": [
+                "CNN Hero of the Year (2010).",
+                "Padma Shri.",
+                "Mother to thousands.",
+                "Governor."
+            ],
+            "challenges": [
+                "Threats from mafia.",
+                "Government apathy.",
+                "Scale of the problem.",
+                "Stigma."
+            ],
+            "legacy": "Anuradha Koirala is the Mother Teresa of Nepal. She gave hope to the voiceless.",
+            "quotes": [
+                "Stop trafficking."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Rescuer.",
+            "culturalImpact": "She changed the conversation on trafficking.",
+            "primarySources": [
+                "Interviews.",
+                "Documentaries."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a saint.",
+                "Her work is crucial."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Manadhar",
+            "nativeName": "Baikuntha Manandhar",
+            "lifespan": "1952-",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Athlete",
+            "background": "Baikuntha Manandhar is a marathon runner. He won three consecutive gold medals in the South Asian Games and is a legend of Nepali sports.",
+            "keyDecisions": [
+                "Running barefoot (initially).",
+                "Training in the hills.",
+                "Winning gold in Kathmandu, Dhaka, Kolkata.",
+                "Competing in the Olympics."
+            ],
+            "achievements": [
+                "South Asian Record holder (for decades).",
+                "3 SAG Gold Medals.",
+                "Iron Man.",
+                "Olympian."
+            ],
+            "challenges": [
+                "Lack of facilities.",
+                "Poverty.",
+                "Age.",
+                "Competition."
+            ],
+            "legacy": "Manandhar is the greatest Nepali runner. His record stood for a very long time.",
+            "quotes": [
+                "Run for the country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Runner.",
+            "culturalImpact": "He is an idol for athletes.",
+            "primarySources": [
+                "Race records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His humility is praised."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Sankhadhar Sakhwa",
+            "nativeName": "Sankhadhar Sakhwa",
+            "lifespan": "9th Century",
+            "era": "Medieval Period (9th Century)",
+            "role": "Philanthropist",
+            "background": "Sankhadhar Sakhwa was a merchant who paid off the debts of all the people in the Kathmandu Valley, starting the Nepal Sambat (calendar).",
+            "keyDecisions": [
+                "Turning sand into gold (legend).",
+                "Paying off everyone's debts.",
+                "Starting a new era (Nepal Sambat).",
+                "Helping the poor."
+            ],
+            "achievements": [
+                "Founder of Nepal Sambat.",
+                "National Hero.",
+                "Philanthropist.",
+                "Legend."
+            ],
+            "challenges": [
+                "Skepticism.",
+                "Rulers.",
+                "Managing wealth.",
+                "Time."
+            ],
+            "legacy": "Sakhwa is the symbol of generosity. The Nepal Sambat is the national calendar.",
+            "quotes": [
+                "A debt-free nation."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Benefactor.",
+            "culturalImpact": "New Year (Mha Puja) celebrates him.",
+            "primarySources": [
+                "Legends.",
+                "Chronicles."
+            ],
+            "modernInterpretations": [
+                "Revered as a socialist figure ahead of his time.",
+                "Symbol of Newar identity."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Yogmaya Neupane",
+            "nativeName": "Yogmaya Neupane",
+            "lifespan": "1867-1941",
+            "era": "Modern Period (20th Century)",
+            "role": "Activist, Poet",
+            "background": "Yogmaya was a religious leader and poet who fought against the Rana regime, caste discrimination, and Sati. She led a mass suicide pact (Jal Samadhi) as a protest.",
+            "keyDecisions": [
+                "Renouncing society.",
+                "Preaching equality (Dharma Rajya).",
+                "Challenging the Prime Minister.",
+                "Committing Jal Samadhi (drowning) with 68 followers."
+            ],
+            "achievements": [
+                "First female revolutionary.",
+                "Social reformer.",
+                "Poet (Sarvartha Yogbani).",
+                "Martyr."
+            ],
+            "challenges": [
+                "Rana oppression.",
+                "Patriarchy.",
+                "Caste system.",
+                "Being ignored."
+            ],
+            "legacy": "Yogmaya is the thunder of the east. Her sacrifice is a chilling reminder of the fight for justice.",
+            "quotes": [
+                "Truth and Justice."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Rebel.",
+            "culturalImpact": "She was erased from history but is now rediscovered.",
+            "primarySources": [
+                "Sarvartha Yogbani.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a feminist icon.",
+                "Her method of protest is controversial."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Nirmal Purja",
+            "nativeName": "Nirmal Purja (Nimsdai)",
+            "lifespan": "1983-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Mountaineer",
+            "background": "Nirmal Purja is a mountaineer and former Gurkha soldier. He climbed all 14 eight-thousanders in record time (6 months and 6 days), featured in '14 Peaks'.",
+            "keyDecisions": [
+                "Leaving the UK Special Forces.",
+                "Project Possible.",
+                "Rescuing other climbers.",
+                "Winter ascent of K2."
+            ],
+            "achievements": [
+                "Fastest ascent of 14 peaks.",
+                "First winter ascent of K2.",
+                "Global superstar.",
+                "Author."
+            ],
+            "challenges": [
+                "Funding.",
+                "Death zone.",
+                "Logistics.",
+                "Critics."
+            ],
+            "legacy": "Nimsdai redefined mountaineering. He proved that nothing is impossible.",
+            "quotes": [
+                "Project Possible."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Superhuman.",
+            "culturalImpact": "He made mountaineering cool again.",
+            "primarySources": [
+                "Beyond Possible.",
+                "14 Peaks (Netflix)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His confidence is infectious."
+            ]
+        }
+    ]
+}

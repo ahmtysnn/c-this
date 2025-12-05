@@ -1,0 +1,805 @@
+{
+    "country": "Pakistan",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Muhammad Ali Jinnah",
+            "nativeName": "Muhammad Ali Jinnah",
+            "lifespan": "1876-1948",
+            "era": "Modern Period (20th Century)",
+            "role": "Founder, Politician",
+            "background": "Muhammad Ali Jinnah, known as Quaid-e-Azam (Great Leader), was a lawyer and politician who founded Pakistan. He served as the leader of the All-India Muslim League and became Pakistan's first Governor-General.",
+            "keyDecisions": [
+                "Joining the Muslim League in 1913.",
+                "Proposing the Fourteen Points in 1929.",
+                "Advocating for the Two-Nation Theory.",
+                "Leading the demand for a separate Muslim state (Pakistan) in 1940."
+            ],
+            "achievements": [
+                "Founder of Pakistan.",
+                "Successfully negotiated the partition of India.",
+                "First Governor-General of Pakistan.",
+                "United the Muslims of the subcontinent."
+            ],
+            "challenges": [
+                "Opposition from the Indian National Congress and British colonial rulers.",
+                "The violence of Partition.",
+                "His declining health (tuberculosis) which he kept secret.",
+                "Building a new nation from scratch."
+            ],
+            "legacy": "Jinnah is the father of the nation. His vision of a democratic and progressive Pakistan is the guiding light for the country. His motto was 'Unity, Faith, Discipline'.",
+            "quotes": [
+                "Pakistan not only means freedom and independence but the Muslim Ideology which has to be preserved.",
+                "Think 100 times before you take a decision, but once that decision is taken, stand by it as one man.",
+                "There is no power on earth that can undo Pakistan."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of the Nation.",
+            "culturalImpact": "His portrait is in every government office. His mausoleum in Karachi is a national monument.",
+            "primarySources": [
+                "Speeches and Statements.",
+                "Correspondence.",
+                "All-India Muslim League records."
+            ],
+            "modernInterpretations": [
+                "Revered as a brilliant constitutionalist.",
+                "Debate continues over his vision for the role of religion in the state."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Allama Iqbal",
+            "nativeName": "Muhammad Iqbal",
+            "lifespan": "1877-1938",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet, Philosopher",
+            "background": "Allama Iqbal was a poet, philosopher, and politician. He is regarded as the spiritual father of Pakistan for inspiring the Pakistan Movement. His poetry in Urdu and Persian is considered among the greatest of the modern era.",
+            "keyDecisions": [
+                "Delivering the Allahabad Address in 1930, outlining the vision for a separate Muslim state.",
+                "Writing poetry to awaken the consciousness of Muslims.",
+                "Persuading Jinnah to return to politics.",
+                "Advocating for the reconstruction of religious thought in Islam."
+            ],
+            "achievements": [
+                "National Poet of Pakistan.",
+                "Knighted by King George V.",
+                "His philosophy of 'Khudi' (Selfhood) inspired generations.",
+                "Proposed the idea of Pakistan."
+            ],
+            "challenges": [
+                "Balancing his philosophical work with political activism.",
+                "The decline of the Muslim world.",
+                "Health issues in later life.",
+                "Criticism from orthodox clerics."
+            ],
+            "legacy": "Iqbal is the 'Poet of the East'. His work is central to Pakistani identity. He envisioned a modern, dynamic Islam.",
+            "quotes": [
+                "Elevate your Self so high that before every decree, God Himself asks you: 'Tell me, what is your wish?'",
+                "Nations are born in the hearts of poets, they prosper and die in the hands of politicians.",
+                "The ultimate aim of the ego is not to see something, but to be something."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Spiritual Father of Pakistan.",
+            "culturalImpact": "His poetry is taught in schools. Iqbal Day is a holiday.",
+            "primarySources": [
+                "The Reconstruction of Religious Thought in Islam.",
+                "Bang-e-Dara.",
+                "Asrar-e-Khudi."
+            ],
+            "modernInterpretations": [
+                "Studied as a philosopher of Islamic modernism.",
+                "His concept of the 'Perfect Man' is influential."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Benazir Bhutto",
+            "nativeName": "Benazir Bhutto",
+            "lifespan": "1953-2007",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Prime Minister",
+            "background": "Benazir Bhutto was the first woman to head a democratic government in a Muslim-majority nation. Daughter of Zulfikar Ali Bhutto, she served two terms as Prime Minister. She was assassinated in 2007.",
+            "keyDecisions": [
+                "Returning from exile to lead the movement against Zia-ul-Haq.",
+                "Becoming Prime Minister in 1988.",
+                "Returning again in 2007 to contest elections.",
+                "Advocating for democracy and women's rights."
+            ],
+            "achievements": [
+                "First female PM of the Muslim world.",
+                "Restored democracy after military rule.",
+                "Symbol of women's empowerment.",
+                "UN Prize in the Field of Human Rights."
+            ],
+            "challenges": [
+                "The execution of her father.",
+                "Imprisonment and house arrest.",
+                "Dismissal of her governments on corruption charges.",
+                "Assassination by terrorists."
+            ],
+            "legacy": "Benazir is a martyr for democracy. She broke the glass ceiling in the Islamic world. Her death was a traumatic event for the nation.",
+            "quotes": [
+                "Democracy is the best revenge.",
+                "You can imprison a man, but not an idea. You can exile a man, but not an idea. You can kill a man, but not an idea.",
+                "It is not easy being a woman anywhere. Moreover, for women leaders, the obstacles are greater, the demands are greater, the barriers are greater and the double standards are greater."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First female Prime Minister of the Muslim world.",
+            "culturalImpact": "She is an icon of resilience. The Benazir Income Support Programme helps millions of poor women.",
+            "primarySources": [
+                "Daughter of Destiny (Autobiography).",
+                "Speeches.",
+                "Party manifestos."
+            ],
+            "modernInterpretations": [
+                "Remembered for her courage.",
+                "Her political legacy is carried on by her son, Bilawal."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Abdul Sattar Edhi",
+            "nativeName": "Abdul Sattar Edhi",
+            "lifespan": "1928-2016",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Philanthropist, Humanitarian",
+            "background": "Abdul Sattar Edhi was a humanitarian who founded the Edhi Foundation, which runs the world's largest volunteer ambulance network. He lived a life of extreme simplicity, dedicating everything to the poor.",
+            "keyDecisions": [
+                "Begging on the streets to raise money for his first ambulance.",
+                "Establishing the 'jhoola' (cradle) system to save abandoned babies.",
+                "Refusing government funding to maintain independence.",
+                "Personally washing the bodies of the unclaimed dead."
+            ],
+            "achievements": [
+                "Founded the world's largest volunteer ambulance organization.",
+                "Saved thousands of abandoned infants.",
+                "Lenin Peace Prize.",
+                "Revered as the 'Angel of Mercy'."
+            ],
+            "challenges": [
+                "Threats from religious extremists.",
+                "Lack of resources in the early days.",
+                "The immense scale of poverty in Pakistan.",
+                "Kidney failure in his later years."
+            ],
+            "legacy": "Edhi is the most respected figure in Pakistan. He showed that humanity transcends religion and caste. He was given a state funeral.",
+            "quotes": [
+                "My religion is humanitarianism, which is the basis of every religion in the world.",
+                "No religion is higher than humanity.",
+                "Empty words and long praises do not impress God. Show Him your faith by your deeds."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Pakistan's greatest humanitarian.",
+            "culturalImpact": "He is a moral compass for the nation. His ambulances are a symbol of hope.",
+            "primarySources": [
+                "A Mirror to the Blind (Biography).",
+                "Interviews.",
+                "Foundation records."
+            ],
+            "modernInterpretations": [
+                "Considered a saint by the people.",
+                "His model of social welfare is studied globally."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Malala Yousafzai",
+            "nativeName": "Malala Yousafzai",
+            "lifespan": "1997-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Activist",
+            "background": "Malala Yousafzai is an activist for female education. She survived an assassination attempt by the Taliban in 2012. She is the youngest Nobel Prize laureate.",
+            "keyDecisions": [
+                "Blogging for the BBC about life under the Taliban.",
+                "Continuing to speak out despite threats.",
+                "Founding the Malala Fund.",
+                "Studying at Oxford University."
+            ],
+            "achievements": [
+                "Nobel Peace Prize (2014).",
+                "Global symbol of the fight for girls' education.",
+                "Addressed the UN on her 16th birthday.",
+                "Published 'I Am Malala'."
+            ],
+            "challenges": [
+                "Being shot in the head by the Taliban.",
+                "Living in exile.",
+                "Facing criticism and conspiracy theories in Pakistan.",
+                "Balancing activism with her own education."
+            ],
+            "legacy": "Malala is a global icon. She brought the issue of girls' education to the world stage. Her courage inspired millions.",
+            "quotes": [
+                "One child, one teacher, one book, one pen can change the world.",
+                "I tell my story not because it is unique, but because it is not. It is the story of many girls.",
+                "We realize the importance of our voices only when we are silenced."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Youngest Nobel Laureate and education activist.",
+            "culturalImpact": "Malala Day is July 12. She represents the resilience of Pakistani women.",
+            "primarySources": [
+                "I Am Malala.",
+                "Blog posts.",
+                "UN speeches."
+            ],
+            "modernInterpretations": [
+                "Celebrated globally as a hero.",
+                "Her reception in Pakistan is mixed, with some viewing her as a Western puppet."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Imran Khan",
+            "nativeName": "Imran Ahmed Khan Niazi",
+            "lifespan": "1952-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Prime Minister, Cricketer",
+            "background": "Imran Khan is a former Prime Minister of Pakistan and a legendary cricketer who led Pakistan to victory in the 1992 World Cup. He founded the PTI party and campaigned against corruption.",
+            "keyDecisions": [
+                "Captain of the 1992 World Cup winning team.",
+                "Building the Shaukat Khanum Cancer Hospital.",
+                "Entering politics and founding PTI in 1996.",
+                "Becoming Prime Minister in 2018."
+            ],
+            "achievements": [
+                "Cricket World Cup winner.",
+                "Built Pakistan's first cancer hospital (free for the poor).",
+                "Broke the two-party dominance in Pakistani politics.",
+                "Chancellor of the University of Bradford."
+            ],
+            "challenges": [
+                "Struggling for 22 years in opposition.",
+                "Economic crisis during his premiership.",
+                "Being ousted by a vote of no confidence.",
+                "Legal battles and imprisonment."
+            ],
+            "legacy": "Imran Khan is a national hero for his cricket and philanthropy. His political legacy is polarizing but he mobilized the youth of Pakistan.",
+            "quotes": [
+                "Compromise for your dream but never compromise on your dream.",
+                "It is not defeat that destroys you, it is being demoralized by defeat that destroy you.",
+                "Absolutely Not."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Sports legend and political leader.",
+            "culturalImpact": "He is a celebrity turned statesman. His hospital is a national treasure.",
+            "primarySources": [
+                "Pakistan: A Personal History.",
+                "Cricket records.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Adored by his base as an incorruptible leader.",
+                "Criticized by opponents for populism and conflict with the military."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Zulfikar Ali Bhutto",
+            "nativeName": "Zulfikar Ali Bhutto",
+            "lifespan": "1928-1979",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister, President",
+            "background": "Zulfikar Ali Bhutto was a charismatic politician who founded the Pakistan People's Party (PPP). He served as President and Prime Minister, initiating the nuclear program and the 1973 Constitution. He was executed by General Zia-ul-Haq.",
+            "keyDecisions": [
+                "Founding the PPP.",
+                "Initiating Pakistan's nuclear program.",
+                "Hosting the Islamic Summit Conference in 1974.",
+                "Nationalizing industries."
+            ],
+            "achievements": [
+                "Father of the Nuclear Program.",
+                "Gave Pakistan its 1973 Constitution.",
+                "Empowered the masses (Roti, Kapra, Makan).",
+                "Simla Agreement with India."
+            ],
+            "challenges": [
+                "The loss of East Pakistan (Bangladesh).",
+                "Conflict with the military.",
+                "Accusations of authoritarianism.",
+                "His trial and execution."
+            ],
+            "legacy": "Bhutto is a polarizing giant. He gave the poor a voice but his policies had mixed economic results. His execution made him a martyr.",
+            "quotes": [
+                "We will eat grass, even go hungry, but we will get one of our own (nuclear bomb).",
+                "I would rather die with my head high, than live with my knees bent.",
+                "Democracy is our polity."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Founder of PPP and Nuclear Program.",
+            "culturalImpact": "The Bhutto name is a political dynasty. His slogan 'Roti, Kapra, Makan' is still used.",
+            "primarySources": [
+                "If I Am Assassinated.",
+                "The Myth of Independence.",
+                "UN speeches."
+            ],
+            "modernInterpretations": [
+                "Praised for his intellect and nationalism.",
+                "Criticized for his role in the 1971 war."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Abdus Salam",
+            "nativeName": "Mohammad Abdus Salam",
+            "lifespan": "1926-1996",
+            "era": "Modern Period (20th Century)",
+            "role": "Physicist",
+            "background": "Abdus Salam was a theoretical physicist who shared the 1979 Nobel Prize in Physics for his contribution to the electroweak unification theory. He was the first Pakistani and the first Muslim scientist to win a Nobel Prize.",
+            "keyDecisions": [
+                "Choosing to return to Pakistan to teach.",
+                "Founding the International Centre for Theoretical Physics (ICTP) in Trieste.",
+                "Advising the government on science policy.",
+                "Leaving Pakistan in protest after the Ahmadiyya were declared non-Muslims."
+            ],
+            "achievements": [
+                "Nobel Prize in Physics (1979).",
+                "Unified the weak nuclear force and electromagnetism.",
+                "Established Pakistan's space program (SUPARCO).",
+                "Promoted science in the developing world."
+            ],
+            "challenges": [
+                "Religious discrimination (he was an Ahmadi).",
+                "Lack of scientific infrastructure in Pakistan.",
+                "Bureaucratic hurdles.",
+                "Living in self-imposed exile."
+            ],
+            "legacy": "Salam is a scientific giant. His work is fundamental to the Standard Model of particle physics. His treatment by his own country is a source of national shame for many.",
+            "quotes": [
+                "Scientific thought and its creation is the common and shared heritage of mankind.",
+                "In the Holy Quran I find this: 'Thou seest not, in the creation of the All-merciful any imperfection.'",
+                "Life is a struggle."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Pakistani Nobel Laureate.",
+            "culturalImpact": "The ICTP is named after him. He is a hero to scientists.",
+            "primarySources": [
+                "Scientific papers.",
+                "Nobel lecture.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Recognized as one of the greatest physicists of the 20th century.",
+                "Efforts are being made to restore his rightful place in Pakistani history."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Faiz Ahmed Faiz",
+            "nativeName": "Faiz Ahmed Faiz",
+            "lifespan": "1911-1984",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet, Intellectual",
+            "background": "Faiz Ahmed Faiz was a revolutionary poet and intellectual. A Marxist, he was nominated for the Nobel Prize in Literature and won the Lenin Peace Prize. His poetry blends romanticism with social justice.",
+            "keyDecisions": [
+                "Joining the Progressive Writers' Movement.",
+                "Serving in the British Indian Army during WWII.",
+                "Opposing military dictatorships.",
+                "Going into exile in Beirut."
+            ],
+            "achievements": [
+                "Lenin Peace Prize.",
+                "Nominated for the Nobel Prize.",
+                "Wrote iconic poems like 'Hum Dekhenge'.",
+                "Editor of the Pakistan Times."
+            ],
+            "challenges": [
+                "Imprisonment in the Rawalpindi Conspiracy Case.",
+                "Censorship and banning of his works.",
+                "Exile.",
+                "Being labeled a traitor by the state."
+            ],
+            "legacy": "Faiz is the voice of the oppressed. His poems are anthems of resistance across South Asia. 'Hum Dekhenge' became a protest song against tyranny.",
+            "quotes": [
+                "Speak, your lips are free.",
+                "We shall see. Certainly we, too, shall see.",
+                "Don't ask me for that love again, my love."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Greatest Urdu poet of the 20th century after Iqbal.",
+            "culturalImpact": "His ghazals are sung by legends like Noor Jehan. He is a symbol of defiance.",
+            "primarySources": [
+                "Nuskha-e-Haye-Wafa.",
+                "Dast-e-Saba.",
+                "Zindan Nama."
+            ],
+            "modernInterpretations": [
+                "Celebrated for his humanism and lyrical beauty.",
+                "His work is timeless in its critique of authoritarianism."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Nusrat Fateh Ali Khan",
+            "nativeName": "Nusrat Fateh Ali Khan",
+            "lifespan": "1948-1997",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Musician, Qawwal",
+            "background": "Nusrat Fateh Ali Khan was a Qawwali singer who introduced Sufi music to the international audience. Known as the 'Shahenshah-e-Qawwali' (King of Kings of Qawwali), he possessed an extraordinary vocal range.",
+            "keyDecisions": [
+                "Collaborating with Western artists like Peter Gabriel.",
+                "Modernizing Qawwali without losing its spiritual essence.",
+                "Touring the world to spread the message of Sufism.",
+                "Recording soundtracks for Hollywood films."
+            ],
+            "achievements": [
+                "Popularized Qawwali globally.",
+                "Grammy nomination.",
+                "UNESCO Music Prize.",
+                "Considered one of the greatest voices ever recorded."
+            ],
+            "challenges": [
+                "Health issues (obesity and kidney failure).",
+                "Criticism from purists for fusing Qawwali with Western music.",
+                "The physical demands of his performances.",
+                "Dying young at 48."
+            ],
+            "legacy": "Nusrat is a musical god. His music transcends language and religion. He influenced artists like Jeff Buckley and Eddie Vedder.",
+            "quotes": [
+                "A man learns all his life, and dies the day he thinks that he has learnt everything.",
+                "Music is a language that doesn't speak in particular words. It speaks in emotions."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "King of Qawwali.",
+            "culturalImpact": "He is the face of Pakistani music. His songs like 'Dam Mast Qalandar' are legendary.",
+            "primarySources": [
+                "Albums (Mustt Mustt, Night Song).",
+                "Concert recordings.",
+                "Documentaries."
+            ],
+            "modernInterpretations": [
+                "Revered as a spiritual master.",
+                "His nephew Rahat Fateh Ali Khan continues his legacy."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Jahangir Khan",
+            "nativeName": "Jahangir Khan",
+            "lifespan": "1963-",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Athlete, Squash Player",
+            "background": "Jahangir Khan is widely considered the greatest squash player of all time. He went unbeaten for 555 consecutive matches over 5 years and 8 months, the longest winning streak in the history of any sport.",
+            "keyDecisions": [
+                "Dedicating his life to squash after his brother's death.",
+                "Training with legendary intensity.",
+                "Retiring at the top of his game.",
+                "Serving as President of the World Squash Federation."
+            ],
+            "achievements": [
+                "555 consecutive match wins.",
+                "10 British Open titles.",
+                "6 World Open titles.",
+                "Put Pakistan on the map as a squash superpower."
+            ],
+            "challenges": [
+                "The death of his brother Torsam on the court.",
+                "Physical exhaustion.",
+                "The pressure of the streak.",
+                "Maintaining motivation."
+            ],
+            "legacy": "Jahangir is the conqueror of squash. His record is unlikely to ever be broken. He is a symbol of Pakistani sporting dominance.",
+            "quotes": [
+                "Hard work beats talent when talent doesn't work hard.",
+                "I played for my brother."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Greatest squash player in history.",
+            "culturalImpact": "He inspired a generation of squash players (Jansher Khan). He is a national icon.",
+            "primarySources": [
+                "Match records.",
+                "Guinness Book of World Records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Studied for his mental toughness and fitness.",
+                "His streak is a benchmark in sports history."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Fatima Jinnah",
+            "nativeName": "Fatima Jinnah",
+            "lifespan": "1893-1967",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician, Dental Surgeon",
+            "background": "Fatima Jinnah, known as Madar-e-Millat (Mother of the Nation), was the sister of Muhammad Ali Jinnah. She was a dental surgeon who gave up her practice to support her brother and the Pakistan Movement. later, she challenged the dictatorship of Ayub Khan.",
+            "keyDecisions": [
+                "Leaving dentistry to care for her brother.",
+                "Co-founding the All Pakistan Women's Association.",
+                "Running for President against Ayub Khan in 1965.",
+                "Campaigning for democracy."
+            ],
+            "achievements": [
+                "Mother of the Nation.",
+                "Role model for Pakistani women.",
+                "Mobilized women during the independence movement.",
+                "Symbol of democratic resistance."
+            ],
+            "challenges": [
+                "Living in the shadow of her brother.",
+                "Rigged elections in 1965.",
+                "Being labeled a traitor by the military regime.",
+                "Her mysterious death."
+            ],
+            "legacy": "Fatima Jinnah is the mother figure of Pakistan. Her 1965 campaign proved her courage. She is buried beside her brother.",
+            "quotes": [
+                "Cowards die many times before their death; the valiant never taste of death but once.",
+                "It is the duty of every Pakistani to work for the consolidation and progress of the state."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Mother of the Nation.",
+            "culturalImpact": "Her image is on currency and stamps. She represents female leadership.",
+            "primarySources": [
+                "My Brother (Biography of Jinnah).",
+                "Speeches.",
+                "Election campaign records."
+            ],
+            "modernInterpretations": [
+                "Revered for her sacrifice and democratic struggle.",
+                "Her treatment by the state is a subject of historical critique."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Noor Jehan",
+            "nativeName": "Allah Rakhi Wasai",
+            "lifespan": "1926-2000",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Singer, Actress",
+            "background": "Noor Jehan, known as Malika-e-Tarannum (Queen of Melody), was a legendary singer and actress. She dominated the film industry in India and then Pakistan. Her patriotic songs during the 1965 war boosted national morale.",
+            "keyDecisions": [
+                "Moving to Pakistan after Partition.",
+                "Becoming the first female film director in Pakistan.",
+                "Singing patriotic songs for the soldiers in 1965.",
+                "Ruling the playback singing industry for decades."
+            ],
+            "achievements": [
+                "Queen of Melody.",
+                "Recorded over 10,000 songs.",
+                "Awarded the Tamgha-e-Imtiaz.",
+                "Defined the golden age of Pakistani cinema."
+            ],
+            "challenges": [
+                "Personal turmoil and divorces.",
+                "Health issues.",
+                "Competition with younger singers.",
+                "Balancing her career and family."
+            ],
+            "legacy": "Noor Jehan is the voice of Pakistan. Her war songs are still played on national days. She was a diva in the truest sense.",
+            "quotes": [
+                "I sing from my heart.",
+                "My life is my art."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Queen of Melody.",
+            "culturalImpact": "She is a cultural icon. Her style and voice are imitated but never equaled.",
+            "primarySources": [
+                "Films (Zeenat, Anarkali).",
+                "Songs (Ae Watan Ke Sajeele Jawano).",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a feminist icon who lived on her own terms.",
+                "Her contribution to culture is immense."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Liaquat Ali Khan",
+            "nativeName": "Liaquat Ali Khan",
+            "lifespan": "1895-1951",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister",
+            "background": "Liaquat Ali Khan was the first Prime Minister of Pakistan. A close confidant of Jinnah, he is known as Quaid-e-Millat (Leader of the Nation). He was assassinated in Rawalpindi in 1951.",
+            "keyDecisions": [
+                "Presenting the 'Poor Man's Budget' in undivided India.",
+                "Serving as the first PM of Pakistan.",
+                "Signing the Liaquat-Nehru Pact.",
+                "Aligning Pakistan with the West (visiting the US)."
+            ],
+            "achievements": [
+                "First Prime Minister.",
+                "Established the administrative framework of the new state.",
+                "Promoted the Objectives Resolution.",
+                "Martyr of the Nation."
+            ],
+            "challenges": [
+                "The refugee crisis after Partition.",
+                "War with India over Kashmir.",
+                "Economic bankruptcy of the new state.",
+                "Assassination."
+            ],
+            "legacy": "Liaquat is a founding father. His assassination remains a mystery and a turning point in history. He died with empty pockets, proving his honesty.",
+            "quotes": [
+                "The gun that is not fired in defense of the country is just a piece of iron.",
+                "God save Pakistan."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Prime Minister.",
+            "culturalImpact": "Liaquat National Hospital and Library are named after him. He is a symbol of sacrifice.",
+            "primarySources": [
+                "Speeches.",
+                "Parliamentary records.",
+                "Objectives Resolution."
+            ],
+            "modernInterpretations": [
+                "Respected for his integrity.",
+                "His foreign policy choices are debated."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Arfa Karim",
+            "nativeName": "Arfa Karim Randhawa",
+            "lifespan": "1995-2012",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Computer Prodigy",
+            "background": "Arfa Karim was a computer prodigy who became the youngest Microsoft Certified Professional (MCP) at age 9. She was invited by Bill Gates to visit Microsoft headquarters. She died tragically young at 16.",
+            "keyDecisions": [
+                "Pursuing IT certification at a very young age.",
+                "Representing Pakistan at international forums.",
+                "Advocating for IT education.",
+                "Dreaming of a digital Pakistan."
+            ],
+            "achievements": [
+                "Youngest Microsoft Certified Professional (2004).",
+                "Pride of Performance award.",
+                "Fatima Jinnah Gold Medal.",
+                "Inspired youth to enter the IT field."
+            ],
+            "challenges": [
+                "Epileptic seizure and cardiac arrest.",
+                "Dying at 16.",
+                "The pressure of being a prodigy."
+            ],
+            "legacy": "Arfa is a symbol of potential and tragedy. She inspired the IT boom in Pakistan. Arfa Software Technology Park is named after her.",
+            "quotes": [
+                "If you want to do something big in your life, you must remember that shyness is only the mind. If you think shy, you act shy.",
+                "I want to be the Bill Gates of Pakistan."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Youngest MCP and IT icon.",
+            "culturalImpact": "She proved Pakistani talent on a global stage. Her death was mourned by the nation.",
+            "primarySources": [
+                "Interviews.",
+                "News reports.",
+                "Microsoft records."
+            ],
+            "modernInterpretations": [
+                "Remembered as a brilliant star that burned out too soon.",
+                "Role model for girls in STEM."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Saadat Hasan Manto",
+            "nativeName": "Saadat Hasan Manto",
+            "lifespan": "1912-1955",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Manto was a short story writer known for his brutal realism. He wrote about the horrors of Partition, prostitution, and the hypocrisy of society. He was tried for obscenity multiple times but never convicted.",
+            "keyDecisions": [
+                "Writing about taboo subjects.",
+                "Moving to Pakistan after Partition.",
+                "Refusing to compromise his artistic integrity.",
+                "Writing 'Toba Tek Singh'."
+            ],
+            "achievements": [
+                "Greatest short story writer in Urdu.",
+                "Documented the human tragedy of Partition.",
+                "Challenged societal norms.",
+                "Nishan-e-Imtiaz (posthumous)."
+            ],
+            "challenges": [
+                "Obscenity trials.",
+                "Alcoholism.",
+                "Financial struggles.",
+                "Mental anguish over the violence he witnessed."
+            ],
+            "legacy": "Manto is the master of the short story. His work is more relevant than ever. He exposed the dark underbelly of society.",
+            "quotes": [
+                "If you find my stories dirty, the society you are living in is dirty.",
+                "I am not a story writer, I am a story picker.",
+                "With my writing, I only peel the skin off the society's wounds."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary giant and social critic.",
+            "culturalImpact": "His stories are adapted into films and plays. He is a hero to liberals and writers.",
+            "primarySources": [
+                "Toba Tek Singh.",
+                "Thanda Gosht.",
+                "Mottled Dawn."
+            ],
+            "modernInterpretations": [
+                "Celebrated for his honesty and humanism.",
+                "His predictions about religious extremism were prophetic."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Major Aziz Bhatti",
+            "nativeName": "Raja Aziz Bhatti",
+            "lifespan": "1928-1965",
+            "era": "Modern Period (20th Century)",
+            "role": "Soldier",
+            "background": "Major Aziz Bhatti is a war hero of the 1965 Indo-Pak war. He defended the Burki sector in Lahore for days without rest until he was martyred by a tank shell. He was awarded the Nishan-e-Haider, Pakistan's highest military honor.",
+            "keyDecisions": [
+                "Refusing to leave his post despite orders to rest.",
+                "Leading his men from the front.",
+                "Directing artillery fire while under heavy attack.",
+                "Sacrificing his life for the defense of Lahore."
+            ],
+            "achievements": [
+                "Nishan-e-Haider recipient.",
+                "Saved Lahore from enemy capture.",
+                "Symbol of military valor.",
+                "National Hero."
+            ],
+            "challenges": [
+                "Overwhelming enemy numbers.",
+                "Constant shelling.",
+                "Lack of sleep and food.",
+                "The ultimate sacrifice."
+            ],
+            "legacy": "Bhatti is the definition of a hero. His story is told in school textbooks. He represents the spirit of 1965.",
+            "quotes": [
+                "Do not recall me. I will not leave this post until the last drop of my blood."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Recipient of Nishan-e-Haider.",
+            "culturalImpact": "He is a household name. Defense Day is celebrated in his honor.",
+            "primarySources": [
+                "Military citations.",
+                "War diaries.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as the defender of Lahore.",
+                "Symbol of patriotism."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Perwiz Musharraf",
+            "nativeName": "Pervez Musharraf",
+            "lifespan": "1943-2023",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President, General",
+            "background": "Pervez Musharraf was a four-star general who seized power in a coup in 1999 and served as President until 2008. He became a key US ally in the War on Terror after 9/11. His rule saw economic growth but also conflict.",
+            "keyDecisions": [
+                "Launching the Kargil War.",
+                "Staging the 1999 coup.",
+                "Aligning with the US in the War on Terror.",
+                "Liberalizing the media."
+            ],
+            "achievements": [
+                "Economic boom in the mid-2000s.",
+                "Promoted 'Enlightened Moderation'.",
+                "Opened up the media landscape.",
+                "Empowered local governments."
+            ],
+            "challenges": [
+                "Balancing US demands with domestic opposition.",
+                "The Lawyers' Movement.",
+                "Assassination attempts.",
+                "The Lal Masjid siege."
+            ],
+            "legacy": "Musharraf is a controversial figure. He modernized Pakistan but suspended the constitution. His decision to join the War on Terror had lasting consequences.",
+            "quotes": [
+                "Pakistan comes first.",
+                "I will not let Pakistan fail."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "President and Army Chief.",
+            "culturalImpact": "His era is remembered for media freedom and liberal values, but also for the rise of terrorism.",
+            "primarySources": [
+                "In the Line of Fire (Memoir).",
+                "Speeches.",
+                "US diplomatic cables."
+            ],
+            "modernInterpretations": [
+                "Debated as a modernizer vs. a dictator.",
+                "His death in exile marked the end of an era."
+            ]
+        }
+    ]
+}

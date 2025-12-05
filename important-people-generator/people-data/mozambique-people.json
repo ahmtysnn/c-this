@@ -1,0 +1,761 @@
+{
+    "country": "Mozambique",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Samora Machel",
+            "nativeName": "Samora Moisés Machel",
+            "lifespan": "1933-1986",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Samora Machel was a military commander and revolutionary socialist who served as the first President of Mozambique. He led FRELIMO to victory against the Portuguese.",
+            "keyDecisions": [
+                "Joining FRELIMO.",
+                "Taking command after Mondlane's assassination.",
+                "Declaring independence in 1975.",
+                "Supporting the ANC and ZANU."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "Liberator.",
+                "Charismatic leader.",
+                "Lenin Peace Prize."
+            ],
+            "challenges": [
+                "Civil war (RENAMO).",
+                "Economic collapse.",
+                "Apartheid aggression.",
+                "Plane crash (Mbuzini)."
+            ],
+            "legacy": "Samora is the eternal leader. 'A Luta Continua' (The Struggle Continues) is his slogan.",
+            "quotes": [
+                "The struggle continues!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Liberator.",
+            "culturalImpact": "His statue stands in Independence Square. He is a martyr.",
+            "primarySources": [
+                "Speeches.",
+                "FRELIMO documents."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "His death is still blamed on Apartheid South Africa."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Eduardo Mondlane",
+            "nativeName": "Eduardo Chivambo Mondlane",
+            "lifespan": "1920-1969",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary",
+            "background": "Eduardo Mondlane was an anthropologist and professor who served as the founding President of FRELIMO. He united the disparate nationalist movements.",
+            "keyDecisions": [
+                "Leaving his job at the UN to lead the struggle.",
+                "Uniting MANU, UDENAMO, and UNAMI into FRELIMO.",
+                "Establishing headquarters in Tanzania.",
+                "Advocating for unity."
+            ],
+            "achievements": [
+                "Architect of National Unity.",
+                "Founder of FRELIMO.",
+                "Intellectual.",
+                "Professor."
+            ],
+            "challenges": [
+                "Internal divisions.",
+                "Portuguese secret police (PIDE).",
+                "Assassination by parcel bomb.",
+                "Tribalism."
+            ],
+            "legacy": "Mondlane is the architect of the nation. His vision guided the struggle.",
+            "quotes": [
+                "The struggle for Mozambique."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Architect.",
+            "culturalImpact": "Eduardo Mondlane University is named after him.",
+            "primarySources": [
+                "The Struggle for Mozambique.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a martyr.",
+                "His intellect is praised."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Mia Couto",
+            "nativeName": "António Emílio Leite Couto (Mia Couto)",
+            "lifespan": "1955-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Mia Couto is a biologist and writer. He is the most famous Mozambican author, known for his magical realism and unique use of the Portuguese language.",
+            "keyDecisions": [
+                "Joining the independence struggle (FRELIMO).",
+                "Writing 'Sleepwalking Land'.",
+                "Working as a biologist in Limpopo Park.",
+                "Inventing new words."
+            ],
+            "achievements": [
+                "Camões Prize winner.",
+                "Neustadt International Prize.",
+                "Global literary star.",
+                "Biologist."
+            ],
+            "challenges": [
+                "The civil war.",
+                "Being a white African.",
+                "Preserving the environment.",
+                "Language barriers."
+            ],
+            "legacy": "Mia Couto is the voice of Mozambique. He captures the dreams and nightmares of the nation.",
+            "quotes": [
+                "Every man is a race."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary Giant.",
+            "culturalImpact": "His books are translated into many languages.",
+            "primarySources": [
+                "Sleepwalking Land.",
+                "Under the Frangipani."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His work bridges African and European traditions."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Eusébio",
+            "nativeName": "Eusébio da Silva Ferreira",
+            "lifespan": "1942-2014",
+            "era": "Modern Period (20th Century)",
+            "role": "Athlete",
+            "background": "Eusébio was a footballer born in Mozambique who played for Portugal. Known as the 'Black Panther', he is considered one of the greatest players of all time.",
+            "keyDecisions": [
+                "Leaving Mozambique for Benfica.",
+                "Scoring 9 goals in the 1966 World Cup.",
+                "Staying loyal to Benfica.",
+                "Never forgetting his roots."
+            ],
+            "achievements": [
+                "Ballon d'Or winner.",
+                "Golden Boot winner.",
+                "Benfica legend.",
+                "Black Panther."
+            ],
+            "challenges": [
+                "Colonial status.",
+                "Knee injuries.",
+                "Pressure.",
+                "Salazar's restrictions (couldn't leave Portugal)."
+            ],
+            "legacy": "Eusébio is a legend in both Mozambique and Portugal. He put African football talent on the map.",
+            "quotes": [
+                "I play for the love of the ball."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Black Panther.",
+            "culturalImpact": "He is a global icon.",
+            "primarySources": [
+                "Match records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a GOAT.",
+                "Mozambique claims him as their son."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Graça Machel",
+            "nativeName": "Graça Simbine Machel",
+            "lifespan": "1945-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Politician, Activist",
+            "background": "Graça Machel is a politician and humanitarian. She is the only woman in history to have been First Lady of two different republics (Mozambique and South Africa).",
+            "keyDecisions": [
+                "Joining FRELIMO as a freedom fighter.",
+                "Serving as Minister of Education.",
+                "Marrying Samora Machel.",
+                "Marrying Nelson Mandela."
+            ],
+            "achievements": [
+                "Minister of Education.",
+                "Advocate for women and children.",
+                "The Elders member.",
+                "Dame Commander (honorary)."
+            ],
+            "challenges": [
+                "Widowhood (twice).",
+                "Civil war.",
+                "Rebuilding the education system.",
+                "Living in the public eye."
+            ],
+            "legacy": "Graça Machel is the mother of Africa. Her dignity and strength are legendary.",
+            "quotes": [
+                "It is not the world that needs to change, it is us."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Matriarch.",
+            "culturalImpact": "She is a global leader in her own right.",
+            "primarySources": [
+                "UN reports.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a role model.",
+                "Her work for children is impactful."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Joaquim Chissano",
+            "nativeName": "Joaquim Alberto Chissano",
+            "lifespan": "1939-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Joaquim Chissano was the second President of Mozambique. He is credited with ending the civil war, transitioning the country to democracy, and stepping down voluntarily.",
+            "keyDecisions": [
+                "Negotiating the Rome General Peace Accords.",
+                "Introducing the 1990 Constitution (democracy).",
+                "Promoting Transcendental Meditation.",
+                "Retiring after two elected terms."
+            ],
+            "achievements": [
+                "Peacemaker.",
+                "Mo Ibrahim Prize winner.",
+                "Transformed the economy.",
+                "Statesman."
+            ],
+            "challenges": [
+                "Civil war.",
+                "Economic ruin.",
+                "Floods of 2000.",
+                "Internal party resistance."
+            ],
+            "legacy": "Chissano is the model of an African democrat. He showed that leaders can leave power peacefully.",
+            "quotes": [
+                "Peace is not just the silence of guns."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Peacemaker.",
+            "culturalImpact": "He is respected globally.",
+            "primarySources": [
+                "Peace Accords.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a wise leader.",
+                "His promotion of meditation is a quirky footnote."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Malangatana",
+            "nativeName": "Malangatana Valente Ngwenya",
+            "lifespan": "1936-2011",
+            "era": "Modern Period (20th Century)",
+            "role": "Artist",
+            "background": "Malangatana was a painter and poet. His large, crowded canvases depicting monsters and humans captured the horrors of colonialism and civil war.",
+            "keyDecisions": [
+                "Painting the suffering of his people.",
+                "Supporting FRELIMO.",
+                "Staying in Mozambique during the war.",
+                "Promoting peace through art."
+            ],
+            "achievements": [
+                "UNESCO Artist for Peace.",
+                "Most famous Mozambican painter.",
+                "Cultural icon.",
+                "Poet."
+            ],
+            "challenges": [
+                "Imprisonment by PIDE.",
+                "Censorship.",
+                "Trauma of war.",
+                "Health."
+            ],
+            "legacy": "Malangatana is the Picasso of Mozambique. His art is the visual history of the nation.",
+            "quotes": [
+                "Art is a weapon."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Painter.",
+            "culturalImpact": "His murals are in Maputo and Lisbon.",
+            "primarySources": [
+                "Paintings.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His style is instantly recognizable."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Lurdes Mutola",
+            "nativeName": "Maria de Lurdes Mutola",
+            "lifespan": "1972-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Lurdes Mutola is a former track and field athlete. Known as the 'Maputo Express', she is the only Mozambican athlete to win an Olympic gold medal.",
+            "keyDecisions": [
+                "Moving to Oregon to train.",
+                "Winning Gold in Sydney 2000 (800m).",
+                "Competing in 6 Olympics.",
+                "Founding the Lurdes Mutola Foundation."
+            ],
+            "achievements": [
+                "Olympic Gold Medalist.",
+                "World Champion (multiple times).",
+                "Maputo Express.",
+                "National hero."
+            ],
+            "challenges": [
+                "Lack of facilities in Mozambique.",
+                "Disqualification in 1996.",
+                "Injuries.",
+                "Pressure."
+            ],
+            "legacy": "Mutola is the golden girl of Mozambique. She proved that a Mozambican could rule the world.",
+            "quotes": [
+                "I run for my people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Maputo Express.",
+            "culturalImpact": "She is an idol to youth.",
+            "primarySources": [
+                "Race records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Her longevity is praised."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Ngungunhane",
+            "nativeName": "Ngungunhane (Gungunhana)",
+            "lifespan": "c. 1850-1906",
+            "era": "Modern Period (19th Century)",
+            "role": "King",
+            "background": "Ngungunhane was the last emperor of the Gaza Empire. He resisted Portuguese colonization until his defeat and capture in 1895.",
+            "keyDecisions": [
+                "Resisting the Portuguese.",
+                "Trying to play the British against the Portuguese.",
+                "Surrendering at Chaimite.",
+                "Exile in the Azores."
+            ],
+            "achievements": [
+                "Lion of Gaza.",
+                "Ruled a vast empire.",
+                "Symbol of resistance.",
+                "Warrior."
+            ],
+            "challenges": [
+                "Portuguese machine guns.",
+                "Internal rebellion.",
+                "Betrayal.",
+                "Humiliation in captivity."
+            ],
+            "legacy": "Ngungunhane is the symbol of lost sovereignty. His return (bones) in 1985 was a national event.",
+            "quotes": [
+                "I am the Emperor."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Lion of Gaza.",
+            "culturalImpact": "He is a tragic hero.",
+            "primarySources": [
+                "Portuguese military reports.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Revered as a patriot.",
+                "His defeat marked the end of traditional power."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "José Craveirinha",
+            "nativeName": "José Craveirinha",
+            "lifespan": "1922-2003",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "José Craveirinha was a poet and journalist. He is considered the greatest Mozambican poet and won the Camões Prize.",
+            "keyDecisions": [
+                "Writing poetry about the African condition.",
+                "Using his pen to fight colonialism.",
+                "Being imprisoned by PIDE.",
+                "Mentoring young writers."
+            ],
+            "achievements": [
+                "Camões Prize winner.",
+                "National Poet.",
+                "Journalist.",
+                "Activist."
+            ],
+            "challenges": [
+                "Racism.",
+                "Imprisonment.",
+                "Censorship.",
+                "Torture."
+            ],
+            "legacy": "Craveirinha is the father of Mozambican literature. His poem 'Quero ser tambor' (I want to be a drum) is iconic.",
+            "quotes": [
+                "I want to be a drum."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "He is the voice of Negritude in Mozambique.",
+            "primarySources": [
+                "Xigubo.",
+                "Karingana ua Karingana."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His work is timeless."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Paulina Chiziane",
+            "nativeName": "Paulina Chiziane",
+            "lifespan": "1955-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Paulina Chiziane is a writer. She was the first woman to publish a novel in Mozambique ('Balada de Amor ao Vento'). She won the Camões Prize in 2021.",
+            "keyDecisions": [
+                "Writing about polygamy and tradition.",
+                "Breaking the silence of women.",
+                "Writing 'Niketche'.",
+                "Challenging patriarchy."
+            ],
+            "achievements": [
+                "Camões Prize winner.",
+                "First female novelist.",
+                "Feminist icon.",
+                "Storyteller."
+            ],
+            "challenges": [
+                "Patriarchy.",
+                "Political criticism.",
+                "Balancing tradition and modernity.",
+                "Being a woman writer."
+            ],
+            "legacy": "Paulina Chiziane opened the door for women's voices. She is a fearless storyteller.",
+            "quotes": [
+                "A woman is like the earth."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary Pioneer.",
+            "culturalImpact": "Her books are bestsellers.",
+            "primarySources": [
+                "Niketche: A Story of Polygamy.",
+                "Balada de Amor ao Vento."
+            ],
+            "modernInterpretations": [
+                "Revered as a matriarch of letters.",
+                "Her work is essential."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Marcelino dos Santos",
+            "nativeName": "Marcelino dos Santos",
+            "lifespan": "1929-2020",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Politician, Poet",
+            "background": "Marcelino dos Santos was a founding member of FRELIMO and a poet (under the pen name Kalungano). He was a key ideologue of the party.",
+            "keyDecisions": [
+                "Founding FRELIMO.",
+                "Serving as Vice President.",
+                "Writing revolutionary poetry.",
+                "Staying loyal to the party line."
+            ],
+            "achievements": [
+                "Founder of FRELIMO.",
+                "Hero of the Republic.",
+                "Poet.",
+                "Intellectual."
+            ],
+            "challenges": [
+                "Exile.",
+                "War.",
+                "Internal purges.",
+                "Old age."
+            ],
+            "legacy": "Marcelino is the elder statesman. He represents the old guard of the revolution.",
+            "quotes": [
+                "We must plant the new man."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Ideologue.",
+            "culturalImpact": "He is a symbol of FRELIMO history.",
+            "primarySources": [
+                "Poems.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Respected as a founder.",
+                "His hardline Marxism is debated."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Noémia de Sousa",
+            "nativeName": "Noémia de Sousa",
+            "lifespan": "1926-2002",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Noémia de Sousa was a poet and journalist known as the 'Mother of Mozambican Poets'. Her poem 'Sangue Negro' is a classic of resistance.",
+            "keyDecisions": [
+                "Writing 'Sangue Negro'.",
+                "Going into exile.",
+                "Using poetry to affirm African identity.",
+                "Working for news agencies."
+            ],
+            "achievements": [
+                "Mother of Mozambican Poets.",
+                "Voice of resistance.",
+                "Journalist.",
+                "Feminist."
+            ],
+            "challenges": [
+                "Persecution by PIDE.",
+                "Exile in Portugal.",
+                "Silence (she stopped publishing early).",
+                "Racism."
+            ],
+            "legacy": "Noémia de Sousa is the mother figure. Her words inspired the liberation movement.",
+            "quotes": [
+                "My black blood."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poetess.",
+            "culturalImpact": "She is a literary ancestor.",
+            "primarySources": [
+                "Sangue Negro.",
+                "Anthologies."
+            ],
+            "modernInterpretations": [
+                "Revered as a pioneer.",
+                "Her work is powerful and emotional."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Afonso Dhlakama",
+            "nativeName": "Afonso Marceta Macacho Dhlakama",
+            "lifespan": "1953-2018",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Rebel Leader, Politician",
+            "background": "Afonso Dhlakama was the leader of RENAMO for nearly 40 years. He led the guerrilla war against FRELIMO and later became the opposition leader.",
+            "keyDecisions": [
+                "Taking over RENAMO after Matsangaissa's death.",
+                "Fighting the civil war.",
+                "Signing the Peace Accords.",
+                "Returning to the bush in 2013."
+            ],
+            "achievements": [
+                "Leader of RENAMO.",
+                "Forced FRELIMO to negotiate.",
+                "Opposition leader.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Being labeled a puppet of Apartheid.",
+                "Losing elections.",
+                "Assassination attempts.",
+                "Health (diabetes)."
+            ],
+            "legacy": "Dhlakama is a controversial figure. He brought war, but also democracy (by force).",
+            "quotes": [
+                "I want democracy."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Opposition.",
+            "culturalImpact": "His death changed the political landscape.",
+            "primarySources": [
+                "Interviews.",
+                "Peace Accords."
+            ],
+            "modernInterpretations": [
+                "Viewed as a warlord turned politician.",
+                "His supporters see him as a hero of democracy."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Ricardo Rangel",
+            "nativeName": "Ricardo Rangel",
+            "lifespan": "1924-2009",
+            "era": "Modern Period (20th Century)",
+            "role": "Photographer",
+            "background": "Ricardo Rangel was a photojournalist. He documented the colonial era and the nightlife of Maputo, exposing the injustices of the system.",
+            "keyDecisions": [
+                "Becoming a photographer.",
+                "Documenting the 'Rua Araújo'.",
+                "Founding the Photographic Training Centre.",
+                "Refusing to be silenced."
+            ],
+            "achievements": [
+                "Father of Mozambican Photography.",
+                "Documented history.",
+                "Mentor.",
+                "Artist."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Harassment by police.",
+                "Lack of materials.",
+                "War."
+            ],
+            "legacy": "Rangel's photos are the visual memory of Mozambique. He taught a generation to see.",
+            "quotes": [
+                "Photography is truth."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Eye.",
+            "culturalImpact": "His archives are a national treasure.",
+            "primarySources": [
+                "Photos.",
+                "Exhibitions."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His work is iconic."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Reinata Sadimba",
+            "nativeName": "Reinata Sadimba",
+            "lifespan": "1945-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Artist",
+            "background": "Reinata Sadimba is a ceramicist and sculptor. She is known for her unique clay figures that blend Makonde tradition with personal expression.",
+            "keyDecisions": [
+                "Learning pottery from her mother.",
+                "Developing her own style.",
+                "Exhibiting internationally.",
+                "Staying true to her roots."
+            ],
+            "achievements": [
+                "Renowned sculptor.",
+                "Innovator.",
+                "Cultural ambassador.",
+                "Woman artist."
+            ],
+            "challenges": [
+                "War (fled to Tanzania).",
+                "Poverty.",
+                "Being a woman in a male-dominated art form.",
+                "Lack of recognition initially."
+            ],
+            "legacy": "Reinata is the hands of Mozambique. Her sculptures are full of life and mystery.",
+            "quotes": [
+                "My hands speak."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sculptor.",
+            "culturalImpact": "She is a master of Makonde art.",
+            "primarySources": [
+                "Sculptures.",
+                "Exhibitions."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Her work is highly collectible."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Mário Coluna",
+            "nativeName": "Mário Esteves Coluna",
+            "lifespan": "1935-2014",
+            "era": "Modern Period (20th Century)",
+            "role": "Athlete",
+            "background": "Mário Coluna was a footballer who captained Benfica and Portugal. Known as the 'Sacred Monster', he was a powerful midfielder.",
+            "keyDecisions": [
+                "Moving to Benfica.",
+                "Captaining the team.",
+                "Winning two European Cups.",
+                "Serving as President of the Mozambican Football Federation."
+            ],
+            "achievements": [
+                "Benfica legend.",
+                "European Champion.",
+                "World Cup 1966 (3rd place).",
+                "Administrator."
+            ],
+            "challenges": [
+                "Colonial status.",
+                "Injuries.",
+                "Transition to administration.",
+                "Rebuilding football in Mozambique."
+            ],
+            "legacy": "Coluna is a giant of the game. He was the leader on the pitch.",
+            "quotes": [
+                "Respect the jersey."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sacred Monster.",
+            "culturalImpact": "He is a legend.",
+            "primarySources": [
+                "Match records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a leader.",
+                "His contribution to sport is immense."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Neyma",
+            "nativeName": "Neyma Júlio Alfredo",
+            "lifespan": "1979-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Singer",
+            "background": "Neyma is a singer known for blending traditional Marrabenta with modern pop. She is one of the most popular artists in Mozambique.",
+            "keyDecisions": [
+                "Starting her career on a TV talent show.",
+                "Modernizing Marrabenta.",
+                "Collaborating with international artists.",
+                "Being a UNICEF ambassador."
+            ],
+            "achievements": [
+                "Queen of Marrabenta.",
+                "Multiple awards.",
+                "UNICEF Ambassador.",
+                "Cultural icon."
+            ],
+            "challenges": [
+                "Music industry struggles.",
+                "Piracy.",
+                "Staying relevant.",
+                "Balancing fame."
+            ],
+            "legacy": "Neyma is the face of modern Mozambican music. She keeps tradition alive for the youth.",
+            "quotes": [
+                "Marrabenta is our soul."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Pop Star.",
+            "culturalImpact": "She is a role model.",
+            "primarySources": [
+                "Albums.",
+                "Videos."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a star.",
+                "Her energy is infectious."
+            ]
+        }
+    ]
+}

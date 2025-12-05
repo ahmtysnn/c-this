@@ -1,0 +1,761 @@
+{
+    "country": "Romania",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Vlad the Impaler",
+            "nativeName": "Vlad III Dracula (Vlad Țepeș)",
+            "lifespan": "1431-1476",
+            "era": "Medieval Period",
+            "role": "Prince",
+            "background": "Vlad the Impaler was the Voivode of Wallachia. He is famous for his brutal punishment of enemies (impalement) and for inspiring the legend of Dracula.",
+            "keyDecisions": [
+                "Refusing to pay tribute to the Ottomans.",
+                "Impaling Saxon merchants and Ottoman soldiers.",
+                "Night Attack at Târgoviște.",
+                "Defending Wallachia."
+            ],
+            "achievements": [
+                "Defender of Christendom.",
+                "Feared warrior.",
+                "National hero (for order).",
+                "Legend."
+            ],
+            "challenges": [
+                "Ottoman Empire.",
+                "Boyar betrayal.",
+                "Matthias Corvinus (imprisonment).",
+                "Death in battle."
+            ],
+            "legacy": "Vlad is a national hero in Romania for his justice, but a monster in Western fiction. Bram Stoker made him immortal.",
+            "quotes": [
+                "It is not a crime to kill a criminal."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Impaler.",
+            "culturalImpact": "Dracula is the most famous vampire.",
+            "primarySources": [
+                "German stories.",
+                "Ottoman chronicles."
+            ],
+            "modernInterpretations": [
+                "Revered as a just ruler.",
+                "The vampire myth is a tourist draw."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Nadia Comăneci",
+            "nativeName": "Nadia Elena Comăneci",
+            "lifespan": "1961-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Nadia Comăneci is a gymnast. She is the first gymnast to be awarded a perfect score of 10.0 at the Olympic Games (Montreal 1976).",
+            "keyDecisions": [
+                "Training with Béla Károlyi.",
+                "Scoring the Perfect 10.",
+                "Winning 5 Olympic Gold medals.",
+                "Defecting to the US in 1989."
+            ],
+            "achievements": [
+                "Perfect 10.",
+                "Olympic legend.",
+                "Global icon.",
+                "Laureus Academy member."
+            ],
+            "challenges": [
+                "Pressure.",
+                "Ceaușescu regime.",
+                "Defection.",
+                "Fame."
+            ],
+            "legacy": "Nadia is the goddess of gymnastics. She redefined perfection.",
+            "quotes": [
+                "I don't run away from a challenge."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Perfect 10.",
+            "culturalImpact": "She is known by her first name everywhere.",
+            "primarySources": [
+                "Olympic records.",
+                "Autobiography."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Symbol of excellence."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Nicolae Ceaușescu",
+            "nativeName": "Nicolae Ceaușescu",
+            "lifespan": "1918-1989",
+            "era": "Modern Period (20th Century)",
+            "role": "Dictator",
+            "background": "Nicolae Ceaușescu was the Communist leader of Romania. His regime was characterized by extreme austerity, a cult of personality, and the Securitate.",
+            "keyDecisions": [
+                "Condemning the invasion of Czechoslovakia (1968).",
+                "Building the Palace of the Parliament.",
+                "Repaying foreign debt (starving the people).",
+                "Being executed on Christmas Day."
+            ],
+            "achievements": [
+                "Industrialization.",
+                "Independence from Moscow (initially).",
+                "Built massive structures.",
+                "Dictator."
+            ],
+            "challenges": [
+                "Economic collapse.",
+                "1989 Revolution.",
+                "Hubris.",
+                "Execution."
+            ],
+            "legacy": "Ceaușescu is the face of tyranny. His fall was the bloodiest of 1989.",
+            "quotes": [
+                "Hello comrades."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dictator.",
+            "culturalImpact": "His palace is a reminder of his ego.",
+            "primarySources": [
+                "Speeches.",
+                "Trial video."
+            ],
+            "modernInterpretations": [
+                "Reviled as a monster.",
+                "Some nostalgia for stability."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Constantin Brâncuși",
+            "nativeName": "Constantin Brâncuși",
+            "lifespan": "1876-1957",
+            "era": "Modern Period (20th Century)",
+            "role": "Artist",
+            "background": "Constantin Brâncuși was a sculptor. He is considered the patriarch of modern sculpture, known for his abstract and simplified forms.",
+            "keyDecisions": [
+                "Walking to Paris.",
+                "Leaving Rodin's studio ('Nothing grows under big trees').",
+                "Creating 'The Endless Column'.",
+                "Creating 'Bird in Space'."
+            ],
+            "achievements": [
+                "Pioneer of modernism.",
+                "Master sculptor.",
+                "Visionary.",
+                "Saint of Montparnasse."
+            ],
+            "challenges": [
+                "Poverty.",
+                "US Customs trial (is it art?).",
+                "Solitude.",
+                "Perfectionism."
+            ],
+            "legacy": "Brâncuși changed art forever. He sought the essence of things.",
+            "quotes": [
+                "Simplicity is complexity resolved."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sculptor.",
+            "culturalImpact": "His ensemble in Târgu Jiu is a masterpiece.",
+            "primarySources": [
+                "Sculptures.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His prices are astronomical."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "George Enescu",
+            "nativeName": "George Enescu",
+            "lifespan": "1881-1955",
+            "era": "Modern Period (20th Century)",
+            "role": "Musician",
+            "background": "George Enescu was a composer, violinist, and conductor. He is Romania's greatest musician, known for his Romanian Rhapsodies.",
+            "keyDecisions": [
+                "Studying in Vienna and Paris.",
+                "Composing 'Oedipe'.",
+                "Teaching Yehudi Menuhin.",
+                "Promoting Romanian folk music."
+            ],
+            "achievements": [
+                "Musical genius.",
+                "Virtuoso violinist.",
+                "Teacher.",
+                "National icon."
+            ],
+            "challenges": [
+                "Exile (Communist takeover).",
+                "Health (stroke).",
+                "Poverty in later life.",
+                "Perfectionism."
+            ],
+            "legacy": "Enescu is the soul of Romanian music. The international festival is named after him.",
+            "quotes": [
+                "Music should go from heart to heart."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Maestro.",
+            "culturalImpact": "He is a god of music.",
+            "primarySources": [
+                "Scores.",
+                "Recordings."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His work is national heritage."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Stephen the Great",
+            "nativeName": "Ștefan cel Mare",
+            "lifespan": "1433-1504",
+            "era": "Medieval Period",
+            "role": "Prince",
+            "background": "Stephen the Great was the Prince of Moldavia for 47 years. He won 46 out of 48 battles and built a church for every victory.",
+            "keyDecisions": [
+                "Defeating the Ottomans at Vaslui.",
+                "Defeating the Hungarians and Poles.",
+                "Building Voroneț Monastery.",
+                "Defending Christendom."
+            ],
+            "achievements": [
+                "Athleta Christi (Pope's title).",
+                "Saint (canonized).",
+                "Builder.",
+                "Warrior."
+            ],
+            "challenges": [
+                "Ottoman invasions.",
+                "Betrayal.",
+                "Wound (leg).",
+                "Succession."
+            ],
+            "legacy": "Stephen is the greatest Romanian ruler. He is a saint and a hero.",
+            "quotes": [
+                "Moldavia does not belong to me, but to your children's children."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Saint.",
+            "culturalImpact": "He is on the currency.",
+            "primarySources": [
+                "Chronicles.",
+                "Monasteries."
+            ],
+            "modernInterpretations": [
+                "Revered as a father figure.",
+                "Symbol of resistance."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Mircea Eliade",
+            "nativeName": "Mircea Eliade",
+            "lifespan": "1907-1986",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Philosopher",
+            "background": "Mircea Eliade was a historian of religion and a writer. He is a leading figure in the study of religion and wrote fantasy novels.",
+            "keyDecisions": [
+                "Studying in India.",
+                "Writing 'The History of Religious Ideas'.",
+                "Teaching at Chicago University.",
+                "Writing 'Maitreyi'."
+            ],
+            "achievements": [
+                "Scholar of religion.",
+                "Novelist.",
+                "Philosopher.",
+                "Intellectual."
+            ],
+            "challenges": [
+                "Association with the Iron Guard (controversial).",
+                "Exile.",
+                "Criticism.",
+                "Fire in his office."
+            ],
+            "legacy": "Eliade defined the sacred and the profane. His past remains a subject of debate.",
+            "quotes": [
+                "The sacred is the real."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scholar.",
+            "culturalImpact": "He is a giant of academia.",
+            "primarySources": [
+                "The Sacred and the Profane.",
+                "Journals."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Criticized for his politics."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Emil Cioran",
+            "nativeName": "Emil Cioran",
+            "lifespan": "1911-1995",
+            "era": "Modern Period (20th Century)",
+            "role": "Philosopher",
+            "background": "Emil Cioran was a philosopher and essayist known for his pessimism and lyrical style. He wrote in Romanian and then in French.",
+            "keyDecisions": [
+                "Moving to Paris.",
+                "Switching to French ('The Trouble with Being Born').",
+                "Refusing prizes.",
+                "Living as a recluse."
+            ],
+            "achievements": [
+                "Master of the aphorism.",
+                "Philosopher of despair.",
+                "Stylist.",
+                "Iconoclast."
+            ],
+            "challenges": [
+                "Insomnia.",
+                "Depression.",
+                "Iron Guard past.",
+                "Nihilism."
+            ],
+            "legacy": "Cioran is the saint of skeptics. He made despair beautiful.",
+            "quotes": [
+                "It is not worth the bother of killing yourself, since you always kill yourself too late."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Pessimist.",
+            "culturalImpact": "He is a cult figure.",
+            "primarySources": [
+                "On the Heights of Despair.",
+                "The Trouble with Being Born."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master of style.",
+                "His darkness resonates."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Simona Halep",
+            "nativeName": "Simona Halep",
+            "lifespan": "1991-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Simona Halep is a tennis player. She is a former World No. 1 and a two-time Grand Slam champion (Roland Garros, Wimbledon).",
+            "keyDecisions": [
+                "Breast reduction surgery (for tennis).",
+                "Winning Roland Garros (2018).",
+                "Winning Wimbledon (2019).",
+                "Fighting doping ban."
+            ],
+            "achievements": [
+                "World No. 1.",
+                "Grand Slam winner.",
+                "National hero.",
+                "Fighter."
+            ],
+            "challenges": [
+                "Finals anxiety.",
+                "Injuries.",
+                "Doping suspension (Roxadustat).",
+                "Pressure."
+            ],
+            "legacy": "Halep is the queen of Romanian tennis. Her fighting spirit is admired.",
+            "quotes": [
+                "I just want to play."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "She is beloved.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Her doping case is a shadow."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Mihai Eminescu",
+            "nativeName": "Mihai Eminescu",
+            "lifespan": "1850-1889",
+            "era": "Modern Period (19th Century)",
+            "role": "Poet",
+            "background": "Mihai Eminescu is the national poet of Romania. His romantic poetry defined the Romanian language and soul.",
+            "keyDecisions": [
+                "Writing 'Luceafărul' (The Morning Star).",
+                "Working as a journalist.",
+                "Joining the Junimea society.",
+                "Dying young (syphilis/mercury treatment)."
+            ],
+            "achievements": [
+                "National Poet.",
+                "Genius.",
+                "Journalist.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Mental illness.",
+                "Poverty.",
+                "Political enemies.",
+                "Tragic love."
+            ],
+            "legacy": "Eminescu is the 'Luceafărul'. He is the unmatched star of Romanian culture.",
+            "quotes": [
+                "All is old and all is new."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "He is recited in schools.",
+            "primarySources": [
+                "Poems.",
+                "Articles."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of letters.",
+                "His work is sacred."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Henri Coandă",
+            "nativeName": "Henri Coandă",
+            "lifespan": "1886-1972",
+            "era": "Modern Period (20th Century)",
+            "role": "Inventor",
+            "background": "Henri Coandă was an aeronautical engineer. He discovered the Coandă effect and built the first jet-powered aircraft (Coandă-1910).",
+            "keyDecisions": [
+                "Building the Coandă-1910.",
+                "Discovering the Coandă effect.",
+                "Designing the Bristol-Coandă monoplanes.",
+                "Returning to Romania."
+            ],
+            "achievements": [
+                "Jet pioneer.",
+                "Scientist.",
+                "Inventor.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Skepticism.",
+                "Crash of the 1910 plane.",
+                "Funding.",
+                "Wars."
+            ],
+            "legacy": "Coandă is the father of the jet engine. His effect is used in aviation today.",
+            "quotes": [
+                "The future is in the air."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Inventor.",
+            "culturalImpact": "The airport is named after him.",
+            "primarySources": [
+                "Patents.",
+                "Designs."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His priority in jet invention is debated but respected."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "King Michael I",
+            "nativeName": "Mihai I",
+            "lifespan": "1921-2017",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "King",
+            "background": "King Michael I was the last King of Romania. He led the coup against Antonescu in 1944 but was forced to abdicate by the Communists in 1947.",
+            "keyDecisions": [
+                "Arresting Marshal Antonescu (1944).",
+                "Switching sides to the Allies.",
+                "Refusing to abdicate (until forced at gunpoint).",
+                "Living in exile for 50 years."
+            ],
+            "achievements": [
+                "Shortened WWII.",
+                "Saved thousands of lives.",
+                "Symbol of dignity.",
+                "King."
+            ],
+            "challenges": [
+                "Nazis.",
+                "Communists.",
+                "Exile.",
+                "Being banned from returning (1990)."
+            ],
+            "legacy": "Michael was a tragic but noble figure. His return was a moment of national healing.",
+            "quotes": [
+                "I have served my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The King.",
+            "culturalImpact": "He is loved.",
+            "primarySources": [
+                "Speeches.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His forced abdication is a national trauma."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Gheorghe Hagi",
+            "nativeName": "Gheorghe Hagi",
+            "lifespan": "1965-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Gheorghe Hagi is a former footballer known as the 'Maradona of the Carpathians'. He is the greatest Romanian footballer of all time.",
+            "keyDecisions": [
+                "Playing for Steaua, Real Madrid, Barcelona, Galatasaray.",
+                "Leading Romania in the 1994 World Cup.",
+                "Founding the Hagi Academy.",
+                "Managing Viitorul."
+            ],
+            "achievements": [
+                "Football legend.",
+                "UEFA Cup winner.",
+                "Manager.",
+                "King."
+            ],
+            "challenges": [
+                "Temperament.",
+                "Pressure.",
+                "Rebuilding Romanian football.",
+                "Expectations."
+            ],
+            "legacy": "Hagi is the King. He put Romania on the football map.",
+            "quotes": [
+                "I was born to win."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The King.",
+            "culturalImpact": "He is a god to fans.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His academy is the future."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Eugen Ionescu",
+            "nativeName": "Eugène Ionesco",
+            "lifespan": "1909-1994",
+            "era": "Modern Period (20th Century)",
+            "role": "Playwright",
+            "background": "Eugène Ionesco was a playwright and a leading figure of the Theatre of the Absurd. He wrote 'The Bald Soprano' and 'Rhinoceros'.",
+            "keyDecisions": [
+                "Moving to France.",
+                "Writing anti-plays.",
+                "Exploring the absurdity of existence.",
+                "Joining the Académie française."
+            ],
+            "achievements": [
+                "Father of the Absurd.",
+                "Playwright.",
+                "Academician.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Language.",
+                "Critics.",
+                "Totalitarianism (inspiration for Rhinoceros).",
+                "Identity."
+            ],
+            "legacy": "Ionesco showed the absurdity of the human condition. His plays are classics.",
+            "quotes": [
+                "It is not the answer that enlightens, but the question."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Absurdist.",
+            "culturalImpact": "He changed theater.",
+            "primarySources": [
+                "Plays.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His work is timeless."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Queen Marie",
+            "nativeName": "Marie of Romania",
+            "lifespan": "1875-1938",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Queen",
+            "background": "Queen Marie was the wife of King Ferdinand I. A granddaughter of Queen Victoria, she was a charismatic diplomat who championed the Great Union of 1918.",
+            "keyDecisions": [
+                "Nursing soldiers in WWI.",
+                "Lobbying at the Paris Peace Conference.",
+                "Writing books.",
+                "Promoting Romanian culture."
+            ],
+            "achievements": [
+                "Mother of the Wounded.",
+                "Diplomat.",
+                "Writer.",
+                "Queen."
+            ],
+            "challenges": [
+                "War.",
+                "Politics.",
+                "Her son Carol II.",
+                "Health."
+            ],
+            "legacy": "Queen Marie is the mother of Greater Romania. Her charm won the peace.",
+            "quotes": [
+                "My country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Queen.",
+            "culturalImpact": "She is loved.",
+            "primarySources": [
+                "Diaries.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a heroine.",
+                "Her role was crucial."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Ana Aslan",
+            "nativeName": "Ana Aslan",
+            "lifespan": "1897-1988",
+            "era": "Modern Period (20th Century)",
+            "role": "Scientist",
+            "background": "Ana Aslan was a biologist and physician. She founded the Geriatric Institute of Bucharest and developed Gerovital H3, an anti-aging treatment.",
+            "keyDecisions": [
+                "Researching procaine.",
+                "Creating Gerovital.",
+                "Treating celebrities (JFK, Dali).",
+                "Fighting aging."
+            ],
+            "achievements": [
+                "Pioneer of gerontology.",
+                "Scientist.",
+                "Inventor.",
+                "Icon."
+            ],
+            "challenges": [
+                "Skepticism.",
+                "Communist bureaucracy.",
+                "Funding.",
+                "Ethics."
+            ],
+            "legacy": "Ana Aslan sought the fountain of youth. Her institute put Romania on the medical map.",
+            "quotes": [
+                "To be young is not a matter of years."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scientist.",
+            "culturalImpact": "Gerovital is a famous brand.",
+            "primarySources": [
+                "Research papers.",
+                "Patents."
+            ],
+            "modernInterpretations": [
+                "Revered as a pioneer.",
+                "Her treatments are still used."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Elie Wiesel",
+            "nativeName": "Eliezer Wiesel",
+            "lifespan": "1928-2016",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer, Activist",
+            "background": "Elie Wiesel was a writer and Holocaust survivor. Born in Sighet, Romania, he wrote 'Night' and won the Nobel Peace Prize.",
+            "keyDecisions": [
+                "Surviving Auschwitz and Buchenwald.",
+                "Writing 'Night'.",
+                "Campaigning against genocide.",
+                "Founding the Elie Wiesel Foundation."
+            ],
+            "achievements": [
+                "Nobel Peace Prize winner.",
+                "Witness.",
+                "Writer.",
+                "Conscience."
+            ],
+            "challenges": [
+                "The Holocaust.",
+                "Trauma.",
+                "Indifference.",
+                "Memory."
+            ],
+            "legacy": "Wiesel is the voice of the victims. He ensured the world would not forget.",
+            "quotes": [
+                "To remain silent and indifferent is the greatest sin of all."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Witness.",
+            "culturalImpact": "He is a moral giant.",
+            "primarySources": [
+                "Night.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His message is eternal."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Sergiu Celibidache",
+            "nativeName": "Sergiu Celibidache",
+            "lifespan": "1912-1996",
+            "era": "Modern Period (20th Century)",
+            "role": "Conductor",
+            "background": "Sergiu Celibidache was a conductor known for his refusal to record and his focus on the phenomenology of music. He led the Munich Philharmonic.",
+            "keyDecisions": [
+                "Conducting the Berlin Philharmonic.",
+                "Leading the Munich Philharmonic.",
+                "Refusing to record (music is 'here and now').",
+                "Teaching."
+            ],
+            "achievements": [
+                "Maestro.",
+                "Philosopher of music.",
+                "Zen master.",
+                "Genius."
+            ],
+            "challenges": [
+                "Conflict with Furtwängler/Karajan.",
+                "Perfectionism.",
+                "Critics.",
+                "Tempo (very slow)."
+            ],
+            "legacy": "Celibidache was a mystic of sound. His concerts were spiritual experiences.",
+            "quotes": [
+                "Music is not sound. Music is what happens when the sound dies."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Maestro.",
+            "culturalImpact": "He is a legend.",
+            "primarySources": [
+                "Bootleg recordings.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "His philosophy is studied."
+            ]
+        }
+    ]
+}

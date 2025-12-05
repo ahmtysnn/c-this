@@ -1,0 +1,804 @@
+{
+    "country": "Russia",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Peter the Great",
+            "nativeName": "Pyotr Alekseyevich Romanov",
+            "lifespan": "1672-1725",
+            "era": "Early Modern Period (Russian Empire)",
+            "role": "Tsar, Emperor",
+            "background": "Peter I was a Tsar of Russia who later became its first Emperor. He is famous for his extensive reforms that modernized Russia and transformed it into a major European power. He founded the city of St. Petersburg.",
+            "keyDecisions": [
+                "Embarking on the 'Grand Embassy' to Europe to study Western technologies.",
+                "Founding St. Petersburg on the Baltic Sea.",
+                "Reforming the military and creating a navy.",
+                "Forcing the nobility to adopt Western dress and customs (e.g., shaving beards)."
+            ],
+            "achievements": [
+                "Transformed Russia into an empire.",
+                "Gained access to the Baltic Sea through the Great Northern War.",
+                "Modernized the Russian alphabet and calendar.",
+                "Established the Table of Ranks."
+            ],
+            "challenges": [
+                "Resistance from the traditional boyars and the church.",
+                "The Streltsy Uprising.",
+                "Conflict with his son, Alexei.",
+                "The immense human cost of building St. Petersburg."
+            ],
+            "legacy": "Peter is the father of the Russian Empire. His westernization policies shaped Russian history for centuries. St. Petersburg remains his enduring monument.",
+            "quotes": [
+                "I have conquered an empire but I have not been able to conquer myself.",
+                "Destiny may ride with us today, but there is no reason for it to interfere with lunch.",
+                "It is my great desire to reform my subjects, and yet I am ashamed to confess that I am unable to reform myself."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Modernizer of Russia and founder of the Russian Empire.",
+            "culturalImpact": "The 'Bronze Horseman' statue is a symbol of the city. He is a central figure in Russian literature and art.",
+            "primarySources": [
+                "Decrees and letters.",
+                "Diaries of contemporaries.",
+                "The Table of Ranks."
+            ],
+            "modernInterpretations": [
+                "Praised for his vision but criticized for his brutality.",
+                "Debate continues over whether his westernization was good for Russia's soul."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Catherine the Great",
+            "nativeName": "Sophie of Anhalt-Zerbst (Ekaterina Alexeyevna)",
+            "lifespan": "1729-1796",
+            "era": "Early Modern Period (Russian Empire)",
+            "role": "Empress",
+            "background": "Catherine II was the longest-ruling female leader of Russia. Born a German princess, she came to power after a coup against her husband, Peter III. Her reign is considered the Golden Age of the Russian Empire.",
+            "keyDecisions": [
+                "Participating in the coup to overthrow her husband.",
+                "Corresponding with Enlightenment philosophers like Voltaire.",
+                "Expanding the empire into Crimea and Poland.",
+                "Issuing the Nakaz (Instruction) for legal reform."
+            ],
+            "achievements": [
+                "Expanded Russian territory significantly (Crimea, New Russia).",
+                "Promoted education and the arts (The Hermitage).",
+                "Modernized administration.",
+                "Established Russia as a dominant power in Europe."
+            ],
+            "challenges": [
+                "Pugachev's Rebellion.",
+                "The legitimacy of her rule (as a usurper and foreigner).",
+                "Managing the complex politics of the court.",
+                "The French Revolution (which turned her against liberal reform)."
+            ],
+            "legacy": "Catherine made Russia a true European great power. She was a patron of the Enlightenment. Her collection formed the basis of the Hermitage Museum.",
+            "quotes": [
+                "I shall be an autocrat: that's my trade. And the good Lord will forgive me: that's his.",
+                "Power without a nation's confidence is nothing.",
+                "I praise loudly, I blame softly."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Enlightened Despot who expanded the empire.",
+            "culturalImpact": "She is a symbol of female power. The Hermitage is one of the world's greatest museums.",
+            "primarySources": [
+                "Memoirs.",
+                "Correspondence with Voltaire.",
+                "The Nakaz."
+            ],
+            "modernInterpretations": [
+                "Admired for her intellect and political skill.",
+                "Criticized for strengthening serfdom."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Vladimir Lenin",
+            "nativeName": "Vladimir Ilyich Ulyanov",
+            "lifespan": "1870-1924",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary, Politician",
+            "background": "Vladimir Lenin was a communist revolutionary and the founder of the Soviet Union. He led the Bolshevik Party in the October Revolution of 1917, overthrowing the Provisional Government and establishing the world's first socialist state.",
+            "keyDecisions": [
+                "Splitting the RSDLP to form the Bolsheviks.",
+                "Returning to Russia in 1917 (sealed train).",
+                "Leading the October Revolution.",
+                "Signing the Treaty of Brest-Litovsk to exit WWI."
+            ],
+            "achievements": [
+                "Founder of the USSR.",
+                "Leader of the first successful communist revolution.",
+                "Developed Leninism (vanguard party theory).",
+                "Won the Russian Civil War."
+            ],
+            "challenges": [
+                "Assassination attempt in 1918.",
+                "The Russian Civil War and foreign intervention.",
+                "Economic collapse (War Communism vs. NEP).",
+                "Declining health and strokes."
+            ],
+            "legacy": "Lenin changed the course of the 20th century. His ideas inspired communist movements worldwide. His embalmed body still lies in the Mausoleum in Red Square.",
+            "quotes": [
+                "Peace, Land, and Bread.",
+                "The capitalists will sell us the rope with which we will hang them.",
+                "There are decades where nothing happens; and there are weeks where decades happen."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Founder of the Soviet Union and Bolshevik leader.",
+            "culturalImpact": "Statues of him stood in every town in the USSR. He remains a polarizing figure.",
+            "primarySources": [
+                "What Is to Be Done?",
+                "State and Revolution.",
+                "April Theses."
+            ],
+            "modernInterpretations": [
+                "Seen as a brilliant strategist but ruthless dictator.",
+                "His role in establishing the totalitarian state is debated."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Joseph Stalin",
+            "nativeName": "Ioseb Besarionis dze Jughashvili",
+            "lifespan": "1878-1953",
+            "era": "Modern Period (20th Century)",
+            "role": "General Secretary, Dictator",
+            "background": "Joseph Stalin was the leader of the Soviet Union from the mid-1920s until his death in 1953. He transformed the USSR from a peasant society into an industrial and military superpower through rapid industrialization and collectivization, at the cost of millions of lives.",
+            "keyDecisions": [
+                "Implementing the Five-Year Plans.",
+                "Collectivizing agriculture (leading to the Holodomor).",
+                "The Great Purge of the 1930s.",
+                "Leading the USSR to victory in WWII (Great Patriotic War)."
+            ],
+            "achievements": [
+                "Industrialized the Soviet Union.",
+                "Defeated Nazi Germany.",
+                "Established the USSR as a nuclear superpower.",
+                "Expanded Soviet influence into Eastern Europe."
+            ],
+            "challenges": [
+                "The German invasion in 1941.",
+                "Internal opposition (real and imagined).",
+                "The Cold War with the West.",
+                "Paranoia and health issues."
+            ],
+            "legacy": "Stalin is one of history's most notorious tyrants. He built a superpower but created a system of terror (Gulag). In Russia, he is still praised by some for winning the war.",
+            "quotes": [
+                "Death is the solution to all problems. No man - no problem.",
+                "One death is a tragedy; one million is a statistic.",
+                "Ideas are more powerful than guns."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Leader of the USSR during WWII and early Cold War.",
+            "culturalImpact": "His name is synonymous with totalitarianism. The 'Stalinist architecture' (Seven Sisters) defines Moscow's skyline.",
+            "primarySources": [
+                "Works.",
+                "Correspondence.",
+                "NKVD archives."
+            ],
+            "modernInterpretations": [
+                "Condemned for his crimes against humanity.",
+                "Some in Russia view him as a strong leader who restored national greatness."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Leo Tolstoy",
+            "nativeName": "Lev Nikolayevich Tolstoy",
+            "lifespan": "1828-1910",
+            "era": "Modern Period (19th Century)",
+            "role": "Writer, Philosopher",
+            "background": "Count Leo Tolstoy is one of the greatest authors of all time. He wrote 'War and Peace' and 'Anna Karenina'. Later in life, he experienced a spiritual awakening and became a Christian anarchist and pacifist, influencing figures like Gandhi.",
+            "keyDecisions": [
+                "Writing 'War and Peace' and 'Anna Karenina'.",
+                "Renouncing his aristocratic lifestyle and wealth.",
+                "Developing his philosophy of non-violent resistance.",
+                "Leaving his home and family at the age of 82."
+            ],
+            "achievements": [
+                "Authored two of the greatest novels in literature.",
+                "Influenced the philosophy of non-violence (Satyagraha).",
+                "Founded schools for peasant children.",
+                "Excommunicated by the Russian Orthodox Church for his views."
+            ],
+            "challenges": [
+                "Conflict with his wife over his new beliefs.",
+                "Spiritual crisis and depression.",
+                "Censorship of his religious writings.",
+                "Dying at a train station (Astapovo) while fleeing home."
+            ],
+            "legacy": "Tolstoy is a giant of world literature. His realistic fiction and moral philosophy continue to challenge readers. He is a symbol of the Russian conscience.",
+            "quotes": [
+                "All happy families are alike; each unhappy family is unhappy in its own way.",
+                "If you want to be happy, be.",
+                "Everyone thinks of changing the world, but no one thinks of changing himself."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary giant and moral philosopher.",
+            "culturalImpact": "His works are adapted endlessly. Yasnaya Polyana is a literary shrine.",
+            "primarySources": [
+                "War and Peace.",
+                "Anna Karenina.",
+                "The Kingdom of God Is Within You."
+            ],
+            "modernInterpretations": [
+                "Revered as a master of realism.",
+                "His pacifist views are still influential."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Fyodor Dostoevsky",
+            "nativeName": "Fyodor Mikhailovich Dostoevsky",
+            "lifespan": "1821-1881",
+            "era": "Modern Period (19th Century)",
+            "role": "Writer, Philosopher",
+            "background": "Fyodor Dostoevsky is a titan of Russian literature. His works, such as 'Crime and Punishment' and 'The Brothers Karamazov', explore human psychology, existentialism, and religion. He survived a mock execution and Siberian exile.",
+            "keyDecisions": [
+                "Joining the Petrashevsky Circle (socialist group).",
+                "Surviving the mock execution and serving time in a Siberian labor camp.",
+                "Writing to pay off gambling debts.",
+                "Delivering the Pushkin Speech."
+            ],
+            "achievements": [
+                "Wrote some of the most profound psychological novels ever.",
+                "Prophesied the rise of totalitarianism in 'Demons'.",
+                "Explored the depths of the human soul and faith.",
+                "Influenced existentialism and psychoanalysis."
+            ],
+            "challenges": [
+                "Epilepsy.",
+                "Gambling addiction.",
+                "Financial ruin.",
+                "The trauma of his imprisonment."
+            ],
+            "legacy": "Dostoevsky is the explorer of the dark side of the human psyche. His questions about God and morality remain relevant. He is a national icon.",
+            "quotes": [
+                "The world will be saved by beauty.",
+                "If God does not exist, everything is permitted.",
+                "Man is a mystery. It needs to be unravelled."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Master of psychological fiction.",
+            "culturalImpact": "His characters (Raskolnikov, the Karamazovs) are archetypes. He defined the 'Russian Soul'.",
+            "primarySources": [
+                "Crime and Punishment.",
+                "The Brothers Karamazov.",
+                "Notes from Underground."
+            ],
+            "modernInterpretations": [
+                "Seen as a prophet of the 20th century's tragedies.",
+                "His religious views are central to understanding his work."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Yuri Gagarin",
+            "nativeName": "Yuri Alekseyevich Gagarin",
+            "lifespan": "1934-1968",
+            "era": "Modern Period (20th Century)",
+            "role": "Cosmonaut",
+            "background": "Yuri Gagarin was a Soviet pilot and cosmonaut who became the first human to journey into outer space. His flight on Vostok 1 in 1961 made him an international celebrity and a hero of the Soviet Union.",
+            "keyDecisions": [
+                "Joining the Soviet Air Force.",
+                "Volunteering for the cosmonaut program.",
+                "Being selected as the first man in space.",
+                "Embarking on a world tour to promote the USSR."
+            ],
+            "achievements": [
+                "First human in space.",
+                "First human to orbit the Earth.",
+                "Hero of the Soviet Union.",
+                "Symbol of Soviet technological prowess."
+            ],
+            "challenges": [
+                "The extreme risk of the first spaceflight.",
+                "Handling the immense fame.",
+                "Being grounded from flying to protect him as a national asset.",
+                "Dying in a jet crash at age 34."
+            ],
+            "legacy": "Gagarin is a global hero. His smile melted Cold War tensions. He represents the beginning of the Space Age.",
+            "quotes": [
+                "Poyekhali! (Let's go!)",
+                "I see Earth! It is so beautiful.",
+                "Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us preserve and increase this beauty, not destroy it!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First human in space.",
+            "culturalImpact": "Cosmonautics Day is celebrated on April 12. Statues of him are everywhere.",
+            "primarySources": [
+                "Flight transcripts.",
+                "Autobiography (Road to the Stars).",
+                "News footage."
+            ],
+            "modernInterpretations": [
+                "Remembered for his bravery and charisma.",
+                "His death remains a subject of conspiracy theories."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Mikhail Gorbachev",
+            "nativeName": "Mikhail Sergeyevich Gorbachev",
+            "lifespan": "1931-2022",
+            "era": "Modern Period (20th Century)",
+            "role": "General Secretary, President",
+            "background": "Mikhail Gorbachev was the last leader of the Soviet Union. His policies of Glasnost (openness) and Perestroika (restructuring) aimed to reform the USSR but led to its collapse and the end of the Cold War.",
+            "keyDecisions": [
+                "Launching Glasnost and Perestroika.",
+                "Withdrawing Soviet troops from Afghanistan.",
+                "Refusing to intervene militarily in the 1989 revolutions in Eastern Europe.",
+                "Resigning as President of the USSR in 1991."
+            ],
+            "achievements": [
+                "Ended the Cold War peacefully.",
+                "Nobel Peace Prize (1990).",
+                "Introduced democracy and free speech to Russia.",
+                "Allowed the reunification of Germany."
+            ],
+            "challenges": [
+                "The Chernobyl disaster.",
+                "Economic chaos caused by half-measures.",
+                "Nationalist movements in the Soviet republics.",
+                "The August Coup of 1991."
+            ],
+            "legacy": "Gorbachev is a hero in the West for ending the Cold War but often reviled in Russia for the collapse of the Soviet Union and the economic hardship that followed.",
+            "quotes": [
+                "We can't go on living like this.",
+                "Peace is not unity in similarity but unity in diversity.",
+                "History punishes those who come late."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Last leader of the USSR; ended the Cold War.",
+            "culturalImpact": "His birthmark is iconic. He changed the map of the world.",
+            "primarySources": [
+                "Memoirs.",
+                "Perestroika (book).",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Praised for his humanity and refusal to use force.",
+                "Blamed by Russian nationalists for the loss of empire."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Pyotr Ilyich Tchaikovsky",
+            "nativeName": "Pyotr Ilyich Tchaikovsky",
+            "lifespan": "1840-1893",
+            "era": "Modern Period (19th Century)",
+            "role": "Composer",
+            "background": "Tchaikovsky is the most popular Russian composer of all time. His works, including 'Swan Lake', 'The Nutcracker', and the '1812 Overture', are staples of the classical repertoire. He bridged Russian folk tradition with Western classical forms.",
+            "keyDecisions": [
+                "Leaving the civil service to study music.",
+                "Accepting the patronage of Nadezhda von Meck (whom he never met).",
+                "Composing ballets, a genre considered inferior at the time.",
+                "Conducting his own works internationally."
+            ],
+            "achievements": [
+                "Composed the world's most famous ballets.",
+                "First Russian composer to make a lasting impression internationally.",
+                "Wrote 6 symphonies and famous concertos.",
+                "Opened Carnegie Hall in New York."
+            ],
+            "challenges": [
+                "Struggles with his sexuality (homosexuality).",
+                "Disastrous marriage.",
+                "Depression and neurosis.",
+                "Mysterious death (cholera or suicide?)."
+            ],
+            "legacy": "Tchaikovsky's music is the soundtrack of Russia. His melodies are universally recognized. He defined the Romantic era in music.",
+            "quotes": [
+                "Inspiration is a guest that does not willingly visit the lazy.",
+                "I sit down to the piano regularly at nine-o'clock in the morning and Mesdames les Muses have learned to be on time for that rendezvous.",
+                "Truly there would be reason to go mad were it not for music."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Russia's most famous composer.",
+            "culturalImpact": "The Nutcracker is a Christmas tradition worldwide. His music evokes deep emotion.",
+            "primarySources": [
+                "Scores (Swan Lake, Symphony No. 6).",
+                "Letters.",
+                "Diaries."
+            ],
+            "modernInterpretations": [
+                "His emotionalism is now seen as a strength, not a weakness.",
+                "His biography is re-examined through the lens of his sexuality."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Dmitri Mendeleev",
+            "nativeName": "Dmitri Ivanovich Mendeleev",
+            "lifespan": "1834-1907",
+            "era": "Modern Period (19th Century)",
+            "role": "Chemist",
+            "background": "Dmitri Mendeleev was a chemist and inventor. He is best known for formulating the Periodic Law and creating the Periodic Table of Elements. He predicted the properties of elements that had not yet been discovered.",
+            "keyDecisions": [
+                "Writing 'Principles of Chemistry'.",
+                "Arranging elements by atomic weight and properties.",
+                "Leaving gaps in the table for undiscovered elements (gallium, scandium, germanium).",
+                "Working on the standardization of vodka (myth, but popular)."
+            ],
+            "achievements": [
+                "Created the Periodic Table.",
+                "Predicted the existence of new elements.",
+                "Founded the Russian Chemical Society.",
+                "Director of the Bureau of Weights and Measures."
+            ],
+            "challenges": [
+                "Initial skepticism of his table.",
+                "Failed to win the Nobel Prize (due to politics).",
+                "Personal scandals (bigamy).",
+                "Conflict with the Imperial Academy of Sciences."
+            ],
+            "legacy": "Mendeleev's table is the fundamental framework of chemistry. Element 101, Mendelevium, is named after him.",
+            "quotes": [
+                "I saw in a dream a table where all the elements fell into place as required.",
+                "There is nothing in this world that I fear to say.",
+                "Work, look for peace and calm in work: you will find it nowhere else."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Creator of the Periodic Table.",
+            "culturalImpact": "Every chemistry classroom in the world has his table. He is the archetype of the Russian scientist.",
+            "primarySources": [
+                "Principles of Chemistry.",
+                "The Relation between the Properties and Atomic Weights of the Elements."
+            ],
+            "modernInterpretations": [
+                "Recognized as a visionary.",
+                "His contribution to industry and economics is also studied."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Alexander Pushkin",
+            "nativeName": "Alexander Sergeyevich Pushkin",
+            "lifespan": "1799-1837",
+            "era": "Modern Period (19th Century)",
+            "role": "Poet, Writer",
+            "background": "Alexander Pushkin is considered the greatest Russian poet and the founder of modern Russian literature. He established the modern Russian literary language. He died in a duel defending his wife's honor.",
+            "keyDecisions": [
+                "Writing in the vernacular Russian language.",
+                "Sympathizing with the Decembrist revolutionaries.",
+                "Writing 'Eugene Onegin'.",
+                "Fighting the fatal duel with Georges d'Anthès."
+            ],
+            "achievements": [
+                "Created the modern Russian literary language.",
+                "Wrote masterpieces in every genre (poetry, drama, prose).",
+                "Defined the 'superfluous man' literary archetype.",
+                "National poet of Russia."
+            ],
+            "challenges": [
+                "Censorship by the Tsar.",
+                "Exile to the south of Russia.",
+                "Constant surveillance.",
+                "Financial debts and marital jealousy."
+            ],
+            "legacy": "Pushkin is 'everything' to Russian culture. Russians quote him daily. He is the sun of Russian poetry.",
+            "quotes": [
+                "I loved you: and, perhaps, I love you still.",
+                "Reading is the best learning.",
+                "Inspiration is needed in geometry just as much as in poetry."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Founder of modern Russian literature.",
+            "culturalImpact": "His birthday is UN Russian Language Day. Statues of him are in every city.",
+            "primarySources": [
+                "Eugene Onegin.",
+                "The Bronze Horseman.",
+                "Boris Godunov."
+            ],
+            "modernInterpretations": [
+                "Celebrated for his African ancestry (his great-grandfather was Abram Gannibal).",
+                "His death is seen as a national tragedy."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Ivan the Terrible",
+            "nativeName": "Ivan IV Vasilyevich",
+            "lifespan": "1530-1584",
+            "era": "Early Modern Period (Tsardom of Russia)",
+            "role": "Tsar",
+            "background": "Ivan IV was the first Tsar of All Rus'. He transformed Russia from a medieval state into an empire, but his reign was marked by paranoia and brutality. He established the Oprichnina, a reign of terror.",
+            "keyDecisions": [
+                "Crowning himself Tsar (Caesar).",
+                "Conquering the Khanates of Kazan and Astrakhan.",
+                "Establishing the Oprichnina.",
+                "Killing his own son and heir in a fit of rage."
+            ],
+            "achievements": [
+                "Expanded Russian territory significantly.",
+                "Centralized power.",
+                "Built St. Basil's Cathedral.",
+                "Established the first printing press in Russia."
+            ],
+            "challenges": [
+                "Childhood trauma (boyar infighting).",
+                "The Livonian War (long and costly).",
+                "Mental instability.",
+                "The Time of Troubles that followed his dynasty's end."
+            ],
+            "legacy": "Ivan is the archetype of the cruel tyrant. Yet, he laid the foundations of the Russian state. His nickname 'Grozny' means 'Formidable' or 'Fearsome', not just 'Terrible'.",
+            "quotes": [
+                "I will not see the destruction of the Christian land.",
+                "The heart of the Tsar is in the hand of God."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Tsar of Russia.",
+            "culturalImpact": "Subject of Eisenstein's famous films. Repin's painting of him killing his son is iconic.",
+            "primarySources": [
+                "Correspondence with Prince Kurbsky.",
+                "Chronicles.",
+                "Stoglav (Church code)."
+            ],
+            "modernInterpretations": [
+                "Debated as a state-builder vs. a madman.",
+                "Some nationalists seek to rehabilitate his image."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Sergei Korolev",
+            "nativeName": "Sergei Pavlovich Korolev",
+            "lifespan": "1907-1966",
+            "era": "Modern Period (20th Century)",
+            "role": "Rocket Engineer",
+            "background": "Sergei Korolev was the lead Soviet rocket engineer and spacecraft designer during the Space Race. Known only as the 'Chief Designer' during his life, he was the mastermind behind Sputnik and Gagarin's flight.",
+            "keyDecisions": [
+                "Developing the R-7 ICBM.",
+                "Pushing for the launch of the first satellite (Sputnik).",
+                "Selecting Yuri Gagarin for the first manned flight.",
+                "Designing the Soyuz spacecraft."
+            ],
+            "achievements": [
+                "Launched the first artificial satellite (Sputnik 1).",
+                "Put the first human in space.",
+                "First spacewalk.",
+                "Laid the foundation for the Soviet space program."
+            ],
+            "challenges": [
+                "Imprisonment in the Gulag during the Great Purge.",
+                "Working under intense political pressure.",
+                "Competition with Wernher von Braun (USA).",
+                "Health issues caused by his imprisonment."
+            ],
+            "legacy": "Korolev is the father of practical astronautics. His rockets (Soyuz) are still used today. His death was a major blow to the Soviet moon shot.",
+            "quotes": [
+                "The path to the stars is open.",
+                "We are all in the same boat, the Earth."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Mastermind of the Soviet Space Program.",
+            "culturalImpact": "He was a state secret until his death. Now honored as a visionary.",
+            "primarySources": [
+                "Design documents.",
+                "Memoirs of colleagues.",
+                "Space program records."
+            ],
+            "modernInterpretations": [
+                "Recognized as a managerial genius.",
+                "His survival in the Gulag adds to his legend."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Vladimir Putin",
+            "nativeName": "Vladimir Vladimirovich Putin",
+            "lifespan": "1952-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "President",
+            "background": "Vladimir Putin has been the dominant leader of Russia since 1999. A former KGB officer, he stabilized the economy after the chaotic 90s but has been criticized for authoritarianism and aggressive foreign policy.",
+            "keyDecisions": [
+                "Second Chechen War.",
+                "Reining in the oligarchs.",
+                "Annexation of Crimea in 2014.",
+                "Invasion of Ukraine in 2022."
+            ],
+            "achievements": [
+                "Restored Russia's status as a great power.",
+                "Economic growth in the 2000s (oil boom).",
+                "Centralized state power.",
+                "Longest-serving Russian leader since Stalin."
+            ],
+            "challenges": [
+                "International sanctions and isolation.",
+                "Economic stagnation.",
+                "Demographic decline.",
+                "The war in Ukraine."
+            ],
+            "legacy": "Putin's legacy is defined by his effort to restore Russian power and the conflict with the West. He ended the post-Soviet chaos but established a personalist autocracy.",
+            "quotes": [
+                "The collapse of the Soviet Union was the greatest geopolitical catastrophe of the century.",
+                "Russia doesn't negotiate with terrorists. It destroys them."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Current leader of Russia.",
+            "culturalImpact": "He defines the current era of Russian history. 'Putinism' is a political study.",
+            "primarySources": [
+                "Speeches (Munich speech).",
+                "Interviews.",
+                "Decrees."
+            ],
+            "modernInterpretations": [
+                "Viewed as a savior by supporters and a dictator by critics.",
+                "His actions have reshaped global geopolitics."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Andrei Sakharov",
+            "nativeName": "Andrei Dmitrievich Sakharov",
+            "lifespan": "1921-1989",
+            "era": "Modern Period (20th Century)",
+            "role": "Physicist, Dissident",
+            "background": "Andrei Sakharov was a nuclear physicist who designed the Soviet hydrogen bomb. He later became a human rights activist and a vocal critic of the regime, winning the Nobel Peace Prize.",
+            "keyDecisions": [
+                "Developing the RDS-37 (H-bomb).",
+                "Campaigning against nuclear proliferation.",
+                "Founding the Committee on Human Rights in the USSR.",
+                "Speaking out against the invasion of Afghanistan."
+            ],
+            "achievements": [
+                "Father of the Soviet Hydrogen Bomb.",
+                "Nobel Peace Prize (1975).",
+                "The Sakharov Prize is named after him.",
+                "Moral leader of the Soviet dissident movement."
+            ],
+            "challenges": [
+                "Internal exile to Gorky.",
+                "Stripped of his titles and awards.",
+                "Hunger strikes.",
+                "Balancing his scientific legacy with his moral conscience."
+            ],
+            "legacy": "Sakharov represents the conscience of science. He showed that one person can stand up to a totalitarian state. He is a hero of the human rights movement.",
+            "quotes": [
+                "A country which does not respect the rights of its own citizens will not respect the rights of its neighbors.",
+                "Intellectual freedom is the only guarantee of a scientific-democratic approach to politics."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Physicist turned human rights activist.",
+            "culturalImpact": "The European Parliament awards the Sakharov Prize annually.",
+            "primarySources": [
+                "Memoirs.",
+                "Reflections on Progress, Peaceful Coexistence, and Intellectual Freedom."
+            ],
+            "modernInterpretations": [
+                "Revered as a moral authority.",
+                "His warnings about nuclear war are still relevant."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Wassily Kandinsky",
+            "nativeName": "Wassily Wassilyevich Kandinsky",
+            "lifespan": "1866-1944",
+            "era": "Modern Period (20th Century)",
+            "role": "Painter, Art Theorist",
+            "background": "Wassily Kandinsky is credited with painting the first purely abstract works. Born in Moscow, he taught at the Bauhaus in Germany. He believed that art should express the spiritual, not the material.",
+            "keyDecisions": [
+                "Giving up a law career to study art at age 30.",
+                "Moving to Munich and co-founding Der Blaue Reiter.",
+                "Writing 'Concerning the Spiritual in Art'.",
+                "Leaving Nazi Germany for France."
+            ],
+            "achievements": [
+                "Pioneer of abstract art.",
+                "Theorized the relationship between color and sound (synesthesia).",
+                "Influenced modern art profoundly.",
+                "Teacher at the Bauhaus."
+            ],
+            "challenges": [
+                "Rejection by traditional art critics.",
+                "The turmoil of WWI and the Russian Revolution.",
+                "Nazi persecution (his art was labeled 'degenerate').",
+                "Exile."
+            ],
+            "legacy": "Kandinsky liberated painting from the need to represent reality. His work is foundational to modernism.",
+            "quotes": [
+                "Color is the keyboard, the eyes are the harmonies, the soul is the piano with many strings.",
+                "Everything starts from a dot."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of abstract art.",
+            "culturalImpact": "His paintings hang in major museums worldwide. He changed how we see art.",
+            "primarySources": [
+                "Paintings (Composition VII).",
+                "Concerning the Spiritual in Art.",
+                "Point and Line to Plane."
+            ],
+            "modernInterpretations": [
+                "Studied for his spiritual approach to art.",
+                "His synesthesia is a topic of scientific interest."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Anna Pavlova",
+            "nativeName": "Anna Pavlovna Pavlova",
+            "lifespan": "1881-1931",
+            "era": "Modern Period (20th Century)",
+            "role": "Ballerina",
+            "background": "Anna Pavlova was the most famous ballerina of her time. She was a principal artist of the Imperial Russian Ballet and the Ballets Russes. She toured the world, bringing ballet to audiences who had never seen it.",
+            "keyDecisions": [
+                "Creating 'The Dying Swan' solo.",
+                "Leaving the Imperial Ballet to tour independently.",
+                "Touring tirelessly (over 300,000 miles).",
+                "Refusing surgery that would end her career but save her life."
+            ],
+            "achievements": [
+                "Globalized ballet.",
+                "Her signature role, 'The Dying Swan', is iconic.",
+                "Inspired a generation of dancers.",
+                "Pavlova cake is named after her."
+            ],
+            "challenges": [
+                "Physical limitations (her feet were not ideal for ballet).",
+                "The grueling schedule of touring.",
+                "Illness (pneumonia) which led to her death.",
+                "Living in exile after the revolution."
+            ],
+            "legacy": "Pavlova is the symbol of the ballerina. Her dedication and artistry are legendary. She made ballet a popular art form.",
+            "quotes": [
+                "No one can arrive from being talented alone. God gives talent, work transforms talent into genius.",
+                "Prepare my Swan costume."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Prima Ballerina Assoluta.",
+            "culturalImpact": "She is the standard of grace. The Pavlova dessert is a sweet legacy.",
+            "primarySources": [
+                "Performance footage.",
+                "Photographs.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Remembered for her emotional expressiveness.",
+                "Her influence on ballet fashion and technique is lasting."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Grigori Rasputin",
+            "nativeName": "Grigori Yefimovich Rasputin",
+            "lifespan": "1869-1916",
+            "era": "Modern Period (20th Century)",
+            "role": "Mystic, Holy Man",
+            "background": "Rasputin was a Siberian peasant and mystic who gained influence over the family of Tsar Nicholas II because of his ability to heal the hemophiliac heir, Alexei. His scandalous reputation and influence contributed to the fall of the Romanovs.",
+            "keyDecisions": [
+                "Traveling to St. Petersburg as a holy wanderer.",
+                "Gaining the trust of Empress Alexandra.",
+                "Interfering in government appointments during WWI.",
+                "Surviving (allegedly) multiple murder attempts."
+            ],
+            "achievements": [
+                "Became one of the most powerful men in Russia.",
+                "His life is a legend of endurance.",
+                "Symbol of the decay of the Imperial court."
+            ],
+            "challenges": [
+                "Universal hatred from the nobility and the public.",
+                "Accusations of heresy and debauchery.",
+                "Assassination by Prince Yusupov and others."
+            ],
+            "legacy": "Rasputin is a figure of myth and folklore. He represents the mystical and chaotic side of Russian history. Boney M wrote a song about him.",
+            "quotes": [
+                "If I am killed by common men, you and your children will rule Russia for centuries to come; if I am killed by one of your stock, you and your family will be killed by the Russian people!",
+                "God has seen your tears and heard your prayers. Do not grieve. The Little One will not die."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Mystic who influenced the end of the Romanov dynasty.",
+            "culturalImpact": "Villain in movies (Anastasia). Subject of songs and legends.",
+            "primarySources": [
+                "Police reports.",
+                "Memoirs of Yusupov.",
+                "Letters from the Empress."
+            ],
+            "modernInterpretations": [
+                "Seen as a scapegoat for the monarchy's failures.",
+                "His healing abilities remain a medical mystery."
+            ]
+        }
+    ]
+}

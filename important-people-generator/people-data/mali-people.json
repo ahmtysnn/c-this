@@ -1,0 +1,761 @@
+{
+    "country": "Mali",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Mansa Musa",
+            "nativeName": "Mansa Musa I",
+            "lifespan": "1280-1337",
+            "era": "Medieval Period",
+            "role": "Emperor",
+            "background": "Mansa Musa was the tenth Mansa of the Mali Empire. He is widely considered the wealthiest individual in human history due to his empire's gold production.",
+            "keyDecisions": [
+                "Undertaking the Hajj to Mecca.",
+                "Distributing massive amounts of gold (causing inflation in Cairo).",
+                "Building the Djinguereber Mosque in Timbuktu.",
+                "Patronizing scholars and architects."
+            ],
+            "achievements": [
+                "Wealthiest person in history.",
+                "Put Mali on the map (literally, on the Catalan Atlas).",
+                "Built Timbuktu into a center of learning.",
+                "Expanded the empire."
+            ],
+            "challenges": [
+                "Logistics of the Hajj.",
+                "Managing a vast empire.",
+                "Succession.",
+                "Inflation."
+            ],
+            "legacy": "Mansa Musa is the symbol of African wealth and power. His reign was the golden age of Mali.",
+            "quotes": [
+                "Gold is like sand."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The King of Kings.",
+            "culturalImpact": "He is a legend worldwide.",
+            "primarySources": [
+                "Catalan Atlas.",
+                "Arab chronicles (Al-Umari)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a great ruler.",
+                "Symbol of pre-colonial prosperity."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Sundiata Keita",
+            "nativeName": "Sogolon Djata (Sundiata)",
+            "lifespan": "1217-1255",
+            "era": "Medieval Period",
+            "role": "Emperor",
+            "background": "Sundiata Keita was the founder of the Mali Empire. Born crippled, he overcame his disability to defeat the sorcerer king Soumaoro Kanté.",
+            "keyDecisions": [
+                "Overcoming his disability.",
+                "Uniting the Mandinka clans.",
+                "Defeating Soumaoro at the Battle of Kirina.",
+                "Establishing the Kurukan Fuga (constitution)."
+            ],
+            "achievements": [
+                "Founder of the Mali Empire.",
+                "Lion King.",
+                "Created the Gbara (parliament).",
+                "Established the Charter of Manden (human rights)."
+            ],
+            "challenges": [
+                "Disability.",
+                "Exile.",
+                "Sorcery (legend).",
+                "War."
+            ],
+            "legacy": "Sundiata is the father of the Mandinka. His story is the national epic of Mali.",
+            "quotes": [
+                "The lion has awakened."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Lion King.",
+            "culturalImpact": "The Epic of Sundiata is recited by griots.",
+            "primarySources": [
+                "Oral tradition (Griots).",
+                "Epic of Sundiata."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His charter is seen as an early human rights declaration."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Modibo Keïta",
+            "nativeName": "Modibo Keïta",
+            "lifespan": "1915-1977",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Modibo Keïta was the first President of Mali. He was a Pan-Africanist and socialist who led the country to independence from France.",
+            "keyDecisions": [
+                "Leading the Mali Federation.",
+                "Declaring independence.",
+                "Adopting socialism.",
+                "Creating the Malian franc."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "Lenin Peace Prize winner.",
+                "Teacher.",
+                "Pan-Africanist."
+            ],
+            "challenges": [
+                "Economic crisis.",
+                "Peasant discontent.",
+                "1968 coup.",
+                "Death in prison."
+            ],
+            "legacy": "Modibo Keïta is the father of the nation. He died a prisoner but is now revered.",
+            "quotes": [
+                "When the owners become the owners, the thieves will become the thieves."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Teacher.",
+            "culturalImpact": "The airport is named after him.",
+            "primarySources": [
+                "Speeches.",
+                "French archives."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "His economic policies are criticized."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Salif Keita",
+            "nativeName": "Salif Keita",
+            "lifespan": "1949-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Salif Keita is an afro-pop singer known as the 'Golden Voice of Africa'. He is a direct descendant of Sundiata Keita but was ostracized for being an albino.",
+            "keyDecisions": [
+                "Becoming a musician (against royal custom).",
+                "Joining the Rail Band.",
+                "Moving to France.",
+                "Advocating for albinos."
+            ],
+            "achievements": [
+                "Golden Voice of Africa.",
+                "Global star.",
+                "Philanthropist.",
+                "Innovator."
+            ],
+            "challenges": [
+                "Albinism (stigma).",
+                "Royal taboo against singing.",
+                "Exile.",
+                "Health."
+            ],
+            "legacy": "Salif Keita broke the rules to give Mali its voice. He is a champion for the marginalized.",
+            "quotes": [
+                "I am black, my skin is white."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Golden Voice.",
+            "culturalImpact": "He is a legend.",
+            "primarySources": [
+                "Albums.",
+                "Documentaries."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His courage is admired."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Amadou Toumani Touré",
+            "nativeName": "Amadou Toumani Touré (ATT)",
+            "lifespan": "1948-2020",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Amadou Toumani Touré was a general and President. He is famous for leading the 1991 coup against a dictator, handing power to civilians, and then winning elections later.",
+            "keyDecisions": [
+                "Arresting Moussa Traoré (1991).",
+                "Organizing the National Conference.",
+                "Stepping down in 1992.",
+                "Returning as President in 2002."
+            ],
+            "achievements": [
+                "Soldier of Democracy.",
+                "Consensus builder.",
+                "General.",
+                "Humanitarian."
+            ],
+            "challenges": [
+                "Tuareg rebellion (2012).",
+                "Coup (2012).",
+                "Exile.",
+                "Corruption."
+            ],
+            "legacy": "ATT is the soldier who loved democracy. His fall in 2012 tarnished his legacy, but he is remembered for 1991.",
+            "quotes": [
+                "Retreat is not flight."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Democrat Soldier.",
+            "culturalImpact": "He was called the 'Soldier of Democracy'.",
+            "primarySources": [
+                "Speeches.",
+                "News reports."
+            ],
+            "modernInterpretations": [
+                "Praised for the 1991 transition.",
+                "Blamed for the army's collapse in 2012."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Ali Farka Touré",
+            "nativeName": "Ali Ibrahim 'Farka' Touré",
+            "lifespan": "1939-2006",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Ali Farka Touré was a singer and guitarist. He is known as the 'King of Desert Blues' and linked Malian music to American blues.",
+            "keyDecisions": [
+                "Adapting traditional music to guitar.",
+                "Collaborating with Ry Cooder (Talking Timbuktu).",
+                "Becoming mayor of Niafunké.",
+                "Refusing to leave his farm."
+            ],
+            "achievements": [
+                "Grammy winner.",
+                "Desert Blues pioneer.",
+                "Mayor.",
+                "Farmer."
+            ],
+            "challenges": [
+                "Isolation.",
+                "Music industry pressure.",
+                "Health (cancer).",
+                "Developing his region."
+            ],
+            "legacy": "Ali Farka Touré is the soul of the Niger River. He proved that the blues came from Mali.",
+            "quotes": [
+                "I am a farmer first."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Bluesman.",
+            "culturalImpact": "He put Malian music on the global map.",
+            "primarySources": [
+                "Albums.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His music is timeless."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Moussa Traoré",
+            "nativeName": "Moussa Traoré",
+            "lifespan": "1936-2020",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Moussa Traoré was a military dictator who ruled Mali for 23 years after overthrowing Modibo Keïta. He was ousted in 1991.",
+            "keyDecisions": [
+                "Leading the 1968 coup.",
+                "Establishing a one-party state (UDPM).",
+                "Repressing student protests.",
+                "Refusing to step down."
+            ],
+            "achievements": [
+                "Longest-serving leader.",
+                "Stability (through force).",
+                "Survivor (death sentence commuted).",
+                "General."
+            ],
+            "challenges": [
+                "Droughts.",
+                "Pro-democracy movement.",
+                "Economic stagnation.",
+                "Trial."
+            ],
+            "legacy": "Traoré is the dictator. His rule is remembered as a time of fear and stagnation.",
+            "quotes": [
+                "I will not resign."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dictator.",
+            "culturalImpact": "His fall is celebrated as Martyrs' Day.",
+            "primarySources": [
+                "Trial records.",
+                "Decrees."
+            ],
+            "modernInterpretations": [
+                "Condemned for his crimes.",
+                "Some praise his patriotism."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Amadou Hampâté Bâ",
+            "nativeName": "Amadou Hampâté Bâ",
+            "lifespan": "1901-1991",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Ethnologist",
+            "background": "Amadou Hampâté Bâ was a writer and ethnologist. He famously said, 'In Africa, when an old man dies, it is a library burning down.'",
+            "keyDecisions": [
+                "Collecting oral traditions.",
+                "Serving in UNESCO.",
+                "Writing 'The Fortunes of Wangrin'.",
+                "Defending African culture."
+            ],
+            "achievements": [
+                "Sage of Africa.",
+                "Preserved oral history.",
+                "Writer.",
+                "Diplomat."
+            ],
+            "challenges": [
+                "Colonialism.",
+                "Religious conflict.",
+                "Old age.",
+                "Funding."
+            ],
+            "legacy": "Hampâté Bâ is the guardian of memory. His quote defines the struggle to preserve African history.",
+            "quotes": [
+                "When an old man dies, it is a library burning down."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sage.",
+            "culturalImpact": "He is quoted everywhere.",
+            "primarySources": [
+                "Amkoullel, the Fula Boy.",
+                "UNESCO speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a wise man.",
+                "His work is foundational."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Seydou Keïta",
+            "nativeName": "Seydou Keïta",
+            "lifespan": "1921-2001",
+            "era": "Modern Period (20th Century)",
+            "role": "Photographer",
+            "background": "Seydou Keïta was a photographer known for his portraits of Bamako society in the 1950s and 60s. His work was rediscovered in the 90s.",
+            "keyDecisions": [
+                "Opening a studio in Bamako.",
+                "Using props and backdrops.",
+                "Preserving his negatives.",
+                "Exhibiting in New York."
+            ],
+            "achievements": [
+                "Master photographer.",
+                "Chronicler of Bamako.",
+                "Artist.",
+                "Icon."
+            ],
+            "challenges": [
+                "Obscurity (initially).",
+                "Loss of negatives.",
+                "Copyright battles.",
+                "Old age."
+            ],
+            "legacy": "Seydou Keïta showed the elegance of Mali. His photos are art history.",
+            "quotes": [
+                "I wanted them to look beautiful."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Eye.",
+            "culturalImpact": "His style is copied globally.",
+            "primarySources": [
+                "Photographs.",
+                "Exhibitions."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His portraits are timeless."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Alpha Oumar Konaré",
+            "nativeName": "Alpha Oumar Konaré",
+            "lifespan": "1946-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Alpha Oumar Konaré was the first democratically elected President after the 1991 transition. He is an archaeologist and historian.",
+            "keyDecisions": [
+                "Founding the ADEMA party.",
+                "Promoting decentralization.",
+                "Hosting the CAN 2002.",
+                "Serving as AU Commission Chairperson."
+            ],
+            "achievements": [
+                "Democrat.",
+                "Historian.",
+                "Pan-Africanist.",
+                "Builder of monuments."
+            ],
+            "challenges": [
+                "Economic reforms.",
+                "Student strikes.",
+                "Corruption.",
+                "Legacy."
+            ],
+            "legacy": "Konaré is the intellectual president. He tried to build a modern, democratic Mali.",
+            "quotes": [
+                "Power belongs to the people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Intellectual.",
+            "culturalImpact": "He built many statues in Bamako.",
+            "primarySources": [
+                "Speeches.",
+                "Books."
+            ],
+            "modernInterpretations": [
+                "Respected for his intellect.",
+                "Criticized for his administration."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Oumou Sangaré",
+            "nativeName": "Oumou Sangaré",
+            "lifespan": "1968-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Oumou Sangaré is a Wassoulou singer known as the 'Songbird of Wassoulou'. She sings about women's rights and social issues.",
+            "keyDecisions": [
+                "Releasing 'Moussolou' at age 21.",
+                "Singing against polygamy.",
+                "Becoming a businesswoman (Oum Sang).",
+                "Advocating for women."
+            ],
+            "achievements": [
+                "Grammy winner.",
+                "Feminist icon.",
+                "Businesswoman.",
+                "Diva."
+            ],
+            "challenges": [
+                "Patriarchy.",
+                "Poverty (childhood).",
+                "Music industry.",
+                "Balancing business and art."
+            ],
+            "legacy": "Oumou Sangaré is the queen of Wassoulou. She empowers women through song.",
+            "quotes": [
+                "Women have suffered enough."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Songbird.",
+            "culturalImpact": "She is a role model.",
+            "primarySources": [
+                "Albums.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Her voice is powerful."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Askia the Great",
+            "nativeName": "Askia Muhammad I",
+            "lifespan": "1443-1538",
+            "era": "Medieval Period",
+            "role": "Emperor",
+            "background": "Askia the Great was the ruler of the Songhai Empire. He expanded the empire, promoted Islam, and made Timbuktu a center of scholarship.",
+            "keyDecisions": [
+                "Overthrowing the son of Sunni Ali.",
+                "Centralizing the administration.",
+                "Standardizing weights and measures.",
+                "Building the Tomb of Askia."
+            ],
+            "achievements": [
+                "Expanded Songhai.",
+                "Islamic scholar.",
+                "Administrator.",
+                "Builder."
+            ],
+            "challenges": [
+                "Rebellions.",
+                "Succession (blinded by his son).",
+                "Managing a vast territory.",
+                "Old age."
+            ],
+            "legacy": "Askia is the administrator king. His tomb is a UNESCO World Heritage site.",
+            "quotes": [
+                "Justice."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Great.",
+            "culturalImpact": "He is a hero of Islam in Africa.",
+            "primarySources": [
+                "Tarikh al-Sudan.",
+                "Tomb of Askia."
+            ],
+            "modernInterpretations": [
+                "Revered as a wise ruler.",
+                "Symbol of Songhai power."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Rokia Traoré",
+            "nativeName": "Rokia Traoré",
+            "lifespan": "1974-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician",
+            "background": "Rokia Traoré is a singer and guitarist. She blends traditional Malian music with rock and blues, creating a unique sound.",
+            "keyDecisions": [
+                "Creating her own style.",
+                "Singing in Bambara and French.",
+                "Moving back to Bamako.",
+                "Founding the Passerelle foundation."
+            ],
+            "achievements": [
+                "Victoires de la Musique winner.",
+                "Innovator.",
+                "Cultural ambassador.",
+                "Artist."
+            ],
+            "challenges": [
+                "Defying categorization.",
+                "Political instability.",
+                "Personal struggles.",
+                "Industry pressure."
+            ],
+            "legacy": "Rokia Traoré is the modern voice of Mali. She is sophisticated and rooted.",
+            "quotes": [
+                "Beautiful Africa."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Artist.",
+            "culturalImpact": "She is respected globally.",
+            "primarySources": [
+                "Albums.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a talent.",
+                "Her work is elegant."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Moussa Marega",
+            "nativeName": "Moussa Marega",
+            "lifespan": "1991-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Moussa Marega is a professional footballer. He is known for his strength and speed, playing for FC Porto and the Mali national team.",
+            "keyDecisions": [
+                "Choosing to play for Mali.",
+                "Fighting racism in Portugal (walking off the pitch).",
+                "Scoring in the Champions League.",
+                "Moving to Saudi Arabia."
+            ],
+            "achievements": [
+                "Primeira Liga champion.",
+                "Anti-racism symbol.",
+                "Striker.",
+                "Eagle."
+            ],
+            "challenges": [
+                "Racism.",
+                "Criticism of his technique.",
+                "Injuries.",
+                "Pressure."
+            ],
+            "legacy": "Marega is the terminator. His stand against racism was a global moment.",
+            "quotes": [
+                "This is my skin."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Terminator.",
+            "culturalImpact": "He is a hero to many.",
+            "primarySources": [
+                "Match records.",
+                "News."
+            ],
+            "modernInterpretations": [
+                "Celebrated for his courage.",
+                "His power is admired."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Cheick Modibo Diarra",
+            "nativeName": "Cheick Modibo Diarra",
+            "lifespan": "1952-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Scientist, Politician",
+            "background": "Cheick Modibo Diarra is an astrophysicist and politician. He worked for NASA (Mars Pathfinder) and served as interim Prime Minister.",
+            "keyDecisions": [
+                "Joining NASA.",
+                "Leading the Mars Pathfinder education program.",
+                "Returning to Mali.",
+                "Serving as PM during the 2012 crisis."
+            ],
+            "achievements": [
+                "NASA scientist.",
+                "Prime Minister.",
+                "Microsoft Africa Chairman.",
+                "Role model."
+            ],
+            "challenges": [
+                "Political chaos.",
+                "Being forced to resign by the junta.",
+                "Balancing science and politics.",
+                "Expectations."
+            ],
+            "legacy": "Diarra is the interplanetary Malian. He proved that Africans can reach the stars.",
+            "quotes": [
+                "Dare to dream."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scientist.",
+            "culturalImpact": "He inspires students.",
+            "primarySources": [
+                "NASA records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His political stint was difficult."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Fatoumata Diawara",
+            "nativeName": "Fatoumata Diawara",
+            "lifespan": "1982-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician, Actress",
+            "background": "Fatoumata Diawara is a singer and actress. She is a modern Wassoulou artist who blends tradition with pop and jazz.",
+            "keyDecisions": [
+                "Running away to France to act.",
+                "Picking up the guitar.",
+                "Singing 'Mali-ko' (for peace).",
+                "Acting in 'Timbuktu'."
+            ],
+            "achievements": [
+                "Grammy nominee.",
+                "Actress.",
+                "Activist.",
+                "Star."
+            ],
+            "challenges": [
+                "Family pressure.",
+                "War in Mali.",
+                "Industry barriers.",
+                "Touring life."
+            ],
+            "legacy": "Fatoumata is the new face of Mali. She is energy personified.",
+            "quotes": [
+                "Sowa."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Star.",
+            "culturalImpact": "She is a global ambassador.",
+            "primarySources": [
+                "Albums.",
+                "Films."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a talent.",
+                "Her energy is infectious."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Tapha Niang",
+            "nativeName": "Moustapha Niang",
+            "lifespan": "Unknown",
+            "era": "Medieval Period",
+            "role": "Explorer",
+            "background": "Tapha Niang is a legendary figure, possibly associated with the voyage of Abubakari II. He is celebrated in the song 'Tapha Niang' by Toumani Diabaté.",
+            "keyDecisions": [
+                "Traveling.",
+                "Helping others.",
+                "Dying young (in the song).",
+                "Becoming a legend."
+            ],
+            "achievements": [
+                "Symbol of loss.",
+                "Inspiration for music.",
+                "Legend.",
+                "Brother."
+            ],
+            "challenges": [
+                "Death.",
+                "Obscurity.",
+                "Myth.",
+                "Grief."
+            ],
+            "legacy": "Tapha Niang lives through music. The song is one of the most beautiful Kora pieces ever.",
+            "quotes": [
+                "Paradise."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Legend.",
+            "culturalImpact": "Immortalized by Toumani Diabaté.",
+            "primarySources": [
+                "Boulevard de l'Indépendance (Album).",
+                "Oral tradition."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a muse.",
+                "Symbol of transcendence."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Toumani Diabaté",
+            "nativeName": "Toumani Diabaté",
+            "lifespan": "1965-2024",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician",
+            "background": "Toumani Diabaté was the master of the Kora. He came from a line of griots stretching back 70 generations and brought the Kora to the world stage.",
+            "keyDecisions": [
+                "Releasing 'Kaira' (solo Kora).",
+                "Collaborating with Ali Farka Touré.",
+                "Teaching his son Sidiki.",
+                "Preserving the tradition."
+            ],
+            "achievements": [
+                "Grammy winner.",
+                "Kora master.",
+                "Griot.",
+                "Legend."
+            ],
+            "challenges": [
+                "Health.",
+                "Modernizing without losing tradition.",
+                "Political instability.",
+                "Legacy."
+            ],
+            "legacy": "Toumani was the king of the Kora. His music is the sound of heaven.",
+            "quotes": [
+                "The Kora is my voice."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Master.",
+            "culturalImpact": "He is a giant of music.",
+            "primarySources": [
+                "Albums.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of music.",
+                "His death was a global loss."
+            ]
+        }
+    ]
+}

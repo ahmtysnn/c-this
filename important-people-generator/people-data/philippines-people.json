@@ -1,0 +1,787 @@
+{
+    "country": "Philippines",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Jose Rizal",
+            "nativeName": "José Protasio Rizal Mercado y Alonso Realonda",
+            "lifespan": "1861-1896",
+            "era": "Modern Period (19th Century)",
+            "role": "National Hero, Writer",
+            "background": "Jose Rizal was a polymath, ophthalmologist, and writer who is considered the national hero of the Philippines. His novels exposed the abuses of Spanish colonial rule and inspired the Philippine Revolution.",
+            "keyDecisions": [
+                "Writing 'Noli Me Tangere' and 'El Filibusterismo'.",
+                "Founding La Liga Filipina.",
+                "Advocating for peaceful reform rather than violent revolution (initially).",
+                "Accepting his execution with dignity."
+            ],
+            "achievements": [
+                "National Hero of the Philippines.",
+                "Inspired the Philippine Revolution.",
+                "Wrote two seminal novels.",
+                "Mastered 22 languages."
+            ],
+            "challenges": [
+                "Persecution by Spanish authorities.",
+                "Exile in Dapitan.",
+                "Censorship of his works.",
+                "Execution by firing squad."
+            ],
+            "legacy": "Rizal is the father of Filipino nationalism. His death sparked the revolution that led to independence.",
+            "quotes": [
+                "He who does not know how to look back at where he came from will never get to his destination.",
+                "The youth is the hope of our future."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "National Hero.",
+            "culturalImpact": "Rizal Day is a national holiday. His image is on the currency. Every town has a Rizal monument.",
+            "primarySources": [
+                "Noli Me Tangere.",
+                "El Filibusterismo.",
+                "Mi Ultimo Adios (poem)."
+            ],
+            "modernInterpretations": [
+                "Revered as a martyr and intellectual giant.",
+                "His pacifist stance is sometimes debated against Bonifacio's revolutionary approach."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Andres Bonifacio",
+            "nativeName": "Andrés Bonifacio y de Castro",
+            "lifespan": "1863-1897",
+            "era": "Modern Period (19th Century)",
+            "role": "Revolutionary Leader",
+            "background": "Andres Bonifacio was the 'Father of the Philippine Revolution'. He founded the Katipunan, a secret society that sought independence from Spain through armed revolt.",
+            "keyDecisions": [
+                "Founding the Katipunan (KKK).",
+                "Initiating the Cry of Pugad Lawin (tearing of cedulas).",
+                "Leading the first battles of the revolution.",
+                "Opposing the Tejeros Convention results."
+            ],
+            "achievements": [
+                "Supremo of the Katipunan.",
+                "Started the Philippine Revolution.",
+                "Mobilized the masses against colonial rule.",
+                "Unofficial first President of the Philippines."
+            ],
+            "challenges": [
+                "Lack of resources and weapons.",
+                "Internal rivalry with Emilio Aguinaldo.",
+                "Betrayal and execution by fellow revolutionaries.",
+                "Class struggle within the movement."
+            ],
+            "legacy": "Bonifacio represents the courage of the common man. He is the symbol of armed resistance.",
+            "quotes": [
+                "Love your country first, above all else.",
+                "What is death if it is for the sake of the country?"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of the Revolution.",
+            "culturalImpact": "Bonifacio Day is a national holiday. He is often depicted with a bolo knife.",
+            "primarySources": [
+                "Katipunan documents.",
+                "Decalogue of the Katipunan.",
+                "Pag-ibig sa Tinubuang Lupa (poem)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a working-class hero.",
+                "His execution is seen as a tragedy of political infighting."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Emilio Aguinaldo",
+            "nativeName": "Emilio Aguinaldo y Famy",
+            "lifespan": "1869-1964",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "President, General",
+            "background": "Emilio Aguinaldo was a revolutionary general and the first President of the Philippines. He led forces against Spain and later against the United States during the Philippine-American War.",
+            "keyDecisions": [
+                "Declaring Philippine Independence on June 12, 1898.",
+                "Ordering the execution of Andres Bonifacio (controversial).",
+                "Leading the war against the Americans.",
+                "Accepting the Pact of Biak-na-Bato."
+            ],
+            "achievements": [
+                "First President of the Philippines.",
+                "Proclaimed independence.",
+                "Designed the Philippine flag.",
+                "Led the revolutionary government."
+            ],
+            "challenges": [
+                "Fighting two superpowers (Spain and USA).",
+                "Internal divisions (Bonifacio, Luna).",
+                "Capture by American forces.",
+                "Collaboration charges during WWII."
+            ],
+            "legacy": "Aguinaldo is a complex figure. He established the first republic in Asia but his legacy is marred by the deaths of rivals.",
+            "quotes": [
+                "We cannot free ourselves unless we move forward united in a single desire."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First President.",
+            "culturalImpact": "June 12 is Independence Day. His home in Kawit is a national shrine.",
+            "primarySources": [
+                "Memoirs (Mga Gunita ng Himagsikan).",
+                "Proclamation of Independence.",
+                "Decrees."
+            ],
+            "modernInterpretations": [
+                "Recognized for his role in independence.",
+                "Criticized for his handling of rivals and political compromises."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Lapu-Lapu",
+            "nativeName": "Lapu-Lapu",
+            "lifespan": "1491-1542",
+            "era": "Pre-Colonial Period (16th Century)",
+            "role": "Datu (Chieftain)",
+            "background": "Lapu-Lapu was the Datu of Mactan who defeated Portuguese explorer Ferdinand Magellan at the Battle of Mactan in 1521. He is regarded as the first Filipino hero for resisting foreign colonization.",
+            "keyDecisions": [
+                "Refusing to submit to Spanish authority.",
+                "Refusing to pay tribute to Magellan.",
+                "Leading his warriors in the Battle of Mactan.",
+                "Defending his island's sovereignty."
+            ],
+            "achievements": [
+                "Defeated Ferdinand Magellan.",
+                "First native to resist imperial Spanish colonization.",
+                "Delayed Spanish colonization by 44 years.",
+                "Symbol of indigenous resistance."
+            ],
+            "challenges": [
+                "Facing a technologically superior enemy (armor, guns).",
+                "Rivalry with Rajah Humabon.",
+                "Protecting his people from invasion.",
+                "Limited historical records."
+            ],
+            "legacy": "Lapu-Lapu is the symbol of Filipino bravery and resistance. The Philippine National Police seal features him.",
+            "quotes": [
+                "I bow to no king."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Filipino Hero.",
+            "culturalImpact": "A giant statue of him stands in Mactan. A fish is named after him.",
+            "primarySources": [
+                "Pigafetta's journal.",
+                "Oral traditions."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the first defender of the archipelago.",
+                "A symbol of anti-colonialism."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Manuel L. Quezon",
+            "nativeName": "Manuel Luis Quezon y Molina",
+            "lifespan": "1878-1944",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Manuel L. Quezon was the first President of the Commonwealth of the Philippines. He is known as the 'Father of the National Language' and advocated for social justice.",
+            "keyDecisions": [
+                "Establishing Tagalog as the basis for the national language.",
+                "Lobbying for the Tydings-McDuffie Act (independence law).",
+                "Opening the Philippines to Jewish refugees during the Holocaust.",
+                "Establishing a government in exile during WWII."
+            ],
+            "achievements": [
+                "Father of the National Language.",
+                "Saved over 1,200 Jews from the Holocaust.",
+                "Laid the groundwork for independence.",
+                "Promoted social justice."
+            ],
+            "challenges": [
+                "American colonial oversight.",
+                "The Great Depression.",
+                "Japanese invasion and occupation.",
+                "Tuberculosis (which eventually killed him)."
+            ],
+            "legacy": "Quezon is one of the most beloved presidents. Quezon City is named after him. His humanitarian act towards Jews is globally recognized.",
+            "quotes": [
+                "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans.",
+                "My loyalty to my party ends where my loyalty to my country begins."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of National Language.",
+            "culturalImpact": "August is Buwan ng Wika (Language Month) in his honor. He is on the 20 peso bill.",
+            "primarySources": [
+                "Speeches.",
+                "The Good Fight (Autobiography).",
+                "Government records."
+            ],
+            "modernInterpretations": [
+                "Revered as a statesman and visionary.",
+                "His 'Open Door' policy is a source of national pride."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Apolinario Mabini",
+            "nativeName": "Apolinario Mabini y Maranan",
+            "lifespan": "1864-1903",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Statesman, Lawyer",
+            "background": "Apolinario Mabini was a revolutionary leader, educator, and lawyer who served as the first Prime Minister of the Philippines. Known as the 'Sublime Paralytic' and the 'Brains of the Revolution'.",
+            "keyDecisions": [
+                "Advising Aguinaldo on the formation of the revolutionary government.",
+                "Drafting decrees and the constitution.",
+                "Refusing to take the oath of allegiance to the US (initially).",
+                "Advocating for the rule of law."
+            ],
+            "achievements": [
+                "Brains of the Revolution.",
+                "First Prime Minister and Foreign Minister.",
+                "Wrote 'The True Decalogue'.",
+                "Intellectual architect of the republic."
+            ],
+            "challenges": [
+                "Paralysis (polio) which limited his physical movement.",
+                "Political intrigues within the cabinet.",
+                "Exile to Guam by Americans.",
+                "Poverty."
+            ],
+            "legacy": "Mabini represents the intellectual force behind the revolution. He proved that physical disability is not a hindrance to greatness.",
+            "quotes": [
+                "Thou shalt cultivate the special gifts that God has granted thee.",
+                "Liberty is not license, it is liberty to do good and never to do evil."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Brains of the Revolution.",
+            "culturalImpact": "He is on the 10 peso coin. A symbol of intellect and integrity.",
+            "primarySources": [
+                "The True Decalogue.",
+                "La Revolución Filipina.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as the conscience of the revolution.",
+                "His writings are studied for political philosophy."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Gabriela Silang",
+            "nativeName": "María Josefa Gabriela Cariño de Silang",
+            "lifespan": "1731-1763",
+            "era": "Spanish Colonial Period (18th Century)",
+            "role": "Revolutionary Leader",
+            "background": "Gabriela Silang was a revolutionary leader best known as the first female leader of a Filipino movement for independence from Spain. She took over the revolt of her husband, Diego Silang, after his assassination.",
+            "keyDecisions": [
+                "Continuing the revolt after her husband's death.",
+                "Leading troops into battle on horseback.",
+                "Launching attacks on Spanish garrisons in Ilocos.",
+                "Refusing to surrender."
+            ],
+            "achievements": [
+                "First female revolutionary leader.",
+                "Joan of Arc of Ilocos.",
+                "Symbol of female empowerment.",
+                "Led a guerrilla war for months."
+            ],
+            "challenges": [
+                "Gender bias.",
+                "Overwhelming Spanish military force.",
+                "Betrayal by allies.",
+                "Capture and public execution."
+            ],
+            "legacy": "Gabriela Silang is a feminist icon. She proved women could lead in war. The women's organization GABRIELA is named after her.",
+            "quotes": [
+                "We will fight until the end."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Female General.",
+            "culturalImpact": "Statues of her riding a horse are common. A symbol of courage.",
+            "primarySources": [
+                "Spanish colonial records.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a pioneer for women's rights and independence.",
+                "Her bravery is legendary."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Melchora Aquino",
+            "nativeName": "Melchora Aquino de Ramos (Tandang Sora)",
+            "lifespan": "1812-1919",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Revolutionary",
+            "background": "Melchora Aquino, known as Tandang Sora (Elder Sora), was the 'Grand Woman of the Revolution'. Despite her old age, she provided shelter, food, and medicine to Katipuneros.",
+            "keyDecisions": [
+                "Opening her home to revolutionaries.",
+                "Feeding and nursing wounded soldiers.",
+                "Refusing to reveal the location of the Katipunan.",
+                "Enduring exile in Guam."
+            ],
+            "achievements": [
+                "Mother of the Philippine Revolution.",
+                "Grand Woman of the Revolution.",
+                "Symbol of selfless service.",
+                "Survived exile and returned to the Philippines."
+            ],
+            "challenges": [
+                "Old age (she was 84 when the revolution started).",
+                "Arrest and interrogation.",
+                "Deportation to Guam.",
+                "Loss of property."
+            ],
+            "legacy": "Tandang Sora is the mother figure of the nation. She represents the contribution of civilians to the war effort.",
+            "quotes": [
+                "I have no regrets."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Mother of the Revolution.",
+            "culturalImpact": "A district in Quezon City is named after her. She is a symbol of hospitality and patriotism.",
+            "primarySources": [
+                "Biographies.",
+                "Historical accounts."
+            ],
+            "modernInterpretations": [
+                "Revered for her nurturing role.",
+                "Proof that age is not a barrier to service."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Juan Luna",
+            "nativeName": "Juan Luna de San Pedro y Novicio Ancheta",
+            "lifespan": "1857-1899",
+            "era": "Modern Period (19th Century)",
+            "role": "Painter, Activist",
+            "background": "Juan Luna was a Filipino painter, sculptor, and political activist of the Philippine Revolution. His painting 'Spoliarium' won the gold medal at the 1884 Madrid Exposition of Fine Arts.",
+            "keyDecisions": [
+                "Painting the 'Spoliarium'.",
+                "Joining the propaganda movement in Europe.",
+                "Working diplomatically for the revolutionary government.",
+                "Using art to highlight colonial oppression."
+            ],
+            "achievements": [
+                "Gold Medal at Madrid Exposition (1884).",
+                "Put Philippine art on the world map.",
+                "Proved Filipino intellectual equality with colonizers.",
+                "Diplomat for the First Republic."
+            ],
+            "challenges": [
+                "Racism in Europe.",
+                "Personal turmoil (killing his wife and mother-in-law).",
+                "Political persecution.",
+                "Health issues."
+            ],
+            "legacy": "Luna is the greatest Filipino painter. The Spoliarium is a national treasure. His life was brilliant but tragic.",
+            "quotes": [
+                "Genius has no country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Master Painter.",
+            "culturalImpact": "The Spoliarium is the centerpiece of the National Museum. He is a source of artistic pride.",
+            "primarySources": [
+                "Paintings (Spoliarium, The Parisian Life).",
+                "Letters.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as an artistic genius.",
+                "His crime of passion is a dark chapter often discussed."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Antonio Luna",
+            "nativeName": "Antonio Luna de San Pedro y Novicio Ancheta",
+            "lifespan": "1866-1899",
+            "era": "Modern Period (19th Century)",
+            "role": "General, Scientist",
+            "background": "Antonio Luna was a pharmacist and a general who fought in the Philippine-American War. He was regarded as the most brilliant general of the Philippine Republic. He founded the first military academy.",
+            "keyDecisions": [
+                "Professionalizing the Philippine Army.",
+                "Establishing the Academia Militar.",
+                "Designing the Luna Sharpshooters line.",
+                "Advocating for guerrilla warfare."
+            ],
+            "achievements": [
+                "Greatest General of the Revolution.",
+                "Doctorate in Pharmacy.",
+                "Wrote for La Solidaridad.",
+                "Tactical genius."
+            ],
+            "challenges": [
+                "Lack of discipline among troops.",
+                "Conflict with other generals and Aguinaldo.",
+                "Lack of ammunition.",
+                "Assassination by his own men."
+            ],
+            "legacy": "Luna is the tragic hero of the war. His assassination is one of the great 'what ifs' of history. He demanded discipline and professionalism.",
+            "quotes": [
+                "Cowards! Assassins!",
+                "The Philippines is worth dying for."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Military Genius.",
+            "culturalImpact": "Subject of the hit movie 'Heneral Luna'. A symbol of strict discipline and patriotism.",
+            "primarySources": [
+                "Military orders.",
+                "Letters.",
+                "Newspaper articles."
+            ],
+            "modernInterpretations": [
+                "Revered as a brilliant but hot-tempered leader.",
+                "His death is seen as a major reason for the republic's fall."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Corazon Aquino",
+            "nativeName": "Maria Corazon Cojuangco-Aquino (Cory)",
+            "lifespan": "1933-2009",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Corazon 'Cory' Aquino was the 11th President of the Philippines and the first woman to hold that office. She led the 1986 People Power Revolution that toppled the dictatorship of Ferdinand Marcos.",
+            "keyDecisions": [
+                "Running for president against Marcos.",
+                "Leading the People Power Revolution.",
+                "Restoring democracy and the constitution.",
+                "Surviving multiple coup attempts."
+            ],
+            "achievements": [
+                "Mother of Democracy.",
+                "Time Person of the Year (1986).",
+                "Restored civil liberties.",
+                "Icon of non-violent protest."
+            ],
+            "challenges": [
+                "The assassination of her husband, Benigno Aquino Jr.",
+                "Transitioning from housewife to president.",
+                "Military unrest and coups.",
+                "Power shortages and natural disasters."
+            ],
+            "legacy": "Cory is the symbol of democracy in Asia. The color yellow is associated with her movement.",
+            "quotes": [
+                "I have no formula for ousting a dictator or building democracy. All I can suggest is to forget about yourself and just think of your people.",
+                "Reconciliation should be accompanied by justice."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Mother of Democracy.",
+            "culturalImpact": "Her death in 2009 sparked a massive outpouring of grief. She is on the 500 peso bill.",
+            "primarySources": [
+                "Speeches.",
+                "1987 Constitution.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of democracy.",
+                "Her administration is sometimes criticized for its handling of agrarian reform."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Benigno Aquino Jr.",
+            "nativeName": "Benigno Simeon Aquino Jr. (Ninoy)",
+            "lifespan": "1932-1983",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Senator, Martyr",
+            "background": "Benigno 'Ninoy' Aquino Jr. was a senator and the leading opposition figure against the rule of Ferdinand Marcos. His assassination at the Manila International Airport ignited the People Power Revolution.",
+            "keyDecisions": [
+                "Opposing the declaration of Martial Law.",
+                "Enduring 7 years of imprisonment.",
+                "Returning to the Philippines despite death threats.",
+                "Sacrificing his life for freedom."
+            ],
+            "achievements": [
+                "Martyr of Freedom.",
+                "Youngest mayor, governor, and senator (at the time).",
+                "Unified the opposition.",
+                "Inspired the EDSA Revolution."
+            ],
+            "challenges": [
+                "Solitary confinement.",
+                "Heart surgery in exile.",
+                "Political persecution.",
+                "Assassination."
+            ],
+            "legacy": "Ninoy is the modern hero of the Philippines. 'The Filipino is worth dying for' is his defining quote.",
+            "quotes": [
+                "The Filipino is worth dying for.",
+                "I will never be able to forgive myself if I will have to live with the knowledge that I could have done something and I did not do anything."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Martyr of Democracy.",
+            "culturalImpact": "Ninoy Aquino International Airport (NAIA) is named after him. He is on the 500 peso bill.",
+            "primarySources": [
+                "Speeches (Undelivered arrival speech).",
+                "Letters from prison.",
+                "Testament from a Prison Cell."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero who woke up the nation.",
+                "His death is the turning point in modern Filipino history."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Ramon Magsaysay",
+            "nativeName": "Ramon del Fierro Magsaysay",
+            "lifespan": "1907-1957",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Ramon Magsaysay was the 7th President of the Philippines. He is known as the 'Champion of the Masses' for his populist policies and for defeating the Hukbalahap rebellion.",
+            "keyDecisions": [
+                "Opening Malacañang Palace to the people.",
+                "Defeating the communist Huk rebellion through reform.",
+                "Wearing the Barong Tagalog (making it popular).",
+                "Fighting corruption."
+            ],
+            "achievements": [
+                "Champion of the Masses.",
+                "Restored faith in the government.",
+                "Golden Years of the Philippines.",
+                "Ramon Magsaysay Award (Asian Nobel Prize) established in his honor."
+            ],
+            "challenges": [
+                "Post-war reconstruction.",
+                "Communist insurgency.",
+                "Political elitism.",
+                "His death in a plane crash."
+            ],
+            "legacy": "Magsaysay is the standard for good governance. He was loved by the common people.",
+            "quotes": [
+                "Those who have less in life should have more in law."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Champion of the Masses.",
+            "culturalImpact": "He is the most popular president in history. His death was a national tragedy.",
+            "primarySources": [
+                "Speeches.",
+                "Government records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as the ideal president.",
+                "His populist style is often emulated."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Carlos P. Romulo",
+            "nativeName": "Carlos Peña Rómulo",
+            "lifespan": "1899-1985",
+            "era": "Modern Period (20th Century)",
+            "role": "Diplomat, Soldier, Journalist",
+            "background": "Carlos P. Romulo was a diplomat, soldier, journalist, and author. He was a co-founder of the Boy Scouts of the Philippines and served as the President of the UN General Assembly.",
+            "keyDecisions": [
+                "Serving as aide-de-camp to Douglas MacArthur.",
+                "Signing the UN Charter.",
+                "Serving as President of the UN General Assembly.",
+                "Serving as Foreign Minister."
+            ],
+            "achievements": [
+                "First Asian President of the UN General Assembly.",
+                "Pulitzer Prize in Correspondence.",
+                "National Artist for Literature.",
+                "Hero of the Republic Award."
+            ],
+            "challenges": [
+                "WWII service.",
+                "Navigating Cold War politics.",
+                "Representing a small nation on the global stage.",
+                "Criticism for serving under Marcos."
+            ],
+            "legacy": "Romulo is the quintessential Filipino diplomat. He gave the Philippines a voice in the world.",
+            "quotes": [
+                "I am a Filipino.",
+                "It is the duty of the little Davids here to fling the pebbles of truth between the eyes of the blustering Goliaths."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Global Diplomat.",
+            "culturalImpact": "His essay 'I am a Filipino' is a staple in schools. He is a symbol of Filipino intellect.",
+            "primarySources": [
+                "I Walked with Heroes (Autobiography).",
+                "I Saw the Fall of the Philippines.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Respected for his diplomatic skill.",
+                "His association with the Marcos regime is a point of criticism."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Miriam Defensor Santiago",
+            "nativeName": "Miriam Palma Defensor-Santiago",
+            "lifespan": "1945-2016",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Senator, Judge",
+            "background": "Miriam Defensor Santiago was a senator, judge, and legal scholar. She was known as the 'Iron Lady of Asia' for her fearless crusade against corruption. She was the first Filipino elected as a judge of the International Criminal Court.",
+            "keyDecisions": [
+                "Fighting corruption in the immigration bureau.",
+                "Running for president (1992, 1998, 2016).",
+                "Voting against the opening of the Corona impeachment envelope.",
+                "Authoring numerous laws."
+            ],
+            "achievements": [
+                "Ramon Magsaysay Award.",
+                "Elected Judge of the ICC.",
+                "Quezon Service Cross.",
+                "Most authored laws in the Senate."
+            ],
+            "challenges": [
+                "Political persecution.",
+                "Health issues (chronic fatigue syndrome, lung cancer).",
+                "Losing the 1992 election (alleged cheating).",
+                "Being misunderstood for her fiery temper."
+            ],
+            "legacy": "Miriam is the best president the Philippines never had. She inspired the youth to be politically active.",
+            "quotes": [
+                "I eat death threats for breakfast.",
+                "Stupidity is not a disability. Park elsewhere."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Iron Lady of Asia.",
+            "culturalImpact": "She is a pop culture icon. Her 'hugot' lines and witticisms are legendary.",
+            "primarySources": [
+                "Stupid is Forever.",
+                "Speeches.",
+                "Senate records."
+            ],
+            "modernInterpretations": [
+                "Revered as a brilliant legal mind.",
+                "Idolized by the youth."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Fernando Poe Jr.",
+            "nativeName": "Ronald Allan Kelley Poe (FPJ)",
+            "lifespan": "1939-2004",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Actor, National Artist",
+            "background": "Fernando Poe Jr., known as FPJ or 'Da King', was the King of Philippine Movies. He was a cultural icon who often played the role of the underdog championing the poor. He ran for president in 2004.",
+            "keyDecisions": [
+                "Producing and directing his own films.",
+                "Running for president in 2004.",
+                "Refusing to concede the election.",
+                "Promoting the movie industry."
+            ],
+            "achievements": [
+                "National Artist for Cinema.",
+                "King of Philippine Movies.",
+                "FAMAS Hall of Fame.",
+                "Cultural icon."
+            ],
+            "challenges": [
+                "Citizenship issues raised during the election.",
+                "Political inexperience.",
+                "Losing the election (alleged cheating).",
+                "Sudden death."
+            ],
+            "legacy": "FPJ is the hero of the masses. His movies are part of the Filipino psyche.",
+            "quotes": [
+                "Huwag mong sabihing malakas ka! (Don't say you are strong!)",
+                "Isang bala ka lang! (You are just one bullet!)"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "King of Philippine Cinema.",
+            "culturalImpact": "His movies are constantly replayed. He is a symbol of justice for the poor.",
+            "primarySources": [
+                "Films (Ang Panday, Probinsyano).",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a cultural hero.",
+                "His daughter, Grace Poe, is a prominent senator."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Efren Peñaflorida",
+            "nativeName": "Efren Peñaflorida Jr.",
+            "lifespan": "1981-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Teacher, Social Worker",
+            "background": "Efren Peñaflorida is a teacher and social worker who was named CNN Hero of the Year in 2009. He started the 'Kariton Klasrum' (Pushcart Classroom) to bring education to street children.",
+            "keyDecisions": [
+                "Starting the Dynamic Teen Company.",
+                "Creating the pushcart classroom model.",
+                "Choosing education over gang life.",
+                "Advocating for youth empowerment."
+            ],
+            "achievements": [
+                "CNN Hero of the Year (2009).",
+                "Order of Lakandula.",
+                "Educated thousands of street children.",
+                "Global inspiration."
+            ],
+            "challenges": [
+                "Growing up in a slum near a garbage dump.",
+                "Bullying and gang violence.",
+                "Lack of funding.",
+                "Sustaining the program."
+            ],
+            "legacy": "Efren proved that an ordinary person can make a global difference. He is a modern-day hero.",
+            "quotes": [
+                "You are the change that you dream, as I am the change that I dream.",
+                "Each of us has a hero within us."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "CNN Hero of the Year.",
+            "culturalImpact": "He inspired volunteerism among the youth. The pushcart classroom is a symbol of hope.",
+            "primarySources": [
+                "Interviews.",
+                "Documentaries.",
+                "News reports."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a role model.",
+                "His work highlights the power of education."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Manny Pacquiao",
+            "nativeName": "Emmanuel Dapidran Pacquiao",
+            "lifespan": "1978-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete, Senator",
+            "background": "Manny Pacquiao is a professional boxer and politician. He is the only eight-division world champion in the history of boxing. He served as a senator and ran for president.",
+            "keyDecisions": [
+                "Turning professional at a young age.",
+                "Moving to the US to train with Freddie Roach.",
+                "Entering politics.",
+                "Running for president in 2022."
+            ],
+            "achievements": [
+                "Only eight-division world champion.",
+                "BWAA Fighter of the Decade (2000s).",
+                "Senator of the Philippines.",
+                "Global sports icon."
+            ],
+            "challenges": [
+                "Extreme poverty in childhood.",
+                "Defeats in the ring (Marquez, Mayweather).",
+                "Balancing boxing and politics.",
+                "Criticism for his conservative views."
+            ],
+            "legacy": "Pacquiao is the 'Pambansang Kamao' (National Fist). He united the country during his fights (crime dropped to zero).",
+            "quotes": [
+                "Life is meant to be a challenge, because challenges make you grow.",
+                "I fight for my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Boxing Legend.",
+            "culturalImpact": "He is the most famous Filipino in the world. A source of immense national pride.",
+            "primarySources": [
+                "Boxing records.",
+                "Interviews.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a sports legend.",
+                "His political career is viewed with mixed opinions."
+            ]
+        }
+    ]
+}

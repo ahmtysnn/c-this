@@ -1,0 +1,761 @@
+{
+    "country": "Kazakhstan",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Abai Qunanbaiuly",
+            "nativeName": "Abai Qunanbaiuly",
+            "lifespan": "1845-1904",
+            "era": "Modern Period (19th Century)",
+            "role": "Poet, Philosopher",
+            "background": "Abai Qunanbaiuly was a poet, composer, and philosopher. He is the father of Kazakh literature and a cultural reformer who encouraged learning Russian and Western culture.",
+            "keyDecisions": [
+                "Translating Pushkin and Goethe into Kazakh.",
+                "Writing 'The Book of Words'.",
+                "Composing songs.",
+                "Criticizing tribalism."
+            ],
+            "achievements": [
+                "National Poet.",
+                "Philosopher.",
+                "Reformer.",
+                "Enlightener."
+            ],
+            "challenges": [
+                "Resistance from conservatives.",
+                "Russian colonialism.",
+                "Family tragedies.",
+                "Isolation."
+            ],
+            "legacy": "Abai is the soul of Kazakhstan. His 'Book of Words' is the moral compass of the nation.",
+            "quotes": [
+                "Study, learn, and grow."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Enlightener.",
+            "culturalImpact": "Statues of Abai are everywhere.",
+            "primarySources": [
+                "The Book of Words.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a sage.",
+                "His wisdom is timeless."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Nursultan Nazarbayev",
+            "nativeName": "Nursultan Nazarbayev",
+            "lifespan": "1940-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Nursultan Nazarbayev was the first President of Kazakhstan, ruling for nearly 30 years. He oversaw the transition from Soviet republic to independent nation.",
+            "keyDecisions": [
+                "Closing the Semipalatinsk nuclear test site.",
+                "Moving the capital to Astana.",
+                "Renouncing nuclear weapons.",
+                "Stepping down in 2019."
+            ],
+            "achievements": [
+                "Elbasy (Leader of the Nation).",
+                "Stability.",
+                "Economic growth.",
+                "Built Astana."
+            ],
+            "challenges": [
+                "Post-Soviet collapse.",
+                "Corruption.",
+                "Authoritarianism.",
+                "2022 unrest (Bloody January)."
+            ],
+            "legacy": "Nazarbayev built modern Kazakhstan. His legacy is complicated by his personality cult and the events of 2022.",
+            "quotes": [
+                "Kazakhstan 2050."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The First President.",
+            "culturalImpact": "The capital was briefly named Nur-Sultan.",
+            "primarySources": [
+                "Speeches.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Respected as a founder.",
+                "Criticized for nepotism."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Dimash Qudaibergen",
+            "nativeName": "Dinmukhamed Kanatuly Qudaibergen",
+            "lifespan": "1994-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician",
+            "background": "Dimash Qudaibergen is a singer known for his exceptionally wide vocal range (6 octaves). He is a global superstar and cultural ambassador.",
+            "keyDecisions": [
+                "Competing in 'Singer 2017' (China).",
+                "Singing in multiple languages.",
+                "Promoting Kazakh culture (Dombra).",
+                "Touring the world."
+            ],
+            "achievements": [
+                "Global phenomenon.",
+                "Vocal genius.",
+                "Cultural ambassador.",
+                "Prince."
+            ],
+            "challenges": [
+                "Fame.",
+                "Expectations.",
+                "Politics.",
+                "Health."
+            ],
+            "legacy": "Dimash is the voice of the steppe. He put Kazakhstan on the pop culture map.",
+            "quotes": [
+                "I am Kazakh."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Voice.",
+            "culturalImpact": "He has a fanatical following (Dears).",
+            "primarySources": [
+                "Songs.",
+                "Performances."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a talent.",
+                "His humility is praised."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Ablai Khan",
+            "nativeName": "Ablai Khan",
+            "lifespan": "1711-1781",
+            "era": "Early Modern Period (18th Century)",
+            "role": "Khan",
+            "background": "Ablai Khan was a ruler of the Middle Jüz who managed to unite the three Kazakh hordes. He skillfully navigated between the Russian Empire and Qing China.",
+            "keyDecisions": [
+                "Uniting the hordes.",
+                "Fighting the Dzungars.",
+                "Playing Russia and China against each other.",
+                "Maintaining independence."
+            ],
+            "achievements": [
+                "Unifier.",
+                "Diplomat.",
+                "Warrior.",
+                "Khan."
+            ],
+            "challenges": [
+                "Dzungar genocide.",
+                "Russian expansion.",
+                "Internal rivalry.",
+                "War."
+            ],
+            "legacy": "Ablai Khan is the symbol of statehood. He saved the Kazakhs from extinction.",
+            "quotes": [
+                "Unity is strength."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Unifier.",
+            "culturalImpact": "He is on the currency.",
+            "primarySources": [
+                "Chinese chronicles.",
+                "Russian archives."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His diplomacy is studied."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Shoqan Walikhanov",
+            "nativeName": "Shoqan Walikhanov",
+            "lifespan": "1835-1865",
+            "era": "Modern Period (19th Century)",
+            "role": "Scholar, Explorer",
+            "background": "Shoqan Walikhanov was a scholar, ethnographer, and officer in the Russian Army. He is famous for his journey to Kashgar and his studies of Central Asia.",
+            "keyDecisions": [
+                "Traveling to Kashgar in disguise.",
+                "Recording the Epic of Manas.",
+                "Serving as a bridge between Russia and Kazakhs.",
+                "Dying young."
+            ],
+            "achievements": [
+                "Scholar.",
+                "Explorer.",
+                "Ethnographer.",
+                "Genius."
+            ],
+            "challenges": [
+                "Tuberculosis.",
+                "Identity (Russian officer vs. Kazakh prince).",
+                "Danger.",
+                "Short life."
+            ],
+            "legacy": "Shoqan is the shooting star of science. He opened Central Asia to the world.",
+            "quotes": [
+                "Knowledge is light."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scholar.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Journals.",
+                "Sketches."
+            ],
+            "modernInterpretations": [
+                "Revered as a prodigy.",
+                "His work is foundational."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Dinmukhamed Kunayev",
+            "nativeName": "Dinmukhamed Kunayev",
+            "lifespan": "1912-1993",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician",
+            "background": "Dinmukhamed Kunayev was the First Secretary of the Communist Party of Kazakhstan. He ruled during the Brezhnev era and oversaw industrialization.",
+            "keyDecisions": [
+                "Developing industry.",
+                "Building Almaty.",
+                "Promoting Kazakhs in government.",
+                "Being removed by Gorbachev (sparking Jeltoqsan)."
+            ],
+            "achievements": [
+                "Modernizer.",
+                "Builder.",
+                "Leader.",
+                "Hero of Socialist Labor."
+            ],
+            "challenges": [
+                "Soviet bureaucracy.",
+                "Corruption.",
+                "1986 riots (Jeltoqsan).",
+                "Fall from grace."
+            ],
+            "legacy": "Kunayev is the good grandfather. His era is remembered with nostalgia.",
+            "quotes": [
+                "I served my people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Builder.",
+            "culturalImpact": "Streets are named after him.",
+            "primarySources": [
+                "Memoirs.",
+                "Party records."
+            ],
+            "modernInterpretations": [
+                "Respected as a patriot.",
+                "His removal was a turning point."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Tomiris",
+            "nativeName": "Queen Tomiris",
+            "lifespan": "6th Century BC",
+            "era": "Ancient Period",
+            "role": "Queen",
+            "background": "Tomiris was the Queen of the Massagetae. She is famous for defeating and killing Cyrus the Great of Persia.",
+            "keyDecisions": [
+                "Refusing Cyrus's marriage proposal.",
+                "Fighting the Persians.",
+                "Avenging her son.",
+                "Dunking Cyrus's head in blood."
+            ],
+            "achievements": [
+                "Defeated the Persian Empire.",
+                "Warrior Queen.",
+                "Defender.",
+                "Legend."
+            ],
+            "challenges": [
+                "Persian invasion.",
+                "Death of her son Spargapises.",
+                "War.",
+                "Leadership."
+            ],
+            "legacy": "Tomiris is the Amazon of the Steppe. She represents the fierce independence of the nomads.",
+            "quotes": [
+                "Drink your fill of blood."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Warrior Queen.",
+            "culturalImpact": "Subject of a recent movie.",
+            "primarySources": [
+                "Herodotus.",
+                "Legends."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a feminist icon.",
+                "Symbol of strength."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Gennady Golovkin",
+            "nativeName": "Gennady Golovkin (GGG)",
+            "lifespan": "1982-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Gennady Golovkin is a professional boxer. Known as 'GGG', he was a dominant middleweight champion known for his knockout power.",
+            "keyDecisions": [
+                "Turning professional.",
+                "Fighting in the US.",
+                "The Canelo trilogy.",
+                "Big Drama Show."
+            ],
+            "achievements": [
+                "Middleweight Champion.",
+                "Knockout artist.",
+                "Global star.",
+                "Olympian."
+            ],
+            "challenges": [
+                "Finding opponents.",
+                "Judges' decisions (Canelo fights).",
+                "Age.",
+                "Politics of boxing."
+            ],
+            "legacy": "GGG is the pride of Karaganda. He put Kazakh boxing on the map.",
+            "quotes": [
+                "Big Drama Show."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Fight records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His sportsmanship is admired."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Kassym-Jomart Tokayev",
+            "nativeName": "Kassym-Jomart Tokayev",
+            "lifespan": "1953-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "President",
+            "background": "Kassym-Jomart Tokayev is the current President of Kazakhstan. A career diplomat, he succeeded Nazarbayev and navigated the 2022 unrest.",
+            "keyDecisions": [
+                "Succeeding Nazarbayev.",
+                "Calling in the CSTO during Bloody January.",
+                "Implementing reforms (New Kazakhstan).",
+                "Distancing from Russia (Ukraine war)."
+            ],
+            "achievements": [
+                "President.",
+                "Diplomat (UN).",
+                "Reformer.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Shadow of Nazarbayev.",
+                "Bloody January.",
+                "Geopolitics.",
+                "Public trust."
+            ],
+            "legacy": "Tokayev is the second president. He is trying to build a 'New Kazakhstan'.",
+            "quotes": [
+                "Law and Order."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The President.",
+            "culturalImpact": "He is reshaping the country.",
+            "primarySources": [
+                "Speeches.",
+                "Decrees."
+            ],
+            "modernInterpretations": [
+                "Viewed as a pragmatist.",
+                "His handling of 2022 is debated."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Mukhtar Auezov",
+            "nativeName": "Mukhtar Auezov",
+            "lifespan": "1897-1961",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Mukhtar Auezov was a writer and scholar. He wrote 'The Path of Abai', a four-volume epic novel that is the masterpiece of Kazakh literature.",
+            "keyDecisions": [
+                "Writing 'The Path of Abai'.",
+                "Preserving Kazakh folklore.",
+                "Navigating Soviet censorship.",
+                "Teaching."
+            ],
+            "achievements": [
+                "Literary giant.",
+                "Lenin Prize winner.",
+                "Scholar.",
+                "Dramatist."
+            ],
+            "challenges": [
+                "Stalinist purges.",
+                "Censorship.",
+                "Pressure.",
+                "Health."
+            ],
+            "legacy": "Auezov gave Abai to the world. His novel is the encyclopedia of Kazakh life.",
+            "quotes": [
+                "Abai is a world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "The theater is named after him.",
+            "primarySources": [
+                "The Path of Abai.",
+                "Plays."
+            ],
+            "modernInterpretations": [
+                "Revered as a classic.",
+                "His work is mandatory reading."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Al-Farabi",
+            "nativeName": "Abu Nasr Al-Farabi",
+            "lifespan": "872-950",
+            "era": "Medieval Period",
+            "role": "Philosopher",
+            "background": "Al-Farabi was a philosopher and scientist known as the 'Second Teacher' (after Aristotle). Born in Otrar (modern Kazakhstan), he was a giant of the Islamic Golden Age.",
+            "keyDecisions": [
+                "Studying in Baghdad.",
+                "Writing on logic, music, and politics.",
+                "Commentating on Aristotle.",
+                "Living as a Sufi."
+            ],
+            "achievements": [
+                "The Second Teacher.",
+                "Polymath.",
+                "Music theorist.",
+                "Philosopher."
+            ],
+            "challenges": [
+                "Travel.",
+                "Political instability.",
+                "Obscurity.",
+                "Time."
+            ],
+            "legacy": "Al-Farabi is the intellectual ancestor. He bridged Greek philosophy and the Islamic world.",
+            "quotes": [
+                "The virtuous city."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Philosopher.",
+            "culturalImpact": "The university is named after him.",
+            "primarySources": [
+                "Kitab al-Musiqa.",
+                "The Virtuous City."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a national hero.",
+                "His contribution to logic is immense."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Bauyrzhan Momyshuly",
+            "nativeName": "Bauyrzhan Momyshuly",
+            "lifespan": "1910-1982",
+            "era": "Modern Period (20th Century)",
+            "role": "Soldier, Writer",
+            "background": "Bauyrzhan Momyshuly was a military officer and writer. He is a hero of the Battle of Moscow and a symbol of discipline and courage.",
+            "keyDecisions": [
+                "Defending Moscow (Panfilov's 28 Guardsmen).",
+                "Developing spiral tactics.",
+                "Writing about the war.",
+                "Teaching."
+            ],
+            "achievements": [
+                "Hero of the Soviet Union.",
+                "Tactician.",
+                "Writer.",
+                "Legend."
+            ],
+            "challenges": [
+                "War.",
+                "Being overlooked for awards (initially).",
+                "Post-war life.",
+                "Writing."
+            ],
+            "legacy": "Momyshuly is the warrior. His book 'Volokolamsk Highway' is a classic of military literature.",
+            "quotes": [
+                "Discipline is the mother of victory."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Commander.",
+            "culturalImpact": "He is a role model for soldiers.",
+            "primarySources": [
+                "Volokolamsk Highway.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His tactics are studied."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Kanysh Satpayev",
+            "nativeName": "Kanysh Satpayev",
+            "lifespan": "1899-1964",
+            "era": "Modern Period (20th Century)",
+            "role": "Geologist",
+            "background": "Kanysh Satpayev was a geologist and the first President of the Academy of Sciences of Kazakhstan. He discovered the Jezkazgan copper deposits.",
+            "keyDecisions": [
+                "Mapping the geology of Kazakhstan.",
+                "Founding the Academy of Sciences.",
+                "Discovering copper.",
+                "Promoting science."
+            ],
+            "achievements": [
+                "Father of Kazakh Science.",
+                "Geologist.",
+                "Academician.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Lack of resources.",
+                "Stalinist repression.",
+                "Building institutions.",
+                "Health."
+            ],
+            "legacy": "Satpayev found the wealth of the nation. He built the scientific foundation of the country.",
+            "quotes": [
+                "Science is for the people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Scientist.",
+            "culturalImpact": "The technical university is named after him.",
+            "primarySources": [
+                "Geological maps.",
+                "Papers."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His work drives the economy."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Roza Baglanova",
+            "nativeName": "Roza Baglanova",
+            "lifespan": "1922-2011",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Singer",
+            "background": "Roza Baglanova was an opera and pop singer. She was a People's Artist of the USSR and performed at the front lines during WWII.",
+            "keyDecisions": [
+                "Singing for soldiers in WWII.",
+                "Performing 'Ah, Samara-gorodok'.",
+                "Touring the world.",
+                "Preserving folk songs."
+            ],
+            "achievements": [
+                "People's Artist of the USSR.",
+                "Hero of Kazakhstan.",
+                "Diva.",
+                "Legend."
+            ],
+            "challenges": [
+                "War.",
+                "Injury (eyesight).",
+                "Fame.",
+                "Age."
+            ],
+            "legacy": "Roza Baglanova is the nightingale. Her voice cheered the soldiers and the nation.",
+            "quotes": [
+                "I sing for my people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Nightingale.",
+            "culturalImpact": "She is a national treasure.",
+            "primarySources": [
+                "Recordings.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Revered as a legend.",
+                "Her longevity is admired."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Kenesary Khan",
+            "nativeName": "Kenesary Kasymov",
+            "lifespan": "1802-1847",
+            "era": "Modern Period (19th Century)",
+            "role": "Khan",
+            "background": "Kenesary Khan was the last Khan of the Kazakh Khanate. He led a massive rebellion against the Russian Empire to restore independence.",
+            "keyDecisions": [
+                "Declaring himself Khan.",
+                "Fighting the Russians.",
+                "Fighting the Kyrgyz.",
+                "Being executed."
+            ],
+            "achievements": [
+                "Last Khan.",
+                "Rebel leader.",
+                "Warrior.",
+                "Symbol."
+            ],
+            "challenges": [
+                "Russian artillery.",
+                "Lack of unity.",
+                "Betrayal.",
+                "Execution (head sent to Russia)."
+            ],
+            "legacy": "Kenesary is the martyr of independence. The search for his skull is a national quest.",
+            "quotes": [
+                "Freedom or death."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Last Khan.",
+            "culturalImpact": "He is a symbol of resistance.",
+            "primarySources": [
+                "Russian reports.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "His fate is a tragedy."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Olzhas Suleimenov",
+            "nativeName": "Olzhas Suleimenov",
+            "lifespan": "1936-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Poet, Activist",
+            "background": "Olzhas Suleimenov is a poet and activist. He founded the Nevada-Semipalatinsk movement, which led to the closure of the nuclear test site.",
+            "keyDecisions": [
+                "Writing 'Az i Ya'.",
+                "Founding Nevada-Semipalatinsk.",
+                "Advocating for peace.",
+                "Serving as ambassador."
+            ],
+            "achievements": [
+                "Closed the test site.",
+                "Poet.",
+                "Activist.",
+                "Hero of Labor."
+            ],
+            "challenges": [
+                "Censorship ('Az i Ya' was banned).",
+                "Soviet authorities.",
+                "Nuclear lobby.",
+                "Politics."
+            ],
+            "legacy": "Suleimenov saved the land from radiation. He used poetry to change policy.",
+            "quotes": [
+                "Earth, bow to man."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Activist.",
+            "culturalImpact": "He is a living legend.",
+            "primarySources": [
+                "Az i Ya.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His environmental work is crucial."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Shaken Aimanov",
+            "nativeName": "Shaken Aimanov",
+            "lifespan": "1914-1970",
+            "era": "Modern Period (20th Century)",
+            "role": "Director, Actor",
+            "background": "Shaken Aimanov was the father of Kazakh cinema. He directed 'The End of Ataman' and 'Angel Wearing a Tubeteika'.",
+            "keyDecisions": [
+                "Acting in theater.",
+                "Directing films.",
+                "Founding Kazakhfilm.",
+                "Promoting Kazakh culture."
+            ],
+            "achievements": [
+                "Father of Cinema.",
+                "People's Artist.",
+                "Director.",
+                "Actor."
+            ],
+            "challenges": [
+                "Lack of equipment.",
+                "Censorship.",
+                "Building an industry.",
+                "Accidental death."
+            ],
+            "legacy": "Aimanov is the face of Kazakh film. The studio is named after him.",
+            "quotes": [
+                "Cinema is art."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Director.",
+            "culturalImpact": "His films are classics.",
+            "primarySources": [
+                "Films.",
+                "Archives."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a pioneer.",
+                "His humor is loved."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Timur Bekmambetov",
+            "nativeName": "Timur Bekmambetov",
+            "lifespan": "1961-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Director",
+            "background": "Timur Bekmambetov is a film director and producer. He is known for 'Night Watch' and Hollywood films like 'Wanted', pioneering the 'Screenlife' format.",
+            "keyDecisions": [
+                "Directing 'Night Watch'.",
+                "Moving to Hollywood.",
+                "Producing 'Searching'.",
+                "Innovating visual effects."
+            ],
+            "achievements": [
+                "Global director.",
+                "Innovator.",
+                "Producer.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Breaking into Hollywood.",
+                "Critics.",
+                "Commercial pressure.",
+                "Balancing art and commerce."
+            ],
+            "legacy": "Bekmambetov is the most successful Kazakh filmmaker globally. He reinvented the action genre.",
+            "quotes": [
+                "Screenlife."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Visionary.",
+            "culturalImpact": "He is a tech pioneer.",
+            "primarySources": [
+                "Films.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a success story.",
+                "His visual style is unique."
+            ]
+        }
+    ]
+}

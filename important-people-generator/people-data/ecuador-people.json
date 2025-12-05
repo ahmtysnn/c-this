@@ -1,0 +1,761 @@
+{
+    "country": "Ecuador",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Eloy Alfaro",
+            "nativeName": "José Eloy Alfaro Delgado",
+            "lifespan": "1842-1912",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "President, Revolutionary",
+            "background": "Eloy Alfaro was the leader of the Liberal Revolution in Ecuador. He served as President twice and modernized the country, separating church and state.",
+            "keyDecisions": [
+                "Leading the Liberal Revolution (1895).",
+                "Building the Guayaquil-Quito railway.",
+                "Legalizing civil marriage and divorce.",
+                "Promoting secular education."
+            ],
+            "achievements": [
+                "Old Warrior (El Viejo Luchador).",
+                "Modernizer.",
+                "President.",
+                "Liberal icon."
+            ],
+            "challenges": [
+                "Conservative opposition.",
+                "Exile.",
+                "Civil war.",
+                "Assassination (dragged through the streets)."
+            ],
+            "legacy": "Alfaro is the father of modern Ecuador. His brutal death is a national trauma.",
+            "quotes": [
+                "Only bullets can defeat me."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Old Warrior.",
+            "culturalImpact": "He is the face of Ecuadorian liberalism.",
+            "primarySources": [
+                "Speeches.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a martyr.",
+                "His railway is a national symbol."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Manuela Sáenz",
+            "nativeName": "Manuela Sáenz de Vergara y Aizpuru",
+            "lifespan": "1797-1856",
+            "era": "Modern Period (19th Century)",
+            "role": "Revolutionary",
+            "background": "Manuela Sáenz was a revolutionary hero and the lover of Simón Bolívar. She saved Bolívar's life during an assassination attempt in Bogotá.",
+            "keyDecisions": [
+                "Joining the independence movement.",
+                "Fighting in the Battle of Ayacucho.",
+                "Saving Bolívar ('Liberator of the Liberator').",
+                "Living in exile."
+            ],
+            "achievements": [
+                "Libertadora del Libertador.",
+                "Colonel.",
+                "Feminist icon.",
+                "Spy."
+            ],
+            "challenges": [
+                "Sexism.",
+                "Scandal (leaving her husband).",
+                "Exile in Paita.",
+                "Poverty."
+            ],
+            "legacy": "Manuela is the heroine of independence. She was erased from history for decades but is now celebrated.",
+            "quotes": [
+                "My country is the continent of America."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Liberator of the Liberator.",
+            "culturalImpact": "She is a symbol of female power.",
+            "primarySources": [
+                "Letters to Bolívar.",
+                "Diaries."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a feminist pioneer.",
+                "Her love story is legendary."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Oswaldo Guayasamín",
+            "nativeName": "Oswaldo Guayasamín",
+            "lifespan": "1919-1999",
+            "era": "Modern Period (20th Century)",
+            "role": "Artist",
+            "background": "Oswaldo Guayasamín was a painter and sculptor. His work depicts the suffering of the indigenous peoples and the horrors of war.",
+            "keyDecisions": [
+                "Painting 'The Way of Tears' (Huacayñán).",
+                "Creating 'The Age of Anger'.",
+                "Building the Chapel of Man.",
+                "Advocating for indigenous rights."
+            ],
+            "achievements": [
+                "Master of Expressionism.",
+                "Voice of the oppressed.",
+                "Cultural ambassador.",
+                "Humanist."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Racism.",
+                "Political turmoil.",
+                "Completing his masterpiece."
+            ],
+            "legacy": "Guayasamín is the painter of pain and hope. His Chapel of Man is a monument to humanity.",
+            "quotes": [
+                "I painted as if I were screaming."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Painter.",
+            "culturalImpact": "His style is instantly recognizable.",
+            "primarySources": [
+                "Paintings.",
+                "Murals."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His work is a plea for peace."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Eugenio Espejo",
+            "nativeName": "Francisco Javier Eugenio de Santa Cruz y Espejo",
+            "lifespan": "1747-1795",
+            "era": "Early Modern Period (18th Century)",
+            "role": "Scientist, Writer",
+            "background": "Eugenio Espejo was a medical pioneer, writer, and lawyer. He was the first journalist in Quito and an early advocate for independence.",
+            "keyDecisions": [
+                "Publishing 'Primicias de la Cultura de Quito'.",
+                "Writing about hygiene and bacteria.",
+                "Criticizing the colonial government.",
+                "Dying in prison."
+            ],
+            "achievements": [
+                "First journalist.",
+                "Medical pioneer.",
+                "Enlightenment thinker.",
+                "Precursor of independence."
+            ],
+            "challenges": [
+                "Racism (he was mestizo/indigenous).",
+                "Censorship.",
+                "Imprisonment.",
+                "Disease."
+            ],
+            "legacy": "Espejo is the awakening of Quito. He lit the torch of freedom.",
+            "quotes": [
+                "Happiness consists in virtue."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Precursor.",
+            "culturalImpact": "He is a national hero.",
+            "primarySources": [
+                "Reflections on Smallpox.",
+                "Newspaper articles."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "His medical theories were ahead of his time."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Antonio José de Sucre",
+            "nativeName": "Antonio José de Sucre",
+            "lifespan": "1795-1830",
+            "era": "Modern Period (19th Century)",
+            "role": "General",
+            "background": "Antonio José de Sucre was a Venezuelan general who liberated Ecuador. He won the decisive Battle of Pichincha.",
+            "keyDecisions": [
+                "Leading the Patriot army.",
+                "Winning the Battle of Pichincha (1822).",
+                "Serving as President of Bolivia.",
+                "Being assassinated in Berruecos."
+            ],
+            "achievements": [
+                "Grand Marshal of Ayacucho.",
+                "Liberator of Ecuador.",
+                "Strategist.",
+                "Gentleman."
+            ],
+            "challenges": [
+                "Rugged terrain (Andes).",
+                "Royalist armies.",
+                "Political intrigue.",
+                "Assassination."
+            ],
+            "legacy": "Sucre is the hero of Pichincha. The currency was named after him before dollarization.",
+            "quotes": [
+                "To the victors, clemency."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Marshal.",
+            "culturalImpact": "He is beloved in Ecuador.",
+            "primarySources": [
+                "Letters.",
+                "Military reports."
+            ],
+            "modernInterpretations": [
+                "Revered as the perfect soldier.",
+                "His murder remains a tragedy."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Jefferson Pérez",
+            "nativeName": "Jefferson Leonardo Pérez Quezada",
+            "lifespan": "1974-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Jefferson Pérez is a race walker. He won Ecuador's first-ever Olympic gold medal at the 1996 Atlanta Games (20km walk).",
+            "keyDecisions": [
+                "Training in Cuenca.",
+                "Winning Gold in Atlanta.",
+                "Winning three World Championships.",
+                "Winning Silver in Beijing."
+            ],
+            "achievements": [
+                "Olympic Gold Medalist.",
+                "World Champion (x3).",
+                "National hero.",
+                "Role model."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Injuries (herniated disc).",
+                "Lack of support.",
+                "Pressure."
+            ],
+            "legacy": "Jefferson Pérez proved Ecuadorians could win. He is the greatest athlete in the country's history.",
+            "quotes": [
+                "I walked for my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "He inspired a generation.",
+            "primarySources": [
+                "Olympic records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His discipline is legendary."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Matilde Hidalgo",
+            "nativeName": "Matilde Hidalgo de Procel",
+            "lifespan": "1889-1974",
+            "era": "Modern Period (20th Century)",
+            "role": "Doctor, Activist",
+            "background": "Matilde Hidalgo was a physician and activist. She was the first woman to vote in a national election in Latin America (1924) and the first female doctor in Ecuador.",
+            "keyDecisions": [
+                "Demanding the right to vote.",
+                "Graduating from medical school.",
+                "Running for office.",
+                "Fighting for women's rights."
+            ],
+            "achievements": [
+                "Suffragist pioneer.",
+                "First female doctor.",
+                "Deputy.",
+                "Poet."
+            ],
+            "challenges": [
+                "Patriarchy.",
+                "Legal barriers.",
+                "Social stigma.",
+                "Balancing career and family."
+            ],
+            "legacy": "Matilde Hidalgo broke the glass ceiling. She forced the state to recognize women as citizens.",
+            "quotes": [
+                "Women have a soul and a brain."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Suffragette.",
+            "culturalImpact": "She is a feminist icon.",
+            "primarySources": [
+                "Voting records.",
+                "Poems."
+            ],
+            "modernInterpretations": [
+                "Revered as a trailblazer.",
+                "Her courage changed history."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Julio Jaramillo",
+            "nativeName": "Julio Alfredo Jaramillo Laurido (JJ)",
+            "lifespan": "1935-1978",
+            "era": "Modern Period (20th Century)",
+            "role": "Musician",
+            "background": "Julio Jaramillo was a singer known as 'The Nightingale of the Americas'. He popularized the pasillo genre internationally.",
+            "keyDecisions": [
+                "Recording 'Nuestro Juramento'.",
+                "Touring Latin America.",
+                "Living a bohemian life.",
+                "Dying young."
+            ],
+            "achievements": [
+                "The Nightingale.",
+                "King of Pasillo.",
+                "Recording thousands of songs.",
+                "Idol."
+            ],
+            "challenges": [
+                "Alcoholism.",
+                "Unstable personal life.",
+                "Exploitation by labels.",
+                "Health."
+            ],
+            "legacy": "JJ is the voice of Ecuador. His funeral was one of the largest in the country's history.",
+            "quotes": [
+                "I have suffered for you."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Nightingale.",
+            "culturalImpact": "He is a saint of the people.",
+            "primarySources": [
+                "Songs.",
+                "Films."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His songs are timeless."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "José María Velasco Ibarra",
+            "nativeName": "José María Velasco Ibarra",
+            "lifespan": "1893-1979",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Velasco Ibarra was President of Ecuador five times. A populist orator, he famously said, 'Give me a balcony and I will become president.'",
+            "keyDecisions": [
+                "Running for president 5 times.",
+                "Being overthrown 4 times.",
+                "Building infrastructure.",
+                "Mobilizing the masses."
+            ],
+            "achievements": [
+                "Great Orator.",
+                "Five-time president.",
+                "Populist leader.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Coups.",
+                "Instability.",
+                "Economic crises.",
+                "His own temperament."
+            ],
+            "legacy": "Velasco is the definition of Ecuadorian politics: chaotic and charismatic.",
+            "quotes": [
+                "Give me a balcony."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Orator.",
+            "culturalImpact": "He defined an era.",
+            "primarySources": [
+                "Speeches.",
+                "Decrees."
+            ],
+            "modernInterpretations": [
+                "Viewed as a demagogue.",
+                "Respected for his honesty (died poor)."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Tránsito Amaguaña",
+            "nativeName": "Rosa Elena Tránsito Amaguaña Alba",
+            "lifespan": "1909-2009",
+            "era": "Modern Period (20th Century)",
+            "role": "Activist",
+            "background": "Tránsito Amaguaña was an indigenous leader who fought for land rights and bilingual education. She founded the Ecuadorian Federation of Indians.",
+            "keyDecisions": [
+                "Leading strikes.",
+                "Marching to Quito.",
+                "Founding bilingual schools.",
+                "Joining the Communist Party."
+            ],
+            "achievements": [
+                "Indigenous leader.",
+                "Mother of the movement.",
+                "Educator.",
+                "Fighter."
+            ],
+            "challenges": [
+                "Racism.",
+                "Poverty.",
+                "Imprisonment.",
+                "Repression."
+            ],
+            "legacy": "Mama Tránsito is the mother of the indigenous movement. She gave dignity to her people.",
+            "quotes": [
+                "We want bread and land."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Leader.",
+            "culturalImpact": "She is a symbol of resistance.",
+            "primarySources": [
+                "Interviews.",
+                "Testimonies."
+            ],
+            "modernInterpretations": [
+                "Revered as a heroine.",
+                "Her struggle continues."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Richard Carapaz",
+            "nativeName": "Richard Antonio Carapaz Montenegro",
+            "lifespan": "1993-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Richard Carapaz is a cyclist known as 'The Locomotive of Carchi'. He won the Giro d'Italia (2019) and Olympic Gold (2020).",
+            "keyDecisions": [
+                "Moving to Colombia to train.",
+                "Winning the Giro d'Italia.",
+                "Winning Olympic Gold in Tokyo.",
+                "Riding for EF Education."
+            ],
+            "achievements": [
+                "Giro d'Italia winner.",
+                "Olympic Gold Medalist.",
+                "Tour de France podium.",
+                "King of the Mountains."
+            ],
+            "challenges": [
+                "Lack of support.",
+                "Cold weather training.",
+                "European competition.",
+                "Crashes."
+            ],
+            "legacy": "Carapaz is the Locomotive. He put Ecuador on the cycling map.",
+            "quotes": [
+                "The gold belongs to Ecuador."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Locomotive.",
+            "culturalImpact": "Cycling is now huge in Ecuador.",
+            "primarySources": [
+                "Race results.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a giant.",
+                "His grit is admired."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Juan Montalvo",
+            "nativeName": "Juan María Montalvo Fiallos",
+            "lifespan": "1832-1889",
+            "era": "Modern Period (19th Century)",
+            "role": "Writer",
+            "background": "Juan Montalvo was a writer and essayist. He was a fierce critic of dictators, famously saying 'My pen killed him' after Garcia Moreno's assassination.",
+            "keyDecisions": [
+                "Writing 'Las Catilinarias'.",
+                "Attacking Garcia Moreno.",
+                "Living in exile.",
+                "Writing 'Capítulos que se le olvidaron a Cervantes'."
+            ],
+            "achievements": [
+                "Master of the essay.",
+                "Liberal thinker.",
+                "Enemy of tyrants.",
+                "Stylist."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Exile.",
+                "Poverty.",
+                "Dictators."
+            ],
+            "legacy": "Montalvo is the conscience of the nation. His pen was a weapon.",
+            "quotes": [
+                "My pen killed him."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "He is studied in schools.",
+            "primarySources": [
+                "Las Catilinarias.",
+                "Seven Treatises."
+            ],
+            "modernInterpretations": [
+                "Revered as a master of language.",
+                "Symbol of free speech."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Gabriel García Moreno",
+            "nativeName": "Gabriel García Moreno",
+            "lifespan": "1821-1875",
+            "era": "Modern Period (19th Century)",
+            "role": "President",
+            "background": "Gabriel García Moreno was a conservative President who modernized Ecuador while imposing a strict Catholic theocracy. He was assassinated on the steps of the palace.",
+            "keyDecisions": [
+                "Consecrating Ecuador to the Sacred Heart.",
+                "Building schools and roads.",
+                "Founding the Polytechnic School.",
+                "Suppressing liberals."
+            ],
+            "achievements": [
+                "Modernizer.",
+                "Builder.",
+                "Conservative icon.",
+                "Martyr (to some)."
+            ],
+            "challenges": [
+                "Liberal opposition.",
+                "Montalvo's writings.",
+                "Assassination.",
+                "Legacy."
+            ],
+            "legacy": "García Moreno is the most controversial figure in Ecuadorian history. He built the state but crushed liberty.",
+            "quotes": [
+                "God does not die."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Theocrat.",
+            "culturalImpact": "He polarized the nation.",
+            "primarySources": [
+                "Speeches.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Reviled as a tyrant.",
+                "Praised as a statesman."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Dolores Cacuango",
+            "nativeName": "Dolores Cacuango (Mama Dulu)",
+            "lifespan": "1881-1971",
+            "era": "Modern Period (20th Century)",
+            "role": "Activist",
+            "background": "Dolores Cacuango was an indigenous leader and pioneer of bilingual education. She fought for land reform and the rights of the Huasipungueros.",
+            "keyDecisions": [
+                "Founding the FEI.",
+                "Creating clandestine schools.",
+                "Speaking in Kichwa and Spanish.",
+                "Leading uprisings."
+            ],
+            "achievements": [
+                "Indigenous leader.",
+                "Educator.",
+                "Communist.",
+                "Legend."
+            ],
+            "challenges": [
+                "Illiteracy (she learned late).",
+                "Repression.",
+                "Poverty.",
+                "Landlords."
+            ],
+            "legacy": "Mama Dulu is the seed. Her schools saved the language and culture.",
+            "quotes": [
+                "We are like the straw of the paramo."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Matriarch.",
+            "culturalImpact": "She is a national symbol.",
+            "primarySources": [
+                "Oral history.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a heroine.",
+                "Her legacy is vibrant."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Enner Valencia",
+            "nativeName": "Enner Remberto Valencia Lastra",
+            "lifespan": "1989-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Enner Valencia is a footballer and the all-time top scorer for the Ecuador national team. He is known as 'Superman'.",
+            "keyDecisions": [
+                "Playing in Mexico and England.",
+                "Scoring in the 2014 and 2022 World Cups.",
+                "Captaining the team.",
+                "Returning to Brazil (Internacional)."
+            ],
+            "achievements": [
+                "Top scorer.",
+                "World Cup hero.",
+                "Captain.",
+                "Superman."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Criticism.",
+                "Injuries.",
+                "Pressure."
+            ],
+            "legacy": "Enner is the goal machine. He always delivers on the big stage.",
+            "quotes": [
+                "I play for my family."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Striker.",
+            "culturalImpact": "He is beloved by fans.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His record speaks for itself."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Jorge Icaza",
+            "nativeName": "Jorge Icaza Coronel",
+            "lifespan": "1906-1978",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Jorge Icaza was a writer and playwright. His novel 'Huasipungo' exposed the brutal exploitation of indigenous people and is a classic of Indigenismo.",
+            "keyDecisions": [
+                "Writing 'Huasipungo'.",
+                "Working as a censor (ironically).",
+                "Directing the National Library.",
+                "Advocating for social justice."
+            ],
+            "achievements": [
+                "Literary giant.",
+                "Voice of the oppressed.",
+                "Ambassador.",
+                "Realist."
+            ],
+            "challenges": [
+                "Controversy.",
+                "Shocking the elite.",
+                "Translation.",
+                "Politics."
+            ],
+            "legacy": "Icaza showed the world the reality of the Andes. 'Huasipungo' is a cry for justice.",
+            "quotes": [
+                "Ñucanchic Huasipungo."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Novelist.",
+            "culturalImpact": "His book is mandatory reading.",
+            "primarySources": [
+                "Huasipungo.",
+                "Plays."
+            ],
+            "modernInterpretations": [
+                "Revered as a classic.",
+                "His social critique remains relevant."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Jaime Roldós Aguilera",
+            "nativeName": "Jaime Roldós Aguilera",
+            "lifespan": "1940-1981",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Jaime Roldós was a charismatic President who led Ecuador back to democracy in 1979. He died in a suspicious plane crash.",
+            "keyDecisions": [
+                "Running for president.",
+                "Promoting human rights (Roldós Doctrine).",
+                "Challenging the military.",
+                "Dying in office."
+            ],
+            "achievements": [
+                "Restored democracy.",
+                "Human rights advocate.",
+                "Visionary.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Conservative opposition.",
+                "Border war with Peru (Paquisha).",
+                "CIA/Condor Plan (suspected).",
+                "Death."
+            ],
+            "legacy": "Roldós is the lost hope. His death is an open wound in Ecuadorian history.",
+            "quotes": [
+                "My power is the constitution."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Democrat.",
+            "culturalImpact": "He is a symbol of integrity.",
+            "primarySources": [
+                "Speeches.",
+                "Crash reports."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "His death is widely believed to be an assassination."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Carlota Jaramillo",
+            "nativeName": "Carlota Jaramillo",
+            "lifespan": "1904-1987",
+            "era": "Modern Period (20th Century)",
+            "role": "Musician",
+            "background": "Carlota Jaramillo was a singer known as the 'Queen of the Pasillo'. She defined the sound of Ecuadorian national music.",
+            "keyDecisions": [
+                "Singing 'Sendas Distintas'.",
+                "Performing in theaters.",
+                "Retiring early.",
+                "Preserving the tradition."
+            ],
+            "achievements": [
+                "Queen of Pasillo.",
+                "National icon.",
+                "Artist.",
+                "Diva."
+            ],
+            "challenges": [
+                "Social norms (singing was not 'proper').",
+                "Stage fright.",
+                "Privacy.",
+                "Legacy."
+            ],
+            "legacy": "Carlota Jaramillo is the soul of the pasillo. Her voice is nostalgia.",
+            "quotes": [
+                "Sendas distintas."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Queen.",
+            "culturalImpact": "She is the standard for female singers.",
+            "primarySources": [
+                "Recordings.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Her songs are classics."
+            ]
+        }
+    ]
+}

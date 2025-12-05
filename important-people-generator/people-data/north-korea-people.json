@@ -1,0 +1,761 @@
+{
+    "country": "North Korea",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Kim Il Sung",
+            "nativeName": "Kim Il Sung",
+            "lifespan": "1912-1994",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Kim Il Sung was the founder of North Korea and its Supreme Leader from 1948 until his death. He established the Juche ideology and the personality cult.",
+            "keyDecisions": [
+                "Fighting against the Japanese.",
+                "Invading South Korea (Korean War).",
+                "Purging rivals.",
+                "Establishing Juche."
+            ],
+            "achievements": [
+                "Eternal President.",
+                "Founder of the DPRK.",
+                "Guerrilla hero.",
+                "God-king."
+            ],
+            "challenges": [
+                "Korean War destruction.",
+                "Cold War politics.",
+                "Economic stagnation.",
+                "Succession."
+            ],
+            "legacy": "Kim Il Sung is the sun of the nation. He is worshipped as a deity.",
+            "quotes": [
+                "The people are my god."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Great Leader.",
+            "culturalImpact": "His statues are everywhere.",
+            "primarySources": [
+                "With the Century.",
+                "Works."
+            ],
+            "modernInterpretations": [
+                "Revered as a god in North Korea.",
+                "Viewed as a dictator globally."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Kim Jong Il",
+            "nativeName": "Kim Jong Il",
+            "lifespan": "1941-2011",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Leader",
+            "background": "Kim Jong Il was the second Supreme Leader of North Korea. He developed the Songun (Military First) policy and oversaw the nuclear program.",
+            "keyDecisions": [
+                "Succeeding his father.",
+                "Developing nuclear weapons.",
+                "Managing the Arduous March (famine).",
+                "Promoting cinema."
+            ],
+            "achievements": [
+                "Dear Leader.",
+                "Nuclear power.",
+                "Generalissimo.",
+                "Filmmaker."
+            ],
+            "challenges": [
+                "Famine (1990s).",
+                "Sanctions.",
+                "Isolation.",
+                "Health."
+            ],
+            "legacy": "Kim Jong Il kept the regime alive through terror and nukes. He is the architect of the military state.",
+            "quotes": [
+                "Expect no change from me."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dear Leader.",
+            "culturalImpact": "His birth is mythologized.",
+            "primarySources": [
+                "On the Art of Cinema.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius in North Korea.",
+                "Viewed as a tyrant globally."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Kim Jong Un",
+            "nativeName": "Kim Jong Un",
+            "lifespan": "1984-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Leader",
+            "background": "Kim Jong Un is the current Supreme Leader. He has accelerated the nuclear program and engaged in summit diplomacy with the US.",
+            "keyDecisions": [
+                "Purging his uncle Jang Song-thaek.",
+                "Testing H-bombs and ICBMs.",
+                "Meeting Donald Trump.",
+                "Developing the economy (Byungjin)."
+            ],
+            "achievements": [
+                "Marshal.",
+                "Nuclear deterrent.",
+                "Diplomatic player.",
+                "Modernizer (superficially)."
+            ],
+            "challenges": [
+                "Sanctions.",
+                "COVID-19.",
+                "Economic hardship.",
+                "Legitimacy."
+            ],
+            "legacy": "Kim Jong Un is the young marshal. He solidified the dynasty's grip on power.",
+            "quotes": [
+                "My father's life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Marshal.",
+            "culturalImpact": "He is the supreme authority.",
+            "primarySources": [
+                "New Year Addresses.",
+                "KCNA."
+            ],
+            "modernInterpretations": [
+                "Revered as the sun of the 21st century.",
+                "Viewed as a dangerous dictator."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Ri Chun-hee",
+            "nativeName": "Ri Chun-hee",
+            "lifespan": "1943-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "News Anchor",
+            "background": "Ri Chun-hee is the famous news anchor of KCTV. Known as the 'Pink Lady', she announces major events with dramatic flair.",
+            "keyDecisions": [
+                "Announcing the death of Kim Il Sung.",
+                "Announcing the death of Kim Jong Il.",
+                "Announcing nuclear tests.",
+                "Retiring (and returning)."
+            ],
+            "achievements": [
+                "Voice of North Korea.",
+                "Labor Hero.",
+                "Iconic style.",
+                "Propagandist."
+            ],
+            "challenges": [
+                "Age.",
+                "Pressure.",
+                "Emotion.",
+                "Staying in favor."
+            ],
+            "legacy": "Ri Chun-hee is the voice of the regime. Her tone defines the mood of the nation.",
+            "quotes": [
+                "Important announcement."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Voice.",
+            "culturalImpact": "She is instantly recognizable.",
+            "primarySources": [
+                "KCTV broadcasts.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a patriot.",
+                "Parodied globally."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hwang Jang-yop",
+            "nativeName": "Hwang Jang-yop",
+            "lifespan": "1923-2010",
+            "era": "Modern Period (20th-21st Century)",
+            "role": "Politician, Defector",
+            "background": "Hwang Jang-yop was the architect of the Juche ideology and a high-ranking official who defected to South Korea in 1997.",
+            "keyDecisions": [
+                "Developing Juche.",
+                "Tutoring Kim Jong Il.",
+                "Defecting in Beijing.",
+                "Criticizing the regime."
+            ],
+            "achievements": [
+                "Highest-ranking defector.",
+                "Philosopher.",
+                "Teacher.",
+                "Critic."
+            ],
+            "challenges": [
+                "Assassination attempts.",
+                "Guilt.",
+                "Isolation in the South.",
+                "Family left behind (executed)."
+            ],
+            "legacy": "Hwang is the traitor-hero. He exposed the rot of the system he built.",
+            "quotes": [
+                "I saw the truth."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Defector.",
+            "culturalImpact": "His defection was a shock.",
+            "primarySources": [
+                "Memoirs.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Vilified in the North.",
+                "Respected in the South."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Kim Jong-suk",
+            "nativeName": "Kim Jong-suk",
+            "lifespan": "1917-1949",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary",
+            "background": "Kim Jong-suk was the first wife of Kim Il Sung and the mother of Kim Jong Il. She is revered as the 'Mother of Korea' and an anti-Japanese guerrilla.",
+            "keyDecisions": [
+                "Fighting alongside Kim Il Sung.",
+                "Saving Kim Il Sung's life (legend).",
+                "Giving birth to the successor.",
+                "Dying young."
+            ],
+            "achievements": [
+                "Heroine of the Anti-Japanese War.",
+                "Mother of the Nation.",
+                "General.",
+                "Saint."
+            ],
+            "challenges": [
+                "Hardship of guerrilla life.",
+                "Childbirth in the wild.",
+                "Early death.",
+                "Myth-making."
+            ],
+            "legacy": "Kim Jong-suk is part of the 'Three Generals of Mt. Paektu'. She is the model woman.",
+            "quotes": [
+                "Protect the General."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Mother.",
+            "culturalImpact": "She is worshipped.",
+            "primarySources": [
+                "Biographies.",
+                "Statues."
+            ],
+            "modernInterpretations": [
+                "Revered as a goddess.",
+                "Her life is heavily mythologized."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Choi Eun-hee",
+            "nativeName": "Choi Eun-hee",
+            "lifespan": "1926-2018",
+            "era": "Modern Period (20th Century)",
+            "role": "Actress",
+            "background": "Choi Eun-hee was a famous South Korean actress who was kidnapped by Kim Jong Il to improve the North Korean film industry.",
+            "keyDecisions": [
+                "Being a star in the South.",
+                "Being kidnapped in Hong Kong.",
+                "Making films for Kim Jong Il (e.g., Pulgasari).",
+                "Escaping in Vienna."
+            ],
+            "achievements": [
+                "Star of Korean cinema.",
+                "Survivor.",
+                "Director.",
+                "Legend."
+            ],
+            "challenges": [
+                "Kidnapping.",
+                "Forced labor.",
+                "Fear.",
+                "Escape."
+            ],
+            "legacy": "Choi Eun-hee's life is stranger than fiction. She was the muse of a dictator.",
+            "quotes": [
+                "I was a bird in a cage."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Star.",
+            "culturalImpact": "Her story is famous.",
+            "primarySources": [
+                "Memoirs.",
+                "The Lovers and the Despot."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a victim and survivor.",
+                "Her films are cult classics."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Shin Sang-ok",
+            "nativeName": "Shin Sang-ok",
+            "lifespan": "1926-2006",
+            "era": "Modern Period (20th Century)",
+            "role": "Director",
+            "background": "Shin Sang-ok was a South Korean film director and the husband of Choi Eun-hee. He was also kidnapped by Kim Jong Il to make movies.",
+            "keyDecisions": [
+                "Searching for his wife.",
+                "Being kidnapped.",
+                "Directing 'Pulgasari'.",
+                "Escaping with Choi."
+            ],
+            "achievements": [
+                "Prince of Korean Cinema.",
+                "Director of Pulgasari.",
+                "Survivor.",
+                "Innovator."
+            ],
+            "challenges": [
+                "Prison camp.",
+                "Pleasing Kim Jong Il.",
+                "Escape.",
+                "Rebuilding life."
+            ],
+            "legacy": "Shin made the only North Korean monster movie. His kidnapping is a cold war thriller.",
+            "quotes": [
+                "Movies are my life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Director.",
+            "culturalImpact": "Pulgasari is a cult hit.",
+            "primarySources": [
+                "Memoirs.",
+                "Films."
+            ],
+            "modernInterpretations": [
+                "Viewed as a tragic artist.",
+                "His work in the North is unique."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Hong Myong-hui",
+            "nativeName": "Hong Myong-hui",
+            "lifespan": "1888-1968",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Hong Myong-hui was a writer and politician. He wrote the famous novel 'Im Kkokjong' and served as Vice Premier of North Korea.",
+            "keyDecisions": [
+                "Writing 'Im Kkokjong' (Robin Hood story).",
+                "Going to the North.",
+                "Serving the regime.",
+                "Protecting his family."
+            ],
+            "achievements": [
+                "Literary giant.",
+                "Vice Premier.",
+                "Nationalist.",
+                "Scholar."
+            ],
+            "challenges": [
+                "Division of Korea.",
+                "Censorship.",
+                "Politics.",
+                "Legacy."
+            ],
+            "legacy": "Hong is the bridge between North and South literature. His novel is a classic in both Koreas.",
+            "quotes": [
+                "The people are the roots."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Writer.",
+            "culturalImpact": "Im Kkokjong is a hero.",
+            "primarySources": [
+                "Im Kkokjong.",
+                "Essays."
+            ],
+            "modernInterpretations": [
+                "Revered as a master.",
+                "His choice to go North is debated."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Pak Pong-ju",
+            "nativeName": "Pak Pong-ju",
+            "lifespan": "1939-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Politician",
+            "background": "Pak Pong-ju was the Premier of North Korea. He is known as a technocrat who attempted economic reforms.",
+            "keyDecisions": [
+                "Implementing the July 1st reforms.",
+                "Serving as Premier twice.",
+                "Promoting market elements.",
+                "Surviving purges."
+            ],
+            "achievements": [
+                "Economic reformer.",
+                "Premier.",
+                "Survivor.",
+                "Technocrat."
+            ],
+            "challenges": [
+                "Hardliners.",
+                "Sanctions.",
+                "Failure of reforms.",
+                "Retirement."
+            ],
+            "legacy": "Pak is the face of North Korean economic reform. He tried to modernize the system from within.",
+            "quotes": [
+                "Economic management."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Reformer.",
+            "culturalImpact": "He represents the pragmatic wing.",
+            "primarySources": [
+                "State media.",
+                "Reports."
+            ],
+            "modernInterpretations": [
+                "Viewed as a capable administrator.",
+                "Limited by the system."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Ri Sol-ju",
+            "nativeName": "Ri Sol-ju",
+            "lifespan": "1989-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "First Lady",
+            "background": "Ri Sol-ju is the wife of Kim Jong Un. She is a former singer and has brought a touch of modern style to the regime.",
+            "keyDecisions": [
+                "Marrying Kim Jong Un.",
+                "Appearing in public (unusual for wives).",
+                "Accompanying Kim on summits.",
+                "Wearing Western fashion."
+            ],
+            "achievements": [
+                "Respected Comrade.",
+                "Style icon.",
+                "Singer.",
+                "Mother."
+            ],
+            "challenges": [
+                "Scrutiny.",
+                "Rumors.",
+                "Pressure.",
+                "Role."
+            ],
+            "legacy": "Ri Sol-ju humanized Kim Jong Un. She is the face of the 'modern' North Korea.",
+            "quotes": [
+                "My husband."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The First Lady.",
+            "culturalImpact": "She sets trends.",
+            "primarySources": [
+                "KCNA.",
+                "Photos."
+            ],
+            "modernInterpretations": [
+                "Viewed as a modern figure.",
+                "Her influence is unknown."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Jang Song-thaek",
+            "nativeName": "Jang Song-thaek",
+            "lifespan": "1946-2013",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Politician",
+            "background": "Jang Song-thaek was the uncle of Kim Jong Un and the second most powerful man in the country until his execution.",
+            "keyDecisions": [
+                "Mentoring Kim Jong Un.",
+                "Promoting economic ties with China.",
+                "Accumulating power.",
+                "Being executed for treason."
+            ],
+            "achievements": [
+                "Regent.",
+                "Power broker.",
+                "Reformer (allegedly).",
+                "Victim."
+            ],
+            "challenges": [
+                "Rivalry with Choe Ryong-hae.",
+                "Arrogance.",
+                "Kim Jong Un's insecurity.",
+                "Execution."
+            ],
+            "legacy": "Jang is the warning. His death showed that no one is safe.",
+            "quotes": [
+                "Despicable human scum (state media)."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Uncle.",
+            "culturalImpact": "His purge was a shock.",
+            "primarySources": [
+                "KCNA verdict.",
+                "News."
+            ],
+            "modernInterpretations": [
+                "Viewed as a victim of a power struggle.",
+                "Symbol of brutality."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Kim Yo-jong",
+            "nativeName": "Kim Yo-jong",
+            "lifespan": "1987-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Politician",
+            "background": "Kim Yo-jong is the sister of Kim Jong Un. She is a powerful figure in the propaganda department and acts as her brother's attack dog.",
+            "keyDecisions": [
+                "Attending the Pyeongchang Olympics.",
+                "Issuing harsh statements against the South/US.",
+                "Managing Kim's image.",
+                "Serving as de facto deputy."
+            ],
+            "achievements": [
+                "Powerful woman.",
+                "Propagandist.",
+                "Diplomat.",
+                "Sister."
+            ],
+            "challenges": [
+                "Sanctions.",
+                "Health rumors.",
+                "Succession speculation.",
+                "Role."
+            ],
+            "legacy": "Kim Yo-jong is the velvet glove and the iron fist. She is the second most famous North Korean.",
+            "quotes": [
+                "Human scum."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Sister.",
+            "culturalImpact": "She is feared and fascinated.",
+            "primarySources": [
+                "Statements.",
+                "KCNA."
+            ],
+            "modernInterpretations": [
+                "Viewed as a potential successor.",
+                "Her rhetoric is aggressive."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Han Sorya",
+            "nativeName": "Han Sorya",
+            "lifespan": "1900-1976",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer",
+            "background": "Han Sorya was a writer and the head of the Writers' Union. He was instrumental in building the personality cult of Kim Il Sung.",
+            "keyDecisions": [
+                "Writing 'Jackals'.",
+                "Praising Kim Il Sung.",
+                "Purging rivals.",
+                "Being purged himself."
+            ],
+            "achievements": [
+                "Architect of the Cult.",
+                "Literary boss.",
+                "Propagandist.",
+                "Victim."
+            ],
+            "challenges": [
+                "Political shifts.",
+                "Falling out of favor.",
+                "Exile.",
+                "Legacy."
+            ],
+            "legacy": "Han Sorya created the myth, but the myth ate him. His anti-American stories are still read.",
+            "quotes": [
+                "Jackals."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Propagandist.",
+            "culturalImpact": "He defined North Korean literature.",
+            "primarySources": [
+                "Jackals.",
+                "History."
+            ],
+            "modernInterpretations": [
+                "Viewed as a sycophant.",
+                "His influence is undeniable."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Kye Sun-hui",
+            "nativeName": "Kye Sun-hui",
+            "lifespan": "1979-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Kye Sun-hui is a judoka. She shocked the world by winning Olympic gold in Atlanta 1996 at age 16, defeating the favorite Ryoko Tani.",
+            "keyDecisions": [
+                "Competing in Atlanta.",
+                "Winning Gold.",
+                "Winning 3 world championships.",
+                "Becoming a coach."
+            ],
+            "achievements": [
+                "Olympic Champion.",
+                "Labor Hero.",
+                "Judo legend.",
+                "Underdog."
+            ],
+            "challenges": [
+                "Isolation.",
+                "Training conditions.",
+                "Pressure.",
+                "Injuries."
+            ],
+            "legacy": "Kye Sun-hui is the pride of North Korean sport. Her victory is a national legend.",
+            "quotes": [
+                "For the Leader."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "She is a hero.",
+            "primarySources": [
+                "Match records.",
+                "News."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a giant killer.",
+                "Her talent was immense."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Choe Ryong-hae",
+            "nativeName": "Choe Ryong-hae",
+            "lifespan": "1950-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Politician",
+            "background": "Choe Ryong-hae is a high-ranking official and the nominal Head of State. He is the son of a partisan hero and a survivor of purges.",
+            "keyDecisions": [
+                "Serving as political director of the army.",
+                "Surviving re-education.",
+                "Becoming head of the Presidium.",
+                "Supporting Kim Jong Un."
+            ],
+            "achievements": [
+                "Number 2 (often).",
+                "Survivor.",
+                "Partisan lineage.",
+                "Bureaucrat."
+            ],
+            "challenges": [
+                "Kim's temper.",
+                "Rivalry with others.",
+                "Health.",
+                "Staying alive."
+            ],
+            "legacy": "Choe is the ultimate survivor. He represents the continuity of the partisan elite.",
+            "quotes": [
+                "Loyalty."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Survivor.",
+            "culturalImpact": "He is a fixture of the elite.",
+            "primarySources": [
+                "KCNA.",
+                "State media."
+            ],
+            "modernInterpretations": [
+                "Viewed as a cunning operator.",
+                "Loyal servant."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Hyon Song-wol",
+            "nativeName": "Hyon Song-wol",
+            "lifespan": "1977-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Singer, Politician",
+            "background": "Hyon Song-wol is the leader of the Moranbong Band and a powerful figure in the party. Rumors of her execution were false.",
+            "keyDecisions": [
+                "Leading the Moranbong Band.",
+                "Singing 'Excellent Horse-Like Lady'.",
+                "Leading the delegation to Pyeongchang.",
+                "Joining the Central Committee."
+            ],
+            "achievements": [
+                "Pop star.",
+                "Politician.",
+                "Style icon.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Rumors of death.",
+                "Scandals.",
+                "Pressure.",
+                "Role."
+            ],
+            "legacy": "Hyon is the diva of the regime. She blends pop culture with propaganda.",
+            "quotes": [
+                "Excellent Horse-Like Lady."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Diva.",
+            "culturalImpact": "She is famous.",
+            "primarySources": [
+                "Songs.",
+                "Videos."
+            ],
+            "modernInterpretations": [
+                "Viewed as a powerful woman.",
+                "Her resurrection was a surprise."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "An Jung-geun",
+            "nativeName": "An Jung-geun",
+            "lifespan": "1879-1910",
+            "era": "Modern Period (20th Century)",
+            "role": "Activist",
+            "background": "An Jung-geun was a Korean independence activist who assassinated Ito Hirobumi. He is revered in both North and South Korea.",
+            "keyDecisions": [
+                "Assassinating Ito Hirobumi in Harbin.",
+                "Writing 'On Peace in the East'.",
+                "Accepting his execution.",
+                "Cutting his finger (alliance)."
+            ],
+            "achievements": [
+                "National Hero.",
+                "Martyr.",
+                "Patriot.",
+                "Pan-Asianist."
+            ],
+            "challenges": [
+                "Japanese imperialism.",
+                "Trial.",
+                "Execution.",
+                "Division of his country."
+            ],
+            "legacy": "An Jung-geun is the common hero. North Korea emphasizes his anti-imperialism.",
+            "quotes": [
+                "I died for my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Patriot.",
+            "culturalImpact": "He is a saint of nationalism.",
+            "primarySources": [
+                "Autobiography.",
+                "Trial records."
+            ],
+            "modernInterpretations": [
+                "Revered as a martyr.",
+                "His vision of peace is studied."
+            ]
+        }
+    ]
+}

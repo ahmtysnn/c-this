@@ -1,0 +1,761 @@
+{
+    "country": "Chad",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Hissène Habré",
+            "nativeName": "Hissène Habré",
+            "lifespan": "1942-2021",
+            "era": "Modern Period (20th Century)",
+            "role": "President, Dictator",
+            "background": "Hissène Habré was the President of Chad from 1982 to 1990. He was a US-backed dictator known as 'Africa's Pinochet' for his brutal torture chambers.",
+            "keyDecisions": [
+                "Seizing power in 1982.",
+                "Creating the DDS (secret police).",
+                "Fighting the Toyota War against Libya.",
+                "Being convicted of crimes against humanity."
+            ],
+            "achievements": [
+                "Defeated Gaddafi.",
+                "Centralized power.",
+                "Dictator.",
+                "Convict."
+            ],
+            "challenges": [
+                "Libyan invasion.",
+                "Rebellions.",
+                "Idriss Déby (who overthrew him).",
+                "Trial in Senegal."
+            ],
+            "legacy": "Habré is the face of terror. His conviction in Senegal was a landmark for African justice.",
+            "quotes": [
+                "I am innocent."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dictator.",
+            "culturalImpact": "His victims fought for decades for justice.",
+            "primarySources": [
+                "DDS files.",
+                "Trial verdict."
+            ],
+            "modernInterpretations": [
+                "Reviled as a monster.",
+                "His trial is a precedent."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Idriss Déby",
+            "nativeName": "Idriss Déby Itno",
+            "lifespan": "1952-2021",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "President",
+            "background": "Idriss Déby was the President of Chad for 30 years. A military man, he made Chad a key Western ally against terrorism but died on the front lines against rebels.",
+            "keyDecisions": [
+                "Overthrowing Habré (1990).",
+                "Intervening in Mali and Nigeria.",
+                "Abolishing term limits.",
+                "Leading troops in battle."
+            ],
+            "achievements": [
+                "Military leader.",
+                "Survivor (many coups).",
+                "Regional power broker.",
+                "Marshal."
+            ],
+            "challenges": [
+                "Rebels (FACT).",
+                "Poverty.",
+                "Oil management.",
+                "Death in battle."
+            ],
+            "legacy": "Déby was the warrior president. He lived and died by the gun.",
+            "quotes": [
+                "I am a soldier."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Marshal.",
+            "culturalImpact": "He held the country together by force.",
+            "primarySources": [
+                "Speeches.",
+                "Military reports."
+            ],
+            "modernInterpretations": [
+                "Respected for his military prowess.",
+                "Criticized for authoritarianism."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "François Tombalbaye",
+            "nativeName": "N'Garta Tombalbaye",
+            "lifespan": "1918-1975",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "François Tombalbaye was the first President of Chad. He became increasingly erratic, enforcing the 'Authenticité' program before being assassinated.",
+            "keyDecisions": [
+                "Leading Chad to independence.",
+                "Banning opposition parties.",
+                "Changing his name to N'Garta.",
+                "Forcing 'Yondo' initiation rites."
+            ],
+            "achievements": [
+                "Father of Independence.",
+                "Teacher.",
+                "President.",
+                "Nationalist."
+            ],
+            "challenges": [
+                "North-South divide.",
+                "FROLINAT rebellion.",
+                "Paranoia.",
+                "Assassination."
+            ],
+            "legacy": "Tombalbaye is the tragic father. His attempt to force culture led to his downfall.",
+            "quotes": [
+                "Chad first."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The First President.",
+            "culturalImpact": "His era was chaotic.",
+            "primarySources": [
+                "Speeches.",
+                "French archives."
+            ],
+            "modernInterpretations": [
+                "Viewed as a dictator.",
+                "His authenticity campaign is studied."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Rabih az-Zubayr",
+            "nativeName": "Rabih az-Zubayr ibn Fadl Allah",
+            "lifespan": "1842-1900",
+            "era": "Modern Period (19th Century)",
+            "role": "Warlord",
+            "background": "Rabih az-Zubayr was a Sudanese warlord who conquered the Bornu Empire and ruled the Lake Chad region. He was defeated by the French.",
+            "keyDecisions": [
+                "Leaving Sudan.",
+                "Conquering Bornu.",
+                "Building a slave army.",
+                "Fighting the French (Battle of Kousséri)."
+            ],
+            "achievements": [
+                "Empire builder.",
+                "Warlord.",
+                "Sultan.",
+                "Resister."
+            ],
+            "challenges": [
+                "French colonialism.",
+                "Local resistance.",
+                "Logistics.",
+                "Death."
+            ],
+            "legacy": "Rabih is the Napoleon of the Sahel. His defeat marked the start of French Chad.",
+            "quotes": [
+                "I will not surrender."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Warlord.",
+            "culturalImpact": "He is a legendary villain/hero.",
+            "primarySources": [
+                "French reports.",
+                "Oral history."
+            ],
+            "modernInterpretations": [
+                "Revered as a resistor.",
+                "Condemned as a slaver."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Kaltouma Nadjina",
+            "nativeName": "Kaltouma Nadjina",
+            "lifespan": "1976-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Kaltouma Nadjina is a sprinter. She is the most successful athlete in Chadian history, winning medals at the African Championships.",
+            "keyDecisions": [
+                "Training in Canada.",
+                "Winning Gold in 200m and 400m.",
+                "Competing in the Olympics.",
+                "Inspiring girls."
+            ],
+            "achievements": [
+                "African Champion.",
+                "Olympian.",
+                "Role model.",
+                "Queen of the Track."
+            ],
+            "challenges": [
+                "Lack of resources.",
+                "Civil war.",
+                "Isolation.",
+                "Funding."
+            ],
+            "legacy": "Kaltouma is the fastest woman in Chad. She put the flag on the podium.",
+            "quotes": [
+                "Run."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Champion.",
+            "culturalImpact": "She is a national hero.",
+            "primarySources": [
+                "Race results.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Her records still stand."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Mahamat-Saleh Haroun",
+            "nativeName": "Mahamat-Saleh Haroun",
+            "lifespan": "1961-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Director",
+            "background": "Mahamat-Saleh Haroun is a film director. He is the first Chadian director to win awards at Cannes, known for 'A Screaming Man'.",
+            "keyDecisions": [
+                "Fleeing to France (civil war).",
+                "Making 'Abouna'.",
+                "Winning the Jury Prize at Cannes.",
+                "Serving as Minister of Culture."
+            ],
+            "achievements": [
+                "Cannes winner.",
+                "Global director.",
+                "Minister.",
+                "Voice of Chad."
+            ],
+            "challenges": [
+                "Lack of cinemas in Chad.",
+                "War.",
+                "Funding.",
+                "Politics."
+            ],
+            "legacy": "Haroun is the eye of Chad. He shows the humanity behind the headlines.",
+            "quotes": [
+                "Cinema is a weapon."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Director.",
+            "culturalImpact": "He rebuilt the cinema culture.",
+            "primarySources": [
+                "Films.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His films are beautiful."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Félix Malloum",
+            "nativeName": "Félix Malloum",
+            "lifespan": "1932-2009",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Félix Malloum was a general and President. He took power after Tombalbaye's assassination but failed to stop the civil war.",
+            "keyDecisions": [
+                "Leading the junta.",
+                "Negotiating with Habré and Goukouni.",
+                "Resigning in 1979.",
+                "Living in exile."
+            ],
+            "achievements": [
+                "General.",
+                "President.",
+                "Survivor.",
+                "Patriot."
+            ],
+            "challenges": [
+                "Civil war.",
+                "FROLINAT.",
+                "Nigeria (peace talks).",
+                "Failure."
+            ],
+            "legacy": "Malloum tried to hold the center but failed. His resignation marked the collapse of the state.",
+            "quotes": [
+                "Peace."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The General.",
+            "culturalImpact": "He is remembered as a transitional figure.",
+            "primarySources": [
+                "Decrees.",
+                "News."
+            ],
+            "modernInterpretations": [
+                "Viewed as ineffective.",
+                "Respected for resigning peacefully."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Goukouni Oueddei",
+            "nativeName": "Goukouni Oueddei",
+            "lifespan": "1944-",
+            "era": "Modern Period (20th Century)",
+            "role": "President, Rebel",
+            "background": "Goukouni Oueddei is a Toubou leader and former President. He fought against Tombalbaye, Malloum, and Habré in the long civil war.",
+            "keyDecisions": [
+                "Leading FROLINAT.",
+                "Becoming President (GUNT).",
+                "Allying with Gaddafi.",
+                "Losing to Habré."
+            ],
+            "achievements": [
+                "Rebel leader.",
+                "President.",
+                "Survivor.",
+                "Toubou chief."
+            ],
+            "challenges": [
+                "Habré's ambition.",
+                "Libyan interference.",
+                "French intervention.",
+                "Exile."
+            ],
+            "legacy": "Goukouni is the eternal rebel. He represents the north.",
+            "quotes": [
+                "Reconciliation."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Rebel.",
+            "culturalImpact": "He is a key figure of the war.",
+            "primarySources": [
+                "Memoirs.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Respected as an elder statesman.",
+                "Criticized for Libyan ties."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Jacqueline Moudeina",
+            "nativeName": "Jacqueline Moudeina",
+            "lifespan": "1957-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Lawyer, Activist",
+            "background": "Jacqueline Moudeina is a human rights lawyer. She led the legal battle to bring Hissène Habré to justice, surviving a grenade attack.",
+            "keyDecisions": [
+                "Representing Habré's victims.",
+                "Surviving an assassination attempt (2001).",
+                "Fighting for 20 years.",
+                "Winning the case in Senegal."
+            ],
+            "achievements": [
+                "Right Livelihood Award.",
+                "Justice for victims.",
+                "Iron Lady of Law.",
+                "Hero."
+            ],
+            "challenges": [
+                "Shrapnel in her leg.",
+                "Threats.",
+                "Political pressure.",
+                "Time."
+            ],
+            "legacy": "Moudeina is the hunter of dictators. She proved that justice is possible in Africa.",
+            "quotes": [
+                "Justice must be done."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Lawyer.",
+            "culturalImpact": "She is a global icon of justice.",
+            "primarySources": [
+                "Court records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a heroine.",
+                "Her courage is legendary."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Lol Mahamat Choua",
+            "nativeName": "Lol Mahamat Choua",
+            "lifespan": "1939-2019",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Lol Mahamat Choua was a politician who served as President for four months in 1979. He was a moderate voice in a time of war.",
+            "keyDecisions": [
+                "Leading the MPLT.",
+                "Serving as interim President.",
+                "Participating in peace talks.",
+                "Leading the RDP party."
+            ],
+            "achievements": [
+                "President.",
+                "Democrat.",
+                "Mayor of N'Djamena.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Warlords.",
+                "Instability.",
+                "House arrest.",
+                "Health."
+            ],
+            "legacy": "Lol is the brief president. He tried to bring democracy.",
+            "quotes": [
+                "Dialogue."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Moderate.",
+            "culturalImpact": "He is respected.",
+            "primarySources": [
+                "Speeches.",
+                "News."
+            ],
+            "modernInterpretations": [
+                "Viewed as a decent man.",
+                "Overshadowed by generals."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Nimrod",
+            "nativeName": "Nimrod Bena Djangrang",
+            "lifespan": "1959-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Writer, Poet",
+            "background": "Nimrod is a poet and novelist. He writes about the beauty and tragedy of Chad, living in exile in France.",
+            "keyDecisions": [
+                "Leaving Chad.",
+                "Writing 'The Gold of the Rivers'.",
+                "Teaching philosophy.",
+                "Winning the Apollinaire Prize."
+            ],
+            "achievements": [
+                "Literary prize winner.",
+                "Poet.",
+                "Philosopher.",
+                "Voice."
+            ],
+            "challenges": [
+                "Exile.",
+                "Memory.",
+                "Language.",
+                "War."
+            ],
+            "legacy": "Nimrod is the poet of the Chari River. His words are water in the desert.",
+            "quotes": [
+                "I am the river."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "He is the leading literary figure.",
+            "primarySources": [
+                "Poems.",
+                "Novels."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "His work is lyrical."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Mounira Mitchala",
+            "nativeName": "Mounira Mitchala",
+            "lifespan": "1979-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician",
+            "background": "Mounira Mitchala is a singer known as the 'Sweet Panther'. She won the RFI Discoveries Award and sings for peace.",
+            "keyDecisions": [
+                "Singing in Chadian Arabic.",
+                "Winning the RFI prize.",
+                "Touring Europe.",
+                "Advocating for women."
+            ],
+            "achievements": [
+                "The Sweet Panther.",
+                "Award winner.",
+                "Artist.",
+                "Ambassador."
+            ],
+            "challenges": [
+                "Conservatism.",
+                "Industry.",
+                "War.",
+                "Funding."
+            ],
+            "legacy": "Mounira is the voice of N'Djamena. She brings joy.",
+            "quotes": [
+                "Talou Lena."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Singer.",
+            "culturalImpact": "She is a star.",
+            "primarySources": [
+                "Albums.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a talent.",
+                "Her energy is infectious."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Succès Masra",
+            "nativeName": "Succès Masra",
+            "lifespan": "1983-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Politician",
+            "background": "Succès Masra is a young opposition leader and former Prime Minister. He represents the new generation demanding change.",
+            "keyDecisions": [
+                "Founding Les Transformateurs.",
+                "Protesting against the junta.",
+                "Going into exile (2022).",
+                "Returning and becoming PM (2024)."
+            ],
+            "achievements": [
+                "Opposition leader.",
+                "Economist.",
+                "Prime Minister.",
+                "Hope."
+            ],
+            "challenges": [
+                "Repression.",
+                "Massacre of Oct 20.",
+                "Compromise with Déby's son.",
+                "Politics."
+            ],
+            "legacy": "Masra is the transformer. His path is still being written.",
+            "quotes": [
+                "A new Chad."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Transformer.",
+            "culturalImpact": "He inspires youth.",
+            "primarySources": [
+                "Speeches.",
+                "Social media."
+            ],
+            "modernInterpretations": [
+                "Viewed as a hope.",
+                "Criticized for joining the government."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Joseph Brahim Seid",
+            "nativeName": "Joseph Brahim Seid",
+            "lifespan": "1927-1980",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Politician",
+            "background": "Joseph Brahim Seid was a writer and Minister of Justice. He wrote tales for children and preserved Chadian folklore.",
+            "keyDecisions": [
+                "Serving as Minister.",
+                "Writing 'Au Tchad sous les étoiles'.",
+                "Promoting culture.",
+                "Staying during the war."
+            ],
+            "achievements": [
+                "Writer.",
+                "Minister.",
+                "Storyteller.",
+                "Patriot."
+            ],
+            "challenges": [
+                "Political instability.",
+                "Health.",
+                "War.",
+                "Obscurity."
+            ],
+            "legacy": "Seid told the stories of the stars. He is a classic author.",
+            "quotes": [
+                "Under the stars."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Storyteller.",
+            "culturalImpact": "His books are in schools.",
+            "primarySources": [
+                "Au Tchad sous les étoiles.",
+                "Tales."
+            ],
+            "modernInterpretations": [
+                "Revered as a pioneer.",
+                "His work is gentle."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Zara Mahamat Yacoub",
+            "nativeName": "Zara Mahamat Yacoub",
+            "lifespan": "1960s-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Director",
+            "background": "Zara Mahamat Yacoub is a filmmaker and journalist. She makes documentaries about women's rights and social taboos.",
+            "keyDecisions": [
+                "Filming 'Dilemme au féminin'.",
+                "Addressing FGM.",
+                "Running a radio station.",
+                "Fighting censorship."
+            ],
+            "achievements": [
+                "Documentarian.",
+                "Feminist.",
+                "Journalist.",
+                "Pioneer."
+            ],
+            "challenges": [
+                "Religious backlash.",
+                "Censorship.",
+                "Threats.",
+                "Funding."
+            ],
+            "legacy": "Zara is the camera of truth. She shines a light on the dark corners.",
+            "quotes": [
+                "Women must speak."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Journalist.",
+            "culturalImpact": "She changed the conversation.",
+            "primarySources": [
+                "Films.",
+                "Reports."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a brave woman.",
+                "Her work is vital."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Hassan Djamous",
+            "nativeName": "Hassan Djamous",
+            "lifespan": "1950s-1989",
+            "era": "Modern Period (20th Century)",
+            "role": "General",
+            "background": "Hassan Djamous was the brilliant commander who led the Chadian army to victory against Libya in the Toyota War. He was killed by Habré.",
+            "keyDecisions": [
+                "Devising the Toyota tactics.",
+                "Destroying the Libyan airbase.",
+                "Plotting against Habré.",
+                "Dying in battle (or executed)."
+            ],
+            "achievements": [
+                "Hero of the Toyota War.",
+                "Strategist.",
+                "General.",
+                "Martyr."
+            ],
+            "challenges": [
+                "Libyan tanks.",
+                "Habré's paranoia.",
+                "Betrayal.",
+                "Death."
+            ],
+            "legacy": "Djamous is the hero of the war. The airport is named after him.",
+            "quotes": [
+                "Speed."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Strategist.",
+            "culturalImpact": "He is a military legend.",
+            "primarySources": [
+                "Military history.",
+                "Testimonies."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His death was a crime."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Rose Lokissim",
+            "nativeName": "Rose Lokissim",
+            "lifespan": "1953-1986",
+            "era": "Modern Period (20th Century)",
+            "role": "Soldier, Activist",
+            "background": "Rose Lokissim was a soldier who opposed Habré. She was imprisoned in the 'Plain of the Dead' and documented the torture before being executed.",
+            "keyDecisions": [
+                "Joining the opposition.",
+                "Smuggling notes out of prison.",
+                "Helping other prisoners.",
+                "Facing the firing squad."
+            ],
+            "achievements": [
+                "Martyr.",
+                "Witness.",
+                "Soldier.",
+                "Heroine."
+            ],
+            "challenges": [
+                "Torture.",
+                "DDS.",
+                "Death.",
+                "Silence."
+            ],
+            "legacy": "Rose is the flower of resistance. 'Even if I die, history will talk about me.'",
+            "quotes": [
+                "History will talk about me."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Witness.",
+            "culturalImpact": "She is the subject of a documentary.",
+            "primarySources": [
+                "Prison notes.",
+                "Talking about Rose (Film)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a saint.",
+                "Her courage is humbling."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Mahamat Déby",
+            "nativeName": "Mahamat Idriss Déby Itno (Kaka)",
+            "lifespan": "1984-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "President",
+            "background": "Mahamat Déby is the current President of Chad. He took power after his father's death and won the 2024 election.",
+            "keyDecisions": [
+                "Leading the TMC.",
+                "Fighting rebels.",
+                "Organizing the dialogue.",
+                "Running for president."
+            ],
+            "achievements": [
+                "President.",
+                "General.",
+                "Heir.",
+                "Leader."
+            ],
+            "challenges": [
+                "Succession crisis.",
+                "Opposition protests.",
+                "Economy.",
+                "Legacy of his father."
+            ],
+            "legacy": "Kaka is the son. He is trying to legitimize his rule.",
+            "quotes": [
+                "Continuity."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Heir.",
+            "culturalImpact": "He represents the status quo.",
+            "primarySources": [
+                "Speeches.",
+                "Election results."
+            ],
+            "modernInterpretations": [
+                "Viewed as a continuation.",
+                "The future is uncertain."
+            ]
+        }
+    ]
+}

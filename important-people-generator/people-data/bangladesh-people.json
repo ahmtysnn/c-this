@@ -1,0 +1,796 @@
+{
+    "country": "Bangladesh",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Sheikh Mujibur Rahman",
+            "nativeName": "Sheikh Mujibur Rahman (Bangabandhu)",
+            "lifespan": "1920-1975",
+            "era": "Modern Period (20th Century)",
+            "role": "President, Prime Minister, Founding Father",
+            "background": "Sheikh Mujibur Rahman, known as Bangabandhu (Friend of Bengal), was the founding father of Bangladesh. He led the Awami League and the independence movement against Pakistan. He was assassinated in a coup in 1975.",
+            "keyDecisions": [
+                "Presenting the Six Point Movement demands.",
+                "Delivering the historic 7th March Speech.",
+                "Declaring the independence of Bangladesh.",
+                "Leading the country as its first President and later Prime Minister."
+            ],
+            "achievements": [
+                "Father of the Nation.",
+                "Led Bangladesh to independence.",
+                "Joliot-Curie Medal of Peace.",
+                "Established the constitution of Bangladesh."
+            ],
+            "challenges": [
+                "Imprisonment by the Pakistani government (Agartala Conspiracy Case).",
+                "The 1971 Liberation War.",
+                "Rebuilding a war-torn nation.",
+                "Famine of 1974."
+            ],
+            "legacy": "Bangabandhu is the soul of Bangladesh. His daughter, Sheikh Hasina, is the current Prime Minister. His speech is a UNESCO Memory of the World.",
+            "quotes": [
+                "The struggle this time is the struggle for our emancipation. The struggle this time is the struggle for independence.",
+                "My greatest strength is the love for my people, my greatest weakness is that I love them too much."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Founding Father of Bangladesh.",
+            "culturalImpact": "His image is ubiquitous in Bangladesh. He is the symbol of Bengali nationalism.",
+            "primarySources": [
+                "The Unfinished Memoirs.",
+                "Prison Diaries.",
+                "7th March Speech."
+            ],
+            "modernInterpretations": [
+                "Revered as a martyr and hero.",
+                "His assassination is the darkest chapter in Bangladesh's history."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Rabindranath Tagore",
+            "nativeName": "Rabindranath Tagore",
+            "lifespan": "1861-1941",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Poet, Philosopher",
+            "background": "Rabindranath Tagore was a Bengali polymath who reshaped Bengali literature and music. He was the first non-European to win the Nobel Prize in Literature. He wrote the national anthems of both Bangladesh and India.",
+            "keyDecisions": [
+                "Writing 'Amar Sonar Bangla' (My Golden Bengal).",
+                "Renouncing his knighthood in protest of the Jallianwala Bagh massacre.",
+                "Founding Visva-Bharati University.",
+                "Modernizing Bengali art and literature."
+            ],
+            "achievements": [
+                "Nobel Prize in Literature (1913).",
+                "Wrote the national anthem of Bangladesh.",
+                "Author of Gitanjali.",
+                "Gurudev (The Teacher)."
+            ],
+            "challenges": [
+                "Personal tragedies (loss of wife and children).",
+                "Criticism from traditionalists.",
+                "Political disagreements with Gandhi.",
+                "The partition of Bengal."
+            ],
+            "legacy": "Tagore is the cultural icon of Bengal. His songs (Rabindra Sangeet) are the soul of Bengali culture.",
+            "quotes": [
+                "Where the mind is without fear and the head is held high.",
+                "You can't cross the sea merely by standing and staring at the water."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Cultural Icon and Nobel Laureate.",
+            "culturalImpact": "His influence on Bengali culture is immeasurable. He is celebrated in both Bangladesh and West Bengal.",
+            "primarySources": [
+                "Gitanjali.",
+                "Gora.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a sage and visionary.",
+                "His humanism is seen as a guiding light."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Kazi Nazrul Islam",
+            "nativeName": "Kazi Nazrul Islam",
+            "lifespan": "1899-1976",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet, Musician",
+            "background": "Kazi Nazrul Islam is the National Poet of Bangladesh. Known as the 'Bidrohi Kobi' (Rebel Poet), his poetry and music espoused spiritual rebellion against fascism and oppression. He suffered from a neurodegenerative disease in later life.",
+            "keyDecisions": [
+                "Writing the poem 'Bidrohi' (The Rebel).",
+                "Advocating for political and social justice.",
+                "Composing thousands of songs (Nazrul Geeti).",
+                "Moving to Bangladesh after independence."
+            ],
+            "achievements": [
+                "National Poet of Bangladesh.",
+                "Revolutionized Bengali music.",
+                "Voice against British colonialism.",
+                "Padma Bhushan."
+            ],
+            "challenges": [
+                "Poverty and hardship.",
+                "Imprisonment by the British.",
+                "Loss of speech and memory due to illness (Pick's disease).",
+                "Religious orthodoxy."
+            ],
+            "legacy": "Nazrul is the voice of the oppressed. His songs are an integral part of Bengali identity. He bridged Hindu and Muslim cultures.",
+            "quotes": [
+                "I am the unutterable grief, I am the trembling first touch of the virgin.",
+                "Even if I am born in a poor house, I am not poor."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "National Poet (Rebel Poet).",
+            "culturalImpact": "His marching song 'Chal Chal Chal' is the national marching song. He is a symbol of youth and rebellion.",
+            "primarySources": [
+                "Bidrohi.",
+                "Agnibina.",
+                "Dolan Champa."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a secular and revolutionary figure.",
+                "His work is timeless in its call for equality."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Muhammad Yunus",
+            "nativeName": "Muhammad Yunus",
+            "lifespan": "1940-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Economist, Social Entrepreneur",
+            "background": "Dr. Muhammad Yunus is a social entrepreneur, banker, and economist who founded the Grameen Bank. He was awarded the Nobel Peace Prize for pioneering the concepts of microcredit and microfinance.",
+            "keyDecisions": [
+                "Founding Grameen Bank.",
+                "Pioneering microcredit for the poor.",
+                "Advocating for social business.",
+                "Serving as Chief Advisor of the interim government (2024)."
+            ],
+            "achievements": [
+                "Nobel Peace Prize (2006).",
+                "Presidential Medal of Freedom.",
+                "Congressional Gold Medal.",
+                "Lifted millions out of poverty."
+            ],
+            "challenges": [
+                "Conflict with the Sheikh Hasina government.",
+                "Legal battles and removal from Grameen Bank.",
+                "Criticism of high interest rates in microfinance.",
+                "Political turmoil in Bangladesh."
+            ],
+            "legacy": "Yunus is the 'Banker to the Poor'. He proved that the poor are creditworthy. He is a global icon of social change.",
+            "quotes": [
+                "Poverty is not created by the poor people. It is created by the system we have built.",
+                "Credit is a human right."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Nobel Peace Prize Laureate.",
+            "culturalImpact": "He put Bangladesh on the global map for innovation. Grameen is a household name.",
+            "primarySources": [
+                "Banker to the Poor.",
+                "Creating a World Without Poverty.",
+                "Speeches."
+            ],
+            "modernInterpretations": [
+                "Respected globally.",
+                "His recent political role is a new chapter in his legacy."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Begum Rokeya",
+            "nativeName": "Rokeya Sakhawat Hossain",
+            "lifespan": "1880-1932",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Writer, Activist",
+            "background": "Begum Rokeya was a Bengali feminist thinker, writer, and educator. She is widely regarded as the pioneer of women's liberation in South Asia. She wrote 'Sultana's Dream', a feminist science fiction story.",
+            "keyDecisions": [
+                "Establishing the Sakhawat Memorial Girls' School.",
+                "Writing 'Sultana's Dream'.",
+                "Founding the Anjuman-e-Khawateen-e-Islam (Islamic Women's Association).",
+                "Advocating for women's education."
+            ],
+            "achievements": [
+                "Pioneer of Bengali feminism.",
+                "Established the first school for Muslim girls in Kolkata.",
+                "Wrote one of the earliest examples of feminist science fiction.",
+                "Rokeya Day is celebrated in her honor."
+            ],
+            "challenges": [
+                "Social conservatism and purdah system.",
+                "Opposition from religious leaders.",
+                "Lack of funding for her school.",
+                "Widowhood at a young age."
+            ],
+            "legacy": "Begum Rokeya is the mother of Bengali feminism. Her work paved the way for women's education and rights in Bangladesh.",
+            "quotes": [
+                "We constitute one half of the society, and if we are left behind, how can the society progress?",
+                "The connection between women and men is that of the body and the soul."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Pioneer Feminist.",
+            "culturalImpact": "Dhaka University has a hall named after her. She is a role model for women.",
+            "primarySources": [
+                "Sultana's Dream.",
+                "Padmarag.",
+                "Motichur."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "Sultana's Dream is studied globally as early feminist sci-fi."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Ziaur Rahman",
+            "nativeName": "Ziaur Rahman (Zia)",
+            "lifespan": "1936-1981",
+            "era": "Modern Period (20th Century)",
+            "role": "President, General",
+            "background": "Ziaur Rahman was a military officer and politician who served as the President of Bangladesh. He read the declaration of independence on behalf of Sheikh Mujibur Rahman in 1971. He founded the Bangladesh Nationalist Party (BNP).",
+            "keyDecisions": [
+                "Reading the declaration of independence from Kalurghat radio station.",
+                "Founding the BNP.",
+                "Introducing multi-party democracy.",
+                "Promoting Bangladeshi nationalism."
+            ],
+            "achievements": [
+                "Sector Commander during the Liberation War.",
+                "Bir Uttom (second highest military award).",
+                "Founded SAARC (South Asian Association for Regional Cooperation).",
+                "Stabilized the country after 1975."
+            ],
+            "challenges": [
+                "Political instability and coups.",
+                "Balancing relations with India and Pakistan.",
+                "Criticism for rehabilitating anti-liberation forces.",
+                "Assassination in 1981."
+            ],
+            "legacy": "Zia is a polarizing but pivotal figure. His party (BNP) is one of the two major political forces. His widow, Khaleda Zia, served as Prime Minister.",
+            "quotes": [
+                "I, Major Zia, do hereby declare independence of Bangladesh.",
+                "We shall make Bangladesh a self-reliant nation."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "President and BNP Founder.",
+            "culturalImpact": "He introduced the concept of 'Bangladeshi nationalism' distinct from 'Bengali nationalism'.",
+            "primarySources": [
+                "Speeches.",
+                "Government records.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered by BNP supporters as a hero.",
+                "Criticized by Awami League supporters for his post-1975 actions."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Jagadish Chandra Bose",
+            "nativeName": "Sir Jagadish Chandra Bose",
+            "lifespan": "1858-1937",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Scientist, Polymath",
+            "background": "Sir J.C. Bose was a physicist, biologist, and archaeologist. He pioneered the investigation of radio and microwave optics and made significant contributions to plant science. He was born in Mymensingh, Bangladesh.",
+            "keyDecisions": [
+                "Demonstrating wireless communication (millimeter waves).",
+                "Inventing the crescograph to measure plant growth.",
+                "Refusing to patent his inventions.",
+                "Founding the Bose Institute."
+            ],
+            "achievements": [
+                "Father of Radio Science.",
+                "Proved that plants have life and respond to stimuli.",
+                "Fellow of the Royal Society.",
+                "Crater on the moon named after him."
+            ],
+            "challenges": [
+                "Racism in the scientific community.",
+                "Lack of funding and facilities.",
+                "Marconi receiving credit for radio (initially).",
+                "Bridging physics and biology."
+            ],
+            "legacy": "Bose is a giant of science. IEEE named him one of the fathers of radio science. He proved that science knows no borders.",
+            "quotes": [
+                "The true laboratory is the mind, where behind illusions we uncover the laws of truth.",
+                "Knowledge is not for oneself, but for others."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Pioneer Scientist.",
+            "culturalImpact": "He is a source of immense pride for Bengalis. He showed that Indian scientists could compete with the West.",
+            "primarySources": [
+                "Response in the Living and Non-Living.",
+                "Scientific papers.",
+                "Patents (or lack thereof)."
+            ],
+            "modernInterpretations": [
+                "Recognized as a visionary ahead of his time.",
+                "His work on plant neurobiology is seeing renewed interest."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Fazlul Huq",
+            "nativeName": "Abul Kasem Fazlul Huq (Sher-e-Bangla)",
+            "lifespan": "1873-1962",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician, Lawyer",
+            "background": "A.K. Fazlul Huq, known as Sher-e-Bangla (Tiger of Bengal), was a prominent politician who served as the Prime Minister of Bengal. He presented the Lahore Resolution in 1940.",
+            "keyDecisions": [
+                "Presenting the Lahore Resolution.",
+                "Forming the Krishak Praja Party (Peasants' Party).",
+                "Serving as Mayor of Calcutta.",
+                "Advocating for the rights of farmers."
+            ],
+            "achievements": [
+                "Tiger of Bengal.",
+                "Prime Minister of Bengal.",
+                "Established the Debt Settlement Board to help farmers.",
+                "Key figure in the creation of Pakistan (initially)."
+            ],
+            "challenges": [
+                "Political rivalry with Jinnah and Suhrawardy.",
+                "The Bengal Famine of 1943.",
+                "The partition of Bengal.",
+                "Changing political alliances."
+            ],
+            "legacy": "Huq is the champion of the peasants. He was a man of the people. Dhaka University's Sher-e-Bangla Hall is named after him.",
+            "quotes": [
+                "I am the living history of Bengal.",
+                "The peasants of Bengal are the backbone of the nation."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Sher-e-Bangla (Tiger of Bengal).",
+            "culturalImpact": "He is remembered for his fiery oratory and love for the common man.",
+            "primarySources": [
+                "Speeches.",
+                "Lahore Resolution.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a populist leader.",
+                "His role in the partition is historically significant."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Maulana Bhashani",
+            "nativeName": "Abdul Hamid Khan Bhashani",
+            "lifespan": "1880-1976",
+            "era": "Modern Period (20th Century)",
+            "role": "Politician, Religious Leader",
+            "background": "Maulana Bhashani, known as the 'Red Maulana', was a grassroots politician and Islamic scholar who championed the cause of the poor and oppressed. He was a mentor to Sheikh Mujib and a key figure in the independence movement.",
+            "keyDecisions": [
+                "Founding the Awami Muslim League (later Awami League).",
+                "Leading the Farakka Long March.",
+                "Boycotting the 1970 elections.",
+                "Advocating for Islamic Socialism."
+            ],
+            "achievements": [
+                "Majlum Jananeta (Leader of the Oppressed).",
+                "Founded the National Awami Party (NAP).",
+                "Voice of the peasantry.",
+                "Lifelong activist."
+            ],
+            "challenges": [
+                "Political marginalization.",
+                "Ideological differences with other leaders.",
+                "Living a simple, ascetic life.",
+                "The complexity of mixing religion and socialism."
+            ],
+            "legacy": "Bhashani is the conscience of the left. He remained a critic of power until his death. He is a symbol of anti-imperialism.",
+            "quotes": [
+                "Assalamu Alaikum (Peace be upon you) is the best slogan.",
+                "Khamos! (Silence!)"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Leader of the Oppressed.",
+            "culturalImpact": "He is a hero to the rural poor. His legacy is claimed by both leftists and Islamists.",
+            "primarySources": [
+                "Speeches.",
+                "Biographies.",
+                "Newspaper archives."
+            ],
+            "modernInterpretations": [
+                "Respected for his integrity and simplicity.",
+                "His political strategy is sometimes seen as erratic."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Huseyn Shaheed Suhrawardy",
+            "nativeName": "Huseyn Shaheed Suhrawardy",
+            "lifespan": "1892-1963",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister, Lawyer",
+            "background": "Huseyn Shaheed Suhrawardy was a Bengali politician and lawyer who served as the Prime Minister of Pakistan. He was a mentor to Sheikh Mujib and a key figure in the Awami League. He advocated for a United Bengal before partition.",
+            "keyDecisions": [
+                "Founding the Awami League.",
+                "Advocating for the United Bengal proposal.",
+                "Serving as Prime Minister of Pakistan.",
+                "Defending political prisoners."
+            ],
+            "achievements": [
+                "Champion of democracy.",
+                "Mentor to the Founding Father.",
+                "Legal luminary.",
+                "Architect of the 1956 Constitution (partially)."
+            ],
+            "challenges": [
+                "The partition of Bengal.",
+                "Conflict with the military establishment.",
+                "Health issues.",
+                "Being barred from politics by Ayub Khan."
+            ],
+            "legacy": "Suhrawardy is the father of democracy in Bangladesh. His political acumen was legendary. Suhrawardy Udyan is named after him.",
+            "quotes": [
+                "Democracy is the only way.",
+                "Justice delayed is justice denied."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Champion of Democracy.",
+            "culturalImpact": "He is remembered as a brilliant strategist and orator.",
+            "primarySources": [
+                "Memoirs.",
+                "Speeches.",
+                "Legal records."
+            ],
+            "modernInterpretations": [
+                "Revered as a democratic icon.",
+                "His role in the Calcutta Killings is a subject of historical debate."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Zainul Abedin",
+            "nativeName": "Zainul Abedin",
+            "lifespan": "1914-1976",
+            "era": "Modern Period (20th Century)",
+            "role": "Artist",
+            "background": "Zainul Abedin, known as 'Shilpacharya' (Great Teacher of the Arts), was a painter who founded the modern art movement in Bangladesh. His sketches of the Bengal Famine of 1943 are world-famous.",
+            "keyDecisions": [
+                "Documenting the Bengal Famine through his sketches.",
+                "Founding the Institute of Fine Arts (Charukala).",
+                "Collecting and preserving folk art.",
+                "Promoting Bengali modernism."
+            ],
+            "achievements": [
+                "Shilpacharya.",
+                "Founded the Faculty of Fine Arts at Dhaka University.",
+                "National Professor.",
+                "Brought global attention to the famine."
+            ],
+            "challenges": [
+                "Poverty and lack of art supplies (used charcoal and wrapping paper).",
+                "Establishing an art school in a conservative society.",
+                "Preserving folk traditions.",
+                "Health issues."
+            ],
+            "legacy": "Zainul is the father of Bangladeshi art. His famine sketches are iconic. He proved that art can be a tool for social commentary.",
+            "quotes": [
+                "Art is not for the elite, it is for the people.",
+                "I want to draw the struggle of man."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Shilpacharya (Master of Art).",
+            "culturalImpact": "The Sonargaon Folk Art Museum is his legacy. He inspired generations of artists.",
+            "primarySources": [
+                "Famine Sketches.",
+                "Paintings (Sangram, Monpura).",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a national treasure.",
+                "His work is seen as the visual conscience of the nation."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Lalon Shah",
+            "nativeName": "Lalon Fakir",
+            "lifespan": "1772-1890",
+            "era": "Modern Period (18th-19th Century)",
+            "role": "Philosopher, Baul Saint",
+            "background": "Lalon Shah was a Baul saint, mystic, songwriter, and social reformer. His philosophy rejected caste and religious divisions, focusing on humanism. He composed thousands of songs that form the core of Baul music.",
+            "keyDecisions": [
+                "Rejecting organized religion and caste.",
+                "Establishing the Akhra at Cheuria.",
+                "Composing songs about the 'Man of the Heart' (Moner Manush).",
+                "Teaching universal love."
+            ],
+            "achievements": [
+                "King of Bauls.",
+                "Influenced Tagore and Nazrul.",
+                "UNESCO Masterpiece of the Oral and Intangible Heritage of Humanity (Baul songs).",
+                "Icon of secularism."
+            ],
+            "challenges": [
+                "Persecution by religious orthodoxies.",
+                "Social ostracization.",
+                "Smallpox (which led to his loss of one eye and abandonment).",
+                "Preserving his oral tradition."
+            ],
+            "legacy": "Lalon is the spiritual soul of Bengal. His songs are sung by millions. He is a symbol of religious harmony.",
+            "quotes": [
+                "If you circumcise him, he becomes a Muslim; what is the rule for women?",
+                "Everyone asks, 'What is Lalon's caste?' Lalon says, 'I have never seen the shape of caste with my eyes.'"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Baul Saint and Philosopher.",
+            "culturalImpact": "Lalon Geeti is a genre of its own. He is the patron saint of Bengali folk music.",
+            "primarySources": [
+                "Songs (Khachar Bhitor Ochin Pakhi).",
+                "Oral tradition.",
+                "Research by Tagore."
+            ],
+            "modernInterpretations": [
+                "Revered as a mystic and humanist.",
+                "His philosophy is increasingly relevant in a divided world."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Surya Sen",
+            "nativeName": "Surya Sen (Master Da)",
+            "lifespan": "1894-1934",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary",
+            "background": "Surya Sen, known as Master Da, was a revolutionary who led the Chittagong Armoury Raid in 1930 against British rule. He was a school teacher who inspired students to join the freedom struggle.",
+            "keyDecisions": [
+                "Planning and leading the Chittagong Armoury Raid.",
+                "Declaring a Provisional Revolutionary Government.",
+                "Fighting a guerilla war in the Jalalabad hills.",
+                "Refusing to surrender."
+            ],
+            "achievements": [
+                "Master Da.",
+                "Shook the foundation of British rule in Bengal.",
+                "Inspired a generation of revolutionaries.",
+                "Martyr for independence."
+            ],
+            "challenges": [
+                "Fighting a superior military force.",
+                "Betrayal by an insider.",
+                "Torture and execution by hanging.",
+                "Lack of resources."
+            ],
+            "legacy": "Surya Sen is a hero of the independence movement. His bravery is legendary. Chittagong is known as the land of heroes because of him.",
+            "quotes": [
+                "Death is knocking at my door. My mind is flying away towards eternity.",
+                "Dream a golden dream."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Revolutionary Leader.",
+            "culturalImpact": "Subject of the movie 'Chittagong'. A symbol of sacrifice.",
+            "primarySources": [
+                "Police records.",
+                "Memoirs of associates (Pritilata Waddedar).",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a martyr.",
+                "His strategic brilliance is studied."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Pritilata Waddedar",
+            "nativeName": "Pritilata Waddedar",
+            "lifespan": "1911-1932",
+            "era": "Modern Period (20th Century)",
+            "role": "Revolutionary",
+            "background": "Pritilata Waddedar was a Bengali revolutionary who worked with Surya Sen. She led an attack on the Pahartali European Club, which had a sign saying 'Dogs and Indians not allowed'. She committed suicide to avoid arrest.",
+            "keyDecisions": [
+                "Joining Surya Sen's revolutionary group.",
+                "Leading the attack on the Pahartali European Club.",
+                "Consuming cyanide to avoid capture.",
+                "Breaking gender stereotypes."
+            ],
+            "achievements": [
+                "First woman martyr of Bengal's freedom struggle.",
+                "Graduated with distinction from Bethune College.",
+                "Symbol of female courage.",
+                "Inspired women to join the movement."
+            ],
+            "challenges": [
+                "Gender discrimination.",
+                "Living underground.",
+                "The danger of the mission.",
+                "Sacrificing her life at a young age (21)."
+            ],
+            "legacy": "Pritilata is an icon of courage. She proved that women could lead in combat. Her sacrifice is remembered every year.",
+            "quotes": [
+                "I am a woman, and I have to fight for my motherland.",
+                "If I can die for my country, why can't you?"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Revolutionary Martyr.",
+            "culturalImpact": "She is a role model for Bengali women. Places are named after her.",
+            "primarySources": [
+                "Letters.",
+                "Police reports.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a feminist icon and patriot.",
+                "Her story is a staple of history textbooks."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Satyajit Ray",
+            "nativeName": "Satyajit Ray",
+            "lifespan": "1921-1992",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Filmmaker, Writer",
+            "background": "Satyajit Ray was a filmmaker, writer, and composer who is regarded as one of the greatest directors in world cinema. His 'Apu Trilogy' put Indian/Bengali cinema on the global map. He was also a prolific writer for children.",
+            "keyDecisions": [
+                "Making 'Pather Panchali' with a shoestring budget.",
+                "Refusing to compromise on artistic integrity.",
+                "Writing Feluda and Professor Shonku stories.",
+                "Composing his own music."
+            ],
+            "achievements": [
+                "Academy Honorary Award (Oscar).",
+                "Legion of Honour.",
+                "Bharat Ratna.",
+                "Created Feluda."
+            ],
+            "challenges": [
+                "Funding for his early films.",
+                "Criticism for showing poverty (exporting poverty).",
+                "Health issues in later life.",
+                "Working within the constraints of the Indian film industry."
+            ],
+            "legacy": "Ray is the master of cinema. His films are textbooks for filmmakers. Feluda is the Sherlock Holmes of Bengal.",
+            "quotes": [
+                "The only thing I have to offer is my work.",
+                "Dominus Omnium Magister (God is the master of all)."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Master Filmmaker.",
+            "culturalImpact": "He defined Bengali aesthetics. His font designs are still used.",
+            "primarySources": [
+                "Films (Pather Panchali, Charulata).",
+                "Books (Feluda series).",
+                "Our Films, Their Films."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "His films are timeless classics."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Atish Dipankar",
+            "nativeName": "Atish Dipankar Srijnan",
+            "lifespan": "982-1054",
+            "era": "Medieval Period (10th-11th Century)",
+            "role": "Buddhist Scholar",
+            "background": "Atish Dipankar was a Buddhist scholar and philosopher from Bikrampur, Bangladesh. He traveled to Tibet and played a crucial role in the revival of Buddhism there. He was the abbot of Vikramashila university.",
+            "keyDecisions": [
+                "Traveling to Sumatra to study.",
+                "Accepting the invitation to go to Tibet.",
+                "Writing 'Bodhipathapradipa' (Lamp for the Path to Enlightenment).",
+                "Reforming Tibetan Buddhism."
+            ],
+            "achievements": [
+                "Revived Buddhism in Tibet.",
+                "Greatest scholar of his time.",
+                "Wrote over 200 books.",
+                "Bridge between Bengal and Tibet."
+            ],
+            "challenges": [
+                "The arduous journey to Tibet across the Himalayas.",
+                "Language barriers.",
+                "Old age.",
+                "Declining Buddhism in India."
+            ],
+            "legacy": "Atish is a saint in Tibet and a hero in Bangladesh. His ashes were brought back to Bangladesh in 1978. He represents the intellectual height of ancient Bengal.",
+            "quotes": [
+                "The greatest achievement is selflessness.",
+                "The greatest patience is humility."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Buddhist Scholar.",
+            "culturalImpact": "Atish Dipankar University is named after him. He is a symbol of ancient Bengali wisdom.",
+            "primarySources": [
+                "Bodhipathapradipa.",
+                "Tibetan chronicles.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a great diplomat and scholar.",
+                "His life is a testament to the shared heritage of Asia."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Isha Khan",
+            "nativeName": "Isha Khan",
+            "lifespan": "1529-1599",
+            "era": "Medieval Period (16th Century)",
+            "role": "Ruler, Warrior",
+            "background": "Isha Khan was the leader of the Baro-Bhuyans (Twelve Landlords) of Bengal. He successfully resisted the Mughal expansion into Bengal, defeating the famous Mughal general Man Singh.",
+            "keyDecisions": [
+                "Uniting the Baro-Bhuyans against the Mughals.",
+                "Establishing his capital at Sonargaon.",
+                "Fighting a duel with Man Singh.",
+                "Refusing to submit to Akbar."
+            ],
+            "achievements": [
+                "Defeated the Mughal army.",
+                "Maintained Bengal's independence for decades.",
+                "Legendary warrior.",
+                "Built forts and mosques."
+            ],
+            "challenges": [
+                "The might of the Mughal Empire.",
+                "Internal rivalries among the landlords.",
+                "Naval warfare in the riverine delta.",
+                "Constant campaigns."
+            ],
+            "legacy": "Isha Khan is the symbol of Bengali resistance. His capital Sonargaon is a historic site. He proved that Bengal could not be easily conquered.",
+            "quotes": [
+                "We shall not bow down."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Leader of Baro-Bhuyans.",
+            "culturalImpact": "He is a folk hero. Stories of his valor are legendary.",
+            "primarySources": [
+                "Akbarnama.",
+                "Local ballads.",
+                "History of Bengal."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a freedom fighter.",
+                "His resistance is seen as an early form of nationalism."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Shamsur Rahman",
+            "nativeName": "Shamsur Rahman",
+            "lifespan": "1929-2006",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Poet, Journalist",
+            "background": "Shamsur Rahman was a major poet and journalist. He is considered the unofficial poet laureate of Bangladesh. His poetry reflected the political and social struggles of the country, from the Language Movement to the Liberation War.",
+            "keyDecisions": [
+                "Writing 'Asad's Shirt' during the 1969 uprising.",
+                "Writing 'Freedom, You Are' during the war.",
+                "Editing major newspapers.",
+                "Speaking out against fundamentalism."
+            ],
+            "achievements": [
+                "Swadhinata Padak.",
+                "Ekushey Padak.",
+                "Voice of the urban middle class.",
+                "Chronicler of the nation's history through poetry."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Attacks by fundamentalists (he survived an assassination attempt).",
+                "Political turmoil.",
+                "Health issues."
+            ],
+            "legacy": "Shamsur Rahman is the modern voice of Bangladesh. His poems are anthems of protest and hope.",
+            "quotes": [
+                "Freedom, you are the flag of the independence.",
+                "I have seen the face of Bengal, I have seen the face of the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Major Poet.",
+            "culturalImpact": "His poems are recited at every national event. He defined modern Bengali poetry.",
+            "primarySources": [
+                "Roudro Korote.",
+                "Biddhosto Nilima.",
+                "Newspaper columns."
+            ],
+            "modernInterpretations": [
+                "Revered as a secular icon.",
+                "His poetry is seen as the conscience of the nation."
+            ]
+        }
+    ]
+}

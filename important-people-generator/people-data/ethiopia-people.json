@@ -1,0 +1,777 @@
+{
+    "country": "Ethiopia",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Haile Selassie I",
+            "nativeName": "Tafari Makonnen",
+            "lifespan": "1892-1975",
+            "era": "Modern Period (20th Century)",
+            "role": "Emperor",
+            "background": "Haile Selassie I was the Emperor of Ethiopia from 1930 to 1974. He is a defining figure in modern Ethiopian history and a key figure in the Pan-African movement. He is also revered as the returned messiah by the Rastafari movement.",
+            "keyDecisions": [
+                "Modernizing Ethiopia's infrastructure and education.",
+                "Appealing to the League of Nations against Italian aggression in 1936.",
+                "Establishing the Organization of African Unity (OAU) in Addis Ababa.",
+                "Granting Ethiopia's first constitution."
+            ],
+            "achievements": [
+                "Symbol of African independence.",
+                "Father of Africa (OAU founder).",
+                "Time Man of the Year (1935).",
+                "Modernized the Ethiopian state."
+            ],
+            "challenges": [
+                "Italian invasion and occupation.",
+                "Internal rebellions (Woyane, Eritrea).",
+                "The 1973 famine.",
+                "The 1974 revolution that deposed him."
+            ],
+            "legacy": "Haile Selassie is a global icon. To Rastafarians, he is God incarnate. To Africans, he is the father of unity.",
+            "quotes": [
+                "Throughout history, it has been the inaction of those who could have acted; the indifference of those who should have known better; the silence of the voice of justice when it mattered most; that has made it possible for evil to triumph.",
+                "That until the philosophy which holds one race superior and another inferior is finally and permanently discredited and abandoned: That until there are no longer first-class and second-class citizens of any nation; That until the color of a man's skin is of no more significance than the color of his eyes; That until the basic human rights are equally guaranteed to all without regard to race; That until that day, the dream of lasting peace and world citizenship and the rule of international morality will remain but a fleeting illusion, to be pursued but never attained."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Last Emperor of Ethiopia.",
+            "culturalImpact": "His speech to the UN was turned into the song 'War' by Bob Marley. He is the central figure of Rastafarianism.",
+            "primarySources": [
+                "My Life and Ethiopia's Progress (Autobiography).",
+                "Speeches.",
+                "League of Nations address."
+            ],
+            "modernInterpretations": [
+                "Revered as a semi-divine figure by some.",
+                "Criticized by others for his handling of the famine and feudalism."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Menelik II",
+            "nativeName": "Sahle Maryam",
+            "lifespan": "1844-1913",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Emperor",
+            "background": "Menelik II was the Emperor of Ethiopia who modernized the country and successfully defended it against Italian colonization at the Battle of Adwa. He expanded the empire to its current borders.",
+            "keyDecisions": [
+                "Unifying the Ethiopian provinces.",
+                "Founding Addis Ababa as the capital.",
+                "Leading the army at the Battle of Adwa.",
+                "Introducing modern technology (railway, telephone, electricity)."
+            ],
+            "achievements": [
+                "Victory at Adwa (1896).",
+                "Preserved Ethiopia's independence during the Scramble for Africa.",
+                "Modernized Ethiopia.",
+                "Abolished the slave trade (officially)."
+            ],
+            "challenges": [
+                "Italian colonial ambition.",
+                "Internal rivals.",
+                "Famine and disease.",
+                "Managing a diverse empire."
+            ],
+            "legacy": "Menelik is the father of modern Ethiopia. The victory at Adwa is a source of pride for all Africans.",
+            "quotes": [
+                "Ethiopia has need of no one; she stretches out her hands unto God.",
+                "I am a man of peace, but I will not let my country be taken."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Victor of Adwa.",
+            "culturalImpact": "Adwa Victory Day is a national holiday. He is a symbol of African resistance.",
+            "primarySources": [
+                "Chronicles.",
+                "Letters to European powers.",
+                "Treaty of Wuchale."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a great strategist and unifier.",
+                "His expansionist policies are sometimes criticized by conquered groups."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Taytu Betul",
+            "nativeName": "Taytu Betul",
+            "lifespan": "c. 1851-1918",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Empress",
+            "background": "Empress Taytu Betul was the wife of Menelik II and a powerful political figure in her own right. She played a crucial role in the Battle of Adwa and founded the capital city, Addis Ababa.",
+            "keyDecisions": [
+                "Choosing the location of Addis Ababa.",
+                "Advising Menelik to reject the Treaty of Wuchale.",
+                "Leading her own contingent of troops at Adwa.",
+                "Controlling the water supply at the siege of Mekelle."
+            ],
+            "achievements": [
+                "Founded Addis Ababa.",
+                "Key strategist of the Adwa victory.",
+                "Light of Ethiopia.",
+                "Promoted church building."
+            ],
+            "challenges": [
+                "Gender bias in a patriarchal society.",
+                "Court intrigues.",
+                "Menelik's illness.",
+                "Political rivals."
+            ],
+            "legacy": "Taytu is the mother of Addis Ababa. She is a symbol of female power and intelligence.",
+            "quotes": [
+                "I am a woman, I do not like war. But I would rather die than accept your deal."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Empress and Strategist.",
+            "culturalImpact": "She is a feminist icon in Ethiopia. Hotels and streets are named after her.",
+            "primarySources": [
+                "Chronicles.",
+                "Foreign diplomatic records."
+            ],
+            "modernInterpretations": [
+                "Revered as a co-ruler rather than just a consort.",
+                "Her political acumen is highly respected."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Tewodros II",
+            "nativeName": "Kassa Hailu",
+            "lifespan": "1818-1868",
+            "era": "Modern Period (19th Century)",
+            "role": "Emperor",
+            "background": "Emperor Tewodros II was a visionary leader who sought to unify and modernize Ethiopia, ending the 'Era of Princes' (Zemene Mesafint). He committed suicide rather than surrender to the British expedition at Magdala.",
+            "keyDecisions": [
+                "Ending the Zemene Mesafint.",
+                "Attempting to manufacture modern weapons (Sebastopol cannon).",
+                "Imprisoning British envoys.",
+                "Committing suicide at Magdala."
+            ],
+            "achievements": [
+                "Unified Ethiopia.",
+                "Laid the foundation for the modern state.",
+                "Built the first roads.",
+                "Attempted industrialization."
+            ],
+            "challenges": [
+                "Resistance from regional lords.",
+                "Conflict with the Church.",
+                "British military expedition.",
+                "His own volatile temper."
+            ],
+            "legacy": "Tewodros is the tragic hero of Ethiopian history. He is a symbol of uncompromising sovereignty.",
+            "quotes": [
+                "I shall never be a slave.",
+                "My people, you have always loved me."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Unifier of Ethiopia.",
+            "culturalImpact": "Subject of many plays and books. His hair was recently returned by the UK.",
+            "primarySources": [
+                "Chronicles.",
+                "Letters.",
+                "British military records."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "His cruelty is acknowledged but often contextualized."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Abebe Bikila",
+            "nativeName": "Abebe Bikila",
+            "lifespan": "1932-1973",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Athlete",
+            "background": "Abebe Bikila was a marathon runner who became the first black African to win an Olympic gold medal. He famously won the 1960 Rome Olympics marathon running barefoot.",
+            "keyDecisions": [
+                "Running the 1960 marathon barefoot.",
+                "Defending his title at the 1964 Tokyo Olympics (while recovering from surgery).",
+                "Serving in the Imperial Bodyguard.",
+                "Competing in paraplegic sports after his accident."
+            ],
+            "achievements": [
+                "First black African Olympic Gold Medalist.",
+                "Two-time Olympic Marathon Champion.",
+                "World Record holder.",
+                "Global sports icon."
+            ],
+            "challenges": [
+                "Running barefoot on cobblestones.",
+                "Appendicitis just before the 1964 Olympics.",
+                "Car accident that left him paralyzed.",
+                "Political turmoil."
+            ],
+            "legacy": "Abebe Bikila is the father of African distance running. He inspired a continent.",
+            "quotes": [
+                "I wanted the world to know that my country, Ethiopia, has always won with determination and heroism."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Olympic Legend.",
+            "culturalImpact": "The national stadium is named after him. He proved African athletes could dominate.",
+            "primarySources": [
+                "Olympic records.",
+                "Biographies.",
+                "Documentaries."
+            ],
+            "modernInterpretations": [
+                "Revered as a national hero.",
+                "Symbol of endurance and resilience."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Ezana",
+            "nativeName": "Ezana of Axum",
+            "lifespan": "4th Century AD",
+            "era": "Ancient Period (Axumite Empire)",
+            "role": "King",
+            "background": "King Ezana was the ruler of the Kingdom of Aksum. He was the first Ethiopian king to embrace Christianity and make it the state religion. He expanded the empire to include parts of Yemen and Sudan.",
+            "keyDecisions": [
+                "Converting to Christianity.",
+                "Making Christianity the state religion.",
+                "Conquering the Kingdom of Kush (Meroe).",
+                "Erecting the Ezana Stone (trilingual inscription)."
+            ],
+            "achievements": [
+                "Christianized Ethiopia.",
+                "Expanded the Aksumite Empire.",
+                "Minted coins with the cross.",
+                "Built obelisks."
+            ],
+            "challenges": [
+                "Managing a vast trade empire.",
+                "Religious transition.",
+                "Wars with rival kingdoms.",
+                "Internal stability."
+            ],
+            "legacy": "Ezana laid the spiritual foundation of Ethiopia. The Ethiopian Orthodox Tewahedo Church traces its state status to him.",
+            "quotes": [
+                "By the power of the Lord of Heaven, who in heaven and upon earth is mightier than everything that exists."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Christian King.",
+            "culturalImpact": "His coins and inscriptions are key historical sources. He is a saint in the Ethiopian church.",
+            "primarySources": [
+                "Ezana Stone.",
+                "Coins.",
+                "Church traditions."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a wise and powerful monarch.",
+                "His conversion is a pivotal moment in history."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Zewditu",
+            "nativeName": "Zewditu Menelik",
+            "lifespan": "1876-1930",
+            "era": "Modern Period (20th Century)",
+            "role": "Empress",
+            "background": "Empress Zewditu was the first female head of state of an internationally recognized African country in the 19th and 20th centuries. She was the daughter of Menelik II and ruled with Ras Tafari (Haile Selassie) as Regent.",
+            "keyDecisions": [
+                "Accepting the crown after the deposition of Iyasu V.",
+                "Ruling as a conservative counterbalance to the modernizing Ras Tafari.",
+                "Building churches.",
+                "Navigating the complex power sharing."
+            ],
+            "achievements": [
+                "First female Empress Regnant.",
+                "Maintained stability during a transition period.",
+                "Devout religious leader.",
+                "Preserved the Solomonic dynasty."
+            ],
+            "challenges": [
+                "Power struggle with Ras Tafari.",
+                "Conservative opposition to modernization.",
+                "Rebellions by her husband (Gugsa Welle).",
+                "Her sudden death."
+            ],
+            "legacy": "Zewditu is a symbol of tradition and piety. Her reign bridged the gap between Menelik and Haile Selassie.",
+            "quotes": [
+                "I am the daughter of Menelik."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "First Empress Regnant.",
+            "culturalImpact": "She is remembered for her piety. Her statue stands in Addis Ababa.",
+            "primarySources": [
+                "Chronicles.",
+                "Foreign reports."
+            ],
+            "modernInterpretations": [
+                "Often overshadowed by Haile Selassie.",
+                "Recognized as a significant figure in her own right."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Meles Zenawi",
+            "nativeName": "Meles Zenawi Asres",
+            "lifespan": "1955-2012",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Prime Minister",
+            "background": "Meles Zenawi was the Prime Minister of Ethiopia from 1995 until his death in 2012. He led the rebel group TPLF to overthrow the Derg regime and established ethnic federalism.",
+            "keyDecisions": [
+                "Overthrowing the Derg regime.",
+                "Implementing ethnic federalism.",
+                "Building the Grand Ethiopian Renaissance Dam (GERD).",
+                "Invading Somalia to fight Al-Shabaab."
+            ],
+            "achievements": [
+                "Rapid economic growth (double digits).",
+                "Stability after decades of war.",
+                "Infrastructure development.",
+                "Regional power broker."
+            ],
+            "challenges": [
+                "War with Eritrea.",
+                "Criticism of his human rights record.",
+                "Ethnic tensions exacerbated by federalism.",
+                "The 2005 election violence."
+            ],
+            "legacy": "Meles is the architect of modern Ethiopia's economy and political structure. He is a polarizing figure.",
+            "quotes": [
+                "We are convinced that our poverty is not a curse of God.",
+                "Democracy is not a luxury for us, it is a matter of survival."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Architect of Federalism.",
+            "culturalImpact": "His policies shape current Ethiopian politics. The GERD is his flagship project.",
+            "primarySources": [
+                "Speeches.",
+                "Policy documents.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Praised as a visionary developmentalist.",
+                "Criticized as an autocrat."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Mulatu Astatke",
+            "nativeName": "Mulatu Astatke",
+            "lifespan": "1943-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Musician, Composer",
+            "background": "Mulatu Astatke is the father of Ethio-Jazz. He combined traditional Ethiopian music with jazz, Latin, and funk rhythms. He is the most internationally renowned Ethiopian musician.",
+            "keyDecisions": [
+                "Studying music in London and Boston (Berklee).",
+                "Creating a new genre: Ethio-Jazz.",
+                "Collaborating with Western artists.",
+                "Promoting Ethiopian culture globally."
+            ],
+            "achievements": [
+                "Father of Ethio-Jazz.",
+                "Honorary Doctorates.",
+                "Featured in the movie 'Broken Flowers'.",
+                "Global cultural ambassador."
+            ],
+            "challenges": [
+                "Introducing a new sound to conservative audiences.",
+                "The Derg regime's censorship.",
+                "Preserving traditional instruments.",
+                "Gaining international recognition."
+            ],
+            "legacy": "Mulatu is a musical genius. He put Ethiopian music on the world map. His sound is unique and timeless.",
+            "quotes": [
+                "It takes time to create something new.",
+                "Ethio-jazz is my contribution to the world."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of Ethio-Jazz.",
+            "culturalImpact": "He influenced a generation of musicians. His music is sampled by hip-hop artists.",
+            "primarySources": [
+                "Albums (Ethiopiques series).",
+                "Interviews.",
+                "Concerts."
+            ],
+            "modernInterpretations": [
+                "Revered as a living legend.",
+                "His music is seen as cool and sophisticated."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Tilahun Gessesse",
+            "nativeName": "Tilahun Gessesse",
+            "lifespan": "1940-2009",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Singer",
+            "background": "Tilahun Gessesse was the most popular Ethiopian singer of the 20th century. Known as 'The Voice', he dominated the Ethiopian music scene for decades, singing in Amharic and Oromo.",
+            "keyDecisions": [
+                "Joining the Imperial Bodyguard Band.",
+                "Singing about patriotism and love.",
+                "Raising money for famine relief.",
+                "Performing for the Emperor and the Derg."
+            ],
+            "achievements": [
+                "The Voice of Ethiopia.",
+                "Honorary Doctorate from Addis Ababa University.",
+                "Recorded hundreds of songs.",
+                "National icon."
+            ],
+            "challenges": [
+                "Throat injury that silenced him for a period.",
+                "Navigating different political regimes.",
+                "Health issues (diabetes).",
+                "The changing music industry."
+            ],
+            "legacy": "Tilahun is the soundtrack of modern Ethiopia. His death was a day of national mourning.",
+            "quotes": [
+                "Ethiopia, my country, I will never forget you."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Voice.",
+            "culturalImpact": "His songs are timeless classics. He is loved by all ethnic groups.",
+            "primarySources": [
+                "Songs (Ethiopia, Fikren Min Yishal).",
+                "Biographies.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the greatest Ethiopian singer of all time.",
+                "Symbol of unity."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Derartu Tulu",
+            "nativeName": "Derartu Tulu",
+            "lifespan": "1972-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Athlete",
+            "background": "Derartu Tulu is a long-distance runner who became the first black African woman to win an Olympic gold medal (1992 Barcelona). She is a legend of Ethiopian athletics.",
+            "keyDecisions": [
+                "Pursuing running despite rural background.",
+                "Winning the 10,000m gold in Barcelona.",
+                "Winning gold again in Sydney (2000).",
+                "Serving as President of the Ethiopian Athletics Federation."
+            ],
+            "achievements": [
+                "First black African woman Olympic Gold Medalist.",
+                "Two-time Olympic Champion.",
+                "World Cross Country Champion.",
+                "Paved the way for female athletes."
+            ],
+            "challenges": [
+                "Gender barriers.",
+                "Civil war and instability.",
+                "Competition from younger athletes.",
+                "Managing the federation."
+            ],
+            "legacy": "Derartu is a pioneer. Her victory lap with Elana Meyer (South Africa) in 1992 is an iconic moment of African unity.",
+            "quotes": [
+                "Running is in our blood."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Pioneer Female Athlete.",
+            "culturalImpact": "She inspired Tirunesh Dibaba, Genzebe Dibaba, and countless others. She is a national hero.",
+            "primarySources": [
+                "Olympic records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a role model and leader.",
+                "Her leadership of the federation is praised."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Yekuno Amlak",
+            "nativeName": "Yekuno Amlak",
+            "lifespan": "Unknown-1285",
+            "era": "Medieval Period (13th Century)",
+            "role": "Emperor",
+            "background": "Emperor Yekuno Amlak was the founder of the Solomonic dynasty, which ruled Ethiopia until 1974. He overthrew the Zagwe dynasty, claiming descent from King Solomon and the Queen of Sheba.",
+            "keyDecisions": [
+                "Overthrowing the Zagwe dynasty.",
+                "Restoring the Solomonic line.",
+                "Establishing the Kebra Nagast (Glory of Kings) as the national epic.",
+                "Seeking relations with Muslim neighbors."
+            ],
+            "achievements": [
+                "Founded the Solomonic Dynasty.",
+                "Consolidated power in the highlands.",
+                "Supported the Church.",
+                "Initiated a literary golden age."
+            ],
+            "challenges": [
+                "Legitimizing his rule.",
+                "Conflict with the Sultanate of Ifat.",
+                "Internal dissent.",
+                "Establishing a new administration."
+            ],
+            "legacy": "Yekuno Amlak created the political myth that sustained the Ethiopian monarchy for 700 years.",
+            "quotes": [
+                "I am the son of David, son of Solomon."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Founder of Solomonic Dynasty.",
+            "culturalImpact": "The Kebra Nagast is the cornerstone of Ethiopian national identity.",
+            "primarySources": [
+                "Kebra Nagast.",
+                "Chronicles."
+            ],
+            "modernInterpretations": [
+                "Viewed as a shrewd politician.",
+                "His dynasty defined Ethiopia for centuries."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Lalibela",
+            "nativeName": "Gebre Mesqel Lalibela",
+            "lifespan": "1162-1221",
+            "era": "Medieval Period (12th-13th Century)",
+            "role": "King, Saint",
+            "background": "King Lalibela was the most famous ruler of the Zagwe dynasty. He is renowned for commissioning the rock-hewn churches of Lalibela, intended to be a 'New Jerusalem'.",
+            "keyDecisions": [
+                "Building the 11 rock-hewn churches.",
+                "Creating a pilgrimage site in Ethiopia.",
+                "Ruling with piety and justice.",
+                "Abdicating in favor of his nephew (according to legend)."
+            ],
+            "achievements": [
+                "Built the Rock-Hewn Churches (UNESCO World Heritage Site).",
+                "Saint of the Ethiopian Orthodox Church.",
+                "Maintained peace and prosperity.",
+                "Strengthened Christianity."
+            ],
+            "challenges": [
+                "Rivalry with his brother.",
+                "The difficulty of carving churches from solid rock.",
+                "Legitimacy (Zagwe were not Solomonic).",
+                "Muslim expansion."
+            ],
+            "legacy": "Lalibela is a saint-king. His churches are an architectural wonder of the world.",
+            "quotes": [
+                "The angels helped build the churches at night."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Builder King and Saint.",
+            "culturalImpact": "Lalibela is the holiest site in Ethiopia. He is a symbol of faith and engineering.",
+            "primarySources": [
+                "Gadl Lalibela (Hagiography).",
+                "The Churches themselves."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a visionary.",
+                "The engineering feat of the churches is still marveled at."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Alula Engida",
+            "nativeName": "Ras Alula Abba Nega",
+            "lifespan": "1827-1897",
+            "era": "Modern Period (19th Century)",
+            "role": "General",
+            "background": "Ras Alula Engida was a brilliant general and politician. He played a key role in defending Ethiopia against Egyptian, Mahdist, and Italian invasions. He is known as the 'Garibaldi of Abyssinia'.",
+            "keyDecisions": [
+                "Defeating the Egyptians at Gundet and Gura.",
+                "Defeating the Italians at Dogali.",
+                "Playing a key role at the Battle of Adwa.",
+                "Serving Emperor Yohannes IV loyally."
+            ],
+            "achievements": [
+                "Hero of Dogali.",
+                "Defender of the Northern Frontier.",
+                "Strategic genius.",
+                "Governor of Eritrea (Mereb Mellash)."
+            ],
+            "challenges": [
+                "Constant warfare on multiple fronts.",
+                "The death of Emperor Yohannes IV.",
+                "Rivalry with Menelik II (initially).",
+                "Italian colonization of Eritrea."
+            ],
+            "legacy": "Alula is a military legend. He is a symbol of Ethiopian patriotism and resistance.",
+            "quotes": [
+                "The Italians can come to Sahati only if I could go to Rome as Governor."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Military Strategist.",
+            "culturalImpact": "Statues and airport named after him. He is a hero in Tigray and all of Ethiopia.",
+            "primarySources": [
+                "Chronicles.",
+                "Foreign reports."
+            ],
+            "modernInterpretations": [
+                "Revered as one of the greatest African generals.",
+                "His loyalty and bravery are exemplary."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Afewerk Tekle",
+            "nativeName": "Afewerk Tekle",
+            "lifespan": "1932-2012",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Artist",
+            "background": "Maitre Artiste World Laureate Afewerk Tekle was Ethiopia's most celebrated painter. He is known for his stained glass windows in Africa Hall and his paintings that blend Ethiopian traditions with modern techniques.",
+            "keyDecisions": [
+                "Studying at the Slade School of Fine Art in London.",
+                "Returning to Ethiopia to work.",
+                "Creating the 'Total Liberation of Africa' stained glass.",
+                "Designing Ethiopian stamps and costumes."
+            ],
+            "achievements": [
+                "Maitre Artiste World Laureate.",
+                "Created the stained glass at the UNECA (Africa Hall).",
+                "First African member of the Russian Academy of Arts.",
+                "Promoted Pan-Africanism through art."
+            ],
+            "challenges": [
+                "The Derg regime.",
+                "Balancing tradition and modernity.",
+                "Personal conflicts.",
+                "Preserving his Villa Alpha studio."
+            ],
+            "legacy": "Afewerk Tekle is the giant of Ethiopian art. His work is the visual representation of Pan-Africanism.",
+            "quotes": [
+                "My art is my life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Maitre Artiste.",
+            "culturalImpact": "His Villa Alpha is a museum. He defined modern Ethiopian artistic identity.",
+            "primarySources": [
+                "Paintings (Mother Ethiopia, Meskel Flower).",
+                "Stained glass works.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a national treasure.",
+                "His style is instantly recognizable."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Haddis Alemayehu",
+            "nativeName": "Haddis Alemayehu",
+            "lifespan": "1910-2003",
+            "era": "Modern Period (20th Century)",
+            "role": "Writer, Politician",
+            "background": "Haddis Alemayehu was a writer and politician. His novel 'Fikir Eske Mekabir' (Love Unto Grave) is considered the masterpiece of Amharic literature. He also served as Foreign Minister.",
+            "keyDecisions": [
+                "Writing 'Fikir Eske Mekabir'.",
+                "Serving in various government posts.",
+                "Advocating for social reform through literature.",
+                "Participating in the resistance against Italy."
+            ],
+            "achievements": [
+                "Author of the greatest Amharic novel.",
+                "Special Prize of the Emperor.",
+                "Foreign Minister.",
+                "Chronicler of feudal Ethiopia."
+            ],
+            "challenges": [
+                "The rigidity of the feudal system he criticized.",
+                "Political turmoil.",
+                "Balancing his political career with writing.",
+                "Old age."
+            ],
+            "legacy": "Haddis is the Shakespeare of Amharic literature. His book is required reading.",
+            "quotes": [
+                "Love is stronger than death."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary Giant.",
+            "culturalImpact": "His characters are household names. He critiqued the class system effectively.",
+            "primarySources": [
+                "Fikir Eske Mekabir.",
+                "Wondmye.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Revered as a literary genius.",
+                "His social commentary is still relevant."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Tirunesh Dibaba",
+            "nativeName": "Tirunesh Dibaba",
+            "lifespan": "1985-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Tirunesh Dibaba, the 'Baby Faced Destroyer', is a long-distance runner and one of the most decorated athletes in history. She has won three Olympic gold medals and multiple world championships.",
+            "keyDecisions": [
+                "Focusing on running from a young age.",
+                "Winning the double (5000m and 10000m) at the 2008 Beijing Olympics.",
+                "Continuing the Dibaba family legacy.",
+                "Transitioning to marathon running."
+            ],
+            "achievements": [
+                "Three Olympic Gold Medals.",
+                "Five World Championship Gold Medals.",
+                "World Record holder (5000m).",
+                "Greatest female distance runner of all time (arguably)."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Intense competition.",
+                "Balancing motherhood and athletics.",
+                "High expectations."
+            ],
+            "legacy": "Tirunesh is a queen of the track. She raised the bar for female athletics globally.",
+            "quotes": [
+                "I run for my country."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Athletics Superstar.",
+            "culturalImpact": "She is a national icon. The Dibaba family is the 'fastest family on earth'.",
+            "primarySources": [
+                "Race records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "Her finishing kick is legendary."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Gebre Kristos Desta",
+            "nativeName": "Gebre Kristos Desta",
+            "lifespan": "1932-1981",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Artist, Poet",
+            "background": "Gebre Kristos Desta was a painter and poet who is considered the father of Ethiopian modern art. He introduced abstract art to Ethiopia. He died in exile in the USA.",
+            "keyDecisions": [
+                "Studying in Germany (Cologne).",
+                "Introducing abstract expressionism to Ethiopia.",
+                "Writing poetry that broke traditional forms.",
+                "Fleeing the Derg regime."
+            ],
+            "achievements": [
+                "Father of Ethiopian Modernism.",
+                "Haile Selassie I Prize Trust Award.",
+                "Revolutionized Ethiopian art and poetry.",
+                "His work is highly collectible."
+            ],
+            "challenges": [
+                "Criticism for being 'too Western'.",
+                "The Derg revolution.",
+                "Life in exile.",
+                "Health issues."
+            ],
+            "legacy": "Gebre Kristos was a visionary. He challenged the status quo. His center at Addis Ababa University preserves his work.",
+            "quotes": [
+                "I am a painter, not a photographer."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Modernist Pioneer.",
+            "culturalImpact": "He opened the door for abstract art in Ethiopia. His poetry is raw and emotional.",
+            "primarySources": [
+                "Paintings (Green Abstract, Golgotha).",
+                "Poems.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a misunderstood genius.",
+                "His influence is growing."
+            ]
+        }
+    ]
+}

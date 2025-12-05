@@ -1,0 +1,9 @@
+[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent: [400 Bad Request] API key not valid. Please pass a valid API key. [{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]
+
+Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent: [400 Bad Request] API key not valid. Please pass a valid API key. [{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]
+    at handleResponseNotOk (C:\Users\ahmet\Desktop\country-name\node_modules\@google\generative-ai\dist\index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (C:\Users\ahmet\Desktop\country-name\node_modules\@google\generative-ai\dist\index.js:403:9)
+    at async generateContent (C:\Users\ahmet\Desktop\country-name\node_modules\@google\generative-ai\dist\index.js:867:22)
+    at async generateHistoricalFigures (file:///C:/Users/ahmet/Desktop/country-name/important-people-generator/generate.js:203:20)
+    at async generateAllHistoricalFigures (file:///C:/Users/ahmet/Desktop/country-name/important-people-generator/generate.js:350:27)

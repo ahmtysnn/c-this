@@ -1,0 +1,769 @@
+{
+    "country": "Thailand",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Bhumibol Adulyadej",
+            "nativeName": "Phra Bat Somdet Phra Poraminthra Maha Bhumibol Adulyadej (Rama IX)",
+            "lifespan": "1927-2016",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "King",
+            "background": "King Bhumibol Adulyadej was the ninth monarch of Thailand from the Chakri Dynasty. He reigned for 70 years, making him one of the longest-reigning monarchs in history. He was revered as a father figure and a stabilizing force in Thai politics.",
+            "keyDecisions": [
+                "Intervening in the 1973 and 1992 political crises to stop violence.",
+                "Initiating thousands of Royal Development Projects.",
+                "Promoting the Sufficiency Economy Philosophy.",
+                "Traveling to every province to visit his subjects."
+            ],
+            "achievements": [
+                "Longest-reigning monarch in Thai history.",
+                "UN Human Development Lifetime Achievement Award.",
+                "Unified the country during times of crisis.",
+                "Revered as a semi-divine figure."
+            ],
+            "challenges": [
+                "Frequent military coups (over 15 during his reign).",
+                "Political polarization (Red Shirts vs. Yellow Shirts).",
+                "Health issues in later life.",
+                "Balancing the role of the monarchy with democracy."
+            ],
+            "legacy": "King Bhumibol is the soul of modern Thailand. His philosophy of sufficiency economy is widely studied. His death was a moment of profound national grief.",
+            "quotes": [
+                "I will reign with righteousness for the benefit and happiness of the Siamese people.",
+                "A good person can make another person good; it means that goodness will elicit goodness in the society; other persons will also be good."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of the Nation.",
+            "culturalImpact": "His portrait is in almost every Thai home. Father's Day is on his birthday.",
+            "primarySources": [
+                "Royal speeches.",
+                "The King's compositions (music and books).",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint-like king.",
+                "His moral authority is unmatched."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Chulalongkorn",
+            "nativeName": "Phra Bat Somdet Phra Chula Chom Klao Chao Yu Hua (Rama V)",
+            "lifespan": "1853-1910",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "King",
+            "background": "King Chulalongkorn was the fifth monarch of Siam under the House of Chakri. He is credited with saving Siam from colonization by modernizing the country and abolishing slavery.",
+            "keyDecisions": [
+                "Abolishing slavery and corvée labor.",
+                "Modernizing the government and military.",
+                "Building railways and telegraphs.",
+                "Ceding territory to France and Britain to maintain independence (diplomacy)."
+            ],
+            "achievements": [
+                "Saved Siam from colonization.",
+                "Abolished slavery.",
+                "Modernized the legal and educational systems.",
+                "The Great Beloved King."
+            ],
+            "challenges": [
+                "French and British imperial expansion.",
+                "Conservative opposition to reforms.",
+                "The Paknam Incident.",
+                "Health issues."
+            ],
+            "legacy": "Rama V is the father of modern Thailand. Chulalongkorn Day is a national holiday. He is worshipped as a deity by many.",
+            "quotes": [
+                "The abolition of slavery is the will of my father and myself."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Great Modernizer.",
+            "culturalImpact": "His equestrian statue is a site of pilgrimage. Chulalongkorn University is named after him.",
+            "primarySources": [
+                "Royal decrees.",
+                "Letters (Klai Ban).",
+                "Diaries."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the greatest Thai king.",
+                "His diplomatic skills are studied."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Pridi Banomyong",
+            "nativeName": "Pridi Banomyong",
+            "lifespan": "1900-1983",
+            "era": "Modern Period (20th Century)",
+            "role": "Prime Minister, Statesman",
+            "background": "Pridi Banomyong was a Thai politician and professor who led the civilian wing of the 1932 Revolution, which ended absolute monarchy. He was the founder of Thammasat University and the Free Thai Movement.",
+            "keyDecisions": [
+                "Drafting the first constitution.",
+                "Leading the Free Thai Movement against Japanese occupation.",
+                "Founding Thammasat University.",
+                "Proposing a socialist economic plan (Yellow Cover Dossier)."
+            ],
+            "achievements": [
+                "Father of Thai Democracy.",
+                "UNESCO World Cultural Celebrity.",
+                "Regent of Thailand.",
+                "Senior Statesman."
+            ],
+            "challenges": [
+                "Accusations of communism.",
+                "The mysterious death of King Ananda Mahidol.",
+                "Military coups.",
+                "Exile in China and France."
+            ],
+            "legacy": "Pridi is the intellectual father of Thai democracy. His vision for a just society remains influential.",
+            "quotes": [
+                "Democracy is not just a form of government, but a way of life."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of Democracy.",
+            "culturalImpact": "Thammasat University is his living legacy. He is a hero to liberals and students.",
+            "primarySources": [
+                "Writings.",
+                "The King of the White Elephant (Movie).",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary statesman.",
+                "His demonization by the military is now widely questioned."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Taksin",
+            "nativeName": "Somdet Phra Chao Taksin Maharat",
+            "lifespan": "1734-1782",
+            "era": "Modern Period (18th Century)",
+            "role": "King",
+            "background": "King Taksin the Great was the only King of the Thonburi Kingdom. He liberated Siam from Burmese occupation after the fall of Ayutthaya in 1767 and unified the country.",
+            "keyDecisions": [
+                "Breaking out of the besieged Ayutthaya.",
+                "Establishing a new capital at Thonburi.",
+                "Reconquering territories from the Burmese.",
+                "Promoting trade with China."
+            ],
+            "achievements": [
+                "Liberated Siam from Burma.",
+                "Unified the kingdom.",
+                "Expanded the empire to include Lanna and Laos.",
+                "Saved the Thai nation from extinction."
+            ],
+            "challenges": [
+                "Total destruction of the previous capital.",
+                "Constant warfare.",
+                "Economic crisis.",
+                "Mental instability in later years (alleged)."
+            ],
+            "legacy": "Taksin is the savior of the nation. Without him, Thailand might not exist today.",
+            "quotes": [
+                "I will rebuild this city."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Liberator.",
+            "culturalImpact": "His statue at Wongwian Yai is a major landmark. He is worshipped for luck and wealth.",
+            "primarySources": [
+                "Royal Chronicles.",
+                "Chinese records."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a warrior king.",
+                "His execution by Rama I is a sensitive historical topic."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Naresuan",
+            "nativeName": "Somdet Phra Naresuan Maharat",
+            "lifespan": "1555-1605",
+            "era": "Medieval Period (16th-17th Century)",
+            "role": "King",
+            "background": "King Naresuan the Great was the King of Ayutthaya who declared independence from Burma in 1584. He is famous for his elephant duel with the Burmese Crown Prince Mingyi Swa.",
+            "keyDecisions": [
+                "Declaring independence from Pegu (Burma).",
+                "Fighting the elephant duel (Yuttahatthi).",
+                "Expanding the Ayutthaya Kingdom.",
+                "Liberating Thai people held captive."
+            ],
+            "achievements": [
+                "Restored Ayutthaya's independence.",
+                "Won the legendary elephant duel.",
+                "Expanded the kingdom to its greatest extent.",
+                "National Hero."
+            ],
+            "challenges": [
+                "Being a hostage in Burma as a child.",
+                "Facing a massive Burmese invasion.",
+                "Smallpox (which killed him).",
+                "Constant warfare."
+            ],
+            "legacy": "Naresuan is the patron saint of the Thai military. His elephant duel is the most famous scene in Thai history.",
+            "quotes": [
+                "My brother, why do you stay on your elephant under the shade of a tree? Come out and fight."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Warrior King.",
+            "culturalImpact": "Royal Thai Armed Forces Day is on the anniversary of his duel. Movies about him are blockbusters.",
+            "primarySources": [
+                "Royal Chronicles of Ayutthaya.",
+                "Burmese chronicles."
+            ],
+            "modernInterpretations": [
+                "Revered as the ultimate warrior.",
+                "Symbol of national pride."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Mongkut",
+            "nativeName": "Phra Bat Somdet Phra Chom Klao Chao Yu Hua (Rama IV)",
+            "lifespan": "1804-1868",
+            "era": "Modern Period (19th Century)",
+            "role": "King, Monk, Scholar",
+            "background": "King Mongkut was the fourth monarch of Siam. He spent 27 years as a monk before becoming king. He is known for opening Siam to the West and for his knowledge of astronomy. He is the king depicted in 'The King and I'.",
+            "keyDecisions": [
+                "Signing the Bowring Treaty with Britain.",
+                "Employing Western advisors (like Anna Leonowens).",
+                "Calculating the solar eclipse of 1868.",
+                "Modernizing the sangha (monkhood)."
+            ],
+            "achievements": [
+                "Father of Thai Science.",
+                "Opened Siam to international trade.",
+                "Laid the foundation for modernization.",
+                "Founded the Thammayut sect of Buddhism."
+            ],
+            "challenges": [
+                "Pressure from colonial powers.",
+                "Conservative court.",
+                "Malaria (caught during the eclipse expedition).",
+                "Balancing tradition and modernity."
+            ],
+            "legacy": "Mongkut is the intellectual king. He proved that Buddhism and science could coexist.",
+            "quotes": [
+                "It is not necessary to believe everything the foreigners say, but it is necessary to know what they say."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of Science.",
+            "culturalImpact": "National Science Day is on the anniversary of his eclipse prediction. 'The King and I' is banned in Thailand for inaccuracy.",
+            "primarySources": [
+                "Royal letters.",
+                "Chronicles.",
+                "Anna Leonowens' memoirs (controversial)."
+            ],
+            "modernInterpretations": [
+                "Revered as a wise and visionary scholar.",
+                "His diplomatic foresight saved the country."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Sunthorn Phu",
+            "nativeName": "Phra Sunthon Wohan (Phu)",
+            "lifespan": "1786-1855",
+            "era": "Modern Period (19th Century)",
+            "role": "Poet",
+            "background": "Sunthorn Phu is Thailand's best-known royal poet. He wrote 'Phra Aphai Mani', an epic poem of 30,000 lines. He is often called the Shakespeare of Thailand.",
+            "keyDecisions": [
+                "Writing in common language rather than royal court language.",
+                "Creating the 'Phra Aphai Mani' epic.",
+                "Traveling and writing 'Nirat' (travel poems).",
+                "Serving four kings."
+            ],
+            "achievements": [
+                "UNESCO World Cultural Celebrity.",
+                "Greatest Thai Poet.",
+                "Popularized the eight-syllable verse form (klon paet).",
+                "Created fantastical characters (mermaids, giants)."
+            ],
+            "challenges": [
+                "Alcoholism.",
+                "Imprisonment (due to a love affair).",
+                "Falling out of favor with Rama III.",
+                "Poverty."
+            ],
+            "legacy": "Sunthorn Phu is the people's poet. His works are taught in every school.",
+            "quotes": [
+                "Even if you have knowledge, it is useless if you do not know how to survive."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Literary Giant.",
+            "culturalImpact": "Sunthorn Phu Day is celebrated in June. His characters are pop culture icons.",
+            "primarySources": [
+                "Phra Aphai Mani.",
+                "Nirat Phukhao Thong.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius of language.",
+                "His life is seen as a romantic tragedy."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Thao Suranari",
+            "nativeName": "Thao Suranari (Ya Mo)",
+            "lifespan": "1771-1852",
+            "era": "Modern Period (19th Century)",
+            "role": "Heroine",
+            "background": "Thao Suranari, also known as Ya Mo (Grandma Mo), was the wife of the deputy governor of Nakhon Ratchasima. She is credited with saving the city from the invading Lao army of King Anouvong in 1826.",
+            "keyDecisions": [
+                "Pretending to cooperate with the invaders.",
+                "Getting the Lao soldiers drunk.",
+                "Leading the women to attack the soldiers with kitchen knives.",
+                "Liberating the prisoners."
+            ],
+            "achievements": [
+                "Saved Korat (Nakhon Ratchasima).",
+                "National Heroine.",
+                "Given the title Thao Suranari by the King.",
+                "Symbol of female bravery."
+            ],
+            "challenges": [
+                "Being a prisoner of war.",
+                "Facing armed soldiers.",
+                "Protecting her people.",
+                "Gender roles."
+            ],
+            "legacy": "Ya Mo is the guardian spirit of Korat. Her statue is the heart of the city.",
+            "quotes": [
+                "We fight for our home."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Savior of Korat.",
+            "culturalImpact": "A major festival is held in her honor. People pray to her for blessings.",
+            "primarySources": [
+                "Royal Chronicles.",
+                "Oral traditions."
+            ],
+            "modernInterpretations": [
+                "Revered as a powerful ancestor spirit.",
+                "Her story is a source of local pride."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Puey Ungphakorn",
+            "nativeName": "Puey Ungphakorn",
+            "lifespan": "1916-1999",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Economist, Technocrat",
+            "background": "Dr. Puey Ungphakorn was a prominent economist and Governor of the Bank of Thailand. He was a member of the Free Thai Movement and a rector of Thammasat University. He is known for his integrity.",
+            "keyDecisions": [
+                "Joining the Free Thai Movement (parachuting into Thailand).",
+                "Resigning rather than bowing to dictatorship.",
+                "Protecting students during the 1976 massacre.",
+                "Establishing the rural development program."
+            ],
+            "achievements": [
+                "Magsaysay Award.",
+                "Governor of the Bank of Thailand.",
+                "Symbol of integrity and technocracy.",
+                "Modernized the Thai economy."
+            ],
+            "challenges": [
+                "The 1976 Thammasat University massacre.",
+                "Accusations of being a communist.",
+                "Exile in the UK.",
+                "Stroke and loss of speech."
+            ],
+            "legacy": "Puey is the model of the 'good official'. His essay 'The Quality of Life of a Southeast Asian' is a classic.",
+            "quotes": [
+                "I want to be a good man."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Technocrat with a Soul.",
+            "culturalImpact": "He is a hero to academics and civil servants. A symbol of moral courage.",
+            "primarySources": [
+                "Writings (A Siamese for All Seasons).",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered for his honesty and competence.",
+                "His treatment in 1976 is a national shame."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Jim Thompson",
+            "nativeName": "James Harrison Wilson Thompson",
+            "lifespan": "1906-1967",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Businessman",
+            "background": "Jim Thompson was an American businessman who revitalized the Thai silk industry. He disappeared mysteriously in the Cameron Highlands of Malaysia in 1967.",
+            "keyDecisions": [
+                "Settling in Bangkok after WWII.",
+                "Promoting hand-woven Thai silk to the world.",
+                "Building his famous house (now a museum).",
+                "Employing local weavers."
+            ],
+            "achievements": [
+                "King of Thai Silk.",
+                "Order of the White Elephant.",
+                "Created a global luxury brand.",
+                "Preserved traditional weaving."
+            ],
+            "challenges": [
+                "Competition from machine-made silk.",
+                "Navigating Thai politics.",
+                "His mysterious disappearance.",
+                "Rumors of being a spy."
+            ],
+            "legacy": "Jim Thompson is synonymous with Thai silk. His house is one of the most visited tourist sites in Bangkok.",
+            "quotes": [
+                "I fell in love with the country and the people."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Silk King.",
+            "culturalImpact": "He put Thai silk on the fashion map. His disappearance is an enduring mystery.",
+            "primarySources": [
+                "Biographies.",
+                "Company records."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a cultural ambassador.",
+                "His life is the subject of many books and theories."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Ramkhamhaeng",
+            "nativeName": "Pho Khun Ram Khamhaeng Maharat",
+            "lifespan": "c. 1237-1298",
+            "era": "Medieval Period (13th Century)",
+            "role": "King",
+            "background": "King Ramkhamhaeng the Great was the third king of the Sukhothai Kingdom. He is credited with creating the Thai alphabet and establishing the 'golden age' of Sukhothai.",
+            "keyDecisions": [
+                "Creating the Thai script (1283).",
+                "Establishing free trade ('Who wants to trade in elephants, trades').",
+                "Hanging a bell for subjects to ring for justice.",
+                "Promoting Theravada Buddhism."
+            ],
+            "achievements": [
+                "Father of the Thai Alphabet.",
+                "Expanded the Sukhothai Kingdom.",
+                "Created a benevolent monarchy.",
+                "The Ramkhamhaeng Inscription (UNESCO Memory of the World)."
+            ],
+            "challenges": [
+                "Consolidating a new kingdom.",
+                "Relations with the Mongols (Yuan Dynasty).",
+                "Managing diverse peoples.",
+                "Succession."
+            ],
+            "legacy": "Ramkhamhaeng is the father of Thai culture. The inscription describes an idyllic society.",
+            "quotes": [
+                "In the water there are fish, in the fields there is rice."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of Thai Script.",
+            "culturalImpact": "Ramkhamhaeng University is named after him. He represents the ideal benevolent ruler.",
+            "primarySources": [
+                "Ramkhamhaeng Inscription (No. 1).",
+                "Chronicles."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a wise and just king.",
+                "The authenticity of the inscription is occasionally debated by scholars."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Kukrit Pramoj",
+            "nativeName": "Mom Rajawongse Kukrit Pramoj",
+            "lifespan": "1911-1995",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Prime Minister, Writer",
+            "background": "M.R. Kukrit Pramoj was a politician, scholar, and writer. He served as Prime Minister and is the author of 'Four Reigns' (Si Phaendin), a classic Thai novel. He was a master of traditional arts.",
+            "keyDecisions": [
+                "Founding the Social Action Party.",
+                "Establishing diplomatic relations with China (1975).",
+                "Writing 'Four Reigns'.",
+                "Playing the Prime Minister of Sarkhan in the movie 'The Ugly American'."
+            ],
+            "achievements": [
+                "National Artist for Literature.",
+                "Prime Minister.",
+                "Intellectual giant.",
+                "Authority on Thai culture."
+            ],
+            "challenges": [
+                "Political instability.",
+                "The Cold War.",
+                "Managing a coalition government.",
+                "Criticism for his aristocratic background."
+            ],
+            "legacy": "Kukrit is the Renaissance man of Thailand. His wit and wisdom are legendary.",
+            "quotes": [
+                "I am not a politician, I am a statesman."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Intellectual and Statesman.",
+            "culturalImpact": "'Four Reigns' is the definitive novel of the Bangkok period. His home is a museum.",
+            "primarySources": [
+                "Four Reigns.",
+                "Many Lives.",
+                "Newspaper columns."
+            ],
+            "modernInterpretations": [
+                "Revered as a cultural custodian.",
+                "His political legacy is respected."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Tony Jaa",
+            "nativeName": "Tatchakorn Yeerum (Tony Jaa)",
+            "lifespan": "1976-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Actor, Martial Artist",
+            "background": "Tony Jaa is a martial artist and actor who brought Muay Thai to the global stage with the movie 'Ong-Bak'. He is known for performing his own stunts without wires or CGI.",
+            "keyDecisions": [
+                "Training in Muay Boran.",
+                "Refusing to use wires or CGI.",
+                "Starring in Ong-Bak.",
+                "Moving to Hollywood."
+            ],
+            "achievements": [
+                "Global action star.",
+                "Popularized Muay Thai worldwide.",
+                "Starred in Fast & Furious 7.",
+                "Cultural ambassador."
+            ],
+            "challenges": [
+                "Injuries.",
+                "Contract disputes.",
+                "Language barriers.",
+                "Transitioning to international films."
+            ],
+            "legacy": "Tony Jaa is the Bruce Lee of Thailand. He made Thai martial arts cool.",
+            "quotes": [
+                "I want to show the world the beauty of Muay Thai."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Action Star.",
+            "culturalImpact": "He inspired a generation of martial artists. Ong-Bak is a classic.",
+            "primarySources": [
+                "Films (Ong-Bak, Tom-Yum-Goong).",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a physical phenomenon.",
+                "A source of national pride."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Mahidol Adulyadej",
+            "nativeName": "Somdet Phra Mahitala Dhibesra Adulyadej Vikrom",
+            "lifespan": "1892-1929",
+            "era": "Modern Period (20th Century)",
+            "role": "Prince, Doctor",
+            "background": "Prince Mahidol Adulyadej, the Prince Father, was the father of King Ananda Mahidol and King Bhumibol Adulyadej. He is regarded as the father of modern medicine and public health in Thailand.",
+            "keyDecisions": [
+                "Studying public health at Harvard.",
+                "Working as a doctor in rural hospitals.",
+                "Funding medical students.",
+                "Negotiating with the Rockefeller Foundation."
+            ],
+            "achievements": [
+                "Father of Modern Thai Medicine.",
+                "Harvard graduate.",
+                "Laid the foundation for the Thai healthcare system.",
+                "Father of two kings."
+            ],
+            "challenges": [
+                "Poor health (kidney disease).",
+                "Resistance from traditionalists.",
+                "Early death at 37.",
+                "Working in difficult conditions."
+            ],
+            "legacy": "Prince Mahidol is the patron saint of Thai doctors. His dedication to the poor is exemplary.",
+            "quotes": [
+                "True success is not in the learning, but in its application to the benefit of mankind."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Father of Medicine.",
+            "culturalImpact": "Mahidol University is named after him. His motto is the guiding principle for Thai medical professionals.",
+            "primarySources": [
+                "Letters.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Revered as a selfless humanitarian.",
+                "His legacy lives on in the healthcare system."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Banharn Silpa-archa",
+            "nativeName": "Banharn Silpa-archa",
+            "lifespan": "1932-2016",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Prime Minister",
+            "background": "Banharn Silpa-archa was a politician who served as Prime Minister. He is known as the 'Dragon of Suphan' for transforming his home province of Suphan Buri into one of the most developed in the country.",
+            "keyDecisions": [
+                "Developing Suphan Buri province.",
+                "Drafting the 1997 'People's Constitution'.",
+                "Leading the Chart Thai Party.",
+                "Being a master of patronage politics."
+            ],
+            "achievements": [
+                "Prime Minister.",
+                "Transformed Suphan Buri.",
+                "Facilitated the 1997 Constitution.",
+                "Political survivor."
+            ],
+            "challenges": [
+                "Accusations of corruption and incompetence.",
+                "The 'walking ATM' nickname.",
+                "Short tenure as PM.",
+                "Criticism from urban elites."
+            ],
+            "legacy": "Banharn is the archetype of the provincial political boss. His development of Suphan Buri is undeniable.",
+            "quotes": [
+                "I may be short, but I am fast."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Dragon of Suphan.",
+            "culturalImpact": "He represents the rural-urban divide in Thai politics.",
+            "primarySources": [
+                "News reports.",
+                "Biographies."
+            ],
+            "modernInterpretations": [
+                "Respected for his local development work.",
+                "Criticized for money politics."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Lisa",
+            "nativeName": "Lalisa Manobal",
+            "lifespan": "1997-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Musician, Idol",
+            "background": "Lisa is a rapper, singer, and dancer based in South Korea. She is a member of the girl group Blackpink. She is the most successful Thai K-pop artist and a global fashion icon.",
+            "keyDecisions": [
+                "Auditioning for YG Entertainment at age 13.",
+                "Moving to Korea alone to train.",
+                "Debuting with Blackpink.",
+                "Launching a solo career."
+            ],
+            "achievements": [
+                "Most followed K-pop artist on Instagram.",
+                "Guinness World Records holder.",
+                "Global Ambassador for Celine and Bvlgari.",
+                "Cultural icon."
+            ],
+            "challenges": [
+                "Grueling training period.",
+                "Language barrier.",
+                "Discrimination as a foreigner in K-pop.",
+                "Immense fame and scrutiny."
+            ],
+            "legacy": "Lisa is the pride of Thailand. She inspired millions of Thai children to dream big. She promoted Thai culture (e.g., wearing traditional headgear in her MV).",
+            "quotes": [
+                "I want to be a role model."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Global Pop Star.",
+            "culturalImpact": "She caused a sales boom for Thai meatballs just by mentioning them. A soft power phenomenon.",
+            "primarySources": [
+                "Albums (Lalisa).",
+                "Interviews.",
+                "Social media."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a national treasure.",
+                "Symbol of hard work and success."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Sorapong Chatree",
+            "nativeName": "Sorapong Chatree",
+            "lifespan": "1950-2022",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Actor",
+            "background": "Sorapong Chatree was a legendary film actor. He starred in hundreds of films and was named a National Artist. He was known for his humble personality and devotion to Buddhism.",
+            "keyDecisions": [
+                "Starting as an extra.",
+                "Becoming the favorite actor of Prince Chatrichalerm Yukol.",
+                "Building a massive temple (Wat Sorapong).",
+                "Remaining humble despite fame."
+            ],
+            "achievements": [
+                "National Artist.",
+                "Starred in 'The Legend of Suriyothai'.",
+                "Top actor of the 70s and 80s.",
+                "Built a landmark temple."
+            ],
+            "challenges": [
+                "Typecasting.",
+                "The decline of the Thai film industry in the 90s.",
+                "Health issues (lung cancer).",
+                "Balancing acting and religious work."
+            ],
+            "legacy": "Sorapong is the classic Thai hero. His temple in Korat is a major attraction.",
+            "quotes": [
+                "I am just an actor."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "National Artist.",
+            "culturalImpact": "He is one of the most recognizable faces in Thailand.",
+            "primarySources": [
+                "Films (Scar, King Naresuan).",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Revered as a great actor and a pious man.",
+                "A role model for the industry."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Khaosai Galaxy",
+            "nativeName": "Sura Saenkham (Khaosai Galaxy)",
+            "lifespan": "1959-",
+            "era": "Contemporary Period (20th Century)",
+            "role": "Athlete",
+            "background": "Khaosai Galaxy is a former professional boxer who defended his WBA Super Flyweight title 19 times. He is considered one of the greatest boxers of all time and is a member of the International Boxing Hall of Fame.",
+            "keyDecisions": [
+                "Switching from Muay Thai to Western boxing.",
+                "Defending his title 19 times.",
+                "Retiring undefeated.",
+                "Entering the entertainment industry."
+            ],
+            "achievements": [
+                "International Boxing Hall of Fame.",
+                "19 successful title defenses.",
+                "The Thai Tyson.",
+                "Never lost his title."
+            ],
+            "challenges": [
+                "Making weight.",
+                "Intense training.",
+                "Pressure to keep winning.",
+                "Life after boxing."
+            ],
+            "legacy": "Khaosai is a legend. When he fought, the streets of Bangkok were empty.",
+            "quotes": [
+                "My left hand is my weapon."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "Boxing Legend.",
+            "culturalImpact": "He is a household name. A symbol of invincibility.",
+            "primarySources": [
+                "Boxing records.",
+                "Fight footage."
+            ],
+            "modernInterpretations": [
+                "Celebrated as the greatest Thai boxer.",
+                "His knockout power is legendary."
+            ]
+        }
+    ]
+}

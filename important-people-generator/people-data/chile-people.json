@@ -1,0 +1,761 @@
+{
+    "country": "Chile",
+    "historicalFigures": [
+        {
+            "id": 1,
+            "name": "Pablo Neruda",
+            "nativeName": "Ricardo Eliécer Neftalí Reyes Basoalto (Pablo Neruda)",
+            "lifespan": "1904-1973",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Pablo Neruda was a poet and diplomat. He won the Nobel Prize in Literature and is considered one of the greatest poets of the 20th century.",
+            "keyDecisions": [
+                "Writing 'Twenty Love Poems and a Song of Despair'.",
+                "Serving as a diplomat in Spain (Civil War).",
+                "Joining the Communist Party.",
+                "Running for President (then withdrawing for Allende)."
+            ],
+            "achievements": [
+                "Nobel Prize winner.",
+                "Senator.",
+                "Diplomat.",
+                "Voice of the people."
+            ],
+            "challenges": [
+                "Exile.",
+                "Political persecution.",
+                "Cancer.",
+                "Death shortly after the coup."
+            ],
+            "legacy": "Neruda is the poet of love and revolution. His verses are quoted worldwide.",
+            "quotes": [
+                "I want to do with you what spring does with the cherry trees."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Poet.",
+            "culturalImpact": "His houses are museums.",
+            "primarySources": [
+                "Canto General.",
+                "Memoirs."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Criticized for his personal life (abandoning his daughter)."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Salvador Allende",
+            "nativeName": "Salvador Allende Gossens",
+            "lifespan": "1908-1973",
+            "era": "Modern Period (20th Century)",
+            "role": "President",
+            "background": "Salvador Allende was the first Marxist to become president of a Latin American country through open elections. He died during the 1973 military coup.",
+            "keyDecisions": [
+                "Nationalizing copper mines.",
+                "Implementing land reform.",
+                "Refusing to surrender during the coup.",
+                "Committing suicide in the La Moneda palace."
+            ],
+            "achievements": [
+                "Socialist leader.",
+                "Doctor.",
+                "Senator.",
+                "Symbol of democracy."
+            ],
+            "challenges": [
+                "US intervention (CIA).",
+                "Economic sabotage.",
+                "Military coup.",
+                "Polarization."
+            ],
+            "legacy": "Allende is a martyr of the left. His last speech is legendary.",
+            "quotes": [
+                "History is ours, and people make history."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Comrade.",
+            "culturalImpact": "He is a global icon.",
+            "primarySources": [
+                "Last speech.",
+                "Declassified documents."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "Criticized for economic mismanagement."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Augusto Pinochet",
+            "nativeName": "Augusto Pinochet Ugarte",
+            "lifespan": "1915-2006",
+            "era": "Modern Period (20th Century)",
+            "role": "Dictator",
+            "background": "Augusto Pinochet was a general who ruled Chile as a dictator from 1973 to 1990. His regime was marked by human rights abuses and free-market reforms.",
+            "keyDecisions": [
+                "Leading the 1973 coup.",
+                "Ordering the Caravan of Death.",
+                "Implementing neoliberal economics (Chicago Boys).",
+                "Accepting the 1988 plebiscite result."
+            ],
+            "achievements": [
+                "Economic modernization (Miracle of Chile).",
+                "Stability (through terror).",
+                "General.",
+                "Senator for life (briefly)."
+            ],
+            "challenges": [
+                "International condemnation.",
+                "Human rights trials.",
+                "Arrest in London.",
+                "Legacy."
+            ],
+            "legacy": "Pinochet is the villain of Chilean history. He modernized the economy but at a terrible human cost.",
+            "quotes": [
+                "Not a leaf moves in this country without my knowledge."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Dictator.",
+            "culturalImpact": "He remains polarizing.",
+            "primarySources": [
+                "Rettig Report.",
+                "Valech Report."
+            ],
+            "modernInterpretations": [
+                "Reviled as a murderer.",
+                "Praised by some for saving the country from communism."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Gabriela Mistral",
+            "nativeName": "Lucila Godoy Alcayaga (Gabriela Mistral)",
+            "lifespan": "1889-1957",
+            "era": "Modern Period (20th Century)",
+            "role": "Poet",
+            "background": "Gabriela Mistral was a poet and educator. She was the first Latin American author to receive the Nobel Prize in Literature.",
+            "keyDecisions": [
+                "Working as a rural teacher.",
+                "Writing 'Sonnets of Death'.",
+                "Helping reform Mexico's education system.",
+                "Serving as a diplomat."
+            ],
+            "achievements": [
+                "Nobel Prize winner.",
+                "Educator.",
+                "Diplomat.",
+                "Feminist."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Suicide of her lover.",
+                "Sexism.",
+                "Exile."
+            ],
+            "legacy": "Mistral is the mother of the nation. Her face is on the currency.",
+            "quotes": [
+                "We are guilty of many errors and many faults, but our worst crime is abandoning the children."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Teacher.",
+            "culturalImpact": "She is a saint of education.",
+            "primarySources": [
+                "Desolation.",
+                "Tenderness."
+            ],
+            "modernInterpretations": [
+                "Revered as a genius.",
+                "Her queer identity is now being explored."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Bernardo O'Higgins",
+            "nativeName": "Bernardo O'Higgins Riquelme",
+            "lifespan": "1778-1842",
+            "era": "Modern Period (19th Century)",
+            "role": "Liberator",
+            "background": "Bernardo O'Higgins was the Supreme Director of Chile. He is one of the founding fathers of the nation, leading the fight for independence from Spain.",
+            "keyDecisions": [
+                "Joining the independence movement.",
+                "Crossing the Andes with San Martín.",
+                "Winning the Battle of Chacabuco.",
+                "Abdicating to avoid civil war."
+            ],
+            "achievements": [
+                "Father of the Nation.",
+                "Liberator.",
+                "General.",
+                "Reformer."
+            ],
+            "challenges": [
+                "Royalist armies.",
+                "Rivalry with Carrera.",
+                "Exile in Peru.",
+                "Politics."
+            ],
+            "legacy": "O'Higgins is the George Washington of Chile. His name is everywhere.",
+            "quotes": [
+                "Live with honor or die with glory."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Father.",
+            "culturalImpact": "The main avenue in Santiago is named after him.",
+            "primarySources": [
+                "Letters.",
+                "Decrees."
+            ],
+            "modernInterpretations": [
+                "Revered as a patriot.",
+                "His authoritarian streak is noted."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Violeta Parra",
+            "nativeName": "Violeta del Carmen Parra Sandoval",
+            "lifespan": "1917-1967",
+            "era": "Modern Period (20th Century)",
+            "role": "Musician, Artist",
+            "background": "Violeta Parra was a folk singer and artist. She is the mother of the 'Nueva Canción' movement and wrote 'Gracias a la Vida'.",
+            "keyDecisions": [
+                "Collecting folk songs across Chile.",
+                "Exhibiting at the Louvre (first Latin American).",
+                "Writing 'Gracias a la Vida'.",
+                "Committing suicide."
+            ],
+            "achievements": [
+                "Mother of Latin Folk.",
+                "Artist.",
+                "Ethnomusicologist.",
+                "Genius."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Depression.",
+                "Heartbreak.",
+                "Lack of recognition."
+            ],
+            "legacy": "Violeta is the soul of Chile. Her songs are anthems.",
+            "quotes": [
+                "Thanks to life, which has given me so much."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Folklorist.",
+            "culturalImpact": "She inspired generations.",
+            "primarySources": [
+                "Songs.",
+                "Arpilleras (tapestries)."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a saint of art.",
+                "Her tragic end adds to the myth."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Victor Jara",
+            "nativeName": "Víctor Lidio Jara Martínez",
+            "lifespan": "1932-1973",
+            "era": "Modern Period (20th Century)",
+            "role": "Musician",
+            "background": "Victor Jara was a singer, theater director, and activist. He was tortured and murdered by the military regime in the Chile Stadium.",
+            "keyDecisions": [
+                "Supporting Allende's campaign.",
+                "Writing protest songs.",
+                "Refusing to flee.",
+                "Singing until the end."
+            ],
+            "achievements": [
+                "Voice of the poor.",
+                "Theater director.",
+                "Martyr.",
+                "Symbol."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Political hatred.",
+                "Torture.",
+                "Death."
+            ],
+            "legacy": "Victor Jara is the martyr of song. His hands were broken, but his voice lives on.",
+            "quotes": [
+                "The right to live in peace."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Martyr.",
+            "culturalImpact": "The stadium is now named after him.",
+            "primarySources": [
+                "Songs.",
+                "Testimonies."
+            ],
+            "modernInterpretations": [
+                "Revered as a hero.",
+                "Justice came decades later."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Michelle Bachelet",
+            "nativeName": "Verónica Michelle Bachelet Jeria",
+            "lifespan": "1951-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "President",
+            "background": "Michelle Bachelet was the first female President of Chile. A torture survivor and pediatrician, she also served as the UN High Commissioner for Human Rights.",
+            "keyDecisions": [
+                "Serving as Defense Minister (first woman).",
+                "Winning the presidency twice.",
+                "Expanding social welfare.",
+                "Leading UN Human Rights."
+            ],
+            "achievements": [
+                "First female president.",
+                "UN High Commissioner.",
+                "Doctor.",
+                "Survivor."
+            ],
+            "challenges": [
+                "Torture/Exile.",
+                "Student protests.",
+                "Caval scandal (son).",
+                "Conservative opposition."
+            ],
+            "legacy": "Bachelet is a global leader. She represents resilience and empathy.",
+            "quotes": [
+                "I am a victim of hatred, but I have dedicated my life to turning that hatred into understanding."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The President.",
+            "culturalImpact": "She broke gender barriers.",
+            "primarySources": [
+                "Speeches.",
+                "UN reports."
+            ],
+            "modernInterpretations": [
+                "Respected as a stateswoman.",
+                "Her second term was difficult."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Pedro Pascal",
+            "nativeName": "José Pedro Balmaceda Pascal",
+            "lifespan": "1975-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Actor",
+            "background": "Pedro Pascal is an actor. Born in Chile, his family fled the dictatorship. He is a global star known for 'The Mandalorian' and 'The Last of Us'.",
+            "keyDecisions": [
+                "Fleeing Chile as a baby.",
+                "Pursuing acting in New York.",
+                "Playing Oberyn Martell (Game of Thrones).",
+                "Becoming the Mandalorian."
+            ],
+            "achievements": [
+                "Global superstar.",
+                "Internet Daddy.",
+                "Actor.",
+                "Refugee."
+            ],
+            "challenges": [
+                "Exile.",
+                "Struggle for roles.",
+                "Family tragedy (mother's suicide).",
+                "Fame."
+            ],
+            "legacy": "Pedro Pascal is the most famous Chilean in the world right now. He is beloved.",
+            "quotes": [
+                "This is the way."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Star.",
+            "culturalImpact": "He is a cultural phenomenon.",
+            "primarySources": [
+                "Films.",
+                "TV shows."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a nice guy.",
+                "His support for Chile is appreciated."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Arturo Prat",
+            "nativeName": "Agustín Arturo Prat Chacón",
+            "lifespan": "1848-1879",
+            "era": "Modern Period (19th Century)",
+            "role": "Naval Hero",
+            "background": "Arturo Prat was a naval officer. He died heroically at the Battle of Iquique during the War of the Pacific, boarding the enemy ironclad Huáscar.",
+            "keyDecisions": [
+                "Blockading Iquique.",
+                "Refusing to surrender.",
+                "Boarding the Huáscar alone.",
+                "Dying on deck."
+            ],
+            "achievements": [
+                "Naval hero.",
+                "Lawyer.",
+                "Martyr.",
+                "Captain."
+            ],
+            "challenges": [
+                "Superior enemy ship.",
+                "Certain death.",
+                "Duty.",
+                "War."
+            ],
+            "legacy": "Prat is the ultimate hero. His sacrifice inspired the nation to win the war.",
+            "quotes": [
+                "Boys, the contest is unequal, but never has our flag been lowered."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Captain.",
+            "culturalImpact": "May 21 is a national holiday.",
+            "primarySources": [
+                "Logbooks.",
+                "Letters."
+            ],
+            "modernInterpretations": [
+                "Revered as a saint of patriotism.",
+                "His example is taught in schools."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Isabel Allende",
+            "nativeName": "Isabel Allende Llona",
+            "lifespan": "1942-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Isabel Allende is a writer. She is the world's most widely read Spanish-language author, known for 'The House of the Spirits'.",
+            "keyDecisions": [
+                "Fleeing Chile after the coup.",
+                "Writing a letter to her grandfather (which became her first novel).",
+                "Writing about women and magic realism.",
+                "Living in the US."
+            ],
+            "achievements": [
+                "Best-selling author.",
+                "Presidential Medal of Freedom.",
+                "Storyteller.",
+                "Feminist."
+            ],
+            "challenges": [
+                "Exile.",
+                "Death of her daughter Paula.",
+                "Critics (literary snobbery).",
+                "Language."
+            ],
+            "legacy": "Isabel Allende gave voice to the Latin American woman. Her stories are magic.",
+            "quotes": [
+                "Write what should not be forgotten."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Storyteller.",
+            "culturalImpact": "She is a literary giant.",
+            "primarySources": [
+                "The House of the Spirits.",
+                "Paula."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a master.",
+                "Her memoir 'Paula' is heartbreaking."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Lautaro",
+            "nativeName": "Leftraru (Lautaro)",
+            "lifespan": "1534-1557",
+            "era": "Early Modern Period (16th Century)",
+            "role": "Toqui (War Chief)",
+            "background": "Lautaro was a Mapuche military leader. He learned Spanish tactics while a captive of Pedro de Valdivia, then escaped to lead his people against the conquistadors.",
+            "keyDecisions": [
+                "Learning from the Spanish.",
+                "Escaping.",
+                "Uniting the Mapuche.",
+                "Killing Valdivia."
+            ],
+            "achievements": [
+                "Military genius.",
+                "Toqui.",
+                "Defeated the Spanish.",
+                "Hero."
+            ],
+            "challenges": [
+                "Spanish horses and gunpowder.",
+                "Smallpox.",
+                "Betrayal.",
+                "Death in battle."
+            ],
+            "legacy": "Lautaro is the first hero of Chile. He proved that the indigenous people could fight back.",
+            "quotes": [
+                "Arauco has a sorrow."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Toqui.",
+            "culturalImpact": "He is a symbol of resistance.",
+            "primarySources": [
+                "La Araucana (Epic poem).",
+                "Chronicles."
+            ],
+            "modernInterpretations": [
+                "Revered as a strategist.",
+                "Symbol of Mapuche pride."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Roberto Bolaño",
+            "nativeName": "Roberto Bolaño Ávalos",
+            "lifespan": "1953-2003",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Writer",
+            "background": "Roberto Bolaño was a writer. He is known for 'The Savage Detectives' and '2666', and is considered one of the most important Latin American voices.",
+            "keyDecisions": [
+                "Living as a vagabond poet.",
+                "Moving to Spain.",
+                "Writing furiously before his death.",
+                "Creating the Infrarealist movement."
+            ],
+            "achievements": [
+                "Literary icon.",
+                "Rómulo Gallegos Prize.",
+                "Cult author.",
+                "Visionary."
+            ],
+            "challenges": [
+                "Poverty.",
+                "Liver failure.",
+                "Obscurity (until late in life).",
+                "Time."
+            ],
+            "legacy": "Bolaño is the writer's writer. His work captures the chaos of the modern world.",
+            "quotes": [
+                "Literature is a dangerous game."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Rebel.",
+            "culturalImpact": "He redefined Latin American literature.",
+            "primarySources": [
+                "2666.",
+                "The Savage Detectives."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His posthumous fame is immense."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Claudio Bravo",
+            "nativeName": "Claudio Andrés Bravo Muñoz",
+            "lifespan": "1983-",
+            "era": "Contemporary Period (21st Century)",
+            "role": "Athlete",
+            "background": "Claudio Bravo is a goalkeeper. He captained the Golden Generation that won back-to-back Copa América titles.",
+            "keyDecisions": [
+                "Playing for Barcelona and Man City.",
+                "Captaining the national team.",
+                "Saving the penalty in the final.",
+                "Leading the team."
+            ],
+            "achievements": [
+                "Copa América Champion (x2).",
+                "Captain America.",
+                "La Liga winner.",
+                "Leader."
+            ],
+            "challenges": [
+                "Internal conflicts.",
+                "Injuries.",
+                "Pressure.",
+                "Age."
+            ],
+            "legacy": "Bravo is the captain. He lifted the first trophies in Chilean history.",
+            "quotes": [
+                "We are champions."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Captain.",
+            "culturalImpact": "He is a legend.",
+            "primarySources": [
+                "Match records.",
+                "Interviews."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a hero.",
+                "His leadership is praised."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Alejandro Jodorowsky",
+            "nativeName": "Alejandro Jodorowsky Prullansky",
+            "lifespan": "1929-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Director, Mystic",
+            "background": "Alejandro Jodorowsky is a filmmaker, comic book writer, and mystic. He is famous for his surreal films like 'El Topo' and 'The Holy Mountain'.",
+            "keyDecisions": [
+                "Moving to Paris.",
+                "Making 'El Topo'.",
+                "Creating Psychomagic.",
+                "Writing 'The Incal'."
+            ],
+            "achievements": [
+                "Cult director.",
+                "Comic book legend.",
+                "Mystic.",
+                "Artist."
+            ],
+            "challenges": [
+                "Censorship.",
+                "Funding (failed Dune project).",
+                "Critics.",
+                "Madness."
+            ],
+            "legacy": "Jodorowsky is a wizard. His imagination has no limits.",
+            "quotes": [
+                "I am the tarot."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Alchemist.",
+            "culturalImpact": "He influenced sci-fi globally.",
+            "primarySources": [
+                "Films.",
+                "Comics."
+            ],
+            "modernInterpretations": [
+                "Revered as a visionary.",
+                "His work is mind-bending."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Humberto Maturana",
+            "nativeName": "Humberto Maturana Romesín",
+            "lifespan": "1928-2021",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "Scientist, Philosopher",
+            "background": "Humberto Maturana was a biologist and philosopher. He coined the term 'autopoiesis' to define life, influencing cybernetics and sociology.",
+            "keyDecisions": [
+                "Studying vision in frogs.",
+                "Developing the theory of autopoiesis.",
+                "Collaborating with Francisco Varela.",
+                "Teaching."
+            ],
+            "achievements": [
+                "Autopoiesis.",
+                "National Prize for Science.",
+                "Philosopher.",
+                "Teacher."
+            ],
+            "challenges": [
+                "Complexity of his ideas.",
+                "Academic boundaries.",
+                "Politics.",
+                "Age."
+            ],
+            "legacy": "Maturana changed how we understand life. He is a giant of systems thinking.",
+            "quotes": [
+                "Everything said is said by an observer."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Thinker.",
+            "culturalImpact": "He is studied worldwide.",
+            "primarySources": [
+                "Autopoiesis and Cognition.",
+                "The Tree of Knowledge."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a genius.",
+                "His work is foundational."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Don Francisco",
+            "nativeName": "Mario Luis Kreutzberger Blumenfeld (Don Francisco)",
+            "lifespan": "1940-",
+            "era": "Contemporary Period (20th-21st Century)",
+            "role": "TV Host",
+            "background": "Don Francisco is a TV host. He created 'Sábado Gigante', the longest-running variety show in TV history, and founded the Teletón.",
+            "keyDecisions": [
+                "Creating Sábado Gigante.",
+                "Moving to Miami (Univision).",
+                "Founding the Teletón charity.",
+                "Uniting the Hispanic world."
+            ],
+            "achievements": [
+                "Guinness World Record.",
+                "TV legend.",
+                "Philanthropist.",
+                "Icon."
+            ],
+            "challenges": [
+                "Critics (vulgarity).",
+                "Scandals.",
+                "Staying relevant.",
+                "Politics."
+            ],
+            "legacy": "Don Francisco is the face of Saturday night. His Teletón united Chile.",
+            "quotes": [
+                "Qué dice el público!"
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Entertainer.",
+            "culturalImpact": "He is known by everyone.",
+            "primarySources": [
+                "Sábado Gigante.",
+                "Teletón."
+            ],
+            "modernInterpretations": [
+                "Celebrated as a legend.",
+                "His style is dated but iconic."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Eloísa Díaz",
+            "nativeName": "Eloísa Díaz Insunza",
+            "lifespan": "1866-1950",
+            "era": "Modern Period (19th-20th Century)",
+            "role": "Doctor",
+            "background": "Eloísa Díaz was the first female medical student and the first female doctor in Chile and South America.",
+            "keyDecisions": [
+                "Applying to university (using a new law).",
+                "Studying medicine among men.",
+                "Becoming a doctor.",
+                "Advocating for school hygiene."
+            ],
+            "achievements": [
+                "First female doctor.",
+                "Pioneer.",
+                "Reformer.",
+                "Role model."
+            ],
+            "challenges": [
+                "Sexism.",
+                "Prejudice.",
+                "Isolation.",
+                "Bureaucracy."
+            ],
+            "legacy": "Eloísa Díaz opened the door. She proved women could be scientists.",
+            "quotes": [
+                "I have broken the barrier."
+            ],
+            "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+            "significance": "The Pioneer.",
+            "culturalImpact": "She is a feminist icon.",
+            "primarySources": [
+                "University records.",
+                "Reports."
+            ],
+            "modernInterpretations": [
+                "Revered as a trailblazer.",
+                "Her courage is admired."
+            ]
+        }
+    ]
+}

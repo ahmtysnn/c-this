@@ -1,7 +1,0 @@
-Expected ',' or ']' after array element in JSON at position 21459
-
-SyntaxError: Expected ',' or ']' after array element in JSON at position 21459
-    at JSON.parse (<anonymous>)
-    at generateCountryHistory (C:\Users\ahmet\Desktop\country-name\history-generator\generate.js:219:21)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async generateAllHistories (C:\Users\ahmet\Desktop\country-name\history-generator\generate.js:285:27)

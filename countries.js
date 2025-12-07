@@ -1,5 +1,6 @@
 const COUNTRIES = [
   'Afghanistan',
+  'Aland Islands',
   'Albania',
   'Algeria',
   'American Samoa',
@@ -30,6 +31,7 @@ const COUNTRIES = [
   'Bouvet Island',
   'Brazil',
   'British Indian Ocean Territory',
+  'British Virgin Islands',
   'Brunei Darussalam',
   'Bulgaria',
   'Burkina Faso',
@@ -51,12 +53,12 @@ const COUNTRIES = [
   'Congo (Democratic Republic of the)',
   'Cook Islands',
   'Costa Rica',
+  'Côte d\'Ivoire',
   'Croatia',
   'Cuba',
   'Curaçao',
   'Cyprus',
   'Czechia',
-  'Côte d\'Ivoire',
   'Denmark',
   'Djibouti',
   'Dominica',
@@ -178,10 +180,10 @@ const COUNTRIES = [
   'Portugal',
   'Puerto Rico',
   'Qatar',
+  'Réunion',
   'Romania',
   'Russian Federation',
   'Rwanda',
-  'Réunion',
   'Saint Barthélemy',
   'Saint Helena, Ascension and Tristan da Cunha',
   'Saint Kitts and Nevis',
@@ -234,20 +236,17 @@ const COUNTRIES = [
   'United Kingdom',
   'United States Minor Outlying Islands',
   'United States of America',
+  'United States Virgin Islands',
   'Uruguay',
   'Uzbekistan',
   'Vanuatu',
   'Venezuela',
   'Viet Nam',
-  'Virgin Islands (British)',
-  'Virgin Islands (U.S.)',
   'Wallis and Futuna',
   'Western Sahara',
   'Yemen',
   'Zambia',
-  'Zimbabwe',
-  'Åland Islands'
+  'Zimbabwe'
 ];
 
-// At the bottom of countries.js
 module.exports = { COUNTRIES };

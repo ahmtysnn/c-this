@@ -1,0 +1,335 @@
+{
+  "name": "Thailand",
+  "region": "Southeast Asia",
+  "description": "Thailand, officially the Kingdom of Thailand, is a Southeast Asian country known for its stunning beaches, ornate temples, vibrant culture, and delicious cuisine. Situated in the heart of the Indochinese Peninsula, it boasts a diverse landscape ranging from tropical rainforests and limestone karsts to fertile plains and bustling cities. Thailand’s history is rich and complex, shaped by ancient kingdoms, colonial influences, and a resilient monarchy.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "71.7 Million",
+      "icon": "Users",
+      "description": "Thailand has a large and growing population, contributing to its dynamic economy and diverse cultural landscape.",
+      "detail": "The majority of the population resides in urban areas, particularly Bangkok and surrounding provinces."
+    },
+    {
+      "label": "Area",
+      "value": "513,120 sq km",
+      "icon": "MapPin",
+      "description": "Thailand’s area encompasses a wide range of geographical features, from mountainous regions to coastal plains.",
+      "detail": "It’s the 20th largest country by area in Southeast Asia."
+    },
+    {
+      "label": "Capital",
+      "value": "Bangkok",
+      "icon": "MapPin",
+      "description": "Bangkok is the vibrant capital and largest city of Thailand, a bustling metropolis blending ancient traditions with modern development.",
+      "detail": "It serves as the political, economic, and cultural center of the nation."
+    },
+    {
+      "label": "Currency",
+      "value": "Thai Baht (THB)",
+      "icon": "Coffee",
+      "description": "The Thai Baht is the official currency of Thailand, widely used in both urban and rural areas.",
+      "detail": "Exchange rates fluctuate, but generally offer good value for tourists."
+    },
+    {
+      "label": "Official Language",
+      "value": "Thai",
+      "icon": "Eye",
+      "description": "Thai is the official language of Thailand, known for its complex writing system and rich literary tradition.",
+      "detail": "English is widely spoken in tourist areas."
+    }
+  ],
+  "climateData": {
+    "title": "Thailand's Climate",
+    "description": "Thailand experiences a tropical monsoon climate, characterized by distinct wet and dry seasons. The country’s climate varies slightly depending on the region, with the north being cooler and drier than the south.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Hot Season",
+        "period": "March – May",
+        "description": "This is Thailand’s hottest period, with temperatures often exceeding 35°C (95°F).",
+        "keyFeatures": [
+          "High humidity",
+          "Sunny skies",
+          "Dry conditions"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Temple visits",
+          "City exploration"
+        ]
+      },
+      {
+        "name": "Rainy Season",
+        "period": "June – October",
+        "description": "The rainy season brings frequent showers and thunderstorms, particularly in the afternoons. However, the rain is often short-lived, and the landscape is lush and green.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Green landscapes",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Jungle trekking",
+          "Waterfalls",
+          "Boat trips"
+        ]
+      },
+      {
+        "name": "Cool Season",
+        "period": "November – February",
+        "description": "The cool season offers pleasant temperatures and lower humidity, making it an ideal time to visit Thailand.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Clear skies",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Mountain hiking",
+          "Cultural festivals",
+          "Exploring historical sites"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Khao Sok National Park",
+      "category": "Forest",
+      "description": "Khao Sok National Park is one of Thailand’s oldest rainforests, boasting a stunning limestone landscape, a vast lake (Cheow Lan Lake), and incredible biodiversity. It’s a haven for wildlife and offers a truly immersive jungle experience.",
+      "detailedDescription": "The park’s towering limestone cliffs, formed over millions of years, rise dramatically from the emerald waters of Cheow Lan Lake.  It’s a prime location for spotting wildlife like elephants, gibbons, and hornbills.",
+      "bestTime": "November – February",
+      "bestLocations": [
+        "Cheow Lan Lake",
+        "Rainforest trails"
+      ],
+      "viewingTips": [
+        "Hire a local guide for optimal wildlife spotting.",
+        "Bring insect repellent."
+      ],
+      "scientificData": {
+        "Height": "300-1,000m",
+        "Age": "Millions of years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Similan Islands",
+      "category": "Marine",
+      "description": "The Similan Islands are a group of nine islands located off the coast of Phang Nga Bay, renowned for their pristine white-sand beaches, crystal-clear turquoise waters, and vibrant coral reefs.",
+      "detailedDescription": "These islands are a diver’s paradise, offering exceptional visibility and a diverse range of marine life, including manta rays, whale sharks, and colorful reef fish. The islands are also a popular destination for snorkeling and relaxing on the beach.",
+      "bestTime": "November – April",
+      "bestLocations": [
+        "Elephant Bay",
+        "Ao Ao Beach"
+      ],
+      "viewingTips": [
+        "Book diving or snorkeling trips in advance.",
+        "Respect the marine environment."
+      ],
+      "scientificData": {
+        "Depth": "10-50m",
+        "CoralCoverage": "60%"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Doi Inthanon National Park",
+      "category": "Mountain",
+      "description": "Doi Inthanon National Park is home to Thailand’s highest peak, Doi Inthanon, offering breathtaking panoramic views and a cool, refreshing climate. The park is also rich in waterfalls, diverse flora and fauna, and traditional hill tribe villages.",
+      "detailedDescription": "The park’s diverse ecosystems range from montane forests to cloud forests, creating a unique and stunning landscape. Visitors can explore numerous hiking trails, visit the Royal Twin Pagodas, and learn about the local hill tribe cultures.",
+      "bestTime": "November – February",
+      "bestLocations": [
+        "Doi Inthanon Peak",
+        "Pam Bok Waterfall"
+      ],
+      "viewingTips": [
+        "Wear appropriate hiking shoes.",
+        "Bring warm clothing, as temperatures can be cooler at higher elevations."
+      ],
+      "scientificData": {
+        "Height": "2,565m",
+        "Rainfall": "3,000mm"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Mammals",
+    "icon": "Bird",
+    "description": "Thailand is home to a diverse range of mammals, including elephants, tigers, gibbons, and clouded leopards. Many of these species are threatened by habitat loss and poaching.",
+    "statistics": [
+      {
+        "category": "Elephants",
+        "count": "3,500",
+        "details": "Wild elephants are found in various habitats across Thailand."
+      },
+      {
+        "category": "Tigers",
+        "count": "400",
+        "details": "Slightly over 400 tigers remain in the wild, primarily in protected areas."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Asian Elephant",
+        "status": "Vulnerable",
+        "significance": "A keystone species, vital for forest regeneration and tourism."
+      },
+      {
+        "name": "Sunda Cloud Leopard",
+        "status": "Endangered",
+        "significance": "A rare and elusive predator, playing a crucial role in the ecosystem."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Human-wildlife conflict"
+    ],
+    "conservationEfforts": [
+      "Anti-poaching patrols",
+      "Habitat restoration",
+      "Community-based conservation programs"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Thai Rainforest Ecosystem",
+    "overview": "Thailand’s rainforests are a vital part of the country’s biodiversity and play a crucial role in regulating the climate. These ecosystems are home to a vast array of plant and animal species, many of which are found nowhere else in the world.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 13
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "A diverse group of mammals, including elephants, tigers, and primates, inhabit the rainforests.",
+        "statistics": [
+          {
+            "category": "Primates",
+            "count": "100",
+            "details": "Various species of monkeys and gibbons are found in the rainforests."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Bornean Orangutan",
+            "status": "Endangered",
+            "significance": "A highly intelligent primate, crucial for seed dispersal."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Protected area expansion"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Thailand",
+    "description": "Thailand offers a wide range of outdoor activities for all interests and skill levels, from adventurous treks to relaxing beach days.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Thailand’s stunning landscapes on foot, from mountain trails to jungle paths.",
+        "activities": [
+          {
+            "name": "Doi Inthanon Trek",
+            "difficulty": "Moderate",
+            "season": "November – February",
+            "duration": "1-3 days",
+            "description": "Hike through the lush forests of Doi Inthanon National Park, enjoying breathtaking views and diverse flora and fauna.",
+            "bestLocations": [
+              "Doi Inthanon Peak",
+              "Pam Bok Waterfall"
+            ],
+            "requirements": "Hiking boots, water bottle, insect repellent",
+            "safety": [
+              "Stay on marked trails",
+              "Inform someone of your plans"
+            ]
+          },
+          {
+            "name": "Khao Sok Jungle Trek",
+            "difficulty": "Hard",
+            "season": "March – May",
+            "duration": "2-5 days",
+            "description": "Embark on a challenging trek through the dense rainforest of Khao Sok National Park, encountering wildlife and stunning scenery.",
+            "bestLocations": [
+              "Cheow Lan Lake",
+              "Rainforest trails"
+            ],
+            "requirements": "Sturdy hiking boots, waterproof gear, insect repellent",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in Thailand’s beautiful beaches and coastal waters.",
+        "activities": [
+          {
+            "name": "Scuba Diving in Similan Islands",
+            "difficulty": "Moderate",
+            "season": "November – April",
+            "duration": "1-7 days",
+            "description": "Explore the vibrant coral reefs and diverse marine life of the Similan Islands.",
+            "bestLocations": [
+              "Elephant Bay",
+              "Ao Ao Beach"
+            ],
+            "requirements": "Scuba certification, swimsuit, sunscreen",
+            "safety": [
+              "Follow dive operator instructions",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Kayaking in Phang Nga Bay",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "2-4 hours",
+            "description": "Paddle through the stunning limestone karsts of Phang Nga Bay, enjoying the tranquility of the waters.",
+            "bestLocations": [
+              "Phang Nga Bay"
+            ],
+            "requirements": "Kayak, life jacket, sunscreen",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of boat traffic"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, hat",
+        "winter": "Layers of clothing, sweater, jacket, long pants",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "First-aid kit",
+        "Stay hydrated",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

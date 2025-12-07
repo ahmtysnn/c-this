@@ -1,0 +1,361 @@
+{
+  "name": "New Caledonia",
+  "region": "Oceania",
+  "description": "New Caledonia, an overseas territory of France in the southwest Pacific Ocean, is a volcanic archipelago renowned for its dramatic landscapes, unique biodiversity, and rich cultural heritage. Characterized by rugged mountains, pristine beaches, and lush rainforests, it offers a diverse range of experiences for nature lovers, adventure seekers, and those interested in exploring a fascinating blend of French and Melanesian cultures. The islands boast a remarkable level of endemism, with many plant and animal species found nowhere else on Earth.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Nouméa",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, located on the northwest coast.",
+      "detail": "Nouméa is a bustling port city and the administrative center of New Caledonia, offering a mix of French and Melanesian influences."
+    },
+    {
+      "label": "Population",
+      "value": "270,000",
+      "icon": "Users",
+      "description": "A relatively small population spread across the islands.",
+      "detail": "The population is comprised of Kanaks (indigenous Melanesians), Europeans, and people of mixed descent."
+    },
+    {
+      "label": "Area",
+      "value": "18,575 sq km (7,170 sq mi)",
+      "icon": "Globe",
+      "description": "A geographically diverse archipelago.",
+      "detail": "The main islands include Grande Terre, Ouvéa, Lifou, and Île-du-Pin."
+    },
+    {
+      "label": "Currency",
+      "value": "CFP Franc (XPF)",
+      "icon": "Coffee",
+      "description": "The local currency used throughout the territory.",
+      "detail": "It's pegged to the Euro, but has its own distinct symbol and exchange rate."
+    },
+    {
+      "label": "Official Language",
+      "value": "French",
+      "icon": "Navigation",
+      "description": "French is the official language, alongside Kanak languages.",
+      "detail": "Kanak languages are recognized as official languages in certain contexts."
+    },
+    {
+      "label": "Time Zone",
+      "value": "UTC+11",
+      "icon": "Clock",
+      "description": "New Caledonia operates on a time zone ahead of Coordinated Universal Time.",
+      "detail": "This results in a significant difference in daylight hours compared to many other regions."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate with Oceanic Influences",
+    "description": "New Caledonia experiences a tropical climate with distinct wet and dry seasons. The oceanic influence moderates temperatures, resulting in relatively stable conditions throughout the year. Rainfall is concentrated during the wet season, while the dry season offers sunny skies and pleasant temperatures.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season (November - April)",
+        "period": "November to April",
+        "description": "Characterized by high humidity, frequent rainfall, and lush vegetation.  The landscape is at its most vibrant.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Lush vegetation",
+          "Increased river levels"
+        ],
+        "activities": [
+          "Rainforest hikes",
+          "Waterfall exploration",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Dry Season (May - October)",
+        "period": "May to October",
+        "description": "Warm and sunny days with lower humidity.  Ideal for outdoor activities and exploring the coastline.",
+        "keyFeatures": [
+          "Sunny skies",
+          "Low humidity",
+          "Calm seas",
+          "Clear visibility"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Snorkeling",
+          "Diving",
+          "Coastal hikes"
+        ]
+      },
+      {
+        "name": "Transition Seasons (April/May & October/November)",
+        "period": "April/May & October/November",
+        "description": "A transitional period with gradually changing weather patterns.  Temperatures remain warm, but rainfall increases.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Increasing rainfall",
+          "Transitioning landscapes"
+        ],
+        "activities": [
+          "Birdwatching",
+          "Photography",
+          "Exploring diverse ecosystems"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Île des Pins",
+      "category": "Island",
+      "description": "Île des Pins, meaning 'Pins Island,' is a volcanic island renowned for its pristine beaches, turquoise waters, and abundant marine life. It's a haven for divers and snorkelers, offering a glimpse into a vibrant coral reef ecosystem.",
+      "detailedDescription": "The island's volcanic origins have created a dramatic landscape of rugged cliffs and sheltered bays.  Its isolation has contributed to its unique biodiversity, including several endemic bird species.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Anse Gabriel",
+        "Anse Volley",
+        "Anse Vauriou"
+      ],
+      "viewingTips": [
+        "Bring reef-safe sunscreen",
+        "Respect the marine environment",
+        "Consider a guided snorkeling tour"
+      ],
+      "scientificData": {
+        "Height": "330m",
+        "Volcanic Activity": "Active, with occasional minor eruptions",
+        "Area": "13.5 sq km"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Cascade de Wadjam (Waterfall)",
+      "category": "Waterfall",
+      "description": "The Cascade de Wadjam is a spectacular waterfall cascading down a sheer cliff face into a refreshing pool. It's a popular destination for hikers and nature enthusiasts seeking a tranquil escape.",
+      "detailedDescription": "Located in the heart of the Bougainville Mountains, the waterfall is surrounded by lush rainforest and offers stunning views of the surrounding landscape. The pool at the base is perfect for a cooling dip.",
+      "bestTime": "May - October (Dry Season)",
+      "bestLocations": [
+        "Bougainville Mountains"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking shoes",
+        "Bring insect repellent",
+        "Pack a picnic"
+      ],
+      "scientificData": {
+        "Height": "80m",
+        "Flow Rate": "Variable, depending on rainfall",
+        "Water Temperature": "18-22°C"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Mount Panié",
+      "category": "Mountain",
+      "description": "Mount Panié, the highest peak in New Caledonia, offers breathtaking panoramic views of the island and the surrounding ocean. It's a challenging but rewarding climb for experienced hikers.",
+      "detailedDescription": "The mountain is a dormant volcano, and its slopes are covered in dense rainforest.  The summit offers a 360-degree view of the archipelago.",
+      "bestTime": "June - September (Dry Season)",
+      "bestLocations": [
+        "Summit Trail"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Check weather conditions before setting out",
+        "Bring plenty of water"
+      ],
+      "scientificData": {
+        "Height": "2,781m",
+        "Volcanic Type": "Dormant Stratovolcano",
+        "Area": "10 sq km"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Endemic Flora and Fauna",
+    "icon": "Bird",
+    "description": "New Caledonia boasts an exceptionally high level of endemism, with a significant proportion of its plant and animal species found nowhere else on Earth. This is due to the islands' isolation and unique evolutionary history.",
+    "statistics": [
+      {
+        "category": "Plant Species",
+        "count": "Over 800",
+        "details": "Approximately 80% of the plant species are endemic."
+      },
+      {
+        "category": "Bird Species",
+        "count": "50+",
+        "details": "More than 50 bird species are endemic, including the Kagu, a flightless bird with a distinctive call."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Kagu",
+        "status": "Vulnerable",
+        "significance": "A unique flightless bird endemic to New Caledonia, known for its distinctive call and shy nature."
+      },
+      {
+        "name": "New Caledonia Rosewood",
+        "status": "Critically Endangered",
+        "significance": "A valuable timber tree that is threatened by habitat loss and illegal logging."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Invasive species",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Species recovery programs",
+      "Sustainable forestry practices"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Rainforest Ecosystems",
+    "overview": "New Caledonia's rainforests are incredibly diverse and play a crucial role in the islands' biodiversity. They cover a significant portion of the main island and are home to a vast array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 8
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Tropical Rainforest",
+        "icon": "Trees",
+        "description": "Dominated by towering trees, dense undergrowth, and high humidity.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "300+",
+            "details": "A remarkable diversity of tree species, many of which are endemic."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Logging",
+          "Land clearing"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Sustainable forestry"
+        ]
+      },
+      {
+        "name": "Coastal Mangroves",
+        "icon": "Leaf",
+        "description": "Found along the coastlines, these salt-tolerant forests provide vital habitat for marine life and protect the shoreline from erosion.",
+        "statistics": [
+          {
+            "category": "Mangrove Species",
+            "count": "10+",
+            "details": "Several mangrove species are endemic to New Caledonia."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Coastal management",
+          "Restoration projects"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures in New Caledonia",
+    "description": "New Caledonia offers a wide range of outdoor activities for all levels of experience, from hiking and diving to cultural tours and wildlife viewing.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the diverse landscapes of New Caledonia on foot.",
+        "activities": [
+          {
+            "name": "Mount Panié Summit Hike",
+            "difficulty": "Hard",
+            "season": "May - September",
+            "duration": "6-8 hours",
+            "description": "A challenging but rewarding hike to the summit of Mount Panié, offering panoramic views.",
+            "bestLocations": [
+              "Mount Panié"
+            ],
+            "requirements": "Good fitness level, hiking boots, water, sunscreen",
+            "safety": [
+              "Check weather conditions",
+              "Hike with a companion"
+            ]
+          },
+          {
+            "name": "Bougainville Mountains Trails",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "3-5 hours",
+            "description": "Explore a network of trails through the Bougainville Mountains, discovering waterfalls and rainforest scenery.",
+            "bestLocations": [
+              "Bougainville Mountains"
+            ],
+            "requirements": "Hiking boots, water, insect repellent",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of New Caledonia with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Diving at Île des Pins",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life of Île des Pins.",
+            "bestLocations": [
+              "Île des Pins"
+            ],
+            "requirements": "Scuba certification, snorkeling gear",
+            "safety": [
+              "Respect marine life",
+              "Follow dive guidelines"
+            ]
+          },
+          {
+            "name": "Snorkeling at Ouvéa",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Discover the colorful coral reefs and diverse marine life of Ouvéa.",
+            "bestLocations": [
+              "Ouvéa"
+            ],
+            "requirements": "Snorkeling gear",
+            "safety": [
+              "Be aware of currents",
+              "Use reef-safe sunscreen"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, waterproof jacket, sweater",
+        "yearRound": "Comfortable walking shoes, insect repellent"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Travel insurance",
+        "First-aid kit",
+        "Inform someone of your plans"
+      ]
+    }
+  }
+}

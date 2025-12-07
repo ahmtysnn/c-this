@@ -1,0 +1,343 @@
+{
+  "CountryData": {
+    "name": "Micronesia",
+    "region": "Oceania",
+    "description": "Micronesia, meaning 'small islands,' is a subregion of Oceania encompassing hundreds of islands scattered across the western Pacific Ocean. It’s divided into four states: Federated States of Micronesia (FSM), Palau, Northern Mariana Islands, and Guam (a US territory). Characterized by stunning coral reefs, volcanic landscapes, and a rich cultural heritage, Micronesia offers a unique blend of adventure, relaxation, and cultural immersion. The islands boast a diverse range of ecosystems, from dense rainforests to pristine beaches, and are home to an incredible array of marine and terrestrial life.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "160,000 (estimated)",
+        "icon": "Users",
+        "description": "The population is spread across numerous islands, with significant concentrations on Weno, Yap, and Kosrae in FSM.",
+        "detail": "Traditional communities maintain strong ties to their ancestral lands and practices."
+      },
+      {
+        "label": "Capital",
+        "value": "Palikir (FSM)",
+        "icon": "MapPin",
+        "description": "Palikir is the seat of government for the Federated States of Micronesia.",
+        "detail": "The city is relatively small and offers a glimpse into the nation's governance."
+      },
+      {
+        "label": "Currency",
+        "value": "US Dollar (USD)",
+        "icon": "Waves",
+        "description": "The US Dollar is the official currency.",
+        "detail": "Credit cards are accepted in larger establishments, but cash is essential for smaller islands and local markets."
+      },
+      {
+        "label": "Languages",
+        "value": "Micronesian, English, Chamorro",
+        "icon": "Globe",
+        "description": "Micronesian is a collective term for the languages spoken across the region.",
+        "detail": "English is widely used in education and government."
+      },
+      {
+        "label": "GDP",
+        "value": "$2.8 billion (2023)",
+        "icon": "Coffee",
+        "description": "The economy relies heavily on fishing, tourism, and US government assistance.",
+        "detail": "Sustainable tourism is a growing sector, focused on preserving the natural environment."
+      }
+    ],
+    "climateData": {
+      "title": "Tropical Climate",
+      "description": "Micronesia experiences a consistently warm and humid tropical climate year-round. Rainfall is abundant, particularly during the wet season, and temperatures typically range between 27°C and 32°C (81°F and 90°F). The islands are prone to tropical cyclones, especially during the November to April period.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Wet Season",
+          "period": "November – April",
+          "description": "Characterized by frequent heavy rainfall, high humidity, and increased risk of tropical cyclones.  The landscape is lush and vibrant.",
+          "keyFeatures": [
+            "Heavy rainfall",
+            "High humidity",
+            "Tropical cyclones"
+          ],
+          "activities": [
+            "Rainforest trekking",
+            "Waterfall exploration",
+            "Relaxing on beaches (with umbrellas!)"
+          ]
+        },
+        {
+          "name": "Dry Season",
+          "period": "May – October",
+          "description": "Generally drier with lower humidity and fewer tropical cyclones.  The sun shines brightly, and the seas are calmer.",
+          "keyFeatures": [
+            "Sunny days",
+            "Lower humidity",
+            "Calm seas"
+          ],
+          "activities": [
+            "Snorkeling and diving",
+            "Island hopping",
+            "Fishing"
+          ]
+        },
+        {
+          "name": "Shoulder Seasons (April-May & October-November)",
+          "period": "April-May & October-November",
+          "description": "Offers a balance of sunshine and rainfall, with fewer crowds and potentially lower prices.  A good time for exploring.",
+          "keyFeatures": [
+            "Moderate rainfall",
+            "Pleasant temperatures",
+            "Fewer tourists"
+          ],
+          "activities": [
+            "Hiking",
+            "Cultural tours",
+            "Beach relaxation"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Yap Lagoon",
+        "category": "Marine",
+        "description": "Yap Lagoon is one of the largest coral atolls in the world, offering unparalleled diving and snorkeling opportunities. Its pristine waters are teeming with vibrant coral reefs, diverse marine life, and fascinating underwater landscapes.",
+        "detailedDescription": "The lagoon’s unique ecosystem is protected by a barrier reef, creating a sheltered environment for a vast array of species.  It’s a UNESCO World Heritage Site.",
+        "bestTime": "May – October",
+        "bestLocations": [
+          "Yap Island",
+          "Various dive sites around the lagoon"
+        ],
+        "viewingTips": [
+          "Bring underwater camera",
+          "Respect marine life",
+          "Use reef-safe sunscreen"
+        ],
+        "scientificData": {
+          "Depth": "Average 10m, maximum 30m",
+          "Coral Coverage": "80%"
+        },
+        "icon": "Waves"
+      },
+      {
+        "id": 2,
+        "name": "Jalanul Beach",
+        "category": "Coastal",
+        "description": "Located on the island of Pohnpei, Jalanul Beach is renowned for its dramatic cliffs, black volcanic sand, and powerful waves. It’s a stunning example of Micronesia’s raw coastal beauty.",
+        "detailedDescription": "The beach is a popular spot for surfing and offers breathtaking views of the Pacific Ocean. The cliffs provide a habitat for various bird species.",
+        "bestTime": "June – August",
+        "bestLocations": [
+          "Pohnpei Island"
+        ],
+        "viewingTips": [
+          "Wear sturdy shoes for exploring the cliffs",
+          "Be aware of strong currents"
+        ],
+        "scientificData": {
+          "Sand Composition": "Volcanic basalt",
+          "Cliff Height": "Up to 100m"
+        },
+        "icon": "Waves"
+      },
+      {
+        "id": 3,
+        "name": "Bikini Atoll",
+        "category": "Geological",
+        "description": "Bikini Atoll is a unique geological formation, a ring-shaped coral atoll with a complex history of nuclear testing during the Cold War. Today, it’s a protected area and a vital research site.",
+        "detailedDescription": "The atoll’s lagoon is home to a remarkable diversity of marine life, and the surrounding islands offer stunning views of the Pacific Ocean.  It’s a testament to the power of nature and the impact of human activity.",
+        "bestTime": "Year-round (restricted access)",
+        "bestLocations": [
+          "Bikini Atoll"
+        ],
+        "viewingTips": [
+          "Respect restricted areas",
+          "Learn about the atoll’s history"
+        ],
+        "scientificData": {
+          "Ring Diameter": "5.3 km",
+          "Age": "10,000 - 12,000 years"
+        },
+        "icon": "Globe"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Micronesian Coral Reef Ecosystems",
+      "overview": "Micronesia’s coral reefs are among the most diverse and productive in the world, supporting a vast array of marine life and providing essential ecosystem services. These reefs are facing significant threats from climate change, pollution, and overfishing.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 15% of Micronesian waters are protected within Marine Protected Areas (MPAs).",
+        "nationalParks": 8
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Coral Reefs",
+          "icon": "Leaf",
+          "description": "The foundation of the Micronesian ecosystem, supporting a vast array of marine life.",
+          "statistics": [
+            {
+              "category": "Species Count",
+              "count": "Over 600 coral species",
+              "details": "Including many endemic species"
+            },
+            {
+              "category": "Reef Area",
+              "count": "Approximately 300,000 km²",
+              "details": "Covering a significant portion of the Pacific Ocean"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Giant Clam",
+              "status": "Vulnerable",
+              "significance": "A keystone species in coral reef ecosystems"
+            },
+            {
+              "name": "Manta Ray",
+              "status": "Endangered",
+              "significance": "A majestic predator and important part of the food chain"
+            }
+          ],
+          "threats": [
+            "Coral bleaching",
+            "Ocean acidification",
+            "Overfishing"
+          ],
+          "conservationEfforts": [
+            "Marine Protected Areas",
+            "Coral restoration projects",
+            "Sustainable fishing practices"
+          ]
+        },
+        {
+          "name": "Rainforests",
+          "icon": "Trees",
+          "description": "Dense rainforests cover many of the islands, harboring a wealth of unique plant and animal species.",
+          "statistics": [
+            {
+              "category": "Forest Cover",
+              "count": "Approximately 30% of land area",
+              "details": "Varies significantly between islands"
+            },
+            {
+              "category": "Species Count",
+              "count": "Over 500 plant species",
+              "details": "Many endemic to Micronesia"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Micronesian Kingfisher",
+              "status": "Endangered",
+              "significance": "A unique bird species found only in Micronesia"
+            },
+            {
+              "name": "Coconut Crab",
+              "status": "Vulnerable",
+              "significance": "The largest terrestrial arthropod in the world"
+            }
+          ],
+          "threats": [
+            "Deforestation",
+            "Habitat loss",
+            "Invasive species"
+          ],
+          "conservationEfforts": [
+            "Protected forests",
+            "Reforestation programs",
+            "Community-based conservation"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Micronesian Adventures",
+      "description": "Micronesia offers a diverse range of activities for travelers of all interests, from exploring vibrant coral reefs to hiking through lush rainforests.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Discover the natural beauty of the islands through a variety of hiking trails.",
+          "activities": [
+            {
+              "name": "Mount Pagan Hike",
+              "difficulty": "Moderate",
+              "season": "Year-Round",
+              "duration": "3-4 hours",
+              "description": "Hike to the summit of Mount Pagan, an extinct volcano, for panoramic views of Pohnpei.",
+              "bestLocations": [
+                "Pohnpei Island"
+              ],
+              "requirements": "Sturdy hiking boots, water, sunscreen",
+              "safety": [
+                "Be aware of steep slopes",
+                "Check weather conditions"
+              ]
+            },
+            {
+              "name": "Yap Island Trails",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "2-3 hours",
+              "description": "Explore the ancient ruins and traditional villages of Yap Island on a network of well-maintained trails.",
+              "bestLocations": [
+                "Yap Island"
+              ],
+              "requirements": "Comfortable walking shoes",
+              "safety": [
+                "Stay on marked trails"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Experience the crystal-clear waters of Micronesia through a variety of water sports.",
+          "activities": [
+            {
+              "name": "Scuba Diving",
+              "difficulty": "Moderate",
+              "season": "Year-Round",
+              "duration": "Variable",
+              "description": "Explore vibrant coral reefs and encounter diverse marine life.",
+              "bestLocations": [
+                "Yap Lagoon",
+                "Kosrae Island"
+              ],
+              "requirements": "Certification, diving equipment",
+              "safety": [
+                "Follow dive guidelines",
+                "Respect marine life"
+              ]
+            },
+            {
+              "name": "Snorkeling",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "Variable",
+              "description": "Discover the beauty of the coral reefs without diving.",
+              "bestLocations": [
+                "Various beaches and lagoons"
+              ],
+              "requirements": "Snorkel and mask",
+              "safety": [
+                "Be aware of currents"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+          "winter": "Light jacket, long-sleeved shirts, pants",
+          "yearRound": "Quick-drying fabrics, breathable clothing"
+        },
+        "equipment": {
+          "basic": "Sunscreen, insect repellent, first-aid kit",
+          "hiking": "Sturdy hiking boots, backpack, water bottle",
+          "photography": "Camera, waterproof case"
+        },
+        "safety": [
+          "Respect local customs",
+          "Stay hydrated",
+          "Be aware of tropical weather conditions"
+        ]
+      }
+    }
+  }
+}

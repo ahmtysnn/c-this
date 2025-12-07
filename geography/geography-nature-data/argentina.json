@@ -1,0 +1,372 @@
+{
+  "name": "Argentina",
+  "region": "South America",
+  "description": "Argentina, officially the Argentine Republic, is a vast and diverse country located primarily in the southern cone of South America. Known for its stunning landscapes, from the Andes Mountains to the Patagonian steppe and the lush Iguazu Falls, Argentina boasts a rich cultural heritage, a vibrant economy, and a passionate spirit. It’s a land of contrasts, offering everything from cosmopolitan cities like Buenos Aires to remote wilderness areas.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "2,780,400 km²",
+      "icon": "MapPin",
+      "description": "Argentina is the second-largest country in South America, after Brazil.",
+      "detail": "Its immense size contributes to its incredible biodiversity and varied climates."
+    },
+    {
+      "label": "Population",
+      "value": "46 million",
+      "icon": "Users",
+      "description": "Argentina has a population of approximately 46 million people.",
+      "detail": "The majority of the population resides in urban areas, particularly in Buenos Aires."
+    },
+    {
+      "label": "Capital",
+      "value": "Buenos Aires",
+      "icon": "MapPin",
+      "description": "Buenos Aires is the vibrant capital and largest city of Argentina.",
+      "detail": "Often referred to as the 'Paris of South America' for its European-influenced architecture and culture."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "Globe",
+      "description": "Spanish is the official language of Argentina.",
+      "detail": "However, regional dialects and indigenous languages are also spoken."
+    },
+    {
+      "label": "Currency",
+      "value": "Argentine Peso (ARS)",
+      "icon": "Coffee",
+      "description": "The official currency of Argentina is the Argentine Peso.",
+      "detail": "Inflation has historically been a significant economic challenge."
+    },
+    {
+      "label": "Independence Day",
+      "value": "July 9, 1816",
+      "icon": "Calendar",
+      "description": "Argentina declared its independence from Spain on July 9, 1816.",
+      "detail": "This date is celebrated as Argentina's Independence Day."
+    }
+  ],
+  "climateData": {
+    "title": "Climate Zones of Argentina",
+    "description": "Argentina experiences a wide range of climates due to its vast size and varied topography. From the arid deserts of Patagonia to the subtropical forests of the north, the country offers diverse weather conditions.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (December - February)",
+        "period": "December - February",
+        "description": "Summer in Argentina is characterized by warm to hot temperatures and abundant sunshine. It's the peak tourist season for many regions.",
+        "keyFeatures": [
+          "High temperatures",
+          "Long daylight hours",
+          "Increased rainfall in the north"
+        ],
+        "activities": [
+          "Hiking",
+          "Water sports",
+          "Beach activities",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Autumn (March - May)",
+        "period": "March - May",
+        "description": "Autumn brings cooler temperatures and stunning fall foliage, particularly in the Andean region. It's a beautiful time for outdoor activities.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Colorful foliage",
+          "Decreased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting",
+          "Cultural events"
+        ]
+      },
+      {
+        "name": "Winter (June - August)",
+        "period": "June - August",
+        "description": "Winter in Argentina is cold and snowy, especially in the southern regions like Patagonia. It's a good time for skiing and other winter sports.",
+        "keyFeatures": [
+          "Cold temperatures",
+          "Snowfall",
+          "Short daylight hours"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice climbing",
+          "Wildlife viewing (penguins, seals)"
+        ]
+      },
+      {
+        "name": "Spring (September - November)",
+        "period": "September - November",
+        "description": "Spring brings mild temperatures and blossoming flowers. It's a pleasant time to explore the country's natural beauty.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Blooming flowers",
+          "Increased daylight hours"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Birdwatching",
+          "Gardening"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Iguazu Falls",
+      "category": "Waterfall",
+      "description": "Iguazu Falls is a spectacular system of 275 waterfalls on the Iguazu River, located on the border between Argentina and Brazil. It's one of the world's most impressive natural wonders.",
+      "detailedDescription": "The falls are surrounded by lush rainforest and teeming with wildlife. The scale and power of the falls are truly awe-inspiring.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Argentina side (National Park)",
+        "Brazil side (Paraná State Park)"
+      ],
+      "viewingTips": [
+        "Bring waterproof clothing",
+        "Wear sturdy shoes",
+        "Allow ample time to explore"
+      ],
+      "scientificData": {
+        "Height": "82 meters",
+        "Width": "2.7 kilometers",
+        "Volume": "240 cubic meters per second"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Perito Moreno Glacier",
+      "category": "Glacier",
+      "description": "Perito Moreno Glacier is a massive, active glacier in Patagonia, known for its dramatic calving events – the crashing of ice into the lake.",
+      "detailedDescription": "The glacier is constantly advancing and retreating, creating a dynamic and ever-changing landscape. It's a popular destination for ice trekking and wildlife viewing.",
+      "bestTime": "Summer (December - February)",
+      "bestLocations": [
+        "El Calafate",
+        "Los Glaciares National Park"
+      ],
+      "viewingTips": [
+        "Take a boat tour for a closer view of the calving",
+        "Wear warm clothing",
+        "Bring binoculars"
+      ],
+      "scientificData": {
+        "Length": "65 kilometers",
+        "Area": "250 square kilometers",
+        "Thickness": "300 meters"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Pampas",
+      "category": "Grassland",
+      "description": "The Pampas are vast, fertile grasslands that cover a significant portion of Argentina, particularly in the central region.",
+      "detailedDescription": "Historically, the Pampas were the heartland of Argentina's cattle industry. Today, they are also used for agriculture and tourism.",
+      "bestTime": "Spring (September - November) and Autumn (March - May)",
+      "bestLocations": [
+        "Buenos Aires Province",
+        "Entre Ríos Province",
+        "Santa Fe Province"
+      ],
+      "viewingTips": [
+        "Visit a traditional estancia (ranch)",
+        "Attend a gaucho (cowboy) show"
+      ],
+      "scientificData": {
+        "Area": "300,000 square kilometers",
+        "GrasslandType": "Temperate Grassland"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Argentina",
+    "overview": "Argentina’s diverse geography supports a wide range of ecosystems, from the arid Patagonian steppe to the subtropical forests of the north. These ecosystems are home to an incredible array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "23%",
+      "nationalParks": 103
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Argentina is home to a diverse range of mammals, including jaguars, pumas, guanacos, and rheas.",
+        "statistics": [
+          {
+            "category": "Endangered",
+            "count": "15",
+            "details": "Several species are threatened by habitat loss and poaching."
+          },
+          {
+            "category": "Vulnerable",
+            "count": "30",
+            "details": "Many mammal species face challenges due to human activities."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Endangered",
+            "significance": "Top predator of the South American ecosystem"
+          },
+          {
+            "name": "Guanaco",
+            "status": "Least Concern",
+            "significance": "A wild relative of the llama"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Anti-poaching patrols",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Argentina boasts an exceptional variety of bird species, including flamingos, condors, and hummingbirds.",
+        "statistics": [
+          {
+            "category": "Endangered",
+            "count": "8",
+            "details": "Several bird species are facing population declines."
+          },
+          {
+            "category": "Vulnerable",
+            "count": "25",
+            "details": "Many bird species are threatened by habitat destruction."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Andean Condor",
+            "status": "Vulnerable",
+            "significance": "One of the largest flying birds in the world"
+          },
+          {
+            "name": "Chilean Flamingo",
+            "status": "Near Threatened",
+            "significance": "A striking pink bird found in wetlands"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal wildlife trade",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Habitat restoration",
+          "Community education"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Argentina",
+    "description": "Argentina offers a vast array of outdoor activities for all levels of experience, from hiking and trekking to water sports and wildlife viewing.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Argentina is a hiker's paradise, with trails ranging from easy strolls to challenging multi-day treks.",
+        "activities": [
+          {
+            "name": "Fitz Roy Trek",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "4-7 days",
+            "description": "A challenging trek to the base of Mount Fitz Roy, one of Argentina's most iconic peaks.",
+            "bestLocations": [
+              "El Chalten"
+            ],
+            "requirements": "Good fitness level, hiking experience, appropriate gear",
+            "safety": [
+              "Weather conditions can change rapidly",
+              "Altitude sickness"
+            ]
+          },
+          {
+            "name": "Perito Moreno Glacier Trek",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "3-5 hours",
+            "description": "Explore the Perito Moreno Glacier on foot with a guided tour.",
+            "bestLocations": [
+              "El Calafate"
+            ],
+            "requirements": "Sturdy hiking boots, warm clothing",
+            "safety": [
+              "Ice cleats recommended"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Argentina's coastline and numerous lakes offer opportunities for a variety of water sports.",
+        "activities": [
+          {
+            "name": "Kayaking in Patagonia",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Explore the stunning fjords and lakes of Patagonia by kayak.",
+            "bestLocations": [
+              "Puerto Natales",
+              "El Calafate"
+            ],
+            "requirements": "Kayaking experience, appropriate gear",
+            "safety": [
+              "Weather conditions can be unpredictable"
+            ]
+          },
+          {
+            "name": "Iguazu Falls Boat Tour",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-3 hours",
+            "description": "Experience the power of Iguazu Falls from a boat on the river.",
+            "bestLocations": [
+              "Argentina side"
+            ],
+            "requirements": "None",
+            "safety": [
+              "None"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket and pants, hat, gloves, scarf",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, insect repellent, sunscreen",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "First-aid kit",
+        "Inform someone of your plans"
+      ]
+    }
+  }
+}

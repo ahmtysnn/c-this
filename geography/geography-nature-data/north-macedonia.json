@@ -1,0 +1,350 @@
+{
+  "name": "North Macedonia",
+  "region": "Europe",
+  "description": "North Macedonia, officially the Republic of North Macedonia, is a landlocked country in the Balkan Peninsula. It boasts a diverse landscape ranging from the towering peaks of the Šar Mountains in the west to the fertile plains of the Skopje Plain in the south. The country is rich in history, culture, and natural beauty, offering a unique blend of influences from various civilizations throughout its long and complex past. It’s a relatively small country with a significant amount of natural diversity, making it a popular destination for ecotourism and adventure travel.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Skopje",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, a hub of commerce, culture, and history.",
+      "detail": "Skopje is known for its rich architectural heritage, including Ottoman and Yugoslavian influences, as well as modern developments."
+    },
+    {
+      "label": "Population",
+      "value": "2.1 million",
+      "icon": "Users",
+      "description": "A relatively small population contributes to a strong sense of community.",
+      "detail": "The population is predominantly Macedonian, with significant minority communities including Albanians, Turks, Roma, and others."
+    },
+    {
+      "label": "Area",
+      "value": "25,713 km²",
+      "icon": "Globe",
+      "description": "A compact nation with diverse geographical features.",
+      "detail": "North Macedonia is bordered by Serbia to the north, Bulgaria to the east, Greece to the south, and Albania to the west."
+    },
+    {
+      "label": "Official Language",
+      "value": "Macedonian",
+      "icon": "ArrowRight",
+      "description": "The primary language spoken throughout the country.",
+      "detail": "Serbian is also widely spoken, particularly in the north."
+    },
+    {
+      "label": "Currency",
+      "value": "Denar (MKD)",
+      "icon": "Coffee",
+      "description": "The local currency used for transactions.",
+      "detail": "The exchange rate fluctuates, but generally around 60 MKD to 1 EUR."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of North Macedonia",
+    "description": "North Macedonia experiences a continental climate with hot, dry summers and cold, snowy winters. The mountainous regions have a more alpine climate, while the plains are milder. Rainfall is generally abundant, particularly in the spring and autumn.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "A period of transition with blossoming wildflowers and increasing temperatures. It's a popular time for outdoor activities.",
+        "keyFeatures": [
+          "Blooming wildflowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Picnics"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Hot and dry, with sunny days and clear nights. Ideal for swimming and water sports.",
+        "keyFeatures": [
+          "High temperatures",
+          "Sunny skies",
+          "Low humidity"
+        ],
+        "activities": [
+          "Swimming",
+          "Water sports",
+          "Hiking",
+          "Camping"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Pleasant temperatures and colorful foliage. A good time for exploring the countryside.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Moderate temperatures",
+          "Decreasing rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Photography",
+          "Wine tasting"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Cold and snowy, with occasional freezing rain.  A time for cozying up indoors or enjoying winter sports.",
+        "keyFeatures": [
+          "Cold temperatures",
+          "Snowfall",
+          "Ice"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating",
+          "Visiting museums"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Šar Mountains",
+      "category": "Mountain Range",
+      "description": "The Šar Mountains are a prominent feature of North Macedonia, offering stunning views, diverse flora and fauna, and opportunities for hiking and skiing. They form a natural border between North Macedonia and Serbia.",
+      "detailedDescription": "The mountains are characterized by rugged peaks, deep valleys, and numerous glacial lakes. The region is rich in mineral resources and is home to several protected areas.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Košare",
+        "Žuj Mountains",
+        "Šar-Planina"
+      ],
+      "viewingTips": [
+        "Bring appropriate hiking gear",
+        "Check weather conditions before heading out",
+        "Respect the local environment"
+      ],
+      "scientificData": {
+        "Height": "2764 m",
+        "Area": "3,500 km²",
+        "ElevationRange": "800-2764 m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Lake Ohrid",
+      "category": "Lake",
+      "description": "One of Europe's oldest and deepest lakes, Lake Ohrid is a UNESCO World Heritage site renowned for its unique biodiversity and stunning scenery. It’s a vital ecosystem and a popular tourist destination.",
+      "detailedDescription": "The lake is characterized by its crystal-clear waters and numerous islands. It’s home to a variety of endemic fish species and plant life, making it a globally significant natural treasure.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "Pogradec",
+        "Ohrid Town",
+        "Trpejca"
+      ],
+      "viewingTips": [
+        "Take a boat trip to explore the islands",
+        "Visit the Ohrid Open Air Museum",
+        "Enjoy swimming and watersports"
+      ],
+      "scientificData": {
+        "Depth": "103 m",
+        "SurfaceArea": "358 km²",
+        "Age": "2900-5000 years"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Pelister National Park",
+      "category": "National Park",
+      "description": "Pelister National Park is a protected area in western North Macedonia, famous for its unique flora and fauna, particularly the endemic Balkan Chamois. It’s a haven for hikers and nature enthusiasts.",
+      "detailedDescription": "The park is dominated by the extinct volcano Mount Pelister, which is covered in a unique subalpine forest. The park is home to a variety of rare and endangered species, including the Balkan Chamois and the Pelister Lily.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Mount Pelister",
+        "Lake Pelister"
+      ],
+      "viewingTips": [
+        "Hire a local guide to explore the park",
+        "Wear sturdy hiking boots",
+        "Bring plenty of water"
+      ],
+      "scientificData": {
+        "Elevation": "2,000 m",
+        "Area": "16,500 ha",
+        "ForestCover": "90%"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Flora",
+    "icon": "Leaf",
+    "description": "North Macedonia boasts a rich and diverse flora, influenced by its varied climate and topography. The country is home to numerous endemic plant species, many of which are found only in its protected areas.",
+    "statistics": [
+      {
+        "category": "Endemic Species",
+        "count": "150+",
+        "details": "Numerous plant species found nowhere else in the world."
+      },
+      {
+        "category": "Forest Cover",
+        "count": "35%",
+        "details": "Significant portions of the country are covered in forests, supporting a wide range of plant life."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Pelister Lily",
+        "status": "Endangered",
+        "significance": "A unique and endemic lily species found only in Pelister National Park."
+      },
+      {
+        "name": "Edelweiss",
+        "status": "Vulnerable",
+        "significance": "A beautiful alpine flower found at high altitudes in the Šar Mountains."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Invasive species"
+    ],
+    "conservationEfforts": [
+      "Protected area management",
+      "Reforestation programs",
+      "Species monitoring"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Ecosystems of North Macedonia",
+    "overview": "North Macedonia’s ecosystems are incredibly diverse, ranging from alpine meadows to deciduous forests and wetlands. These ecosystems support a wide range of plant and animal life, contributing significantly to the country’s biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "North Macedonia is home to a variety of bird species, including raptors, songbirds, and waterfowl. The country is also an important migratory route for many bird species.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "250+",
+            "details": "A diverse range of bird species, including several endemic and migratory species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Balkan Chamois",
+            "status": "Endangered",
+            "significance": "A unique goat-antelope species found only in the mountains of North Macedonia."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Hunting",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Anti-poaching patrols",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in North Macedonia",
+    "description": "North Macedonia offers a wide range of outdoor activities for all skill levels, from hiking and cycling to water sports and wildlife watching.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the stunning mountain landscapes and enjoy breathtaking views.",
+        "activities": [
+          {
+            "name": "Šar Mountains Hike",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "1-3 days",
+            "description": "Hike through the rugged terrain of the Šar Mountains, enjoying stunning views and diverse flora and fauna.",
+            "bestLocations": [
+              "Košare",
+              "Žuj Mountains"
+            ],
+            "requirements": "Sturdy hiking boots, backpack, water, sunscreen",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your route",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Pelister National Park Trek",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "2-4 days",
+            "description": "Trek through the unique subalpine forest of Pelister National Park, exploring the mountain trails and enjoying the stunning scenery.",
+            "bestLocations": [
+              "Mount Pelister"
+            ],
+            "requirements": "Sturdy hiking boots, backpack, water, sunscreen, appropriate clothing for changing weather conditions",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of altitude sickness",
+              "Carry a first-aid kit"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy swimming, kayaking, and rafting on the country’s beautiful lakes and rivers.",
+        "activities": [
+          {
+            "name": "Lake Ohrid Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Half-day",
+            "description": "Relax and swim in the crystal-clear waters of Lake Ohrid.",
+            "bestLocations": [
+              "Ohrid Town",
+              "Trpejca"
+            ],
+            "requirements": "Swimsuit, towel, sunscreen",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Sturdy hiking boots, trekking poles",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a first-aid kit",
+        "Be aware of wildlife",
+        "Respect the environment"
+      ]
+    }
+  }
+}

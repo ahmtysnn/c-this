@@ -1,0 +1,304 @@
+{
+  "name": "Benin",
+  "region": "West Africa",
+  "description": "Benin, officially the Republic of Benin, is a country located along the Gulf of Guinea in West Africa. It shares borders with Togo to the west, Nigeria to the east, Burkina Faso and Niger to the north, and Ghana to the south. Known for its rich history, vibrant culture, and stunning natural landscapes, Benin offers a unique blend of tradition and modernity.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Porto-Novo",
+      "icon": "MapPin",
+      "description": "The political capital of Benin.",
+      "detail": "Porto-Novo is a bustling city located on the southern bank of the Ouémé River, offering a glimpse into the nation's administrative heart."
+    },
+    {
+      "label": "Population",
+      "value": "13.7 million",
+      "icon": "Users",
+      "description": "Benin's population is diverse and growing.",
+      "detail": "The majority of the population is of ethnic Yoruba origin, with significant populations of Fon, Bariba, and Kabye."
+    },
+    {
+      "label": "Official Language",
+      "value": "French",
+      "icon": "Globe",
+      "description": "French is the official language of Benin.",
+      "detail": "However, several indigenous languages are also widely spoken throughout the country."
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)",
+      "icon": "Coffee",
+      "description": "The currency used in Benin.",
+      "detail": "The CFA franc is pegged to the Euro."
+    },
+    {
+      "label": "Area",
+      "value": "112,622 km²",
+      "icon": "MapPin",
+      "description": "Benin's land area.",
+      "detail": "It is slightly smaller than the state of Maryland in the United States."
+    },
+    {
+      "label": "GDP (2023)",
+      "value": "$17.6 billion",
+      "icon": "Zap",
+      "description": "Benin's Gross Domestic Product.",
+      "detail": "The economy is largely based on agriculture and oil production."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Benin",
+    "description": "Benin experiences a tropical climate with two distinct seasons: a hot, rainy season and a cooler, drier season. The coastal areas are generally humid year-round.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Harmattan",
+        "period": "November - March",
+        "description": "The Harmattan is a dry and dusty trade wind that blows from the Sahara Desert, bringing cooler temperatures and reduced rainfall.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Dusty winds",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Relaxation",
+          "Cultural tourism"
+        ]
+      },
+      {
+        "name": "Rainy Season",
+        "period": "April - October",
+        "description": "This season is characterized by high humidity, frequent rainfall, and warm temperatures. It's the agricultural peak.",
+        "keyFeatures": [
+          "High humidity",
+          "Heavy rainfall",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Agricultural work",
+          "Water sports"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lake Ganvie",
+      "category": "Lake",
+      "description": "Lake Ganvie is a remarkable feat of engineering and a testament to the ingenuity of the Ganvie people. This entire village is built on stilts in the lake, creating a unique and vibrant community.",
+      "detailedDescription": "The lake is a vital source of fish and water for the villagers, and the stilt houses are constructed from wood and palm leaves. It's a truly unforgettable sight.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Ganvie, Porto-Novo Prefecture"
+      ],
+      "viewingTips": [
+        "Respect the local culture and traditions.",
+        "Hire a local guide for a deeper understanding."
+      ],
+      "scientificData": {
+        "Depth": "Maximum depth: 8 meters",
+        "Surface Area": "Approximately 30 square kilometers"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Parc National de PAFW",
+      "category": "National Park",
+      "description": "The Parc National de PAFW (Parc National de Faune et Flore d'Atakora) is a protected area in the Atakora Mountains, home to a diverse range of wildlife and plant species.",
+      "detailedDescription": "The park is a crucial habitat for endangered species like the chimpanzee and various bird species. It's a vital area for biodiversity conservation.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Atakora Mountains"
+      ],
+      "viewingTips": [
+        "Hire a local guide for optimal wildlife spotting.",
+        "Bring binoculars."
+      ],
+      "scientificData": {
+        "Elevation": "1,000 - 1,800 meters",
+        "Area": "Approximately 78,000 hectares"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Benin",
+    "overview": "Benin’s ecosystems are incredibly diverse, ranging from coastal mangroves to dense rainforests and savanna grasslands. These ecosystems support a rich array of flora and fauna.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Benin’s land area is protected in national parks and reserves.",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forest Ecosystems",
+        "icon": "Trees",
+        "description": "Benin is largely covered by tropical rainforests, playing a vital role in carbon sequestration and biodiversity.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 500",
+            "details": "A significant number of endemic tree species."
+          },
+          {
+            "category": "Biodiversity",
+            "count": "High",
+            "details": "Supports a wide range of animal and plant life."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Grey Parrot",
+            "status": "Vulnerable",
+            "significance": "An iconic species known for its intelligence and vocalizations."
+          },
+          {
+            "name": "Indri",
+            "status": "Endangered",
+            "significance": "A large lemur found in the higher elevations of the Atakora Mountains."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Community-based conservation programs",
+          "Reforestation initiatives"
+        ]
+      },
+      {
+        "name": "Coastal Ecosystems",
+        "icon": "Waves",
+        "description": "Benin’s coastline is characterized by mangrove forests, sandy beaches, and coral reefs.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 100,000 hectares",
+            "details": "Provides crucial habitat for marine life."
+          },
+          {
+            "category": "Coral Reefs",
+            "count": "Limited",
+            "details": "Facing threats from pollution and climate change."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Turtle",
+            "status": "Endangered",
+            "significance": "A threatened marine reptile that nests on Benin’s beaches."
+          },
+          {
+            "name": "Dugong",
+            "status": "Vulnerable",
+            "significance": "A marine mammal found in the coastal waters."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Benin",
+    "description": "Benin offers a diverse range of activities for travelers, from exploring historical sites to experiencing the natural beauty of the country.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the mountainous regions of Benin on foot.",
+        "activities": [
+          {
+            "name": "Atakora Mountains Trek",
+            "difficulty": "Moderate",
+            "season": "Dry Season (November - March)",
+            "duration": "2-5 days",
+            "description": "Hike through the lush forests of the Atakora Mountains, discovering waterfalls and diverse wildlife.",
+            "bestLocations": [
+              "Parc National de PAFW"
+            ],
+            "requirements": "Sturdy hiking boots, water bottle, insect repellent.",
+            "safety": [
+              "Be aware of wildlife.",
+              "Hire a local guide."
+            ]
+          },
+          {
+            "name": "Lake Ganvie Exploration",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Half-day",
+            "description": "Explore the unique stilt village of Lake Ganvie and learn about the local culture.",
+            "bestLocations": [
+              "Ganvie"
+            ],
+            "requirements": "Comfortable shoes.",
+            "safety": [
+              "Respect local customs."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the coastal waters of Benin with various water sports activities.",
+        "activities": [
+          {
+            "name": "Fishing",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Half-day to full-day",
+            "description": "Experience traditional fishing techniques and catch your own fish.",
+            "bestLocations": [
+              "Coastal areas"
+            ],
+            "requirements": "Fishing rod, bait.",
+            "safety": [
+              "Follow local fishing regulations."
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "Dry Season (November - March)",
+            "duration": "Half-day",
+            "description": "Paddle through the mangroves and explore the coastline.",
+            "bestLocations": [
+              "Coastal mangroves"
+            ],
+            "requirements": "Kayak, life jacket.",
+            "safety": [
+              "Be aware of currents."
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen.",
+        "winter": "Layers of clothing, a light jacket, and a hat.",
+        "yearRound": "Comfortable walking shoes, a rain jacket."
+      },
+      "equipment": {
+        "basic": "Insect repellent, sunscreen, hat, sunglasses.",
+        "hiking": "Sturdy hiking boots, backpack, water bottle.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Drink bottled water.",
+        "Be aware of your surroundings.",
+        "Consult a doctor before traveling."
+      ]
+    }
+  }
+}

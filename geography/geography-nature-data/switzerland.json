@@ -1,0 +1,369 @@
+{
+  "name": "Switzerland",
+  "region": "Europe",
+  "description": "Switzerland, officially the Swiss Confederation, is a landlocked country in Central Europe, renowned for its stunning alpine landscapes, pristine lakes, and rich cultural heritage. It’s a global leader in finance, precision manufacturing, and neutrality. The country is comprised of 26 cantons, each with a degree of autonomy, and is characterized by its multilingualism – German, French, Italian, and Romansh are all official languages.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "41,285 sq km (15,949 sq mi)",
+      "icon": "MapPin",
+      "description": "Switzerland is a relatively small country, but incredibly diverse in its geography.",
+      "detail": "It’s the ninth-largest country by area in Europe."
+    },
+    {
+      "label": "Population",
+      "value": "8.7 million",
+      "icon": "Users",
+      "description": "Switzerland has a high population density.",
+      "detail": "The population is concentrated in the valleys and along the major rivers."
+    },
+    {
+      "label": "Capital",
+      "value": "Bern",
+      "icon": "Navigation",
+      "description": "Bern is the political center of Switzerland.",
+      "detail": "It’s a UNESCO World Heritage Site, famous for its arcaded medieval streets."
+    },
+    {
+      "label": "GDP",
+      "value": "837.3 billion USD (2023)",
+      "icon": "Globe",
+      "description": "Switzerland boasts one of the highest GDPs per capita in the world.",
+      "detail": "It’s a major financial center."
+    },
+    {
+      "label": "Languages",
+      "value": "German, French, Italian, Romansh",
+      "icon": "ArrowRight",
+      "description": "Switzerland’s linguistic diversity is a defining feature.",
+      "detail": "Each canton has its own official language."
+    },
+    {
+      "label": "Currency",
+      "value": "Swiss Franc (CHF)",
+      "icon": "Coffee",
+      "description": "The Swiss Franc is a stable and widely respected currency.",
+      "detail": "It's known for its low inflation rate."
+    }
+  ],
+  "climateData": {
+    "title": "Alpine Climate",
+    "description": "Switzerland experiences a temperate climate with significant regional variations due to its mountainous terrain.  The Alps create a rain shadow effect, leading to drier conditions in the east.  Winters are cold and snowy, while summers are mild and pleasant.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual thaw, with wildflowers blooming in the meadows and forests. Snow melts rapidly, creating rushing rivers and waterfalls.",
+        "keyFeatures": [
+          "Melting snow",
+          "Wildflowers",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Ski touring (late spring)"
+        ]
+      },
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Summer is the most popular time to visit, with warm temperatures and long daylight hours. The Alps are covered in snow, offering excellent hiking and mountaineering opportunities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Long daylight hours",
+          "Snow-capped peaks"
+        ],
+        "activities": [
+          "Hiking",
+          "Mountain biking",
+          "Swimming",
+          "Via Ferrata"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Autumn brings vibrant foliage colors as the leaves change. Temperatures cool down, and rainfall increases. It’s a beautiful time for hiking and photography.",
+        "keyFeatures": [
+          "Fall foliage",
+          "Cooler temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Leaf peeping"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Winter is dominated by snow and ice. The Alps become a popular destination for skiing, snowboarding, and other winter sports.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Winter sports"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating",
+          "Snowshoeing"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Matterhorn",
+      "category": "Mountain",
+      "description": "The Matterhorn is a iconic pyramidal mountain in the Pennine Alps, straddling the border between Switzerland and Italy. Its distinctive shape has made it a symbol of the Swiss Alps and a popular climbing destination.",
+      "detailedDescription": "Rising to a height of 4,478 meters (14,692 ft), the Matterhorn is one of the most recognizable mountains in the world. Its steep, near-vertical faces present a significant challenge to climbers, and it has a long and tragic history of mountaineering accidents.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Zermatt",
+        "Gornergrat"
+      ],
+      "viewingTips": [
+        "Take a cable car to Gornergrat for panoramic views",
+        "Visit the Matterhorn Museum in Zermatt"
+      ],
+      "scientificData": {
+        "Height": "4,478 m",
+        "Age": "Approximately 260 million years old",
+        "Rock Type": "Granite"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Lake Geneva (Lac Léman)",
+      "category": "Lake",
+      "description": "Lake Geneva is a large lake shared by Switzerland and France. It’s known for its stunning scenery, including the surrounding Alps and charming lakeside towns.",
+      "detailedDescription": "The lake’s waters are fed by numerous rivers and glaciers, creating a diverse ecosystem. It’s a popular destination for boating, swimming, and watersports. The city of Geneva, located on the Swiss side, is a major international hub.",
+      "bestTime": "June - August",
+      "bestLocations": [
+        "Geneva",
+        "Montreux",
+        "Lausanne"
+      ],
+      "viewingTips": [
+        "Take a boat trip on the lake",
+        "Visit Chillon Castle"
+      ],
+      "scientificData": {
+        "Surface Area": "580 sq km (224 sq mi)",
+        "Maximum Depth": "310 m (1,020 ft)"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 3,
+      "name": "Jungfraujoch – Top of Europe",
+      "category": "Mountain Pass",
+      "description": "Jungfraujoch is a mountain pass in the Bernese Alps, often referred to as the 'Top of Europe'. It’s the highest railway station in Europe and offers breathtaking views of the surrounding glaciers and peaks.",
+      "detailedDescription": "Reaching Jungfraujoch involves a journey through a tunnel carved into the Eiger, Mönch, and Jungfrau mountains. Once there, visitors can explore the Ice Palace, Sphinx Observatory, and Plateau, where they can walk on the Aletsch Glacier – the longest glacier in the Alps.",
+      "bestTime": "June - October",
+      "bestLocations": [
+        "Interlaken"
+      ],
+      "viewingTips": [
+        "Dress warmly, as temperatures are significantly colder at this altitude",
+        "Allow plenty of time to explore the various attractions"
+      ],
+      "scientificData": {
+        "Altitude": "3,454 m (11,332 ft)",
+        "Glacier Coverage": "Approximately 27 km (17 mi)"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Alpine Ecosystem",
+    "overview": "The Swiss Alps are home to a unique and fragile alpine ecosystem, characterized by high altitudes, harsh weather conditions, and limited vegetation. This ecosystem supports a diverse range of plant and animal life, including iconic species like the ibex and marmot.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "The alpine flora is adapted to the harsh conditions, with low-growing plants like mosses, lichens, and dwarf shrubs dominating the landscape.",
+        "statistics": [
+          {
+            "category": "Alpine Flowers",
+            "count": "Over 600 species",
+            "details": "Including Edelweiss and Gentian"
+          },
+          {
+            "category": "Coniferous Trees",
+            "count": "Abundant in valleys",
+            "details": "Such as Spruce and Pine"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Edelweiss",
+            "status": "Vulnerable",
+            "significance": "A national symbol of Switzerland"
+          },
+          {
+            "name": "Gentian",
+            "status": "Least Concern",
+            "significance": "Known for its vibrant blue flowers"
+          }
+        ],
+        "threats": [
+          "Climate change",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Reforestation programs"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "The alpine fauna includes iconic species like the ibex, chamois, marmot, and various bird species.",
+        "statistics": [
+          {
+            "category": "Mammals",
+            "count": "Around 60 species",
+            "details": "Including Ibex, Chamois, Marmot"
+          },
+          {
+            "category": "Birds",
+            "count": "Over 200 species",
+            "details": "Including Golden Eagle and Ptarmigan"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Ibex",
+            "status": "Near Threatened",
+            "significance": "A symbol of the Swiss Alps"
+          },
+          {
+            "name": "Golden Eagle",
+            "status": "Least Concern",
+            "significance": "A powerful predator of the mountains"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures in Switzerland",
+    "description": "Switzerland offers a wide range of outdoor activities for all skill levels, from leisurely hikes to challenging mountaineering expeditions.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Switzerland is a hiker's paradise, with trails ranging from easy valley walks to strenuous mountain ascents.",
+        "activities": [
+          {
+            "name": "Valley Hike",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "2-6 hours",
+            "description": "Enjoy a scenic walk through the valleys, surrounded by mountains and forests.",
+            "bestLocations": [
+              "Lauterbrunnen Valley",
+              "Zermatt"
+            ],
+            "requirements": "Comfortable hiking shoes, water, snacks",
+            "safety": [
+              "Stay on marked trails",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Mountain Hike",
+            "difficulty": "Moderate to Hard",
+            "season": "Summer (June-September)",
+            "duration": "6-12 hours",
+            "description": "Challenge yourself with a hike to a mountain peak, enjoying stunning panoramic views.",
+            "bestLocations": [
+              "Eiger Trail",
+              "Jungfrau Trail"
+            ],
+            "requirements": "Hiking boots, trekking poles, appropriate clothing",
+            "safety": [
+              "Navigation skills",
+              "Emergency supplies"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Switzerland’s lakes and rivers offer opportunities for a variety of water sports.",
+        "activities": [
+          {
+            "name": "Canoeing/Kayaking",
+            "difficulty": "Easy to Moderate",
+            "season": "Summer",
+            "duration": "2-4 hours",
+            "description": "Explore the lakes and rivers by canoe or kayak.",
+            "bestLocations": [
+              "Lake Geneva",
+              "Lake Lucerne"
+            ],
+            "requirements": "Life jacket, paddle",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Take a refreshing dip in one of Switzerland’s many lakes.",
+            "bestLocations": [
+              "Lake Lucerne",
+              "Lake Maggiore"
+            ],
+            "requirements": "Swimsuit, towel",
+            "safety": [
+              "Swim in designated areas",
+              "Supervised by lifeguards"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket and pants, hat, gloves, scarf",
+        "yearRound": "Versatile clothing that can be layered"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your hiking plans",
+        "Check weather conditions before heading out",
+        "Carry a first-aid kit",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

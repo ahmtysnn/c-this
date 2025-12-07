@@ -1,0 +1,362 @@
+{
+  "name": "Ecuador",
+  "region": "South America",
+  "description": "Ecuador, a land of dramatic contrasts, straddles the equator and boasts an astonishing diversity of ecosystems, from the snow-capped Andes Mountains to the Amazon rainforest and the Pacific coast. Known as 'La Delicia de Ensueño' (The Delightful Dream), Ecuador offers a unique blend of indigenous cultures, colonial history, and breathtaking natural beauty. Its stable economy and welcoming people make it an increasingly popular destination for travelers and researchers alike.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Quito",
+      "icon": "MapPin",
+      "description": "The historic capital city, nestled high in the Andes.",
+      "detail": "Quito is a UNESCO World Heritage site, renowned for its well-preserved colonial architecture and vibrant cultural scene."
+    },
+    {
+      "label": "Population",
+      "value": "18.2 million",
+      "icon": "Users",
+      "description": "A diverse population with strong indigenous roots.",
+      "detail": "Ecuador is home to over 36 officially recognized indigenous groups, each with its own unique traditions and languages."
+    },
+    {
+      "label": "Area",
+      "value": "283,561 sq km",
+      "icon": "Globe",
+      "description": "A relatively small but incredibly diverse country.",
+      "detail": "Ecuador's size belies its incredible biodiversity, encompassing a wide range of habitats."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "ArrowRight",
+      "description": "The primary language spoken throughout the country.",
+      "detail": "Quechua and Shuar are also official languages, reflecting the country's indigenous heritage."
+    },
+    {
+      "label": "Currency",
+      "value": "US Dollar (USD)",
+      "icon": "Zap",
+      "description": "The official currency of Ecuador.",
+      "detail": "The US Dollar was adopted in 2000, stabilizing the economy after a period of hyperinflation."
+    },
+    {
+      "label": "Elevation",
+      "value": "2,850 m",
+      "icon": "Mountain",
+      "description": "The highest point in Ecuador.",
+      "detail": "Mount Chimborazo, located in the Andes, is the furthest point from the Earth's center."
+    }
+  ],
+  "climateData": {
+    "title": "Ecuadorian Climate",
+    "description": "Ecuador experiences a wide range of climates due to its varied topography. The Andes Mountains have cool, alpine climates, while the Amazon rainforest is hot and humid. The coastal regions are generally mild and dry, and the Galapagos Islands boast a unique subtropical climate.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (December - March)",
+        "period": "December to March",
+        "description": "Warm and humid, with frequent rainfall, particularly in the Amazon and coastal regions.",
+        "keyFeatures": [
+          "High humidity",
+          "Rainy season",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Rainforest trekking",
+          "Coastal surfing",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Autumn (April - May)",
+        "period": "April to May",
+        "description": "Transition period with decreasing rainfall and pleasant temperatures.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Less rainfall",
+          "Colorful foliage"
+        ],
+        "activities": [
+          "Hiking in the Andes",
+          "Visiting the Galapagos Islands",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Winter (June - August)",
+        "period": "June to August",
+        "description": "Dry season in the highlands, with cool temperatures and clear skies. The coast is sunny and dry.",
+        "keyFeatures": [
+          "Dry weather",
+          "Cool temperatures",
+          "Ideal for hiking"
+        ],
+        "activities": [
+          "Exploring the Andes",
+          "Visiting colonial cities",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Spring (September - November)",
+        "period": "September to November",
+        "description": "Increasing rainfall and warmer temperatures, with blooming flowers and lush vegetation.",
+        "keyFeatures": [
+          "Increasing rainfall",
+          "Warmer temperatures",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Amazon rainforest exploration",
+          "Coastal fishing",
+          "Wildlife photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Galapagos Islands",
+      "category": "Archipelago",
+      "description": "A volcanic archipelago renowned for its unique wildlife, including giant tortoises, marine iguanas, and blue-footed boobies. These islands played a crucial role in Charles Darwin's theory of evolution.",
+      "detailedDescription": "The Galapagos Islands are a UNESCO World Heritage Site and a living laboratory of evolution. Their isolation has allowed unique species to develop, making them one of the most remarkable destinations on Earth.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Isabela Island",
+        "Santa Cruz Island",
+        "San Cristobal Island"
+      ],
+      "viewingTips": [
+        "Bring binoculars",
+        "Respect wildlife",
+        "Hire a knowledgeable guide"
+      ],
+      "scientificData": {
+        "Area": "18,000 sq km",
+        "Volcanoes": "13 active volcanoes",
+        "Species": "Over 100 endemic species"
+      },
+      "icon": "Globe"
+    },
+    {
+      "id": 2,
+      "name": "Amazon Rainforest (Yasuni National Park)",
+      "category": "Rainforest",
+      "description": "A vast expanse of tropical rainforest teeming with biodiversity, home to countless plant and animal species, including jaguars, monkeys, and colorful birds.",
+      "detailedDescription": "Yasuni National Park, located in the Ecuadorian Amazon, is one of the most biodiverse places on the planet. It’s a critical area for carbon sequestration and plays a vital role in regulating the global climate.",
+      "bestTime": "June - November (dry season)",
+      "bestLocations": [
+        "Napo Wildlife Center",
+        "Curaray River"
+      ],
+      "viewingTips": [
+        "Pack insect repellent",
+        "Wear long sleeves and pants",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Trees": "Over 1,600 tree species",
+        "Rivers": "Numerous rivers and tributaries",
+        "Biodiversity": "Estimated 10% of the world's biodiversity"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Cotopaxi Volcano",
+      "category": "Volcano",
+      "description": "A towering, snow-capped volcano in the Andes Mountains, offering stunning views and challenging hiking opportunities.",
+      "detailedDescription": "Cotopaxi is one of the highest active volcanoes in the world and a symbol of Ecuador. Its perfectly symmetrical cone is a popular destination for mountaineers and photographers.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Laguna Limpi"
+      ],
+      "viewingTips": [
+        "Acclimatize to the altitude",
+        "Check weather conditions",
+        "Hire a guide"
+      ],
+      "scientificData": {
+        "Height": "5,897 m",
+        "Volcanic Activity": "Active, with occasional eruptions"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Birds",
+    "icon": "Bird",
+    "description": "Ecuador is a paradise for birdwatchers, boasting an incredible diversity of avian species, including hummingbirds, macaws, and condors.",
+    "statistics": [
+      {
+        "category": "Hummingbirds",
+        "count": "1400",
+        "details": "Ecuador is home to over 1400 species of hummingbirds, more than any other country in the world."
+      },
+      {
+        "category": "Macaws",
+        "count": "20",
+        "details": "Twenty species of macaws inhabit Ecuador's forests, including the scarlet macaw and the blue-and-gold macaw."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Andean Condor",
+        "status": "Near Threatened",
+        "significance": "One of the largest flying birds in the world, a symbol of the Andes Mountains."
+      },
+      {
+        "name": "Blue-footed Booby",
+        "status": "Least Concern",
+        "significance": "Famous for its bright blue feet, a unique species found only in the Galapagos Islands."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Illegal wildlife trade"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Community-based conservation",
+      "Research and monitoring"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Ecuadorian Ecosystems",
+    "overview": "Ecuador’s diverse geography supports a wide range of ecosystems, including the Amazon rainforest, the Andes Mountains, the Pacific coast, and the Galapagos Islands. These ecosystems are interconnected and play a vital role in the country’s biodiversity and economy.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 46
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Wind",
+        "description": "Ecuador is home to a variety of mammals, including jaguars, pumas, spectacled bears, and capybaras.",
+        "statistics": [
+          {
+            "category": "Jaguars",
+            "count": "400",
+            "details": "The jaguar is the largest cat in the Americas and a symbol of the Amazon rainforest."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Spectacled Bear",
+            "status": "Vulnerable",
+            "significance": "Also known as the Andean bear, it is the only bear species native to South America."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Human-wildlife conflict"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Habitat restoration",
+          "Community education"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Ecuadorian Adventures",
+    "description": "Ecuador offers a wide range of outdoor activities for all skill levels, from hiking and trekking to wildlife viewing and water sports.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Ecuador’s stunning landscapes on foot, from the Andes Mountains to the Amazon rainforest.",
+        "activities": [
+          {
+            "name": "Cotopaxi Hike",
+            "difficulty": "Hard",
+            "season": "June - September",
+            "duration": "3-5 days",
+            "description": "A challenging trek to the base of Cotopaxi Volcano, offering breathtaking views and a chance to experience the high-altitude Andes.",
+            "bestLocations": [
+              "Laguna Limpi"
+            ],
+            "requirements": "Good physical fitness, hiking boots, warm clothing",
+            "safety": [
+              "Altitude sickness",
+              "Weather conditions"
+            ]
+          },
+          {
+            "name": "Amazon Trek",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-7 days",
+            "description": "Immerse yourself in the heart of the Amazon rainforest, exploring its diverse flora and fauna.",
+            "bestLocations": [
+              "Napo Wildlife Center"
+            ],
+            "requirements": "Insect repellent, long sleeves and pants, waterproof gear",
+            "safety": [
+              "Mosquitoes",
+              "Tropical diseases"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities along Ecuador’s Pacific coast and in its rivers and lakes.",
+        "activities": [
+          {
+            "name": "Surfing",
+            "difficulty": "Easy - Hard",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Catch some waves on Ecuador’s world-class surf breaks.",
+            "bestLocations": [
+              "Montañita",
+              "Mompiche"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on the season)",
+            "safety": [
+              "Rip currents",
+              "Marine life"
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore Ecuador’s rivers and lakes by kayak, observing wildlife and enjoying the scenery.",
+            "bestLocations": [
+              "Rio Pastaza",
+              "Lake Cuicocha"
+            ],
+            "requirements": "Kayak, paddle, life jacket",
+            "safety": [
+              "Weather conditions",
+              "Wildlife encounters"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, insect repellent",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Emergency contact information"
+      ]
+    }
+  }
+}

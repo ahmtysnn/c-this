@@ -1,0 +1,371 @@
+{
+  "name": "Bahrain",
+  "region": "Western Asia",
+  "description": "Bahrain, an island nation in the Persian Gulf, is a fascinating blend of ancient history, modern development, and stunning natural landscapes. Known as the 'Pearl of the Gulf,' it boasts a rich cultural heritage, a thriving economy, and a diverse ecosystem. From its dramatic limestone cliffs and pristine beaches to its bustling capital city, Manama, Bahrain offers a unique and rewarding travel experience.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "1.5 million",
+      "icon": "Users",
+      "description": "Bahrain's population is a mix of Bahrainis, expatriates, and other nationalities.",
+      "detail": "The majority of the population resides in urban areas, particularly in Manama and other industrial cities."
+    },
+    {
+      "label": "Capital",
+      "value": "Manama",
+      "icon": "MapPin",
+      "description": "Manama is the vibrant capital and largest city of Bahrain.",
+      "detail": "It's a bustling hub of commerce, culture, and entertainment, featuring historic souks and modern skyscrapers."
+    },
+    {
+      "label": "Currency",
+      "value": "Bahraini Dinar (BHD)",
+      "icon": "Coffee",
+      "description": "The official currency of Bahrain is the Bahraini Dinar.",
+      "detail": "It's pegged to the US dollar at a rate of 0.375 BHD = 1 USD."
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "icon": "Globe",
+      "description": "Arabic is the official language of Bahrain.",
+      "detail": "English is widely spoken and used in business and tourism."
+    },
+    {
+      "label": "Area",
+      "value": "765 km²",
+      "icon": "MapPin",
+      "description": "Bahrain is a relatively small island nation.",
+      "detail": "It's approximately the size of Singapore."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 37.5 billion (2023)",
+      "icon": "Zap",
+      "description": "Bahrain has a diversified economy.",
+      "detail": "Oil and gas are significant contributors, but tourism, finance, and manufacturing are also important sectors."
+    }
+  ],
+  "climateData": {
+    "title": "Bahrain's Climate",
+    "description": "Bahrain experiences a hot desert climate with significant temperature variations throughout the year. Summers are extremely hot and humid, while winters are mild and pleasant. Rainfall is scarce, primarily occurring during the winter months.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Bahrain's summer months are characterized by intense heat and humidity. Temperatures frequently exceed 40°C (104°F).",
+        "keyFeatures": [
+          "High temperatures",
+          "High humidity",
+          "Scarcity of rainfall"
+        ],
+        "activities": [
+          "Indoor activities",
+          "Visiting museums and cultural sites",
+          "Shopping"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings a slight decrease in temperatures and humidity, offering more comfortable conditions for outdoor activities.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Lower humidity",
+          "Occasional rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Beach activities",
+          "Exploring historical sites"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is the most pleasant time to visit Bahrain, with mild temperatures and lower humidity. Rainfall is more frequent during this period.",
+        "keyFeatures": [
+          "Mild temperatures (18-24°C / 64-75°F)",
+          "Lower humidity",
+          "Occasional rain"
+        ],
+        "activities": [
+          "Outdoor activities",
+          "Desert safaris",
+          "Visiting souks"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a return of warmer temperatures and sunshine, with blooming desert flowers adding to the beauty of the landscape.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Increasing sunshine",
+          "Desert blooms"
+        ],
+        "activities": [
+          "Beach activities",
+          "Hiking",
+          "Birdwatching"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Barayan Island",
+      "category": "Coastal Landscape",
+      "description": "Barayan Island is a stunning artificial island located off the coast of Bahrain. It's a testament to human ingenuity and offers a unique blend of natural beauty and modern amenities.",
+      "detailedDescription": "The island features a lagoon, beaches, and lush landscaping. It's a popular destination for water sports and relaxation, offering a tranquil escape from the bustling city.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "Lagoon area",
+        "Beachfront restaurants"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Wear comfortable shoes",
+        "Book water sports activities in advance"
+      ],
+      "scientificData": {
+        "Area": "1.7 km²",
+        "Depth": "Maximum 5 meters"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Al-Janadurah Wildlife Sanctuary",
+      "category": "Coastal Wetland",
+      "description": "Al-Janadurah Wildlife Sanctuary is a vital coastal wetland ecosystem, providing a refuge for a diverse range of bird species and other wildlife.",
+      "detailedDescription": "The sanctuary is characterized by its tidal marshes, mangroves, and mudflats. It plays a crucial role in protecting Bahrain's coastline and supporting biodiversity.",
+      "bestTime": "November - March",
+      "bestLocations": [
+        "Observation towers",
+        "Mudflats"
+      ],
+      "viewingTips": [
+        "Use binoculars for birdwatching",
+        "Respect the wildlife",
+        "Follow designated trails"
+      ],
+      "scientificData": {
+        "Area": "100 hectares",
+        "Bird Species": "Over 200 species"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 3,
+      "name": "The Bahrain Desert",
+      "category": "Desert Landscape",
+      "description": "The Bahrain Desert is a vast expanse of sand dunes and rocky terrain, offering a dramatic and otherworldly landscape.",
+      "detailedDescription": "The desert is home to unique flora and fauna adapted to the harsh conditions. It's a popular destination for desert adventures and stargazing.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "Red Sand Dunes",
+        "Pearl Al-Bahrain Nature Reserve"
+      ],
+      "viewingTips": [
+        "Wear appropriate clothing",
+        "Bring plenty of water",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Average Temperature": "45°C (113°F) in summer",
+        "Sand Composition": "Predominantly quartz sand"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Bahrain's Ecosystems",
+    "overview": "Bahrain's ecosystems are remarkably diverse, ranging from coastal wetlands and coral reefs to arid deserts and rocky hills. These ecosystems support a rich array of plant and animal life, many of which are endemic to the region.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Biodiversity",
+        "icon": "Fish",
+        "description": "Bahrain's coral reefs and coastal waters are home to a diverse range of marine life, including coral, fish, sea turtles, and dolphins.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "60+",
+            "details": "Over 60 different coral species have been identified."
+          },
+          {
+            "category": "Fish Species",
+            "count": "300+",
+            "details": "More than 300 species of fish inhabit the waters around Bahrain."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Hawksbill Turtle",
+            "status": "Vulnerable",
+            "significance": "A key indicator of reef health."
+          },
+          {
+            "name": "Dolphin",
+            "status": "Near Threatened",
+            "significance": "A symbol of Bahrain's coastal heritage."
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral restoration projects",
+          "Sustainable fishing practices"
+        ]
+      },
+      {
+        "name": "Terrestrial Biodiversity",
+        "icon": "Leaf",
+        "description": "Bahrain's deserts and rocky hills support a unique array of plants and animals adapted to the arid conditions.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "250+",
+            "details": "Over 250 plant species have been recorded."
+          },
+          {
+            "category": "Reptile Species",
+            "count": "60+",
+            "details": "More than 60 reptile species inhabit the desert."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Arabian Urial",
+            "status": "Near Threatened",
+            "significance": "A symbol of Bahrain's wild heritage."
+          },
+          {
+            "name": "Sand Cat",
+            "status": "Vulnerable",
+            "significance": "A rare and elusive desert predator."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Illegal wildlife trade"
+        ],
+        "conservationEfforts": [
+          "Habitat restoration",
+          "Species monitoring",
+          "Anti-poaching patrols"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Bahrain",
+    "description": "Bahrain offers a wide range of activities for visitors of all interests, from water sports and desert adventures to cultural experiences and historical explorations.",
+    "activityCategories": [
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Bahrain's warm, clear waters.",
+        "activities": [
+          {
+            "name": "Jet Skiing",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "1-2 hours",
+            "description": "Experience the thrill of speeding across the Arabian Gulf.",
+            "bestLocations": [
+              "Seef Beach",
+              "Tubli Bay"
+            ],
+            "requirements": "Valid driver's license, life jacket",
+            "safety": [
+              "Follow safety guidelines",
+              "Wear a life jacket"
+            ]
+          },
+          {
+            "name": "Windsurfing",
+            "difficulty": "Hard",
+            "season": "November - March",
+            "duration": "2-4 hours",
+            "description": "Harness the power of the wind and glide across the water.",
+            "bestLocations": [
+              "Al Dar Island",
+              "Juffran"
+            ],
+            "requirements": "Windsurfing experience, board and sail",
+            "safety": [
+              "Check wind conditions",
+              "Use appropriate safety gear"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Desert Adventures",
+        "icon": "Mountain",
+        "description": "Explore Bahrain's stunning desert landscapes on thrilling adventures.",
+        "activities": [
+          {
+            "name": "Dune Bashing",
+            "difficulty": "Moderate",
+            "season": "October - April",
+            "duration": "2-3 hours",
+            "description": "Experience the adrenaline rush of driving over towering sand dunes.",
+            "bestLocations": [
+              "Red Sand Dunes"
+            ],
+            "requirements": "4x4 vehicle, experienced driver",
+            "safety": [
+              "Wear a seatbelt",
+              "Follow driver's instructions"
+            ]
+          },
+          {
+            "name": "Camel Trekking",
+            "difficulty": "Easy",
+            "season": "November - March",
+            "duration": "3-6 hours",
+            "description": "Embark on a traditional camel trek through the desert.",
+            "bestLocations": [
+              "Pearl Al-Bahrain Nature Reserve"
+            ],
+            "requirements": "Comfortable clothing, water",
+            "safety": [
+              "Listen to your guide",
+              "Stay hydrated"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, sunglasses, hat",
+        "winter": "Layers of clothing, sweater, jacket, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, sunscreen, insect repellent"
+      },
+      "equipment": {
+        "basic": "Sunscreen, hat, sunglasses, insect repellent",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory card"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Respect local customs",
+        "Be aware of the heat"
+      ]
+    }
+  }
+}

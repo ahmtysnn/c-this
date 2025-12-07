@@ -1,0 +1,374 @@
+{
+  "name": "Isle of Man",
+  "region": "British Isles",
+  "description": "The Isle of Man, a self-governing British Crown Dependency located in the Irish Sea, is a unique island nation boasting a rich history, stunning natural landscapes, and a vibrant culture.  It’s a place where Neolithic standing stones meet Victorian castles, and where traditional Manx Gaelic is still spoken alongside English.  The island’s geography is dominated by rugged coastal cliffs, rolling hills, and expansive moorland, offering a diverse range of outdoor activities and breathtaking scenery.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "65,000",
+      "icon": "Users",
+      "description": "The Isle of Man has a relatively small and close-knit population.",
+      "detail": "The population density is approximately 145 people per square kilometer."
+    },
+    {
+      "label": "Currency",
+      "value": "Manx Pound",
+      "icon": "Coffee",
+      "description": "The Isle of Man has its own currency, the Manx Pound, pegged to the British Pound.",
+      "detail": "The Manx Pound is divided into 100 pence."
+    },
+    {
+      "label": "Language",
+      "value": "English, Manx Gaelic",
+      "icon": "Eye",
+      "description": "English is the official language, while Manx Gaelic is a recognised minority language.",
+      "detail": "Manx Gaelic has seen a revival in recent years."
+    },
+    {
+      "label": "Capital",
+      "value": "Douglas",
+      "icon": "MapPin",
+      "description": "Douglas is the largest town and capital of the Isle of Man.",
+      "detail": "It’s a bustling port city and the island’s main commercial center."
+    },
+    {
+      "label": "Area",
+      "value": "572 square kilometers (221 square miles)",
+      "icon": "Globe",
+      "description": "The Isle of Man is a relatively small island.",
+      "detail": "It’s roughly the size of Jersey and Guernsey."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of the Isle of Man",
+    "description": "The Isle of Man enjoys a temperate maritime climate, characterized by mild winters and cool summers.  The Gulf Stream moderates temperatures, making it warmer than other locations at similar latitudes. Rainfall is fairly evenly distributed throughout the year, and the island is frequently shrouded in mist and cloud.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming and the return of wildflowers to the moorland.",
+        "keyFeatures": [
+          "Blooming wildflowers",
+          "Increased daylight hours",
+          "Bird migration"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is the warmest and driest time of year, with long daylight hours.",
+        "keyFeatures": [
+          "Warmest temperatures",
+          "Longest daylight hours",
+          "Festivals and events"
+        ],
+        "activities": [
+          "Coastal walks",
+          "Water sports",
+          "Outdoor concerts"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and vibrant autumnal colours to the landscape.",
+        "keyFeatures": [
+          "Changing leaf colours",
+          "Misty mornings",
+          "Harvest season"
+        ],
+        "activities": [
+          "Photography",
+          "Birdwatching",
+          "Hiking"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is the coolest and wettest time of year, with frequent rain and occasional snow.",
+        "keyFeatures": [
+          "Coolest temperatures",
+          "Frequent rain",
+          "Christmas festivities"
+        ],
+        "activities": [
+          "Visiting museums and galleries",
+          "Cozy pubs",
+          "Indoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "The Sound",
+      "category": "Coastal Landscape",
+      "description": "The Sound is a dramatic inlet on the east coast of the Isle of Man, renowned for its towering cliffs, powerful waves, and rich birdlife. It’s a haven for seabirds and a popular spot for boat trips and photography.",
+      "detailedDescription": "The cliffs are composed of layered limestone, sculpted by centuries of wave action. The Sound is a designated Nature Reserve, protecting its unique ecosystem.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "The Sound Lighthouse",
+        "Dunlop Bay",
+        "The cliffs themselves"
+      ],
+      "viewingTips": [
+        "Bring waterproof clothing",
+        "Use binoculars for birdwatching",
+        "Check tide times"
+      ],
+      "scientificData": {
+        "Cliff Height": "120m",
+        "Wave Force": "High",
+        "Bird Species": "150+ (including Guillemots, Razorbills, Puffins)"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Maughold Head",
+      "category": "Coastal Landscape",
+      "description": "Maughold Head is a rugged peninsula in the north of the Isle of Man, offering spectacular coastal scenery, ancient standing stones, and diverse wildlife.",
+      "detailedDescription": "The headland is characterized by dramatic cliffs, sandy beaches, and extensive moorland. It’s a significant archaeological site, with evidence of human activity dating back thousands of years.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "The Standing Stones of Bro Hag",
+        "Maughold Bay",
+        "The cliffs"
+      ],
+      "viewingTips": [
+        "Wear sturdy footwear",
+        "Be aware of cliff edges",
+        "Explore the coastal paths"
+      ],
+      "scientificData": {
+        "Cliff Height": "80m",
+        "Vegetation": "Heather, gorse, wildflowers",
+        "Wildlife": "Seals, seabirds, red squirrels"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "The Bride Valley",
+      "category": "Geological Feature",
+      "description": "The Bride Valley is a stunning geological feature on the west coast of the Isle of Man, showcasing layers of ancient limestone and shale.",
+      "detailedDescription": "The valley is a result of glacial erosion, creating a dramatic landscape of steep cliffs, waterfalls, and secluded coves. It’s a popular spot for hiking and photography.",
+      "bestTime": "April - November",
+      "bestLocations": [
+        "The Bride Waterfall",
+        "The coastal paths",
+        "The valley floor"
+      ],
+      "viewingTips": [
+        "Wear waterproof clothing",
+        "Take a picnic",
+        "Enjoy the views"
+      ],
+      "scientificData": {
+        "Rock Type": "Limestone, Shale",
+        "Age": "150-200 million years old",
+        "Glacial Erosion": "Significant"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Coastal Birds",
+    "icon": "Bird",
+    "description": "The Isle of Man is a globally important site for seabirds, particularly during the breeding season. Its coastal cliffs and islands provide vital nesting grounds for a wide variety of species.",
+    "statistics": [
+      {
+        "category": "Guillemots",
+        "count": "100,000+",
+        "details": "The most abundant seabird on the island."
+      },
+      {
+        "category": "Razorbills",
+        "count": "50,000+",
+        "details": "Another common breeding species."
+      },
+      {
+        "category": "Puffins",
+        "count": "15,000+",
+        "details": "Iconic seabirds found in burrows along the cliffs."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Manx Shearwater",
+        "status": "Near Threatened",
+        "significance": "A long-distance migrant seabird."
+      },
+      {
+        "name": "Atlantic Puffin",
+        "status": "Least Concern",
+        "significance": "A beloved seabird known for its colourful beak."
+      }
+    ],
+    "threats": [
+      "Climate change",
+      "Predation by mammalian pests",
+      "Disturbance from tourism"
+    ],
+    "conservationEfforts": [
+      "Predator control programs",
+      "Habitat restoration",
+      "Visitor management"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Coastal Ecosystems of the Isle of Man",
+    "overview": "The Isle of Man’s coastline is a mosaic of diverse ecosystems, ranging from rocky cliffs and sandy beaches to salt marshes and seaweed-covered rocks. These habitats support a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Life",
+        "icon": "Fish",
+        "description": "The waters surrounding the Isle of Man are home to a variety of marine species, including seals, dolphins, and numerous fish species.",
+        "statistics": [
+          {
+            "category": "Seals",
+            "count": "500+",
+            "details": "Grey Seals are the most common species."
+          },
+          {
+            "category": "Dolphins",
+            "count": "Various",
+            "details": "Bottlenose dolphins and common dolphins are occasionally sighted."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Atlantic Salmon",
+            "status": "Vulnerable",
+            "significance": "An iconic fish species that migrates to the island’s rivers to spawn."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Overfishing",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices",
+          "Pollution reduction"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities on the Isle of Man",
+    "description": "The Isle of Man offers a wide range of outdoor activities for all abilities, from gentle coastal walks to challenging mountain hikes.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Coastal Path Hike",
+            "difficulty": "Moderate",
+            "season": "All Year",
+            "duration": "2-8 hours",
+            "description": "Hike along the scenic coastal path, enjoying stunning views of the sea and coastline.",
+            "bestLocations": [
+              "The Sound",
+              "Maughold Head",
+              "The Bride Valley"
+            ],
+            "requirements": "Sturdy footwear, waterproof clothing, map and compass",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your route",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Mountain Hike",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "4-12 hours",
+            "description": "Challenge yourself with a hike to the summit of one of the island’s mountains.",
+            "bestLocations": [
+              "Summit of Snaefell",
+              "Summit of Ben Iynmann"
+            ],
+            "requirements": "Hiking boots, appropriate clothing, navigation skills",
+            "safety": [
+              "Be prepared for changing weather conditions",
+              "Carry sufficient food and water"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in the island’s clear waters.",
+        "activities": [
+          {
+            "name": "Sea Kayaking",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "2-4 hours",
+            "description": "Explore the coastline by sea kayak, discovering hidden coves and beaches.",
+            "bestLocations": [
+              "The Sound",
+              "Port Erin Bay"
+            ],
+            "requirements": "Sea kayak, paddle, personal flotation device",
+            "safety": [
+              "Wear a life jacket",
+              "Check weather conditions",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Coastal Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "30-60 minutes",
+            "description": "Take a refreshing dip in the island’s clear waters.",
+            "bestLocations": [
+              "Port Erin Bay",
+              "Pennyburn Glen"
+            ],
+            "requirements": "Swimming costume, towel",
+            "safety": [
+              "Check water temperature",
+              "Swim with a buddy"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket and trousers, hat and gloves",
+        "yearRound": "Comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, snacks",
+        "hiking": "Hiking boots, map and compass, first-aid kit",
+        "photography": "Camera, extra batteries, memory card"
+      },
+      "safety": [
+        "Check weather forecasts",
+        "Inform someone of your plans",
+        "Carry a mobile phone"
+      ]
+    }
+  }
+}

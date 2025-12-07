@@ -1,0 +1,421 @@
+{
+  "name": "Slovenia",
+  "region": "Europe",
+  "description": "Slovenia, a small country nestled in the heart of Europe, is a land of dramatic contrasts. From the towering Julian Alps in the north to the Adriatic coastline in the south, Slovenia boasts a diverse landscape of mountains, forests, lakes, and karst caves. Known for its pristine natural beauty, sustainable tourism, and rich cultural heritage, Slovenia offers a unique and unforgettable travel experience.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "20,273 km²",
+      "icon": "MapPin",
+      "description": "Slovenia is a relatively small country, making it easy to explore its diverse regions.",
+      "detail": "It's roughly the size of Worcestershire in the UK."
+    },
+    {
+      "label": "Population",
+      "value": "2.11 million",
+      "icon": "Users",
+      "description": "Slovenia has a friendly and welcoming population.",
+      "detail": "The population density is approximately 104 people per km²."
+    },
+    {
+      "label": "Capital",
+      "value": "Ljubljana",
+      "icon": "Globe",
+      "description": "Ljubljana is a vibrant and green capital city.",
+      "detail": "It's considered one of the most livable cities in Europe."
+    },
+    {
+      "label": "Official Language",
+      "value": "Slovene",
+      "icon": "ArrowRight",
+      "description": "Slovene is the primary language spoken in Slovenia.",
+      "detail": "German and Croatian are also widely spoken, particularly in border regions."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Slovenia uses the Euro as its currency.",
+      "detail": "The average annual inflation rate is around 3-4%."
+    },
+    {
+      "label": "GDP per capita",
+      "value": "$46,000",
+      "icon": "Eye",
+      "description": "Slovenia has a high GDP per capita, reflecting its developed economy.",
+      "detail": "It's significantly higher than the EU average."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Slovenia",
+    "description": "Slovenia experiences a temperate climate with four distinct seasons. The Alps influence the north with colder winters and snow, while the Mediterranean coast enjoys milder winters and hot summers. Rainfall is evenly distributed throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with wildflowers blooming across the countryside. It's a popular time for hiking and exploring.",
+        "keyFeatures": [
+          "Blooming wildflowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Wildlife watching"
+        ]
+      },
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Summer is the warmest season, with long sunny days and pleasant temperatures. The coast is ideal for swimming and water sports.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Sunny days",
+          "Long daylight hours"
+        ],
+        "activities": [
+          "Swimming",
+          "Water sports",
+          "Hiking",
+          "Cycling",
+          "Camping"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Autumn offers stunning fall foliage and cooler temperatures. It's a great time for wine tasting and exploring the countryside.",
+        "keyFeatures": [
+          "Fall foliage",
+          "Cooler temperatures",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Wine tasting",
+          "Photography",
+          "Cycling"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Winter brings snow to the Alps, making it a popular destination for skiing and snowboarding. The rest of the country experiences cold temperatures and occasional snowfall.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Skiing opportunities"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating",
+          "Winter hiking"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lake Bled",
+      "category": "Lake",
+      "description": "Lake Bled is a picturesque alpine lake surrounded by mountains and forests. It's famous for its island church and medieval castle.",
+      "detailedDescription": "The lake is fed by the Radovna River, creating a stunning visual effect. Visitors can take a traditional 'pletna' boat to the island, climb to the castle for panoramic views, and enjoy a slice of Bled cream cake.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Lake Bled Island",
+        "Bled Castle",
+        "Bled Church"
+      ],
+      "viewingTips": [
+        "Visit early in the morning to avoid crowds",
+        "Take a boat trip to the island",
+        "Enjoy the views from Bled Castle"
+      ],
+      "scientificData": {
+        "Depth": "Maximum depth: 87m",
+        "Surface Area": "14.2 km²",
+        "Water Temperature": "Summer: 18-22°C"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 2,
+      "name": "Triglav National Park",
+      "category": "Mountain Range",
+      "description": "Triglav National Park is Slovenia's largest national park, encompassing the Julian Alps and offering breathtaking mountain scenery.",
+      "detailedDescription": "Named after the mythical Triglav, the three-headed god of the Slovenians, the park is a haven for hikers, climbers, and nature lovers. It features numerous peaks, glaciers, waterfalls, and alpine meadows.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Vršič Pass",
+        "Kranjska Gora",
+        "Lake Bohinj"
+      ],
+      "viewingTips": [
+        "Check weather conditions before hiking",
+        "Wear appropriate footwear",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Elevation": "Highest peak: 2864m (Mangart)",
+        "Area": "865.6 km²",
+        "Glacier Coverage": "Approximately 15% of the park's area is covered by glaciers"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Postojna Cave",
+      "category": "Cave System",
+      "description": "Postojna Cave is one of the largest cave systems in Europe, known for its stunning stalactites, stalagmites, and underground lake.",
+      "detailedDescription": "Visitors can explore the cave by train and on foot, marveling at the unique formations created over millions of years. The cave is also home to the olm, a unique blind cave salamander.",
+      "bestTime": "Spring-Autumn",
+      "bestLocations": [
+        "Postojna Cave Entrance",
+        "Underground Lake",
+        "Cave Train Route"
+      ],
+      "viewingTips": [
+        "Book tickets in advance",
+        "Wear comfortable shoes",
+        "Bring a jacket as it can be cool inside"
+      ],
+      "scientificData": {
+        "Length": "Over 20 km",
+        "Volume": "Over 8.5 million m³",
+        "Temperature": "Consistently around 12°C"
+      },
+      "icon": "Zap"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Slovenia",
+    "overview": "Slovenia boasts a diverse range of ecosystems, from alpine meadows and forests to karst landscapes and Mediterranean coastlines. These ecosystems support a rich biodiversity and provide essential ecosystem services.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Slovenia is protected as national parks, nature reserves, and other protected areas.",
+      "nationalParks": 8
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Slovenia's forests cover approximately 50% of the country's land area and are dominated by deciduous and coniferous trees.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 200",
+            "details": "Diverse range of species including beech, oak, spruce, and fir."
+          },
+          {
+            "category": "Forest Cover",
+            "count": "50%",
+            "details": "Significant contribution to carbon sequestration."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Roe Deer",
+            "status": "Near Threatened",
+            "significance": "Important prey species for predators."
+          },
+          {
+            "name": "Black Pine",
+            "status": "Vulnerable",
+            "significance": "Unique species adapted to karst environments."
+          }
+        ],
+        "threats": [
+          "Forest fires",
+          "Illegal logging",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Reforestation programs",
+          "Protected areas"
+        ]
+      },
+      {
+        "name": "Karst Ecosystems",
+        "icon": "Leaf",
+        "description": "Slovenia is renowned for its karst landscapes, characterized by limestone bedrock, caves, sinkholes, and underground rivers.",
+        "statistics": [
+          {
+            "category": "Karst Area",
+            "count": "40%",
+            "details": "Dominant landscape feature."
+          },
+          {
+            "category": "Cave Systems",
+            "count": "Over 10,000",
+            "details": "Extensive network of underground passages."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Olm",
+            "status": "Endangered",
+            "significance": "Unique cave salamander adapted to darkness."
+          },
+          {
+            "name": "Slovenian Newt",
+            "status": "Vulnerable",
+            "significance": "Specialized amphibian found in karst streams."
+          }
+        ],
+        "threats": [
+          "Water pollution",
+          "Habitat loss",
+          "Tourism impacts"
+        ],
+        "conservationEfforts": [
+          "Water quality monitoring",
+          "Habitat restoration",
+          "Sustainable tourism development"
+        ]
+      },
+      {
+        "name": "Mediterranean Ecosystem",
+        "icon": "Sun",
+        "description": "The Slovenian coast along the Adriatic Sea features a Mediterranean ecosystem with warm summers and mild winters.",
+        "statistics": [
+          {
+            "category": "Coastal Length",
+            "count": "47 km",
+            "details": "Long stretch of coastline with diverse habitats."
+          },
+          {
+            "category": "Plant Diversity",
+            "count": "Over 1000",
+            "details": "Unique flora adapted to the Mediterranean climate."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Mediterranean Gull",
+            "status": "Least Concern",
+            "significance": "Common seabird along the coast."
+          },
+          {
+            "name": "Sea Fennel",
+            "status": "Near Threatened",
+            "significance": "Characteristic plant of the coastal meadows."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Coastal zone management",
+          "Marine protected areas",
+          "Sustainable fishing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Slovenia",
+    "description": "Slovenia offers a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Slovenia is a hiker's paradise, with trails ranging from easy strolls to challenging mountain climbs.",
+        "activities": [
+          {
+            "name": "Julian Alps Hiking",
+            "difficulty": "Moderate to Hard",
+            "season": "Summer",
+            "duration": "1-5 days",
+            "description": "Explore the stunning peaks and valleys of the Julian Alps.",
+            "bestLocations": [
+              "Vršič Pass",
+              "Triglav National Park"
+            ],
+            "requirements": "Hiking boots, backpack, water, map, compass",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your plans",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Karst Hiking",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring-Autumn",
+            "duration": "Half-day to Full-day",
+            "description": "Discover the unique landscapes of the Slovenian Karst.",
+            "bestLocations": [
+              "Postojna Cave area",
+              "Škocjan Caves"
+            ],
+            "requirements": "Comfortable shoes, water, sunscreen",
+            "safety": [
+              "Wear appropriate footwear",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Slovenia's coastline and lakes offer opportunities for swimming, kayaking, rafting, and more.",
+        "activities": [
+          {
+            "name": "Lake Bled Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Half-day",
+            "description": "Enjoy a refreshing swim in the crystal-clear waters of Lake Bled.",
+            "bestLocations": [
+              "Lake Bled"
+            ],
+            "requirements": "Swimsuit, towel, sunscreen",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Soča River Rafting",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "Full-day",
+            "description": "Experience the thrill of rafting down the stunning Soča River.",
+            "bestLocations": [
+              "Soča Valley"
+            ],
+            "requirements": "Life jacket, helmet, wetsuit (depending on water temperature)",
+            "safety": [
+              "Go with a reputable rafting operator",
+              "Follow safety instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket and pants, hat, gloves, scarf",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, trekking poles, headlamp",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "First-aid kit",
+        "Emergency contact information",
+        "Weather forecast"
+      ]
+    }
+  }
+}

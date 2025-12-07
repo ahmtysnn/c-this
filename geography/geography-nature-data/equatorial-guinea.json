@@ -1,0 +1,289 @@
+{
+  "name": "Equatorial Guinea",
+  "region": "Africa",
+  "description": "Equatorial Guinea is a small, oil-rich nation on the Atlantic coast of Central Africa. It’s characterized by a dense rainforest interior and a long, sandy coastline. The country faces significant challenges related to poverty, inequality, and political instability, despite its substantial oil reserves.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Malabo",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, located on Annobón Island.",
+      "detail": "Malabo is a bustling port city and the political and economic center of Equatorial Guinea."
+    },
+    {
+      "label": "Population",
+      "value": "1.4 million",
+      "icon": "Users",
+      "description": "A relatively small population concentrated along the coast.",
+      "detail": "The population is largely comprised of the Fang and Río communities."
+    },
+    {
+      "label": "Area",
+      "value": "28,051 sq km (10,884 sq mi)",
+      "icon": "Globe",
+      "description": "Mostly rainforest, with limited arable land.",
+      "detail": "The country is almost entirely covered by dense tropical rainforest."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "Calendar",
+      "description": "Spanish is the official language, alongside French and Portuguese.",
+      "detail": "Due to its colonial history, Spanish is the primary language of administration and education."
+    },
+    {
+      "label": "Currency",
+      "value": "Central African CFA franc (XAF)",
+      "icon": "Coffee",
+      "description": "The currency is pegged to the CFA franc.",
+      "detail": "The country's economy is heavily reliant on oil exports."
+    },
+    {
+      "label": "GDP",
+      "value": "$12.7 billion (2023 est.)",
+      "icon": "Zap",
+      "description": "Primarily driven by oil production.",
+      "detail": "Despite significant oil wealth, GDP per capita is extremely low."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Rainforest Climate",
+    "description": "Equatorial Guinea experiences a tropical rainforest climate characterized by consistently high temperatures and humidity throughout the year. Rainfall is abundant and distributed relatively evenly.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season",
+        "period": "March – May",
+        "description": "This period is marked by intense rainfall and increased humidity. Rivers swell, and flooding is common in low-lying areas.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Flooding"
+        ],
+        "activities": [
+          "River cruises (with caution)",
+          "Wildlife viewing (increased accessibility)"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "June – August",
+        "description": "The dry season sees a reduction in rainfall, though it remains relatively wet. Temperatures remain consistently high.",
+        "keyFeatures": [
+          "Reduced rainfall",
+          "Lower humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking (limited trails), birdwatching"
+        ]
+      },
+      {
+        "name": "Transition Seasons",
+        "period": "September – November & December – February",
+        "description": "These periods represent transitional phases between the wet and dry seasons, with fluctuating rainfall and humidity levels.",
+        "keyFeatures": [
+          "Variable rainfall",
+          "Moderate humidity"
+        ],
+        "activities": [
+          "Coastal activities, exploring the coastline"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Bioko Island Rainforest",
+      "category": "Rainforest",
+      "description": "Bioko Island is home to one of the most pristine and biodiverse rainforests in Africa. It’s a haven for endemic species and offers a glimpse into a largely untouched ecosystem.",
+      "detailedDescription": "The rainforest is characterized by towering trees, dense undergrowth, and a remarkable array of flora and fauna. The island’s isolation has allowed for the evolution of unique species found nowhere else on Earth.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Monte Cristo National Park",
+        "Rio Muni"
+      ],
+      "viewingTips": [
+        "Hire a local guide for navigation and wildlife spotting.",
+        "Wear long sleeves and trousers to protect against insects."
+      ],
+      "scientificData": {
+        "Altitude": "1000m",
+        "Rainfall": "2500-3000mm annually",
+        "Temperature": "26-28°C"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Annobón Island Coral Reefs",
+      "category": "Coral Reef",
+      "description": "Off the coast of Annobón Island lies a vibrant coral reef system, teeming with marine life and offering excellent snorkeling and diving opportunities.",
+      "detailedDescription": "The reefs are relatively untouched by human activity, providing a sanctuary for a diverse range of coral species, fish, and invertebrates. The clear waters and abundant sunlight create ideal conditions for coral growth.",
+      "bestTime": "June – August (dry season)",
+      "bestLocations": [
+        "North Coast of Annobón Island"
+      ],
+      "viewingTips": [
+        "Use reef-safe sunscreen.",
+        "Respect the marine environment."
+      ],
+      "scientificData": {
+        "Coral Diversity": "Over 150 coral species",
+        "Fish Species": "Over 300 fish species"
+      },
+      "icon": "Fish"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Equatorial Guinea Ecosystems",
+    "overview": "Equatorial Guinea’s ecosystems are dominated by tropical rainforests, coastal wetlands, and coral reefs. The country’s biodiversity is exceptionally high, with many species found nowhere else in the world.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "Equatorial Guinea is a birdwatcher’s paradise, boasting a remarkable diversity of avian species, including several endemic and migratory birds.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "30+",
+            "details": "Many bird species are found only in Equatorial Guinea."
+          },
+          {
+            "category": "Migratory Species",
+            "count": "100+",
+            "details": "The country serves as a crucial stopover for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Napep Pigeon",
+            "status": "Vulnerable",
+            "significance": "Endemic to Bioko Island"
+          },
+          {
+            "name": "Red-billed Woodhoopoe",
+            "status": "Least Concern",
+            "significance": "Common throughout the rainforest"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal hunting"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Mammals",
+        "icon": "Leaf",
+        "description": "The rainforests support a variety of mammals, including primates, rodents, and carnivores.",
+        "statistics": [
+          {
+            "category": "Primates",
+            "count": "8",
+            "details": "Several species of monkeys and apes inhabit the rainforest."
+          },
+          {
+            "category": "Rodents",
+            "count": "Over 50",
+            "details": "A diverse range of rodents contribute to the ecosystem."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Western Dormouse Monkey",
+            "status": "Endangered",
+            "significance": "Critically endangered primate"
+          },
+          {
+            "name": "African Palm Nut Rat",
+            "status": "Least Concern",
+            "significance": "Important seed disperser"
+          }
+        ],
+        "threats": [
+          "Poaching",
+          "Habitat fragmentation"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Equatorial Guinea",
+    "description": "Equatorial Guinea offers a range of outdoor activities, from exploring rainforests to enjoying coastal scenery. However, access and infrastructure can be limited.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the rainforest trails and discover hidden waterfalls.",
+        "activities": [
+          {
+            "name": "Monte Cristo Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-5 days",
+            "description": "A challenging trek to the summit of Monte Cristo, offering stunning views of the island.",
+            "bestLocations": [
+              "Monte Cristo National Park"
+            ],
+            "requirements": "Sturdy hiking boots, waterproof clothing, insect repellent.",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy snorkeling, diving, and kayaking along the coastline.",
+        "activities": [
+          {
+            "name": "Snorkeling & Diving at Annobón",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Half-day",
+            "description": "Explore the vibrant coral reefs and marine life of Annobón Island.",
+            "bestLocations": [
+              "North Coast of Annobón Island"
+            ],
+            "requirements": "Snorkeling gear or diving certification.",
+            "safety": [
+              "Respect marine life",
+              "Use reef-safe sunscreen"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, hat.",
+        "winter": "Long-sleeved shirts, trousers, light jacket.",
+        "yearRound": "Insect repellent, sunscreen, waterproof jacket."
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, flashlight.",
+        "hiking": "Hiking boots, trekking poles, map, compass.",
+        "photography": "Camera, extra batteries, waterproof case."
+      },
+      "safety": [
+        "Travel insurance",
+        "Consult a doctor before travel",
+        "Be aware of political instability"
+      ]
+    }
+  }
+}

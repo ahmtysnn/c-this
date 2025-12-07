@@ -1,0 +1,344 @@
+{
+  "name": "Liechtenstein",
+  "region": "Europe",
+  "description": "Liechtenstein is a small, doubly landlocked alpine country located in the heart of Europe. Known for its stunning natural beauty, particularly its dramatic mountains and pristine lakes, it’s a haven for outdoor enthusiasts and a fascinating blend of Swiss and German cultures. The country boasts a high standard of living, a strong economy based on finance and tourism, and a commitment to sustainability.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Vaduz",
+      "icon": "MapPin",
+      "description": "The political and administrative center of Liechtenstein.",
+      "detail": "Vaduz is a charming town nestled in the principality, known for its opulent architecture and historic significance."
+    },
+    {
+      "label": "Area",
+      "value": "160 km²",
+      "icon": "Globe",
+      "description": "One of the smallest countries in Europe.",
+      "detail": "Liechtenstein's diminutive size contributes to its unique character and preservation of natural landscapes."
+    },
+    {
+      "label": "Population",
+      "value": "39,573",
+      "icon": "Users",
+      "description": "A densely populated nation.",
+      "detail": "The population is largely comprised of German speakers, with a significant Swiss-speaking minority."
+    },
+    {
+      "label": "Currency",
+      "value": "Liechtenstein Dollar (CHF)",
+      "icon": "Coffee",
+      "description": "Linked to the Swiss Franc.",
+      "detail": "The LFK is pegged to the Swiss Franc at a rate of 1:1."
+    },
+    {
+      "label": "Official Languages",
+      "value": "German",
+      "icon": "ArrowRight",
+      "description": "The primary language spoken.",
+      "detail": "Swiss German dialects are also widely used in everyday conversation."
+    },
+    {
+      "label": "GDP per capita",
+      "value": "133,800 USD",
+      "icon": "Zap",
+      "description": "One of the highest in the world.",
+      "detail": "Liechtenstein's strong financial sector contributes significantly to its high GDP per capita."
+    }
+  ],
+  "climateData": {
+    "title": "Alpine Climate",
+    "description": "Liechtenstein experiences a continental alpine climate characterized by warm summers and cold, snowy winters. The mountainous terrain creates significant variations in temperature and precipitation across the country.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (April-May)",
+        "period": "April - May",
+        "description": "A period of transition with melting snow and blossoming wildflowers. Temperatures gradually rise.",
+        "keyFeatures": [
+          "Melting snow",
+          "Wildflower blooms",
+          "Increasing daylight hours"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Warm and sunny days with average temperatures around 20-25°C. Ideal for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Sunny days",
+          "Long daylight hours"
+        ],
+        "activities": [
+          "Hiking",
+          "Mountain biking",
+          "Swimming",
+          "Picnics"
+        ]
+      },
+      {
+        "name": "Autumn (September-October)",
+        "period": "September - October",
+        "description": "Crisp, clear days with stunning fall foliage. Temperatures begin to cool down.",
+        "keyFeatures": [
+          "Fall foliage",
+          "Clear skies",
+          "Cool temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Harvest festivals"
+        ]
+      },
+      {
+        "name": "Winter (November-March)",
+        "period": "November - March",
+        "description": "Cold and snowy winters with average temperatures around -5 to 5°C. Ideal for winter sports.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Winter sports"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Cross-country skiing"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Säntisser Nature Reserve",
+      "category": "Mountain Landscape",
+      "description": "Säntisser is a remarkable example of a high-altitude limestone plateau, a rare geological formation in Europe. Its unique landscape, shaped by glaciers and weathering, is home to a diverse array of flora and fauna.",
+      "detailedDescription": "The plateau is characterized by its dramatic cliffs, deep valleys, and extensive grasslands. It’s a haven for birdwatchers and offers stunning panoramic views.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Säntisser Plateau",
+        "Observation Tower"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching",
+        "Wear sturdy hiking boots"
+      ],
+      "scientificData": {
+        "Height": "1,174m",
+        "Age": "Approximately 12,000 years (glacial period)"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Liechtenstein Lakes District",
+      "category": "Lake District",
+      "description": "A picturesque region of interconnected lakes nestled amidst the mountains, offering breathtaking scenery and opportunities for water-based activities.",
+      "detailedDescription": "The lakes are fed by glacial meltwater and are renowned for their crystal-clear waters and stunning reflections of the surrounding peaks. The area is a popular destination for tourists and locals alike.",
+      "bestTime": "June - August",
+      "bestLocations": [
+        "Achensee Lake",
+        "Walchetssee Lake"
+      ],
+      "viewingTips": [
+        "Take a boat trip on Achensee Lake",
+        "Enjoy a picnic by the lakeside"
+      ],
+      "scientificData": {
+        "Surface Area": "Approximately 57 km²",
+        "Average Depth": "55m"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Alpine Ecosystem",
+    "overview": "Liechtenstein's alpine ecosystem is characterized by its high altitude, rugged terrain, and harsh climate. It supports a unique assemblage of plant and animal species adapted to these challenging conditions.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 1
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "The alpine flora of Liechtenstein is dominated by hardy grasses, wildflowers, and dwarf shrubs.",
+        "statistics": [
+          {
+            "category": "Alpine Flowers",
+            "count": "Over 300 species",
+            "details": "Including Edelweiss and Gentian"
+          },
+          {
+            "category": "Dwarf Shrubs",
+            "count": "Numerous species",
+            "details": "Adapted to the harsh alpine conditions"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Edelweiss",
+            "status": "Vulnerable",
+            "significance": "A symbol of the Alps"
+          },
+          {
+            "name": "Gentian",
+            "status": "Near Threatened",
+            "significance": "Known for its vibrant blue flowers"
+          }
+        ],
+        "threats": [
+          "Climate change",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Habitat restoration",
+          "Monitoring of endangered species"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "The fauna of Liechtenstein includes a variety of birds, mammals, and insects, many of which are adapted to the alpine environment.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "Over 150 species",
+            "details": "Including Golden Eagles and Ptarmigans"
+          },
+          {
+            "category": "Mammals",
+            "count": "Several species",
+            "details": "Including Chamois and Alpine Marmots"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Golden Eagle",
+            "status": "Near Threatened",
+            "significance": "A majestic predator of the Alps"
+          },
+          {
+            "name": "Alpine Marmot",
+            "status": "Least Concern",
+            "significance": "A burrowing rodent adapted to the cold"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Anti-poaching patrols"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures",
+    "description": "Liechtenstein offers a wide range of outdoor activities for all skill levels, from gentle hikes to challenging mountain climbs.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the stunning alpine landscapes on foot.",
+        "activities": [
+          {
+            "name": "Short Day Hike",
+            "difficulty": "Easy",
+            "season": "All Seasons",
+            "duration": "2-4 hours",
+            "description": "Enjoy a leisurely hike through the mountains.",
+            "bestLocations": [
+              "Säntisser Plateau",
+              "Achensee Lake"
+            ],
+            "requirements": "Sturdy hiking boots, water, snacks",
+            "safety": [
+              "Check weather conditions",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Multi-Day Trek",
+            "difficulty": "Moderate to Hard",
+            "season": "Summer",
+            "duration": "3-7 days",
+            "description": "Embark on a challenging trek through the alpine wilderness.",
+            "bestLocations": [
+              "Liechtenstein Lakes District",
+              "High Alpine Trails"
+            ],
+            "requirements": "Navigation skills, camping equipment, appropriate clothing",
+            "safety": [
+              "Inform someone of your route",
+              "Carry a first-aid kit"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a refreshing swim or boat trip on the pristine lakes.",
+        "activities": [
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Take a dip in the crystal-clear waters of Achensee Lake.",
+            "bestLocations": [
+              "Achensee Lake"
+            ],
+            "requirements": "Swimsuit, towel",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Canoeing/Kayaking",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "2-4 hours",
+            "description": "Explore the lakes at your own pace.",
+            "bestLocations": [
+              "Achensee Lake"
+            ],
+            "requirements": "Canoe/Kayak, paddle, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of wind conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket and pants, hat, gloves",
+        "yearRound": "Hiking boots, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking poles, first-aid kit",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Check weather conditions",
+        "Carry a first-aid kit",
+        "Stay on marked trails"
+      ]
+    }
+  }
+}

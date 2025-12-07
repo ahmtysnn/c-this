@@ -1,0 +1,307 @@
+{
+  "CountryData": {
+    "name": "Wallis and Futuna",
+    "region": "Oceania",
+    "description": "Wallis and Futuna is an overseas territory of France in the South Pacific Ocean. It consists of two main islands, Wallis Island (Uvea) and Futuna Island, along with numerous smaller islets. The islands are known for their rich Polynesian culture, stunning coral reefs, and lush tropical landscapes.  The population is predominantly of mixed Polynesian and European descent, with French being the official language.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "11,500",
+        "icon": "Users",
+        "description": "The population is relatively small and dispersed across the islands.",
+        "detail": "The majority of the population resides in Hatua, the main settlement on Wallis Island."
+      },
+      {
+        "label": "Area",
+        "value": "243 km²",
+        "icon": "MapPin",
+        "description": "The total land area is modest, contributing to a sense of intimacy and isolation.",
+        "detail": "Wallis Island is approximately 196 km² and Futuna Island is around 47 km²."
+      },
+      {
+        "label": "Capital",
+        "value": "Hapea (Wallis)",
+        "icon": "MapPin",
+        "description": "Hapea is the largest village and administrative center on Wallis Island.",
+        "detail": "Futuna has a smaller administrative center, also named Futuna."
+      },
+      {
+        "label": "Currency",
+        "value": "Euro (€)",
+        "icon": "Coffee",
+        "description": "As part of France, Wallis and Futuna uses the Euro.",
+        "detail": "However, local transactions often involve French Pacific Francs (XPF)."
+      },
+      {
+        "label": "Religion",
+        "value": "Christianity (primarily Catholic)",
+        "icon": "Eye",
+        "description": "Catholicism is the dominant religion, deeply intertwined with local traditions.",
+        "detail": "Traditional Polynesian beliefs and practices continue to be observed alongside Christian faith."
+      }
+    ],
+    "climateData": {
+      "title": "Tropical Climate",
+      "description": "Wallis and Futuna experiences a tropical maritime climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, particularly during the wet season.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (November - April)",
+          "period": "Warm & Wet",
+          "description": "Summer brings consistently high temperatures and frequent, heavy rainfall. This is the peak of the cyclone season.",
+          "keyFeatures": [
+            "High humidity",
+            "Frequent rain showers",
+            "Warm temperatures"
+          ],
+          "activities": [
+            "Swimming",
+            "Snorkeling",
+            "Beach relaxation"
+          ]
+        },
+        {
+          "name": "Autumn (May - October)",
+          "period": "Transition",
+          "description": "Autumn sees a gradual decrease in rainfall and a slight cooling of temperatures. The seas remain calm.",
+          "keyFeatures": [
+            "Decreasing rainfall",
+            "Mild temperatures",
+            "Calm seas"
+          ],
+          "activities": [
+            "Hiking",
+            "Fishing",
+            "Cultural events"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Coral Gardens of Alofaipu",
+        "category": "Marine",
+        "description": "The Coral Gardens of Alofaipu are a vibrant and extensive coral reef system surrounding Wallis Island. It’s a haven for marine life and a popular destination for snorkeling and diving.",
+        "detailedDescription": "The reef boasts an incredible diversity of coral species, including staghorn and brain coral, alongside a kaleidoscope of colorful fish, sea turtles, and other marine creatures. The clear, warm waters provide exceptional visibility.",
+        "bestTime": "Year-Round",
+        "bestLocations": [
+          "Alofaipu Bay",
+          "Coral Gardens Point"
+        ],
+        "viewingTips": [
+          "Use reef-safe sunscreen",
+          "Respect the marine environment",
+          "Hire a local guide"
+        ],
+        "scientificData": {
+          "Depth": "Variable, 3-30m",
+          "Coral Coverage": "70%"
+        },
+        "icon": "Waves"
+      },
+      {
+        "id": 2,
+        "name": "Mount Siffleur",
+        "category": "Mountain",
+        "description": "Mount Siffleur is the highest point on Wallis Island, offering panoramic views of the island and surrounding ocean.",
+        "detailedDescription": "The mountain is covered in lush rainforest and is home to a variety of endemic plant and animal species. The hike to the summit is challenging but rewarding.",
+        "bestTime": "May - October",
+        "bestLocations": [
+          "Trailhead near Hapea"
+        ],
+        "viewingTips": [
+          "Wear sturdy hiking boots",
+          "Bring plenty of water",
+          "Check weather conditions"
+        ],
+        "scientificData": {
+          "Height": "576m",
+          "Elevation Gain": "800m"
+        },
+        "icon": "Mountain"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Tropical Rainforest Ecosystem",
+      "overview": "Wallis and Futuna is dominated by a lush tropical rainforest ecosystem, characterized by high rainfall, humidity, and diverse flora and fauna. The islands’ isolation has resulted in a high degree of endemism – species found nowhere else on Earth.",
+      "conservationStatus": {
+        "protectedAreas": "10%",
+        "nationalParks": 0
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Flora",
+          "icon": "Leaf",
+          "description": "The islands are home to a remarkable diversity of plant species, including numerous endemic trees, shrubs, and ferns.",
+          "statistics": [
+            {
+              "category": "Endemic Trees",
+              "count": "50+",
+              "details": "Many tree species are found only on Wallis and Futuna."
+            },
+            {
+              "category": "Ferns",
+              "count": "100+",
+              "details": "A significant number of fern species are unique to the islands."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Wallis Island Fig",
+              "status": "Endangered",
+              "significance": "A critically endangered fig tree species endemic to Wallis Island."
+            },
+            {
+              "name": "Futuna Fern",
+              "status": "Vulnerable",
+              "significance": "A rare fern species found only on Futuna Island."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Reforestation projects",
+            "Protected area management"
+          ]
+        },
+        {
+          "name": "Fauna",
+          "icon": "Bird",
+          "description": "The islands support a variety of bird species, including several endemic birds and seabirds.",
+          "statistics": [
+            {
+              "category": "Endemic Birds",
+              "count": "15+",
+              "details": "Several bird species are found exclusively on Wallis and Futuna."
+            },
+            {
+              "category": "Seabirds",
+              "count": "Numerous",
+              "details": "The islands are important breeding grounds for various seabird species."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Futuna Imperial Pigeon",
+              "status": "Endangered",
+              "significance": "A critically endangered pigeon species endemic to Futuna Island."
+            },
+            {
+              "name": "Wallis Island Honeyeater",
+              "status": "Vulnerable",
+              "significance": "A rare honeyeater species found only on Wallis Island."
+            }
+          ],
+          "threats": [
+            "Introduced predators",
+            "Habitat degradation"
+          ],
+          "conservationEfforts": [
+            "Predator control programs",
+            "Habitat restoration"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities",
+      "description": "Wallis and Futuna offers a range of outdoor activities, catering to both adventure seekers and those seeking relaxation.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the islands’ diverse landscapes through a network of hiking trails.",
+          "activities": [
+            {
+              "name": "Mount Siffleur Hike",
+              "difficulty": "Moderate",
+              "season": "May - October",
+              "duration": "4-6 hours",
+              "description": "A challenging hike to the summit of Mount Siffleur, offering stunning views.",
+              "bestLocations": [
+                "Trailhead near Hapea"
+              ],
+              "requirements": "Sturdy hiking boots, water, sunscreen",
+              "safety": [
+                "Be aware of slippery trails",
+                "Check weather conditions"
+              ]
+            },
+            {
+              "name": "Coastal Trails",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "Variable",
+              "description": "Enjoy leisurely walks along the coastline, discovering hidden beaches and scenic viewpoints.",
+              "bestLocations": [
+                "Alofaipu Coast",
+                "Futuna Coast"
+              ],
+              "requirements": "Comfortable shoes",
+              "safety": [
+                "Be mindful of tides"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy the crystal-clear waters surrounding the islands with a variety of water sports.",
+          "activities": [
+            {
+              "name": "Snorkeling",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "Variable",
+              "description": "Explore the vibrant coral reefs and marine life.",
+              "bestLocations": [
+                "Alofaipu Bay",
+                "Coral Gardens Point"
+              ],
+              "requirements": "Snorkel gear, sunscreen",
+              "safety": [
+                "Respect marine life",
+                "Use reef-safe sunscreen"
+              ]
+            },
+            {
+              "name": "Diving",
+              "difficulty": "Moderate",
+              "season": "November - April",
+              "duration": "Variable",
+              "description": "Discover the underwater wonders of the coral reefs.",
+              "bestLocations": [
+                "Coral Gardens Point"
+              ],
+              "requirements": "Certification, diving gear",
+              "safety": [
+                "Follow dive guidelines",
+                "Check visibility"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, hat",
+          "winter": "Layers, waterproof jacket, sweater",
+          "yearRound": "Comfortable clothing, sandals, hiking shoes"
+        },
+        "equipment": {
+          "basic": "Sunscreen, insect repellent, hat",
+          "hiking": "Sturdy hiking boots, backpack, water bottle",
+          "photography": "Camera, extra batteries"
+        },
+        "safety": [
+          "Inform someone of your plans",
+          "Carry a first-aid kit",
+          "Be aware of weather conditions"
+        ]
+      }
+    }
+  }
+}

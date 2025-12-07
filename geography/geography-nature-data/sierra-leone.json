@@ -1,0 +1,343 @@
+{
+  "name": "Sierra Leone",
+  "region": "Africa",
+  "description": "Sierra Leone, officially the Republic of Sierra Leone, is a country located on the West African coast. Known for its diverse landscapes, rich culture, and complex history, it boasts stunning beaches, lush rainforests, and significant wildlife. The country is a former British colony and has experienced periods of civil conflict, but is now focused on sustainable development and tourism.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Freetown",
+      "icon": "MapPin",
+      "description": "The bustling capital city and largest urban center.",
+      "detail": "Freetown is a port city with a unique history, largely shaped by its founding as a settlement for freed slaves from Britain."
+    },
+    {
+      "label": "Population",
+      "value": "8.1 million",
+      "icon": "Users",
+      "description": "Sierra Leone's population is predominantly young.",
+      "detail": "The median age is approximately 18.5 years, presenting both challenges and opportunities for the nation's future."
+    },
+    {
+      "label": "Area",
+      "value": "71,740 sq km (27,620 sq mi)",
+      "icon": "Globe",
+      "description": "A relatively small West African nation.",
+      "detail": "It's the second-smallest country in Africa."
+    },
+    {
+      "label": "Official Languages",
+      "value": "English, Mende",
+      "icon": "ArrowRight",
+      "description": "English is the official language, while Mende is widely spoken.",
+      "detail": "Numerous other indigenous languages are also spoken throughout the country."
+    },
+    {
+      "label": "GDP",
+      "value": "$2.6 billion (2023)",
+      "icon": "Coffee",
+      "description": "Sierra Leone's economy is largely based on agriculture and mining.",
+      "detail": "The country is working to diversify its economy and reduce its reliance on these sectors."
+    },
+    {
+      "label": "Currency",
+      "value": "Sierra Leonean Leone (SLL)",
+      "icon": "Clock",
+      "description": "The local currency.",
+      "detail": "The exchange rate fluctuates, but is approximately 1 USD = 63 SLL (as of Oct 26, 2023)."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Sierra Leone",
+    "description": "Sierra Leone experiences a tropical savanna climate, characterized by high temperatures and rainfall throughout the year. There are distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "June – September",
+        "description": "The dry season brings cooler temperatures and significantly reduced rainfall.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Clear skies",
+          "Reduced vegetation growth"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Hiking",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "October – May",
+        "description": "The wet season is marked by heavy rainfall and high humidity.",
+        "keyFeatures": [
+          "High rainfall",
+          "Increased humidity",
+          "Dense vegetation"
+        ],
+        "activities": [
+          "River cruises",
+          "Fishing",
+          "Exploring waterfalls"
+        ]
+      },
+      {
+        "name": "Harmattan Winds",
+        "period": "November – January",
+        "description": "A dry, dusty wind originating from the Sahara Desert.",
+        "keyFeatures": [
+          "Dust storms",
+          "Reduced visibility",
+          "Cooler temperatures"
+        ],
+        "activities": [
+          "Indoor activities",
+          "Photography (dust effects)"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Stone Town, Freetown",
+      "category": "Historical Site",
+      "description": "Stone Town is the historic heart of Freetown, a UNESCO World Heritage Site. It’s a labyrinth of narrow streets, colonial-era buildings, and vibrant markets, offering a glimpse into the city’s complex past.",
+      "detailedDescription": "Founded as a settlement for freed slaves in 1787, Stone Town retains its unique architectural style and cultural heritage.  The area is filled with bustling markets, craft shops, and traditional restaurants.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Broad Street",
+        "Campbell Street",
+        "Cotton Tree"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes for walking",
+        "Be prepared for crowds",
+        "Try local street food"
+      ],
+      "scientificData": {
+        "Elevation": "Sea Level",
+        "Area": "Approximately 3.7 sq km"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Ti Tree Hills National Park",
+      "category": "Mountain Range",
+      "description": "A rugged mountain range offering stunning views and diverse wildlife, including chimpanzees and various bird species.",
+      "detailedDescription": "The Ti Tree Hills are a relatively unexplored area of Sierra Leone, characterized by steep slopes, dense forests, and unique flora and fauna.  The area is known for its challenging hiking trails and remote beauty.",
+      "bestTime": "June – September (Dry Season)",
+      "bestLocations": [
+        "Mount Loma",
+        "Mount Massarah"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring appropriate hiking gear",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Elevation": "1,600m (5,250 ft)",
+        "Area": "Approximately 230 sq km (89 sq mi)"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Bunce Island",
+      "category": "Historical Site",
+      "description": "A poignant reminder of the transatlantic slave trade, Bunce Island is a fortified island that served as a major hub for the capture and sale of enslaved Africans.",
+      "detailedDescription": "Bunce Island, located off the coast of Sierra Leone, was a significant center for the slave trade during the 18th century.  The ruins of the fort and the stories of those who were enslaved there offer a sobering look at a dark chapter in human history.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Boat trip from Sierra Leone Island"
+      ],
+      "viewingTips": [
+        "Take a guided tour to learn about the island's history",
+        "Reflect on the impact of the slave trade"
+      ],
+      "scientificData": {
+        "Elevation": "15m",
+        "Area": "Approximately 0.5 sq km"
+      },
+      "icon": "Eye"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Sierra Leone",
+    "overview": "Sierra Leone’s ecosystems are incredibly diverse, ranging from coastal mangroves to rainforests and savanna grasslands. These ecosystems support a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 3.5%",
+      "nationalParks": 4
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Dominating the landscape, Sierra Leone’s forests are home to a vast array of plant and animal species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 1,000",
+            "details": "A significant portion are endemic to Sierra Leone."
+          },
+          {
+            "category": "Biodiversity Index",
+            "count": "High",
+            "details": "Ranked among the most biodiverse countries in Africa."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Red Colobus Monkey",
+            "status": "Endangered",
+            "significance": "A flagship species for conservation efforts."
+          },
+          {
+            "name": "African Grey Parrot",
+            "status": "Vulnerable",
+            "significance": "Known for its intelligence and vocalizations."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Agricultural expansion"
+        ],
+        "conservationEfforts": [
+          "Protected area establishment",
+          "Community-based conservation programs"
+        ]
+      },
+      {
+        "name": "Mangroves",
+        "icon": "Leaf",
+        "description": "Coastal mangrove forests provide critical habitat for numerous species and protect the coastline from erosion.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 100,000 hectares",
+            "details": "Vast areas along the coastline."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Mudskipper",
+            "status": "Least Concern",
+            "significance": "An indicator species for mangrove health."
+          },
+          {
+            "name": "Various Crab Species",
+            "status": "Vulnerable",
+            "significance": "Important for the mangrove ecosystem."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration projects",
+          "Sustainable coastal management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Sierra Leone",
+    "description": "Sierra Leone offers a wide range of activities for travelers, from wildlife viewing and hiking to water sports and cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the country’s mountainous regions and rainforests.",
+        "activities": [
+          {
+            "name": "Ti Tree Hills Trek",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "2-3 days",
+            "description": "A challenging trek through the Ti Tree Hills, offering stunning views and wildlife encounters.",
+            "bestLocations": [
+              "Mount Loma",
+              "Mount Massarah"
+            ],
+            "requirements": "Hiking boots, water bottle, sunscreen, insect repellent",
+            "safety": [
+              "Inform someone of your route",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Mount Loma Hike",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "3-4 hours",
+            "description": "A relatively easy hike to the summit of Mount Loma, offering panoramic views of Freetown.",
+            "bestLocations": [
+              "Freetown"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Be aware of the weather conditions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the country’s beautiful coastline with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "Variable",
+            "description": "Several beaches offer good surfing conditions.",
+            "bestLocations": [
+              "Banana Island",
+              "Lumley Beach"
+            ],
+            "requirements": "Surfboard, wetsuit (optional)",
+            "safety": [
+              "Check surf conditions before entering the water"
+            ]
+          },
+          {
+            "name": "Fishing",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Traditional fishing is a significant part of the local culture.",
+            "bestLocations": [
+              "Coastal villages"
+            ],
+            "requirements": "Fishing rod, bait",
+            "safety": [
+              "Follow local fishing regulations"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen",
+        "winter": "Layers of clothing, waterproof jacket, warm sweater",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Insect repellent, flashlight, first-aid kit",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

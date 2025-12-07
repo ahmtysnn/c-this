@@ -1,0 +1,315 @@
+{
+  "CountryData": {
+    "name": "Western Sahara",
+    "region": "North Africa",
+    "description": "Western Sahara, also known as the Sahrawi Arab Democratic Republic, is a disputed territory in Northwest Africa. It encompasses a vast, largely uninhabited expanse of desert, characterized by dramatic dunes, rocky plateaus, and the Atlantic coastline. The territory is rich in phosphate deposits and holds significant strategic importance. The political status remains unresolved, with Morocco claiming sovereignty over the entire territory.",
+    "quickFacts": [
+      {
+        "label": "Area",
+        "value": "266,000 sq km (103,000 sq mi)",
+        "icon": "MapPin",
+        "description": "A large area of North Africa, primarily desert.",
+        "detail": "The territory is significantly larger than many European countries."
+      },
+      {
+        "label": "Population",
+        "value": "Approximately 570,000 (as of 2023)",
+        "icon": "Users",
+        "description": "Mostly Sahrawi refugees and residents.",
+        "detail": "The population is largely displaced due to the ongoing conflict."
+      },
+      {
+        "label": "Capital",
+        "value": "Laayoune",
+        "icon": "MapPin",
+        "description": "The largest city and administrative center.",
+        "detail": "Laayoune is a modern city and a key economic hub."
+      },
+      {
+        "label": "Official Language",
+        "value": "Arabic",
+        "icon": "Globe",
+        "description": "The primary language spoken by the Sahrawi people.",
+        "detail": "Tamazight (Berber) and Spanish are also spoken."
+      },
+      {
+        "label": "Currency",
+        "value": "Dinar",
+        "icon": "Coffee",
+        "description": "The official currency of the Sahrawi Arab Democratic Republic.",
+        "detail": "The dinar is pegged to the Moroccan Dirham."
+      },
+      {
+        "label": "Government",
+        "value": "Sahrawi Arab Democratic Republic",
+        "icon": "Clock",
+        "description": "A self-declared state recognized by a few countries.",
+        "detail": "The political situation is complex and contested."
+      }
+    ],
+    "climateData": {
+      "title": "Desert Climate",
+      "description": "Western Sahara experiences a hot desert climate with extreme temperature variations. Rainfall is scarce and unpredictable, primarily concentrated during the winter months. The vast majority of the territory is arid and receives less than 250mm (10 inches) of rainfall annually.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (June - August)",
+          "period": "June to August",
+          "description": "The hottest period of the year, with scorching daytime temperatures.",
+          "keyFeatures": [
+            "Extreme heat",
+            "Intense sunlight",
+            "Low humidity"
+          ],
+          "activities": [
+            "Desert exploration",
+            "Stargazing",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Autumn (September - November)",
+          "period": "September to November",
+          "description": "Temperatures begin to moderate, and rainfall increases slightly.",
+          "keyFeatures": [
+            "Mild temperatures",
+            "Occasional rain showers",
+            "Clear skies"
+          ],
+          "activities": [
+            "Hiking",
+            "Wildlife observation",
+            "Sandboarding"
+          ]
+        },
+        {
+          "name": "Winter (December - February)",
+          "period": "December to February",
+          "description": "The coolest period, with cooler nights and occasional rainfall.",
+          "keyFeatures": [
+            "Cool nights",
+            "Rainfall",
+            "Clear skies"
+          ],
+          "activities": [
+            "Desert camping",
+            "Stargazing",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Spring (March - May)",
+          "period": "March to May",
+          "description": "Temperatures rise again, and the landscape blooms briefly with wildflowers.",
+          "keyFeatures": [
+            "Increasing temperatures",
+            "Wildflower blooms",
+            "Clear skies"
+          ],
+          "activities": [
+            "Hiking",
+            "Wildlife observation",
+            "Sandboarding"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Reg (Erg) Rub' al Khali",
+        "category": "Desert",
+        "description": "The Reg Rub' al Khali, also known as the Sea of Fog, is one of the largest and most remote ergs (sand seas) in the world. Its vast, undulating dunes create a surreal and breathtaking landscape.",
+        "detailedDescription": "The dunes stretch for hundreds of kilometers, shifting and changing with the wind. The silence and solitude of the Reg Rub' al Khali are profound, offering a unique experience for those who venture into its depths.  The sand is incredibly fine and soft, making it ideal for sandboarding and dune bashing.",
+        "bestTime": "Autumn or Spring",
+        "bestLocations": [
+          "Central Reg Rub' al Khali"
+        ],
+        "viewingTips": [
+          "Bring plenty of water",
+          "Wear appropriate clothing",
+          "Respect the environment"
+        ],
+        "scientificData": {
+          "Height": "100m - 300m",
+          "Age": "1 million years",
+          "SandGrainSize": "0.5mm - 1mm"
+        },
+        "icon": "Wind"
+      },
+      {
+        "id": 2,
+        "name": "Tata Plate",
+        "category": "Geological Formation",
+        "description": "The Tata Plate is a remarkable geological formation in the Jerama Valley, showcasing layers of ancient sandstone and shale, revealing millions of years of Earth's history.",
+        "detailedDescription": "The plate is a vibrant tapestry of colors, created by mineral deposits and oxidation processes. It’s a popular destination for paleontologists and geologists, offering insights into the region’s prehistoric past. Fossilized footprints of dinosaurs and other ancient creatures have been discovered here.",
+        "bestTime": "Spring or Autumn",
+        "bestLocations": [
+          "Jerama Valley"
+        ],
+        "viewingTips": [
+          "Hire a local guide",
+          "Wear sturdy shoes",
+          "Bring binoculars"
+        ],
+        "scientificData": {
+          "Age": "2.3 billion years",
+          "RockType": "Sandstone, Shale, Conglomerate",
+          "FossilRecord": "Dinosaur footprints, plant fossils"
+        },
+        "icon": "Mountain"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Saharan Ecosystem",
+      "overview": "The Saharan ecosystem is characterized by extreme aridity, high temperatures, and limited vegetation. Despite these harsh conditions, a remarkable array of specialized plants and animals have adapted to survive.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 5% (primarily in national parks and reserves)",
+        "nationalParks": 3
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Reptiles",
+          "icon": "Bird",
+          "description": "A diverse group of reptiles, including lizards, snakes, and turtles, have adapted to the desert environment.",
+          "statistics": [
+            {
+              "category": "Lizards",
+              "count": "Over 100 species",
+              "details": "Many species are nocturnal and adapted to burrowing."
+            },
+            {
+              "category": "Snakes",
+              "count": "Over 50 species",
+              "details": "Includes venomous species like the horned viper."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Horned Viper",
+              "status": "Vulnerable",
+              "significance": "A venomous snake adapted to the desert heat."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Illegal wildlife trade"
+          ],
+          "conservationEfforts": [
+            "Protected areas",
+            "Community-based conservation"
+          ]
+        },
+        {
+          "name": "Birds",
+          "icon": "Leaf",
+          "description": "Various bird species, including migratory birds, utilize the Saharan ecosystem for breeding and resting.",
+          "statistics": [
+            {
+              "category": "Migratory Birds",
+              "count": "Over 30 species",
+              "details": "Pass through the Sahara during migration."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Desert Lark",
+              "status": "Least Concern",
+              "significance": "A common bird found in the Sahara."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Protected areas",
+            "Community engagement"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Saharan Adventures",
+      "description": "Western Sahara offers a range of adventurous activities, from exploring vast deserts to experiencing the unique culture of the Sahrawi people.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the dramatic landscapes on foot.",
+          "activities": [
+            {
+              "name": "Dune Hiking",
+              "difficulty": "Moderate",
+              "season": "Autumn or Spring",
+              "duration": "3-6 hours",
+              "description": "Hike across the towering dunes of the Reg Rub' al Khali.",
+              "bestLocations": [
+                "Reg Rub' al Khali"
+              ],
+              "requirements": "Sturdy hiking boots, water, sunscreen, hat",
+              "safety": [
+                "Heat exhaustion",
+                "Dehydration"
+              ]
+            },
+            {
+              "name": "Valley Hiking",
+              "difficulty": "Easy",
+              "season": "Spring or Autumn",
+              "duration": "2-4 hours",
+              "description": "Explore the valleys and canyons of the Jerama Valley.",
+              "bestLocations": [
+                "Jerama Valley"
+              ],
+              "requirements": "Comfortable shoes, water",
+              "safety": [
+                "Scorpion stings"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy water activities along the Atlantic coast.",
+          "activities": [
+            {
+              "name": "Surfing",
+              "difficulty": "Moderate",
+              "season": "Autumn to Spring",
+              "duration": "Variable",
+              "description": "Catch the waves along the Atlantic coast.",
+              "bestLocations": [
+                "Laayoune Coast"
+              ],
+              "requirements": "Surfboard, wetsuit (optional)",
+              "safety": [
+                "Strong currents",
+                "Rip tides"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight, breathable clothing, hat, sunglasses, sunscreen",
+          "winter": "Warm layers, jacket, scarf, gloves",
+          "yearRound": "Comfortable clothing suitable for hot days and cool nights"
+        },
+        "equipment": {
+          "basic": "Water bottle, flashlight, first-aid kit",
+          "hiking": "Hiking boots, backpack, map, compass",
+          "photography": "Camera, extra batteries, tripod"
+        },
+        "safety": [
+          "Heat exhaustion",
+          "Dehydration",
+          "Sunburn",
+          "Scorpion stings",
+          "Sandstorms"
+        ]
+      }
+    }
+  }
+}

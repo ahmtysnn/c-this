@@ -1,0 +1,330 @@
+{
+  "name": "San Marino",
+  "region": "Europe",
+  "description": "San Marino, a microstate nestled within Italy, boasts a remarkably preserved medieval landscape and a rich history. Its dramatic, rolling hills, dotted with ancient fortresses and charming villages, offer a unique blend of natural beauty and cultural heritage.  The country’s strategic location and stable economy contribute to its appeal as a tourist destination and a center for international finance.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "61 km²",
+      "icon": "MapPin",
+      "description": "San Marino is one of the smallest countries in the world.",
+      "detail": "Its compact size contributes to its unique character and preservation of historical sites."
+    },
+    {
+      "label": "Population",
+      "value": "33,642",
+      "icon": "Users",
+      "description": "The population of San Marino is relatively small.",
+      "detail": "The majority of the population resides in the three historic cities: Serravalle, Borgo Maggiore, and San Marino."
+    },
+    {
+      "label": "Capital",
+      "value": "San Marino",
+      "icon": "MapPin",
+      "description": "The capital city is named after the country.",
+      "detail": "San Marino is a historic walled city and the political and administrative center."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "San Marino uses the Euro as its currency.",
+      "detail": "The Euro was adopted in 2002."
+    },
+    {
+      "label": "Official Language",
+      "value": "Italian",
+      "icon": "Globe",
+      "description": "Italian is the official language.",
+      "detail": "However, the Marinesche dialect, a Romance language, is also spoken."
+    },
+    {
+      "label": "GDP",
+      "value": "$6.2 billion (2023)",
+      "icon": "Zap",
+      "description": "San Marino has a robust economy.",
+      "detail": "The economy is driven by finance, tourism, and light industry."
+    }
+  ],
+  "climateData": {
+    "title": "Mediterranean Climate",
+    "description": "San Marino experiences a Mediterranean climate characterized by warm, dry summers and mild, wet winters.  The mountainous terrain influences local weather patterns, creating cooler temperatures at higher elevations.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming and blossoming of wildflowers across the hillsides.",
+        "keyFeatures": [
+          "Blooming wildflowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Photography",
+          "Visiting historical sites"
+        ]
+      },
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Summers are hot and dry, with clear skies and abundant sunshine.  This is peak tourist season.",
+        "keyFeatures": [
+          "Hot temperatures",
+          "Sunny days",
+          "Low rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Swimming",
+          "Outdoor events",
+          "Exploring the coast"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Autumn sees a decrease in temperatures and a vibrant display of fall foliage. Rainfall increases.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Fall foliage",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Wine tasting",
+          "Visiting local markets",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Winters are mild and wet, with occasional snowfall in the mountains.  It's a quieter time to visit.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Occasional snowfall",
+          "Higher rainfall"
+        ],
+        "activities": [
+          "Visiting museums",
+          "Exploring historic sites",
+          "Relaxing in local cafes"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Titano",
+      "category": "Mountain Range",
+      "description": "Mount Titano, the heart of San Marino, is a dramatic mountain range that dominates the landscape. Its steep slopes and imposing peaks offer stunning panoramic views.",
+      "detailedDescription": "The mountain range is composed of metamorphic rocks and is characterized by its rugged terrain and numerous caves. It's a UNESCO World Heritage Site.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "San Marino City",
+        "Borgo Maggiore",
+        "Albornoz"
+      ],
+      "viewingTips": [
+        "Bring appropriate footwear for hiking",
+        "Check weather conditions before heading out"
+      ],
+      "scientificData": {
+        "Height": "561 m",
+        "Age": "Approximately 300 million years old"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Monte Conero",
+      "category": "Coastal Cliffs",
+      "description": "Monte Conero is a dramatic coastal cliff formation along the Adriatic Sea, offering breathtaking views and unique geological features.",
+      "detailedDescription": "The cliffs are composed of sedimentary rock and are sculpted by the relentless force of the sea. It's a haven for diverse birdlife.",
+      "bestTime": "Spring & Autumn",
+      "bestLocations": [
+        "Marina di San Marino",
+        "Numana"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes for exploring the cliffs",
+        "Be mindful of the tides"
+      ],
+      "scientificData": {
+        "Height": "120 m",
+        "Rock Type": "Sedimentary Limestone"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Monti Sibillini National Park (Adjacent)",
+    "overview": "While technically in Italy, the Monti Sibillini National Park significantly influences San Marino's ecosystem and biodiversity. This mountainous region provides a vital habitat for numerous plant and animal species.",
+    "conservationStatus": {
+      "protectedAreas": "75%",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "The flora of San Marino is diverse, with a mix of Mediterranean and alpine species.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "15",
+            "details": "Several plant species are found only in San Marino."
+          },
+          {
+            "category": "Wildflowers",
+            "count": "100+",
+            "details": "Spring brings a spectacular display of wildflowers."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Sanmarinesche Iris",
+            "status": "Vulnerable",
+            "significance": "A rare iris species endemic to San Marino."
+          },
+          {
+            "name": "Alpine Edelweiss",
+            "status": "Endangered",
+            "significance": "A high-altitude flower found in the mountain regions."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Species monitoring"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "San Marino is home to a variety of bird species, including raptors and migratory birds.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "120+",
+            "details": "A diverse range of bird species inhabit the region."
+          },
+          {
+            "category": "Migratory Birds",
+            "count": "50+",
+            "details": "San Marino is a stopover point for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Golden Eagle",
+            "status": "Near Threatened",
+            "significance": "A majestic raptor that nests in the mountains."
+          },
+          {
+            "name": "Barn Owl",
+            "status": "Least Concern",
+            "significance": "A common owl species found throughout the country."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Hunting"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Bird monitoring programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in San Marino",
+    "description": "San Marino offers a wide range of outdoor activities for all skill levels, from gentle hikes to challenging climbs.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the stunning mountain trails and coastal paths of San Marino.",
+        "activities": [
+          {
+            "name": "Monte Titano Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "A popular hike to the summit of Monte Titano, offering panoramic views.",
+            "bestLocations": [
+              "San Marino City"
+            ],
+            "requirements": "Good hiking shoes, water, sunscreen",
+            "safety": [
+              "Check weather conditions",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Monte Conero Coastal Trail",
+            "difficulty": "Easy",
+            "season": "Spring & Autumn",
+            "duration": "3-5 hours",
+            "description": "A scenic coastal trail along Monte Conero, offering stunning views of the Adriatic Sea.",
+            "bestLocations": [
+              "Marina di San Marino"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Be aware of slippery rocks",
+              "Check tide times"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cycling",
+        "icon": "Navigation",
+        "description": "Cycle through the picturesque countryside and along the coastal roads.",
+        "activities": [
+          {
+            "name": "San Marino Loop",
+            "difficulty": "Moderate",
+            "season": "Spring-Autumn",
+            "duration": "2-3 hours",
+            "description": "A circular route through the historic towns and countryside.",
+            "bestLocations": [
+              "San Marino City",
+              "Borgo Maggiore"
+            ],
+            "requirements": "Bike, helmet",
+            "safety": [
+              "Follow traffic rules",
+              "Wear a helmet"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Water bottle, backpack, map",
+        "hiking": "Hiking boots, trekking poles",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Inform someone of your hiking plans",
+        "Carry a first-aid kit",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "name": "Saint Barthélemy",
+  "region": "Caribbean, France",
+  "description": "Saint Barthélemy (officially Saint Barthélemy Island) is a French overseas collectivity in the Caribbean. Known for its exclusive luxury resorts, stunning beaches, and vibrant culture, it’s a haven for discerning travelers and yacht enthusiasts. The island boasts a unique blend of French and Caribbean influences, creating a sophisticated and laid-back atmosphere. It’s a volcanic island with a rugged interior, offering diverse landscapes from pristine coastlines to lush hillsides.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Gustavia",
+      "icon": "MapPin",
+      "description": "The island's main port and commercial center.",
+      "detail": "Gustavia is a charming town with upscale boutiques, restaurants, and the impressive Governor's Palace."
+    },
+    {
+      "label": "Population",
+      "value": "10,826",
+      "icon": "Users",
+      "description": "The island's total population.",
+      "detail": "The population is comprised of a mix of French and Caribbean residents."
+    },
+    {
+      "label": "Area",
+      "value": "141 km²",
+      "icon": "Globe",
+      "description": "The island's total land area.",
+      "detail": "It’s one of the smallest overseas departments of France."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "The official currency of Saint Barthélemy.",
+      "detail": "While Euro is used, US dollars are widely accepted."
+    },
+    {
+      "label": "Language",
+      "value": "French, English, Creole",
+      "icon": "Navigation",
+      "description": "The primary languages spoken on the island.",
+      "detail": "French is the official language, but English and Creole are widely spoken in tourist areas."
+    },
+    {
+      "label": "GDP",
+      "value": "$850 million",
+      "icon": "Zap",
+      "description": "The island's Gross Domestic Product.",
+      "detail": "Tourism is the dominant sector of the economy."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Saint Barthélemy enjoys a tropical climate with consistently warm temperatures year-round. The island experiences a distinct wet and dry season.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December – May",
+        "description": "The dry season is characterized by sunny skies, low humidity, and minimal rainfall. It’s the most popular time to visit.",
+        "keyFeatures": [
+          "Sunny days",
+          "Low humidity",
+          "Calm seas"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Watersports",
+          "Hiking"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "June – November",
+        "description": "The wet season brings increased rainfall, particularly in the afternoons. However, showers are typically short-lived, and the sun often reappears.",
+        "keyFeatures": [
+          "Rainfall",
+          "Green landscapes",
+          "Higher humidity"
+        ],
+        "activities": [
+          "Rainforest hikes",
+          "Exploring the interior",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Colombier Beach",
+      "category": "Beach",
+      "description": "Colombier Beach is a stunning crescent-shaped beach known for its dramatic cliffs and turquoise waters. It’s a popular spot for swimming, sunbathing, and snorkeling.",
+      "detailedDescription": "The beach is sheltered by towering cliffs, creating a tranquil atmosphere. The water is exceptionally clear, making it ideal for exploring the vibrant coral reefs just offshore.  The beach is accessible via a steep path or by boat.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Colombier"
+      ],
+      "viewingTips": [
+        "Bring water shoes for the rocky shoreline",
+        "Arrive early to secure a good spot"
+      ],
+      "scientificData": {
+        "Height": "30m",
+        "Width": "200m",
+        "Depth": "Variable, shallow near shore"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Pinel Island",
+      "category": "Island",
+      "description": "Pinel Island is a small, uninhabited island just off the coast of Saint Barthélemy. It’s a protected nature reserve and a haven for wildlife.",
+      "detailedDescription": "This idyllic island is covered in lush vegetation and offers pristine beaches. It’s a fantastic spot for birdwatching, nature walks, and enjoying the tranquility of the Caribbean.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Pinel Island"
+      ],
+      "viewingTips": [
+        "Respect the natural environment",
+        "Bring binoculars for birdwatching"
+      ],
+      "scientificData": {
+        "Area": "10 hectares",
+        "Elevation": "2m",
+        "Vegetation": "Tropical forest"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Coastal Ecosystems",
+    "icon": "Waves",
+    "description": "Saint Barthélemy’s coastal ecosystems are incredibly diverse, supporting a wide range of marine life and plant species. The coral reefs, seagrass beds, and mangrove forests are vital habitats.",
+    "statistics": [
+      {
+        "category": "Coral Reef Coverage",
+        "count": "25%",
+        "details": "Approximately 25% of the island’s coastline is covered by vibrant coral reefs."
+      },
+      {
+        "category": "Mangrove Area",
+        "count": "5 km²",
+        "details": "The island boasts 5 square kilometers of mangrove forests, providing crucial nursery grounds for fish and other marine species."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Humpback Whale",
+        "status": "Vulnerable",
+        "significance": "Migrates to the waters around Saint Barthélemy to breed and calve."
+      },
+      {
+        "name": "Caribbean Coral",
+        "status": "Endangered",
+        "significance": "A key component of the island’s coral reef ecosystem."
+      }
+    ],
+    "threats": [
+      "Climate change",
+      "Pollution",
+      "Coastal development"
+    ],
+    "conservationEfforts": [
+      "Marine protected areas",
+      "Coral reef restoration projects",
+      "Sustainable tourism initiatives"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Coastal Ecosystems of Saint Barthélemy",
+    "overview": "Saint Barthélemy’s coastal ecosystems are a critical part of the island’s natural heritage. They provide essential habitat for a diverse range of species and contribute significantly to the island’s economy through tourism and fisheries.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coastal Ecosystems",
+        "icon": "Waves",
+        "description": "The diverse habitats along Saint Barthélemy’s coastline, including coral reefs, mangroves, seagrass beds, and sandy beaches.",
+        "statistics": [
+          {
+            "category": "Coral Reef Area",
+            "count": "10 km²",
+            "details": "The primary coral reef system covers approximately 10 square kilometers."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Sea Turtle",
+            "status": "Endangered",
+            "significance": "Several species of sea turtles nest on the island’s beaches."
+          }
+        ],
+        "threats": [
+          "Coastal erosion",
+          "Marine pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Beach cleanups",
+          "Marine protected area management",
+          "Sustainable fishing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities",
+    "description": "Saint Barthélemy offers a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s rugged interior and enjoy stunning views.",
+        "activities": [
+          {
+            "name": "Mount Odin Trail",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "A challenging hike to the summit of Mount Odin, the island’s highest peak.",
+            "bestLocations": [
+              "Corozal"
+            ],
+            "requirements": "Hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "L'Aurélia Trail",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-2 hours",
+            "description": "A scenic trail through the rainforest, leading to a waterfall.",
+            "bestLocations": [
+              "Corozal"
+            ],
+            "requirements": "Comfortable shoes, insect repellent",
+            "safety": [
+              "Watch out for slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of the Caribbean Sea.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Colombier Beach",
+              "Pinel Island"
+            ],
+            "requirements": "Snorkel gear, sunscreen",
+            "safety": [
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Sailing",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Charter a yacht or take a sailing lesson.",
+            "bestLocations": [
+              "Gustavia Harbour",
+              "Various bays"
+            ],
+            "requirements": "Sailboat rental, sailing experience (for chartering)",
+            "safety": [
+              "Follow safety regulations"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers, light jacket, sweater, rain gear",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Sunglasses, insect repellent, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of currents",
+        "Respect wildlife"
+      ]
+    }
+  }
+}

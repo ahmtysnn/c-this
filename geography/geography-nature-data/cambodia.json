@@ -1,0 +1,393 @@
+{
+  "name": "Cambodia",
+  "region": "Southeast Asia",
+  "description": "Cambodia, officially the Kingdom of Cambodia, is a Southeast Asian nation bordered by Thailand to the west, Laos to the northwest, Vietnam to the east, and the Gulf of Thailand to the south. Known for its rich history, stunning temples, and diverse landscapes, Cambodia offers a unique blend of ancient culture and natural beauty. The country’s geography ranges from the fertile plains of the central lowlands to the Cardamom Mountains in the southwest and the highlands of Ratanakiri and Mondulkiri in the northeast.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Phnom Penh",
+      "icon": "MapPin",
+      "description": "The bustling capital and largest city of Cambodia.",
+      "detail": "Phnom Penh is a vibrant metropolis with a mix of modern development and historical landmarks."
+    },
+    {
+      "label": "Population",
+      "value": "16.8 million",
+      "icon": "Users",
+      "description": "The population of Cambodia is predominantly Khmer.",
+      "detail": "The majority of the population lives in rural areas, relying on agriculture."
+    },
+    {
+      "label": "Official Language",
+      "value": "Khmer",
+      "icon": "ArrowRight",
+      "description": "The official language of Cambodia.",
+      "detail": "Khmer is a tonal language with a complex writing system."
+    },
+    {
+      "label": "Currency",
+      "value": "Riel (KHR) & US Dollar (USD)",
+      "icon": "Coffee",
+      "description": "The Cambodian Riel is the official currency, but the US dollar is widely accepted.",
+      "detail": "The exchange rate fluctuates, but generally, 1 USD equals approximately 4,000 KHR."
+    },
+    {
+      "label": "Area",
+      "value": "181,035 sq km",
+      "icon": "Globe",
+      "description": "Cambodia is a relatively small country.",
+      "detail": "It's roughly the size of South Carolina."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 28.16 billion (2023)",
+      "icon": "Zap",
+      "description": "Cambodia's economy is largely based on agriculture and tourism.",
+      "detail": "The country is experiencing steady economic growth."
+    }
+  ],
+  "climateData": {
+    "title": "Cambodia's Climate",
+    "description": "Cambodia experiences a tropical monsoon climate, characterized by distinct wet and dry seasons. The southwest (Cardamom Mountains) is generally cooler and wetter than the central and northeast regions.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "November – April",
+        "description": "The dry season brings sunny skies, lower humidity, and pleasant temperatures. It's the peak tourist season.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Lower river levels"
+        ],
+        "activities": [
+          "Temple visits",
+          "Beach relaxation",
+          "Wildlife spotting"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May – October",
+        "description": "The wet season is marked by heavy rainfall, high humidity, and occasional flooding. However, it's also a beautiful time to experience the lush landscapes.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Lush vegetation"
+        ],
+        "activities": [
+          "Jungle trekking",
+          "River cruises",
+          "Waterfall exploration"
+        ]
+      },
+      {
+        "name": "Hot Season",
+        "period": "March – May",
+        "description": "Temperatures rise significantly during this period, making it a challenging time for outdoor activities.",
+        "keyFeatures": [
+          "High temperatures",
+          "Increased sun exposure"
+        ],
+        "activities": [
+          "Indoor activities",
+          "Museum visits"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Angkor Wat",
+      "category": "Historical Site",
+      "description": "Angkor Wat is the largest religious monument in the world, a magnificent temple complex built in the 12th century. It's a testament to the Khmer Empire's architectural and artistic prowess.",
+      "detailedDescription": "Originally dedicated to the Hindu god Vishnu, it was later transformed into a Buddhist temple. Its intricate carvings and towering structures are a sight to behold.",
+      "bestTime": "November – March",
+      "bestLocations": [
+        "Siem Reap"
+      ],
+      "viewingTips": [
+        "Arrive early to avoid crowds",
+        "Hire a local guide for historical context",
+        "Dress respectfully"
+      ],
+      "scientificData": {
+        "Height": "112.3 meters",
+        "Area": "216 acres",
+        "ConstructionMaterial": "Sandstone"
+      },
+      "icon": "Temple"
+    },
+    {
+      "id": 2,
+      "name": "Cardamom Mountains",
+      "category": "Mountain Range",
+      "description": "The Cardamom Mountains are a vast, relatively untouched rainforest in southwestern Cambodia. They are home to a diverse array of wildlife and offer incredible trekking opportunities.",
+      "detailedDescription": "These mountains are a crucial biodiversity hotspot, harboring numerous endangered species. The terrain is rugged and challenging, requiring experienced hikers.",
+      "bestTime": "November – April",
+      "bestLocations": [
+        "Battambang",
+        "Surin Province"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Pack appropriate gear",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Elevation": "1,500 meters",
+        "ForestCover": "90%"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Kampot Bay",
+      "category": "Coastal Area",
+      "description": "Kampot Bay is a stunning stretch of coastline known for its pepper plantations, lush hills, and serene beaches. It's a popular destination for relaxation and water activities.",
+      "detailedDescription": "The bay is surrounded by rolling hills covered in pepper farms, creating a picturesque landscape. The beaches offer calm waters perfect for swimming and kayaking.",
+      "bestTime": "November – March",
+      "bestLocations": [
+        "Kampot"
+      ],
+      "viewingTips": [
+        "Visit the pepper plantations",
+        "Take a boat trip along the bay",
+        "Relax on the beach"
+      ],
+      "scientificData": {
+        "Length": "30 km",
+        "AverageTemperature": "27°C"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Cambodia's Ecosystems",
+    "overview": "Cambodia’s ecosystems are incredibly diverse, ranging from tropical rainforests and mangrove forests to grasslands and wetlands. These ecosystems support a rich array of plant and animal life, many of which are found nowhere else on Earth.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Cambodia’s forests are vital for carbon sequestration, biodiversity conservation, and watershed protection.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 1,000",
+            "details": "A significant proportion are endemic."
+          },
+          {
+            "category": "Forest Area",
+            "count": "13.5 million hectares",
+            "details": "Approximately 60% is primary forest."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Asian Elephant",
+            "status": "Endangered",
+            "significance": "A keystone species in the forest ecosystem."
+          },
+          {
+            "name": "Sumatran Orangutan",
+            "status": "Critically Endangered",
+            "significance": "A flagship species for conservation efforts."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Agricultural expansion"
+        ],
+        "conservationEfforts": [
+          "Protected area establishment",
+          "Sustainable forestry practices",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Mangrove Forests",
+        "icon": "Leaf",
+        "description": "Cambodia’s mangrove forests provide crucial coastal protection, nursery grounds for fish, and habitat for numerous species.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "130,000 hectares",
+            "details": "The largest mangrove forest in Southeast Asia."
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 200",
+            "details": "Supports a vital fisheries resource."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Mudskipper",
+            "status": "Vulnerable",
+            "significance": "An indicator species for mangrove health."
+          },
+          {
+            "name": "Mangrove Crab",
+            "status": "Near Threatened",
+            "significance": "A key component of the mangrove food web."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration projects",
+          "Coastal zone management",
+          "Community engagement"
+        ]
+      }
+    ]
+  },
+  "biodiversityCategory": {
+    "name": "Birds",
+    "icon": "Bird",
+    "description": "Cambodia is a birdwatcher's paradise, boasting a diverse range of avian species, including migratory birds.",
+    "statistics": [
+      {
+        "category": "Bird Species",
+        "count": "Over 600",
+        "details": "Many are endemic or rare."
+      },
+      {
+        "category": "Migratory Birds",
+        "count": "Over 200",
+        "details": "Pass through Cambodia during the dry season."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Asian Mystic",
+        "status": "Endangered",
+        "significance": "A critically endangered bird found only in Cambodia."
+      },
+      {
+        "name": "White-Bellied Woodpecker",
+        "status": "Vulnerable",
+        "significance": "A unique woodpecker species."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Hunting",
+      "Illegal wildlife trade"
+    ],
+    "conservationEfforts": [
+      "Protected area management",
+      "Community-based conservation",
+      "Anti-poaching patrols"
+    ]
+  },
+  "activities": {
+    "title": "Activities in Cambodia",
+    "description": "Cambodia offers a wide range of activities for travelers, from exploring ancient temples to trekking through jungles and relaxing on pristine beaches.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Cambodia’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Cardamom Mountains Trek",
+            "difficulty": "Moderate",
+            "season": "November – April",
+            "duration": "3-7 days",
+            "description": "Trek through the dense rainforests of the Cardamom Mountains, encountering diverse wildlife.",
+            "bestLocations": [
+              "Poipet",
+              "Surin Province"
+            ],
+            "requirements": "Hiking boots, insect repellent, water bottle",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of wildlife",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Phnom Kulen Hike",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half-day",
+            "description": "Hike to the waterfalls and temples of Phnom Kulen, a sacred site for Cambodians.",
+            "bestLocations": [
+              "Siem Reap"
+            ],
+            "requirements": "Comfortable shoes, sunscreen",
+            "safety": [
+              "Stay on marked trails",
+              "Drink plenty of water"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities along Cambodia’s coastline and rivers.",
+        "activities": [
+          {
+            "name": "Koh Rong Snorkeling & Diving",
+            "difficulty": "Easy",
+            "season": "November – May",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life of Koh Rong.",
+            "bestLocations": [
+              "Koh Rong"
+            ],
+            "requirements": "Snorkeling gear, diving certification (for diving)",
+            "safety": [
+              "Swim with caution",
+              "Use reef-safe sunscreen"
+            ]
+          },
+          {
+            "name": "Tonle Sap River Cruise",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half-day",
+            "description": "Take a boat trip on the Tonle Sap River and visit floating villages.",
+            "bestLocations": [
+              "Siem Reap",
+              "Battambang"
+            ],
+            "requirements": "Sunscreen, hat",
+            "safety": [
+              "Wear a life jacket",
+              "Follow the boat captain's instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen",
+        "winter": "Layers of clothing, including a jacket and sweater",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Be aware of your surroundings",
+        "Drink bottled water",
+        "Use insect repellent",
+        "Respect local customs"
+      ]
+    }
+  }
+}

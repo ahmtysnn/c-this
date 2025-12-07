@@ -1,0 +1,339 @@
+{
+  "name": "Anguilla",
+  "region": "Caribbean",
+  "description": "Anguilla is a British Overseas Territory located in the northeastern Caribbean Sea. Known for its pristine white-sand beaches, turquoise waters, and luxurious resorts, it offers a tranquil escape for visitors seeking relaxation and natural beauty. The island boasts a rich history, vibrant culture, and a thriving culinary scene centered around fresh seafood.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "The Valley",
+      "icon": "MapPin",
+      "description": "The administrative and commercial center of Anguilla.",
+      "detail": "The Valley is a charming village with colorful buildings, upscale shops, and excellent restaurants."
+    },
+    {
+      "label": "Population",
+      "value": "14,568",
+      "icon": "Users",
+      "description": "The total population of Anguilla.",
+      "detail": "The population is primarily of African descent, with a significant British influence."
+    },
+    {
+      "label": "Area",
+      "value": "108 square kilometers (42 square miles)",
+      "icon": "Globe",
+      "description": "The land area of Anguilla.",
+      "detail": "The island is relatively small and easily navigable."
+    },
+    {
+      "label": "Currency",
+      "value": "Eastern Caribbean Dollar (XCD)",
+      "icon": "Coffee",
+      "description": "The official currency of Anguilla.",
+      "detail": "US dollars are also widely accepted."
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "The official language of Anguilla.",
+      "detail": "Creole is also widely spoken."
+    },
+    {
+      "label": "Independence Status",
+      "value": "British Overseas Territory",
+      "icon": "Calendar",
+      "description": "Anguilla is a British Overseas Territory.",
+      "detail": "It has a self-governing assembly but remains under British sovereignty."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Marine Climate",
+    "description": "Anguilla enjoys a consistently warm and humid tropical marine climate, influenced by the trade winds. Rainfall is relatively evenly distributed throughout the year, with a slightly wetter season from June to November.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "The summer months are hot and humid, with average temperatures around 30°C (86°F). Rainfall is moderate, often occurring in the afternoon.",
+        "keyFeatures": [
+          "High humidity",
+          "Afternoon showers",
+          "Warm seas"
+        ],
+        "activities": [
+          "Swimming",
+          "Snorkeling",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September to November",
+        "description": "Autumn brings slightly cooler temperatures and increased rainfall. The seas remain warm and inviting.",
+        "keyFeatures": [
+          "Increased rainfall",
+          "Pleasant temperatures",
+          "Calm seas"
+        ],
+        "activities": [
+          "Diving",
+          "Sailing",
+          "Fishing"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "Winter is the driest season, with average temperatures around 24°C (75°F). The sun shines brightly, and the seas are ideal for water sports.",
+        "keyFeatures": [
+          "Dry weather",
+          "Sunny days",
+          "Mild temperatures"
+        ],
+        "activities": [
+          "Watersports",
+          "Hiking",
+          "Exploring beaches"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March to May",
+        "description": "Spring offers a transition between the dry and wet seasons, with warm temperatures and occasional showers. The island is lush and vibrant.",
+        "keyFeatures": [
+          "Blooming flora",
+          "Warm temperatures",
+          "Occasional showers"
+        ],
+        "activities": [
+          "Birdwatching",
+          "Hiking",
+          "Beach walks"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Shoal Bay East",
+      "category": "Beach",
+      "description": "Shoal Bay East is consistently ranked among the world's best beaches, boasting a stunning stretch of powdery white sand and crystal-clear turquoise waters. The gentle slope makes it ideal for swimming and sunbathing.",
+      "detailedDescription": "The bay is protected by a coral reef, creating calm and shallow waters perfect for families. The vibrant marine life visible just offshore adds to the beauty of this iconic beach.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Shoal Bay East"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Rent a beach chair and umbrella",
+        "Explore the nearby snorkeling spots"
+      ],
+      "scientificData": {
+        "Length": "3 kilometers (1.9 miles)",
+        "Average Depth": "0.5 meters (1.6 feet)"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Little Bay",
+      "category": "Cove",
+      "description": "Little Bay is a secluded cove known for its dramatic cliffs, pristine sands, and excellent snorkeling opportunities. It's a hidden gem offering a more intimate beach experience.",
+      "detailedDescription": "The cove is sheltered from the wind, creating calm waters perfect for swimming and diving. The surrounding cliffs provide a stunning backdrop, adding to the cove's natural beauty.",
+      "bestTime": "November - May",
+      "bestLocations": [
+        "Little Bay"
+      ],
+      "viewingTips": [
+        "Bring snorkeling gear",
+        "Wear sturdy shoes for exploring the cliffs",
+        "Respect the marine environment"
+      ],
+      "scientificData": {
+        "Cliff Height": "30 meters (98 feet)",
+        "Coral Coverage": "70%"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Anguilla's Coastal Ecosystems",
+    "overview": "Anguilla’s coastal ecosystems are remarkably diverse, encompassing vibrant coral reefs, seagrass beds, mangrove forests, and sandy beaches. These habitats support a rich array of marine and terrestrial life, playing a crucial role in the island’s biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Life",
+        "icon": "Fish",
+        "description": "Anguilla’s waters are teeming with marine life, including colorful coral reefs, diverse fish species, sea turtles, and various invertebrates.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "40+",
+            "details": "A wide variety of coral species contribute to the health of the reefs."
+          },
+          {
+            "category": "Fish Species",
+            "count": "200+",
+            "details": "Numerous fish species inhabit the waters surrounding Anguilla."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Loggerhead Turtle",
+            "status": "Vulnerable",
+            "significance": "A key indicator of healthy marine ecosystems."
+          },
+          {
+            "name": "Queen Conch",
+            "status": "Endangered",
+            "significance": "An important part of the reef ecosystem."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral reef restoration projects"
+        ]
+      },
+      {
+        "name": "Terrestrial Flora",
+        "icon": "Trees",
+        "description": "Anguilla’s terrestrial flora is characterized by lush tropical vegetation, including palm trees, mangroves, and various flowering plants.",
+        "statistics": [
+          {
+            "category": "Mangrove Species",
+            "count": "8",
+            "details": "Mangrove forests provide vital habitat for numerous species."
+          },
+          {
+            "category": "Endemic Plants",
+            "count": "5",
+            "details": "Several plant species are found only in Anguilla."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Royal Poinciana",
+            "status": "Native",
+            "significance": "A beautiful tree with vibrant red flowers."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration",
+          "Protected areas"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Anguilla",
+    "description": "Anguilla offers a wide range of outdoor activities for visitors of all interests and abilities. From relaxing on pristine beaches to exploring the underwater world, there's something for everyone.",
+    "activityCategories": [
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Anguilla’s crystal-clear waters.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Shoal Bay East",
+              "Little Bay"
+            ],
+            "requirements": "Snorkeling gear, swimsuit",
+            "safety": [
+              "Swim with a buddy",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "November - May",
+            "duration": "2-4 hours",
+            "description": "Discover the underwater wonders of Anguilla’s reefs.",
+            "bestLocations": [
+              "Cane Bay Wall",
+              "Rhone Peak Wall"
+            ],
+            "requirements": "Certification, scuba gear",
+            "safety": [
+              "Follow dive guidelines",
+              "Check equipment"
+            ]
+          },
+          {
+            "name": "Sailing",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the coastline and surrounding waters by sailboat.",
+            "bestLocations": [
+              "All coastal areas"
+            ],
+            "requirements": "Sailboat rental, sailing experience (recommended)",
+            "safety": [
+              "Check weather conditions",
+              "Wear life jackets"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hiking",
+        "icon": "Mountain",
+        "description": "Discover Anguilla’s natural beauty with a hike to scenic viewpoints.",
+        "activities": [
+          {
+            "name": "Rhone Peak Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-4 hours",
+            "description": "Hike to the summit of Rhone Peak for panoramic views of the island.",
+            "bestLocations": [
+              "Rhone Peak"
+            ],
+            "requirements": "Hiking boots, water, sunscreen",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Light jacket, long-sleeved shirts, sweater, rain gear",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, towel, beach bag",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory card"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of currents",
+        "Respect wildlife"
+      ]
+    }
+  }
+}

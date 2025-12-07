@@ -1,0 +1,335 @@
+{
+  "name": "Botswana",
+  "region": "Southern Africa",
+  "description": "Botswana, a landlocked country in Southern Africa, is renowned for its vast wildlife reserves, including the Okavango Delta and Chobe National Park. Characterized by a semi-arid climate and dramatic landscapes – from the Kalahari Desert to the Okavango’s wetlands – Botswana offers a unique blend of adventure and natural beauty. It’s a nation committed to conservation and sustainable tourism, providing a remarkable experience for visitors seeking to connect with nature and wildlife.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Gaborone",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Botswana.",
+      "detail": "Gaborone is a modern city with a rich cultural heritage and serves as the political and administrative center of the country."
+    },
+    {
+      "label": "Population",
+      "value": "2.65 million",
+      "icon": "Users",
+      "description": "Botswana's population is relatively small and dispersed.",
+      "detail": "The majority of the population resides in urban areas, particularly Gaborone and Francistown."
+    },
+    {
+      "label": "Official Language",
+      "value": "Setswana",
+      "icon": "ArrowRight",
+      "description": "Setswana is the national language, reflecting Botswana's strong cultural identity.",
+      "detail": "English is also widely spoken and used in government and business."
+    },
+    {
+      "label": "Area",
+      "value": "581,730 sq km",
+      "icon": "Globe",
+      "description": "Botswana is a relatively small country.",
+      "detail": "It's roughly the size of Poland or West Virginia."
+    },
+    {
+      "label": "GDP",
+      "value": "$17.4 billion (2023)",
+      "icon": "Coffee",
+      "description": "Botswana has a developing economy.",
+      "detail": "The economy is largely driven by mining (diamonds), tourism, and agriculture."
+    },
+    {
+      "label": "Currency",
+      "value": "Pula (BWP)",
+      "icon": "Zap",
+      "description": "The local currency is the Pula.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD is approximately 12 Pula."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Botswana",
+    "description": "Botswana experiences a semi-arid climate with significant seasonal variations. The country is broadly divided into a drier north and a wetter south, influenced by the Okavango Delta and the Congo River basin. Rainfall is generally low and erratic, concentrated during the short rainy season.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season (May - October)",
+        "period": "May to October",
+        "description": "This is the peak of the dry season, characterized by clear skies, low humidity, and abundant sunshine. Temperatures are generally high during the day and cool at night.",
+        "keyFeatures": [
+          "Low rainfall",
+          "High temperatures",
+          "Excellent wildlife viewing opportunities"
+        ],
+        "activities": [
+          "Game drives",
+          "Walking safaris",
+          "Bird watching",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Wet Season (November - April)",
+        "period": "November to April",
+        "description": "The wet season brings increased rainfall, particularly in the north. Temperatures are milder, and vegetation flourishes. However, river levels rise dramatically, impacting accessibility to some areas.",
+        "keyFeatures": [
+          "High rainfall",
+          "Milder temperatures",
+          "Increased vegetation"
+        ],
+        "activities": [
+          "Waterfalls",
+          "River cruises",
+          "Bird watching",
+          "Exploring the Okavango Delta"
+        ]
+      },
+      {
+        "name": "Transition Season (April-May)",
+        "period": "April - May",
+        "description": "A transitional period between the dry and wet seasons, with gradually increasing rainfall and temperatures. Wildlife is often seen congregating around water sources.",
+        "keyFeatures": [
+          "Gradual increase in rainfall",
+          "Rising temperatures",
+          "Wildlife migration"
+        ],
+        "activities": [
+          "Game viewing",
+          "Bird watching",
+          "Hiking"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Okavango Delta",
+      "category": "Wetland",
+      "description": "The Okavango Delta is a unique inland river delta, formed by the Okavango River as it flows into the Kalahari Desert. It’s a vast network of waterways, islands, and lagoons, supporting an incredible diversity of wildlife and vegetation.",
+      "detailedDescription": "The delta is one of the largest inland deltas in the world and is a UNESCO World Heritage Site. It’s a haven for birds, elephants, hippos, crocodiles, and countless other species.  The seasonal flooding creates a dynamic and ever-changing landscape.",
+      "bestTime": "November - April (Wet Season)",
+      "bestLocations": [
+        "Moremi Game Reserve",
+        "Chief's Island",
+        "Xigera Safari Lodge"
+      ],
+      "viewingTips": [
+        "Take a mokoro (traditional canoe) trip",
+        "Go on a guided walking safari",
+        "Look for wildlife along the waterways"
+      ],
+      "scientificData": {
+        "Area": "15,000 sq km",
+        "WaterDepth": "Average 3m",
+        "Biodiversity": "Over 400 bird species"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 2,
+      "name": "Chobe National Park",
+      "category": "Savanna",
+      "description": "Chobe National Park is renowned for its massive elephant populations, as well as its diverse array of wildlife, including lions, leopards, buffalo, and giraffes. The Chobe River provides a vital water source, attracting animals from surrounding areas.",
+      "detailedDescription": "Located along the Chobe River, the park offers exceptional game viewing opportunities, particularly during the dry season when animals congregate along the riverbanks. The park is also home to a rich cultural heritage, with several San communities living within its boundaries.",
+      "bestTime": "May - October (Dry Season)",
+      "bestLocations": [
+        "Chobe Riverfront",
+        "Savuti Marsh",
+        "Ngwe Tanzania Island"
+      ],
+      "viewingTips": [
+        "Take a boat cruise on the Chobe River",
+        "Go on a game drive at dawn or dusk",
+        "Look for elephants drinking at the water's edge"
+      ],
+      "scientificData": {
+        "Area": "10,918 sq km",
+        "ElephantPopulation": "Over 150,000",
+        "BirdSpecies": "Over 450"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Botswana",
+    "overview": "Botswana’s ecosystems are remarkably diverse, ranging from the arid Kalahari Desert to the lush Okavango Delta and the semi-deciduous floodplains of the Botletlhabela region. These ecosystems support a rich tapestry of plant and animal life, playing a crucial role in the country’s biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Botswana's land area is protected in national parks and reserves.",
+      "nationalParks": 10
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Savanna",
+        "icon": "Trees",
+        "description": "The dominant ecosystem in Botswana, characterized by grasslands, acacia trees, and a wide variety of grazing animals.",
+        "statistics": [
+          {
+            "category": "Grassland Area",
+            "count": "80%",
+            "details": "Approximately 80% of Botswana's land is covered by savanna."
+          },
+          {
+            "category": "Large Herbivores",
+            "count": "1.5 million",
+            "details": "Home to millions of large herbivores, including wildebeest, zebra, and buffalo."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "A keystone species, vital for maintaining the health of the savanna ecosystem."
+          },
+          {
+            "name": "Giraffe",
+            "status": "Least Concern",
+            "significance": "An iconic African animal, playing a crucial role in seed dispersal."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community-based conservation programs",
+          "Habitat restoration"
+        ]
+      },
+      {
+        "name": "Desert",
+        "icon": "Sun",
+        "description": "The Kalahari Desert is a semi-arid sandy savanna, characterized by sparse vegetation and extreme temperatures.",
+        "statistics": [
+          {
+            "category": "Sand Area",
+            "count": "30%",
+            "details": "Approximately 30% of Botswana is covered by sand dunes."
+          },
+          {
+            "category": "Desert Fauna",
+            "count": "Unique reptile and insect species",
+            "details": "Home to a variety of specialized desert fauna."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Fennec Fox",
+            "status": "Least Concern",
+            "significance": "Adapted to survive in the harsh desert environment."
+          },
+          {
+            "name": "Desert Monitor",
+            "status": "Least Concern",
+            "significance": "A large lizard that thrives in the arid conditions."
+          }
+        ],
+        "threats": [
+          "Desertification",
+          "Overgrazing"
+        ],
+        "conservationEfforts": [
+          "Sustainable grazing practices",
+          "Water management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Botswana",
+    "description": "Botswana offers a diverse range of activities for travelers, catering to various interests and fitness levels. From wildlife viewing to cultural experiences, there's something for everyone.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Botswana's stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Okavango Delta Hiking Trails",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "2-5 days",
+            "description": "Guided hiking trails through the Okavango Delta, offering a unique perspective on the wetland ecosystem.",
+            "bestLocations": [
+              "Moremi Game Reserve",
+              "Chief's Island"
+            ],
+            "requirements": "Good fitness level, sturdy hiking boots, insect repellent",
+            "safety": [
+              "Hire a qualified guide",
+              "Carry plenty of water",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Kgalagadi Transfrontier Park Hiking",
+            "difficulty": "Hard",
+            "season": "May - September",
+            "duration": "3-7 days",
+            "description": "Multi-day hiking expeditions in the Kgalagadi Transfrontier Park, challenging but rewarding.",
+            "bestLocations": [
+              "Kgalagadi Transfrontier Park"
+            ],
+            "requirements": "Excellent fitness, navigation skills, water purification equipment",
+            "safety": [
+              "Extreme heat, limited water sources, potential for encounters with wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Experience the thrill of water activities in Botswana's rivers and lakes.",
+        "activities": [
+          {
+            "name": "Mokoro Trips in the Okavango Delta",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "1-3 hours",
+            "description": "Traditional canoe trips through the Okavango Delta, offering a peaceful and immersive experience.",
+            "bestLocations": [
+              "Okavango Delta"
+            ],
+            "requirements": "None",
+            "safety": [
+              "Hire a qualified mokoro operator"
+            ]
+          },
+          {
+            "name": "Chobe River Cruises",
+            "difficulty": "Easy",
+            "season": "May - October",
+            "duration": "2-4 hours",
+            "description": "Boat cruises on the Chobe River, providing excellent opportunities for wildlife viewing.",
+            "bestLocations": [
+              "Chobe Riverfront"
+            ],
+            "requirements": "Sunscreen, hat, binoculars",
+            "safety": [
+              "Follow the instructions of the crew"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, sturdy boots",
+        "yearRound": "Neutral colors, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Insect repellent, sunscreen, hat, sunglasses, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, map, compass, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Respect local customs",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

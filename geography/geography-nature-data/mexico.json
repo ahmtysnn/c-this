@@ -1,0 +1,401 @@
+{
+  "name": "Mexico",
+  "region": "North America",
+  "description": "Mexico, a land of vibrant culture, stunning landscapes, and rich history, stretches along the western coast of North America. From the arid deserts of the north to the lush rainforests of the south, Mexico offers an incredible diversity of ecosystems and experiences.  Its strategic location has shaped its history, blending indigenous traditions with Spanish colonial influences and modern development.  Mexico boasts a complex geography, including the Sierra Madre mountain ranges, the Yucatan Peninsula, and extensive coastlines along the Pacific and Gulf of Mexico.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "128.4 million",
+      "icon": "Users",
+      "description": "Mexico is the 13th most populous country in the world.",
+      "detail": "The population is concentrated along the coasts and in major urban centers like Mexico City, Guadalajara, and Monterrey."
+    },
+    {
+      "label": "Area",
+      "value": "1,972,550 sq km",
+      "icon": "MapPin",
+      "description": "Mexico is the 14th largest country in the world by area.",
+      "detail": "This vast territory encompasses diverse climates and terrains."
+    },
+    {
+      "label": "Currency",
+      "value": "Mexican Peso (MXN)",
+      "icon": "Zap",
+      "description": "The official currency of Mexico.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD is approximately 17 MXN."
+    },
+    {
+      "label": "Languages",
+      "value": "Spanish & Indigenous Languages",
+      "icon": "Globe",
+      "description": "Spanish is the official language, but numerous indigenous languages are still spoken throughout the country.",
+      "detail": "Over 68 indigenous languages are recognized nationally."
+    },
+    {
+      "label": "GDP",
+      "value": "1.46 trillion USD (2023)",
+      "icon": "Thermometer",
+      "description": "Mexico has a significant and growing economy.",
+      "detail": "The economy is driven by manufacturing, tourism, and agriculture."
+    }
+  ],
+  "climateData": {
+    "title": "Climate Zones of Mexico",
+    "description": "Mexico experiences a wide range of climates due to its varied topography and latitude. From tropical rainforests to arid deserts, the country offers diverse weather conditions.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Hot and humid, particularly in the southern and coastal regions.",
+        "keyFeatures": [
+          "High temperatures",
+          "High humidity",
+          "Rainy season in the south"
+        ],
+        "activities": [
+          "Beach vacations",
+          "Water sports",
+          "Exploring coastal towns"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Pleasant temperatures and lower humidity, ideal for outdoor activities.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Lower humidity",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cultural tours",
+          "Visiting historical sites"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Cool and dry in the north, mild and wet in the south.  Snowfall is common in the mountains.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Dry conditions in the north",
+          "Snowfall in the mountains"
+        ],
+        "activities": [
+          "Skiing",
+          "Exploring mountain towns",
+          "Visiting archaeological sites"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Warm and sunny, with blooming wildflowers and pleasant temperatures.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Blooming flora",
+          "Increased rainfall in some areas"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Hiking",
+          "Exploring national parks"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Yucatan Peninsula",
+      "category": "Coastal & Archaeological",
+      "description": "The Yucatan Peninsula is a tropical region known for its stunning beaches, turquoise waters, and ancient Mayan ruins. It’s a captivating blend of natural beauty and historical significance.",
+      "detailedDescription": "This peninsula boasts the world-famous Mayan cities of Chichen Itza, Tulum, and Palenque, alongside cenotes (sinkholes) offering unique swimming experiences. The region’s diverse ecosystems range from rainforests to coral reefs.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "Cancun",
+        "Tulum",
+        "Playa del Carmen",
+        "Isla Mujeres"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Respect Mayan culture",
+        "Book tours in advance"
+      ],
+      "scientificData": {
+        "Average Rainfall": "1500-2000 mm",
+        "Temperature Range": "23°C - 32°C"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Copper Canyon",
+      "category": "Mountain & Canyon",
+      "description": "Often called the 'Grand Canyon of Mexico,' the Copper Canyon is a series of interconnected canyons in the Sierra Madre Occidental mountains, larger and deeper than the Grand Canyon.",
+      "detailedDescription": "This vast canyon system offers breathtaking views, opportunities for hiking, horseback riding, and exploring indigenous villages. The region is rich in biodiversity and offers a unique cultural experience.",
+      "bestTime": "March - May & September - November",
+      "bestLocations": [
+        "Divisadero",
+        "Posada Barrancas",
+        "Etchoahu Cañón"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring layers of clothing",
+        "Book train rides in advance"
+      ],
+      "scientificData": {
+        "Depth": "5,600 - 6,000 meters",
+        "Length": "800 km"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Sian Ka'an Biosphere Reserve",
+      "category": "Tropical Rainforest & Wetland",
+      "description": "A UNESCO World Heritage Site, Sian Ka'an is a vast protected area encompassing mangrove forests, lagoons, and coral reefs, teeming with wildlife.",
+      "detailedDescription": "This biosphere reserve is a crucial habitat for numerous species, including jaguars, sea turtles, and hundreds of bird species. It offers opportunities for eco-tourism, kayaking, and wildlife viewing.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Baccalá",
+        "Muyil"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring binoculars",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Area": "136,274 hectares",
+        "Biodiversity": "Over 600 species of birds"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Mexico's Diverse Ecosystems",
+    "overview": "Mexico’s geography supports a remarkable array of ecosystems, from arid deserts to lush rainforests and extensive coral reefs. These ecosystems are vital for biodiversity and provide essential resources for the country’s economy and people.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 120
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Mexico is home to a diverse range of mammals, including jaguars, ocelots, bears, and numerous species of bats.",
+        "statistics": [
+          {
+            "category": "Jaguars",
+            "count": "800-1200",
+            "details": "Found primarily in the southern regions"
+          },
+          {
+            "category": "Monkeys",
+            "count": "150",
+            "details": "Various species inhabit rainforests"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Vulnerable",
+            "significance": "Apex predator and symbol of Mexico"
+          },
+          {
+            "name": "Mexican Wolf",
+            "status": "Endangered",
+            "significance": "Critically important for ecosystem balance"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Habitat restoration"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Fish",
+        "description": "Mexico is a birdwatcher’s paradise, boasting over 1,000 bird species, including numerous migratory birds.",
+        "statistics": [
+          {
+            "category": "Migratory Birds",
+            "count": "Millions",
+            "details": "Pass through Mexico during spring and fall"
+          },
+          {
+            "category": "Endemic Species",
+            "count": "100+",
+            "details": "Unique bird species found only in Mexico"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Resplendent Quetzal",
+            "status": "Near Threatened",
+            "significance": "Symbol of beauty and freedom"
+          },
+          {
+            "name": "Mexican Parrot",
+            "status": "Endangered",
+            "significance": "Critically important for rainforest ecosystems"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal wildlife trade"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Reptiles & Amphibians",
+        "icon": "Wave",
+        "description": "Mexico’s warm climate and diverse habitats support a rich diversity of reptiles and amphibians.",
+        "statistics": [
+          {
+            "category": "Crocodiles",
+            "count": "Approximately 10,000",
+            "details": "Found in the Yucatan Peninsula and other wetlands"
+          },
+          {
+            "category": "Frogs",
+            "count": "Over 300 species",
+            "details": "Many species are endemic to Mexico"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Sea Turtle",
+            "status": "Endangered",
+            "significance": "Essential for coral reef ecosystems"
+          },
+          {
+            "name": "Axolotl",
+            "status": "Critically Endangered",
+            "significance": "Unique amphibian with regenerative abilities"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Habitat restoration",
+          "Captive breeding programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Mexico",
+    "description": "Mexico offers a wide range of outdoor activities for all skill levels, from relaxing on beaches to challenging hikes in the mountains.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Mexico’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Copper Canyon Hike",
+            "difficulty": "Moderate",
+            "season": "Spring & Autumn",
+            "duration": "3-7 days",
+            "description": "Hike through the stunning Copper Canyon, experiencing breathtaking views and diverse ecosystems.",
+            "bestLocations": [
+              "Divisadero",
+              "Basaseachi"
+            ],
+            "requirements": "Hiking boots, water bottle, sunscreen",
+            "safety": [
+              "Stay on marked trails",
+              "Inform someone of your plans"
+            ]
+          },
+          {
+            "name": "Yucatan Cenote Hike",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Half-day",
+            "description": "Explore the beautiful cenotes of the Yucatan Peninsula.",
+            "bestLocations": [
+              "Ik Kil",
+              "Dos Ojos"
+            ],
+            "requirements": "Swimsuit, towel",
+            "safety": [
+              "Follow safety guidelines",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the warm waters of the Caribbean and Pacific coasts.",
+        "activities": [
+          {
+            "name": "Scuba Diving in Cozumel",
+            "difficulty": "Moderate",
+            "season": "Winter - Spring",
+            "duration": "Full-day",
+            "description": "Explore the vibrant coral reefs and marine life of Cozumel.",
+            "bestLocations": [
+              "Palacar Reef",
+              "Columbia Reef"
+            ],
+            "requirements": "Scuba certification, wetsuit",
+            "safety": [
+              "Follow dive guidelines",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Kayaking in Bacalar Lagoon",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Half-day",
+            "description": "Paddle through the stunning turquoise waters of Bacalar Lagoon.",
+            "bestLocations": [
+              "Laguna Bacalar"
+            ],
+            "requirements": "Kayak, sunscreen",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Layers of clothing, sweater, jacket, waterproof pants",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Drink plenty of water",
+        "Wear sunscreen",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

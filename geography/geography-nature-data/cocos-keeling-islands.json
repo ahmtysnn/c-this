@@ -1,0 +1,347 @@
+{
+  "CountryData": {
+    "name": "Cocos (Keeling) Islands",
+    "region": "Asia",
+    "description": "The Cocos (Keeling) Islands are a remote and idyllic group of coral atolls located approximately 1400 km north of Perth, Western Australia.  Forming part of the Australian External Territories, these islands boast stunning beaches, vibrant coral reefs, and a unique ecosystem shaped by centuries of isolation.  The islands are a haven for birdlife and offer a tranquil escape for those seeking untouched natural beauty and a glimpse into a simpler way of life.",
+    "quickFacts": [
+      {
+        "label": "Official Name",
+        "value": "Cocos (Keeling) Islands",
+        "icon": "MapPin",
+        "description": "The islands are administered by the Australian Government.",
+        "detail": "They are part of the Australian External Territories."
+      },
+      {
+        "label": "Area",
+        "value": "1.19 km²",
+        "icon": "Globe",
+        "description": "A remarkably small landmass.",
+        "detail": "Comprising two main islands, West and East Cocos."
+      },
+      {
+        "label": "Population",
+        "value": "Approximately 50",
+        "icon": "Users",
+        "description": "A small, close-knit community.",
+        "detail": "Mostly comprised of lighthouse keepers, support staff, and their families."
+      },
+      {
+        "label": "Currency",
+        "value": "Australian Dollar (AUD)",
+        "icon": "Navigation",
+        "description": "The islands use the Australian currency.",
+        "detail": "Transactions are primarily conducted through mail services."
+      },
+      {
+        "label": "Time Zone",
+        "value": "UTC+9:30",
+        "icon": "Clock",
+        "description": "Located in the Australian Western Standard Time zone.",
+        "detail": "A significant time difference from most of the world."
+      }
+    ],
+    "climateData": {
+      "title": "Tropical Climate",
+      "description": "The Cocos (Keeling) Islands experience a tropical maritime climate characterized by consistently high temperatures and humidity throughout the year. Rainfall is generally moderate, with distinct wet and dry seasons.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (December - February)",
+          "period": "Warm and Wet",
+          "description": "Summer brings the hottest temperatures and heaviest rainfall.  The humidity is consistently high.",
+          "keyFeatures": [
+            "High humidity",
+            "Frequent showers",
+            "Warm temperatures"
+          ],
+          "activities": [
+            "Snorkeling",
+            "Beach relaxation",
+            "Birdwatching"
+          ]
+        },
+        {
+          "name": "Autumn (March - May)",
+          "period": "Transition",
+          "description": "Autumn sees a gradual decrease in rainfall and temperatures. The sea remains warm, making it ideal for water activities.",
+          "keyFeatures": [
+            "Decreasing rainfall",
+            "Mild temperatures",
+            "Clear skies"
+          ],
+          "activities": [
+            "Diving",
+            "Fishing",
+            "Hiking"
+          ]
+        },
+        {
+          "name": "Winter (June - August)",
+          "period": "Dry Season",
+          "description": "Winter is the coolest and driest time of year.  Temperatures are still pleasant, and the skies are often clear.",
+          "keyFeatures": [
+            "Coolest temperatures",
+            "Lowest rainfall",
+            "Sunny days"
+          ],
+          "activities": [
+            "Wildlife observation",
+            "Photography",
+            "Relaxation"
+          ]
+        },
+        {
+          "name": "Spring (September - November)",
+          "period": "Warm and Increasing Rainfall",
+          "description": "Spring brings a return to warmer temperatures and increasing rainfall. The islands come alive with new growth.",
+          "keyFeatures": [
+            "Increasing temperatures",
+            "Rising humidity",
+            "Green landscapes"
+          ],
+          "activities": [
+            "Hiking",
+            "Kayaking",
+            "Exploring"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Cocos Solo Atoll",
+        "category": "Coral Atoll",
+        "description": "Cocos Solo is the largest and most prominent atoll of the Keeling Islands, renowned for its exceptional biodiversity and pristine coral reefs. It’s a vital breeding ground for numerous marine species and a stunning example of a tropical ecosystem.",
+        "detailedDescription": "The atoll features a lagoon surrounded by a ring of coral reefs, offering incredible snorkeling and diving opportunities. The surrounding islands provide nesting sites for seabirds and a haven for diverse flora and fauna.",
+        "bestTime": "Year-Round",
+        "bestLocations": [
+          "Lagoon edge",
+          "North reef",
+          "South reef"
+        ],
+        "viewingTips": [
+          "Bring underwater camera",
+          "Use reef-safe sunscreen",
+          "Respect marine life"
+        ],
+        "scientificData": {
+          "Depth": "Varies from 3m to 30m",
+          "Coral Coverage": "80%",
+          "Fish Species": "Over 200"
+        },
+        "icon": "Waves"
+      },
+      {
+        "id": 2,
+        "name": "West Cocos Island",
+        "category": "Island Ecosystem",
+        "description": "West Cocos Island is the larger of the two main islands, dominated by a dense coconut palm forest and offering a glimpse into the islands’ unique history and ecology.",
+        "detailedDescription": "The island’s interior is rugged and hilly, providing habitat for a variety of bird species. The lighthouse on West Cocos is a significant landmark and a vital aid to navigation.",
+        "bestTime": "Year-Round",
+        "bestLocations": [
+          "Lighthouse area",
+          "Coconut forest trails",
+          "Beach"
+        ],
+        "viewingTips": [
+          "Wear sturdy shoes for hiking",
+          "Be aware of wildlife",
+          "Respect the historical significance"
+        ],
+        "scientificData": {
+          "Elevation": "120m",
+          "Forest Cover": "70%",
+          "Bird Species": "30+"
+        },
+        "icon": "Trees"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Unique Atoll Ecosystem",
+      "overview": "The Cocos (Keeling) Islands represent a remarkably isolated and fragile ecosystem, shaped by millennia of geological processes and limited human impact. The atolls are home to a diverse range of marine and terrestrial life, many of which are found nowhere else on Earth.",
+      "conservationStatus": {
+        "protectedAreas": "100%",
+        "nationalParks": 0
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Marine Life",
+          "icon": "Fish",
+          "description": "The surrounding coral reefs teem with a vast array of marine life, including colorful fish, sea turtles, sharks, and rays.",
+          "statistics": [
+            {
+              "category": "Coral Species",
+              "count": "Over 40",
+              "details": "Diverse coral communities support a complex food web."
+            },
+            {
+              "category": "Fish Species",
+              "count": "200+",
+              "details": "A significant number of endemic fish species."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Green Sea Turtle",
+              "status": "Vulnerable",
+              "significance": "A key indicator of reef health."
+            },
+            {
+              "name": "Hawksbill Turtle",
+              "status": "Endangered",
+              "significance": "Important for maintaining coral reef biodiversity."
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Plastic pollution",
+            "Overfishing"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas",
+            "Coral restoration projects",
+            "Community education"
+          ]
+        },
+        {
+          "name": "Birdlife",
+          "icon": "Bird",
+          "description": "The islands are a crucial nesting site for numerous seabird species, including terns, frigatebirds, and shearwaters.",
+          "statistics": [
+            {
+              "category": "Seabird Species",
+              "count": "15+",
+              "details": "Important breeding grounds for migratory birds."
+            },
+            {
+              "category": "Nesting Sites",
+              "count": "Numerous",
+              "details": "Protected nesting areas are vital for bird survival."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Red-tailed Tropicbird",
+              "status": "Near Threatened",
+              "significance": "A symbol of the islands' pristine environment."
+            },
+            {
+              "name": "Masked Booby",
+              "status": "Endangered",
+              "significance": "A rare visitor to the islands."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Predation",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Nesting site protection",
+            "Predator control",
+            "Monitoring programs"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Island Adventures",
+      "description": "The Cocos (Keeling) Islands offer a range of activities for nature enthusiasts and adventure seekers, from exploring pristine coral reefs to hiking through lush landscapes.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Mountain",
+          "description": "Explore the rugged interior of West Cocos Island and enjoy panoramic views of the surrounding atoll.",
+          "activities": [
+            {
+              "name": "West Cocos Trail",
+              "difficulty": "Moderate",
+              "season": "Year-Round",
+              "duration": "2-4 hours",
+              "description": "A scenic trail leading to the island’s highest point.",
+              "bestLocations": [
+                "Coconut forest",
+                "Lighthouse area"
+              ],
+              "requirements": "Sturdy shoes, water, sunscreen",
+              "safety": [
+                "Be aware of uneven terrain",
+                "Stay hydrated"
+              ]
+            },
+            {
+              "name": "Lighthouse Hike",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "1-2 hours",
+              "description": "A short hike to the historic Cocos Solo Lighthouse.",
+              "bestLocations": [
+                "Lighthouse base"
+              ],
+              "requirements": "Comfortable shoes",
+              "safety": [
+                "Watch for slippery steps"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Discover the vibrant underwater world of Cocos Solo Atoll through snorkeling and diving.",
+          "activities": [
+            {
+              "name": "Snorkeling",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "Variable",
+              "description": "Explore the shallow coral reefs teeming with marine life.",
+              "bestLocations": [
+                "Lagoon edge",
+                "Coral gardens"
+              ],
+              "requirements": "Snorkel, mask, fins",
+              "safety": [
+                "Be mindful of currents",
+                "Use reef-safe sunscreen"
+              ]
+            },
+            {
+              "name": "Diving",
+              "difficulty": "Moderate",
+              "season": "Dry Season (June-August)",
+              "duration": "Variable",
+              "description": "Dive deeper into the atoll’s underwater wonders.",
+              "bestLocations": [
+                "North reef",
+                "South reef"
+              ],
+              "requirements": "Certification, diving equipment",
+              "safety": [
+                "Follow dive guidelines",
+                "Check equipment"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+          "winter": "Layers of clothing, jacket, sweater, long pants",
+          "yearRound": "Comfortable walking shoes, rain jacket"
+        },
+        "equipment": {
+          "basic": "Sunscreen, insect repellent, hat, sunglasses",
+          "hiking": "Sturdy hiking boots, backpack, water bottle",
+          "photography": "Camera, waterproof case"
+        },
+        "safety": [
+          "Inform someone of your plans",
+          "Carry a first-aid kit",
+          "Be aware of the weather"
+        ]
+      }
+    }
+  }
+}

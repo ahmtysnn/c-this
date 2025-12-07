@@ -1,0 +1,362 @@
+{
+  "name": "Nauru",
+  "region": "Oceania",
+  "description": "Nauru, officially the Republic of Nauru, is a tiny island nation in Micronesia, located in the central Pacific Ocean. It’s known for its phosphate-rich soil, which historically fueled its economy, and its stunning, albeit fragile, coral atolls. The country faces significant environmental challenges due to phosphate mining and rising sea levels, making conservation a critical priority. Nauru’s culture is a blend of Polynesian, Micronesian, and Asian influences, reflected in its traditions, music, and cuisine.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Yaren",
+      "icon": "MapPin",
+      "description": "The administrative and political center of Nauru.",
+      "detail": "Yaren is a small village located on the northern side of the island."
+    },
+    {
+      "label": "Population",
+      "value": "10,876",
+      "icon": "Users",
+      "description": "The population of Nauru is relatively small.",
+      "detail": "Most residents live in Yaren and Edulait."
+    },
+    {
+      "label": "Area",
+      "value": "21 square kilometers",
+      "icon": "Globe",
+      "description": "Nauru is one of the smallest island nations in the world.",
+      "detail": "It consists of three small islands: Muru, Niolao, and Edulo."
+    },
+    {
+      "label": "Official Language",
+      "value": "Nauru",
+      "icon": "ArrowRight",
+      "description": "Nauru is the official language, a Micronesian language.",
+      "detail": "English is also widely spoken."
+    },
+    {
+      "label": "Currency",
+      "value": "Aust Nauru Dollar (NAD)",
+      "icon": "Coffee",
+      "description": "The currency of Nauru.",
+      "detail": "It is pegged to the Australian dollar."
+    },
+    {
+      "label": "GDP",
+      "value": "$135 million (2022)",
+      "icon": "Zap",
+      "description": "Nauru's economy is heavily reliant on its phosphate resources.",
+      "detail": "Tourism is a growing sector."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Nauru experiences a tropical savanna climate with consistently high temperatures and humidity throughout the year. Rainfall is generally distributed throughout the year, but there are distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "April – October",
+        "description": "The dry season is characterized by lower humidity, less rainfall, and sunny skies. It’s the most popular time to visit.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Clear skies"
+        ],
+        "activities": [
+          "Beach activities",
+          "Hiking",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "November – March",
+        "description": "The wet season brings increased rainfall, higher humidity, and occasional storms. While it can be challenging, it’s also when the island is lush and green.",
+        "keyFeatures": [
+          "High rainfall",
+          "High humidity",
+          "Storms"
+        ],
+        "activities": [
+          "Exploring inland areas",
+          "Photography",
+          "Relaxing"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "December – February",
+        "description": "Summer brings the hottest temperatures and highest humidity. It’s a time for enjoying the beaches and water activities.",
+        "keyFeatures": [
+          "Hottest temperatures",
+          "Highest humidity"
+        ],
+        "activities": [
+          "Swimming",
+          "Snorkeling",
+          "Sunbathing"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "June – August",
+        "description": "Winter is relatively mild, with pleasant temperatures and lower humidity. It’s a good time for hiking and exploring the island.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Exploring inland areas"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Burung Hill",
+      "category": "Landform",
+      "description": "Burung Hill is the highest point on Nauru, offering panoramic views of the island and surrounding ocean. It’s a significant historical site, once used as a radar station during World War II.",
+      "detailedDescription": "The hill is composed of weathered limestone and phosphate rock.  Its summit provides a unique perspective on the island's topography and the vast Pacific Ocean.",
+      "bestTime": "Dry Season",
+      "bestLocations": [
+        "Summit"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Wear sturdy shoes"
+      ],
+      "scientificData": {
+        "Height": "134m",
+        "Age": "Approximately 3 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Tieke Cave",
+      "category": "Cave System",
+      "description": "Tieke Cave is a complex network of limestone caves containing ancient rock art, providing insights into the island’s early inhabitants.",
+      "detailedDescription": "The cave walls are adorned with intricate paintings depicting human figures, animals, and geometric patterns. These paintings are estimated to be over 3,000 years old.",
+      "bestTime": "Dry Season",
+      "bestLocations": [
+        "Entrance to the cave"
+      ],
+      "viewingTips": [
+        "Wear appropriate footwear",
+        "Bring a flashlight"
+      ],
+      "scientificData": {
+        "Depth": "Varies, up to 30m",
+        "Rock Type": "Limestone"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Yaren Lagoon",
+      "category": "Coastal Feature",
+      "description": "Yaren Lagoon is a sheltered lagoon located on the northern coast of Nauru, offering calm waters and beautiful beaches.",
+      "detailedDescription": "The lagoon is surrounded by palm trees and coral reefs, creating a picturesque setting. It’s a popular spot for swimming, snorkeling, and relaxing.",
+      "bestTime": "Dry Season",
+      "bestLocations": [
+        "Beachfront"
+      ],
+      "viewingTips": [
+        "Check the tide times",
+        "Wear sunscreen"
+      ],
+      "scientificData": {
+        "Area": "Approximately 1.5 square kilometers",
+        "Coral Coverage": "60%"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Nauruan Ecosystems",
+    "overview": "Nauru’s ecosystems are highly vulnerable due to the impacts of phosphate mining and climate change. The island’s unique biodiversity is threatened by habitat loss and invasive species.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 1
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coastal Ecosystems",
+        "icon": "Waves",
+        "description": "Nauru’s coral reefs and beaches provide habitat for a variety of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Approximately 30",
+            "details": "Diverse coral species, including branching and massive corals."
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 150",
+            "details": "A wide range of reef fish, including colorful reef fish and larger predatory fish."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Nauru Parrotfish",
+            "status": "Vulnerable",
+            "significance": "Endemic to Nauru and a key component of the coral reef ecosystem."
+          },
+          {
+            "name": "Nauru Frigatebird",
+            "status": "Endangered",
+            "significance": "A rare seabird that nests on the island's offshore islets."
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Coastal erosion",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Coral reef restoration projects",
+          "Beach cleanups",
+          "Marine protected areas"
+        ]
+      },
+      {
+        "name": "Inland Ecosystems",
+        "icon": "Leaf",
+        "description": "Nauru’s interior consists of dry savanna grasslands and scattered woodlands.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "Approximately 50",
+            "details": "Dominated by drought-tolerant grasses and shrubs."
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 20",
+            "details": "Includes migratory birds and endemic species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Nauru Ground Dove",
+            "status": "Endangered",
+            "significance": "A unique ground-dwelling dove found only on Nauru."
+          },
+          {
+            "name": "Nauru Shrikahan",
+            "status": "Vulnerable",
+            "significance": "A small, colorful songbird endemic to the island."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Invasive species",
+          "Fire"
+        ],
+        "conservationEfforts": [
+          "Reforestation projects",
+          "Control of invasive species",
+          "Fire management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Nauruan Adventures",
+    "description": "Nauru offers a range of outdoor activities for adventurous travelers.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Nauru’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Burung Hill Hike",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "2-3 hours",
+            "description": "Hike to the summit of Burung Hill for stunning views.",
+            "bestLocations": [
+              "Burung Hill"
+            ],
+            "requirements": "Sturdy shoes, water, sunscreen",
+            "safety": [
+              "Be aware of the heat",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Tieke Cave Exploration",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "1-2 hours",
+            "description": "Explore the ancient rock art of Tieke Cave.",
+            "bestLocations": [
+              "Tieke Cave"
+            ],
+            "requirements": "Flashlight, appropriate footwear",
+            "safety": [
+              "Watch your step",
+              "Respect the cave environment"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the calm waters of Yaren Lagoon and the surrounding ocean.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Yaren Lagoon",
+              "Coral reefs"
+            ],
+            "requirements": "Snorkel gear, sunscreen",
+            "safety": [
+              "Swim with caution",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Flexible",
+            "description": "Relax and swim in the warm waters of Yaren Lagoon.",
+            "bestLocations": [
+              "Yaren Lagoon"
+            ],
+            "requirements": "Swimsuit, sunscreen",
+            "safety": [
+              "Supervise children",
+              "Swim in designated areas"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Long-sleeved shirts, trousers, sweater, jacket",
+        "yearRound": "Sunscreen, insect repellent"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Sturdy hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, memory card"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Protect yourself from the sun",
+        "Respect local customs",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

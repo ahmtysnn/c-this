@@ -1,0 +1,321 @@
+{
+  "name": "Malawi",
+  "region": "Southern Africa",
+  "description": "Malawi, often referred to as the ‘Warm Heart of Africa’, is a landlocked country known for its stunning Lake Malawi, vast tobacco farms, and rich cultural heritage. Situated in Southeast Africa, it’s a relatively small nation with a diverse landscape ranging from rolling plateaus and lush woodlands to arid plains. Malawi’s history is intertwined with the Bantu peoples, and its vibrant traditions are reflected in its music, dance, and crafts.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Lilongwe",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Malawi, a hub of commerce and government.",
+      "detail": "Lilongwe is experiencing rapid growth and development, offering a mix of modern amenities and traditional markets."
+    },
+    {
+      "label": "Population",
+      "value": "20,637,652",
+      "icon": "Users",
+      "description": "Malawi boasts a youthful population, with a median age of around 20 years.",
+      "detail": "A significant portion of the population relies on agriculture for their livelihoods."
+    },
+    {
+      "label": "Official Language",
+      "value": "Chichewa",
+      "icon": "Globe",
+      "description": "The lingua franca of Malawi, spoken by the majority of the population.",
+      "detail": "English is also widely used in education, government, and business."
+    },
+    {
+      "label": "Area",
+      "value": "118,484 sq km",
+      "icon": "MapPin",
+      "description": "A relatively small country with diverse geographical features.",
+      "detail": "Approximately 86% of the country is covered by arable land."
+    },
+    {
+      "label": "Currency",
+      "value": "Malawian Kwacha (MWK)",
+      "icon": "Coffee",
+      "description": "The local currency used throughout Malawi.",
+      "detail": "The Kwacha has experienced significant fluctuations in value."
+    },
+    {
+      "label": "Independence",
+      "value": "1964",
+      "icon": "Calendar",
+      "description": "Malawi gained independence from Britain in 1964.",
+      "detail": "The country has a long history of resistance against colonial rule."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Malawi",
+    "description": "Malawi experiences a tropical climate with two distinct seasons: a rainy season and a dry season. Temperatures are generally warm throughout the year, with minimal seasonal variation.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Rainy Season",
+        "period": "November – April",
+        "description": "The rainy season brings heavy rainfall, particularly in the southern and western regions. This period is crucial for agricultural activities.",
+        "keyFeatures": [
+          "High rainfall",
+          "Flooding in some areas",
+          "Increased humidity"
+        ],
+        "activities": [
+          "Planting season",
+          "River rafting",
+          "Wildlife viewing (due to increased water levels)"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "May – October",
+        "description": "The dry season is characterized by sunny days, cooler temperatures, and lower humidity. Wildfires are common during this time.",
+        "keyFeatures": [
+          "Sunny days",
+          "Lower humidity",
+          "Potential for wildfires"
+        ],
+        "activities": [
+          "Game viewing (animals congregate around water sources)",
+          "Hiking",
+          "Cultural festivals"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lake Malawi",
+      "category": "Lake",
+      "description": "Lake Malawi, also known as Lake Nyasa, is one of the Great Lakes of Africa and a biodiversity hotspot. Its clear, warm waters are home to numerous endemic fish species, including the colorful cichlids.",
+      "detailedDescription": "The lake stretches for over 580 km and is bordered by three countries: Malawi, Tanzania, and Mozambique. It’s a vital source of water and a major tourist destination.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Cape Maclear",
+        "Likoma Island",
+        "Chintheche Island"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and insect repellent",
+        "Respect local customs and traditions",
+        "Consider a guided boat tour"
+      ],
+      "scientificData": {
+        "Length": "580 km",
+        "Maximum Depth": "706 m",
+        "Surface Area": "29,600 sq km"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Mount Mulanje",
+      "category": "Mountain",
+      "description": "Mount Mulanje is Malawi’s highest mountain and a significant conservation area. Its steep slopes and diverse ecosystems support a wide range of flora and fauna.",
+      "detailedDescription": "The mountain is renowned for its unique plant life, including giant ferns and ancient trees. It’s a popular destination for hiking and trekking.",
+      "bestTime": "November – April",
+      "bestLocations": [
+        "Thukwana Camp",
+        "Chintheche Plateau"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear sturdy hiking boots",
+        "Be prepared for challenging terrain"
+      ],
+      "scientificData": {
+        "Height": "1,934 m",
+        "Area": "384 sq km"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Malawi",
+    "overview": "Malawi’s ecosystems are remarkably diverse, ranging from tropical rainforests and woodlands to grasslands and wetlands. These ecosystems support a rich array of plant and animal life, including many endemic species.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 10% of Malawi’s land area is protected in national parks and reserves.",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Malawi’s forests cover approximately 28% of the country and play a crucial role in regulating the climate and providing habitat for wildlife.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 800",
+            "details": "A significant proportion of these are endemic to Malawi."
+          },
+          {
+            "category": "Forest Cover",
+            "count": "28%",
+            "details": "Threatened by deforestation and agricultural expansion."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Olive Thrush",
+            "status": "Endangered",
+            "significance": "A rare and elusive bird found only in Malawi's forests."
+          },
+          {
+            "name": "Giant Bamboo",
+            "status": "Vulnerable",
+            "significance": "A dominant species in many of Malawi’s forests."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Agricultural expansion"
+        ],
+        "conservationEfforts": [
+          "Community forestry programs",
+          "Protected area management",
+          "Reforestation initiatives"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "Malawi’s wetlands, including Lake Malawi and its associated swamps, are vital habitats for a wide range of aquatic and terrestrial species.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "Approximately 1.5 million hectares",
+            "details": "Important for flood control and water purification."
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 500",
+            "details": "A major migratory route for many bird species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Nyelengi Heron",
+            "status": "Vulnerable",
+            "significance": "A distinctive heron species found in Lake Malawi’s wetlands."
+          },
+          {
+            "name": "African Clawed Frog",
+            "status": "Endangered",
+            "significance": "An endemic amphibian found in the lake's swamps."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Habitat loss",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Lake management programs",
+          "Wetland restoration projects",
+          "Community-based conservation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Malawi",
+    "description": "Malawi offers a diverse range of activities for travelers, from wildlife viewing and water sports to hiking and cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Malawi’s stunning landscapes on foot, from the slopes of Mount Mulanje to the trails of Liwonde National Park.",
+        "activities": [
+          {
+            "name": "Mount Mulanje Trek",
+            "difficulty": "Hard",
+            "season": "November – April",
+            "duration": "3-7 days",
+            "description": "A challenging but rewarding trek to the summit of Malawi’s highest mountain.",
+            "bestLocations": [
+              "Thukwana Camp",
+              "Chintheche Plateau"
+            ],
+            "requirements": "Sturdy hiking boots, waterproof clothing, map and compass",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Hire a local guide",
+              "Carry sufficient water"
+            ]
+          },
+          {
+            "name": "Liwonde National Park Trails",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "Half-day to full-day",
+            "description": "Explore the diverse habitats of Liwonde National Park on foot.",
+            "bestLocations": [
+              "Liwonde National Park"
+            ],
+            "requirements": "Hiking boots, insect repellent, binoculars",
+            "safety": [
+              "Be aware of wildlife",
+              "Follow park regulations"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities on the shores of Lake Malawi and its surrounding rivers.",
+        "activities": [
+          {
+            "name": "Kayaking",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore the calm waters of Lake Malawi by kayak.",
+            "bestLocations": [
+              "Cape Maclear",
+              "Likoma Island"
+            ],
+            "requirements": "Life jacket, sunscreen",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "White Water Rafting",
+            "difficulty": "Moderate",
+            "season": "November – April",
+            "duration": "Half-day to full-day",
+            "description": "Experience the thrill of white water rafting on the Shire River.",
+            "bestLocations": [
+              "Shire River"
+            ],
+            "requirements": "Wetsuit, helmet, life jacket",
+            "safety": [
+              "Follow guide instructions",
+              "Be aware of rapids"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, insect repellent"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, map and compass, headlamp",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink bottled water",
+        "Be aware of malaria risk",
+        "Respect local customs"
+      ]
+    }
+  }
+}

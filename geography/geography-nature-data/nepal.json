@@ -1,0 +1,350 @@
+{
+  "name": "Nepal",
+  "region": "Asia",
+  "description": "Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country located in South Asia. Known as the 'Roof of the World,' it’s renowned for its towering Himalayan peaks, including Mount Everest, and its diverse landscapes ranging from subtropical plains to high-altitude deserts. Nepal boasts a rich cultural heritage, with a blend of Hinduism and Buddhism, and is a popular destination for trekkers, mountaineers, and cultural enthusiasts.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Kathmandu",
+      "icon": "MapPin",
+      "description": "The bustling capital city, a vibrant hub of culture, commerce, and history.",
+      "detail": "Kathmandu is situated in the Kathmandu Valley and is home to numerous ancient temples, palaces, and UNESCO World Heritage Sites."
+    },
+    {
+      "label": "Population",
+      "value": "30.84 million (2023)",
+      "icon": "Users",
+      "description": "Nepal's population is diverse, with a significant percentage of the population residing in rural areas.",
+      "detail": "The majority of the population speaks Nepali, with numerous other languages and dialects spoken throughout the country."
+    },
+    {
+      "label": "Area",
+      "value": "147,181 sq km (56,927 sq mi)",
+      "icon": "Globe",
+      "description": "Nepal is a relatively small country, but incredibly diverse in its geography.",
+      "detail": "It’s the world’s tenth-largest country by area."
+    },
+    {
+      "label": "Currency",
+      "value": "Nepalese Rupee (NPR)",
+      "icon": "Coffee",
+      "description": "The official currency of Nepal.",
+      "detail": "The exchange rate fluctuates, but generally, 1 USD is approximately NPR 130."
+    },
+    {
+      "label": "Official Language",
+      "value": "Nepali",
+      "icon": "Calendar",
+      "description": "The lingua franca of Nepal.",
+      "detail": "Numerous other languages are spoken, including Nepali, Tamang, Tharu, and Newari."
+    }
+  ],
+  "climateData": {
+    "title": "Nepal's Climate",
+    "description": "Nepal experiences a diverse range of climates due to its varied topography. The climate varies significantly with altitude, from subtropical in the south to alpine in the Himalayas.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "Spring is arguably the best time to visit Nepal, offering pleasant temperatures and clear skies.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Clear mountain views",
+          "Festivals"
+        ],
+        "activities": [
+          "Trekking",
+          "Mountaineering",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Summer is the monsoon season in Nepal, characterized by heavy rainfall and cloud cover.",
+        "keyFeatures": [
+          "Monsoon rains",
+          "Green landscapes",
+          "River rafting"
+        ],
+        "activities": [
+          "River rafting",
+          "Lower-altitude trekking",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Autumn offers similar conditions to spring, with clear skies and comfortable temperatures, making it a popular trekking season.",
+        "keyFeatures": [
+          "Clear mountain views",
+          "Festivals",
+          "Harvest season"
+        ],
+        "activities": [
+          "Trekking",
+          "Mountaineering",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Winter brings cold temperatures and snowfall, particularly in the higher altitudes. Roads to some areas may be closed.",
+        "keyFeatures": [
+          "Snowfall",
+          "Clear views of Everest (briefly)",
+          "Winter festivals"
+        ],
+        "activities": [
+          "Skiing",
+          "Cultural tours",
+          "Lower-altitude trekking"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Everest",
+      "category": "Mountain",
+      "description": "Mount Everest, the world's highest peak, dominates the skyline of the Himalayas and attracts mountaineers from around the globe. Its majestic presence is a symbol of Nepal's natural grandeur.",
+      "detailedDescription": "Located on the border between Nepal and Tibet, Mount Everest’s summit reaches an elevation of 8,848.86 meters (29,031.7 feet). The surrounding Khumbu Glacier is a formidable challenge for climbers.",
+      "bestTime": "Autumn (September-November)",
+      "bestLocations": [
+        "Base Camp",
+        "South Col"
+      ],
+      "viewingTips": [
+        "Book permits well in advance",
+        "Acclimatize properly",
+        "Hire experienced guides"
+      ],
+      "scientificData": {
+        "Height": "8,848.86 m",
+        "Age": "Approximately 6 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Pokhara Valley",
+      "category": "Lake & Valley",
+      "description": "Pokhara Valley, nestled beside the serene Phewa Lake, offers stunning views of the Annapurna range and a tranquil atmosphere.",
+      "detailedDescription": "The valley is known for its picturesque landscapes, boating opportunities, and vibrant lakeside culture. It’s a popular destination for relaxation and adventure.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Phewa Lake",
+        "Sarankot"
+      ],
+      "viewingTips": [
+        "Wake up early for sunrise views",
+        "Take a boat ride on Phewa Lake",
+        "Visit the World Peace Pagoda"
+      ],
+      "scientificData": {
+        "Lake Area": "Approximately 4.6 sq km",
+        "Elevation": "1,700 m"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Chitwan National Park",
+      "category": "Wildlife Reserve",
+      "description": "Chitwan National Park is a protected area in the Terai lowlands, renowned for its diverse wildlife, including tigers, rhinos, and elephants.",
+      "detailedDescription": "The park offers opportunities for jungle safaris, elephant rides, and bird watching. It plays a crucial role in conserving Nepal’s biodiversity.",
+      "bestTime": "Winter (December-February)",
+      "bestLocations": [
+        "Tharu Village",
+        "Elephant Breeding Center"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear neutral-colored clothing",
+        "Maintain a safe distance from wildlife"
+      ],
+      "scientificData": {
+        "Area": "932 sq km",
+        "Biodiversity": "Over 600 species of plants and animals"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Nepal's Ecosystems",
+    "overview": "Nepal’s ecosystems are incredibly diverse, ranging from subtropical forests to alpine meadows and high-altitude deserts. These ecosystems support a rich array of flora and fauna, many of which are endemic to the region.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Nepal’s land area is protected as national parks, wildlife reserves, and conservation areas.",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Nepal’s forests cover approximately 40% of the country’s land area and play a vital role in regulating water resources and supporting biodiversity.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 6,000",
+            "details": "Nepal is a hotspot for plant diversity."
+          },
+          {
+            "category": "Forest Cover",
+            "count": "40%",
+            "details": "Significant contribution to carbon sequestration."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Red Panda",
+            "status": "Endangered",
+            "significance": "An iconic symbol of Nepal's biodiversity."
+          },
+          {
+            "name": "Himalayan Blue Poppy",
+            "status": "Vulnerable",
+            "significance": "Known for its vibrant blue color and medicinal properties."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Community forestry programs",
+          "Protected area management",
+          "Reforestation initiatives"
+        ]
+      },
+      {
+        "name": "Aquatic Ecosystems",
+        "icon": "Waves",
+        "description": "Nepal’s rivers, lakes, and wetlands provide essential habitats for a wide range of aquatic species and support livelihoods for local communities.",
+        "statistics": [
+          {
+            "category": "Rivers",
+            "count": "Over 1,800",
+            "details": "Vital for irrigation and hydropower."
+          },
+          {
+            "category": "Wetlands",
+            "count": "Approximately 2,000",
+            "details": "Important for flood control and biodiversity."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Mahseer",
+            "status": "Vulnerable",
+            "significance": "A large and important freshwater fish."
+          },
+          {
+            "name": "Otters",
+            "status": "Near Threatened",
+            "significance": "Keystone predators in aquatic ecosystems."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Habitat loss",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "River basin management",
+          "Wetland restoration",
+          "Sustainable fishing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Nepal",
+    "description": "Nepal offers a wide range of activities for travelers of all interests and abilities, from challenging treks to cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Hiking is a popular activity in Nepal, with trails ranging from easy day hikes to multi-day treks through stunning mountain landscapes.",
+        "activities": [
+          {
+            "name": "Everest Base Camp Trek",
+            "difficulty": "Hard",
+            "season": "Autumn & Spring",
+            "duration": "12-14 days",
+            "description": "A challenging trek to the base camp of Mount Everest, offering breathtaking views of the Himalayas.",
+            "bestLocations": [
+              "Lukla",
+              "Namche Bazaar"
+            ],
+            "requirements": "Good physical fitness, trekking boots, warm clothing",
+            "safety": [
+              "Altitude sickness prevention",
+              "Proper hydration",
+              "Travel insurance"
+            ]
+          },
+          {
+            "name": "Annapurna Circuit Trek",
+            "difficulty": "Moderate",
+            "season": "Spring & Autumn",
+            "duration": "14-21 days",
+            "description": "A classic trek around the Annapurna massif, offering diverse landscapes and cultural experiences.",
+            "bestLocations": [
+              "Ghorepani",
+              "Chisapani"
+            ],
+            "requirements": "Moderate fitness, trekking poles, waterproof gear",
+            "safety": [
+              "River crossings",
+              "Altitude sickness prevention"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Nepal’s rivers and lakes offer opportunities for various water sports, including rafting, kayaking, and swimming.",
+        "activities": [
+          {
+            "name": "White Water Rafting on Trisuli River",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "1-2 days",
+            "description": "Experience the thrill of rafting on the Trisuli River, known for its exciting rapids.",
+            "bestLocations": [
+              "Dhulikhel",
+              "Chitwan"
+            ],
+            "requirements": "Life jacket, helmet, appropriate clothing",
+            "safety": [
+              "Experienced guides",
+              "Safety briefings"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket and pants, hat, gloves, scarf",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, headlamp, first-aid kit",
+        "hiking": "Trekking poles, hiking boots, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Altitude sickness medication",
+        "Emergency contact information"
+      ]
+    }
+  }
+}

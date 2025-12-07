@@ -1,0 +1,387 @@
+{
+  "name": "Tanzania",
+  "region": "Africa",
+  "description": "Tanzania, a nation of diverse landscapes and vibrant cultures, is located in East Africa. It’s renowned for its iconic wildlife, including the Great Migration, Mount Kilimanjaro, and the Serengeti National Park. Tanzania boasts a rich history, influenced by various ethnic groups and colonial legacies, and offers a unique blend of adventure, cultural immersion, and natural beauty.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "67.4 million (2023)",
+      "icon": "Users",
+      "description": "Tanzania has a large and growing population, primarily concentrated in rural areas.",
+      "detail": "The majority of the population is of Bantu origin, with significant Maasai and other ethnic groups contributing to the country's cultural diversity."
+    },
+    {
+      "label": "Area",
+      "value": "947,303 sq km (363,844 sq mi)",
+      "icon": "MapPin",
+      "description": "Tanzania is the 38th largest country in the world.",
+      "detail": "It encompasses a wide range of ecosystems, from savannahs and rainforests to mountains and coastal plains."
+    },
+    {
+      "label": "Capital",
+      "value": "Dodoma",
+      "icon": "MapPin",
+      "description": "Dodoma is the administrative capital of Tanzania.",
+      "detail": "However, many government ministries and embassies remain in Dar es Salaam."
+    },
+    {
+      "label": "Official Language",
+      "value": "Swahili",
+      "icon": "Globe",
+      "description": "Swahili is widely spoken throughout Tanzania.",
+      "detail": "English is also an official language and is used in education, business, and government."
+    },
+    {
+      "label": "Currency",
+      "value": "Tanzanian Shilling (TZS)",
+      "icon": "Coffee",
+      "description": "The Tanzanian Shilling is the official currency.",
+      "detail": "Exchange rates fluctuate, but generally, 2,500 Shillings equals approximately 20 US Dollars (as of late 2023)."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 76.69 billion (2023)",
+      "icon": "Zap",
+      "description": "Tanzania's economy is largely driven by agriculture and tourism.",
+      "detail": "The country is experiencing steady economic growth, though poverty remains a significant challenge."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Tanzania",
+    "description": "Tanzania experiences a diverse range of climates due to its varied topography. The coastal areas are hot and humid, while the highlands are cooler and drier. The interior experiences a tropical savanna climate with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Long Rains (Masika)",
+        "period": "March - May",
+        "description": "This season brings heavy rainfall across much of Tanzania, particularly in the central and southern regions. It's a time of lush vegetation and abundant wildlife.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Increased vegetation growth",
+          "High humidity"
+        ],
+        "activities": [
+          "Wildlife viewing (especially river crossings)",
+          "Hiking (in areas with less rain)"
+        ]
+      },
+      {
+        "name": "Short Rains",
+        "period": "November - December",
+        "description": "A shorter, less intense rainfall period, primarily affecting the northern and western parts of the country. It’s a good time for wildlife viewing as animals congregate around water sources.",
+        "keyFeatures": [
+          "Moderate rainfall",
+          "Water sources replenished",
+          "Migration patterns"
+        ],
+        "activities": [
+          "Safari viewing",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "June - October",
+        "description": "The dry season is the most popular time for tourism, offering clear skies and comfortable temperatures. However, wildlife can be more dispersed.",
+        "keyFeatures": [
+          "Clear skies",
+          "Low humidity",
+          "Cooler temperatures"
+        ],
+        "activities": [
+          "Safari viewing",
+          "Hiking",
+          "Cultural tours"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Kilimanjaro",
+      "category": "Mountain",
+      "description": "Mount Kilimanjaro, a dormant volcano, is the highest mountain in Africa and a globally recognized landmark. Its snow-capped peak dominates the landscape and offers a challenging but rewarding climb.",
+      "detailedDescription": "Kilimanjaro’s summit is permanently covered in ice and snow, creating a stunning visual spectacle. The mountain’s diverse ecosystems range from moorland to alpine desert, supporting a unique array of flora and fauna.",
+      "bestTime": "June - October & December - February",
+      "bestLocations": [
+        "Marangu Route",
+        "Machame Route",
+        "Lemosho Route"
+      ],
+      "viewingTips": [
+        "Acclimatize gradually",
+        "Hire a reputable guide",
+        "Pack warm clothing"
+      ],
+      "scientificData": {
+        "Height": "5,895 m (19,341 ft)",
+        "Age": "Approximately 2-3 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Serengeti National Park",
+      "category": "Wildlife Reserve",
+      "description": "The Serengeti National Park is renowned for the Great Migration, where millions of wildebeest, zebras, and gazelles traverse the plains in search of fresh grazing.",
+      "detailedDescription": "The vast grasslands of the Serengeti provide a crucial habitat for a staggering diversity of wildlife, including lions, cheetahs, elephants, and giraffes. The annual wildebeest migration is one of the greatest wildlife spectacles on Earth.",
+      "bestTime": "June - October (Migration)",
+      "bestLocations": [
+        "Central Serengeti",
+        "Southern Serengeti",
+        "Western Corridor"
+      ],
+      "viewingTips": [
+        "Use a 4x4 vehicle",
+        "Hire a knowledgeable guide",
+        "Bring binoculars"
+      ],
+      "scientificData": {
+        "Area": "15,000 sq km (5,800 sq mi)",
+        "Biodiversity": "Over 75 large mammal species"
+      },
+      "icon": "Globe"
+    },
+    {
+      "id": 3,
+      "name": "Zanzibar Archipelago",
+      "category": "Island",
+      "description": "Zanzibar, an archipelago off the coast of Tanzania, is famed for its spice plantations, pristine beaches, and rich cultural heritage.",
+      "detailedDescription": "Historically a major trading hub, Zanzibar’s influence is evident in its architecture, cuisine, and traditions. Stone Town, a UNESCO World Heritage site, showcases a blend of Arab, Persian, Indian, and European styles.",
+      "bestTime": "June - October & December - February",
+      "bestLocations": [
+        "Stone Town",
+        "Nungwi",
+        "Kendwa"
+      ],
+      "viewingTips": [
+        "Explore Stone Town's narrow streets",
+        "Visit spice plantations",
+        "Relax on the beaches"
+      ],
+      "scientificData": {
+        "Area": "957 sq km (369 sq mi)",
+        "CoralReefs": "Extensive coral reefs surrounding the islands"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Tanzanian Ecosystems",
+    "overview": "Tanzania’s ecosystems are incredibly diverse, ranging from the arid Serengeti plains to the lush rainforests of Mount Kilimanjaro and the coral reefs of Zanzibar. These ecosystems support a remarkable array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 20% of Tanzania’s land area is protected in national parks, game reserves, and sanctuaries.",
+      "nationalParks": 18
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Tanzania is home to a vast array of mammals, including the ‘Big Five’ (lion, elephant, leopard, rhino, buffalo).",
+        "statistics": [
+          {
+            "category": "Large Herbivores",
+            "count": "Over 1.5 million",
+            "details": "Elephants, wildebeest, zebras, giraffes"
+          },
+          {
+            "category": "Large Carnivores",
+            "count": "Approximately 20,000",
+            "details": "Lions, leopards, cheetahs"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "Keystone species, vital for ecosystem health"
+          },
+          {
+            "name": "Black Rhinoceros",
+            "status": "Critically Endangered",
+            "significance": "Important for maintaining grassland biodiversity"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Human-wildlife conflict"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community-based conservation programs",
+          "Transboundary conservation agreements"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Tanzania boasts over 1,100 bird species, making it a paradise for birdwatchers.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "Approximately 50",
+            "details": "Unique bird species found only in Tanzania"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Rosy-Finches",
+            "status": "Endangered",
+            "significance": "Critically endangered finch species"
+          },
+          {
+            "name": "African Grey Parrot",
+            "status": "Vulnerable",
+            "significance": "Important seed disperser"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal trapping"
+        ],
+        "conservationEfforts": [
+          "Protected bird sanctuaries",
+          "Community-based monitoring programs"
+        ]
+      },
+      {
+        "name": "Reptiles & Amphibians",
+        "icon": "Fish",
+        "description": "Tanzania’s diverse habitats support a wide variety of reptiles and amphibians.",
+        "statistics": [
+          {
+            "category": "Crocodiles",
+            "count": "Approximately 1,500",
+            "details": "Nile crocodile and mugger crocodile"
+          },
+          {
+            "category": "Lizards",
+            "count": "Over 200 species",
+            "details": "Diverse lizard species inhabiting various ecosystems"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Anaconda",
+            "status": "Vulnerable",
+            "significance": "One of the largest snakes in the world"
+          },
+          {
+            "name": "Golden Mantella",
+            "status": "Endangered",
+            "significance": "Critically endangered frog species"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal trade"
+        ],
+        "conservationEfforts": [
+          "Protected reptile and amphibian reserves"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Tanzania",
+    "description": "Tanzania offers a wide range of activities for travelers, from wildlife safaris to cultural experiences and adventure sports.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Tanzania’s stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Kilimanjaro Climb",
+            "difficulty": "Hard",
+            "season": "June - October & December - February",
+            "duration": "5-9 days",
+            "description": "Challenge yourself with a climb to the summit of Mount Kilimanjaro.",
+            "bestLocations": [
+              "Marangu Route",
+              "Machame Route",
+              "Lemosho Route"
+            ],
+            "requirements": "Good physical fitness, acclimatization, appropriate gear",
+            "safety": [
+              "Altitude sickness prevention",
+              "Guide expertise"
+            ]
+          },
+          {
+            "name": "Selous Game Reserve Trails",
+            "difficulty": "Moderate",
+            "season": "June - October & December - February",
+            "duration": "Variable",
+            "description": "Explore the Selous Game Reserve on foot with experienced guides.",
+            "bestLocations": [
+              "Selous Game Reserve"
+            ],
+            "requirements": "Hiking boots, insect repellent, binoculars",
+            "safety": [
+              "Wildlife awareness",
+              "Guide supervision"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities along Tanzania’s coast and lakes.",
+        "activities": [
+          {
+            "name": "Diving & Snorkeling in Zanzibar",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life of Zanzibar.",
+            "bestLocations": [
+              "Nungwi",
+              "Kendwa",
+              "Mnemba Atoll"
+            ],
+            "requirements": "Snorkeling gear, wetsuit (optional)",
+            "safety": [
+              "Sunscreen",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Lake Manyara Boat Safari",
+            "difficulty": "Easy",
+            "season": "June - October & December - February",
+            "duration": "2-3 hours",
+            "description": "Take a relaxing boat safari on Lake Manyara and observe wildlife from the water.",
+            "bestLocations": [
+              "Lake Manyara National Park"
+            ],
+            "requirements": "Sunscreen, hat, binoculars",
+            "safety": [
+              "Boat operator experience"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, fleece jackets, waterproof jacket, sturdy boots",
+        "yearRound": "Insect repellent, sunglasses, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Passport, visa, travel insurance, first-aid kit",
+        "hiking": "Hiking boots, backpack, trekking poles, headlamp",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Consult a doctor before traveling",
+        "Drink bottled water",
+        "Be aware of wildlife",
+        "Respect local customs"
+      ]
+    }
+  }
+}

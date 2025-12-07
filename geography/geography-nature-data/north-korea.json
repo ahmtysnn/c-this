@@ -1,0 +1,323 @@
+{
+  "name": "North Korea",
+  "region": "Asia",
+  "description": "Democratic People's Republic of Korea, often referred to as North Korea, is a landlocked country in East Asia. It’s characterized by a mountainous terrain, a relatively small coastline along the Yellow Sea, and a history marked by isolation and political tension. Despite limited international access, North Korea possesses a unique cultural heritage and a rugged natural landscape.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Pyongyang",
+      "icon": "MapPin",
+      "description": "The political, economic, and cultural center of North Korea.",
+      "detail": "Pyongyang is a meticulously planned city, showcasing grand monuments and showcasing the nation's ideology."
+    },
+    {
+      "label": "Population",
+      "value": "25.7 million",
+      "icon": "Users",
+      "description": "The population is primarily concentrated in the central plains.",
+      "detail": "The population density is relatively high in urban areas, particularly around Pyongyang."
+    },
+    {
+      "label": "Area",
+      "value": "120,535 sq km (46,560 sq mi)",
+      "icon": "Globe",
+      "description": "The country is largely mountainous.",
+      "detail": "Approximately 80% of the country's landmass is mountainous, with the Taebaek Mountains dominating the eastern region."
+    },
+    {
+      "label": "Official Language",
+      "value": "Korean",
+      "icon": "ArrowRight",
+      "description": "Korean is the sole official language.",
+      "detail": "There are distinct dialects spoken across the country."
+    },
+    {
+      "label": "Currency",
+      "value": "North Korean Won (KPW)",
+      "icon": "Coffee",
+      "description": "The North Korean Won is the official currency.",
+      "detail": "The exchange rate is heavily controlled and subject to significant fluctuations."
+    },
+    {
+      "label": "Government",
+      "value": "Single-Party State",
+      "icon": "Zap",
+      "description": "Ruled by the Workers' Party of Korea.",
+      "detail": "Political freedoms are severely restricted."
+    }
+  ],
+  "climateData": {
+    "title": "Climate",
+    "description": "North Korea experiences a humid continental climate with four distinct seasons. Summers are hot and humid, while winters are cold and snowy, particularly in the mountainous regions. Rainfall is concentrated in the spring and summer months.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (April - May)",
+        "period": "April - May",
+        "description": "Spring brings a gradual warming, with blossoming flowers and lush greenery. It's a period of renewed activity and agricultural preparation.",
+        "keyFeatures": [
+          "Increased rainfall",
+          "Blooming flowers",
+          "Melting snow"
+        ],
+        "activities": [
+          "Hiking",
+          "Field work",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is hot and humid, with frequent thunderstorms. The Yellow Sea coast experiences high humidity.",
+        "keyFeatures": [
+          "High humidity",
+          "Thunderstorms",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Beach visits (limited access)",
+          "River trips (restricted)"
+        ]
+      },
+      {
+        "name": "Autumn (September - October)",
+        "period": "September - October",
+        "description": "Autumn is characterized by clear skies, cool temperatures, and vibrant foliage. It's a popular time for outdoor activities.",
+        "keyFeatures": [
+          "Clear skies",
+          "Cool temperatures",
+          "Colorful foliage"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Winter (November - March)",
+        "period": "November - March",
+        "description": "Winter is cold and snowy, with temperatures often dropping below freezing. Mountainous areas receive significant snowfall.",
+        "keyFeatures": [
+          "Cold temperatures",
+          "Snowfall",
+          "Ice"
+        ],
+        "activities": [
+          "Skiing (limited access)",
+          "Visiting winter festivals"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Paektu (Paektusan)",
+      "category": "Mountain",
+      "description": "Mount Paektu is the highest peak in Korea and a dormant volcano. It's considered a sacred mountain in Korean mythology and is located on the border with China.",
+      "detailedDescription": "The summit of Mount Paektu is often covered in snow, creating a stunning and dramatic landscape. It's a significant geological feature and a symbol of Korean identity.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "Korean Demilitarized Zone (DMZ)",
+        "Chinese side of the border"
+      ],
+      "viewingTips": [
+        "Bring warm clothing and sturdy boots.",
+        "Respect the border security regulations."
+      ],
+      "scientificData": {
+        "Height": "2,745 m (8,999 ft)",
+        "Age": "Approximately 2 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Chonju Forest",
+      "category": "Forest",
+      "description": "Chonju Forest is a vast, ancient forest in North Hamgyong Province, known for its towering trees and diverse wildlife.",
+      "detailedDescription": "The forest is home to a variety of rare and endangered species, including the Korean black bear and the red deer. It's a vital ecosystem for the region.",
+      "bestTime": "May - November",
+      "bestLocations": [
+        "North Hamgyong Province"
+      ],
+      "viewingTips": [
+        "Hire a local guide for safe navigation.",
+        "Respect the forest environment."
+      ],
+      "scientificData": {
+        "Area": "Approximately 100,000 hectares",
+        "Tree Age": "Some trees are over 1,000 years old"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of North Korea",
+    "overview": "North Korea's ecosystems are diverse, ranging from mountainous forests to coastal wetlands. However, they are under significant pressure due to human activities and environmental degradation.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 5% of the country's land area is protected as national parks and nature reserves.",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "North Korea's forests cover a significant portion of the country and are home to a wide variety of plant and animal species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 600",
+            "details": "Includes ancient Korean pine and oak trees."
+          },
+          {
+            "category": "Endangered Species",
+            "count": "15+",
+            "details": "Several species are threatened by habitat loss."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Korean Black Bear",
+            "status": "Vulnerable",
+            "significance": "An important predator in the forest ecosystem."
+          },
+          {
+            "name": "Red Deer",
+            "status": "Near Threatened",
+            "significance": "A common herbivore in the forest."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Habitat fragmentation"
+        ],
+        "conservationEfforts": [
+          "Establishment of protected areas",
+          "Reforestation programs"
+        ]
+      },
+      {
+        "name": "Coastal Wetlands",
+        "icon": "Droplets",
+        "description": "North Korea's coastline is characterized by tidal flats, mudflats, and salt marshes, which provide important habitat for migratory birds and fish.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "Over 300",
+            "details": "Important stopover site for migratory birds."
+          },
+          {
+            "category": "Fish Species",
+            "count": "50+",
+            "details": "Supports a diverse fish population."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Spoon-billed Sandpiper",
+            "status": "Endangered",
+            "significance": "A critically endangered migratory bird."
+          },
+          {
+            "name": "Korean Yellow-billed Egret",
+            "status": "Vulnerable",
+            "significance": "A unique heron species."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Establishment of coastal reserves",
+          "Pollution control measures"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in North Korea",
+    "description": "Limited access and security restrictions make outdoor activities in North Korea challenging, but opportunities exist for those who can obtain permits and travel with authorized guides.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Hiking is a popular activity in North Korea, particularly in the mountainous regions.",
+        "activities": [
+          {
+            "name": "Mount Paektu Ascent",
+            "difficulty": "Moderate",
+            "season": "October - April",
+            "duration": "1-2 days",
+            "description": "A challenging hike to the summit of Mount Paektu, offering stunning views.",
+            "bestLocations": [
+              "Mount Paektu"
+            ],
+            "requirements": "Sturdy hiking boots, warm clothing, permit",
+            "safety": [
+              "Altitude sickness",
+              "Extreme weather"
+            ]
+          },
+          {
+            "name": "Taebaek Mountains Trek",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "3-5 days",
+            "description": "A multi-day trek through the Taebaek Mountains, exploring diverse landscapes.",
+            "bestLocations": [
+              "Taebaek Mountains"
+            ],
+            "requirements": "Hiking gear, permit, local guide",
+            "safety": [
+              "Wildlife encounters",
+              "Terrain hazards"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cultural Tours",
+        "icon": "Calendar",
+        "description": "Guided tours of historical sites and cultural landmarks offer insights into North Korean history and traditions.",
+        "activities": [
+          {
+            "name": "Pyongyang City Tour",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-3 days",
+            "description": "Explore the capital city, visiting monuments, museums, and cultural centers.",
+            "bestLocations": [
+              "Pyongyang"
+            ],
+            "requirements": "Permit, guide",
+            "safety": [
+              "Security checks"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, sunscreen, hat",
+        "winter": "Warm, insulated clothing, waterproof outerwear, hat, gloves",
+        "yearRound": "Layers of clothing for fluctuating temperatures"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel with a licensed guide",
+        "Obey all local regulations",
+        "Be aware of security restrictions"
+      ]
+    }
+  }
+}

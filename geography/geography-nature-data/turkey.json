@@ -1,0 +1,373 @@
+{
+  "name": "Turkey",
+  "region": "Asia, Europe",
+  "description": "Turkey, officially the Republic of Turkey, is a transcontinental country spanning both Europe and Asia.  It boasts a rich and complex history, having been the heart of numerous empires and civilizations, including the Roman, Byzantine, and Ottoman Empires.  The country’s diverse geography ranges from the rugged Anatolian plateau to the Mediterranean coastline, offering a stunning array of landscapes, from snow-capped mountains to sun-drenched beaches.  Turkey is a crossroads of cultures, blending European and Asian influences in its cuisine, architecture, and traditions.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "85.3 million",
+      "icon": "Users",
+      "description": "Turkey has a large and growing population, making it one of the most populous countries in Europe.",
+      "detail": "The majority of the population resides in the western and central regions of the country."
+    },
+    {
+      "label": "Area",
+      "value": "783,562 sq km",
+      "icon": "MapPin",
+      "description": "Turkey's vast territory encompasses diverse landscapes and climates.",
+      "detail": "It's the world's 55th largest country by land area."
+    },
+    {
+      "label": "Capital",
+      "value": "Ankara",
+      "icon": "MapPin",
+      "description": "Ankara serves as the political and administrative center of Turkey.",
+      "detail": "It's a modern city with significant historical sites."
+    },
+    {
+      "label": "Official Language",
+      "value": "Turkish",
+      "icon": "Globe",
+      "description": "Turkish is the official language of Turkey and has a rich literary tradition.",
+      "detail": "English and German are widely spoken in tourist areas."
+    },
+    {
+      "label": "Currency",
+      "value": "Turkish Lira (TRY)",
+      "icon": "Coffee",
+      "description": "The Turkish Lira is the official currency of Turkey.",
+      "detail": "Exchange rates can fluctuate."
+    },
+    {
+      "label": "GDP",
+      "value": "Approximately $900 billion (2023)",
+      "icon": "Globe",
+      "description": "Turkey has a significant and growing economy.",
+      "detail": "It's a member of the G20 and the OECD."
+    }
+  ],
+  "climateData": {
+    "title": "Turkey's Diverse Climate",
+    "description": "Turkey experiences a wide range of climates due to its geographical location. The Mediterranean coast enjoys hot, dry summers and mild, wet winters. The Black Sea region has a temperate climate with cooler summers and milder winters.  The Anatolian plateau experiences continental climates with hot summers and cold winters.  Snowfall is common in the eastern and northern regions, particularly in the mountains.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer in Turkey is hot and sunny, especially along the Mediterranean coast. Temperatures can reach 35-40°C (95-104°F).",
+        "keyFeatures": [
+          "High temperatures",
+          "Sunny skies",
+          "Dry conditions"
+        ],
+        "activities": [
+          "Swimming",
+          "Sunbathing",
+          "Beach holidays",
+          "Hiking in the mountains"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings pleasant temperatures and fewer crowds. The Mediterranean coast enjoys warm days and cool evenings.  The Black Sea region experiences mild weather.",
+        "keyFeatures": [
+          "Pleasant temperatures",
+          "Colorful foliage",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Wine tasting",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter in Turkey is cold, especially in the northern and eastern regions. Snowfall is common in the mountains. The Mediterranean coast has mild winters with occasional rain.",
+        "keyFeatures": [
+          "Cold temperatures",
+          "Snowfall",
+          "Lower rainfall"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting historical sites",
+          "Enjoying cozy cafes"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring is a beautiful time to visit Turkey, with flowers blooming and temperatures rising. The Mediterranean coast enjoys warm, sunny days.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Warm temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Exploring historical sites"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Cappadocia",
+      "category": "Geological Wonder",
+      "description": "Cappadocia is renowned for its unique geological formations – fairy chimneys – created by volcanic activity and erosion over millions of years.  It’s a UNESCO World Heritage site and a popular destination for hot air balloon rides.",
+      "detailedDescription": "The region is dotted with ancient cave dwellings, churches, and monasteries carved into the soft rock. The surreal landscape is a photographer's dream.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Göreme",
+        "Uçhisar",
+        "Paşabağ (Monk's Valley)"
+      ],
+      "viewingTips": [
+        "Book hot air balloon rides in advance",
+        "Wear comfortable shoes for hiking"
+      ],
+      "scientificData": {
+        "Height": "600m",
+        "Age": "2.5 million years",
+        "RockType": "Volcanic Tuff"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Pamukkale",
+      "category": "Thermal Wonder",
+      "description": "Pamukkale, meaning 'Cotton Castle' in Turkish, is a stunning landscape of white travertine terraces formed by mineral-rich thermal waters. It’s another UNESCO World Heritage site.",
+      "detailedDescription": "The terraces are a result of calcium carbonate deposits flowing from hot springs.  The ruins of the ancient city of Hierapolis are located above the terraces.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Hierapolis",
+        "Travertine terraces"
+      ],
+      "viewingTips": [
+        "Bring swimwear for a dip in the thermal pools",
+        "Wear comfortable shoes for walking on the terraces"
+      ],
+      "scientificData": {
+        "Temperature": "35-40°C",
+        "pH": "7.5-8.5"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Mount Nemrut",
+      "category": "Archaeological Wonder",
+      "description": "Mount Nemrut is a mountain in eastern Turkey, famous for its ancient monument – a massive stone altar topped with colossal statues of gods and kings. It’s a UNESCO World Heritage site.",
+      "detailedDescription": "The monument was built by King Antiochus I of Commagene in the 1st century BC. The statues depict various deities and the king himself, creating a powerful and awe-inspiring scene.",
+      "bestTime": "Sunrise and Sunset",
+      "bestLocations": [
+        "The summit of Mount Nemrut"
+      ],
+      "viewingTips": [
+        "Arrive early to secure a good viewing spot",
+        "Dress warmly, as it can be cold at the summit"
+      ],
+      "scientificData": {
+        "Height": "2,134m",
+        "ElevationChange": "1,200m"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Turkey's Diverse Ecosystems",
+    "overview": "Turkey’s diverse geography supports a wide range of ecosystems, from Mediterranean scrublands to alpine meadows and Black Sea wetlands.  Significant efforts are underway to protect these valuable habitats.",
+    "conservationStatus": {
+      "protectedAreas": "21.5%",
+      "nationalParks": 56
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mediterranean Flora",
+        "icon": "Leaf",
+        "description": "The Mediterranean region of Turkey is characterized by drought-resistant shrubs, herbs, and trees adapted to the hot, dry climate.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "8,000+",
+            "details": "A significant number of endemic plant species"
+          },
+          {
+            "category": "Olive Trees",
+            "count": "2 million",
+            "details": "Turkey is one of the world's largest producers of olive oil"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Maquis Olive",
+            "status": "Endangered",
+            "significance": "A key component of the Mediterranean ecosystem"
+          },
+          {
+            "name": "Wild Lavender",
+            "status": "Common",
+            "significance": "Used in traditional medicine and perfumes"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Overgrazing"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Sustainable agriculture",
+          "Reforestation"
+        ]
+      },
+      {
+        "name": "Black Sea Wetlands",
+        "icon": "Droplets",
+        "description": "The Black Sea wetlands are a vital habitat for migratory birds and a diverse range of aquatic species.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "200+",
+            "details": "Important stopover point for migratory birds"
+          },
+          {
+            "category": "Marsh Area",
+            "count": "1.2 million hectares",
+            "details": "Provides crucial flood control and water purification"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Spoonbill",
+            "status": "Vulnerable",
+            "significance": "A key indicator species for wetland health"
+          },
+          {
+            "name": "Black Swan",
+            "status": "Near Threatened",
+            "significance": "A resident of the Black Sea wetlands"
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Drainage",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration",
+          "Pollution control",
+          "Sustainable fishing"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Turkey",
+    "description": "Turkey offers a wide range of outdoor activities for all levels of experience, from hiking and trekking to water sports and cultural tours.",
+    "activityCategories": [
+      {
+        "name": "Hiking & Trekking",
+        "icon": "Compass",
+        "description": "Explore Turkey's stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Cappadocia Hiking",
+            "difficulty": "Moderate",
+            "season": "Spring & Autumn",
+            "duration": "3-7 days",
+            "description": "Hike through the unique landscapes of Cappadocia, exploring valleys and caves.",
+            "bestLocations": [
+              "Rose Valley",
+              "Red Valley",
+              "Love Valley"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Inform someone of your route",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Mount Olympus Trek",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "5-7 days",
+            "description": "A challenging trek to the summit of Turkey's highest mountain.",
+            "bestLocations": [
+              "Mount Olympus National Park"
+            ],
+            "requirements": "Experienced hiker, appropriate gear",
+            "safety": [
+              "Hire a guide",
+              "Be prepared for extreme weather"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities along Turkey's extensive coastline.",
+        "activities": [
+          {
+            "name": "Scuba Diving in Antalya",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "1-3 days",
+            "description": "Explore the underwater world of the Antalya coast, with its clear waters and diverse marine life.",
+            "bestLocations": [
+              "Konyaaltı Beach",
+              "Lara Beach"
+            ],
+            "requirements": "Snorkeling gear or scuba certification",
+            "safety": [
+              "Dive with a certified instructor",
+              "Check water conditions"
+            ]
+          },
+          {
+            "name": "Windsurfing in Kaş",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "3-7 days",
+            "description": "Take advantage of the strong winds and turquoise waters of Kaş for windsurfing.",
+            "bestLocations": [
+              "Kaş Bay"
+            ],
+            "requirements": "Windsurfing equipment, experience",
+            "safety": [
+              "Check wind conditions",
+              "Wear a life jacket"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, versatile clothing"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Learn basic Turkish phrases",
+        "Be aware of local customs"
+      ]
+    }
+  }
+}

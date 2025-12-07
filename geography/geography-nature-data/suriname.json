@@ -1,0 +1,354 @@
+{
+  "name": "Suriname",
+  "region": "South America",
+  "description": "Suriname, officially the Republic of Suriname, is a country in South America, bordered by Guyana to the west, French Guiana to the east, Brazil to the south and north, and the Atlantic Ocean to the northeast. It’s known for its incredible biodiversity, pristine rainforests, and unique Maroon culture. Suriname boasts a complex history shaped by indigenous populations, European colonization, and the legacy of slavery, resulting in a vibrant and diverse society.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Paramaribo",
+      "icon": "MapPin",
+      "description": "The capital and largest city of Suriname, located on the Suriname River.",
+      "detail": "Paramaribo is a UNESCO World Heritage Site, renowned for its Dutch colonial architecture and unique blend of cultures."
+    },
+    {
+      "label": "Population",
+      "value": "632,745",
+      "icon": "Users",
+      "description": "The population of Suriname is diverse, with significant Maroon, Creole, Javanese, and indigenous communities.",
+      "detail": "The majority of the population speaks Sranan Tongo, a Creole language."
+    },
+    {
+      "label": "Area",
+      "value": "163,820 sq km",
+      "icon": "Globe",
+      "description": "Suriname is the fifth-smallest country in South America.",
+      "detail": "Approximately 90% of the country is covered by dense rainforest."
+    },
+    {
+      "label": "Official Language",
+      "value": "Sranan Tongo, Dutch, English, and several indigenous languages",
+      "icon": "ArrowRight",
+      "description": "A multilingual nation with a rich linguistic heritage.",
+      "detail": "Dutch is used in government and education."
+    },
+    {
+      "label": "Currency",
+      "value": "Surinamese Dollar (SRD)",
+      "icon": "Coffee",
+      "description": "The official currency of Suriname.",
+      "detail": "1 USD is approximately 36 SRD."
+    },
+    {
+      "label": "Independence",
+      "value": "November 25, 1975",
+      "icon": "Calendar",
+      "description": "Suriname gained independence from the Netherlands.",
+      "detail": "Previously part of the Dutch Guiana colony."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Rainforest Climate",
+    "description": "Suriname experiences a tropical rainforest climate, characterized by consistently high temperatures and humidity throughout the year. Rainfall is abundant, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season (June - November)",
+        "period": "June to November",
+        "description": "This season is marked by heavy rainfall, high humidity, and frequent thunderstorms. Rivers swell, and travel can be challenging.",
+        "keyFeatures": [
+          "High rainfall",
+          "High humidity",
+          "Thunderstorms",
+          "Flooding"
+        ],
+        "activities": [
+          "River cruises",
+          "Wildlife viewing (especially birds)",
+          "Rainforest hikes (with caution)"
+        ]
+      },
+      {
+        "name": "Dry Season (December - May)",
+        "period": "December to May",
+        "description": "The dry season brings lower rainfall, reduced humidity, and clearer skies. It's a popular time for tourism and outdoor activities.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Lower humidity",
+          "Clear skies",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Fishing",
+          "Wildlife observation"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Central Suriname Nature Reserve",
+      "category": "Protected Area",
+      "description": "The Central Suriname Nature Reserve is a vast, largely untouched area of primary rainforest, encompassing a significant portion of Suriname's biodiversity. It’s a UNESCO World Heritage Site and a critical habitat for numerous endangered species.",
+      "detailedDescription": "This reserve is one of the largest protected areas in South America, covering over 1.6 million hectares. It’s characterized by towering trees, diverse wildlife, and pristine rivers.  The reserve is largely inaccessible by road, requiring river travel or hiking.",
+      "bestTime": "December - May (Dry Season)",
+      "bestLocations": [
+        "Rio Centrale",
+        "Rio Blackwater",
+        "Mount Kasikasima"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring insect repellent",
+        "Wear waterproof clothing"
+      ],
+      "scientificData": {
+        "Height": "Up to 100m",
+        "Age": "10,000 - 20,000 years (old-growth forest)"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Kanai Falls",
+      "category": "Waterfall",
+      "description": "Kanai Falls is a spectacular series of waterfalls located in the interior of Suriname, offering a refreshing escape into the rainforest.",
+      "detailedDescription": "These falls cascade down a series of rocky terraces, creating a stunning display of water and mist. The surrounding area is lush and teeming with wildlife.  Reaching the falls requires a challenging hike or river journey.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Rio Blackwater"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring swimwear",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Height": "30m",
+        "Width": "50m"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Surinamese Rainforest Ecosystem",
+    "overview": "Suriname’s rainforest is one of the most biodiverse ecosystems on Earth, playing a crucial role in global carbon sequestration and climate regulation. It’s home to a vast array of plant and animal species, many of which are found nowhere else.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Suriname is home to a diverse range of mammals, including jaguars, ocelots, tapirs, capybaras, and various monkey species.",
+        "statistics": [
+          {
+            "category": "Jaguars",
+            "count": "Estimated 50-100",
+            "details": "Critically endangered"
+          },
+          {
+            "category": "Ocelots",
+            "count": "Estimated 200-300",
+            "details": "Vulnerable"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Critically Endangered",
+            "significance": "Apex predator and indicator species"
+          },
+          {
+            "name": "Harpy Eagle",
+            "status": "Vulnerable",
+            "significance": "Largest raptor in the Americas"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Anti-poaching patrols"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Suriname boasts an incredible variety of bird species, including macaws, parrots, toucans, and numerous migratory birds.",
+        "statistics": [
+          {
+            "category": "Macaws",
+            "count": "Approximately 500",
+            "details": "Several species threatened"
+          },
+          {
+            "category": "Toucans",
+            "count": "Over 30 species",
+            "details": "Highly colorful and vocal"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Harpy Eagle",
+            "status": "Vulnerable",
+            "significance": "Top predator and symbol of the rainforest"
+          },
+          {
+            "name": "Hoatzin",
+            "status": "Near Threatened",
+            "significance": "Ancient bird with unique digestive system"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal wildlife trade"
+        ],
+        "conservationEfforts": [
+          "Bird monitoring programs",
+          "Habitat restoration"
+        ]
+      },
+      {
+        "name": "Reptiles & Amphibians",
+        "icon": "Fish",
+        "description": "Suriname’s rainforest is home to a diverse array of reptiles and amphibians, including caimans, snakes, frogs, and lizards.",
+        "statistics": [
+          {
+            "category": "Caimans",
+            "count": "Several species",
+            "details": "Important predators in the waterways"
+          },
+          {
+            "category": "Poison Dart Frogs",
+            "count": "Over 50 species",
+            "details": "Brightly colored and highly toxic"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Anaconda",
+            "status": "Vulnerable",
+            "significance": "One of the largest snakes in the world"
+          },
+          {
+            "name": "Dendrobatidae (Poison Dart Frogs)",
+            "status": "Varying",
+            "significance": "Unique skin secretions containing potent toxins"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Collection for the pet trade"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Community-based conservation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Suriname",
+    "description": "Suriname offers a wide range of outdoor activities for adventure seekers and nature enthusiasts.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the rainforest on foot and discover hidden waterfalls and scenic viewpoints.",
+        "activities": [
+          {
+            "name": "Rio Centrale Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-5 hours",
+            "description": "Hike along the Rio Centrale, observing wildlife and enjoying the rainforest scenery.",
+            "bestLocations": [
+              "Rio Centrale"
+            ],
+            "requirements": "Sturdy hiking boots, insect repellent, water",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Mount Kasikasima Hike",
+            "difficulty": "Hard",
+            "season": "December - May",
+            "duration": "Full Day",
+            "description": "A challenging hike to the summit of Mount Kasikasima, Suriname’s highest peak.",
+            "bestLocations": [
+              "Central Suriname Nature Reserve"
+            ],
+            "requirements": "Sturdy hiking boots, trekking poles, water, food, navigation tools",
+            "safety": [
+              "Experienced hikers only",
+              "Check weather conditions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Experience the beauty of Suriname’s rivers and waterways through various water sports.",
+        "activities": [
+          {
+            "name": "River Cruises",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Relaxing cruises along the Suriname River and other waterways, offering opportunities for wildlife viewing.",
+            "bestLocations": [
+              "Suriname River",
+              "Rio Blackwater"
+            ],
+            "requirements": "Sunscreen, hat, insect repellent",
+            "safety": [
+              "Follow guide instructions",
+              "Wear life jackets"
+            ]
+          },
+          {
+            "name": "Canoeing",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the smaller tributaries and waterways by canoe.",
+            "bestLocations": [
+              "Rio Blackwater"
+            ],
+            "requirements": "Canoe, paddle, life jacket",
+            "safety": [
+              "Be aware of currents",
+              "Wear a life jacket"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, hat, sunglasses",
+        "winter": "Long-sleeved shirts, trousers, fleece jacket, waterproof jacket",
+        "yearRound": "Insect repellent, sunscreen, hiking boots"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, flashlight, first-aid kit",
+        "hiking": "Trekking poles, map, compass, GPS",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a satellite phone or personal locator beacon (PLB)",
+        "Be aware of wildlife",
+        "Respect the environment"
+      ]
+    }
+  }
+}

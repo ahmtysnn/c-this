@@ -1,0 +1,367 @@
+{
+  "CountryData": {
+    "name": "United States",
+    "region": "North America",
+    "description": "The United States of America, a vast and diverse nation encompassing a wide range of landscapes, climates, and cultures. From the towering peaks of the Rocky Mountains to the sun-drenched beaches of Florida, and the sprawling plains of the Midwest to the dense forests of the Pacific Northwest, the U.S. offers an unparalleled variety of natural wonders and recreational opportunities.  It’s a country of innovation, history, and breathtaking beauty, attracting millions of visitors each year.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "333.3 million",
+        "icon": "Users",
+        "description": "The United States has the third-largest population in the world.",
+        "detail": "As of 2023, the population is estimated to be 333.3 million, reflecting a diverse mix of ethnicities and nationalities."
+      },
+      {
+        "label": "Area",
+        "value": "9.834 million sq km",
+        "icon": "Globe",
+        "description": "Spanning a massive area, the U.S. is the third-largest country by total area.",
+        "detail": "The total land area is approximately 9.834 million square kilometers, encompassing diverse ecosystems and geographical features."
+      },
+      {
+        "label": "GDP",
+        "value": "25.46 trillion USD",
+        "icon": "Zap",
+        "description": "The U.S. boasts the world's largest economy.",
+        "detail": "The Gross Domestic Product (GDP) is currently estimated at $25.46 trillion, reflecting a significant global economic influence."
+      },
+      {
+        "label": "National Parks",
+        "value": "63",
+        "icon": "MapPin",
+        "description": "Home to an impressive number of national parks.",
+        "detail": "The U.S. has 63 designated National Parks, protecting iconic landscapes and diverse wildlife."
+      },
+      {
+        "label": "Official Language",
+        "value": "English",
+        "icon": "Navigation",
+        "description": "English is the predominant language.",
+        "detail": "While there is no official language at the federal level, English is the most widely spoken and used language."
+      }
+    ],
+    "climateData": {
+      "title": "Climate Zones of the United States",
+      "description": "The United States experiences a wide range of climates, from arctic conditions in Alaska to tropical climates in Hawaii and Florida.  Seasonal variations are significant across the country, influencing everything from agriculture to recreation.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Spring",
+          "period": "March - May",
+          "description": "Spring brings a gradual warming trend across much of the country, with blooming flowers and lush greenery.  Rainfall is common, particularly in the eastern United States.",
+          "keyFeatures": [
+            "Blooming flowers",
+            "Increased rainfall",
+            "Warmer temperatures"
+          ],
+          "activities": [
+            "Hiking",
+            "Camping",
+            "Gardening",
+            "Wildlife viewing"
+          ]
+        },
+        {
+          "name": "Summer",
+          "period": "June - August",
+          "description": "Summer is typically hot and humid in the eastern and southern United States, while the Pacific Northwest experiences milder temperatures.  Wildfires are a concern in some regions.",
+          "keyFeatures": [
+            "Hot temperatures",
+            "High humidity",
+            "Increased wildfire risk"
+          ],
+          "activities": [
+            "Swimming",
+            "Beach activities",
+            "Water sports",
+            "Outdoor festivals"
+          ]
+        },
+        {
+          "name": "Autumn (Fall)",
+          "period": "September - November",
+          "description": "Autumn is characterized by cooler temperatures and vibrant fall foliage.  It’s a popular time for outdoor activities and leaf-peeping.",
+          "keyFeatures": [
+            "Cool temperatures",
+            "Fall foliage",
+            "Lower humidity"
+          ],
+          "activities": [
+            "Hiking",
+            "Leaf-peeping",
+            "Apple picking",
+            "Harvest festivals"
+          ]
+        },
+        {
+          "name": "Winter",
+          "period": "December - February",
+          "description": "Winter brings cold temperatures and snowfall to much of the northern and central United States.  The southern states generally experience milder winters.",
+          "keyFeatures": [
+            "Cold temperatures",
+            "Snowfall",
+            "Ice storms"
+          ],
+          "activities": [
+            "Skiing",
+            "Snowboarding",
+            "Ice skating",
+            "Winter festivals"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Grand Canyon National Park",
+        "category": "Canyon",
+        "description": "The Grand Canyon is a colossal gorge carved by the Colorado River over millions of years. Its immense scale and vibrant colors make it one of the world's most iconic natural wonders.",
+        "detailedDescription": "Located in Arizona, the Grand Canyon stretches 277 miles (446 km) long and reaches a depth of over a mile (1.6 km). The layered bands of rock reveal a geological history spanning nearly two billion years.",
+        "bestTime": "Spring and Fall",
+        "bestLocations": [
+          "South Rim",
+          "North Rim"
+        ],
+        "viewingTips": [
+          "Bring sunscreen and a hat",
+          "Stay hydrated",
+          "Take a guided tour"
+        ],
+        "scientificData": {
+          "Depth": "1.8 km",
+          "Length": "277 km",
+          "Age": "1.8 Billion Years"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "Yellowstone National Park",
+        "category": "Volcanic",
+        "description": "Yellowstone is a geothermal wonderland renowned for its geysers, hot springs, and abundant wildlife. It’s a UNESCO World Heritage Site and a testament to the power of nature.",
+        "detailedDescription": "Located primarily in Wyoming, Yellowstone is home to Old Faithful, the world’s most famous geyser. The park’s hydrothermal features are fueled by a massive underground magma chamber.",
+        "bestTime": "Summer",
+        "bestLocations": [
+          "Old Faithful area",
+          "Grand Prismatic Spring"
+        ],
+        "viewingTips": [
+          "Maintain a safe distance from thermal features",
+          "Be aware of wildlife"
+        ],
+        "scientificData": {
+          "Area": "8.987 sq mi",
+          "Volcanic Activity": "Active Supervolcano"
+        },
+        "icon": "Sun"
+      },
+      {
+        "id": 3,
+        "name": "Yosemite National Park",
+        "category": "Mountain Range",
+        "description": "Yosemite is famous for its towering granite cliffs, giant sequoia trees, and stunning waterfalls. It’s a paradise for hikers, climbers, and nature lovers.",
+        "detailedDescription": "Located in California, Yosemite Valley is dominated by El Capitan and Half Dome, two iconic granite monoliths. The park’s diverse ecosystems support a wide range of plant and animal life.",
+        "bestTime": "Summer and Fall",
+        "bestLocations": [
+          "Yosemite Valley",
+          "Glacier Point"
+        ],
+        "viewingTips": [
+          "Book accommodations in advance",
+          "Be prepared for crowds"
+        ],
+        "scientificData": {
+          "Elevation": "1,200 m",
+          "Tree Height": "30 m (Giant Sequoias)"
+        },
+        "icon": "Mountain"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Ecosystems of the United States",
+      "overview": "The United States boasts a remarkable diversity of ecosystems, ranging from arctic tundra to tropical rainforests. These ecosystems support a vast array of plant and animal life, contributing to the nation’s rich biodiversity.",
+      "conservationStatus": {
+        "protectedAreas": "29% (estimated)",
+        "nationalParks": 63
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Forests",
+          "icon": "Trees",
+          "description": "Forests cover a significant portion of the United States, providing habitat for countless species and playing a vital role in carbon sequestration.",
+          "statistics": [
+            {
+              "category": "Area",
+              "count": "380 million acres",
+              "details": "Approximately 19% of the U.S. land area is forested."
+            },
+            {
+              "category": "Tree Species",
+              "count": "500+",
+              "details": "A diverse range of tree species, including pine, oak, and maple."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Bald Eagle",
+              "status": "Least Concern",
+              "significance": "National symbol of the United States."
+            },
+            {
+              "name": "White-tailed Deer",
+              "status": "Common",
+              "significance": "A key prey species in many forest ecosystems."
+            }
+          ],
+          "threats": [
+            "Deforestation",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Reforestation programs",
+            "Protected areas"
+          ]
+        },
+        {
+          "name": "Grasslands",
+          "icon": "Leaf",
+          "description": "Grasslands, including prairies and savannas, are characterized by their open landscapes and diverse plant communities.",
+          "statistics": [
+            {
+              "category": "Area",
+              "count": "780 million acres",
+              "details": "Approximately 40% of the U.S. land area is grassland."
+            },
+            {
+              "category": "Grass Species",
+              "count": "1,000+",
+              "details": "A wide variety of grasses, including buffalo grass and bluestem."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Bison",
+              "status": "Near Threatened",
+              "significance": "An iconic symbol of the American West."
+            },
+            {
+              "name": "Prairie Dog",
+              "status": "Least Concern",
+              "significance": "A keystone species in grassland ecosystems."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Overgrazing"
+          ],
+          "conservationEfforts": [
+            "Habitat restoration",
+            "Wildlife management"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities in the United States",
+      "description": "The United States offers a vast array of outdoor activities for all skill levels and interests. From challenging hikes to relaxing water sports, there’s something for everyone to enjoy.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Hiking is a popular way to explore the diverse landscapes of the United States.",
+          "activities": [
+            {
+              "name": "Day Hike",
+              "difficulty": "Easy",
+              "season": "Spring, Summer, Fall",
+              "duration": "2-6 hours",
+              "description": "A short hike to a scenic viewpoint or waterfall.",
+              "bestLocations": [
+                "Grand Canyon",
+                "Yosemite",
+                "Zion"
+              ],
+              "requirements": "Hiking boots, water, snacks",
+              "safety": [
+                "Stay on marked trails",
+                "Be aware of wildlife"
+              ]
+            },
+            {
+              "name": "Backpacking",
+              "difficulty": "Moderate to Hard",
+              "season": "Summer",
+              "duration": "1-7 days",
+              "description": "Multi-day hike with overnight camping.",
+              "bestLocations": [
+                "Appalachian Trail",
+                "Pacific Crest Trail"
+              ],
+              "requirements": "Backpack, tent, sleeping bag, navigation tools",
+              "safety": [
+                "Leave No Trace principles",
+                "Emergency preparedness"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "The United States boasts thousands of miles of coastline and numerous lakes and rivers, offering a wide range of water sports.",
+          "activities": [
+            {
+              "name": "Kayaking",
+              "difficulty": "Easy to Moderate",
+              "season": "Summer",
+              "duration": "1-4 hours",
+              "description": "Exploring waterways by kayak.",
+              "bestLocations": [
+                "Florida Keys",
+                "Lake Tahoe"
+              ],
+              "requirements": "Kayak, paddle, life vest",
+              "safety": [
+                "Wear a life vest",
+                "Be aware of currents"
+              ]
+            },
+            {
+              "name": "Surfing",
+              "difficulty": "Moderate to Hard",
+              "season": "Summer",
+              "duration": "1-3 hours",
+              "description": "Riding waves on the ocean.",
+              "bestLocations": [
+                "California Coast",
+                "Hawaii"
+              ],
+              "requirements": "Surfboard, wetsuit (depending on water temperature)",
+              "safety": [
+                "Learn to surf from a qualified instructor",
+                "Be aware of rip currents"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+          "winter": "Warm layers, waterproof jacket, hat, gloves",
+          "yearRound": "Comfortable shoes, layers for varying weather conditions"
+        },
+        "equipment": {
+          "basic": "Water bottle, backpack, first-aid kit",
+          "hiking": "Hiking boots, trekking poles, map, compass",
+          "photography": "Camera, extra batteries, memory cards"
+        },
+        "safety": [
+          "Inform someone of your plans",
+          "Carry a map and compass",
+          "Be aware of weather conditions"
+        ]
+      }
+    }
+  }
+}

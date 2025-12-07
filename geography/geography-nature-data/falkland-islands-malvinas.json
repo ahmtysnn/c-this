@@ -1,0 +1,375 @@
+{
+  "CountryData": {
+    "name": "Falkland Islands (Malvinas)",
+    "region": "South America",
+    "description": "The Falkland Islands, located in the South Atlantic Ocean approximately 480 kilometers (300 miles) east of Argentina, are a British Overseas Territory renowned for their unique wildlife, dramatic landscapes, and rich maritime history.  The islands boast a subpolar oceanic climate, characterized by cool temperatures and high rainfall, particularly during the summer months.  They are a haven for seabirds, penguins, and seals, and offer stunning scenery ranging from rugged cliffs and peat bogs to expansive grasslands and sheltered bays.  The islands' economy is primarily based on fishing and sheep farming, with tourism playing an increasingly important role.",
+    "quickFacts": [
+      {
+        "label": "Area",
+        "value": "12,173 km² (4,678 sq mi)",
+        "icon": "MapPin",
+        "description": "The islands encompass two main islands, West Falkland and East Falkland, along with numerous smaller islets.",
+        "detail": "The total land area is relatively small, contributing to the islands' unique ecosystem and vulnerability."
+      },
+      {
+        "label": "Population",
+        "value": "3,707 (2023)",
+        "icon": "Users",
+        "description": "The population is primarily British, with a significant contingent of Argentine residents.",
+        "detail": "The population density is low, reflecting the islands' remote location and challenging environment."
+      },
+      {
+        "label": "Capital",
+        "value": "Stanley",
+        "icon": "MapPin",
+        "description": "Stanley is a historic port town and the administrative center of the Falkland Islands.",
+        "detail": "Stanley was established in 1843 and retains a strong colonial atmosphere."
+      },
+      {
+        "label": "Currency",
+        "value": "Falkland Island Pound (FI Pound)",
+        "icon": "Coffee",
+        "description": "The FI Pound is pegged to the British Pound Sterling.",
+        "detail": "While the FI Pound is used, the British Pound Sterling is widely accepted."
+      },
+      {
+        "label": "Official Language",
+        "value": "English",
+        "icon": "Navigation",
+        "description": "English is the sole official language.",
+        "detail": "Spanish is also spoken by a significant portion of the population."
+      },
+      {
+        "label": "Time Zone",
+        "value": "GMT-2",
+        "icon": "Clock",
+        "description": "The Falkland Islands observe Greenwich Mean Time (GMT).",
+        "detail": "No daylight saving time is observed."
+      }
+    ],
+    "climateData": {
+      "title": "Climate of the Falkland Islands",
+      "description": "The Falkland Islands experience a subpolar oceanic climate, characterized by cool temperatures, high rainfall, and strong westerly winds. Summers (November to March) are relatively mild, with average temperatures around 10-15°C (50-59°F), while winters (June to August) are cold, with average temperatures around 0-5°C (32-41°F). Rainfall is abundant throughout the year, with the highest amounts falling during the summer months.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (November - March)",
+          "period": "November to March",
+          "description": "Summer brings longer daylight hours, milder temperatures, and increased rainfall. The landscape is lush and green, and wildlife is most active.",
+          "keyFeatures": [
+            "Long daylight hours",
+            "Mild temperatures",
+            "Increased rainfall",
+            "Wildlife activity"
+          ],
+          "activities": [
+            "Hiking",
+            "Birdwatching",
+            "Kayaking",
+            "Fishing"
+          ]
+        },
+        {
+          "name": "Autumn (April - May)",
+          "period": "April to May",
+          "description": "Autumn is a transitional season with decreasing daylight hours and cooler temperatures. The landscape begins to change color, and migratory birds begin to depart.",
+          "keyFeatures": [
+            "Decreasing daylight hours",
+            "Cooler temperatures",
+            "Changing foliage",
+            "Bird migration"
+          ],
+          "activities": [
+            "Hiking",
+            "Photography",
+            "Wildlife observation"
+          ]
+        },
+        {
+          "name": "Winter (June - August)",
+          "period": "June to August",
+          "description": "Winter is the coldest and wettest time of year, with short daylight hours and frequent storms. Snowfall is possible, particularly on the higher ground.",
+          "keyFeatures": [
+            "Short daylight hours",
+            "Cold temperatures",
+            "Frequent storms",
+            "Potential snowfall"
+          ],
+          "activities": [
+            "Wildlife observation (penguin colonies)",
+            "Visiting museums and historical sites"
+          ]
+        },
+        {
+          "name": "Spring (September - October)",
+          "period": "September to October",
+          "description": "Spring brings gradually increasing daylight hours, milder temperatures, and blooming wildflowers. It's a beautiful time to visit the islands.",
+          "keyFeatures": [
+            "Increasing daylight hours",
+            "Milder temperatures",
+            "Wildflower blooms",
+            "Return of migratory birds"
+          ],
+          "activities": [
+            "Hiking",
+            "Birdwatching",
+            "Photography"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Pigeon Island",
+        "category": "Coastal Landscape",
+        "description": "Pigeon Island is a dramatic headland on East Falkland, characterized by towering cliffs, sea stacks, and a unique microclimate. It's a prime location for observing seabirds and experiencing the raw beauty of the Falkland Islands' coastline.",
+        "detailedDescription": "The island's cliffs are sculpted by the relentless force of the Atlantic waves, creating a stunning and ever-changing landscape. The area is rich in marine life and offers spectacular views.",
+        "bestTime": "Year-round",
+        "bestLocations": [
+          "East Falkland Coast"
+        ],
+        "viewingTips": [
+          "Bring waterproof clothing",
+          "Wear sturdy footwear",
+          "Respect the wildlife"
+        ],
+        "scientificData": {
+          "Height": "100m",
+          "Rock Type": "Basalt",
+          "Average Rainfall": "2500mm/year"
+        },
+        "icon": "Wind"
+      },
+      {
+        "id": 2,
+        "name": "Volunteer Islands",
+        "category": "Seabird Colonies",
+        "description": "The Volunteer Islands are a group of small islands renowned for their massive colonies of Black-browed Albatrosses and Gentoo Penguins. They represent one of the largest albatross breeding colonies in the Southern Hemisphere.",
+        "detailedDescription": "The islands provide a crucial breeding ground for these iconic seabirds, offering a remarkable spectacle for visitors. The sheer scale of the colonies is truly awe-inspiring.",
+        "bestTime": "November - March",
+        "bestLocations": [
+          "Volunteer Islands"
+        ],
+        "viewingTips": [
+          "Maintain a respectful distance from the birds",
+          "Use binoculars for optimal viewing",
+          "Follow designated trails"
+        ],
+        "scientificData": {
+          "Albatross Colony Size": "Approximately 100,000 pairs",
+          "Penguin Colony Size": "Approximately 20,000 pairs",
+          "Island Area": "Total 0.7 km²"
+        },
+        "icon": "Bird"
+      },
+      {
+        "id": 3,
+        "name": "East Point Peninsula",
+        "category": "Coastal Landscape",
+        "description": "East Point Peninsula is a rugged and remote area on East Falkland, dominated by steep cliffs, peat bogs, and a unique assemblage of plant and animal life. It's a challenging but rewarding destination for experienced hikers.",
+        "detailedDescription": "The peninsula's landscape is shaped by glacial activity and is characterized by its dramatic cliffs, extensive peat bogs, and sparse vegetation. It's a haven for rare plant species and provides a glimpse into the islands' geological history.",
+        "bestTime": "November - March",
+        "bestLocations": [
+          "East Point Peninsula"
+        ],
+        "viewingTips": [
+          "Bring appropriate hiking gear",
+          "Be prepared for challenging terrain",
+          "Respect the fragile environment"
+        ],
+        "scientificData": {
+          "Elevation Range": "100m - 400m",
+          "Peat Bog Depth": "Up to 5m",
+          "Vegetation Type": "Peat moss, grasses, lichens"
+        },
+        "icon": "Mountain"
+      }
+    ],
+    "biodiversityCategory": {
+      "name": "Seabirds",
+      "icon": "Bird",
+      "description": "The Falkland Islands are a globally significant site for seabirds, supporting a remarkable diversity of species, including albatrosses, penguins, petrels, and shearwaters.",
+      "statistics": [
+        {
+          "category": "Albatrosses",
+          "count": "100,000+ pairs",
+          "details": "The Volunteer Islands host the largest albatross colony in the Southern Hemisphere."
+        },
+        {
+          "category": "Penguins",
+          "count": "20,000+ pairs",
+          "details": "Several penguin species breed on the islands, including Gentoo, Magellanic, and Rockhopper penguins."
+        }
+      ],
+      "notableSpecies": [
+        {
+          "name": "Black-browed Albatross",
+          "status": "Near Threatened",
+          "significance": "One of the largest albatross species in the world, vital for oceanic food webs."
+        },
+        {
+          "name": "Gentoo Penguin",
+          "status": "Least Concern",
+          "significance": "A highly adaptable penguin species, thriving in the Falkland Islands' environment."
+        }
+      ],
+      "threats": [
+        "Climate change",
+        "Predation by introduced mammals",
+        "Disturbance from tourism"
+      ],
+      "conservationEfforts": [
+        "Monitoring of seabird colonies",
+        "Control of invasive species",
+        "Sustainable tourism practices"
+      ]
+    },
+    "ecosystemData": {
+      "title": "Falkland Islands Ecosystem",
+      "overview": "The Falkland Islands boast a unique and fragile ecosystem shaped by its isolation, maritime climate, and distinctive geology. The islands' biodiversity is largely determined by its position within the Antarctic Convergence, a zone where cold, nutrient-rich waters from the Antarctic meet warmer waters from the sub-Antarctic.",
+      "conservationStatus": {
+        "protectedAreas": "15%",
+        "nationalParks": 2
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Seabirds",
+          "icon": "Bird",
+          "description": "As discussed above, the islands are a critical breeding ground for numerous seabird species.",
+          "statistics": [],
+          "notableSpecies": [],
+          "threats": [],
+          "conservationEfforts": []
+        },
+        {
+          "name": "Mammals",
+          "icon": "Leaf",
+          "description": "The islands are home to a small number of mammal species, including introduced sheep, rabbits, and the Falkland Islands fox.",
+          "statistics": [
+            {
+              "category": "Sheep",
+              "count": "120,000",
+              "details": "Sheep farming is a cornerstone of the islands' economy."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Falkland Islands Fox",
+              "status": "Vulnerable",
+              "significance": "A unique fox species endemic to the Falkland Islands."
+            }
+          ],
+          "threats": [
+            "Predation by introduced predators",
+            "Habitat loss"
+          ],
+          "conservationEfforts": [
+            "Control of invasive predators",
+            "Habitat restoration"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Activities in the Falkland Islands",
+      "description": "The Falkland Islands offer a diverse range of activities for visitors, from wildlife watching and hiking to fishing and kayaking. The islands' remote location and pristine environment provide a unique and unforgettable experience.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the islands' stunning landscapes on foot, discovering hidden valleys, dramatic cliffs, and diverse flora and fauna.",
+          "activities": [
+            {
+              "name": "East Point Peninsula Hike",
+              "difficulty": "Moderate",
+              "season": "November - March",
+              "duration": "4-6 hours",
+              "description": "A challenging hike through the rugged terrain of East Point Peninsula, offering spectacular coastal views.",
+              "bestLocations": [
+                "East Point Peninsula"
+              ],
+              "requirements": "Sturdy hiking boots, waterproof clothing, map, compass",
+              "safety": [
+                "Be aware of changing weather conditions",
+                "Stick to marked trails",
+                "Inform someone of your route"
+              ]
+            },
+            {
+              "name": "Volunteer Islands Trail",
+              "difficulty": "Easy",
+              "season": "November - March",
+              "duration": "2-4 hours",
+              "description": "A short, easy trail around the Volunteer Islands, providing close-up views of the albatross colonies.",
+              "bestLocations": [
+                "Volunteer Islands"
+              ],
+              "requirements": "Binoculars, camera",
+              "safety": [
+                "Maintain a respectful distance from the birds"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy the cool waters of the South Atlantic Ocean with a variety of water sports activities.",
+          "activities": [
+            {
+              "name": "Kayaking",
+              "difficulty": "Moderate",
+              "season": "November - March",
+              "duration": "2-4 hours",
+              "description": "Explore the sheltered bays and inlets of the islands by kayak, observing wildlife from a unique perspective.",
+              "bestLocations": [
+                "Stanley Bay",
+                "East Harbour"
+              ],
+              "requirements": "Kayak, paddle, life jacket",
+              "safety": [
+                "Wear a life jacket",
+                "Be aware of currents",
+                "Check weather conditions"
+              ]
+            },
+            {
+              "name": "Fishing",
+              "difficulty": "Easy",
+              "season": "Year-round",
+              "duration": "Variable",
+              "description": "Cast a line and try your luck at catching various species of fish in the surrounding waters.",
+              "bestLocations": [
+                "Stanley Harbour",
+                "Various coastal locations"
+              ],
+              "requirements": "Fishing license, rod, tackle",
+              "safety": [
+                "Follow fishing regulations",
+                "Be aware of marine hazards"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+          "winter": "Warm layers, waterproof jacket and trousers, hat, gloves, scarf",
+          "yearRound": "Layers are recommended due to unpredictable weather"
+        },
+        "equipment": {
+          "basic": "Passport, camera, binoculars, insect repellent",
+          "hiking": "Sturdy hiking boots, backpack, map, compass, first-aid kit",
+          "photography": "Camera with telephoto lens, tripod"
+        },
+        "safety": [
+          "Inform someone of your plans",
+          "Carry a first-aid kit",
+          "Be aware of wildlife",
+          "Respect the environment"
+        ]
+      }
+    }
+  }
+}

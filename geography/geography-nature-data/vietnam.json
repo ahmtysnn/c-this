@@ -1,0 +1,343 @@
+{
+  "name": "Vietnam",
+  "region": "Southeast Asia",
+  "description": "Vietnam, officially the Socialist Republic of Vietnam, is a Southeast Asian nation with a long and complex history. Bordering China to the north and Laos and Cambodia to the west, it boasts a diverse landscape ranging from the fertile Mekong Delta to the rugged mountains of the north.  Vietnam’s coastline stretches over 3,444 kilometers (2,141 miles), offering stunning beaches and vibrant marine life.  The country is known for its rich culture, delicious cuisine, and resilient people.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "98.2 Million",
+      "icon": "Users",
+      "description": "Vietnam has a large and growing population, contributing to its dynamic economy and vibrant culture.",
+      "detail": "The population density is high, particularly in the Red River Delta and Mekong Delta regions."
+    },
+    {
+      "label": "Area",
+      "value": "331,210 sq km (127,158 sq mi)",
+      "icon": "MapPin",
+      "description": "Vietnam's diverse geography includes mountains, plateaus, deltas, and coastline.",
+      "detail": "It's the 15th largest country in the world by area."
+    },
+    {
+      "label": "Capital",
+      "value": "Hanoi",
+      "icon": "MapPin",
+      "description": "Hanoi, the capital, is a bustling city with a rich history and vibrant cultural scene.",
+      "detail": "It's located in the north of Vietnam and serves as the political, economic, and cultural center."
+    },
+    {
+      "label": "Currency",
+      "value": "Vietnamese Dong (VND)",
+      "icon": "Clock",
+      "description": "The Vietnamese Dong is the official currency of Vietnam.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD is approximately 24,000 VND."
+    },
+    {
+      "label": "Languages",
+      "value": "Vietnamese, English (widely spoken in tourist areas)",
+      "icon": "Eye",
+      "description": "The official language is Vietnamese, with English increasingly common.",
+      "detail": "Regional dialects exist throughout the country."
+    }
+  ],
+  "climateData": {
+    "title": "Vietnam's Climate",
+    "description": "Vietnam experiences a tropical monsoon climate, characterized by distinct wet and dry seasons. Temperatures vary significantly across the country, with the north being cooler and the south being warmer.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - April)",
+        "period": "March - April",
+        "description": "Spring brings pleasant temperatures and blooming flowers, making it a popular time to visit.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Blooming flora",
+          "Festivals"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Summer (May - August)",
+        "period": "May - August",
+        "description": "Summer is hot and humid, with frequent rainfall, particularly in the central and southern regions.",
+        "keyFeatures": [
+          "High humidity",
+          "Heavy rainfall",
+          "Tropical storms"
+        ],
+        "activities": [
+          "Beach holidays",
+          "Water sports",
+          "Exploring the Mekong Delta"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn offers comfortable temperatures and clear skies, making it an ideal time for outdoor activities.",
+        "keyFeatures": [
+          "Cool and dry weather",
+          "Stunning landscapes",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Motorbiking",
+          "Visiting rice terraces"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is cool and dry, especially in the north, with occasional frost and fog.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Foggy mornings",
+          "Lower rainfall"
+        ],
+        "activities": [
+          "Visiting Sapa",
+          "Exploring caves",
+          "Cultural experiences"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Ha Long Bay",
+      "category": "Coastal",
+      "description": "Ha Long Bay is a UNESCO World Heritage site renowned for its thousands of limestone karsts and isles rising from the emerald waters. It's a breathtaking spectacle of natural beauty.",
+      "detailedDescription": "Formed over millions of years by the erosion of limestone, Ha Long Bay offers a unique and unforgettable experience.  The bay is dotted with caves, grottoes, and floating villages.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Bai Tu Long Bay",
+        "Lan Ha Bay"
+      ],
+      "viewingTips": [
+        "Take a cruise to explore the bay fully",
+        "Visit Sung Sot Cave (Surprise Cave)",
+        "Kayak through the limestone karsts"
+      ],
+      "scientificData": {
+        "Height": "Karsts up to 200m",
+        "Age": "Millions of years"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Phong Nha-Ke Bang National Park",
+      "category": "Mountain",
+      "description": "Phong Nha-Ke Bang National Park is a UNESCO World Heritage site famous for its incredible cave systems, including Son Doong, the world's largest cave.",
+      "detailedDescription": "The park boasts a diverse ecosystem, including rainforests, rivers, and limestone mountains.  It's a haven for biodiversity and a popular destination for adventure travelers.",
+      "bestTime": "Dry Season (November - April)",
+      "bestLocations": [
+        "Paradise Cave",
+        "Dark Cave"
+      ],
+      "viewingTips": [
+        "Book cave tours in advance",
+        "Wear appropriate clothing and footwear",
+        "Bring a flashlight"
+      ],
+      "scientificData": {
+        "Area": "400 sq km",
+        "Biodiversity": "Over 1,200 plant species"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Pu Luong Nature Reserve",
+      "category": "Mountain",
+      "description": "Pu Luong Nature Reserve offers stunning views of rice terraces, limestone mountains, and traditional villages, providing a glimpse into rural Vietnamese life.",
+      "detailedDescription": "The reserve is home to diverse flora and fauna, including rare primates and birds. It's a great place for trekking and experiencing authentic Vietnamese culture.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Hanoi",
+        "Thua Thien Hue"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Stay in a homestay",
+        "Explore the rice terraces"
+      ],
+      "scientificData": {
+        "Elevation": "1,000 - 1,500m",
+        "ForestCover": "70%"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Southeast Asian Rainforests",
+    "icon": "Leaf",
+    "description": "Vietnam's rainforests are incredibly diverse, harboring a vast array of plant and animal species, many of which are endemic to the region.",
+    "statistics": [
+      {
+        "category": "Plant Species",
+        "count": "Over 6,000",
+        "details": "Includes numerous rare and endangered species."
+      },
+      {
+        "category": "Animal Species",
+        "count": "Over 1,500",
+        "details": "Home to primates, reptiles, amphibians, and a wide variety of bird species."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Saola",
+        "status": "Critically Endangered",
+        "significance": "Known as the Asian Unicorn, it's one of the rarest large mammals in the world."
+      },
+      {
+        "name": "Red Shanked Douc",
+        "status": "Endangered",
+        "significance": "A critically endangered primate found only in Vietnam and Laos."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Habitat loss",
+      "Illegal wildlife trade"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Community-based conservation",
+      "Sustainable forestry"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Vietnam's Ecosystems",
+    "overview": "Vietnam’s ecosystems are incredibly diverse, ranging from tropical rainforests to mangrove forests, rice paddies, and coral reefs. These ecosystems provide vital services, including clean water, food security, and climate regulation.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 10
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mangrove Forests",
+        "icon": "Leaf",
+        "description": "Mangrove forests are vital coastal ecosystems that protect shorelines from erosion and provide habitat for numerous marine species.",
+        "statistics": [
+          {
+            "category": "Area",
+            "count": "Over 300,000 hectares",
+            "details": "Concentrated in the Mekong Delta and Red River Delta."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration",
+          "Sustainable aquaculture"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Vietnam",
+    "description": "Vietnam offers a wide range of outdoor activities for all levels of experience, from trekking and cycling to water sports and cultural tours.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Vietnam's stunning mountains and rice terraces on foot.",
+        "activities": [
+          {
+            "name": "Sapa Trekking",
+            "difficulty": "Moderate",
+            "season": "Spring & Autumn",
+            "duration": "1-3 days",
+            "description": "Trek through the rice terraces of Sapa, experiencing the local culture and stunning scenery.",
+            "bestLocations": [
+              "Sapa"
+            ],
+            "requirements": "Good hiking boots, layers of clothing",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Hire a local guide"
+            ]
+          },
+          {
+            "name": "Pu Luong Trekking",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring & Autumn",
+            "duration": "1-2 days",
+            "description": "Explore the lush forests and traditional villages of Pu Luong Nature Reserve.",
+            "bestLocations": [
+              "Pu Luong"
+            ],
+            "requirements": "Comfortable hiking shoes, insect repellent",
+            "safety": [
+              "Stay on marked trails",
+              "Respect local customs"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Vietnam's beautiful coastline and rivers.",
+        "activities": [
+          {
+            "name": "Kayaking in Ha Long Bay",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half Day - Full Day",
+            "description": "Explore the hidden caves and karsts of Ha Long Bay by kayak.",
+            "bestLocations": [
+              "Ha Long Bay"
+            ],
+            "requirements": "Life jacket, sunscreen",
+            "safety": [
+              "Follow the guide's instructions",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Snorkeling in Nha Trang",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Half Day",
+            "description": "Discover the vibrant coral reefs and marine life of Nha Trang Bay.",
+            "bestLocations": [
+              "Nha Trang"
+            ],
+            "requirements": "Snorkeling gear",
+            "safety": [
+              "Respect the marine environment",
+              "Avoid touching coral"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Warm jacket, sweater, scarf, hat",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, insect repellent",
+        "hiking": "Hiking boots, trekking poles",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Travel insurance",
+        "First-aid kit",
+        "Be aware of scams"
+      ]
+    }
+  }
+}

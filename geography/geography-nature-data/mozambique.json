@@ -1,0 +1,316 @@
+{
+  "name": "Mozambique",
+  "region": "Southeast Africa",
+  "description": "Mozambique is a southeastern African nation bordering the Indian Ocean. It’s known for its stunning coastline, diverse wildlife, and rich cultural heritage. The country has a complex history marked by Portuguese colonization and a long struggle for independence, culminating in a peaceful transition in 1975. Today, Mozambique is a developing nation focused on economic growth and sustainable development, while preserving its natural beauty and cultural traditions.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "801,590 sq km (310,074 sq mi)",
+      "icon": "MapPin",
+      "description": "Mozambique is the 34th largest country in the world.",
+      "detail": "Its vast territory encompasses diverse landscapes, from coastal plains to mountainous highlands."
+    },
+    {
+      "label": "Population",
+      "value": "32.35 million (2023 est.)",
+      "icon": "Users",
+      "description": "The population is largely concentrated along the coast.",
+      "detail": "The official language is Portuguese, but numerous local languages are spoken."
+    },
+    {
+      "label": "Capital",
+      "value": "Maputo",
+      "icon": "MapPin",
+      "description": "Maputo is the economic and political center of Mozambique.",
+      "detail": "It’s a vibrant port city with a rich history and culture."
+    },
+    {
+      "label": "Currency",
+      "value": "Mozambican Metical (MZN)",
+      "icon": "Coffee",
+      "description": "The Mozambican Metical is the official currency.",
+      "detail": "Exchange rates fluctuate, and it's advisable to check current rates before traveling."
+    },
+    {
+      "label": "GDP",
+      "value": "$8.3 billion (2023 est.)",
+      "icon": "Globe",
+      "description": "Mozambique's economy is heavily reliant on natural resources.",
+      "detail": "Agriculture, tourism, and mining are key sectors."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Mozambique",
+    "description": "Mozambique experiences a tropical climate with significant regional variations. The coastal areas are hot and humid year-round, while inland regions have distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season (November - April)",
+        "period": "November to April",
+        "description": "This period is characterized by heavy rainfall, flooding, and high humidity. It’s a time of lush vegetation and abundant wildlife.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Flooding",
+          "High humidity",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "River cruises",
+          "Fishing"
+        ]
+      },
+      {
+        "name": "Dry Season (May - October)",
+        "period": "May to October",
+        "description": "The dry season brings cooler temperatures, lower humidity, and less rainfall. It’s an ideal time for exploring national parks and beaches.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Cooler temperatures",
+          "Clear skies",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Diving",
+          "Beach relaxation"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Gorongosa National Park",
+      "category": "National Park",
+      "description": "Gorongosa National Park is a remarkable recovery story. Devastated by civil war in the 1990s, it’s now undergoing a massive restoration effort, boasting incredible biodiversity and wildlife populations. It’s a testament to the resilience of nature and the power of conservation.",
+      "detailedDescription": "The park encompasses a vast area of savanna, woodland, and riverine habitats, supporting a diverse range of animals including elephants, lions, leopards, rhinos, and numerous bird species. Ongoing research and conservation programs are crucial to its long-term survival.",
+      "bestTime": "June - October (Dry Season)",
+      "bestLocations": [
+        "Central Plateau",
+        "Riverine areas"
+      ],
+      "viewingTips": [
+        "Bring binoculars for wildlife spotting",
+        "Hire a local guide for optimal experience",
+        "Respect park regulations"
+      ],
+      "scientificData": {
+        "Area": "2000 sq km",
+        "Elevation": "700m - 2100m",
+        "Rainfall": "800-1200mm"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Bweca Archipelago",
+      "category": "Archipelago",
+      "description": "The Bweca Archipelago, located off the coast of Pemba, is a stunning collection of islands and coral reefs teeming with marine life. It’s a paradise for divers and snorkelers, offering a glimpse into a pristine underwater world.",
+      "detailedDescription": "The islands are characterized by white-sand beaches, turquoise waters, and lush vegetation. The surrounding coral reefs provide habitat for a vast array of fish, turtles, and other marine creatures. The area is also home to several endemic bird species.",
+      "bestTime": "May - September (Dry Season)",
+      "bestLocations": [
+        "Bweca Island",
+        "Matemo Island"
+      ],
+      "viewingTips": [
+        "Book a diving or snorkeling tour",
+        "Use reef-safe sunscreen",
+        "Respect marine life"
+      ],
+      "scientificData": {
+        "Coral Coverage": "60%",
+        "Fish Species": "Over 300",
+        "Turtle Species": "Green and Hawksbill"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Mozambique",
+    "overview": "Mozambique’s diverse ecosystems range from coastal mangrove forests and coral reefs to savanna grasslands, miombo woodlands, and mountainous highlands. These ecosystems support a rich array of plant and animal life, playing a vital role in the country’s biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Ecosystems",
+        "icon": "Fish",
+        "description": "Mozambique’s coastline is home to a vibrant marine ecosystem, including coral reefs, mangrove forests, and seagrass beds.",
+        "statistics": [
+          {
+            "category": "Coral Reef Area",
+            "count": "250,000 ha",
+            "details": "Supports a diverse range of marine life"
+          },
+          {
+            "category": "Mangrove Area",
+            "count": "1,200 ha",
+            "details": "Provides critical habitat for fish and birds"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Turtle",
+            "status": "Vulnerable",
+            "significance": "Important nesting site"
+          },
+          {
+            "name": "Humpback Whale",
+            "status": "Endangered",
+            "significance": "Migrates to Mozambican waters for breeding"
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Overfishing",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Marine Protected Areas",
+          "Sustainable fishing practices"
+        ]
+      },
+      {
+        "name": "Savanna Ecosystems",
+        "icon": "Leaf",
+        "description": "Mozambique’s savanna ecosystems are characterized by grasslands, woodlands, and scattered trees, supporting a wide range of herbivores and predators.",
+        "statistics": [
+          {
+            "category": "Savanna Area",
+            "count": "3,000,000 ha",
+            "details": "Home to large mammal populations"
+          },
+          {
+            "category": "Elephant Population",
+            "count": "5,000",
+            "details": "One of the largest elephant populations in Southern Africa"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "Keystone species"
+          },
+          {
+            "name": "African Lion",
+            "status": "Vulnerable",
+            "significance": "Apex predator"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community-based conservation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Mozambique",
+    "description": "Mozambique offers a wide range of activities for travelers, from wildlife safaris and diving to cultural experiences and beach relaxation.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Mozambique’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Gorongosa Hiking Trails",
+            "difficulty": "Moderate",
+            "season": "Dry Season (May-October)",
+            "duration": "2-6 hours",
+            "description": "Hike through the stunning landscapes of Gorongosa National Park, spotting wildlife along the way.",
+            "bestLocations": [
+              "Central Plateau",
+              "Riverine areas"
+            ],
+            "requirements": "Hiking boots, water, sunscreen, hat",
+            "safety": [
+              "Hire a local guide",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Maputo Hiking Trails",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "1-3 hours",
+            "description": "Enjoy scenic walks along the coastline and in the city parks of Maputo.",
+            "bestLocations": [
+              "Maputo Botanical Gardens",
+              "Bengo Beach"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Be aware of surroundings",
+              "Stay hydrated"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Experience the thrill of water sports in Mozambique’s warm Indian Ocean waters.",
+        "activities": [
+          {
+            "name": "Diving in Bweca Archipelago",
+            "difficulty": "Moderate",
+            "season": "Dry Season (May-September)",
+            "duration": "3-5 hours",
+            "description": "Explore the vibrant coral reefs and marine life of the Bweca Archipelago.",
+            "bestLocations": [
+              "Bweca Island",
+              "Matemo Island"
+            ],
+            "requirements": "Scuba certification, wetsuit, mask, fins",
+            "safety": [
+              "Dive with a certified operator",
+              "Follow dive briefings"
+            ]
+          },
+          {
+            "name": "Sailing in Pemba",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Enjoy sailing and cruising along the coast of Pemba, exploring hidden bays and islands.",
+            "bestLocations": [
+              "Pemba Bay",
+              "Ibo Island"
+            ],
+            "requirements": "Sunscreen, hat, sunglasses",
+            "safety": [
+              "Check weather conditions",
+              "Wear life jackets"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat",
+        "winter": "Long-sleeved shirts, trousers, light jacket, sweater",
+        "yearRound": "Comfortable walking shoes, sandals, rain jacket"
+      },
+      "equipment": {
+        "basic": "Insect repellent, first-aid kit, flashlight, reusable water bottle",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Be aware of local customs",
+        "Drink bottled water"
+      ]
+    }
+  }
+}

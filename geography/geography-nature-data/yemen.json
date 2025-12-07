@@ -1,0 +1,350 @@
+{
+  "name": "Yemen",
+  "region": "Middle East",
+  "description": "Yemen, a nation steeped in ancient history and breathtaking landscapes, is located at the southern end of the Arabian Peninsula.  It’s a land of dramatic mountains, vast deserts, and a Red Sea coastline, marked by a complex and often turbulent past.  Despite facing significant challenges, Yemen retains a rich cultural heritage, diverse ecosystems, and a resilient population.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "31,158,888 (2023 est.)",
+      "icon": "Users",
+      "description": "Yemen's population is a mix of ethnicities, with the majority being Arab.",
+      "detail": "Significant internal displacement due to ongoing conflict has impacted population distribution."
+    },
+    {
+      "label": "Capital",
+      "value": "Sana'a",
+      "icon": "MapPin",
+      "description": "Sana'a, nestled in the highlands, is Yemen's oldest city and a UNESCO World Heritage site.",
+      "detail": "The city is known for its unique mud-brick architecture and strategic location."
+    },
+    {
+      "label": "Area",
+      "value": "527,968 sq km (203,669 sq mi)",
+      "icon": "Globe",
+      "description": "Yemen is the Arab world's fourth-largest country by area.",
+      "detail": "The country is largely desert, with mountainous regions in the southwest and northeast."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "ArrowRight",
+      "description": "Various dialects of Arabic are spoken throughout the country.",
+      "detail": "Southern dialects differ significantly from those in the north."
+    },
+    {
+      "label": "Currency",
+      "value": "Yemeni Rial (YER)",
+      "icon": "Coffee",
+      "description": "The Yemeni Rial is currently experiencing significant instability.",
+      "detail": "Inflation and economic hardship are major concerns."
+    },
+    {
+      "label": "GDP",
+      "value": "$18.7 billion (2022 est.)",
+      "icon": "Zap",
+      "description": "Yemen's economy is heavily reliant on oil and agriculture.",
+      "detail": "The ongoing conflict has severely impacted economic growth."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Yemen",
+    "description": "Yemen experiences a predominantly hot and arid climate, influenced by its location on the Arabian Peninsula. Rainfall is scarce, concentrated mainly in the highlands and coastal areas. Temperatures fluctuate dramatically between day and night.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is extremely hot and dry, with temperatures often exceeding 40°C (104°F) in the interior.  Dust storms are common.",
+        "keyFeatures": [
+          "Extreme heat",
+          "Dust storms",
+          "Low humidity"
+        ],
+        "activities": [
+          "Limited outdoor activities",
+          "Seeking shade and air conditioning"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings a slight decrease in temperatures and increased rainfall, particularly in the highlands.  The landscape transforms with the arrival of wildflowers.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Increased rainfall",
+          "Wildflower blooms"
+        ],
+        "activities": [
+          "Hiking in the highlands",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is mild and relatively wet, with temperatures averaging between 15°C (59°F) and 20°C (68°F).  Snowfall is possible in the highlands.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Rainfall",
+          "Potential snowfall in highlands"
+        ],
+        "activities": [
+          "Hiking in the highlands",
+          "Exploring Sana'a"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring is a pleasant time of year, with warm temperatures and blooming vegetation.  The coastal areas experience a refreshing sea breeze.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Blooming vegetation",
+          "Sea breeze"
+        ],
+        "activities": [
+          "Coastal activities",
+          "Hiking"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Socotra Island",
+      "category": "Island",
+      "description": "Socotra Island, a UNESCO World Heritage site, is a unique and isolated island off the coast of Yemen. It’s renowned for its bizarre and endemic flora and fauna, often described as the ‘Galapagos of the Indian Ocean’.",
+      "detailedDescription": "The island boasts dragon blood trees, frankincense trees, and a diverse range of bird species. Its isolation has led to the evolution of plant and animal life found nowhere else on Earth.  The landscape is a mix of dramatic limestone cliffs, sandy beaches, and lush valleys.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "Qalansiyah",
+        "Hadiboh",
+        "Dixam"
+      ],
+      "viewingTips": [
+        "Hire a local guide to navigate the island.",
+        "Respect the fragile ecosystem.",
+        "Bring plenty of water."
+      ],
+      "scientificData": {
+        "Height": "900m (highest point)",
+        "Age": "Approximately 20 million years old",
+        "UniqueSpecies": "Over 37% of plant species are endemic"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Marib Dam and Surroundings",
+      "category": "Dam & Landscape",
+      "description": "The Marib Dam and its surrounding valley represent a significant historical and hydrological site.  It’s a vital source of water for Yemen and a testament to ancient engineering skills.",
+      "detailedDescription": "The dam, originally built centuries ago, has been rebuilt multiple times. The valley is characterized by its fertile plains, palm groves, and the ruins of ancient settlements.  It’s a crucial area for agriculture and water security.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "Marib City",
+        "Al-Hajra Plateau"
+      ],
+      "viewingTips": [
+        "Visit during the rainy season to witness the valley's lushness.",
+        "Explore the ancient ruins."
+      ],
+      "scientificData": {
+        "Area": "Approximately 100 sq km",
+        "WaterStorage": "Up to 300 million cubic meters"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Harra Mountains",
+      "category": "Mountain Range",
+      "description": "The Harra Mountains, located in northwestern Yemen, are a rugged and remote mountain range characterized by dramatic peaks and deep canyons.",
+      "detailedDescription": "These mountains are home to unique wildlife, including ibex and eagles. The landscape is dominated by limestone formations and sparse vegetation.  They offer challenging hiking opportunities and stunning views.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "Al-Hazaz",
+        "Al-Wadiah"
+      ],
+      "viewingTips": [
+        "Hire a local guide for navigation.",
+        "Be prepared for challenging terrain."
+      ],
+      "scientificData": {
+        "Elevation": "Up to 3,000m",
+        "GeologicalFormation": "Primarily limestone"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Endemic Flora",
+    "icon": "Leaf",
+    "description": "Yemen is a global hotspot for plant diversity, with a significant proportion of its flora found nowhere else on Earth.  The unique environmental conditions have fostered the evolution of remarkable species.",
+    "statistics": [
+      {
+        "category": "Endemic Plant Species",
+        "count": "Over 37%",
+        "details": "Approximately 37% of Yemen's plant species are endemic, highlighting its importance for global conservation."
+      },
+      {
+        "category": "Frankincense Trees",
+        "count": "Thousands",
+        "details": "Yemen is historically renowned for its frankincense trees, which are now threatened by habitat loss."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Dragon Blood Tree",
+        "status": "Vulnerable",
+        "significance": "A symbol of Yemen, known for its red resin and medicinal properties."
+      },
+      {
+        "name": "Socotra Rose",
+        "status": "Endangered",
+        "significance": "A unique rose species found only on Socotra Island."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Overexploitation"
+    ],
+    "conservationEfforts": [
+      "Protected area establishment",
+      "Community-based conservation programs"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Yemeni Ecosystems",
+    "overview": "Yemen’s ecosystems are incredibly diverse, ranging from arid deserts to humid highlands and coastal zones.  However, they are increasingly threatened by climate change, conflict, and unsustainable practices.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Yemen’s land area is protected within national parks and reserves.",
+      "nationalParks": 8
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Desert Ecosystems",
+        "icon": "Wind",
+        "description": "Dominated by sand dunes, rocky plateaus, and sparse vegetation, these ecosystems support specialized plant and animal life adapted to arid conditions.",
+        "statistics": [
+          {
+            "category": "Desert Plant Species",
+            "count": "Thousands",
+            "details": "A wide variety of drought-resistant plants thrive in the desert."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Desertification",
+          "Overgrazing"
+        ],
+        "conservationEfforts": [
+          "Rangeland management",
+          "Afforestation"
+        ]
+      },
+      {
+        "name": "Highland Ecosystems",
+        "icon": "Mountain",
+        "description": "The highlands of Yemen are characterized by cooler temperatures, higher rainfall, and lush vegetation, including forests and grasslands.",
+        "statistics": [
+          {
+            "category": "Forest Cover",
+            "count": "Approximately 3%",
+            "details": "Forest cover is limited due to deforestation and grazing pressure."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Deforestation",
+          "Overgrazing"
+        ],
+        "conservationEfforts": [
+          "Reforestation",
+          "Sustainable grazing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Yemen",
+    "description": "Yemen offers a range of outdoor activities, from hiking and wildlife viewing to exploring ancient sites and enjoying the coastal scenery. However, safety and security considerations must be carefully evaluated before undertaking any activity.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Yemen’s diverse landscapes on foot, from the highlands to the coastal trails.",
+        "activities": [
+          {
+            "name": "Harra Mountains Trek",
+            "difficulty": "Moderate",
+            "season": "Autumn - Spring",
+            "duration": "3-5 days",
+            "description": "A challenging trek through the rugged Harra Mountains, offering stunning views and opportunities to spot wildlife.",
+            "bestLocations": [
+              "Al-Hazaz"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen, local guide.",
+            "safety": [
+              "Potential for flash floods",
+              "Remote location"
+            ]
+          },
+          {
+            "name": "Socotra Island Trails",
+            "difficulty": "Easy - Moderate",
+            "season": "October - April",
+            "duration": "Variable",
+            "description": "Explore the unique landscapes of Socotra Island, including dragon blood forests and coastal trails.",
+            "bestLocations": [
+              "Qalansiyah"
+            ],
+            "requirements": "Hiking boots, water, sunscreen, insect repellent.",
+            "safety": [
+              "Limited medical facilities"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Viewing",
+        "icon": "Bird",
+        "description": "Yemen is home to a diverse range of wildlife, including ibex, eagles, and various bird species.",
+        "activities": [
+          {
+            "name": "Harra Mountains Wildlife Safari",
+            "difficulty": "Moderate",
+            "season": "Autumn - Spring",
+            "duration": "2-3 days",
+            "description": "Observe ibex and eagles in their natural habitat in the Harra Mountains.",
+            "bestLocations": [
+              "Al-Wadiah"
+            ],
+            "requirements": "Binoculars, camera, local guide.",
+            "safety": [
+              "Potential for encounters with wildlife"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, hat, sunglasses, sunscreen.",
+        "winter": "Warm layers, waterproof jacket, hat, gloves.",
+        "yearRound": "Comfortable walking shoes, long-sleeved shirts, long pants."
+      },
+      "equipment": {
+        "basic": "Water bottle, backpack, first-aid kit.",
+        "hiking": "Sturdy hiking boots, trekking poles.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Register with your embassy",
+        "Travel insurance",
+        "Be aware of your surroundings",
+        "Respect local customs"
+      ]
+    }
+  }
+}

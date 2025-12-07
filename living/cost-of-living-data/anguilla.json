@@ -1,0 +1,472 @@
+{
+  "country": "Anguilla",
+  "lastUpdated": "2025-12-07T13:12:54.377Z",
+  "currency": "USD",
+  "cities": [
+    {
+      "city": "The Valley",
+      "items": [
+        {
+          "item": "Meal, Inexpensive Restaurant",
+          "price": "18.00",
+          "min": "12.00",
+          "max": "25.00"
+        },
+        {
+          "item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+          "price": "10.00",
+          "min": "8.00",
+          "max": "12.00"
+        },
+        {
+          "item": "Cappuccino (regular)",
+          "price": "4.50",
+          "min": "3.50",
+          "max": "5.50"
+        },
+        {
+          "item": "Coke/Pepsi (0.33 liter bottle)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Water (0.33 liter bottle)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Milk (regular), (1 liter)",
+          "price": "1.20",
+          "min": "1.00",
+          "max": "1.50"
+        },
+        {
+          "item": "Loaf of Fresh White Bread (500g)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.00"
+        },
+        {
+          "item": "Rice (white), (1kg)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Eggs (regular) (12)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "4.50"
+        },
+        {
+          "item": "Local Cheese (1kg)",
+          "price": "10.00",
+          "min": "8.00",
+          "max": "12.00"
+        },
+        {
+          "item": "Chicken Fillets (1kg)",
+          "price": "8.00",
+          "min": "6.00",
+          "max": "10.00"
+        },
+        {
+          "item": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)",
+          "price": "12.00",
+          "min": "10.00",
+          "max": "15.00"
+        },
+        {
+          "item": "Apples (1kg)",
+          "price": "3.00",
+          "min": "2.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Banana (1kg)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Oranges (1kg)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.50"
+        },
+        {
+          "item": "Tomato (1kg)",
+          "price": "3.00",
+          "min": "2.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Potato (1kg)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Onion (1kg)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Lettuce (1 head)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Water (1.5 liter bottle)",
+          "price": "1.00",
+          "min": "0.50",
+          "max": "1.50"
+        },
+        {
+          "item": "Bottle of Wine (Mid-Range)",
+          "price": "12.00",
+          "min": "10.00",
+          "max": "15.00"
+        },
+        {
+          "item": "Domestic Beer (0.5 liter bottle)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Taxi Start (Normal Tariff)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "5.00"
+        },
+        {
+          "item": "Taxi 1km (Normal Tariff)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Gasoline (1 liter)",
+          "price": "1.20",
+          "min": "1.00",
+          "max": "1.50"
+        }
+      ]
+    },
+    {
+      "city": "Blowing Point",
+      "items": [
+        {
+          "item": "Meal, Inexpensive Restaurant",
+          "price": "17.00",
+          "min": "11.00",
+          "max": "23.00"
+        },
+        {
+          "item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+          "price": "10.00",
+          "min": "8.00",
+          "max": "12.00"
+        },
+        {
+          "item": "Cappuccino (regular)",
+          "price": "4.50",
+          "min": "3.50",
+          "max": "5.50"
+        },
+        {
+          "item": "Coke/Pepsi (0.33 liter bottle)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Water (0.33 liter bottle)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Milk (regular), (1 liter)",
+          "price": "1.20",
+          "min": "1.00",
+          "max": "1.50"
+        },
+        {
+          "item": "Loaf of Fresh White Bread (500g)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.00"
+        },
+        {
+          "item": "Rice (white), (1kg)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Eggs (regular) (12)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "4.50"
+        },
+        {
+          "item": "Local Cheese (1kg)",
+          "price": "10.00",
+          "min": "8.00",
+          "max": "12.00"
+        },
+        {
+          "item": "Chicken Fillets (1kg)",
+          "price": "8.00",
+          "min": "6.00",
+          "max": "10.00"
+        },
+        {
+          "item": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)",
+          "price": "12.00",
+          "min": "10.00",
+          "max": "15.00"
+        },
+        {
+          "item": "Apples (1kg)",
+          "price": "3.00",
+          "min": "2.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Banana (1kg)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Oranges (1kg)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.50"
+        },
+        {
+          "item": "Tomato (1kg)",
+          "price": "3.00",
+          "min": "2.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Potato (1kg)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Onion (1kg)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Lettuce (1 head)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Water (1.5 liter bottle)",
+          "price": "1.00",
+          "min": "0.50",
+          "max": "1.50"
+        },
+        {
+          "item": "Bottle of Wine (Mid-Range)",
+          "price": "12.00",
+          "min": "10.00",
+          "max": "15.00"
+        },
+        {
+          "item": "Domestic Beer (0.5 liter bottle)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Taxi Start (Normal Tariff)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "5.00"
+        },
+        {
+          "item": "Taxi 1km (Normal Tariff)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Gasoline (1 liter)",
+          "price": "1.20",
+          "min": "1.00",
+          "max": "1.50"
+        }
+      ]
+    },
+    {
+      "city": "Sandy Ground",
+      "items": [
+        {
+          "item": "Meal, Inexpensive Restaurant",
+          "price": "19.00",
+          "min": "13.00",
+          "max": "27.00"
+        },
+        {
+          "item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+          "price": "10.00",
+          "min": "8.00",
+          "max": "12.00"
+        },
+        {
+          "item": "Cappuccino (regular)",
+          "price": "4.50",
+          "min": "3.50",
+          "max": "5.50"
+        },
+        {
+          "item": "Coke/Pepsi (0.33 liter bottle)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Water (0.33 liter bottle)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Milk (regular), (1 liter)",
+          "price": "1.20",
+          "min": "1.00",
+          "max": "1.50"
+        },
+        {
+          "item": "Loaf of Fresh White Bread (500g)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.00"
+        },
+        {
+          "item": "Rice (white), (1kg)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Eggs (regular) (12)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "4.50"
+        },
+        {
+          "item": "Local Cheese (1kg)",
+          "price": "10.00",
+          "min": "8.00",
+          "max": "12.00"
+        },
+        {
+          "item": "Chicken Fillets (1kg)",
+          "price": "8.00",
+          "min": "6.00",
+          "max": "10.00"
+        },
+        {
+          "item": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)",
+          "price": "12.00",
+          "min": "10.00",
+          "max": "15.00"
+        },
+        {
+          "item": "Apples (1kg)",
+          "price": "3.00",
+          "min": "2.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Banana (1kg)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Oranges (1kg)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.50"
+        },
+        {
+          "item": "Tomato (1kg)",
+          "price": "3.00",
+          "min": "2.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Potato (1kg)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Onion (1kg)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Lettuce (1 head)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Water (1.5 liter bottle)",
+          "price": "1.00",
+          "min": "0.50",
+          "max": "1.50"
+        },
+        {
+          "item": "Bottle of Wine (Mid-Range)",
+          "price": "12.00",
+          "min": "10.00",
+          "max": "15.00"
+        },
+        {
+          "item": "Domestic Beer (0.5 liter bottle)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Taxi Start (Normal Tariff)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "5.00"
+        },
+        {
+          "item": "Taxi 1km (Normal Tariff)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Gasoline (1 liter)",
+          "price": "1.20",
+          "min": "1.00",
+          "max": "1.50"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "name": "Tunisia",
+  "region": "Africa",
+  "description": "Tunisia, officially the Republic of Tunisia, is a North African country with a rich history and diverse landscapes. Bordering the Mediterranean Sea, it boasts stunning coastlines, vast deserts, and the dramatic Atlas Mountains.  Known for its ancient ruins, vibrant culture, and delicious cuisine, Tunisia offers a unique blend of tradition and modernity.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Tunis",
+      "icon": "MapPin",
+      "description": "The political and economic heart of Tunisia.",
+      "detail": "Tunis is a sprawling metropolis with a historic medina and modern business districts."
+    },
+    {
+      "label": "Population",
+      "value": "12.5 million",
+      "icon": "Users",
+      "description": "A predominantly Arab population with Berber and European influences.",
+      "detail": "The population is concentrated along the coast and in the fertile plains."
+    },
+    {
+      "label": "Area",
+      "value": "163,610 sq km",
+      "icon": "Globe",
+      "description": "A relatively small country with varied terrain.",
+      "detail": "It's the smallest country in Africa by area."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "ArrowRight",
+      "description": "The primary language spoken throughout the country.",
+      "detail": "French is also widely spoken, particularly in business and tourism."
+    },
+    {
+      "label": "Currency",
+      "value": "TND (Tunisian Dinar)",
+      "icon": "Coffee",
+      "description": "The currency of Tunisia.",
+      "detail": "Exchange rates fluctuate, but generally stable."
+    },
+    {
+      "label": "GDP",
+      "value": "$29 billion (2023)",
+      "icon": "Zap",
+      "description": "A developing economy with tourism and agriculture as key sectors.",
+      "detail": "Diversification efforts are underway to reduce reliance on tourism."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Tunisia",
+    "description": "Tunisia experiences a Mediterranean climate, characterized by hot, dry summers and mild, wet winters. The coastal regions enjoy a more temperate climate than the interior.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Hot and dry, with temperatures often exceeding 35°C (95°F).  Sunshine is abundant.",
+        "keyFeatures": [
+          "High Temperatures",
+          "Low Rainfall",
+          "Strong Winds"
+        ],
+        "activities": [
+          "Swimming",
+          "Sunbathing",
+          "Water Sports"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Temperatures gradually cool down, and rainfall increases.  The landscape transforms with autumn colors.",
+        "keyFeatures": [
+          "Pleasant Temperatures",
+          "Increasing Rainfall",
+          "Colorful Landscapes"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Mild temperatures, particularly along the coast, with occasional rainfall. The Atlas Mountains experience colder temperatures and snowfall.",
+        "keyFeatures": [
+          "Mild Temperatures",
+          "Rainfall",
+          "Snow in the Mountains"
+        ],
+        "activities": [
+          "Exploring Ancient Sites",
+          "Visiting Markets",
+          "Relaxing"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Temperatures rise, and the landscape blooms with wildflowers.  It's a beautiful time to visit.",
+        "keyFeatures": [
+          "Warm Temperatures",
+          "Wildflowers",
+          "Blooming Landscapes"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Star Wars Set (Dougga)",
+      "category": "Archaeological Site",
+      "description": "Dougga is one of the best-preserved Roman cities in North Africa, offering a fascinating glimpse into the region's ancient past. It was famously used as a filming location for the Star Wars prequel trilogy.",
+      "detailedDescription": "The city boasts impressive ruins of temples, theaters, baths, and residential buildings.  Its strategic location and prosperous trade made it a vital center of the Roman Empire.",
+      "bestTime": "Spring or Autumn",
+      "bestLocations": [
+        "Dougga"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes.",
+        "Bring sunscreen and a hat.",
+        "Hire a local guide for a deeper understanding."
+      ],
+      "scientificData": {
+        "Height": "350m",
+        "Age": "Founded in the 6th century BC"
+      },
+      "icon": "Compass"
+    },
+    {
+      "id": 2,
+      "name": "Chott el Jerid",
+      "category": "Salt Lake",
+      "description": "Chott el Jerid is the largest salt lake in North Africa, a vast and surreal expanse of shimmering white. It's a unique and otherworldly landscape.",
+      "detailedDescription": "During the summer months, the lake surface becomes a mirror, reflecting the sky and creating stunning optical illusions. It's a popular spot for off-road driving and photography.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Near Tozeur"
+      ],
+      "viewingTips": [
+        "Drive carefully on the salt crust.",
+        "Bring sunglasses and sunscreen.",
+        "Be aware of the extreme heat."
+      ],
+      "scientificData": {
+        "Area": "Approximately 650 sq km",
+        "Salinity": "Extremely high"
+      },
+      "icon": "Navigation"
+    },
+    {
+      "id": 3,
+      "name": "Mount Bouden",
+      "category": "Mountain",
+      "description": "Mount Bouden is the highest peak in Tunisia, offering breathtaking panoramic views of the surrounding landscape. It's a challenging but rewarding climb.",
+      "detailedDescription": "The mountain is part of the Atlas Mountains and is known for its rugged terrain and diverse flora and fauna.  It's a popular destination for experienced hikers and mountaineers.",
+      "bestTime": "Spring or Autumn",
+      "bestLocations": [
+        "Near Kef"
+      ],
+      "viewingTips": [
+        "Check weather conditions before you go.",
+        "Bring appropriate hiking gear.",
+        "Hire a local guide."
+      ],
+      "scientificData": {
+        "Height": "1608m",
+        "GeologicalFormation": "Part of the Atlas Mountains"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Tunisian Ecosystems",
+    "overview": "Tunisia's diverse ecosystems range from the Mediterranean coast to the Sahara Desert and the Atlas Mountains. These ecosystems support a rich variety of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 20% of Tunisia's land area is protected.",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mediterranean Vegetation",
+        "icon": "Leaf",
+        "description": "Dominated by drought-resistant shrubs, herbs, and trees adapted to the hot, dry climate.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "Over 1,500",
+            "details": "A significant proportion are endemic to Tunisia."
+          },
+          {
+            "category": "Tree Species",
+            "count": "Around 100",
+            "details": "Olive trees and Phoenician pines are common."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Olive Tree",
+            "status": "Endemic",
+            "significance": "A symbol of Tunisia and a major agricultural product."
+          },
+          {
+            "name": "Phoenician Pine",
+            "status": "Vulnerable",
+            "significance": "A rare pine species found only in Tunisia."
+          }
+        ],
+        "threats": [
+          "Habitat Loss",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Protected Area Management",
+          "Reforestation Programs"
+        ]
+      },
+      {
+        "name": "Sahara Desert",
+        "icon": "Sun",
+        "description": "A vast and arid desert characterized by sand dunes, rocky plateaus, and sparse vegetation.",
+        "statistics": [
+          {
+            "category": "Sand Dune Area",
+            "count": "Approximately 85,000 sq km",
+            "details": "The Erg Chebbi dunes are among the highest in North Africa."
+          },
+          {
+            "category": "Desert Wildlife",
+            "count": "Limited",
+            "details": "Adapted species include reptiles, insects, and desert foxes."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Saharan Fox",
+            "status": "Vulnerable",
+            "significance": "A resilient species adapted to the harsh desert environment."
+          },
+          {
+            "name": "Sand Viper",
+            "status": "Endangered",
+            "significance": "A venomous snake found in the Sahara."
+          }
+        ],
+        "threats": [
+          "Desertification",
+          "Overgrazing"
+        ],
+        "conservationEfforts": [
+          "Sustainable Land Management",
+          "Wildlife Monitoring"
+        ]
+      }
+    ]
+  },
+  "biodiversityCategory": {
+    "name": "Birds of Tunisia",
+    "icon": "Bird",
+    "description": "Tunisia is a haven for birdwatchers, boasting a diverse range of avian species, including migratory birds.",
+    "statistics": [
+      {
+        "category": "Bird Species",
+        "count": "Over 300",
+        "details": "Many are migratory and rely on Tunisian wetlands."
+      },
+      {
+        "category": "Migratory Birds",
+        "count": "Approximately 10 million",
+        "details": "Pass through Tunisia during spring and autumn."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Barbary Macaque",
+        "status": "Endangered",
+        "significance": "The only macaque species found outside of Africa."
+      },
+      {
+        "name": "Shaheen (Peregrine Falcon)",
+        "status": "Near Threatened",
+        "significance": "A powerful predator and a symbol of the Tunisian landscape."
+      }
+    ],
+    "threats": [
+      "Habitat Loss",
+      "Illegal Hunting"
+    ],
+    "conservationEfforts": [
+      "Protected Area Management",
+      "Bird Sanctuaries"
+    ]
+  },
+  "activities": {
+    "title": "Activities in Tunisia",
+    "description": "Tunisia offers a wide range of activities for travelers of all interests, from exploring ancient ruins to enjoying the Mediterranean coast.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the diverse landscapes of Tunisia on foot.",
+        "activities": [
+          {
+            "name": "Mount Kouribou Hike",
+            "difficulty": "Hard",
+            "season": "Spring/Autumn",
+            "duration": "3-5 days",
+            "description": "A challenging trek to the summit of Mount Kouribou, offering stunning views.",
+            "bestLocations": [
+              "Jebel Kouribou"
+            ],
+            "requirements": "Good physical fitness, hiking boots, appropriate clothing.",
+            "safety": [
+              "Check weather conditions",
+              "Hire a local guide"
+            ]
+          },
+          {
+            "name": "Chenini Gorge Hike",
+            "difficulty": "Moderate",
+            "season": "Spring/Autumn",
+            "duration": "1-2 days",
+            "description": "Hike through the dramatic Chenini Gorge, a narrow canyon with towering cliffs.",
+            "bestLocations": [
+              "Chenini"
+            ],
+            "requirements": "Hiking boots, water, sunscreen.",
+            "safety": [
+              "Be aware of slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Mediterranean Sea with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Scuba Diving in Hammamet",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Half-day",
+            "description": "Explore the underwater world of Hammamet, known for its clear waters and diverse marine life.",
+            "bestLocations": [
+              "Hammamet"
+            ],
+            "requirements": "Snorkeling gear or scuba certification.",
+            "safety": [
+              "Follow dive operator instructions"
+            ]
+          },
+          {
+            "name": "Windsurfing in Djerba",
+            "difficulty": "Moderate",
+            "season": "Spring/Autumn",
+            "duration": "Full-day",
+            "description": "Take advantage of the strong winds and shallow waters of Djerba for windsurfing.",
+            "bestLocations": [
+              "Djerba"
+            ],
+            "requirements": "Windsurfing equipment, experience.",
+            "safety": [
+              "Be aware of strong winds"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat.",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves.",
+        "yearRound": "Comfortable walking shoes, sunglasses."
+      },
+      "equipment": {
+        "basic": "Reusable water bottle, backpack, first-aid kit.",
+        "hiking": "Hiking boots, trekking poles, map, compass.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Travel insurance",
+        "Learn basic Arabic phrases",
+        "Be aware of local customs"
+      ]
+    }
+  }
+}

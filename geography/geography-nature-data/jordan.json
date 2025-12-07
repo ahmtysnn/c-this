@@ -1,0 +1,368 @@
+{
+  "name": "Jordan",
+  "region": "Middle East",
+  "description": "Jordan, a captivating nation nestled at the crossroads of Asia and Africa, boasts a rich history, diverse landscapes, and a resilient culture. From the arid deserts of the east to the fertile plains of the west, Jordan offers a unique blend of ancient ruins, dramatic mountains, and the life-giving waters of the Jordan River.  Its strategic location has made it a pivotal point in human civilization for millennia, and today, it’s a country striving to balance tradition with modernity, welcoming visitors with open arms and a wealth of experiences.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "11.3 million",
+      "icon": "Users",
+      "description": "Jordan's population is a mix of diverse ethnic groups, primarily Arab, with significant Bedouin communities.",
+      "detail": "The majority of the population resides in urban centers like Amman, Irbid, and Zarqa."
+    },
+    {
+      "label": "Capital",
+      "value": "Amman",
+      "icon": "MapPin",
+      "description": "Amman, the vibrant capital, is a bustling metropolis blending ancient and modern architecture.",
+      "detail": "It’s Jordan’s largest city and a hub for commerce, culture, and education."
+    },
+    {
+      "label": "Area",
+      "value": "89,342 sq km (34,242 sq mi)",
+      "icon": "Globe",
+      "description": "Jordan is a relatively small country, easily traversed but packed with diverse landscapes.",
+      "detail": "It’s bordered by Syria to the north, Iraq to the northeast, Saudi Arabia to the east, and Israel and the Palestinian territories to the south."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "ArrowRight",
+      "description": "Modern Standard Arabic is the official language, with various dialects spoken throughout the country.",
+      "detail": "English is widely spoken, particularly in tourist areas and business settings."
+    },
+    {
+      "label": "Currency",
+      "value": "Jordanian Dinar (JOD)",
+      "icon": "Coffee",
+      "description": "The Jordanian Dinar is pegged to the US dollar.",
+      "detail": "Credit cards are widely accepted in urban areas, but cash is still useful in smaller towns and villages."
+    }
+  ],
+  "climateData": {
+    "title": "Jordan's Climate",
+    "description": "Jordan experiences a hot, arid climate with significant seasonal variations. Summers are scorching, while winters are mild and relatively wet, particularly in the north.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Long, hot, and dry summers dominate the landscape. Daytime temperatures frequently exceed 40°C (104°F).",
+        "keyFeatures": [
+          "Extreme heat",
+          "Low humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Desert exploration",
+          "Water sports (limited)",
+          "Nighttime activities"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Temperatures begin to cool, and rainfall increases, bringing a welcome respite from the summer heat.",
+        "keyFeatures": [
+          "Pleasant temperatures",
+          "Increased rainfall",
+          "Colorful foliage (in highlands)"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Mild and wet winters prevail, with temperatures ranging from 10°C to 20°C (50°F to 68°F). Snowfall is common in the mountainous regions.",
+        "keyFeatures": [
+          "Snowfall in mountains",
+          "Mild temperatures",
+          "Higher humidity"
+        ],
+        "activities": [
+          "Skiing (in Amman and Aqaba),  Winter hiking, Visiting Petra"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings blossoming landscapes and pleasant temperatures, making it an ideal time to visit Jordan.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Warm temperatures",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Exploring historical sites"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Petra",
+      "category": "Ancient City",
+      "description": "Petra, the 'Lost City,' is a UNESCO World Heritage site carved into sandstone cliffs. It was the capital of the Nabataean kingdom and is renowned for its stunning architecture and intricate water systems.",
+      "detailedDescription": "The city’s elaborate facades, including the Treasury and the Monastery, are a testament to the ingenuity and artistry of the Nabataeans.  It’s a breathtaking spectacle that has captivated visitors for centuries.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Siq",
+        "Treasury",
+        "Monastery",
+        "Royal Tombs"
+      ],
+      "viewingTips": [
+        "Arrive early to avoid crowds",
+        "Wear comfortable shoes",
+        "Bring water and sunscreen"
+      ],
+      "scientificData": {
+        "Height": "1000m",
+        "Age": "2000-3000 years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Wadi Rum",
+      "category": "Desert",
+      "description": "Wadi Rum, also known as the Valley of the Moon, is a protected desert wilderness characterized by towering sandstone mountains, dramatic rock formations, and vast sand dunes.",
+      "detailedDescription": "This otherworldly landscape has been featured in numerous films and documentaries, including Lawrence of Arabia.  It offers unparalleled opportunities for adventure and exploration.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Sand Dunes",
+        "Jebel Rum",
+        "Bedouin Camps"
+      ],
+      "viewingTips": [
+        "Dress warmly, especially at night",
+        "Respect local customs",
+        "Consider a camel or jeep tour"
+      ],
+      "scientificData": {
+        "Area": "7,200 sq km",
+        "Sand Dune Height": "150m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Dead Sea",
+      "category": "Lake",
+      "description": "The Dead Sea is the lowest point on Earth's surface and is renowned for its exceptionally high salt content, allowing visitors to float effortlessly.",
+      "detailedDescription": "Its mineral-rich waters are believed to have therapeutic properties. The surrounding landscape is a unique and surreal environment.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Beachfronts",
+        "Mud Baths",
+        "Viewpoints"
+      ],
+      "viewingTips": [
+        "Bring a waterproof bag",
+        "Use sunscreen and eye protection",
+        "Avoid swallowing the water"
+      ],
+      "scientificData": {
+        "Salinity": "34% (3.6 times saltier than the ocean)",
+        "Depth": "300m"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Jordan's Diverse Ecosystems",
+    "overview": "Jordan’s ecosystems range from arid deserts to fertile valleys and mountainous highlands, supporting a remarkable array of plant and animal life. Conservation efforts are crucial to protect these valuable resources.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Desert Ecosystems",
+        "icon": "Wind",
+        "description": "Dominated by sand dunes, rocky plateaus, and sparse vegetation, these ecosystems are home to specialized plants and animals adapted to extreme conditions.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "200+",
+            "details": "Many endemic species are found in the desert."
+          },
+          {
+            "category": "Animal Species",
+            "count": "150+",
+            "details": "Includes reptiles, insects, and desert foxes."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Dorcas Gazelle",
+            "status": "Vulnerable",
+            "significance": "A key indicator species for desert health."
+          },
+          {
+            "name": "Sand Cat",
+            "status": "Endangered",
+            "significance": "A rare and elusive predator."
+          }
+        ],
+        "threats": [
+          "Desertification",
+          "Overgrazing",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Reforestation projects",
+          "Protected area management",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Mediterranean Ecosystems",
+        "icon": "Leaf",
+        "description": "Located along the coast, these ecosystems are characterized by olive groves, citrus orchards, and Mediterranean vegetation.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "500+",
+            "details": "Rich biodiversity due to favorable climate and soil conditions."
+          },
+          {
+            "category": "Animal Species",
+            "count": "200+",
+            "details": "Includes migratory birds and various reptiles."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Barbary Macaque",
+            "status": "Endangered",
+            "significance": "Unique to the Dead Sea region."
+          },
+          {
+            "name": "European Bee-Eater",
+            "status": "Near Threatened",
+            "significance": "A colorful and distinctive bird."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Agricultural expansion",
+          "Water scarcity"
+        ],
+        "conservationEfforts": [
+          "Sustainable agriculture practices",
+          "Protected area expansion",
+          "Wildlife monitoring"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Jordan",
+    "description": "Jordan offers a wide range of outdoor activities for all skill levels, from hiking and camping to water sports and cultural tours.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Jordan’s diverse landscapes on foot, from the rugged mountains to the vast deserts.",
+        "activities": [
+          {
+            "name": "Petra Trail",
+            "difficulty": "Moderate",
+            "season": "Spring & Autumn",
+            "duration": "3-6 hours",
+            "description": "A challenging hike through the Siq to reach the Treasury and other iconic sites in Petra.",
+            "bestLocations": [
+              "Siq",
+              "Treasury",
+              "Monastery"
+            ],
+            "requirements": "Good hiking shoes, water, sunscreen",
+            "safety": [
+              "Stay hydrated",
+              "Be aware of the heat",
+              "Follow marked trails"
+            ]
+          },
+          {
+            "name": "Wadi Rum Trekking",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring & Autumn",
+            "duration": "Variable (half-day to multi-day)",
+            "description": "Explore the stunning landscapes of Wadi Rum on foot, accompanied by a Bedouin guide.",
+            "bestLocations": [
+              "Sand Dunes",
+              "Jebel Rum"
+            ],
+            "requirements": "Comfortable shoes, water, hat",
+            "safety": [
+              "Respect the environment",
+              "Stay with your guide"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in the Dead Sea and the Red Sea.",
+        "activities": [
+          {
+            "name": "Dead Sea Swimming",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Float effortlessly in the mineral-rich waters of the Dead Sea.",
+            "bestLocations": [
+              "Dead Sea Beaches"
+            ],
+            "requirements": "Swimsuit, waterproof bag",
+            "safety": [
+              "Avoid swallowing the water",
+              "Protect your skin"
+            ]
+          },
+          {
+            "name": "Red Sea Diving",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and diverse marine life of the Red Sea.",
+            "bestLocations": [
+              "Aqaba"
+            ],
+            "requirements": "Scuba certification (recommended)",
+            "safety": [
+              "Follow dive guidelines",
+              "Respect marine life"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, hat, sunglasses",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, sunscreen, insect repellent"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Stay hydrated",
+        "Be aware of the sun",
+        "Respect local customs"
+      ]
+    }
+  }
+}

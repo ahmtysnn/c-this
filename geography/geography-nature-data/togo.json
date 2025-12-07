@@ -1,0 +1,306 @@
+{
+  "name": "Togo",
+  "region": "West Africa",
+  "description": "Togo is a landlocked country in West Africa, known for its diverse landscapes, including coastal plains, rainforests, and savanna. It’s a nation with a rich cultural heritage, influenced by its history as a French colony and its traditional Vodun beliefs. Togo faces challenges related to poverty and infrastructure, but is actively working towards sustainable development and tourism.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Lomé",
+      "icon": "MapPin",
+      "description": "Lomé is the economic and political center of Togo.",
+      "detail": "It’s a bustling port city located on the Gulf of Guinea."
+    },
+    {
+      "label": "Population",
+      "value": "8.6 million",
+      "icon": "Users",
+      "description": "Togo has a young and growing population.",
+      "detail": "The median age is approximately 19 years."
+    },
+    {
+      "label": "Official Language",
+      "value": "French",
+      "icon": "Globe",
+      "description": "French is the official language of Togo.",
+      "detail": "Ewe and Kabye are also widely spoken indigenous languages."
+    },
+    {
+      "label": "Area",
+      "value": "56,785 sq km",
+      "icon": "MapPin",
+      "description": "Togo's land area is relatively small.",
+      "detail": "It's roughly the size of Vermont in the United States."
+    },
+    {
+      "label": "GDP",
+      "value": "$3.3 billion (2023)",
+      "icon": "Coffee",
+      "description": "Togo's economy is largely based on agriculture.",
+      "detail": "Cocoa and cotton are key export commodities."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Togo",
+    "description": "Togo experiences a tropical savanna climate, characterized by distinct wet and dry seasons. The coastal areas are humid, while the inland regions are drier.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "June - September",
+        "description": "The dry season brings cooler temperatures and less rainfall.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Clear skies",
+          "Reduced vegetation growth"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Hiking",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "October - May",
+        "description": "The wet season is marked by heavy rainfall and high humidity.",
+        "keyFeatures": [
+          "High rainfall",
+          "Increased humidity",
+          "Dense vegetation"
+        ],
+        "activities": [
+          "River cruises",
+          "Fishing",
+          "Exploring waterfalls"
+        ]
+      },
+      {
+        "name": "Harmattan Winds",
+        "period": "November - January",
+        "description": "A dry, dusty wind blows from the Sahara Desert, bringing cooler temperatures and reduced visibility.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Dusty conditions",
+          "Reduced visibility"
+        ],
+        "activities": [
+          "Indoor activities",
+          "Relaxation"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Kpassce Waterfalls",
+      "category": "Waterfall",
+      "description": "Kpassce Waterfalls are a series of stunning cascades located in the Kegué Mountains. They offer a refreshing escape into the heart of Togo's rainforest.",
+      "detailedDescription": "The falls are formed by the Kegué River plunging over multiple tiers, creating a dramatic and picturesque scene. The surrounding area is rich in biodiversity, with a variety of plant and animal life.",
+      "bestTime": "June - September (Dry Season)",
+      "bestLocations": [
+        "Kegué Mountains"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes for hiking",
+        "Bring insect repellent",
+        "Respect the local community"
+      ],
+      "scientificData": {
+        "Height": "80m",
+        "Width": "50m",
+        "FlowRate": "Variable, dependent on rainfall"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 2,
+      "name": "Mount Etame",
+      "category": "Mountain",
+      "description": "Mount Etame is the highest peak in Togo, offering panoramic views of the surrounding landscape.",
+      "detailedDescription": "This dormant volcano is a challenging but rewarding climb, providing a glimpse into Togo's geological history. The summit is covered in unique flora adapted to the high altitude.",
+      "bestTime": "March - May, September - November",
+      "bestLocations": [
+        "Savanna region"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Acclimatize to the altitude",
+        "Pack warm clothing"
+      ],
+      "scientificData": {
+        "Height": "1,098m",
+        "Age": "Approximately 3 million years"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Togo",
+    "overview": "Togo’s ecosystems range from coastal rainforests to savanna grasslands and montane forests. These diverse habitats support a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 3%",
+      "nationalParks": 4
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Togo’s forests are home to a vast array of plant and animal species, including primates, birds, and reptiles.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 500",
+            "details": "Many endemic species"
+          },
+          {
+            "category": "Biodiversity Index",
+            "count": "High",
+            "details": "Significant potential for ecotourism"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Togo Talking Parrot",
+            "status": "Vulnerable",
+            "significance": "Endemic to Togo"
+          },
+          {
+            "name": "Western Black Crowned White-Capped Monkey",
+            "status": "Endangered",
+            "significance": "Critically important for forest health"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Community-based forestry",
+          "Protected area management",
+          "Reforestation projects"
+        ]
+      },
+      {
+        "name": "Savanna",
+        "icon": "Leaf",
+        "description": "The savanna grasslands of Togo support large grazing animals and a variety of bird species.",
+        "statistics": [
+          {
+            "category": "Grassland Area",
+            "count": "Approximately 40%",
+            "details": "Vulnerable to overgrazing"
+          },
+          {
+            "category": "Wildlife Density",
+            "count": "Moderate",
+            "details": "Supports diverse grazing animals"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "Keystone species"
+          },
+          {
+            "name": "Red-Winged Francolin",
+            "status": "Near Threatened",
+            "significance": "Important seed disperser"
+          }
+        ],
+        "threats": [
+          "Overgrazing",
+          "Climate change",
+          "Agricultural expansion"
+        ],
+        "conservationEfforts": [
+          "Sustainable grazing practices",
+          "Wildlife corridor development",
+          "Community conservation programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Togo",
+    "description": "Togo offers a range of activities for adventure seekers and nature enthusiasts.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Togo’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Mount Etame Hike",
+            "difficulty": "Hard",
+            "season": "Dry Season",
+            "duration": "3-5 days",
+            "description": "A challenging trek to the summit of Mount Etame, offering stunning views.",
+            "bestLocations": [
+              "Savanna region"
+            ],
+            "requirements": "Good physical fitness, hiking boots, warm clothing",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of altitude sickness"
+            ]
+          },
+          {
+            "name": "Kpassce Waterfalls Trail",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "2-4 hours",
+            "description": "A scenic trail leading to the Kpassce Waterfalls.",
+            "bestLocations": [
+              "Kegué Mountains"
+            ],
+            "requirements": "Sturdy shoes, insect repellent",
+            "safety": [
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Viewing",
+        "icon": "Bird",
+        "description": "Observe Togo’s diverse wildlife in their natural habitat.",
+        "activities": [
+          {
+            "name": "Fauna Reserve Safari",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "3-7 days",
+            "description": "Explore protected areas and observe wildlife such as elephants, monkeys, and birds.",
+            "bestLocations": [
+              "Fauna Reserves"
+            ],
+            "requirements": "Binoculars, camera, sunscreen",
+            "safety": [
+              "Follow guide instructions",
+              "Maintain a safe distance from animals"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat",
+        "winter": "Warm jacket, sweater, long pants",
+        "yearRound": "Rain gear, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Respect local customs"
+      ]
+    }
+  }
+}

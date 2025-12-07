@@ -1,0 +1,339 @@
+{
+  "name": "Seychelles",
+  "region": "Africa",
+  "description": "Seychelles is an archipelago nation in the Indian Ocean, consisting of 115 islands, of which 34 are inhabited. Known for its stunning beaches, lush tropical forests, and unique biodiversity, it’s a haven for nature lovers and those seeking a luxurious escape. The islands boast a diverse range of ecosystems, from granite peaks to coral reefs, and are a UNESCO World Heritage Site recognized for their exceptional natural beauty.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Victoria",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, located on Mahé Island.",
+      "detail": "Victoria is a bustling port and the center of Seychelles' commerce and culture."
+    },
+    {
+      "label": "Population",
+      "value": "107,696",
+      "icon": "Users",
+      "description": "The population of this idyllic island nation.",
+      "detail": "The majority of the population resides on Mahé Island."
+    },
+    {
+      "label": "Official Language",
+      "value": "Seychellois Creole, English, French",
+      "icon": "Globe",
+      "description": "A blend of influences reflecting the nation's history.",
+      "detail": "Seychellois Creole is the most widely spoken language."
+    },
+    {
+      "label": "Currency",
+      "value": "Seychellois Rupee (SCR)",
+      "icon": "Coffee",
+      "description": "The local currency used throughout the islands.",
+      "detail": "1 SCR is approximately USD 0.60"
+    },
+    {
+      "label": "GDP",
+      "value": "USD 1.37 Billion (2022)",
+      "icon": "Zap",
+      "description": "A developing economy reliant on tourism and fisheries.",
+      "detail": "Tourism contributes significantly to the nation's economy."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Seychelles enjoys a warm, tropical climate year-round, characterized by high humidity and abundant rainfall. The islands experience two main seasons: the wet season (November to April) and the dry season (May to October).",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "May to October",
+        "description": "The dry season offers sunny skies, lower humidity, and less rainfall. It's ideal for outdoor activities and exploring the islands.",
+        "keyFeatures": [
+          "Sunny days",
+          "Low humidity",
+          "Calm seas",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Snorkeling",
+          "Diving",
+          "Boat trips"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "November to April",
+        "description": "The wet season brings increased rainfall, particularly in the afternoons. However, the rain is often short-lived, and the islands remain lush and vibrant.",
+        "keyFeatures": [
+          "High rainfall",
+          "Green landscapes",
+          "Increased humidity",
+          "Colorful sunsets"
+        ],
+        "activities": [
+          "Birdwatching",
+          "Waterfall hikes",
+          "Exploring rainforests"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": " Vallée de Mai Nature Reserve",
+      "category": "Botanical",
+      "description": "A UNESCO World Heritage Site, Vallée de Mai is a primeval forest home to the iconic Coco de Mer palm, known for its massive seeds. It’s a sanctuary for unique flora and fauna, including several endemic species.",
+      "detailedDescription": "The valley is a geological wonder, formed by a collapsed volcanic dome. Its dense vegetation and ancient trees create a mystical atmosphere.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "The Palm Grove",
+        "The Tower"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes for walking",
+        "Hire a guide to learn about the flora and fauna",
+        "Bring insect repellent"
+      ],
+      "scientificData": {
+        "Area": "312 hectares",
+        "Elevation": "100-200m",
+        "Age": "1.2 million years"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Anse Source d'Argent",
+      "category": "Coastal",
+      "description": "Often ranked among the world's most beautiful beaches, Anse Source d'Argent is famous for its granite boulders, turquoise waters, and pristine white sand. It’s a photographer’s paradise and a popular spot for swimming and sunbathing.",
+      "detailedDescription": "The unique rock formations were sculpted by centuries of wave action, creating a dramatic and picturesque landscape.",
+      "bestTime": "May to September (dry season)",
+      "bestLocations": [
+        "The beach itself",
+        "The rock pools"
+      ],
+      "viewingTips": [
+        "Arrive early to avoid crowds",
+        "Bring sunscreen and a hat",
+        "Take plenty of photos"
+      ],
+      "scientificData": {
+        "Sand Composition": "Granite and coral fragments",
+        "Water Temperature": "26-28°C"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Misère Point",
+      "category": "Geological",
+      "description": "Located on Mahé Island, Misère Point offers breathtaking panoramic views of the coastline and surrounding islands. The dramatic cliffs and rugged terrain create a stunning natural spectacle.",
+      "detailedDescription": "The point is named after the hardships faced by early settlers, who relied on its vantage point for navigation and survival.",
+      "bestTime": "May to September (dry season)",
+      "bestLocations": [
+        "The viewpoint",
+        "The coastal path"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes for walking",
+        "Bring binoculars for a closer look",
+        "Be mindful of the steep drop-offs"
+      ],
+      "scientificData": {
+        "Cliff Height": "150m",
+        "Rock Type": "Granite"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Seychelles Ecosystems",
+    "overview": "Seychelles boasts a remarkable diversity of ecosystems, including coral reefs, rainforests, granite peaks, and coastal wetlands. These ecosystems are home to a unique array of flora and fauna, many of which are endemic to the islands.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Biodiversity",
+        "icon": "Fish",
+        "description": "The coral reefs surrounding the islands are teeming with marine life, including colorful fish, sea turtles, and dolphins.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 300",
+            "details": "A significant portion are endemic."
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 800",
+            "details": "Including several rare and endangered species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Sea Turtle",
+            "status": "Endangered",
+            "significance": "A keystone species in the coral reef ecosystem."
+          },
+          {
+            "name": "Seychelles Giant Clam",
+            "status": "Vulnerable",
+            "significance": "One of the largest clams in the world."
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Overfishing",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices",
+          "Coral reef restoration"
+        ]
+      },
+      {
+        "name": "Terrestrial Biodiversity",
+        "icon": "Bird",
+        "description": "The islands' rainforests are home to a variety of endemic birds, reptiles, and insects.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "Over 170",
+            "details": "Many are found nowhere else on Earth."
+          },
+          {
+            "category": "Endemic Plants",
+            "count": "Over 400",
+            "details": "Unique species adapted to the island environment."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Seychelles Black Parrot",
+            "status": "Endangered",
+            "significance": "A critically endangered bird species."
+          },
+          {
+            "name": "Paradise Flycatcher",
+            "status": "Near Threatened",
+            "significance": "A beautiful and distinctive bird."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Invasive species",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Forest conservation",
+          "Invasive species control",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Seychelles Activities",
+    "description": "Seychelles offers a wide range of activities for visitors of all interests, from water sports to hiking and cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the islands' diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Morne Seychellois National Park Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-6 hours",
+            "description": "Hike to the summit of Morne Seychellois, the highest point on the islands.",
+            "bestLocations": [
+              "Bel Ombre",
+              "Sans Corniche"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails",
+              "Inform someone of your plans"
+            ]
+          },
+          {
+            "name": "Anse Georgette Trail",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "1-2 hours",
+            "description": "A scenic trail leading to the beautiful Anse Georgette beach.",
+            "bestLocations": [
+              "Praslin Island"
+            ],
+            "requirements": "Comfortable shoes",
+            "safety": [
+              "Respect private property"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in the crystal-clear waters of the Indian Ocean.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Granitic islands",
+              "Outer reefs"
+            ],
+            "requirements": "Certification, diving equipment",
+            "safety": [
+              "Follow dive guidelines",
+              "Check equipment"
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Discover the underwater world without diving.",
+            "bestLocations": [
+              "Anse Source d'Argent",
+              "Beau Vallon"
+            ],
+            "requirements": "Snorkel and mask",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Long-sleeved shirts, light jacket, rain gear",
+        "yearRound": "Comfortable clothing suitable for warm weather, insect repellent"
+      },
+      "equipment": {
+        "basic": "Sunglasses, camera, insect repellent",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera with zoom lens, tripod"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of wildlife",
+        "Respect local customs"
+      ]
+    }
+  }
+}

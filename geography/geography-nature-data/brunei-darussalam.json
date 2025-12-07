@@ -1,0 +1,313 @@
+{
+  "name": "Brunei Darussalam",
+  "region": "Southeast Asia",
+  "description": "Brunei Darussalam, often simply called Brunei, is a small, oil-rich nation located on the north coast of Borneo. It’s characterized by a unique blend of Malay, indigenous, and British influences, resulting in a rich cultural heritage. The country is renowned for its commitment to preserving its natural environment, particularly its rainforests and extensive mangrove areas.  Brunei’s economy is heavily reliant on oil and gas, but tourism is increasingly important, driven by its natural beauty and cultural attractions.",
+  "quickFacts": [
+    {
+      "label": "Official Language",
+      "value": "Malay",
+      "icon": "Globe",
+      "description": "Malay is the official language of Brunei. English is also widely spoken and used in government and business.",
+      "detail": "The language reflects a blend of Malay, Indonesian, and local dialects."
+    },
+    {
+      "label": "Population",
+      "value": "450,000",
+      "icon": "Users",
+      "description": "Brunei has a relatively small population, primarily Malay.",
+      "detail": "The population density is very high due to the country's limited land area."
+    },
+    {
+      "label": "Capital",
+      "value": "Bandar Seri Begawan",
+      "icon": "MapPin",
+      "description": "Bandar Seri Begawan is the capital and largest city of Brunei.",
+      "detail": "It’s a planned city known for its unique architecture and royal palace."
+    },
+    {
+      "label": "GDP per capita",
+      "value": "$48,830",
+      "icon": "Coffee",
+      "description": "Brunei boasts one of the highest GDP per capita in Southeast Asia.",
+      "detail": "This is largely due to its oil and gas reserves."
+    },
+    {
+      "label": "Religion",
+      "value": "Islam",
+      "icon": "Flame",
+      "description": "Islam is the state religion of Brunei.",
+      "detail": "The Sultan of Brunei is also the head of state and the spiritual leader."
+    },
+    {
+      "label": "Area",
+      "value": "5,765 sq km",
+      "icon": "Globe",
+      "description": "Brunei is a relatively small country.",
+      "detail": "It’s the second smallest country in Southeast Asia."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Rainforest Climate",
+    "description": "Brunei experiences a tropical rainforest climate, characterized by consistently high temperatures and humidity throughout the year. Rainfall is abundant, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season (November - March)",
+        "period": "November to March",
+        "description": "The wet season brings heavy rainfall, high humidity, and frequent thunderstorms. Rivers swell, and some areas become flooded.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Flooding",
+          "Green landscapes"
+        ],
+        "activities": [
+          "River cruises",
+          "Wildlife spotting (especially birds)",
+          "Exploring waterfalls"
+        ]
+      },
+      {
+        "name": "Dry Season (April - October)",
+        "period": "April to October",
+        "description": "The dry season offers pleasant temperatures and lower humidity. Rainfall is significantly reduced, and the sun shines brightly.",
+        "keyFeatures": [
+          "Sunny days",
+          "Low humidity",
+          "Clear skies",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Birdwatching",
+          "Exploring national parks"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Temburong Rainforest Reserve",
+      "category": "Rainforest",
+      "description": "The Temburong Rainforest Reserve is a vast expanse of pristine rainforest, home to a remarkable diversity of flora and fauna. It’s a crucial area for biodiversity conservation and offers incredible opportunities for ecotourism.",
+      "detailedDescription": "This reserve is particularly known for its unique plant species, including the Temburong fig tree, and its rich birdlife.  It’s a vital corridor connecting different parts of the country’s rainforests.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "Temburong River",
+        "Rainforest trails"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear appropriate footwear",
+        "Bring insect repellent"
+      ],
+      "scientificData": {
+        "Height": "Up to 200m",
+        "Age": "Millions of years"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Jerantut Mangrove Forest",
+      "category": "Mangrove",
+      "description": "The Jerantut Mangrove Forest is a stunning coastal ecosystem, characterized by dense mangrove forests and mudflats. It’s a vital habitat for numerous bird species and marine life.",
+      "detailedDescription": "The mangroves play a crucial role in protecting the coastline from erosion and providing a nursery ground for fish and other marine organisms.  It’s a significant area for carbon sequestration.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "Coastal mudflats",
+        "Mangrove trails"
+      ],
+      "viewingTips": [
+        "Bring binoculars",
+        "Wear waterproof boots",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Area": "10,000 hectares",
+        "Tree Density": "Over 100 trees per hectare"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Brunei’s Rainforest Ecosystem",
+    "overview": "Brunei’s rainforests are a globally significant biodiversity hotspot, representing a substantial portion of Borneo’s remaining primary rainforest. They are characterized by high rainfall, dense vegetation, and a remarkable array of plant and animal species.",
+    "conservationStatus": {
+      "protectedAreas": "70%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "Brunei is a birdwatcher’s paradise, boasting a diverse range of avian species, including hornbills, raptors, and migratory birds.",
+        "statistics": [
+          {
+            "category": "Species",
+            "count": "Over 200",
+            "details": "Includes several endemic species"
+          },
+          {
+            "category": "Migratory Birds",
+            "count": "10,000+",
+            "details": "During the dry season"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Helmeted Hornbill",
+            "status": "Vulnerable",
+            "significance": "Iconic species of Borneo"
+          },
+          {
+            "name": "Raja Brooke’s Pitta",
+            "status": "Endangered",
+            "significance": "Critically endangered endemic bird"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal hunting"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Mammals",
+        "icon": "Tree",
+        "description": "Brunei’s rainforests are home to a variety of mammals, including proboscis monkeys, clouded leopards, and various deer species.",
+        "statistics": [
+          {
+            "category": "Species",
+            "count": "Around 50",
+            "details": "Includes several nocturnal species"
+          },
+          {
+            "category": "Endemic Species",
+            "count": "10+",
+            "details": "Unique to Brunei and Borneo"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Proboscis Monkey",
+            "status": "Vulnerable",
+            "significance": "Unique to Borneo"
+          },
+          {
+            "name": "Clouded Leopard",
+            "status": "Vulnerable",
+            "significance": "Elusive predator"
+          }
+        ],
+        "threats": [
+          "Habitat fragmentation",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Brunei",
+    "description": "Brunei offers a range of outdoor activities, catering to various levels of experience and fitness.  The country’s natural beauty provides a stunning backdrop for adventure and exploration.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Brunei’s rainforests and hills on foot.",
+        "activities": [
+          {
+            "name": "Temburong Rainforest Trek",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "2-3 days",
+            "description": "A challenging trek through the Temburong Rainforest, offering stunning views and wildlife encounters.",
+            "bestLocations": [
+              "Temburong Rainforest Reserve"
+            ],
+            "requirements": "Hiking boots, insect repellent, water bottle",
+            "safety": [
+              "Inform someone of your route",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Jerantut Mangrove Trail",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "Half-day",
+            "description": "A leisurely walk through the Jerantut Mangrove Forest, offering a chance to observe wildlife and learn about the ecosystem.",
+            "bestLocations": [
+              "Jerantut Mangrove Forest"
+            ],
+            "requirements": "Comfortable shoes, sunscreen",
+            "safety": [
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Brunei River and coastal waters with a variety of water sports.",
+        "activities": [
+          {
+            "name": "River Cruise",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "Relaxing cruise along the Brunei River, offering views of the capital and surrounding areas.",
+            "bestLocations": [
+              "Brunei River"
+            ],
+            "requirements": "Sunscreen, hat",
+            "safety": [
+              "Follow instructions from the crew"
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "Half-day",
+            "description": "Explore the mangrove forests and coastal areas by kayak.",
+            "bestLocations": [
+              "Jerantut Mangrove Forest"
+            ],
+            "requirements": "Kayak, life jacket, sunscreen",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, hat",
+        "winter": "Long-sleeved shirts, trousers, jacket",
+        "yearRound": "Modest clothing is recommended when visiting religious sites"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, water bottle, flashlight",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, memory card"
+      },
+      "safety": [
+        "Respect local customs",
+        "Stay hydrated",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

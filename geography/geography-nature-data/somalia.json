@@ -1,0 +1,323 @@
+{
+  "name": "Somalia",
+  "region": "Eastern Africa",
+  "description": "Somalia, officially the Federal Republic of Somalia, is a country located in the Horn of Africa. It’s characterized by a predominantly arid and semi-arid climate, vast stretches of savanna, and a coastline along the Gulf of Aden and the Indian Ocean.  Historically a region of powerful sultanates and empires, Somalia has faced decades of conflict, political instability, and humanitarian crises. Despite these challenges, Somalia possesses a rich cultural heritage, diverse nomadic pastoralist traditions, and significant potential for economic development, particularly in sectors like livestock, fisheries, and tourism.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Mogadishu",
+      "icon": "MapPin",
+      "description": "The bustling capital and largest city of Somalia.",
+      "detail": "Mogadishu is a port city located on the Indian Ocean, and has been undergoing significant reconstruction efforts in recent years."
+    },
+    {
+      "label": "Population",
+      "value": "17.5 Million",
+      "icon": "Users",
+      "description": "Somalia's population is largely comprised of pastoralists and farmers.",
+      "detail": "The population is concentrated in rural areas, with a growing urban population in cities like Mogadishu, Hargeisa, and Kismayo."
+    },
+    {
+      "label": "Area",
+      "value": "637,650 sq km",
+      "icon": "Globe",
+      "description": "Somalia is a relatively small country in terms of land area.",
+      "detail": "It borders Ethiopia to the west, Kenya to the south, Djibouti to the northeast, and the Gulf of Aden to the north."
+    },
+    {
+      "label": "Official Language",
+      "value": "Somali",
+      "icon": "Calendar",
+      "description": "The national language of Somalia.",
+      "detail": "Somali is widely spoken throughout the country and is a key element of Somali identity."
+    },
+    {
+      "label": "Currency",
+      "value": "Somali Shilling (SOS)",
+      "icon": "Coffee",
+      "description": "The official currency of Somalia.",
+      "detail": "The Somali Shilling has experienced significant volatility in recent years."
+    },
+    {
+      "label": "Government",
+      "value": "Federal Republic",
+      "icon": "Navigation",
+      "description": "Somalia is currently transitioning towards a stable federal government.",
+      "detail": "The government faces ongoing challenges related to security, governance, and service delivery."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Somalia",
+    "description": "Somalia experiences a hot and arid climate, largely influenced by its location within the Somali rain shadow. Rainfall is highly variable and concentrated in the short rainy season (Gu) from October to December and the longer rainy season (Dig) from April to May.  The rest of the year is typically dry and hot.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Gu (Long Rainy Season)",
+        "period": "October - December",
+        "description": "The Gu season brings significant rainfall to northern and central Somalia, transforming the landscape and supporting vegetation growth.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Increased vegetation",
+          "Flooding"
+        ],
+        "activities": [
+          "Agricultural activities",
+          "Pastoral migration",
+          "Fishing"
+        ]
+      },
+      {
+        "name": "Dig (Short Rainy Season)",
+        "period": "April - May",
+        "description": "The Dig season brings a shorter, less intense period of rainfall to southern Somalia, crucial for the livelihoods of pastoral communities.",
+        "keyFeatures": [
+          "Moderate rainfall",
+          "Vegetation recovery",
+          "Increased animal grazing"
+        ],
+        "activities": [
+          "Pastoral herding",
+          "Crop planting",
+          "Fishing"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "June - September",
+        "description": "This period is characterized by intense heat, low humidity, and minimal rainfall. It's a challenging time for many communities.",
+        "keyFeatures": [
+          "High temperatures",
+          "Low humidity",
+          "Sparse vegetation"
+        ],
+        "activities": [
+          "Migration to water sources",
+          "Limited agricultural activity"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Dahab",
+      "category": "Coastal Oasis",
+      "description": "Dahab is a stunning coastal town located at the mouth of the Wadi Wayib River, where it meets the Red Sea. Known for its dramatic cliffs, clear turquoise waters, and vibrant coral reefs, it's a popular destination for diving and snorkeling.",
+      "detailedDescription": "The town’s history is intertwined with the Bedouin tribes who have traditionally inhabited the area.  The surrounding landscape offers a unique blend of desert and sea, creating a truly unforgettable experience.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Red Sea coastline",
+        "Wadi Wayib"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Respect local customs",
+        "Book diving tours in advance"
+      ],
+      "scientificData": {
+        "Water Temperature": "26-28°C",
+        "Depth": "Varies from 3m to 30m"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Dungonol Hulu",
+      "category": "Cave System",
+      "description": "Dungonol Hulu is a remarkable cave system in the Galguduud region, renowned for its extensive network of chambers, stalactites, and stalagmites. It’s one of the largest and most complex cave systems in Africa.",
+      "detailedDescription": "The caves are believed to have been used as shelters by nomadic tribes for centuries.  The unique geological formations within the caves are a testament to the region’s ancient history.",
+      "bestTime": "Dry season (October - May)",
+      "bestLocations": [
+        "Galguduud region"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear sturdy shoes",
+        "Bring a flashlight"
+      ],
+      "scientificData": {
+        "Length": "Approximately 150 km",
+        "Depth": "Up to 60m"
+      },
+      "icon": "Zap"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Somalia's Ecosystems",
+    "overview": "Somalia’s ecosystems are diverse, ranging from arid and semi-arid grasslands to coastal wetlands and mountainous regions.  However, decades of conflict and environmental degradation have significantly impacted these ecosystems.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 5%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Savanna Grasslands",
+        "icon": "Trees",
+        "description": "Dominating much of Somalia, these grasslands support a variety of grazing animals and provide habitat for numerous bird species.",
+        "statistics": [
+          {
+            "category": "Area",
+            "count": "80%",
+            "details": "Approximately 80% of Somalia's land area is covered by savanna grasslands."
+          },
+          {
+            "category": "Grass Species",
+            "count": "Over 100",
+            "details": "A wide variety of grass species contribute to the ecosystem's resilience."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Addax",
+            "status": "Endangered",
+            "significance": "A critically endangered antelope adapted to arid environments."
+          },
+          {
+            "name": "Dorcas Gazelle",
+            "status": "Vulnerable",
+            "significance": "A resilient gazelle found in the Somali grasslands."
+          }
+        ],
+        "threats": [
+          "Overgrazing",
+          "Desertification",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Community-based conservation programs",
+          "Rangeland management"
+        ]
+      },
+      {
+        "name": "Coastal Wetlands",
+        "icon": "Leaf",
+        "description": "Somalia’s coastline is fringed with wetlands, including mangrove forests and salt marshes, which provide crucial habitat for fish and birds.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 50,000 hectares",
+            "details": "Mangrove forests are vital for coastal protection and fisheries."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Saffron Fish",
+            "status": "Critically Endangered",
+            "significance": "A unique fish species found only in Somali waters."
+          },
+          {
+            "name": "Various Seabirds",
+            "status": "Varying",
+            "significance": "Important breeding grounds for migratory seabirds."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fisheries management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Somalia",
+    "description": "Despite the challenges, Somalia offers a range of activities for adventurous travelers and nature enthusiasts.  However, safety and security considerations must be carefully assessed before undertaking any activity.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the rugged landscapes and ancient ruins of Somalia on foot.",
+        "activities": [
+          {
+            "name": "Ruins of Harod",
+            "difficulty": "Moderate",
+            "season": "Dry Season (Oct-May)",
+            "duration": "3-5 hours",
+            "description": "Explore the remains of this ancient city, offering insights into Somalia's rich history.",
+            "bestLocations": [
+              "Galgaduud Region"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Travel with a local guide",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Wadi Galbeed Trek",
+            "difficulty": "Hard",
+            "season": "Dry Season (Oct-May)",
+            "duration": "5-7 days",
+            "description": "A challenging trek through the remote Wadi Galbeed, offering stunning views and a glimpse into nomadic life.",
+            "bestLocations": [
+              "Gubiley Mountains"
+            ],
+            "requirements": "Experienced trekking gear, navigation skills, water purification",
+            "safety": [
+              "Extreme weather conditions",
+              "Potential for encounters with wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the warm waters of the Red Sea and explore its vibrant coral reefs.",
+        "activities": [
+          {
+            "name": "Diving",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the diverse marine life and coral reefs of the Red Sea.",
+            "bestLocations": [
+              "Dahab, Berbera"
+            ],
+            "requirements": "Scuba certification, snorkeling gear",
+            "safety": [
+              "Respect marine life",
+              "Follow dive operator guidelines"
+            ]
+          },
+          {
+            "name": "Fishing",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Experience traditional Somali fishing techniques.",
+            "bestLocations": [
+              "Coastal areas"
+            ],
+            "requirements": "Fishing license, boat",
+            "safety": [
+              "Be aware of weather conditions",
+              "Follow local fishing regulations"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, hat",
+        "winter": "Warm layers, waterproof jacket, boots",
+        "yearRound": "Sunscreen, sunglasses, insect repellent"
+      },
+      "equipment": {
+        "basic": "First-aid kit, flashlight, water bottle",
+        "hiking": "Sturdy hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Travel insurance",
+        "Register with your embassy",
+        "Be aware of security risks",
+        "Respect local customs"
+      ]
+    }
+  }
+}

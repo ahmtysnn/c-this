@@ -1,0 +1,366 @@
+{
+  "name": "United States Virgin Islands",
+  "region": "Caribbean",
+  "description": "The United States Virgin Islands (USVI) are a captivating archipelago in the Caribbean Sea, comprised of St. Croix, St. John, and St. Thomas. Known for their pristine beaches, vibrant coral reefs, lush rainforests, and rich history, the islands offer a unique blend of relaxation, adventure, and cultural experiences.  The USVI boast a diverse ecosystem, a fascinating blend of European, African, and indigenous influences, and a relaxed, welcoming atmosphere.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "107,231 (2023 est.)",
+      "icon": "Users",
+      "description": "The population is a mix of long-term residents and seasonal visitors.",
+      "detail": "St. Croix has the largest population, followed by St. Thomas and St. John."
+    },
+    {
+      "label": "Area",
+      "value": "135 sq mi (350 sq km)",
+      "icon": "MapPin",
+      "description": "The islands are relatively small, making them easy to explore.",
+      "detail": "St. Croix is the largest island at 123 square miles."
+    },
+    {
+      "label": "Currency",
+      "value": "United States Dollar (USD)",
+      "icon": "Waves",
+      "description": "The US dollar is the official currency.",
+      "detail": "Credit cards are widely accepted."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Globe",
+      "description": "English is the official language, with Creole dialects also spoken.",
+      "detail": "Spanish is also understood and spoken by many residents."
+    },
+    {
+      "label": "Average Temperature",
+      "value": "84°F (29°C)",
+      "icon": "Sun",
+      "description": "Warm and sunny year-round.",
+      "detail": "Temperatures fluctuate slightly between the islands."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "The USVI enjoy a consistently warm and humid tropical climate, influenced by trade winds. Rainfall is distributed throughout the year, with a slightly wetter season from June to November.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Hot and humid with frequent showers.  Ideal for swimming and water activities.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent showers",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Swimming",
+          "Snorkeling",
+          "Boat trips",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Fall (September - November)",
+        "period": "September - November",
+        "description": "The start of the rainy season, with occasional hurricanes. Still warm and sunny, but with more precipitation.",
+        "keyFeatures": [
+          "Increased rainfall",
+          "Hurricane season",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Exploring rainforests",
+          "Scuba diving",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "The driest and coolest time of year, with pleasant temperatures and less humidity.  A popular time to visit.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Cooler temperatures",
+          "Less rainfall"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Boat trips",
+          "Scuba diving",
+          "Exploring historical sites"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Transition period with warm temperatures and increasing rainfall.  A good balance of weather conditions.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Increasing rainfall",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Hiking",
+          "Scuba diving",
+          "Fishing",
+          "Exploring local markets"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Buck Island Reef National Monument",
+      "category": "Marine",
+      "description": "A protected coral reef and island offering exceptional snorkeling and diving opportunities. It's a haven for diverse marine life and a significant historical site.",
+      "detailedDescription": "Buck Island is a volcanic tuff cone rising from the sea, surrounded by a vibrant coral reef teeming with colorful fish, sea turtles, and other marine creatures. The island also holds historical significance as a 17th-century Spanish fort.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Buck Island Beach",
+        "Snorkeling Reef"
+      ],
+      "viewingTips": [
+        "Bring underwater camera",
+        "Use reef-safe sunscreen",
+        "Respect marine life"
+      ],
+      "scientificData": {
+        "Depth": "30m",
+        "Coral Coverage": "80%"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Virgin Islands National Park",
+      "category": "Forest/Coastal",
+      "description": "A vast expanse of pristine rainforest and coastline, offering unparalleled hiking and nature experiences.",
+      "detailedDescription": "St. John’s Virgin Islands National Park encompasses nearly 70% of the island, protecting its unique ecosystem and stunning natural beauty. The park features numerous hiking trails, secluded beaches, and diverse plant and animal life.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Lind Point Trail",
+        "Reef Bay Trail",
+        "Francis Lindbergh Beach"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking shoes",
+        "Bring plenty of water",
+        "Respect wildlife"
+      ],
+      "scientificData": {
+        "Forest Cover": "68%",
+        "Biodiversity": "Over 100 plant species"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Cinnamon Bay",
+      "category": "Beach",
+      "description": "A beautiful white-sand beach with calm waters, perfect for swimming and relaxation.",
+      "detailedDescription": "Cinnamon Bay is known for its stunning turquoise waters, powdery white sand, and lush tropical vegetation. The bay offers excellent snorkeling opportunities and is a popular spot for picnics and beach games.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Cinnamon Bay Beach",
+        "Snorkeling Area"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Watch out for currents"
+      ],
+      "scientificData": {
+        "Sand Grain Size": "Fine",
+        "Water Temperature": "27°C"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Diverse Ecosystems",
+    "overview": "The USVI boast a remarkable diversity of ecosystems, ranging from vibrant coral reefs and lush rainforests to mangrove swamps and coastal wetlands. These ecosystems support a rich array of plant and animal life, contributing to the islands' unique biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 1
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Life",
+        "icon": "Fish",
+        "description": "The surrounding waters are home to a vast array of marine species, including coral, fish, sea turtles, and dolphins.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "50+",
+            "details": "Diverse coral formations create vibrant reef ecosystems."
+          },
+          {
+            "category": "Fish Species",
+            "count": "200+",
+            "details": "A wide variety of colorful reef fish inhabit the waters."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Sea Turtle",
+            "status": "Endangered",
+            "significance": "A keystone species in the marine ecosystem."
+          },
+          {
+            "name": "Humpback Whale",
+            "status": "Migratory",
+            "significance": "Breaches in the waters during the winter months."
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Plastic pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral restoration projects",
+          "Sustainable fishing practices"
+        ]
+      },
+      {
+        "name": "Forest Ecosystems",
+        "icon": "Trees",
+        "description": "The islands' interior is covered in dense rainforests, supporting a wide range of plant and animal life.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "150+",
+            "details": "Diverse tree species contribute to the rainforest's biodiversity."
+          },
+          {
+            "category": "Bird Species",
+            "count": "60+",
+            "details": "Numerous bird species inhabit the rainforest canopy."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Red-tailed Boa",
+            "status": "Vulnerable",
+            "significance": "A native snake species found in the rainforest."
+          },
+          {
+            "name": "Puerto Rican Coqui Frog",
+            "status": "Endangered",
+            "significance": "A unique frog species endemic to the islands."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Invasive species",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Forest conservation programs",
+          "Invasive species control",
+          "Reforestation projects"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures",
+    "description": "The USVI offer a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the islands' diverse trails and stunning landscapes.",
+        "activities": [
+          {
+            "name": "Lind Point Trail",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "A scenic trail along the coastline of St. John.",
+            "bestLocations": [
+              "St. John"
+            ],
+            "requirements": "Sturdy shoes, water",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Drake's Seat Trail",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1 hour",
+            "description": "Offers panoramic views of Magens Bay.",
+            "bestLocations": [
+              "St. Thomas"
+            ],
+            "requirements": "Comfortable shoes",
+            "safety": [
+              "Watch for slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters with a variety of water activities.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Buck Island Reef",
+              "Cane Bay"
+            ],
+            "requirements": "Snorkel gear, sunscreen",
+            "safety": [
+              "Respect marine life",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Discover the underwater wonders of the USVI.",
+            "bestLocations": [
+              "Coral Gardens",
+              "Dive Tract"
+            ],
+            "requirements": "Certification, scuba gear",
+            "safety": [
+              "Follow dive guidelines",
+              "Check equipment"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Layers of clothing, sweater, jacket, waterproof pants",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Sturdy hiking shoes, backpack, water bottle",
+        "photography": "Camera, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of weather conditions"
+      ]
+    }
+  }
+}

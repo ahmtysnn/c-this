@@ -1,0 +1,346 @@
+{
+  "CountryData": {
+    "name": "South Georgia and the South Sandwich Islands",
+    "region": "South America",
+    "description": "South Georgia and the South Sandwich Islands are a remote and largely uninhabited subantarctic archipelago located in the South Atlantic Ocean. Characterized by towering mountains, glaciers, and abundant wildlife, the islands offer a unique and dramatic landscape.  They are a crucial breeding ground for penguins, seals, and albatrosses, and hold significant scientific importance due to their role in climate research and biodiversity conservation.",
+    "quickFacts": [
+      {
+        "label": "Area",
+        "value": "3,988 km²",
+        "icon": "MapPin",
+        "description": "The total land area of the islands.",
+        "detail": "Includes both South Georgia and the South Sandwich Islands, encompassing diverse terrains."
+      },
+      {
+        "label": "Population",
+        "value": "Approximately 100",
+        "icon": "Users",
+        "description": "Primarily research station personnel and support staff.",
+        "detail": "No permanent civilian population exists on the islands."
+      },
+      {
+        "label": "Highest Point",
+        "value": "Mount Tindals",
+        "icon": "Mountain",
+        "description": "The highest peak on South Georgia.",
+        "detail": "Reaching 2,935 meters (9,631 ft) above sea level."
+      },
+      {
+        "label": "Climate",
+        "value": "Subantarctic",
+        "icon": "Thermometer",
+        "description": "Characterized by cold temperatures and high winds.",
+        "detail": "Experiences strong westerly winds and frequent storms."
+      },
+      {
+        "label": "Currency",
+        "value": "British Pound Sterling (GBP)",
+        "icon": "Navigation",
+        "description": "Used within research stations.",
+        "detail": "No local currency exists."
+      },
+      {
+        "label": "Time Zone",
+        "value": "GMT-2",
+        "icon": "Clock",
+        "description": "Follows Greenwich Mean Time.",
+        "detail": "A consistent time zone across the islands."
+      }
+    ],
+    "climateData": {
+      "title": "Climate Overview",
+      "description": "South Georgia and the South Sandwich Islands experience a harsh subantarctic climate.  Summers are cool and wet, with average temperatures around 10°C (50°F), while winters are bitterly cold, with temperatures frequently dropping below freezing.  Strong westerly winds are a constant feature, and snowfall is common, particularly in winter.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (November - March)",
+          "period": "November to March",
+          "description": "The warmest and wettest period, with increased daylight hours.",
+          "keyFeatures": [
+            "Increased daylight",
+            "Higher temperatures",
+            "Increased wildlife activity"
+          ],
+          "activities": [
+            "Hiking",
+            "Wildlife viewing",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Autumn (April - May)",
+          "period": "April to May",
+          "description": "Temperatures begin to drop, and the landscape transforms with autumn colors.",
+          "keyFeatures": [
+            "Falling temperatures",
+            "Changing foliage",
+            "Increased seabird activity"
+          ],
+          "activities": [
+            "Wildlife viewing",
+            "Hiking",
+            "Birdwatching"
+          ]
+        },
+        {
+          "name": "Winter (June - August)",
+          "period": "June to August",
+          "description": "The coldest and darkest period, with heavy snowfall and strong winds.",
+          "keyFeatures": [
+            "Low temperatures",
+            "Limited daylight",
+            "Heavy snowfall"
+          ],
+          "activities": [
+            "Research expeditions",
+            "Observation of penguin colonies"
+          ]
+        },
+        {
+          "name": "Spring (September - October)",
+          "period": "September to October",
+          "description": "Temperatures begin to rise, and the landscape starts to thaw.",
+          "keyFeatures": [
+            "Rising temperatures",
+            "Melting snow",
+            "Return of migratory birds"
+          ],
+          "activities": [
+            "Wildlife viewing",
+            "Hiking",
+            "Photography"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Deception Island",
+        "category": "Volcanic Caldera",
+        "description": "Deception Island is a unique volcanic caldera offering a surreal landscape of black sand beaches, geothermal areas, and steaming vents. It’s one of the southernmost volcanic habitations in the world.",
+        "detailedDescription": "Formed by a submerged volcano, the island boasts a flooded caldera, creating a sheltered harbor.  The geothermal activity creates a warm beach, a rare phenomenon in Antarctica, allowing visitors to bathe in the relatively warm waters.",
+        "bestTime": "Summer (November - March)",
+        "bestLocations": [
+          "Whale haven",
+          "Geothermal beach",
+          "Penguin colonies"
+        ],
+        "viewingTips": [
+          "Wear waterproof clothing",
+          "Be aware of strong winds",
+          "Respect wildlife"
+        ],
+        "scientificData": {
+          "Volcanic Activity": "Ongoing, but generally low-level",
+          "Water Temperature": "18-22°C (64-72°F) on the geothermal beach"
+        },
+        "icon": "Flame"
+      },
+      {
+        "id": 2,
+        "name": "Nelson Island",
+        "category": "Glacial Landscape",
+        "description": "Nelson Island is dominated by towering glaciers and rugged mountains, offering breathtaking views and a sense of remote wilderness.",
+        "detailedDescription": "The island is characterized by its extensive ice caps and numerous glaciers, including the impressive Endurance Glacier. It’s a haven for diverse wildlife, including king penguins and macaroni penguins.",
+        "bestTime": "Summer (November - March)",
+        "bestLocations": [
+          "Endurance Glacier",
+          "King Penguin colony",
+          "Macaroni Penguin colony"
+        ],
+        "viewingTips": [
+          "Bring binoculars for wildlife viewing",
+          "Be prepared for challenging hiking conditions",
+          "Respect the fragile environment"
+        ],
+        "scientificData": {
+          "Glacier Size": "Approximately 150 km²",
+          "Ice Thickness": "Average 1200 meters"
+        },
+        "icon": "Mountain"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Ecosystem Overview",
+      "overview": "South Georgia and the South Sandwich Islands support a remarkably diverse ecosystem, largely driven by the abundance of marine life and the relatively mild climate compared to other Antarctic regions. The islands are a critical breeding ground for numerous seabirds and marine mammals.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 15% of the islands are designated as protected areas.",
+        "nationalParks": 0
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Seabirds",
+          "icon": "Bird",
+          "description": "The islands are home to an extraordinary diversity of seabirds, representing approximately 60% of the world’s albatrosses and a significant portion of the global penguin population.",
+          "statistics": [
+            {
+              "category": "Albatrosses",
+              "count": "Approximately 1 million",
+              "details": "Including the Wandering Albatross and the Grey-headed Albatross"
+            },
+            {
+              "category": "Penguins",
+              "count": "Approximately 1 million",
+              "details": "Including King, Emperor, Macaroni, and Gentoo penguins"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Wandering Albatross",
+              "status": "Near Threatened",
+              "significance": "Largest wingspan of any living bird"
+            },
+            {
+              "name": "Emperor Penguin",
+              "status": "Near Threatened",
+              "significance": "The largest penguin species"
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Predation by introduced species"
+          ],
+          "conservationEfforts": [
+            "Monitoring of populations",
+            "Control of invasive species"
+          ]
+        },
+        {
+          "name": "Marine Mammals",
+          "icon": "Fish",
+          "description": "The surrounding waters are rich in marine life, supporting a variety of seals, whales, and dolphins.",
+          "statistics": [
+            {
+              "category": "Seals",
+              "count": "Approximately 100,000",
+              "details": "Including Leopard Seals, Weddell Seals, and South Georgia Seals"
+            },
+            {
+              "category": "Whales",
+              "count": "Various species",
+              "details": "Including Humpback Whales, Minke Whales, and Orcas"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Leopard Seal",
+              "status": "Least Concern",
+              "significance": "Apex predator of the Antarctic waters"
+            },
+            {
+              "name": "Humpback Whale",
+              "status": "Vulnerable",
+              "significance": "Migrates to the islands to breed"
+            }
+          ],
+          "threats": [
+            "Pollution",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas",
+            "Research on whale migration patterns"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Activities & Adventures",
+      "description": "South Georgia and the South Sandwich Islands offer a range of activities for adventurous travelers, from wildlife viewing to hiking and exploration.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the rugged terrain and stunning landscapes on foot.",
+          "activities": [
+            {
+              "name": "Mount Tindals Ascent",
+              "difficulty": "Hard",
+              "season": "Summer",
+              "duration": "6-8 hours",
+              "description": "A challenging hike to the summit of South Georgia’s highest peak.",
+              "bestLocations": [
+                "Nelson Island",
+                "Deception Island"
+              ],
+              "requirements": "Sturdy hiking boots, waterproof clothing, navigation skills",
+              "safety": [
+                "Weather conditions can change rapidly",
+                "Potential for falls"
+              ]
+            },
+            {
+              "name": "Coastal Trails",
+              "difficulty": "Moderate",
+              "season": "Summer",
+              "duration": "Variable",
+              "description": "Explore the coastline and discover hidden coves and beaches.",
+              "bestLocations": [
+                "Deception Island",
+                "Nelson Island"
+              ],
+              "requirements": "Hiking boots, sunscreen, insect repellent",
+              "safety": [
+                "Strong winds, slippery rocks"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Wildlife Viewing",
+          "icon": "Bird",
+          "description": "Observe the incredible array of wildlife that calls the islands home.",
+          "activities": [
+            {
+              "name": "Penguin Colony Visits",
+              "difficulty": "Easy",
+              "season": "Summer",
+              "duration": "Variable",
+              "description": "Witness the bustling activity of penguin colonies.",
+              "bestLocations": [
+                "Nelson Island",
+                "Deception Island"
+              ],
+              "requirements": "Binoculars, camera",
+              "safety": [
+                "Maintain a safe distance from wildlife"
+              ]
+            },
+            {
+              "name": "Whale Watching Tours",
+              "difficulty": "Easy",
+              "season": "Summer",
+              "duration": "3-4 hours",
+              "description": "Search for whales in the surrounding waters.",
+              "bestLocations": [
+                "Deception Island"
+              ],
+              "requirements": "Warm clothing, binoculars",
+              "safety": [
+                "Follow the guidance of experienced guides"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight waterproof jacket, fleece layers, hiking trousers, sturdy boots",
+          "winter": "Heavy insulated jacket, waterproof trousers, thermal layers, warm hat, gloves, waterproof boots",
+          "yearRound": "Warm layers, waterproof jacket and trousers, hat, gloves, scarf"
+        },
+        "equipment": {
+          "basic": "Sunscreen, insect repellent, sunglasses, hat, camera",
+          "hiking": "Hiking boots, backpack, map, compass, first-aid kit",
+          "photography": "Camera with telephoto lens, tripod"
+        },
+        "safety": [
+          "Inform someone of your itinerary",
+          "Carry a satellite phone or personal locator beacon (PLB)",
+          "Be aware of weather conditions",
+          "Respect wildlife"
+        ]
+      }
+    }
+  }
+}

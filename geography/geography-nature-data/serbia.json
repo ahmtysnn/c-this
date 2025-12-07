@@ -1,0 +1,370 @@
+{
+  "name": "Serbia",
+  "region": "Europe",
+  "description": "Serbia, officially the Republic of Serbia, is a landlocked country in Southeastern Europe. It boasts a rich history, diverse landscapes ranging from the Carpathian Mountains in the north to the Pannonian Plain in the south, and a vibrant culture influenced by various empires and civilizations. The country is known for its fertile plains, numerous rivers, and significant archaeological sites.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Belgrade",
+      "icon": "MapPin",
+      "description": "The bustling capital and largest city of Serbia.",
+      "detail": "Belgrade is situated on the confluence of the Sava and Danube rivers, a strategic location that has shaped its history."
+    },
+    {
+      "label": "Population",
+      "value": "7,100,000",
+      "icon": "Users",
+      "description": "Serbia's population is approximately 7.1 million.",
+      "detail": "The majority of the population identifies as Serbian, with significant minorities including Romani, Hungarian, and Albanian communities."
+    },
+    {
+      "label": "Area",
+      "value": "77,975 km²",
+      "icon": "Globe",
+      "description": "Serbia covers an area of 77,975 square kilometers.",
+      "detail": "It is bordered by Hungary to the northwest, Romania to the southwest, Bulgaria to the west, North Macedonia to the southwest, Bosnia and Herzegovina to the south, and Montenegro to the southeast."
+    },
+    {
+      "label": "Currency",
+      "value": "Dinar (RSD)",
+      "icon": "Coffee",
+      "description": "The official currency of Serbia is the Serbian Dinar.",
+      "detail": "The exchange rate fluctuates, but generally, 1 EUR is approximately 130 RSD."
+    },
+    {
+      "label": "Official Language",
+      "value": "Serbian",
+      "icon": "ArrowRight",
+      "description": "The official language is Serbian.",
+      "detail": "Serbian is a South Slavic language with distinct dialects.  Croatian, Macedonian, and Bosnian are mutually intelligible to varying degrees."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Serbia",
+    "description": "Serbia experiences a continental climate with hot summers and cold winters. Rainfall is distributed relatively evenly throughout the year, though mountainous regions receive more precipitation.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with blossoming trees and wildflowers transforming the landscape.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Blooming flora",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Picnics"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June - August",
+        "description": "Summer is hot and dry, with temperatures often exceeding 30°C (86°F).",
+        "keyFeatures": [
+          "High temperatures",
+          "Sunny days",
+          "Low rainfall"
+        ],
+        "activities": [
+          "Swimming",
+          "Water sports",
+          "Outdoor festivals"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September - November",
+        "description": "Autumn is characterized by cooler temperatures and vibrant foliage, particularly in the mountainous regions.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Colorful foliage",
+          "Moderate rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December - February",
+        "description": "Winter is cold and snowy, especially in the northern and mountainous areas.  Southern Serbia experiences milder winters.",
+        "keyFeatures": [
+          "Cold temperatures",
+          "Snowfall",
+          "Ice"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting Christmas markets"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Tara National Park",
+      "category": "Mountain",
+      "description": "Tara National Park is a stunning mountainous region in eastern Serbia, renowned for its dramatic canyons, dense forests, and diverse wildlife. It's a haven for hikers and nature enthusiasts.",
+      "detailedDescription": "The Drina River carves a deep canyon through the park, creating breathtaking views. The Biogradska Gora National Park, one of Europe's last virgin forests, is also located within Tara.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Zletovacka Luka",
+        "Malo Ohridje",
+        "Uvac Canyon"
+      ],
+      "viewingTips": [
+        "Bring sturdy hiking boots",
+        "Pack layers of clothing",
+        "Respect the wildlife"
+      ],
+      "scientificData": {
+        "Height": "1600m",
+        "Area": "191,800 ha",
+        "ForestCover": "98%"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Djerdap National Park (Iron Gate)",
+      "category": "River",
+      "description": "Djerdap National Park encompasses the Iron Gate gorge, where the Danube and Sava rivers meet. It's a spectacular landscape of cliffs, rapids, and historical sites.",
+      "detailedDescription": "The park is home to a variety of flora and fauna, including rare bird species. The Golubac Fortress, a medieval stronghold, is a prominent landmark within the park.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "Golubac Fortress",
+        "Iron Gate Bridge",
+        "Kladovo"
+      ],
+      "viewingTips": [
+        "Take a boat tour to explore the gorge",
+        "Visit the Golubac Fortress",
+        "Observe the birdlife"
+      ],
+      "scientificData": {
+        "Length": "20km",
+        "Width": "1000m",
+        "RiverFlow": "High"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 3,
+      "name": "Stara Planina (Old Mountain)",
+      "category": "Mountain",
+      "description": "Stara Planina, also known as the Old Mountain, stretches across central Serbia, offering a diverse landscape of forests, meadows, and rocky peaks.",
+      "detailedDescription": "The mountain is rich in historical sites, including ancient Thracian settlements and medieval monasteries. It's a popular destination for hiking, skiing, and wildlife observation.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Đeneral Jovanović's Fortress",
+        "Manastiri Studenica and Dečani",
+        "Kopaonik"
+      ],
+      "viewingTips": [
+        "Explore the historical sites",
+        "Hike to the mountain peaks",
+        "Observe the wildlife"
+      ],
+      "scientificData": {
+        "Height": "1641m",
+        "Length": "250km",
+        "ForestCover": "60%"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Serbia",
+    "overview": "Serbia's ecosystems are remarkably diverse, ranging from the fertile plains of the Pannonian Basin to the rugged mountains of the Balkan Peninsula. These ecosystems support a rich array of flora and fauna, including several endangered species.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 9
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Serbia's forests cover approximately 30% of the country's land area, providing habitat for a wide range of species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 200",
+            "details": "Diverse species including beech, oak, and fir."
+          },
+          {
+            "category": "Old-Growth Forests",
+            "count": "10,000 ha",
+            "details": "Remaining areas of pristine, untouched forests."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Brown Bear",
+            "status": "Vulnerable",
+            "significance": "A keystone species in the mountain ecosystems."
+          },
+          {
+            "name": "European Lynx",
+            "status": "Endangered",
+            "significance": "A rare and elusive predator."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Reforestation programs",
+          "Anti-poaching patrols"
+        ]
+      },
+      {
+        "name": "Rivers and Wetlands",
+        "icon": "Droplets",
+        "description": "Serbia's rivers and wetlands are vital habitats for fish, birds, and amphibians.",
+        "statistics": [
+          {
+            "category": "River Length",
+            "count": "Over 10,000 km",
+            "details": "Numerous rivers flowing into the Danube and Sava."
+          },
+          {
+            "category": "Wetland Area",
+            "count": "500 ha",
+            "details": "Important breeding grounds for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Sturgeon",
+            "status": "Endangered",
+            "significance": "A migratory fish of great ecological importance."
+          },
+          {
+            "name": "White Pelican",
+            "status": "Near Threatened",
+            "significance": "A large bird that relies on wetlands for breeding."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Habitat destruction",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "River cleanup programs",
+          "Wetland restoration",
+          "Sustainable fishing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Serbia",
+    "description": "Serbia offers a wide range of outdoor activities for all skill levels, from hiking and cycling to water sports and skiing.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Serbia's diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Tara National Park Hiking",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "3-8 hours",
+            "description": "Hike through the stunning canyons and forests of Tara National Park.",
+            "bestLocations": [
+              "Zletovacka Luka",
+              "Malo Ohridje"
+            ],
+            "requirements": "Sturdy hiking boots, water, snacks, map",
+            "safety": [
+              "Inform someone of your route",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Stara Planina Hiking",
+            "difficulty": "Easy - Hard",
+            "season": "June - September",
+            "duration": "2-12 hours",
+            "description": "Hike to the mountain peaks and explore the historical sites of Stara Planina.",
+            "bestLocations": [
+              "Đeneral Jovanović's Fortress",
+              "Manastiri Studenica and Dečani"
+            ],
+            "requirements": "Hiking boots, layers of clothing, water, sunscreen",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Carry a first-aid kit"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the rivers and lakes of Serbia with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Danube River Rafting",
+            "difficulty": "Moderate",
+            "season": "May - September",
+            "duration": "4-6 hours",
+            "description": "Raft down the scenic Danube River.",
+            "bestLocations": [
+              "Iron Gate",
+              "Donji Milanovac"
+            ],
+            "requirements": "Life jacket, helmet, wetsuit (depending on water temperature)",
+            "safety": [
+              "Follow the guide's instructions",
+              "Wear a life jacket"
+            ]
+          },
+          {
+            "name": "Lake Čerdin Water Skiing",
+            "difficulty": "Moderate",
+            "season": "June - August",
+            "duration": "1-3 hours",
+            "description": "Water ski on the clear waters of Lake Čerdin.",
+            "bestLocations": [
+              "Lake Čerdin"
+            ],
+            "requirements": "Water skis, life jacket, sunscreen",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of wind conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm coat, hat, gloves, scarf, waterproof boots",
+        "yearRound": "Layers of clothing, comfortable shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a first-aid kit",
+        "Be aware of weather conditions"
+      ]
+    }
+  }
+}

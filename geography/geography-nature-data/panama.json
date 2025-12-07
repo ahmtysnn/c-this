@@ -1,0 +1,392 @@
+{
+  "name": "Panama",
+  "region": "Central America",
+  "description": "Panama, a narrow nation bordering both the Caribbean Sea and the Pacific Ocean, is renowned for its strategic location, the Panama Canal, and its incredible biodiversity.  It boasts a diverse landscape ranging from lush rainforests and towering mountains to pristine beaches and arid plains.  A blend of indigenous, African, and European cultures contributes to a vibrant and unique national identity.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Panama City",
+      "icon": "MapPin",
+      "description": "The bustling capital city, a major economic and cultural hub.",
+      "detail": "Located on the Pacific coast, Panama City is a modern metropolis with a rich colonial history."
+    },
+    {
+      "label": "Population",
+      "value": "4.45 million",
+      "icon": "Users",
+      "description": "A growing population with a diverse ethnic makeup.",
+      "detail": "The majority of the population identifies as mixed indigenous and European descent."
+    },
+    {
+      "label": "Area",
+      "value": "75,517 sq km (29,077 sq mi)",
+      "icon": "Globe",
+      "description": "Relatively small but incredibly diverse in terms of geography.",
+      "detail": "Panama is the eighth-smallest country in Latin America."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "ArrowRight",
+      "description": "The primary language spoken throughout the country.",
+      "detail": "Indigenous languages are also spoken in certain regions."
+    },
+    {
+      "label": "Currency",
+      "value": "US Dollar (USD)",
+      "icon": "Zap",
+      "description": "The official currency of Panama.",
+      "detail": "The US dollar is widely accepted and used in commerce."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 22.6 billion (2023)",
+      "icon": "Thermometer",
+      "description": "A growing economy driven by tourism, finance, and canal operations.",
+      "detail": "Panama's economy is heavily reliant on the Panama Canal."
+    }
+  ],
+  "climateData": {
+    "title": "Panama's Climate",
+    "description": "Panama experiences a tropical climate with significant regional variations. The Caribbean side is generally warmer and more humid than the Pacific side. Rainfall is abundant throughout the year, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December - April",
+        "description": "The dry season is characterized by sunny skies, low humidity, and minimal rainfall. It's the most popular time to visit.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Beach relaxation",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May - November",
+        "description": "The wet season brings frequent showers and higher humidity. While rain is common, it often occurs in short bursts.",
+        "keyFeatures": [
+          "High rainfall",
+          "Increased humidity",
+          "Green landscapes"
+        ],
+        "activities": [
+          "River rafting",
+          "Waterfall exploration",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Hurricane Season",
+        "period": "June 1 - November 30",
+        "description": "Panama is susceptible to hurricanes during this period. Travelers should monitor weather forecasts and be prepared for potential disruptions.",
+        "keyFeatures": [
+          "Potential for hurricanes",
+          "Strong winds",
+          "Heavy rainfall"
+        ],
+        "activities": [
+          "Limited outdoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "San Blas Islands",
+      "category": "Archipelago",
+      "description": "A stunning archipelago of over 365 islands and cays, inhabited by the indigenous Kuna people. Known for its pristine beaches, turquoise waters, and vibrant coral reefs.",
+      "detailedDescription": "The islands offer a unique cultural experience and unparalleled opportunities for snorkeling, diving, and relaxation.  The Kuna people maintain their traditional way of life, welcoming visitors with open arms.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Isla Perro",
+        "Isla Bastimentos",
+        "Isla Zapatilla"
+      ],
+      "viewingTips": [
+        "Respect the local culture",
+        "Bring reef-safe sunscreen",
+        "Book tours in advance"
+      ],
+      "scientificData": {
+        "Depth": "Average 10m",
+        "Coral Coverage": "60%"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Soñé Rainforest",
+      "category": "Rainforest",
+      "description": "A pristine rainforest teeming with biodiversity, home to numerous endemic species and ancient trees.  It's a vital carbon sink and a crucial habitat for wildlife.",
+      "detailedDescription": "Soñé is one of the most biologically diverse areas in the world.  Its dense vegetation and challenging terrain make it a rewarding destination for experienced hikers and nature enthusiasts.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Rio Soñé",
+        "Cerro Soñé"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear appropriate hiking gear",
+        "Be prepared for rain"
+      ],
+      "scientificData": {
+        "Tree Height": "Up to 60m",
+        "Rainfall": "2500mm/year"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Barú National Park",
+      "category": "Mountain Range",
+      "description": "Located in the highlands of Panama, Barú National Park is home to the highest peak in the country, Volcán Barú, and offers stunning views of the surrounding landscape.",
+      "detailedDescription": "The park encompasses a diverse range of ecosystems, including cloud forests, paramo grasslands, and alpine tundra. It's a popular destination for hiking, birdwatching, and wildlife observation.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Volcán Barú summit",
+        "El Macho"
+      ],
+      "viewingTips": [
+        "Acclimatize to the altitude",
+        "Bring warm clothing",
+        "Check weather conditions"
+      ],
+      "scientificData": {
+        "Elevation": "3,370m",
+        "Vegetation Zones": "Cloud Forest, Paramo, Alpine Tundra"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Panama's Ecosystems",
+    "overview": "Panama’s ecosystems are incredibly diverse, ranging from tropical rainforests to coral reefs and cloud forests. These ecosystems are vital for the country’s biodiversity and provide essential services such as carbon sequestration and water regulation.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 8
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "Panama is a birdwatcher’s paradise, boasting over 900 species of birds, including numerous endemic and migratory species.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "100+",
+            "details": "Many bird species are found only in Panama."
+          },
+          {
+            "category": "Migratory Species",
+            "count": "50+",
+            "details": "Panama is a key stopover for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Resplendent Quetzal",
+            "status": "Vulnerable",
+            "significance": "A symbol of Panama and a globally recognized bird of beauty."
+          },
+          {
+            "name": "Bare-throated Tiger-Heron",
+            "status": "Endangered",
+            "significance": "A critically endangered heron found only in Panama."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal wildlife trade"
+        ],
+        "conservationEfforts": [
+          "Protected area expansion",
+          "Community-based conservation programs"
+        ]
+      },
+      {
+        "name": "Mammals",
+        "icon": "Leaf",
+        "description": "Panama is home to a variety of mammals, including jaguars, sloths, monkeys, and tapirs.",
+        "statistics": [
+          {
+            "category": "Endangered Species",
+            "count": "10+",
+            "details": "Several mammal species are threatened by habitat loss and poaching."
+          },
+          {
+            "category": "Endemic Species",
+            "count": "5+",
+            "details": "Unique mammal species are found only in Panama."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Near Threatened",
+            "significance": "The largest cat in the Americas."
+          },
+          {
+            "name": "Panama Tapir",
+            "status": "Vulnerable",
+            "significance": "A large, herbivorous mammal found in rainforests."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Road mortality"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Habitat restoration",
+          "Wildlife corridors"
+        ]
+      },
+      {
+        "name": "Reptiles & Amphibians",
+        "icon": "Leaf",
+        "description": "Panama has a rich diversity of reptiles and amphibians, including colorful frogs, snakes, and lizards.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "50+",
+            "details": "Many reptile and amphibian species are found only in Panama."
+          },
+          {
+            "category": "Threatened Species",
+            "count": "20+",
+            "details": "Several species are threatened by habitat loss and climate change."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Poison Dart Frogs",
+            "status": "Varying",
+            "significance": "Known for their vibrant colors and potent toxins."
+          },
+          {
+            "name": "Green Tree Python",
+            "status": "Vulnerable",
+            "significance": "A large, arboreal python found in rainforests."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Pet trade"
+        ],
+        "conservationEfforts": [
+          "Habitat protection",
+          "Captive breeding programs",
+          "Community education"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Panama",
+    "description": "Panama offers a wide range of outdoor activities for all skill levels, from hiking and birdwatching to water sports and adventure tours.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Panama’s diverse landscapes on foot, from rainforest trails to mountain peaks.",
+        "activities": [
+          {
+            "name": "Soñé Rainforest Trek",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-5 days",
+            "description": "A challenging trek through the heart of the Soñé Rainforest, offering opportunities to spot wildlife and experience the rainforest’s beauty.",
+            "bestLocations": [
+              "Soñé Rainforest"
+            ],
+            "requirements": "Hiking boots, rain gear, insect repellent",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Pipeline Trail",
+            "difficulty": "Hard",
+            "season": "Dry Season",
+            "duration": "1-3 days",
+            "description": "A strenuous hike through the Darién Gap, offering stunning views of the Pacific coast.",
+            "bestLocations": [
+              "Darién Gap"
+            ],
+            "requirements": "Sturdy hiking boots, plenty of water, navigation skills",
+            "safety": [
+              "Experienced hikers only",
+              "Hire a guide",
+              "Be prepared for challenging conditions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy Panama’s beautiful coastline with a variety of water sports activities.",
+        "activities": [
+          {
+            "name": "Scuba Diving in Bocas del Toro",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Half-day to full-day",
+            "description": "Explore the vibrant coral reefs and diverse marine life of Bocas del Toro.",
+            "bestLocations": [
+              "Bocas del Toro"
+            ],
+            "requirements": "Snorkeling gear or scuba certification",
+            "safety": [
+              "Dive with a certified operator",
+              "Follow safety guidelines"
+            ]
+          },
+          {
+            "name": "Surfing in Santa Catalina",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "Half-day to full-day",
+            "description": "Catch some waves at Santa Catalina, a popular surfing destination.",
+            "bestLocations": [
+              "Santa Catalina"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on the season)",
+            "safety": [
+              "Be aware of currents",
+              "Surf with a local instructor"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, rain jacket, sweater, long pants",
+        "yearRound": "Comfortable walking shoes, insect repellent"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, flashlight, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Be aware of your surroundings",
+        "Drink bottled water"
+      ]
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "country": "Guernsey",
+  "lastUpdated": "2025-12-07T14:08:02.141Z",
+  "currency": "USD",
+  "cities": [
+    {
+      "city": "Saint Peter Port",
+      "items": [
+        {
+          "item": "Meal, Inexpensive Restaurant",
+          "price": "20.00",
+          "min": "15.00",
+          "max": "28.00"
+        },
+        {
+          "item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+          "price": "9.00",
+          "min": "7.50",
+          "max": "10.50"
+        },
+        {
+          "item": "Cappuccino (regular)",
+          "price": "4.50",
+          "min": "3.50",
+          "max": "5.50"
+        },
+        {
+          "item": "Coke/Pepsi (0.33 liter bottle)",
+          "price": "2.20",
+          "min": "1.80",
+          "max": "2.60"
+        },
+        {
+          "item": "Water (0.33 liter bottle)",
+          "price": "1.70",
+          "min": "1.30",
+          "max": "2.10"
+        },
+        {
+          "item": "Milk (regular), (1 liter)",
+          "price": "1.30",
+          "min": "1.10",
+          "max": "1.50"
+        },
+        {
+          "item": "Loaf of Fresh White Bread (500g)",
+          "price": "2.70",
+          "min": "2.30",
+          "max": "3.10"
+        },
+        {
+          "item": "Rice (white), (1kg)",
+          "price": "2.30",
+          "min": "1.90",
+          "max": "2.70"
+        },
+        {
+          "item": "Eggs (regular) (12)",
+          "price": "4.00",
+          "min": "3.50",
+          "max": "4.50"
+        },
+        {
+          "item": "Local Cheese (1kg)",
+          "price": "12.00",
+          "min": "10.00",
+          "max": "14.00"
+        },
+        {
+          "item": "Chicken Fillets (1kg)",
+          "price": "9.00",
+          "min": "7.00",
+          "max": "11.00"
+        },
+        {
+          "item": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)",
+          "price": "13.00",
+          "min": "11.00",
+          "max": "15.00"
+        },
+        {
+          "item": "Apples (1kg)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Banana (1kg)",
+          "price": "1.80",
+          "min": "1.50",
+          "max": "2.10"
+        },
+        {
+          "item": "Oranges (1kg)",
+          "price": "3.00",
+          "min": "2.50",
+          "max": "3.50"
+        },
+        {
+          "item": "Tomato (1kg)",
+          "price": "3.20",
+          "min": "2.80",
+          "max": "3.60"
+        },
+        {
+          "item": "Potato (1kg)",
+          "price": "2.20",
+          "min": "1.80",
+          "max": "2.60"
+        },
+        {
+          "item": "Onion (1kg)",
+          "price": "1.70",
+          "min": "1.30",
+          "max": "2.10"
+        },
+        {
+          "item": "Lettuce (1 head)",
+          "price": "2.00",
+          "min": "1.60",
+          "max": "2.40"
+        },
+        {
+          "item": "Water (1.5 liter bottle)",
+          "price": "1.40",
+          "min": "1.00",
+          "max": "1.80"
+        },
+        {
+          "item": "Bottle of Wine (Mid-Range)",
+          "price": "14.00",
+          "min": "12.00",
+          "max": "16.00"
+        },
+        {
+          "item": "Domestic Beer (0.5 liter bottle)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.00"
+        },
+        {
+          "item": "Imported Beer (0.33 liter bottle)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Cigarettes 20 Pack (Marlboro)",
+          "price": "9.00",
+          "min": "7.00",
+          "max": "11.00"
+        },
+        {
+          "item": "One-way Ticket (Local Transport)",
+          "price": "2.30",
+          "min": "1.80",
+          "max": "2.80"
+        },
+        {
+          "item": "Monthly Pass (Regular Price)",
+          "price": "55.00",
+          "min": "45.00",
+          "max": "65.00"
+        },
+        {
+          "item": "Taxi Start (Normal Tariff)",
+          "price": "3.80",
+          "min": "3.30",
+          "max": "4.30"
+        },
+        {
+          "item": "Taxi 1km (Normal Tariff)",
+          "price": "2.10",
+          "min": "1.60",
+          "max": "2.60"
+        },
+        {
+          "item": "Taxi 1hour Waiting (Normal Tariff)",
+          "price": "25.00",
+          "min": "20.00",
+          "max": "30.00"
+        },
+        {
+          "item": "Gasoline (1 liter)",
+          "price": "1.30",
+          "min": "1.10",
+          "max": "1.50"
+        },
+        {
+          "item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",
+          "price": "160.00",
+          "min": "120.00",
+          "max": "200.00"
+        },
+        {
+          "item": "Imternet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+          "price": "55.00",
+          "min": "45.00",
+          "max": "65.00"
+        },
+        {
+          "item": "Fitness Club, Monthly Fee for 1 Adult",
+          "price": "45.00",
+          "min": "35.00",
+          "max": "55.00"
+        },
+        {
+          "item": "Tennis Court Rent (1 Hour on Weekend)",
+          "price": "22.00",
+          "min": "18.00",
+          "max": "26.00"
+        },
+        {
+          "item": "Cinema, International Release, 1 Seat",
+          "price": "13.00",
+          "min": "11.00",
+          "max": "15.00"
+        },
+        {
+          "item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+          "price": "850.00",
+          "min": "650.00",
+          "max": "1050.00"
+        },
+        {
+          "item": "International Primary School, Yearly for 1 Child",
+          "price": "16000.00",
+          "min": "10000.00",
+          "max": "20000.00"
+        },
+        {
+          "item": "1 Pair of Jeans (Levis 501 or Similar)",
+          "price": "65.00",
+          "min": "50.00",
+          "max": "85.00"
+        },
+        {
+          "item": "1 Summer Dress in Chain Store (Zara, H&M, ...)",
+          "price": "45.00",
+          "min": "35.00",
+          "max": "55.00"
+        },
+        {
+          "item": "1 Pair of Nike Running Shoes (Mid-Range)",
+          "price": "95.00",
+          "min": "75.00",
+          "max": "115.00"
+        },
+        {
+          "item": "1 Pair of Men Leather Business Shoes",
+          "price": "110.00",
+          "min": "90.00",
+          "max": "130.00"
+        },
+        {
+          "item": "Apartment (1 bedroom) in City Centre",
+          "price": "1650.00",
+          "min": "1300.00",
+          "max": "1850.00"
+        },
+        {
+          "item": "Apartment (1 bedroom) Outside of Centre",
+          "price": "1300.00",
+          "min": "1000.00",
+          "max": "1400.00"
+        },
+        {
+          "item": "Apartment (3 bedrooms) in City Centre",
+          "price": "2700.00",
+          "min": "2200.00",
+          "max": "3200.00"
+        },
+        {
+          "item": "Apartment (3 bedrooms) Outside of Centre",
+          "price": "2300.00",
+          "min": "1900.00",
+          "max": "2500.00"
+        },
+        {
+          "item": "Price per Square Meter to Buy Apartment in City Centre",
+          "price": "5200.00",
+          "min": "4200.00",
+          "max": "6200.00"
+        },
+        {
+          "item": "Price per Square Meter to Buy Apartment Outside of Centre",
+          "price": "3800.00",
+          "min": "3300.00",
+          "max": "4300.00"
+        },
+        {
+          "item": "Average Monthly Net Salary (After Tax)",
+          "price": "3300.00",
+          "min": "2300.00",
+          "max": "4300.00"
+        },
+        {
+          "item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+          "price": "5.50",
+          "min": "4.50",
+          "max": "6.50"
+        }
+      ]
+    }
+  ]
+}

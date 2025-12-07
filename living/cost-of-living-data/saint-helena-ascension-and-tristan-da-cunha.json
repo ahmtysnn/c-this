@@ -1,0 +1,634 @@
+{
+  "country": "Saint Helena, Ascension and Tristan da Cunha",
+  "lastUpdated": "2025-12-07T15:11:22.173Z",
+  "currency": "USD",
+  "cities": [
+    {
+      "city": "Jamestown",
+      "items": [
+        {
+          "item": "Meal, Inexpensive Restaurant",
+          "price": "20.00",
+          "min": "15.00",
+          "max": "28.00"
+        },
+        {
+          "item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+          "price": "12.00",
+          "min": "10.00",
+          "max": "14.00"
+        },
+        {
+          "item": "Cappuccino (regular)",
+          "price": "4.00",
+          "min": "3.00",
+          "max": "5.00"
+        },
+        {
+          "item": "Coke/Pepsi (0.33 liter bottle)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Water (0.33 liter bottle)",
+          "price": "1.50",
+          "min": "1.00",
+          "max": "2.00"
+        },
+        {
+          "item": "Milk (regular), (1 liter)",
+          "price": "1.20",
+          "min": "1.00",
+          "max": "1.50"
+        },
+        {
+          "item": "Loaf of Fresh White Bread (500g)",
+          "price": "3.00",
+          "min": "2.50",
+          "max": "3.50"
+        },
+        {
+          "item": "Rice (white), (1kg)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.00"
+        },
+        {
+          "item": "Eggs (regular) (12)",
+          "price": "4.00",
+          "min": "3.50",
+          "max": "4.50"
+        },
+        {
+          "item": "Local Cheese (1kg)",
+          "price": "12.00",
+          "min": "10.00",
+          "max": "14.00"
+        },
+        {
+          "item": "Chicken Fillets (1kg)",
+          "price": "9.00",
+          "min": "7.00",
+          "max": "11.00"
+        },
+        {
+          "item": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)",
+          "price": "14.00",
+          "min": "12.00",
+          "max": "16.00"
+        },
+        {
+          "item": "Apples (1kg)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "4.50"
+        },
+        {
+          "item": "Banana (1kg)",
+          "price": "1.75",
+          "min": "1.50",
+          "max": "2.25"
+        },
+        {
+          "item": "Oranges (1kg)",
+          "price": "3.00",
+          "min": "2.50",
+          "max": "3.50"
+        },
+        {
+          "item": "Tomato (1kg)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Potato (1kg)",
+          "price": "2.25",
+          "min": "2.00",
+          "max": "2.50"
+        },
+        {
+          "item": "Onion (1kg)",
+          "price": "1.75",
+          "min": "1.50",
+          "max": "2.00"
+        },
+        {
+          "item": "Lettuce (1 head)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Water (1.5 liter bottle)",
+          "price": "1.25",
+          "min": "1.00",
+          "max": "1.50"
+        },
+        {
+          "item": "Bottle of Wine (Mid-Range)",
+          "price": "10.00",
+          "min": "8.00",
+          "max": "12.00"
+        },
+        {
+          "item": "Domestic Beer (0.5 liter bottle)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.00"
+        },
+        {
+          "item": "Cigarettes 20 Pack (Marlboro)",
+          "price": "9.00",
+          "min": "7.00",
+          "max": "11.00"
+        },
+        {
+          "item": "One-way Ticket (Local Transport)",
+          "price": "3.00",
+          "min": "2.50",
+          "max": "3.50"
+        },
+        {
+          "item": "Monthly Pass (Regular Price)",
+          "price": "60.00",
+          "min": "50.00",
+          "max": "70.00"
+        },
+        {
+          "item": "Taxi Start (Normal Tariff)",
+          "price": "4.00",
+          "min": "3.50",
+          "max": "4.50"
+        },
+        {
+          "item": "Taxi 1km (Normal Tariff)",
+          "price": "2.25",
+          "min": "2.00",
+          "max": "2.50"
+        },
+        {
+          "item": "Taxi 1hour Waiting (Normal Tariff)",
+          "price": "25.00",
+          "min": "20.00",
+          "max": "30.00"
+        },
+        {
+          "item": "Gasoline (1 liter)",
+          "price": "1.30",
+          "min": "1.20",
+          "max": "1.40"
+        },
+        {
+          "item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",
+          "price": "180.00",
+          "min": "150.00",
+          "max": "220.00"
+        },
+        {
+          "item": "Imternet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+          "price": "55.00",
+          "min": "45.00",
+          "max": "65.00"
+        },
+        {
+          "item": "Fitness Club, Monthly Fee for 1 Adult",
+          "price": "45.00",
+          "min": "35.00",
+          "max": "55.00"
+        },
+        {
+          "item": "Tennis Court Rent (1 Hour on Weekend)",
+          "price": "22.00",
+          "min": "18.00",
+          "max": "26.00"
+        },
+        {
+          "item": "Cinema, International Release, 1 Seat",
+          "price": "14.00",
+          "min": "12.00",
+          "max": "16.00"
+        }
+      ]
+    },
+    {
+      "city": "Georgetown",
+      "items": [
+        {
+          "item": "Meal, Inexpensive Restaurant",
+          "price": "18.00",
+          "min": "14.00",
+          "max": "22.00"
+        },
+        {
+          "item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+          "price": "11.00",
+          "min": "9.00",
+          "max": "13.00"
+        },
+        {
+          "item": "Cappuccino (regular)",
+          "price": "3.75",
+          "min": "3.00",
+          "max": "4.50"
+        },
+        {
+          "item": "Coke/Pepsi (0.33 liter bottle)",
+          "price": "2.25",
+          "min": "1.75",
+          "max": "2.75"
+        },
+        {
+          "item": "Water (0.33 liter bottle)",
+          "price": "1.75",
+          "min": "1.25",
+          "max": "2.00"
+        },
+        {
+          "item": "Milk (regular), (1 liter)",
+          "price": "1.30",
+          "min": "1.00",
+          "max": "1.50"
+        },
+        {
+          "item": "Loaf of Fresh White Bread (500g)",
+          "price": "2.75",
+          "min": "2.25",
+          "max": "3.25"
+        },
+        {
+          "item": "Rice (white), (1kg)",
+          "price": "2.25",
+          "min": "1.75",
+          "max": "2.75"
+        },
+        {
+          "item": "Eggs (regular) (12)",
+          "price": "4.25",
+          "min": "3.75",
+          "max": "5.00"
+        },
+        {
+          "item": "Local Cheese (1kg)",
+          "price": "11.00",
+          "min": "9.00",
+          "max": "13.00"
+        },
+        {
+          "item": "Chicken Fillets (1kg)",
+          "price": "8.50",
+          "min": "7.00",
+          "max": "10.00"
+        },
+        {
+          "item": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)",
+          "price": "13.00",
+          "min": "11.00",
+          "max": "15.00"
+        },
+        {
+          "item": "Apples (1kg)",
+          "price": "3.25",
+          "min": "2.75",
+          "max": "4.00"
+        },
+        {
+          "item": "Banana (1kg)",
+          "price": "1.75",
+          "min": "1.50",
+          "max": "2.25"
+        },
+        {
+          "item": "Oranges (1kg)",
+          "price": "2.75",
+          "min": "2.25",
+          "max": "3.25"
+        },
+        {
+          "item": "Tomato (1kg)",
+          "price": "3.25",
+          "min": "2.75",
+          "max": "4.00"
+        },
+        {
+          "item": "Potato (1kg)",
+          "price": "2.25",
+          "min": "1.75",
+          "max": "2.75"
+        },
+        {
+          "item": "Onion (1kg)",
+          "price": "1.75",
+          "min": "1.50",
+          "max": "2.00"
+        },
+        {
+          "item": "Lettuce (1 head)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Water (1.5 liter bottle)",
+          "price": "1.25",
+          "min": "1.00",
+          "max": "1.50"
+        },
+        {
+          "item": "Bottle of Wine (Mid-Range)",
+          "price": "9.00",
+          "min": "7.00",
+          "max": "11.00"
+        },
+        {
+          "item": "Domestic Beer (0.5 liter bottle)",
+          "price": "2.25",
+          "min": "1.75",
+          "max": "2.75"
+        },
+        {
+          "item": "Cigarettes 20 Pack (Marlboro)",
+          "price": "8.50",
+          "min": "7.00",
+          "max": "10.00"
+        },
+        {
+          "item": "One-way Ticket (Local Transport)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.00"
+        },
+        {
+          "item": "Monthly Pass (Regular Price)",
+          "price": "55.00",
+          "min": "45.00",
+          "max": "65.00"
+        },
+        {
+          "item": "Taxi Start (Normal Tariff)",
+          "price": "3.75",
+          "min": "3.25",
+          "max": "4.25"
+        },
+        {
+          "item": "Taxi 1km (Normal Tariff)",
+          "price": "2.25",
+          "min": "1.75",
+          "max": "2.75"
+        },
+        {
+          "item": "Taxi 1hour Waiting (Normal Tariff)",
+          "price": "22.00",
+          "min": "18.00",
+          "max": "26.00"
+        },
+        {
+          "item": "Gasoline (1 liter)",
+          "price": "1.35",
+          "min": "1.25",
+          "max": "1.45"
+        },
+        {
+          "item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",
+          "price": "190.00",
+          "min": "150.00",
+          "max": "230.00"
+        },
+        {
+          "item": "Imternet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+          "price": "60.00",
+          "min": "50.00",
+          "max": "70.00"
+        },
+        {
+          "item": "Fitness Club, Monthly Fee for 1 Adult",
+          "price": "48.00",
+          "min": "38.00",
+          "max": "58.00"
+        },
+        {
+          "item": "Tennis Court Rent (1 Hour on Weekend)",
+          "price": "23.00",
+          "min": "19.00",
+          "max": "27.00"
+        },
+        {
+          "item": "Cinema, International Release, 1 Seat",
+          "price": "15.00",
+          "min": "13.00",
+          "max": "17.00"
+        }
+      ]
+    },
+    {
+      "city": "Edinburgh of the Seven Seas",
+      "items": [
+        {
+          "item": "Meal, Inexpensive Restaurant",
+          "price": "19.00",
+          "min": "15.00",
+          "max": "23.00"
+        },
+        {
+          "item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+          "price": "11.50",
+          "min": "9.50",
+          "max": "13.50"
+        },
+        {
+          "item": "Cappuccino (regular)",
+          "price": "3.90",
+          "min": "3.25",
+          "max": "4.75"
+        },
+        {
+          "item": "Coke/Pepsi (0.33 liter bottle)",
+          "price": "2.25",
+          "min": "1.75",
+          "max": "2.75"
+        },
+        {
+          "item": "Water (0.33 liter bottle)",
+          "price": "1.75",
+          "min": "1.25",
+          "max": "2.00"
+        },
+        {
+          "item": "Milk (regular), (1 liter)",
+          "price": "1.35",
+          "min": "1.00",
+          "max": "1.50"
+        },
+        {
+          "item": "Loaf of Fresh White Bread (500g)",
+          "price": "2.80",
+          "min": "2.30",
+          "max": "3.30"
+        },
+        {
+          "item": "Rice (white), (1kg)",
+          "price": "2.30",
+          "min": "1.80",
+          "max": "2.80"
+        },
+        {
+          "item": "Eggs (regular) (12)",
+          "price": "4.50",
+          "min": "3.75",
+          "max": "5.25"
+        },
+        {
+          "item": "Local Cheese (1kg)",
+          "price": "11.50",
+          "min": "9.50",
+          "max": "13.50"
+        },
+        {
+          "item": "Chicken Fillets (1kg)",
+          "price": "9.25",
+          "min": "7.25",
+          "max": "10.25"
+        },
+        {
+          "item": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)",
+          "price": "14.25",
+          "min": "12.25",
+          "max": "16.25"
+        },
+        {
+          "item": "Apples (1kg)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Banana (1kg)",
+          "price": "1.80",
+          "min": "1.50",
+          "max": "2.20"
+        },
+        {
+          "item": "Oranges (1kg)",
+          "price": "2.80",
+          "min": "2.30",
+          "max": "3.30"
+        },
+        {
+          "item": "Tomato (1kg)",
+          "price": "3.50",
+          "min": "3.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Potato (1kg)",
+          "price": "2.30",
+          "min": "1.80",
+          "max": "2.80"
+        },
+        {
+          "item": "Onion (1kg)",
+          "price": "1.80",
+          "min": "1.50",
+          "max": "2.00"
+        },
+        {
+          "item": "Lettuce (1 head)",
+          "price": "2.00",
+          "min": "1.50",
+          "max": "2.50"
+        },
+        {
+          "item": "Water (1.5 liter bottle)",
+          "price": "1.25",
+          "min": "1.00",
+          "max": "1.50"
+        },
+        {
+          "item": "Bottle of Wine (Mid-Range)",
+          "price": "9.50",
+          "min": "7.50",
+          "max": "11.50"
+        },
+        {
+          "item": "Domestic Beer (0.5 liter bottle)",
+          "price": "2.35",
+          "min": "1.85",
+          "max": "2.85"
+        },
+        {
+          "item": "Cigarettes 20 Pack (Marlboro)",
+          "price": "9.25",
+          "min": "7.25",
+          "max": "10.25"
+        },
+        {
+          "item": "One-way Ticket (Local Transport)",
+          "price": "2.75",
+          "min": "2.25",
+          "max": "3.25"
+        },
+        {
+          "item": "Monthly Pass (Regular Price)",
+          "price": "62.00",
+          "min": "52.00",
+          "max": "72.00"
+        },
+        {
+          "item": "Taxi Start (Normal Tariff)",
+          "price": "4.25",
+          "min": "3.75",
+          "max": "4.75"
+        },
+        {
+          "item": "Taxi 1km (Normal Tariff)",
+          "price": "2.30",
+          "min": "1.80",
+          "max": "2.80"
+        },
+        {
+          "item": "Taxi 1hour Waiting (Normal Tariff)",
+          "price": "24.00",
+          "min": "19.00",
+          "max": "28.00"
+        },
+        {
+          "item": "Gasoline (1 liter)",
+          "price": "1.40",
+          "min": "1.25",
+          "max": "1.55"
+        },
+        {
+          "item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",
+          "price": "200.00",
+          "min": "160.00",
+          "max": "240.00"
+        },
+        {
+          "item": "Imternet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+          "price": "65.00",
+          "min": "55.00",
+          "max": "75.00"
+        },
+        {
+          "item": "Fitness Club, Monthly Fee for 1 Adult",
+          "price": "50.00",
+          "min": "40.00",
+          "max": "60.00"
+        },
+        {
+          "item": "Tennis Court Rent (1 Hour on Weekend)",
+          "price": "24.00",
+          "min": "19.00",
+          "max": "27.00"
+        },
+        {
+          "item": "Cinema, International Release, 1 Seat",
+          "price": "16.00",
+          "min": "14.00",
+          "max": "18.00"
+        }
+      ]
+    }
+  ]
+}

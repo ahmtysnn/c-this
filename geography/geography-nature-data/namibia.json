@@ -1,0 +1,369 @@
+{
+  "name": "Namibia",
+  "region": "Southern Africa",
+  "description": "Namibia, a land of dramatic contrasts, is a country of vast deserts, towering sand dunes, rugged mountains, and a surprisingly diverse coastline. Known as the ‘Land God Shaped’, it boasts unique wildlife, including the iconic desert-adapted elephant and black rhino, and offers unparalleled stargazing opportunities due to its minimal light pollution. Namibia’s history is rich and complex, shaped by indigenous cultures, German colonial rule, and ultimately, independence.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "2.6 million",
+      "icon": "Users",
+      "description": "Namibia has a relatively small population, contributing to its vast open spaces.",
+      "detail": "The majority of the population resides along the Atlantic coast and in the northern regions."
+    },
+    {
+      "label": "Capital",
+      "value": "Windhoek",
+      "icon": "MapPin",
+      "description": "Windhoek is a modern city and the political, administrative, and economic center of Namibia.",
+      "detail": "It’s known for its German colonial architecture and vibrant cultural scene."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "English is the official language, alongside Afrikaans and Oshiwambo.",
+      "detail": "German was once the official language, leaving a lasting legacy."
+    },
+    {
+      "label": "Area",
+      "value": "824,000 sq km",
+      "icon": "Globe",
+      "description": "Namibia is the second-largest country in Africa.",
+      "detail": "Approximately 64% of the country is covered by desert."
+    },
+    {
+      "label": "Currency",
+      "value": "Namibian Dollar (NAD)",
+      "icon": "Coffee",
+      "description": "The NAD is pegged to the South African Rand.",
+      "detail": "South African Rand is widely accepted."
+    },
+    {
+      "label": "GDP",
+      "value": "$15.7 billion (2023)",
+      "icon": "Zap",
+      "description": "Namibia's economy is largely driven by mining and tourism.",
+      "detail": "The country is a major producer of diamonds, uranium, and copper."
+    }
+  ],
+  "climateData": {
+    "title": "Namibian Climate",
+    "description": "Namibia experiences a predominantly arid climate, characterized by extreme temperature variations and low rainfall. The coastal regions enjoy a more temperate climate, while the interior is dominated by desert conditions.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (December - February)",
+        "period": "Southern Hemisphere Summer",
+        "description": "Summer is hot and dry, with scorching temperatures, especially in the interior. Rainfall is minimal.",
+        "keyFeatures": [
+          "High Temperatures",
+          "Low Rainfall",
+          "Clear Skies"
+        ],
+        "activities": [
+          "Wildlife Viewing",
+          "Desert Hiking",
+          "Stargazing"
+        ]
+      },
+      {
+        "name": "Autumn (March - May)",
+        "period": "Southern Hemisphere Autumn",
+        "description": "Autumn brings cooler temperatures and slightly increased rainfall, particularly in the north. The landscape transforms with vibrant colors.",
+        "keyFeatures": [
+          "Cooler Temperatures",
+          "Increased Rainfall",
+          "Colorful Landscapes"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Winter (June - August)",
+        "period": "Southern Hemisphere Winter",
+        "description": "Winter is mild and dry, with pleasant temperatures in the coastal regions. The interior remains cold, with occasional frost.",
+        "keyFeatures": [
+          "Mild Temperatures",
+          "Low Rainfall",
+          "Clear Nights"
+        ],
+        "activities": [
+          "Desert Camping",
+          "Stargazing",
+          "Wildlife Viewing (especially nocturnal animals)"
+        ]
+      },
+      {
+        "name": "Spring (September - November)",
+        "period": "Southern Hemisphere Spring",
+        "description": "Spring brings warm temperatures and blooming wildflowers, transforming the landscape into a vibrant spectacle. Rainfall increases.",
+        "keyFeatures": [
+          "Warm Temperatures",
+          "Wildflowers",
+          "Increasing Rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Wildlife Viewing",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Sossusvlei",
+      "category": "Desert Landscape",
+      "description": "Sossusvlei is a surreal and iconic desert valley, famous for its towering red sand dunes, including the towering Dune 45 and Big Daddy. It’s a photographer’s paradise and a testament to the power of erosion.",
+      "detailedDescription": "The valley is formed by centuries of wind and water erosion, creating a unique and otherworldly landscape. The sand is incredibly fine and retains heat during the day, cooling down dramatically at night.",
+      "bestTime": "April - October (cooler months)",
+      "bestLocations": [
+        "Sossusvlei",
+        "Deadvlei",
+        "Dune 45",
+        "Big Daddy"
+      ],
+      "viewingTips": [
+        "Wake up early to avoid the heat",
+        "Wear a hat and sunscreen",
+        "Bring plenty of water"
+      ],
+      "scientificData": {
+        "Height": "328m",
+        "Age": "Approximately 500,000 years",
+        "Sand Composition": "Quartz-rich sandstone"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Fish River Canyon",
+      "category": "Grand Canyon",
+      "description": "The Fish River Canyon is one of the largest canyons in the world, offering breathtaking views and challenging hiking opportunities. It’s a dramatic testament to the forces of nature.",
+      "detailedDescription": "Carved by the Fish River over millions of years, the canyon stretches for over 160 kilometers and plunges to depths of over 500 meters. The red and orange hues of the sandstone cliffs are stunning.",
+      "bestTime": "May - September (cooler months)",
+      "bestLocations": [
+        "Fish River Mouth",
+        "Slot Canyons",
+        "The Rim Trail"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring plenty of water",
+        "Be aware of the heat"
+      ],
+      "scientificData": {
+        "Length": "160 km",
+        "Depth": "500m",
+        "Formation": "Erosion by the Fish River"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 3,
+      "name": "Etosha Pan",
+      "category": "Salt Pan",
+      "description": "The Etosha Pan is a vast salt pan in the heart of Namibia, renowned for its incredible wildlife viewing opportunities. It’s a crucial water source during the dry season, attracting animals from miles around.",
+      "detailedDescription": "During the rainy season, the pan fills with water, creating a shimmering lake. However, during the dry season, it’s a barren expanse of salt, providing a unique habitat for wildlife. The surrounding waterholes are prime locations for spotting elephants, lions, rhinos, and other animals.",
+      "bestTime": "May - October (dry season)",
+      "bestLocations": [
+        "Halali Waterhole",
+        "Okaukuejo Waterhole",
+        "Namutoni Waterhole"
+      ],
+      "viewingTips": [
+        "Visit during the early morning or late afternoon",
+        "Bring binoculars",
+        "Be patient"
+      ],
+      "scientificData": {
+        "Area": "11,700 sq km",
+        "Salinity": "High",
+        "Water Source": "Rainfall and underground aquifers"
+      },
+      "icon": "Sun"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Desert Adapted Wildlife",
+    "icon": "Bird",
+    "description": "Namibia is home to a remarkable array of animals uniquely adapted to survive in the harsh desert environment. These creatures have evolved incredible strategies for obtaining water and conserving energy.",
+    "statistics": [
+      {
+        "category": "Desert Elephant",
+        "count": "Approximately 80",
+        "details": "The only population of desert-adapted elephants in the world."
+      },
+      {
+        "category": "Black Rhino",
+        "count": "Approximately 800",
+        "details": "A critically endangered species found only in Namibia."
+      },
+      {
+        "category": "Fennec Fox",
+        "count": "Estimated 100,000",
+        "details": "The smallest fox species, known for its large ears."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Desert Elephant",
+        "status": "Vulnerable",
+        "significance": "A unique subspecies adapted to survive in the arid Namibian desert."
+      },
+      {
+        "name": "Black Rhino",
+        "status": "Critically Endangered",
+        "significance": "A vital component of the Namibian ecosystem."
+      }
+    ],
+    "threats": [
+      "Habitat Loss",
+      "Poaching",
+      "Climate Change"
+    ],
+    "conservationEfforts": [
+      "Anti-poaching patrols",
+      "Habitat restoration",
+      "Community-based conservation"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Namib Desert Ecosystem",
+    "overview": "The Namib Desert is one of the oldest deserts in the world, characterized by its extreme aridity, unique plant and animal life, and dramatic landscapes. It’s a fragile ecosystem that requires careful management.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 20%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Desert Flora",
+        "icon": "Leaf",
+        "description": "Despite the harsh conditions, the Namib Desert supports a surprising diversity of plant life, including succulents, grasses, and shrubs.",
+        "statistics": [
+          {
+            "category": "Succulents",
+            "count": "Over 50 species",
+            "details": "Adapted to store water in their leaves and stems."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Overgrazing",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Sustainable grazing practices",
+          "Reforestation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Namibian Adventures",
+    "description": "Namibia offers a wide range of activities for adventure seekers and nature lovers, from hiking and wildlife viewing to cultural experiences and stargazing.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the stunning landscapes of Namibia on foot.",
+        "activities": [
+          {
+            "name": "Sossusvlei Dune Hike",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "3-6 hours",
+            "description": "Hike to the top of towering sand dunes and experience the magic of Sossusvlei.",
+            "bestLocations": [
+              "Sossusvlei"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Heatstroke",
+              "Dehydration"
+            ]
+          },
+          {
+            "name": "Fish River Canyon Hike",
+            "difficulty": "Hard",
+            "season": "May - September",
+            "duration": "3-7 days",
+            "description": "Embark on a challenging multi-day hike through the Fish River Canyon.",
+            "bestLocations": [
+              "Fish River Canyon"
+            ],
+            "requirements": "Hiking experience, camping equipment, water",
+            "safety": [
+              "Extreme heat",
+              "River crossings"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Viewing",
+        "icon": "Bird",
+        "description": "Witness the incredible wildlife of Namibia, including elephants, rhinos, lions, and giraffes.",
+        "activities": [
+          {
+            "name": "Etosha Pan Safari",
+            "difficulty": "Easy",
+            "season": "May - October",
+            "duration": "3-7 days",
+            "description": "Explore the Etosha Pan in a 4x4 vehicle and spot a variety of wildlife.",
+            "bestLocations": [
+              "Etosha Pan"
+            ],
+            "requirements": "4x4 vehicle, binoculars",
+            "safety": [
+              "Vehicle maintenance",
+              "Wildlife encounters"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Stargazing",
+        "icon": "Cloud",
+        "description": "Experience the breathtaking beauty of the Namibian night sky, one of the darkest in the world.",
+        "activities": [
+          {
+            "name": "Sossusvlei Stargazing",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "2-4 hours",
+            "description": "Enjoy the incredible views of the Milky Way and other celestial objects.",
+            "bestLocations": [
+              "Sossusvlei"
+            ],
+            "requirements": "Warm clothing, binoculars",
+            "safety": [
+              "Cold temperatures"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, sunscreen, hat, sunglasses",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, swimwear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, insect repellent",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, tripod"
+      },
+      "safety": [
+        "Travel insurance",
+        "Hydration",
+        "Sun protection",
+        "Wildlife awareness"
+      ]
+    }
+  }
+}

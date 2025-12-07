@@ -1,0 +1,315 @@
+{
+  "name": "Trinidad and Tobago",
+  "region": "Caribbean",
+  "description": "Trinidad and Tobago, located in the southern Caribbean, is an archipelago of two main islands and several smaller ones. Known for its diverse ecosystems, vibrant culture, and rich history, the nation boasts stunning beaches, rainforests, and unique geological formations. It’s a haven for biodiversity and offers a blend of adventure, relaxation, and cultural experiences.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "1.4 million",
+      "icon": "Users",
+      "description": "A vibrant and diverse population with a strong Creole heritage.",
+      "detail": "The population is comprised of various ethnic groups, including African, Indian, European, and indigenous communities."
+    },
+    {
+      "label": "Capital",
+      "value": "Port of Spain",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Trinidad.",
+      "detail": "Port of Spain is the political, financial, and cultural center of the nation."
+    },
+    {
+      "label": "Official Languages",
+      "value": "English, Patois",
+      "icon": "Globe",
+      "description": "English is the official language, while Patois (Trinidadian Creole) is widely spoken.",
+      "detail": "Patois reflects the nation's diverse cultural influences."
+    },
+    {
+      "label": "Currency",
+      "value": "Trinidad and Tobago Dollar (TTD)",
+      "icon": "Zap",
+      "description": "The local currency, pegged to the US dollar.",
+      "detail": "The exchange rate is generally stable."
+    },
+    {
+      "label": "Area",
+      "value": "5,129 km²",
+      "icon": "MapPin",
+      "description": "A relatively small island nation.",
+      "detail": "Trinidad is larger than Tobago."
+    },
+    {
+      "label": "Independence",
+      "value": "1962",
+      "icon": "Calendar",
+      "description": "Gained independence from the United Kingdom.",
+      "detail": "A significant milestone in the nation's history."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Trinidad and Tobago experiences a tropical maritime climate, characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is generally abundant, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December - April",
+        "description": "The dry season offers pleasant weather, ideal for outdoor activities and tourism.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Sunny days",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Beach holidays",
+          "Hiking",
+          "Water sports"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May - November",
+        "description": "The wet season brings frequent showers and thunderstorms, particularly in the afternoons.",
+        "keyFeatures": [
+          "High rainfall",
+          "Cloudy days",
+          "Higher humidity"
+        ],
+        "activities": [
+          "Rainforest exploration",
+          "Waterfall visits",
+          "Cultural events"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Main Ridge Rainforest",
+      "category": "Rainforest",
+      "description": "The Main Ridge Rainforest is the world’s longest continuously wet tropical forest, a testament to the island’s unique microclimate. It’s a haven for endemic species and offers breathtaking views.",
+      "detailedDescription": "This ancient forest, formed over 10,000 years ago, is a UNESCO World Heritage Site. Its persistent rainfall creates a unique ecosystem, supporting a vast array of plant and animal life. The forest’s elevation provides cooler temperatures and a distinct atmosphere.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Tobago Main Ridge Road"
+      ],
+      "viewingTips": [
+        "Wear waterproof clothing",
+        "Bring insect repellent",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Height": "1,175m",
+        "Age": "10,000+ years",
+        "Rainfall": "3,000-6,000 mm/year"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Matura Beach",
+      "category": "Beach",
+      "description": "Matura Beach is renowned for its pristine white sands, turquoise waters, and vibrant coral reefs, making it a popular destination for swimming, snorkeling, and diving.",
+      "detailedDescription": "This secluded beach is a protected area, contributing to its unspoiled beauty. The coral reefs surrounding the beach are teeming with marine life, offering exceptional diving and snorkeling opportunities. It's also a nesting site for leatherback turtles.",
+      "bestTime": "February - August (for turtle nesting)",
+      "bestLocations": [
+        "Matura Village"
+      ],
+      "viewingTips": [
+        "Respect the nesting turtles",
+        "Use reef-safe sunscreen",
+        "Bring your own supplies"
+      ],
+      "scientificData": {
+        "Coral Coverage": "60%",
+        "Turtle Species": "Leatherback, Hawksbill"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Biodiversity Hotspot",
+    "overview": "Trinidad and Tobago is a biodiversity hotspot, boasting a remarkable variety of plant and animal life, much of which is endemic to the islands. Its diverse ecosystems, ranging from rainforests to coral reefs, are under increasing pressure from habitat loss and climate change.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "The islands are home to over 200 bird species, including several endemic and migratory birds.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "30",
+            "details": "Unique bird species found nowhere else."
+          },
+          {
+            "category": "Migratory Species",
+            "count": "50",
+            "details": "Important stopover point for migrating birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Red-capped Manakin",
+            "status": "Endangered",
+            "significance": "Critically important for rainforest conservation."
+          },
+          {
+            "name": "Brown Booby",
+            "status": "Vulnerable",
+            "significance": "A key indicator of marine ecosystem health."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal hunting"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Marine Life",
+        "icon": "Fish",
+        "description": "The coral reefs and surrounding waters support a rich diversity of marine life, including colorful fish, sea turtles, and dolphins.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "60",
+            "details": "Diverse coral communities."
+          },
+          {
+            "category": "Fish Species",
+            "count": "200",
+            "details": "A wide range of fish species inhabit the reefs."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Humpback Whale",
+            "status": "Migratory",
+            "significance": "A spectacular sight during migration season."
+          },
+          {
+            "name": "Green Sea Turtle",
+            "status": "Endangered",
+            "significance": "A vital part of the marine ecosystem."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral reef restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Adventure and Exploration",
+    "description": "Trinidad and Tobago offer a wide range of activities for adventure seekers and nature enthusiasts.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the islands’ diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Main Ridge Trail",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-4 hours",
+            "description": "Hike through the world’s longest continuously wet tropical forest.",
+            "bestLocations": [
+              "Tobago Main Ridge"
+            ],
+            "requirements": "Sturdy hiking boots, water, insect repellent",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Paria Trail",
+            "difficulty": "Hard",
+            "season": "Dry Season",
+            "duration": "6-8 hours",
+            "description": "A challenging hike through the rainforest, offering stunning views.",
+            "bestLocations": [
+              "Penal Rock",
+              "Trinidad"
+            ],
+            "requirements": "Hiking boots, water, snacks, headlamp",
+            "safety": [
+              "Be prepared for steep terrain",
+              "Inform someone of your plans"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of the Caribbean Sea.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Matura Beach",
+              "Bacolet Bay"
+            ],
+            "requirements": "Certification, mask, fins, snorkel",
+            "safety": [
+              "Dive with a certified instructor",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "1-2 hours",
+            "description": "Discover the beauty of the coral reefs without diving.",
+            "bestLocations": [
+              "Matura Beach",
+              "Bacolet Bay"
+            ],
+            "requirements": "Mask, fins, snorkel",
+            "safety": [
+              "Be mindful of currents",
+              "Protect the coral reefs"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Light jacket, long-sleeved shirts, trousers",
+        "yearRound": "Comfortable clothing suitable for warm and humid weather"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of wildlife",
+        "Respect local customs"
+      ]
+    }
+  }
+}

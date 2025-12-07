@@ -1,0 +1,357 @@
+{
+  "name": "Egypt",
+  "region": "Middle East",
+  "description": "Egypt, the gift of the Nile, is a land of ancient wonders and dramatic landscapes. Situated in North Africa, it boasts a rich history dating back millennia, evident in its iconic pyramids, temples, and tombs. Beyond its historical significance, Egypt offers diverse natural environments, from the fertile Nile Valley to the vast deserts and the Red Sea coastline.  Its strategic location has shaped its culture and economy, making it a vital crossroads between Africa, Asia, and Europe.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "109.3 million",
+      "icon": "Users",
+      "description": "Egypt is the most populous Arab country and one of the most populous countries in Africa.",
+      "detail": "The population is concentrated along the Nile River and in urban centers like Cairo and Alexandria."
+    },
+    {
+      "label": "Area",
+      "value": "1,010,408 sq km (390,000 sq mi)",
+      "icon": "MapPin",
+      "description": "Egypt covers a vast area encompassing the Nile Delta, the Western Desert, and the Eastern Desert.",
+      "detail": "Approximately 85% of Egypt is desert."
+    },
+    {
+      "label": "Capital",
+      "value": "Cairo",
+      "icon": "Globe",
+      "description": "Cairo is the largest city in the Arab world and a major economic, cultural, and political center.",
+      "detail": "It's located on the Nile River and is known for its bustling markets, historic mosques, and vibrant nightlife."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "Eye",
+      "description": "Modern Standard Arabic is used for formal communication, while various Egyptian dialects are spoken in everyday life.",
+      "detail": "Coptic is an ancient language with a unique script and historical significance."
+    },
+    {
+      "label": "Currency",
+      "value": "Egyptian Pound (EGP)",
+      "icon": "Coffee",
+      "description": "The Egyptian Pound is the official currency of Egypt.",
+      "detail": "Exchange rates fluctuate, and it's advisable to check current rates before traveling."
+    }
+  ],
+  "climateData": {
+    "title": "Egyptian Climate",
+    "description": "Egypt experiences a hot desert climate with significant seasonal variations. The Nile Valley enjoys a more temperate climate due to the river's influence, while the rest of the country is characterized by scorching summers and mild winters.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is extremely hot and dry, with temperatures often exceeding 40°C (104°F). Rainfall is minimal.",
+        "keyFeatures": [
+          "Extreme heat",
+          "Low humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Museum visits",
+          "Indoor activities",
+          "Nighttime excursions"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings a welcome respite from the summer heat, with temperatures gradually decreasing and rainfall increasing. It's a pleasant time for outdoor activities.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Increasing rainfall",
+          "Colorful landscapes"
+        ],
+        "activities": [
+          "Hiking",
+          "Desert safaris",
+          "Exploring ancient sites"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is mild and dry, with average temperatures ranging from 15°C to 25°C (59°F to 77°F). It's the most popular time to visit Egypt.",
+        "keyFeatures": [
+          "Pleasant temperatures",
+          "Low humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Cruises on the Nile",
+          "Visiting historical sites",
+          "Relaxing on the Red Sea beaches"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings warm temperatures and blooming flowers, creating a beautiful landscape. Rainfall is moderate.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Blooming flora",
+          "Moderate rainfall"
+        ],
+        "activities": [
+          "Exploring the countryside",
+          "Camel trekking",
+          "Birdwatching"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "The White Desert",
+      "category": "Desert Landscape",
+      "description": "The White Desert is a surreal and otherworldly landscape of chalk rock formations sculpted by wind and sand over millions of years. Its stark white appearance creates a breathtaking and unforgettable experience.",
+      "detailedDescription": "Located in the Western Desert, the White Desert is a UNESCO World Heritage Site. The formations are composed of pure white chalk, creating a unique and dramatic visual effect.  The area is also home to diverse wildlife, including desert foxes and birds.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "El Qualaa",
+        "El Khatt",
+        "El Hail"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Wear sturdy shoes",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Height": "30-60m",
+        "Age": "2.5 million years",
+        "Composition": "Calcium carbonate"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Siwa Oasis",
+      "category": "Oasis",
+      "description": "Siwa Oasis is a remote and tranquil oasis in the Western Desert, renowned for its ancient ruins, natural springs, and unique culture. It offers a glimpse into a traditional way of life far removed from the hustle and bustle of modern Egypt.",
+      "detailedDescription": "Siwa Oasis is home to the Oracle of Amun, where Cleopatra is said to have awaited the arrival of Mark Antony. The oasis is surrounded by dramatic sand dunes and offers a variety of activities, including swimming, hiking, and exploring ancient temples.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "Shali",
+        "Temple of the Oracle",
+        "Salt Lake"
+      ],
+      "viewingTips": [
+        "Respect local customs",
+        "Try Siwan cuisine",
+        "Explore the salt lakes"
+      ],
+      "scientificData": {
+        "Area": "300 sq km",
+        "Water Source": "Underground springs"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "The Nile River",
+      "category": "River",
+      "description": "The Nile River is the lifeblood of Egypt, providing water for agriculture, transportation, and sustenance. It has shaped the country's history, culture, and economy for millennia.",
+      "detailedDescription": "The Nile flows northward through Egypt, originating in Lake Victoria in Tanzania and emptying into the Mediterranean Sea. Its fertile banks have supported a thriving civilization for thousands of years.  Cruises along the Nile offer a unique perspective on Egypt's ancient monuments and landscapes.",
+      "bestTime": "Year Round",
+      "bestLocations": [
+        "Luxor",
+        "Aswan",
+        "Kom Ombo"
+      ],
+      "viewingTips": [
+        "Take a Nile cruise",
+        "Visit the temples along the river",
+        "Observe the local life"
+      ],
+      "scientificData": {
+        "Length": "6,650 km",
+        "Drainage Basin": "3,600,000 sq km"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Desert Wildlife",
+    "icon": "Bird",
+    "description": "Egypt's deserts are home to a surprising array of wildlife adapted to the harsh conditions. These animals have evolved unique strategies for survival in the arid environment.",
+    "statistics": [
+      {
+        "category": "Reptiles",
+        "count": "Over 300 species",
+        "details": "Includes snakes, lizards, and turtles."
+      },
+      {
+        "category": "Mammals",
+        "count": "Around 50 species",
+        "details": "Such as the desert fox, fennec fox, and addax antelope."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Addax Antelope",
+        "status": "Critically Endangered",
+        "significance": "An iconic desert species, once abundant in the Sahara."
+      },
+      {
+        "name": "Fennec Fox",
+        "status": "Least Concern",
+        "significance": "The smallest fox species, adapted to the desert environment."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Anti-poaching patrols",
+      "Community-based conservation"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Egyptian Ecosystems",
+    "overview": "Egypt's ecosystems are incredibly diverse, ranging from the fertile Nile Delta to the arid deserts and the Red Sea coral reefs. Each ecosystem supports a unique array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Red Sea Coral Reefs",
+        "icon": "Leaf",
+        "description": "The Red Sea coral reefs are a vibrant and diverse ecosystem, supporting a wide range of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 150",
+            "details": "Including hard and soft corals."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Moray Eel",
+            "status": "Vulnerable",
+            "significance": "A predatory fish found in the Red Sea."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Climate change",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral restoration projects"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Egypt",
+    "description": "Egypt offers a wide range of activities for travelers of all interests and abilities, from exploring ancient ruins to enjoying the Red Sea beaches.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the diverse landscapes of Egypt on foot, from the White Desert to the Sinai Mountains.",
+        "activities": [
+          {
+            "name": "White Desert Trekking",
+            "difficulty": "Moderate",
+            "season": "October - April",
+            "duration": "2-3 days",
+            "description": "Hike through the surreal landscape of the White Desert, exploring its unique rock formations.",
+            "bestLocations": [
+              "El Qualaa",
+              "El Khatt"
+            ],
+            "requirements": "Sturdy hiking boots, sunscreen, water",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of the heat"
+            ]
+          },
+          {
+            "name": "Sinai Mountain Hiking",
+            "difficulty": "Hard",
+            "season": "October - April",
+            "duration": "3-5 days",
+            "description": "Challenge yourself with a hike in the rugged mountains of Sinai, enjoying stunning views and diverse wildlife.",
+            "bestLocations": [
+              "St. Catherine's Monastery area"
+            ],
+            "requirements": "Hiking experience, appropriate clothing, navigation skills",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your plans"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports along the Red Sea coastline, including diving, snorkeling, and windsurfing.",
+        "activities": [
+          {
+            "name": "Red Sea Diving",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and diverse marine life of the Red Sea.",
+            "bestLocations": [
+              "Sharm el-Sheikh",
+              "Hurghada",
+              "Dahab"
+            ],
+            "requirements": "Certification (for advanced dives)",
+            "safety": [
+              "Dive with a reputable operator",
+              "Follow safety guidelines"
+            ]
+          },
+          {
+            "name": "Windsurfing",
+            "difficulty": "Moderate",
+            "season": "October - April",
+            "duration": "Variable",
+            "description": "Catch the wind and glide across the Red Sea waters.",
+            "bestLocations": [
+              "Ras Dorshek"
+            ],
+            "requirements": "Windsurfing experience, board and sail",
+            "safety": [
+              "Check wind conditions",
+              "Wear a life jacket"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, hat, sunglasses",
+        "winter": "Layers of clothing, sweater, jacket, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, water bottle",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink bottled water",
+        "Be aware of the sun",
+        "Respect local customs"
+      ]
+    }
+  }
+}

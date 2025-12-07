@@ -1,0 +1,419 @@
+{
+  "name": "Brazil",
+  "region": "South America",
+  "description": "Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. It’s a nation of incredible biodiversity, boasting the Amazon rainforest, stunning coastlines, and diverse landscapes ranging from the Pantanal wetlands to the Cerrado savanna. Brazil’s rich history, vibrant culture, and economic significance make it a globally important nation.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "8,515,767 km²",
+      "icon": "MapPin",
+      "description": "Brazil is the largest country in South America and the fifth largest in the world.",
+      "detail": "Its vast size contributes to its incredible biodiversity and diverse climates."
+    },
+    {
+      "label": "Population",
+      "value": "214.75 Million (2023)",
+      "icon": "Users",
+      "description": "Brazil has the largest population in Latin America.",
+      "detail": "A diverse population with a rich blend of indigenous, European, African, and Asian influences."
+    },
+    {
+      "label": "Capital",
+      "value": "Brasília",
+      "icon": "MapPin",
+      "description": "The capital city of Brazil, a planned city in the heart of the country.",
+      "detail": "Brasília is renowned for its modernist architecture and urban design."
+    },
+    {
+      "label": "Official Language",
+      "value": "Portuguese",
+      "icon": "Globe",
+      "description": "The official language of Brazil, a legacy of its colonial past.",
+      "detail": "Portuguese is spoken by the vast majority of the population."
+    },
+    {
+      "label": "Currency",
+      "value": "Brazilian Real (BRL)",
+      "icon": "Coffee",
+      "description": "The currency used in Brazil.",
+      "detail": "The Real is pegged to the US dollar."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 1.92 Trillion (2023)",
+      "icon": "ArrowRight",
+      "description": "Brazil has one of the largest economies in the world.",
+      "detail": "The economy is driven by agriculture, industry, and services."
+    }
+  ],
+  "climateData": {
+    "title": "Brazil's Climate",
+    "description": "Brazil experiences a wide range of climates due to its vast size and diverse geography. The Amazon basin is hot and humid year-round, while the southeast and south have distinct seasons – a warm, wet summer and a cool, dry winter. The northeast is semi-arid, and the Pantanal region has a tropical savanna climate.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (December - March)",
+        "period": "December to March",
+        "description": "The summer months are hot and humid, with frequent rainfall, particularly in the Amazon and southeastern regions.",
+        "keyFeatures": [
+          "High temperatures",
+          "Heavy rainfall",
+          "Tropical storms"
+        ],
+        "activities": [
+          "Beach holidays",
+          "Water sports",
+          "Rainforest exploration"
+        ]
+      },
+      {
+        "name": "Autumn (April - June)",
+        "period": "April to June",
+        "description": "Autumn brings a gradual cooling trend, with less rainfall and pleasant temperatures. The Amazon rainforest begins to show signs of change.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Decreasing rainfall",
+          "Colorful foliage in some regions"
+        ],
+        "activities": [
+          "Hiking",
+          "Wildlife viewing",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Winter (July - September)",
+        "period": "July to September",
+        "description": "Winter is the coolest and driest season, particularly in the southeast and south. The Amazon experiences a slightly drier period.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Low rainfall",
+          "Clear skies"
+        ],
+        "activities": [
+          "Skiing in the Serra da Canastra",
+          "Visiting Iguazu Falls",
+          "Exploring the Pantanal"
+        ]
+      },
+      {
+        "name": "Spring (October - November)",
+        "period": "October to November",
+        "description": "Spring brings a return of warmth and increasing rainfall. The Amazon rainforest comes alive with new growth.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Increasing rainfall",
+          "Blooming flowers"
+        ],
+        "activities": [
+          "Birdwatching",
+          "Botanical gardens",
+          "Outdoor adventures"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Amazon Rainforest",
+      "category": "Forest",
+      "description": "The Amazon Rainforest is the world’s largest tropical rainforest, covering nine countries, with the majority in Brazil. It’s a biodiversity hotspot, playing a crucial role in regulating the global climate.",
+      "detailedDescription": "Spanning over 6.9 million square kilometers, the Amazon is home to an estimated 10% of the world’s known species. Its rivers are vital transportation routes and sources of sustenance for millions.",
+      "bestTime": "Year-round, though the dry season (June-November) offers easier trekking.",
+      "bestLocations": [
+        "Manaus",
+        "Belém",
+        "Rio Negro"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Respect the environment",
+        "Bring insect repellent"
+      ],
+      "scientificData": {
+        "Area": "6.9 million km²",
+        "Biodiversity": "10% of the world's known species",
+        "Rainfall": "2000-3000 mm per year"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Iguazu Falls",
+      "category": "Waterfall",
+      "description": "Iguazu Falls is a spectacular system of waterfalls on the Iguazu River, located on the border between Brazil and Argentina. It’s one of the world’s largest and most impressive waterfalls.",
+      "detailedDescription": "The falls consist of over 275 individual waterfalls, creating a breathtaking display of power and beauty. The surrounding rainforest is teeming with wildlife.",
+      "bestTime": "April to May (shoulder season with fewer crowds)",
+      "bestLocations": [
+        "Brazilian side: Foz do Iguaçu",
+        "Argentine side: Puerto Iguazú"
+      ],
+      "viewingTips": [
+        "Take a boat trip to the base of the falls",
+        "Walk along the various trails",
+        "Visit the Parque Nacional do Iguaçu"
+      ],
+      "scientificData": {
+        "Height": "82 meters",
+        "Width": "2.7 kilometers",
+        "Flow Rate": "449 cubic meters per second"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Pantanal Wetlands",
+      "category": "Wetland",
+      "description": "The Pantanal is the world’s largest tropical wetland, located primarily in Brazil. It’s a haven for wildlife, offering incredible opportunities for birdwatching and wildlife viewing.",
+      "detailedDescription": "The Pantanal is characterized by its seasonal flooding, creating a mosaic of habitats. It’s home to a vast array of species, including jaguars, capybaras, and caimans.",
+      "bestTime": "June to September (dry season for better wildlife viewing)",
+      "bestLocations": [
+        "Corumbá",
+        "Bonito"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring binoculars",
+        "Respect wildlife"
+      ],
+      "scientificData": {
+        "Area": "140,000 km²",
+        "Water Depth": "Variable, up to 3 meters during the flood season",
+        "Biodiversity": "Over 650 bird species"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Brazil's Ecosystems",
+    "overview": "Brazil’s ecosystems are incredibly diverse, ranging from the Amazon rainforest to the Cerrado savanna and the Pantanal wetlands. These ecosystems play a vital role in the country’s biodiversity and climate regulation.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 350
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Brazil is home to a remarkable diversity of mammals, including jaguars, capybaras, tapirs, and anteaters.",
+        "statistics": [
+          {
+            "category": "Species",
+            "count": "1,893",
+            "details": "Over 1,893 mammal species"
+          },
+          {
+            "category": "Endangered",
+            "count": "227",
+            "details": "227 species are classified as endangered"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Vulnerable",
+            "significance": "Apex predator and symbol of the Amazon"
+          },
+          {
+            "name": "Giant Armadillo",
+            "status": "Near Threatened",
+            "significance": "Largest land mammal in the Americas"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Illegal wildlife trade"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Anti-poaching patrols",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Brazil boasts an extraordinary variety of bird species, including macaws, toucans, and hummingbirds.",
+        "statistics": [
+          {
+            "category": "Species",
+            "count": "1,361",
+            "details": "Over 1,361 bird species"
+          },
+          {
+            "category": "Endangered",
+            "count": "147",
+            "details": "147 species are classified as endangered"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Scarlet Macaw",
+            "status": "Endangered",
+            "significance": "Iconic rainforest bird"
+          },
+          {
+            "name": "Hyacinth Macaw",
+            "status": "Vulnerable",
+            "significance": "Largest flying parrot"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal trapping",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Reforestation",
+          "Protected areas",
+          "Community education"
+        ]
+      },
+      {
+        "name": "Reptiles & Amphibians",
+        "icon": "Fish",
+        "description": "Brazil’s diverse climate supports a wide range of reptiles and amphibians, including caimans, anacondas, and poison dart frogs.",
+        "statistics": [
+          {
+            "category": "Species",
+            "count": "634",
+            "details": "Over 634 reptile and amphibian species"
+          },
+          {
+            "category": "Endangered",
+            "count": "88",
+            "details": "88 species are classified as endangered"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Anaconda",
+            "status": "Vulnerable",
+            "significance": "One of the largest snakes in the world"
+          },
+          {
+            "name": "Poison Dart Frog",
+            "status": "Varying",
+            "significance": "Known for their vibrant colors and potent toxins"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Habitat restoration",
+          "Captive breeding programs",
+          "Environmental education"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Brazil",
+    "description": "Brazil offers a vast array of activities for travelers of all interests, from adventure tourism to cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Brazil’s diverse landscapes on foot, from the Amazon rainforest to the Pantanal wetlands.",
+        "activities": [
+          {
+            "name": "Amazon Rainforest Trekking",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-7 days",
+            "description": "Immerse yourself in the heart of the Amazon rainforest, exploring its trails and wildlife.",
+            "bestLocations": [
+              "Manaus",
+              "Belém"
+            ],
+            "requirements": "Sturdy hiking boots, insect repellent, waterproof clothing",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Chapada Diamantina Hiking",
+            "difficulty": "Hard",
+            "season": "April - September",
+            "duration": "5-10 days",
+            "description": "Hike through stunning canyons, waterfalls, and caves in the Chapada Diamantina National Park.",
+            "bestLocations": [
+              "Lençóis",
+              "Vale do Capão"
+            ],
+            "requirements": "Sturdy hiking boots, sunscreen, hat",
+            "safety": [
+              "Stay hydrated",
+              "Be aware of weather conditions",
+              "Inform someone of your plans"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy Brazil’s extensive coastline and rivers with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Surfing in Rio de Janeiro",
+            "difficulty": "Easy - Expert",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Catch some waves on the famous beaches of Rio de Janeiro.",
+            "bestLocations": [
+              "Ipanema",
+              "Copacabana"
+            ],
+            "requirements": "Surfboard, wetsuit (optional)",
+            "safety": [
+              "Check surf conditions",
+              "Swim in designated areas",
+              "Use a lifeguard"
+            ]
+          },
+          {
+            "name": "Canoeing on the Rio Negro",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-5 days",
+            "description": "Explore the black waters of the Rio Negro, observing wildlife and indigenous communities.",
+            "bestLocations": [
+              "Amazonas"
+            ],
+            "requirements": "Canoe, paddle, life jacket",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of currents",
+              "Wear appropriate clothing"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, sweater, jacket, waterproof outerwear",
+        "yearRound": "Comfortable walking shoes, insect repellent"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, adapter",
+        "hiking": "Sturdy hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Be aware of your surroundings",
+        "Protect your valuables",
+        "Drink bottled water",
+        "Consult a doctor before traveling"
+      ]
+    }
+  }
+}

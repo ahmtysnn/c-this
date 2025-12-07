@@ -1,0 +1,377 @@
+{
+  "name": "Sri Lanka",
+  "region": "South Asia",
+  "description": "Sri Lanka, the \"Pearl of the Indian Ocean\", is an island nation in South Asia, known for its stunning beaches, ancient cities, lush tea plantations, and diverse wildlife.  It boasts a rich cultural heritage shaped by centuries of Sinhalese, Tamil, and Moor influences, alongside Dutch, Portuguese, and British colonial legacies.  The country’s varied topography, ranging from coastal plains to mountainous highlands, supports a remarkable biodiversity and offers a wide array of experiences for travelers and nature enthusiasts.",
+  "quickFacts": [
+    {
+      "label": "Official Name",
+      "value": "Democratic Socialist Republic of Sri Lanka",
+      "icon": "Globe",
+      "description": "The official name of the nation.",
+      "detail": "Adopted in 1972 following the merger of Ceylon and Sri Lanka."
+    },
+    {
+      "label": "Capital",
+      "value": "Sri Jayawardenepura Kotte",
+      "icon": "MapPin",
+      "description": "The administrative capital of Sri Lanka.",
+      "detail": "Colombo remains the commercial capital."
+    },
+    {
+      "label": "Population",
+      "value": "21.6 million",
+      "icon": "Users",
+      "description": "The total population of Sri Lanka.",
+      "detail": "Approximately 75% Sinhalese, 18% Tamil, and 7% Moor/Burgher."
+    },
+    {
+      "label": "Area",
+      "value": "65,610 sq km (25,300 sq mi)",
+      "icon": "MapPin",
+      "description": "The land area of Sri Lanka.",
+      "detail": "Mostly mountainous and covered in tropical rainforests."
+    },
+    {
+      "label": "Official Languages",
+      "value": "Sinhala and Tamil",
+      "icon": "ArrowRight",
+      "description": "The two official languages of Sri Lanka.",
+      "detail": "English is widely spoken and used in business and tourism."
+    },
+    {
+      "label": "Currency",
+      "value": "Sri Lankan Rupee (LKR)",
+      "icon": "Coffee",
+      "description": "The currency used in Sri Lanka.",
+      "detail": "ISO 4217 code: LKR"
+    },
+    {
+      "label": "GDP (2023)",
+      "value": "$74.6 billion",
+      "icon": "Zap",
+      "description": "The Gross Domestic Product of Sri Lanka.",
+      "detail": "USD"
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Sri Lanka",
+    "description": "Sri Lanka experiences a tropical monsoon climate, characterized by distinct wet and dry seasons. The southwest monsoon (June to September) brings heavy rainfall, while the northeast monsoon (December to March) brings drier conditions. Temperatures remain consistently warm throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Southwest Monsoon",
+        "period": "June – September",
+        "description": "The wettest period of the year, with heavy rainfall across the country.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Waterfall visits",
+          "Exploring tea plantations"
+        ]
+      },
+      {
+        "name": "Dry Season (Intermediate)",
+        "period": "October – December",
+        "description": "A transitional period with decreasing rainfall and pleasant temperatures.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Clear skies",
+          "Pleasant temperatures"
+        ],
+        "activities": [
+          "Wildlife safaris",
+          "Hill country trekking",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Northeast Monsoon",
+        "period": "January – March",
+        "description": "The driest period, with cooler temperatures and less rainfall in the north and east.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Lower humidity",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Surfing",
+          "Coastal exploration",
+          "Visiting ancient sites"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "April – May",
+        "description": "Warm and sunny with high humidity.",
+        "keyFeatures": [
+          "High temperatures",
+          "High humidity",
+          "Sunny days"
+        ],
+        "activities": [
+          "Beach holidays",
+          "Water sports",
+          "Exploring national parks"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Sigiriya – The Lion Rock",
+      "category": "Historical Landmark",
+      "description": "Sigiriya is an ancient rock fortress and palace complex, dating back to the 5th century AD. It’s renowned for its massive stone lion statue at the entrance and the vibrant frescoes depicting celestial maidens on its walls.",
+      "detailedDescription": "The rock was originally built by King Kasyapa as his royal residence. It offers breathtaking panoramic views of the surrounding landscape and is a UNESCO World Heritage Site.",
+      "bestTime": "November – March",
+      "bestLocations": [
+        "Sigiriya"
+      ],
+      "viewingTips": [
+        "Arrive early to avoid crowds",
+        "Wear comfortable shoes",
+        "Bring sunscreen and a hat"
+      ],
+      "scientificData": {
+        "Height": "200m",
+        "Age": "1400 years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Yala National Park",
+      "category": "Wildlife Reserve",
+      "description": "Yala National Park is Sri Lanka’s largest national park and one of its premier wildlife destinations. It’s famous for its high leopard density and diverse range of animals.",
+      "detailedDescription": "The park is divided into five blocks, each offering a unique experience. It’s also home to elephants, sloth bears, crocodiles, and a variety of bird species.",
+      "bestTime": "January – March, July – September",
+      "bestLocations": [
+        "Yala"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Go on an early morning safari",
+        "Bring binoculars"
+      ],
+      "scientificData": {
+        "Area": "30,000 hectares",
+        "Leopard Density": "Highest in the world"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 3,
+      "name": "Kandy Lake Gregory",
+      "category": "Lake & Park",
+      "description": "Kandy Lake Gregory is a picturesque lake located in the heart of Kandy, Sri Lanka's cultural capital. Surrounded by lush greenery and colonial-era architecture, it's a popular spot for locals and tourists alike.",
+      "detailedDescription": "The lake was created by the British in the 1800s and is surrounded by a beautiful park. It offers boating, walking trails, and stunning views of the surrounding hills.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Kandy"
+      ],
+      "viewingTips": [
+        "Take a boat ride on the lake",
+        "Enjoy a picnic in the park",
+        "Visit the Temple of the Tooth Relic"
+      ],
+      "scientificData": {
+        "Area": "11 hectares",
+        "Depth": "Maximum 7m"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Endemic Wildlife",
+    "icon": "Bird",
+    "description": "Sri Lanka is home to a remarkable number of endemic species, found nowhere else on Earth. These unique animals contribute significantly to the country’s biodiversity and are a major draw for wildlife enthusiasts.",
+    "statistics": [
+      {
+        "category": "Mammals",
+        "count": "160",
+        "details": "Including the Sri Lankan Leopard, Sloth Bear, Purple-faced Leaf Monkey"
+      },
+      {
+        "category": "Birds",
+        "count": "320",
+        "details": "Featuring the Sri Lanka Blue Magpie, Sri Lanka Hanging Parrot"
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Sri Lankan Leopard",
+        "status": "Endangered",
+        "significance": "The island’s largest predator, a symbol of Sri Lanka’s wilderness."
+      },
+      {
+        "name": "Sloth Bear",
+        "status": "Vulnerable",
+        "significance": "A unique bear species with a distinctive shaggy coat."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Human-wildlife conflict"
+    ],
+    "conservationEfforts": [
+      "National Park establishment",
+      "Anti-poaching patrols",
+      "Community-based conservation programs"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Sri Lankan Ecosystems",
+    "overview": "Sri Lanka’s diverse ecosystems range from tropical rainforests and montane cloud forests to coastal wetlands and grasslands. These ecosystems support a rich array of flora and fauna and play a vital role in the country’s ecological balance.",
+    "conservationStatus": {
+      "protectedAreas": "18%",
+      "nationalParks": 20
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Tropical Rainforests",
+        "icon": "Trees",
+        "description": "Dense, humid forests covering a significant portion of the island, home to a vast array of plant and animal species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "6,000+",
+            "details": "Including many endemic species"
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Reforestation programs",
+          "Sustainable forestry practices"
+        ]
+      },
+      {
+        "name": "Montane Cloud Forests",
+        "icon": "Cloud",
+        "description": "High-altitude forests characterized by persistent cloud cover, supporting unique plant and animal communities.",
+        "statistics": [
+          {
+            "category": "Plant Diversity",
+            "count": "1,000+",
+            "details": "Including many endemic orchids and ferns"
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Climate change",
+          "Habitat fragmentation"
+        ],
+        "conservationEfforts": [
+          "Protected area expansion",
+          "Community-based conservation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Sri Lanka",
+    "description": "Sri Lanka offers a diverse range of activities for travelers of all interests, from adventurous treks to relaxing beach holidays.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s stunning landscapes on foot, from mountain trails to coastal paths.",
+        "activities": [
+          {
+            "name": "Ella to Horton Plains Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "6-8 hours",
+            "description": "A challenging but rewarding hike through lush cloud forests to World's End.",
+            "bestLocations": [
+              "Ella"
+            ],
+            "requirements": "Good hiking boots, waterproof clothing, water",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your route"
+            ]
+          },
+          {
+            "name": "Adam's Peak Climb",
+            "difficulty": "Hard",
+            "season": "December – May",
+            "duration": "12-16 hours",
+            "description": "Climb to the summit of Adam’s Peak to witness the sunrise.",
+            "bestLocations": [
+              "Sri Pada"
+            ],
+            "requirements": "Sturdy footwear, warm clothing, headlamp",
+            "safety": [
+              "Be aware of slippery steps",
+              "Follow guide instructions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities along Sri Lanka’s stunning coastline.",
+        "activities": [
+          {
+            "name": "Surfing",
+            "difficulty": "Easy – Expert",
+            "season": "November – April",
+            "duration": "Variable",
+            "description": "Ride the waves at popular surf spots like Weligama and Arugam Bay.",
+            "bestLocations": [
+              "Weligama",
+              "Arugam Bay"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on season)",
+            "safety": [
+              "Check surf conditions",
+              "Use a lifeguard"
+            ]
+          },
+          {
+            "name": "Snorkeling & Diving",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Hikkaduwa",
+              "Unawatuna"
+            ],
+            "requirements": "Snorkel or diving gear",
+            "safety": [
+              "Respect marine life",
+              "Follow dive guidelines"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen",
+        "winter": "Layers of clothing, including a jacket and sweater",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Insect repellent, first-aid kit, water bottle",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Be aware of local customs",
+        "Drink bottled water"
+      ]
+    }
+  }
+}

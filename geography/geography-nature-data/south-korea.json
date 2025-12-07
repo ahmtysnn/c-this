@@ -1,0 +1,388 @@
+{
+  "name": "South Korea",
+  "region": "East Asia",
+  "description": "South Korea, officially the Republic of Korea, is a country on the Korean Peninsula in East Asia. It’s a nation of dramatic contrasts, blending ancient traditions with cutting-edge technology. From the bustling metropolis of Seoul to the serene beauty of Jeju Island and the rugged mountains of Jirisan National Park, South Korea offers a diverse range of landscapes, cultures, and experiences.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "51.85 million",
+      "icon": "Users",
+      "description": "South Korea boasts a high population density, with most people residing in urban areas.",
+      "detail": "The population density is approximately 85 people per square kilometer."
+    },
+    {
+      "label": "Capital",
+      "value": "Seoul",
+      "icon": "MapPin",
+      "description": "Seoul is the vibrant capital and largest city, a global center for finance, technology, and culture.",
+      "detail": "Seoul is one of the world's most populous metropolitan areas."
+    },
+    {
+      "label": "Area",
+      "value": "100,210 sq km (38,522 sq mi)",
+      "icon": "Globe",
+      "description": "South Korea's land area is relatively small, but incredibly diverse.",
+      "detail": "It's roughly the size of Indiana, USA."
+    },
+    {
+      "label": "Currency",
+      "value": "Korean Won (KRW)",
+      "icon": "Coffee",
+      "description": "The official currency of South Korea.",
+      "detail": "As of November 2023, 1 USD is approximately 1,300 KRW."
+    },
+    {
+      "label": "Official Language",
+      "value": "Korean",
+      "icon": "ArrowRight",
+      "description": "Korean is the primary language spoken throughout the country.",
+      "detail": "Hangul, the Korean alphabet, is remarkably logical and easy to learn."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of South Korea",
+    "description": "South Korea experiences a humid continental climate with four distinct seasons. Summers are hot and humid, winters are cold and snowy, and spring and autumn offer pleasant temperatures and vibrant foliage.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring in South Korea is a breathtaking spectacle of blooming cherry blossoms and azaleas. The weather is mild and pleasant, making it ideal for outdoor activities.",
+        "keyFeatures": [
+          "Cherry blossoms",
+          "Azaleas",
+          "Mild weather"
+        ],
+        "activities": [
+          "Hiking",
+          "Picnics",
+          "Flower viewing",
+          "Temple visits"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summers are hot and humid, with frequent rainfall. However, the beaches along the coast offer a welcome escape.",
+        "keyFeatures": [
+          "Rainy season",
+          "Beach weather",
+          "Festivals"
+        ],
+        "activities": [
+          "Beach activities",
+          "Water sports",
+          "Outdoor festivals",
+          "Hiking"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn is arguably the most beautiful season in South Korea, with vibrant fall foliage painting the mountainsides in shades of red, orange, and yellow.",
+        "keyFeatures": [
+          "Fall foliage",
+          "Cool weather",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Visiting temples",
+          "Enjoying local cuisine"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winters are cold and snowy, particularly in the mountainous regions. Skiing and snowboarding are popular winter activities.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Winter festivals"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating",
+          "Visiting winter palaces"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Jeju Island",
+      "category": "Island",
+      "description": "Jeju Island, a volcanic island off the southern coast, is a UNESCO World Heritage site renowned for its unique geological formations, diverse ecosystems, and stunning beaches. It’s a popular destination for both domestic and international tourists.",
+      "detailedDescription": "The island’s volcanic origins have created a landscape of dramatic cliffs, lava tubes, and lush forests. Hallasan Mountain, the highest peak in South Korea, dominates the island’s interior.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Seongsan Ilchulbong Peak",
+        "Manjanggul Lava Tube",
+        "Jeju Olle Trails"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes for hiking.",
+        "Bring sunscreen and a hat.",
+        "Check the weather forecast before heading out."
+      ],
+      "scientificData": {
+        "Elevation": "1,950m (Hallasan Mountain)",
+        "Volcanic Age": "Approximately 2 million years"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Jirisan National Park",
+      "category": "Mountain Range",
+      "description": "Jirisan National Park, spanning three provinces, is South Korea’s largest national park and a haven for biodiversity. It’s a popular destination for hiking and nature enthusiasts.",
+      "detailedDescription": "The park’s diverse ecosystems range from subtropical forests to alpine meadows. It’s home to a wide variety of flora and fauna, including endangered species.",
+      "bestTime": "Autumn",
+      "bestLocations": [
+        "Cheonwangbong Peak",
+        "Gwangmyeong Cave",
+        "Seonyubong Peak"
+      ],
+      "viewingTips": [
+        "Pack layers of clothing.",
+        "Bring plenty of water and snacks.",
+        "Be aware of wildlife."
+      ],
+      "scientificData": {
+        "Area": "269,487 ha",
+        "Altitude Range": "600m - 1,950m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Seoraksan National Park",
+      "category": "Mountain Range",
+      "description": "Seoraksan National Park is famed for its dramatic granite peaks, ancient temples, and vibrant autumn foliage. It’s a challenging but rewarding destination for experienced hikers.",
+      "detailedDescription": "The park’s rugged terrain and stunning vistas offer unparalleled views of the Korean peninsula. Numerous temples are nestled within the park’s forested slopes.",
+      "bestTime": "Autumn",
+      "bestLocations": [
+        "Ulsanbawi Rock",
+        "Sinheungsa Temple",
+        "Baekdamsa Temple"
+      ],
+      "viewingTips": [
+        "Be prepared for steep climbs.",
+        "Check trail conditions before hiking.",
+        "Respect the natural environment."
+      ],
+      "scientificData": {
+        "Elevation": "1,708m (Baekdamsa Peak)",
+        "Geological Formation": "Granite"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Korean Fauna",
+    "icon": "Bird",
+    "description": "South Korea is home to a diverse range of animal species, including several endemic and endangered species. The country’s varied habitats support a rich tapestry of wildlife.",
+    "statistics": [
+      {
+        "category": "Mammals",
+        "count": "130",
+        "details": "Includes red pandas, tigers, and various deer species."
+      },
+      {
+        "category": "Birds",
+        "count": "1,000",
+        "details": "South Korea is a major migratory route for birds, attracting a wide variety of species."
+      },
+      {
+        "category": "Reptiles & Amphibians",
+        "count": "200",
+        "details": "Diverse reptile and amphibian populations thrive in South Korea’s wetlands and forests."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Red Panda",
+        "status": "Endangered",
+        "significance": "One of the few remaining populations of red pandas outside of China."
+      },
+      {
+        "name": "Korean Tiger",
+        "status": "Critically Endangered",
+        "significance": "A symbol of South Korea’s conservation efforts."
+      },
+      {
+        "name": "White-browed Reed Warbler",
+        "status": "Near Threatened",
+        "significance": "A key migratory bird species that relies on South Korea’s wetlands."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "National park establishment",
+      "Species protection programs",
+      "Habitat restoration"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Korean Ecosystems",
+    "overview": "South Korea’s ecosystems are incredibly diverse, ranging from subtropical forests to alpine meadows and coastal wetlands. These ecosystems play a vital role in maintaining biodiversity and providing essential ecosystem services.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Korean Flora",
+        "icon": "Leaf",
+        "description": "South Korea boasts a rich flora, including numerous endemic plant species.",
+        "statistics": [
+          {
+            "category": "Endemic Plants",
+            "count": "300",
+            "details": "Unique plant species found only in South Korea."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat destruction",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Seed banking"
+        ]
+      },
+      {
+        "name": "Korean Wetlands",
+        "icon": "Droplets",
+        "description": "South Korea’s wetlands are crucial for biodiversity and flood control.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "1,300 sq km",
+            "details": "Includes tidal flats, salt marshes, and freshwater marshes."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Pollution",
+          "Drainage"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration",
+          "Pollution control"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in South Korea",
+    "description": "South Korea offers a wide range of outdoor activities for all skill levels, from hiking and camping to water sports and cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore South Korea’s stunning mountains and trails.",
+        "activities": [
+          {
+            "name": "Hallasan Hike",
+            "difficulty": "Hard",
+            "season": "Spring, Autumn",
+            "duration": "6-8 hours",
+            "description": "A challenging but rewarding hike to the summit of South Korea’s highest mountain.",
+            "bestLocations": [
+              "Seongpanak Trail",
+              "Gwaneumsa Trail"
+            ],
+            "requirements": "Sturdy hiking boots, water, snacks, appropriate clothing.",
+            "safety": [
+              "Check weather conditions",
+              "Stay on marked trails",
+              "Inform someone of your plans"
+            ]
+          },
+          {
+            "name": "Jeju Olle Trails",
+            "difficulty": "Easy to Moderate",
+            "season": "Spring, Autumn",
+            "duration": "Variable (sections can be completed in a few hours)",
+            "description": "A network of scenic trails that circle Jeju Island.",
+            "bestLocations": [
+              "Various sections of the trail"
+            ],
+            "requirements": "Comfortable walking shoes, sunscreen, water.",
+            "safety": [
+              "Wear sunscreen",
+              "Stay hydrated",
+              "Be aware of coastal hazards"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the beaches and coastal waters of South Korea.",
+        "activities": [
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Catch some waves at popular surfing spots along the coast.",
+            "bestLocations": [
+              "Wonsan",
+              "Busan"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on water temperature), swimming skills.",
+            "safety": [
+              "Check surf conditions",
+              "Swim with a buddy",
+              "Use a leash"
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Easy",
+            "season": "Spring, Summer, Autumn",
+            "duration": "Variable",
+            "description": "Explore the coastline and rivers by kayak.",
+            "bestLocations": [
+              "Seoul Han River",
+              "Jeju Island"
+            ],
+            "requirements": "Kayak, paddle, life jacket.",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents",
+              "Check weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm coat, hat, gloves, scarf, waterproof boots",
+        "yearRound": "Layers of clothing, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Emergency contact information",
+        "Basic Korean phrases"
+      ]
+    }
+  }
+}

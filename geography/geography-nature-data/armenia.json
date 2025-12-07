@@ -1,0 +1,343 @@
+{
+  "name": "Armenia",
+  "region": "Europe",
+  "description": "Armenia, a landlocked country in the South Caucasus, boasts a rich history, stunning landscapes, and unique cultural heritage. Situated at the crossroads of Europe and Asia, Armenia has been shaped by ancient empires, religious traditions, and dramatic geological forces. From snow-capped mountains to fertile valleys, and ancient monasteries to vibrant cities, Armenia offers a diverse and unforgettable travel experience.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Yerevan",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, a blend of ancient and modern architecture.",
+      "detail": "Yerevan is known for its numerous parks, museums, and bustling cafes."
+    },
+    {
+      "label": "Population",
+      "value": "2.8 million",
+      "icon": "Users",
+      "description": "A resilient and welcoming population.",
+      "detail": "The majority of the population identifies as ethnic Armenians."
+    },
+    {
+      "label": "Official Language",
+      "value": "Armenian",
+      "icon": "Globe",
+      "description": "A language with a history spanning millennia.",
+      "detail": "Armenian is an independent branch of the Indo-European language family."
+    },
+    {
+      "label": "Currency",
+      "value": "Armenian Dram (AMD)",
+      "icon": "Coffee",
+      "description": "The local currency.",
+      "detail": "The exchange rate fluctuates, but generally around 450 AMD per 1 USD."
+    },
+    {
+      "label": "Area",
+      "value": "29,743 sq km",
+      "icon": "MapPin",
+      "description": "A relatively small but incredibly diverse country.",
+      "detail": "Armenia is one of the smallest countries in the world."
+    },
+    {
+      "label": "Elevation",
+      "value": "3,938 m (Mount Aragats)",
+      "icon": "Mountain",
+      "description": "Home to the highest peak in the Lesser Caucasus.",
+      "detail": "Mount Aragats dominates the landscape and offers challenging hiking opportunities."
+    }
+  ],
+  "climateData": {
+    "title": "Armenian Climate",
+    "description": "Armenia experiences a humid subtropical climate in the lowlands, transitioning to a continental climate in the highlands.  Summers are warm and sunny, while winters are cold and snowy, particularly in the mountainous regions. Rainfall is distributed throughout the year, with higher amounts in the spring and autumn.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "A time of rebirth and blossoming, with wildflowers carpeting the hillsides.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Increased rainfall",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Visiting monasteries"
+        ]
+      },
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Warm and sunny days, ideal for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Long daylight hours",
+          "Festivals"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Swimming",
+          "Wine tasting"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Crisp air and stunning autumn foliage, a beautiful time for exploring.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Colorful landscapes",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Visiting vineyards"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Cold and snowy conditions, perfect for winter sports.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Festive atmosphere"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting historical sites"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lake Sevan",
+      "category": "Lake",
+      "description": "Armenia’s largest lake, a vital source of freshwater and a stunning natural landmark. Surrounded by monasteries and picturesque villages.",
+      "detailedDescription": "Lake Sevan is a high-altitude lake, known for its unique ecosystem and the traditional 'sevan' fish. It’s a crucial water resource for the country.",
+      "bestTime": "June-September",
+      "bestLocations": [
+        "Sevanavank Monastery",
+        "Karoun Village"
+      ],
+      "viewingTips": [
+        "Take a boat trip",
+        "Visit the monasteries along the shore"
+      ],
+      "scientificData": {
+        "Depth": "197 m",
+        "Surface Area": "645 km²"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 2,
+      "name": "Geghard Monastery",
+      "category": "Monastery",
+      "description": "A UNESCO World Heritage site, carved into the cliffs of Armenia’s volcanic mountains. A testament to the country’s rich religious history.",
+      "detailedDescription": "Geghard is renowned for its intricate carvings and its role as a repository for the Holy Cross relic. It’s a complex of cave churches and monastic buildings.",
+      "bestTime": "April-June, September-October",
+      "bestLocations": [
+        "Outskirts of Yerevan"
+      ],
+      "viewingTips": [
+        "Explore the different levels of the monastery",
+        "Attend a religious service"
+      ],
+      "scientificData": {
+        "Altitude": "1,815 m",
+        "Age": "13th Century"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Mount Aragats",
+      "category": "Mountain",
+      "description": "Armenia’s highest peak, offering breathtaking panoramic views and challenging hiking trails. A sacred mountain for Armenians.",
+      "detailedDescription": "Mount Aragats is a dormant volcano and a significant geological feature. It’s a popular destination for mountaineering and offers diverse ecosystems.",
+      "bestTime": "June-September",
+      "bestLocations": [
+        "Aragatsbatsch"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Check weather conditions before hiking"
+      ],
+      "scientificData": {
+        "Height": "4,090 m",
+        "Age": "1.6 Million years"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Armenian Ecosystems",
+    "overview": "Armenia’s diverse ecosystems range from alpine meadows and coniferous forests to semi-desert landscapes and wetlands. The country’s unique geography and climate contribute to a rich biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 4
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Armenia is home to a variety of mammals, including the Armenian wolf, brown bear, and lynx.",
+        "statistics": [
+          {
+            "category": "Wolf",
+            "count": "Approx. 300",
+            "details": "Critically endangered"
+          },
+          {
+            "category": "Bear",
+            "count": "Approx. 1500",
+            "details": "Protected species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Armenian Wolf",
+            "status": "Critically Endangered",
+            "significance": "Iconic symbol of Armenia"
+          },
+          {
+            "name": "Brown Bear",
+            "status": "Vulnerable",
+            "significance": "Important predator in the ecosystem"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Habitat restoration"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Armenia is a birdwatcher’s paradise, with over 300 bird species recorded.",
+        "statistics": [
+          {
+            "category": "Raptors",
+            "count": "80",
+            "details": "Diverse species of eagles and falcons"
+          },
+          {
+            "category": "Waterbirds",
+            "count": "50",
+            "details": "Important migratory stopover"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Armenian Redwing",
+            "status": "Endangered",
+            "significance": "Unique to Armenia"
+          },
+          {
+            "name": "Black Stork",
+            "status": "Vulnerable",
+            "significance": "Migratory bird"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Bird monitoring programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Armenia",
+    "description": "Armenia offers a wide range of activities for all interests, from hiking and trekking to cultural experiences and adventure sports.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Armenia’s stunning mountain landscapes and ancient trails.",
+        "activities": [
+          {
+            "name": "Mount Aragats Hike",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "1-2 days",
+            "description": "A challenging hike to the summit of Armenia’s highest peak.",
+            "bestLocations": [
+              "Aragatsbatsch"
+            ],
+            "requirements": "Good hiking boots, appropriate clothing, water",
+            "safety": [
+              "Check weather conditions",
+              "Hike with a guide"
+            ]
+          },
+          {
+            "name": "Dilijan National Park Trails",
+            "difficulty": "Moderate",
+            "season": "Spring-Autumn",
+            "duration": "Half-day to full-day",
+            "description": "Explore the beautiful forests and meadows of Dilijan National Park.",
+            "bestLocations": [
+              "Dilijan"
+            ],
+            "requirements": "Hiking boots, water",
+            "safety": [
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy swimming, boating, and fishing in Lake Sevan and other waterways.",
+        "activities": [
+          {
+            "name": "Lake Sevan Boat Trip",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Half-day",
+            "description": "Relaxing boat trip on Lake Sevan.",
+            "bestLocations": [
+              "Sevan"
+            ],
+            "requirements": "Sunscreen, hat",
+            "safety": [
+              "Wear a life jacket"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen",
+        "winter": "Warm coat, hat, gloves, waterproof boots",
+        "yearRound": "Layers of clothing, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Inform someone of your plans",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

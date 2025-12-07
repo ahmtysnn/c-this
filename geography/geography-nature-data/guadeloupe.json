@@ -1,0 +1,320 @@
+{
+  "name": "Guadeloupe",
+  "region": "Caribbean, France",
+  "description": "Guadeloupe is an overseas region and department of France located in the Caribbean. It’s known for its stunning beaches, lush rainforests, volcanic landscapes, and vibrant culture. The island boasts a diverse ecosystem, rich history, and a unique blend of French and Caribbean influences.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "397,547",
+      "icon": "Users",
+      "description": "The population of Guadeloupe is a mix of Creole, French, and other European descent.",
+      "detail": "The majority of the population resides in the northern plain, while the mountainous interior is sparsely populated."
+    },
+    {
+      "label": "Area",
+      "value": "1,614 sq km (623 sq mi)",
+      "icon": "MapPin",
+      "description": "Guadeloupe is comprised of several islands, including Grande-Terre, Basse-Terre, and several smaller islands.",
+      "detail": "Grande-Terre is the most populated and developed island, while Basse-Terre is known for its volcanic peaks and rainforests."
+    },
+    {
+      "label": "Capital",
+      "value": "Pointe-à-Pitre",
+      "icon": "MapPin",
+      "description": "Pointe-à-Pitre is the largest city and commercial center of Guadeloupe.",
+      "detail": "It’s a bustling port city with a vibrant market and historical architecture."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "As part of France, Guadeloupe uses the Euro as its currency.",
+      "detail": "Credit cards are widely accepted, but it's advisable to have some cash for smaller establishments."
+    },
+    {
+      "label": "Language",
+      "value": "French, Creole",
+      "icon": "Globe",
+      "description": "French is the official language, but Creole is widely spoken and understood.",
+      "detail": "Learning a few basic Creole phrases will greatly enhance your experience."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Guadeloupe enjoys a tropical climate with consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, particularly during the wet season.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is hot and humid, with frequent showers and thunderstorms. It’s the rainy season.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent rain",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Swimming",
+          "Beach relaxation",
+          "Rainforest hikes"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn sees a gradual decrease in rainfall and slightly cooler temperatures. The landscape is lush and vibrant.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Pleasant temperatures",
+          "Lush greenery"
+        ],
+        "activities": [
+          "Hiking",
+          "Waterfalls exploration",
+          "Wildlife spotting"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is the driest season, with sunny days and comfortable temperatures. It’s a popular time to visit.",
+        "keyFeatures": [
+          "Dry weather",
+          "Mild temperatures",
+          "Sunny skies"
+        ],
+        "activities": [
+          "Snorkeling",
+          "Diving",
+          "Boat trips"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a return of lush greenery and increasing rainfall. Temperatures are pleasant and comfortable.",
+        "keyFeatures": [
+          "Increasing rainfall",
+          "Warm temperatures",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Birdwatching",
+          "Botanical garden visits",
+          "Coastal walks"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Piton du Carbet",
+      "category": "Volcano",
+      "description": "The Piton du Carbet is the highest point in Guadeloupe and a UNESCO World Heritage Site. This iconic volcanic plug dominates the landscape of Basse-Terre.",
+      "detailedDescription": "Formed by a submarine volcano, the Piton du Carbet offers challenging hikes with breathtaking views. Its steep slopes are covered in dense rainforest, home to unique flora and fauna.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Basse-Terre"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring plenty of water",
+        "Check weather conditions before heading out"
+      ],
+      "scientificData": {
+        "Height": "1463m",
+        "Age": "Approximately 1 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Grand Ilette",
+      "category": "Beach",
+      "description": "Grand Ilette is a stunning, secluded beach on the island of Grande-Terre, known for its pristine white sand and turquoise waters.",
+      "detailedDescription": "This idyllic beach is surrounded by coral reefs, making it a fantastic spot for snorkeling and diving. It’s a protected area, ensuring its natural beauty remains unspoiled.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Grande-Terre"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Respect the marine environment",
+        "Consider a boat trip for access"
+      ],
+      "scientificData": {
+        "Sand Composition": "Primarily quartz and coral fragments",
+        "Water Temperature": "Average 27°C"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Rainforest Ecosystem",
+    "icon": "Trees",
+    "description": "Guadeloupe’s rainforests are incredibly diverse, harboring a vast array of plant and animal species, many of which are endemic to the island.",
+    "statistics": [
+      {
+        "category": "Plant Species",
+        "count": "Over 1,300",
+        "details": "Including numerous endemic orchids, ferns, and trees."
+      },
+      {
+        "category": "Bird Species",
+        "count": "Over 90",
+        "details": "Many colorful tropical birds, including the Sisserou Parrot (endangered)."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Sisserou Parrot",
+        "status": "Endangered",
+        "significance": "The national bird of Guadeloupe, critically endangered due to habitat loss and poaching."
+      },
+      {
+        "name": "Guadeloupean Gecko",
+        "status": "Vulnerable",
+        "significance": "A unique gecko species found only in Guadeloupe."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Habitat fragmentation",
+      "Illegal wildlife trade"
+    ],
+    "conservationEfforts": [
+      "Protected areas management",
+      "Reforestation projects",
+      "Community-based conservation"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Tropical Rainforest Ecosystem",
+    "overview": "Guadeloupe’s rainforests are a vital part of the Caribbean ecosystem, playing a crucial role in regulating climate and supporting biodiversity. They are characterized by high rainfall, humidity, and a dense canopy of trees.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 30%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Rainforest Ecosystem",
+        "icon": "Trees",
+        "description": "The dominant ecosystem, characterized by dense vegetation, high rainfall, and a complex food web.",
+        "statistics": [
+          {
+            "category": "Tree Density",
+            "count": "Over 200 species",
+            "details": "A diverse range of hardwood and softwood trees."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Climate change",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Invasive species control"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures in Guadeloupe",
+    "description": "Guadeloupe offers a wide range of outdoor activities for all skill levels, from hiking and water sports to exploring its rich cultural heritage.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s diverse landscapes on foot, from volcanic peaks to lush rainforests.",
+        "activities": [
+          {
+            "name": "Piton du Carbet Hike",
+            "difficulty": "Hard",
+            "season": "December - April",
+            "duration": "6-8 hours",
+            "description": "A challenging but rewarding hike to the summit of the Piton du Carbet.",
+            "bestLocations": [
+              "Basse-Terre"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen, hat",
+            "safety": [
+              "Check weather conditions",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "La Pointe des Châteaux Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-4 hours",
+            "description": "A scenic hike along the coast with stunning views of the ocean.",
+            "bestLocations": [
+              "Grande-Terre"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Be aware of slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of Guadeloupe with a variety of water sports activities.",
+        "activities": [
+          {
+            "name": "Snorkeling & Diving",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Grand Ilette",
+              "Anse Dubois"
+            ],
+            "requirements": "Snorkeling gear or diving certification",
+            "safety": [
+              "Respect marine life",
+              "Use reef-safe sunscreen"
+            ]
+          },
+          {
+            "name": "Windsurfing & Kitesurfing",
+            "difficulty": "Moderate",
+            "season": "December - May",
+            "duration": "Variable",
+            "description": "Take advantage of the consistent trade winds.",
+            "bestLocations": [
+              "Grande-Terre"
+            ],
+            "requirements": "Windsurfing or kitesurfing equipment, lessons",
+            "safety": [
+              "Check wind conditions",
+              "Wear a life jacket"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Layers, waterproof jacket, sweater",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Insect repellent, flashlight, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of wildlife",
+        "Respect local customs"
+      ]
+    }
+  }
+}

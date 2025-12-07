@@ -1,0 +1,349 @@
+{
+  "name": "Senegal",
+  "region": "Africa",
+  "description": "Senegal, a West African nation, boasts a diverse landscape ranging from the vast Sahelian grasslands to the Atlantic coastline. Known for its vibrant culture, rich history, and significant role in the slave trade, Senegal offers a unique blend of traditional and modern influences. It’s a country of contrasts, experiencing both arid desert conditions and fertile river valleys, supporting a remarkable array of wildlife and ecosystems.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Dakar",
+      "icon": "MapPin",
+      "description": "The bustling economic and political heart of Senegal.",
+      "detail": "Dakar is a port city with a rich colonial history and a vibrant arts scene."
+    },
+    {
+      "label": "Population",
+      "value": "17.35 million",
+      "icon": "Users",
+      "description": "Senegal's population is predominantly young and growing.",
+      "detail": "The majority of the population lives in rural areas, engaged in agriculture."
+    },
+    {
+      "label": "Official Language",
+      "value": "French",
+      "icon": "Globe",
+      "description": "French is the official language, alongside Wolof.",
+      "detail": "Wolof is the most widely spoken indigenous language."
+    },
+    {
+      "label": "Area",
+      "value": "196,722 sq km",
+      "icon": "MapPin",
+      "description": "Senegal is a relatively small country in West Africa.",
+      "detail": "It borders Mauritania to the north and Mali to the landward south."
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)",
+      "icon": "Coffee",
+      "description": "The currency used in Senegal.",
+      "detail": "It's pegged to the Euro."
+    },
+    {
+      "label": "GDP",
+      "value": "$15.3 billion (2023)",
+      "icon": "Zap",
+      "description": "Senegal's economy is largely based on agriculture and fishing.",
+      "detail": "Tourism is a growing sector."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Senegal",
+    "description": "Senegal experiences a tropical savanna climate, characterized by distinct wet and dry seasons. The coastal areas enjoy a more moderate climate due to the influence of the Atlantic Ocean.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season (November - April)",
+        "period": "November - April",
+        "description": "This is the hottest and driest period of the year, with temperatures often exceeding 35°C (95°F).",
+        "keyFeatures": [
+          "Low rainfall",
+          "High temperatures",
+          "Clear skies"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Desert exploration",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Wet Season (May - October)",
+        "period": "May - October",
+        "description": "The wet season brings increased rainfall, particularly in the inland areas. Temperatures are generally cooler.",
+        "keyFeatures": [
+          "High rainfall",
+          "Cloudy skies",
+          "Moderate temperatures"
+        ],
+        "activities": [
+          "River cruises",
+          "Birdwatching",
+          "Exploring inland villages"
+        ]
+      },
+      {
+        "name": "Harmattan Winds",
+        "period": "December - February",
+        "description": "A dry, dusty wind blows in from the Sahara Desert, bringing cooler temperatures and reduced visibility.",
+        "keyFeatures": [
+          "Dust storms",
+          "Cooler temperatures",
+          "Reduced visibility"
+        ],
+        "activities": [
+          "Indoor activities",
+          "Museum visits"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Djoudjar National Bird Sanctuary",
+      "category": "Wetland",
+      "description": "Djoudjar is one of the most important wetland areas in Africa and a UNESCO World Heritage Site. It’s a haven for migratory birds, particularly during the spring and autumn.",
+      "detailedDescription": "The sanctuary covers a vast area of interconnected lagoons and marshes, providing crucial habitat for a diverse range of bird species, including flamingos, pelicans, and herons. The surrounding area offers opportunities for birdwatching and experiencing the beauty of the Senegalese wetlands.",
+      "bestTime": "March - November",
+      "bestLocations": [
+        "Lac Guédé",
+        "Lac Baly",
+        "Lac Retba"
+      ],
+      "viewingTips": [
+        "Bring binoculars",
+        "Dress in neutral colors",
+        "Respect the wildlife"
+      ],
+      "scientificData": {
+        "Area": "10,700 ha",
+        "Bird Species": "Over 360 species"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 2,
+      "name": "Sine Salax National Park",
+      "category": "Savanna",
+      "description": "This park encompasses a vast expanse of savanna, riverine forests, and wetlands, offering a glimpse into Senegal’s diverse ecosystems.",
+      "detailedDescription": "Sine Salax is known for its rich biodiversity, including elephants, giraffes, antelopes, and a variety of bird species. The park’s location along the Senegal River provides crucial habitat for migratory birds and supports a thriving ecosystem.",
+      "bestTime": "November - June",
+      "bestLocations": [
+        "Riverbanks",
+        "Forest edges"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Travel in a 4x4 vehicle",
+        "Be patient"
+      ],
+      "scientificData": {
+        "Area": "1,500,000 ha",
+        "Mammal Species": "Over 40 species"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Île de Gorée",
+      "category": "Island",
+      "description": "A UNESCO World Heritage Site, Île de Gorée is a small island off the coast of Senegal, steeped in history as a major departure point for enslaved Africans.",
+      "detailedDescription": "The island’s architecture reflects its colonial past, with well-preserved buildings showcasing European influences. It serves as a poignant reminder of the transatlantic slave trade and a symbol of resilience and remembrance. Visitors can explore the island’s museums, churches, and historic houses.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Old Town",
+        "House of Slaves"
+      ],
+      "viewingTips": [
+        "Allow at least 3-4 hours to explore",
+        "Visit the House of Slaves museum"
+      ],
+      "scientificData": {
+        "Area": "1.1 km²",
+        "Historical Significance": "Transatlantic Slave Trade"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Birds",
+    "icon": "Bird",
+    "description": "Senegal is a crucial stopover point for numerous migratory bird species, making it a vital region for avian biodiversity.",
+    "statistics": [
+      {
+        "category": "Migratory Birds",
+        "count": "Over 360 species",
+        "details": "Djoudjar National Bird Sanctuary hosts a significant portion of these migratory birds."
+      },
+      {
+        "category": "Endemic Species",
+        "count": "15",
+        "details": "Several bird species are found only in Senegal and surrounding regions."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Senegal Parrot",
+        "status": "Vulnerable",
+        "significance": "A distinctive parrot species found in the Sahel region of Senegal."
+      },
+      {
+        "name": "Pink-backed Pelican",
+        "status": "Least Concern",
+        "significance": "A large pelican species that breeds in Senegal's wetlands."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Illegal hunting"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Community-based conservation",
+      "Research and monitoring"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Ecosystems of Senegal",
+    "overview": "Senegal’s ecosystems are incredibly diverse, ranging from the arid Sahel to the humid coastal zones. These ecosystems support a rich array of plant and animal life, playing a crucial role in the country’s biodiversity and economy.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "As discussed above, Senegal is a critical region for migratory birds and endemic species.",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [],
+        "conservationEfforts": []
+      },
+      {
+        "name": "Mammals",
+        "icon": "Mountain",
+        "description": "Senegal’s mammal fauna includes elephants, giraffes, antelopes, and various carnivores.",
+        "statistics": [
+          {
+            "category": "Large Mammals",
+            "count": "Approximately 40 species",
+            "details": "Elephants and giraffes are particularly abundant in the inland savanna."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "A keystone species in the savanna ecosystem."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community conservation programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Senegal",
+    "description": "Senegal offers a wide range of activities for travelers, from wildlife viewing and cultural experiences to water sports and adventure tourism.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Senegal’s diverse landscapes on foot, from savanna trails to coastal paths.",
+        "activities": [
+          {
+            "name": "Lac Rose Hiking",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "A gentle hike around the pink lake, offering stunning views and opportunities for birdwatching.",
+            "bestLocations": [
+              "Lac Rose"
+            ],
+            "requirements": "Comfortable shoes, sunscreen, hat",
+            "safety": [
+              "Stay hydrated",
+              "Wear appropriate footwear"
+            ]
+          },
+          {
+            "name": "Sine Salax National Park Trek",
+            "difficulty": "Moderate",
+            "season": "November - June",
+            "duration": "3-5 days",
+            "description": "A guided trek through the Sine Salax National Park, exploring the savanna and riverine forests.",
+            "bestLocations": [
+              "Sine Salax National Park"
+            ],
+            "requirements": "4x4 vehicle, experienced guide, camping equipment",
+            "safety": [
+              "Be aware of wildlife",
+              "Follow guide instructions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Atlantic coastline with a variety of water sports activities.",
+        "activities": [
+          {
+            "name": "Surfing at Joal",
+            "difficulty": "Moderate",
+            "season": "October - June",
+            "duration": "Half-day",
+            "description": "Learn to surf at the popular surfing spot of Joal, known for its consistent waves.",
+            "bestLocations": [
+              "Joal"
+            ],
+            "requirements": "Surfboard, wetsuit (optional)",
+            "safety": [
+              "Check wave conditions",
+              "Use a leash"
+            ]
+          },
+          {
+            "name": "Dakar Boat Trip",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "Explore the Dakar coastline by boat, visiting islands and enjoying the marine scenery.",
+            "bestLocations": [
+              "Dakar"
+            ],
+            "requirements": "Sunscreen, hat, sunglasses",
+            "safety": [
+              "Wear a life jacket",
+              "Follow captain’s instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, including a jacket, sweater, and long pants",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Insect repellent, flashlight, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink bottled water",
+        "Be aware of your surroundings",
+        "Respect local customs"
+      ]
+    }
+  }
+}

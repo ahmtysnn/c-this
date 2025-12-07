@@ -1,0 +1,378 @@
+{
+  "CountryData": {
+    "name": "Tokelau",
+    "region": "Oceania",
+    "description": "Tokelau is a remote and largely uninhabited Polynesian archipelago located in the South Pacific Ocean, approximately 760 kilometers (473 miles) north of New Zealand. It consists of six small islands – Atafu, Nukunuku, Niua, Orongo, Pisio, and Tutu – and is administered by New Zealand. Tokelau’s culture is deeply rooted in traditional Polynesian practices, and its economy relies primarily on copra production and tourism. The islands boast stunning volcanic landscapes, pristine beaches, and a unique ecosystem.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "1,709 (2021)",
+        "icon": "Users",
+        "description": "The population of Tokelau is small and dispersed across the islands.",
+        "detail": "Most residents live on the main island, Pisio."
+      },
+      {
+        "label": "Area",
+        "value": "121 km² (47 sq mi)",
+        "icon": "MapPin",
+        "description": "Tokelau is a relatively small island nation.",
+        "detail": "The total land area encompasses all six islands."
+      },
+      {
+        "label": "Capital",
+        "value": "Pisio",
+        "icon": "MapPin",
+        "description": "Pisio is the largest and most populated island.",
+        "detail": "It serves as the administrative and cultural center."
+      },
+      {
+        "label": "Official Language",
+        "value": "Tokelauan, English",
+        "icon": "Globe",
+        "description": "Tokelauan is the indigenous language, while English is used for administration and education.",
+        "detail": "Many Tokelauans also speak Māori and New Zealand Sign Language."
+      },
+      {
+        "label": "Currency",
+        "value": "NZD (New Zealand Dollar)",
+        "icon": "Navigation",
+        "description": "The New Zealand Dollar is the official currency.",
+        "detail": "Tokelau operates under a unique system where New Zealand handles most financial transactions."
+      },
+      {
+        "label": "Time Zone",
+        "value": "UTC+12:00",
+        "icon": "Clock",
+        "description": "Tokelau observes New Zealand Standard Time.",
+        "detail": "This results in a significant time difference with many parts of the world."
+      },
+      {
+        "label": "Government",
+        "value": "Territory of New Zealand",
+        "icon": "Eye",
+        "description": "Tokelau is a territory of New Zealand with a high degree of self-governance.",
+        "detail": "The Tokelau Council governs the islands through a system of elected representatives."
+      }
+    ],
+    "climateData": {
+      "title": "Climate of Tokelau",
+      "description": "Tokelau experiences a tropical maritime climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is generally moderate, with seasonal variations influenced by the prevailing trade winds.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (December - February)",
+          "period": "Warm & Wet",
+          "description": "Summer is the warmest and wettest season, with average temperatures ranging from 28°C to 32°C (82°F to 90°F). Rainfall is frequent and can lead to flooding.",
+          "keyFeatures": [
+            "High humidity",
+            "Frequent rainfall",
+            "Warm temperatures",
+            "Strong trade winds"
+          ],
+          "activities": [
+            "Swimming",
+            "Snorkeling",
+            "Beach relaxation"
+          ]
+        },
+        {
+          "name": "Autumn (March - May)",
+          "period": "Transition",
+          "description": "Autumn marks a transition period with decreasing rainfall and slightly cooler temperatures. The trade winds become more consistent.",
+          "keyFeatures": [
+            "Decreasing rainfall",
+            "Cooler temperatures",
+            "Consistent trade winds",
+            "Vibrant foliage"
+          ],
+          "activities": [
+            "Hiking",
+            "Birdwatching",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Winter (June - August)",
+          "period": "Mild & Dry",
+          "description": "Winter is the coolest and driest season, with average temperatures ranging from 24°C to 27°C (75°F to 81°F).  The trade winds are strongest during this period.",
+          "keyFeatures": [
+            "Mild temperatures",
+            "Low rainfall",
+            "Strong trade winds",
+            "Clear skies"
+          ],
+          "activities": [
+            "Fishing",
+            "Boat trips",
+            "Exploring the islands"
+          ]
+        },
+        {
+          "name": "Spring (September - November)",
+          "period": "Warm & Increasing Rainfall",
+          "description": "Spring brings a gradual increase in rainfall and warmer temperatures. The trade winds begin to weaken.",
+          "keyFeatures": [
+            "Increasing rainfall",
+            "Warmer temperatures",
+            "Weakening trade winds",
+            "Blooming flowers"
+          ],
+          "activities": [
+            "Hiking",
+            "Coastal walks",
+            "Wildlife observation"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Aga Reef",
+        "category": "Coral Reef",
+        "description": "Aga Reef is a stunning coral reef system teeming with marine life, located just offshore from Nukunuku Atoll. It’s a vital breeding ground for numerous fish species and a popular destination for snorkeling and diving.",
+        "detailedDescription": "The reef boasts a diverse array of coral formations, including brain coral, staghorn coral, and fan coral. The surrounding waters are exceptionally clear, offering unparalleled visibility for underwater exploration.  It’s a UNESCO Biosphere Reserve.",
+        "bestTime": "Year-Round",
+        "bestLocations": [
+          "Nukunuku Atoll",
+          "Boat trips from Pisio"
+        ],
+        "viewingTips": [
+          "Use reef-safe sunscreen",
+          "Respect the marine environment",
+          "Hire a local guide"
+        ],
+        "scientificData": {
+          "Depth": "30m",
+          "Coral Coverage": "70%"
+        },
+        "icon": "Waves"
+      },
+      {
+        "id": 2,
+        "name": "Oवला Island Volcanic Landscape",
+        "category": "Volcanic",
+        "description": "Ovala Island presents a dramatic volcanic landscape, showcasing the raw power of nature and the geological history of Tokelau. The island’s unique formations offer a glimpse into the region’s past.",
+        "detailedDescription": "The island is dominated by a dormant volcanic cone, surrounded by black sand beaches and lava fields.  Evidence of past eruptions is visible in the form of craters, fissures, and basalt columns. The landscape is remarkably untouched by human activity.",
+        "bestTime": "March - May",
+        "bestLocations": [
+          "Ovala Island"
+        ],
+        "viewingTips": [
+          "Wear sturdy shoes",
+          "Bring water",
+          "Respect the fragile environment"
+        ],
+        "scientificData": {
+          "Height": "300m",
+          "Age": "1.2M years"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 3,
+        "name": "Pisio Beach",
+        "category": "Coastal",
+        "description": "Pisio Beach is the main beach on the main island, offering pristine white sand and turquoise waters, perfect for relaxation and water activities.",
+        "detailedDescription": "The beach is sheltered by a coral reef, providing calm and clear waters ideal for swimming and snorkeling. Palm trees line the shore, offering shade and a picturesque setting. It's a hub for local life and tourism.",
+        "bestTime": "Year-Round",
+        "bestLocations": [
+          "Pisio Island"
+        ],
+        "viewingTips": [
+          "Bring a towel and sunscreen",
+          "Enjoy the sunset"
+        ],
+        "scientificData": {
+          "Sand Composition": "Quartz-rich",
+          "Water Temperature": "26-28°C"
+        },
+        "icon": "Leaf"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Ecosystems of Tokelau",
+      "overview": "Tokelau’s ecosystems are remarkably diverse, encompassing coral reefs, volcanic landscapes, and lush coastal forests. The islands’ isolation has fostered a unique array of endemic species, making them a biodiversity hotspot.",
+      "conservationStatus": {
+        "protectedAreas": "15%",
+        "nationalParks": 0
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Marine Biodiversity",
+          "icon": "Fish",
+          "description": "The marine environment is incredibly rich, supporting a vast array of fish, invertebrates, and marine mammals.",
+          "statistics": [
+            {
+              "category": "Fish Species",
+              "count": "Over 200",
+              "details": "Many species are endemic to the region."
+            },
+            {
+              "category": "Coral Species",
+              "count": "60+",
+              "details": "Diverse coral communities form the foundation of the reef ecosystem."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Tokelau Parrotfish",
+              "status": "Endangered",
+              "significance": "A unique species found only in Tokelau."
+            },
+            {
+              "name": "Hawksbill Turtle",
+              "status": "Vulnerable",
+              "significance": "An important predator in the reef ecosystem."
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Plastic pollution",
+            "Overfishing"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas",
+            "Community-based conservation programs"
+          ]
+        },
+        {
+          "name": "Terrestrial Biodiversity",
+          "icon": "Bird",
+          "description": "The islands’ interior features a variety of native plants and birds, adapted to the unique conditions.",
+          "statistics": [
+            {
+              "category": "Plant Species",
+              "count": "Approximately 50",
+              "details": "Many are endemic to Tokelau."
+            },
+            {
+              "category": "Bird Species",
+              "count": "15",
+              "details": "Includes several endemic bird species."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Tokelau Fernhenry",
+              "status": "Endangered",
+              "significance": "A flightless bird endemic to Tokelau."
+            },
+            {
+              "name": "Red-tailed Tropicbird",
+              "status": "Vulnerable",
+              "significance": "A seabird that nests on the islands' cliffs."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Introduced predators",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Habitat restoration",
+            "Predator control",
+            "Community education"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Activities in Tokelau",
+      "description": "Tokelau offers a range of activities for visitors, from exploring pristine beaches to diving in vibrant coral reefs and hiking through volcanic landscapes.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the islands’ diverse landscapes on foot.",
+          "activities": [
+            {
+              "name": "Ovala Island Hike",
+              "difficulty": "Moderate",
+              "season": "Year-Round",
+              "duration": "3-4 hours",
+              "description": "Hike to the summit of Ovaala Island for panoramic views of the surrounding islands.",
+              "bestLocations": [
+                "Ovala Island"
+              ],
+              "requirements": "Sturdy hiking boots, water, sunscreen",
+              "safety": [
+                "Be aware of uneven terrain",
+                "Stay hydrated"
+              ]
+            },
+            {
+              "name": "Pisio Coastal Walk",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "2-3 hours",
+              "description": "Enjoy a scenic walk along the coastline of Pisio Island.",
+              "bestLocations": [
+                "Pisio Island"
+              ],
+              "requirements": "Comfortable shoes, sunscreen",
+              "safety": [
+                "Watch for slippery rocks"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy the crystal-clear waters of Tokelau with a variety of water sports.",
+          "activities": [
+            {
+              "name": "Snorkeling",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "Variable",
+              "description": "Explore the vibrant coral reefs and marine life.",
+              "bestLocations": [
+                "Aga Reef",
+                "Pisio Beach"
+              ],
+              "requirements": "Snorkel gear, reef-safe sunscreen",
+              "safety": [
+                "Respect the marine environment",
+                "Avoid touching the coral"
+              ]
+            },
+            {
+              "name": "Diving",
+              "difficulty": "Moderate",
+              "season": "May - October",
+              "duration": "Variable",
+              "description": "Discover the underwater wonders of Tokelau’s coral reefs.",
+              "bestLocations": [
+                "Aga Reef"
+              ],
+              "requirements": "Certification, diving gear",
+              "safety": [
+                "Follow dive guidelines",
+                "Check weather conditions"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+          "winter": "Layers of clothing, waterproof jacket, sweater",
+          "yearRound": "Sunscreen, insect repellent"
+        },
+        "equipment": {
+          "basic": "Reusable water bottle, backpack, flashlight",
+          "hiking": "Sturdy hiking boots, walking stick",
+          "photography": "Camera, waterproof case"
+        },
+        "safety": [
+          "Respect local customs",
+          "Stay hydrated",
+          "Be aware of the weather",
+          "Inform someone of your plans"
+        ]
+      }
+    }
+  }
+}

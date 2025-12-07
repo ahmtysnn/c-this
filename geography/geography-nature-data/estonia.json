@@ -1,0 +1,392 @@
+{
+  "name": "Estonia",
+  "region": "Europe",
+  "description": "Estonia, a Nordic country in Northern Europe, boasts a unique blend of Baltic and Scandinavian influences. Characterized by its flat, forested landscapes, numerous islands, and a rich history shaped by both German and Russian rule, Estonia offers a diverse range of experiences, from exploring medieval castles to enjoying the tranquility of its vast wilderness. Its strategic location on the Baltic Sea makes it a vital crossroads of cultures and trade.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Tallinn",
+      "icon": "MapPin",
+      "description": "The historic capital of Estonia, a UNESCO World Heritage site.",
+      "detail": "Tallinn's Old Town is a remarkably well-preserved medieval city, offering a captivating glimpse into Estonia's past."
+    },
+    {
+      "label": "Population",
+      "value": "1.34 million",
+      "icon": "Users",
+      "description": "Estonia has a relatively small but highly educated population.",
+      "detail": "Estonia boasts one of the highest rates of internet usage and digital literacy in the world."
+    },
+    {
+      "label": "Area",
+      "value": "45,227 km²",
+      "icon": "Globe",
+      "description": "Estonia is a relatively small country, making it easy to explore.",
+      "detail": "Approximately 46% of Estonia is covered by forests."
+    },
+    {
+      "label": "Official Language",
+      "value": "Estonian",
+      "icon": "ArrowRight",
+      "description": "Estonian is a Finno-Ugric language, distinct from most other European languages.",
+      "detail": "Russian is also widely spoken, particularly among older generations."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Estonia adopted the Euro in 2015.",
+      "detail": "The Estonian economy is heavily reliant on information technology and e-commerce."
+    }
+  ],
+  "climateData": {
+    "title": "Estonian Climate",
+    "description": "Estonia experiences a temperate oceanic climate, characterized by warm summers and cool, cloudy winters. Rainfall is fairly evenly distributed throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with snow melting and wildflowers blooming. It's a time of renewal and vibrant colors.",
+        "keyFeatures": [
+          "Melting snow",
+          "Blooming wildflowers",
+          "Increasing daylight hours"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is the warmest and sunniest time of year, with long daylight hours. It's ideal for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Long daylight hours",
+          "Festivals"
+        ],
+        "activities": [
+          "Swimming",
+          "Kayaking",
+          "Hiking",
+          "Camping"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and stunning foliage displays. The forests transform into a tapestry of reds, oranges, and yellows.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Cool temperatures",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Forest walks"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is cold and snowy, with short daylight hours. It's a time for cozy evenings and winter sports.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Short daylight hours"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating",
+          "Visiting Christmas markets"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lahemaa National Park",
+      "category": "Forest",
+      "description": "Lahemaa National Park is Estonia's oldest and largest national park, offering a diverse landscape of coastal forests, bogs, and historic manors. It's a haven for wildlife and a popular destination for nature lovers.",
+      "detailedDescription": "The park encompasses a network of hiking trails, allowing visitors to explore the unique ecosystems of the Estonian coast.  The area is rich in folklore and traditional Estonian culture, with several well-preserved manor houses offering insights into the region's history.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Palmse Manor",
+        "Altja Fishing Village",
+        "Käsmu"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring waterproof clothing",
+        "Respect the natural environment"
+      ],
+      "scientificData": {
+        "Height": "0-200m",
+        "Area": "121,000 ha"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Soomaa National Park",
+      "category": "Bog",
+      "description": "Soomaa National Park is renowned for its extensive network of floodplains and bogs, creating a unique and dynamic landscape. It's a paradise for birdwatchers and those seeking tranquility in nature.",
+      "detailedDescription": "During the spring thaw, the floodplains of Soomaa rise dramatically, creating temporary islands and lakes. This phenomenon offers a truly unforgettable experience for visitors. The park is also home to a variety of rare and endangered species.",
+      "bestTime": "Spring",
+      "bestLocations": [
+        "Kareda",
+        "Pühajärve"
+      ],
+      "viewingTips": [
+        "Bring waterproof boots",
+        "Be prepared for muddy conditions",
+        "Respect the fragile bog ecosystem"
+      ],
+      "scientificData": {
+        "Height": "0-15m",
+        "Area": "20,000 ha"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Matsalu National Park",
+      "category": "Coastal",
+      "description": "Matsalu National Park is a vital wetland area on the Gulf of Finland, attracting a huge variety of migratory birds. It's a crucial stopover point for birds traveling between Europe and Asia.",
+      "detailedDescription": "The park's diverse habitats, including salt marshes, reed beds, and open water, provide a rich feeding ground for numerous bird species. Visitors can enjoy birdwatching from observation towers and boardwalks, offering stunning views of the wetlands.",
+      "bestTime": "Autumn & Winter",
+      "bestLocations": [
+        "Observation Towers",
+        "Birdwatching Platforms"
+      ],
+      "viewingTips": [
+        "Bring binoculars",
+        "Check the bird migration patterns",
+        "Respect the bird's habitat"
+      ],
+      "scientificData": {
+        "Height": "0-5m",
+        "Area": "3,000 ha"
+      },
+      "icon": "Bird"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Forest Biodiversity",
+    "icon": "Trees",
+    "description": "Estonia's extensive forests support a remarkable diversity of plant and animal life, playing a crucial role in the country's ecosystem.",
+    "statistics": [
+      {
+        "category": "Tree Species",
+        "count": "Over 200",
+        "details": "Estonia boasts a high diversity of tree species, including spruce, pine, birch, and oak."
+      },
+      {
+        "category": "Mammals",
+        "count": "30",
+        "details": "The forests are home to a variety of mammals, including the Eurasian lynx, red deer, and wild boar."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Eurasian Lynx",
+        "status": "Near Threatened",
+        "significance": "A top predator in the Estonian forests, playing a vital role in maintaining ecosystem balance."
+      },
+      {
+        "name": "Red Deer",
+        "status": "Least Concern",
+        "significance": "A symbol of Estonian wilderness, contributing to forest regeneration."
+      }
+    ],
+    "threats": [
+      "Forest fires",
+      "Illegal logging",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Sustainable forestry practices",
+      "Protected areas",
+      "Species monitoring"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Estonian Ecosystems",
+    "overview": "Estonia's ecosystems are characterized by a mosaic of forests, wetlands, and coastal habitats, each supporting a unique array of species. The country's commitment to conservation is evident in its extensive network of protected areas.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forest Biodiversity",
+        "icon": "Trees",
+        "description": "Estonia's extensive forests support a remarkable diversity of plant and animal life.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 200",
+            "details": "Estonia boasts a high diversity of tree species."
+          },
+          {
+            "category": "Mammals",
+            "count": "30",
+            "details": "The forests are home to a variety of mammals."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Eurasian Lynx",
+            "status": "Near Threatened",
+            "significance": "A top predator in the Estonian forests."
+          }
+        ],
+        "threats": [
+          "Forest fires",
+          "Illegal logging",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Protected areas",
+          "Species monitoring"
+        ]
+      },
+      {
+        "name": "Wetland Biodiversity",
+        "icon": "Droplets",
+        "description": "Estonia's wetlands, including bogs and marshes, are vital habitats for a wide range of species.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "Over 200",
+            "details": "The wetlands are a crucial stopover point for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Whooper Swan",
+            "status": "Least Concern",
+            "significance": "A migratory bird that relies on Estonian wetlands for breeding and feeding."
+          }
+        ],
+        "threats": [
+          "Drainage",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration",
+          "Pollution control",
+          "Protected areas"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Estonia",
+    "description": "Estonia offers a wide range of outdoor activities for all skill levels, from hiking and cycling to water sports and wildlife watching.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Estonia's diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Coastal Hiking",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "2-6 hours",
+            "description": "Enjoy scenic coastal trails with stunning views of the Baltic Sea.",
+            "bestLocations": [
+              "Lahemaa National Park",
+              "Viru County"
+            ],
+            "requirements": "Sturdy hiking boots, waterproof clothing",
+            "safety": [
+              "Inform someone of your route",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Forest Hiking",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "3-8 hours",
+            "description": "Discover Estonia's ancient forests and hidden trails.",
+            "bestLocations": [
+              "Lahemaa National Park",
+              "Soomaa National Park"
+            ],
+            "requirements": "Hiking boots, map, compass",
+            "safety": [
+              "Stick to marked trails",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Baltic Sea and Estonia's numerous lakes and rivers.",
+        "activities": [
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "2-4 hours",
+            "description": "Explore the coastline and hidden coves by kayak.",
+            "bestLocations": [
+              "Saaremaa Island",
+              "Viru Bay"
+            ],
+            "requirements": "Kayak, paddle, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Take a refreshing dip in the Baltic Sea.",
+            "bestLocations": [
+              "Pärnu Beach",
+              "Tallinn Bay"
+            ],
+            "requirements": "Swimsuit, towel",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof outerwear, hat, gloves",
+        "yearRound": "Comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Check weather conditions",
+        "Carry a first-aid kit"
+      ]
+    }
+  }
+}

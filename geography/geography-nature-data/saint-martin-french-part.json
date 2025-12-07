@@ -1,0 +1,353 @@
+{
+  "name": "Saint Martin (French part)",
+  "region": "Caribbean",
+  "description": "Saint Martin, officially Saint Martin (French part), is an overseas collectivity of France located in the Caribbean. It’s a dual-nation island, shared between France and the Netherlands, boasting a unique blend of European and Caribbean cultures. The island is renowned for its stunning beaches, vibrant nightlife, duty-free shopping, and diverse natural beauty, ranging from lush rainforests to dramatic cliffs and coral reefs.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "42,753",
+      "icon": "Users",
+      "description": "The population of Saint Martin is a mix of French and Caribbean residents.",
+      "detail": "The majority of the population identifies as having Caribbean heritage, with a significant French influence."
+    },
+    {
+      "label": "Area",
+      "value": "53.9 km²",
+      "icon": "MapPin",
+      "description": "The island's area is relatively small, making it easy to explore.",
+      "detail": "It’s one of the smallest territories of France."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Globe",
+      "description": "The official currency is the Euro.",
+      "detail": "However, US dollars are widely accepted, especially in the Dutch side."
+    },
+    {
+      "label": "Language",
+      "value": "French, Dutch",
+      "icon": "ArrowRight",
+      "description": "French is the official language, while Dutch is also spoken on the Dutch side.",
+      "detail": "English is spoken in tourist areas."
+    },
+    {
+      "label": "GDP",
+      "value": "1.37 Billion USD (2022)",
+      "icon": "Coffee",
+      "description": "Saint Martin has a robust tourism-based economy.",
+      "detail": "Tourism contributes significantly to the island's economic stability."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Marine Climate",
+    "description": "Saint Martin enjoys a tropical marine climate characterized by warm temperatures and high humidity throughout the year. Rainfall is relatively consistent, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "Summer is hot and humid, with average temperatures around 28-32°C (82-90°F). Rainfall is moderate, often occurring in the evenings.",
+        "keyFeatures": [
+          "High humidity",
+          "Warm temperatures",
+          "Afternoon showers"
+        ],
+        "activities": [
+          "Swimming",
+          "Sunbathing",
+          "Water sports",
+          "Beach parties"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September to November",
+        "description": "Autumn brings a slight decrease in temperature and humidity. Rainfall increases, but the weather remains generally pleasant.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Pleasant temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Snorkeling",
+          "Diving",
+          "Exploring local markets"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "Winter is the coolest and driest season, with average temperatures around 24-27°C (75-81°F).  Sunshine is abundant.",
+        "keyFeatures": [
+          "Dry weather",
+          "Mild temperatures",
+          "Plenty of sunshine"
+        ],
+        "activities": [
+          "Boat trips",
+          "Fishing",
+          "Golf",
+          "Shopping"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March to May",
+        "description": "Spring brings a gradual increase in temperature and humidity, with blooming flowers and lush greenery.",
+        "keyFeatures": [
+          "Blooming flora",
+          "Increasing temperatures",
+          "Moderate rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Exploring nature trails",
+          "Relaxing on the beach"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Grand Case Bay",
+      "category": "Beach",
+      "description": "Grand Case Bay is renowned for its pristine white sand beaches, crystal-clear turquoise waters, and vibrant beachfront restaurants. It’s a popular spot for swimming, sunbathing, and enjoying the Caribbean lifestyle.",
+      "detailedDescription": "The bay is sheltered by a coral reef, creating calm waters ideal for snorkeling and diving. The area is also famous for its 'culinary highway,' offering a diverse range of Caribbean cuisine.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Grand Case",
+        "Hope Estate"
+      ],
+      "viewingTips": [
+        "Arrive early to secure a good spot on the beach",
+        "Try the local seafood at one of the beachfront restaurants"
+      ],
+      "scientificData": {
+        "Depth": "Average 5m",
+        "Coral Coverage": "60%"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Colombier-Plage",
+      "category": "Coastal Cliffs",
+      "description": "Colombier-Plage is a dramatic coastal area featuring towering limestone cliffs, hidden coves, and stunning ocean views. It’s a haven for birdwatchers and nature enthusiasts.",
+      "detailedDescription": "The cliffs are formed from ancient coral reefs and offer a unique geological landscape. The area is also home to a diverse range of plant and animal life, including several endemic species.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Colombier-Plage"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes for hiking",
+        "Bring binoculars for birdwatching"
+      ],
+      "scientificData": {
+        "Height": "100m",
+        "Rock Type": "Limestone"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Loterie Farm",
+      "category": "Rainforest",
+      "description": "Loterie Farm is a vast, privately-owned rainforest reserve that offers a glimpse into the island’s rich biodiversity. It’s a popular destination for hiking, birdwatching, and nature tours.",
+      "detailedDescription": "The farm is home to a wide variety of plant and animal species, including several endangered species. It’s also a significant area for research and conservation.",
+      "bestTime": "March - November",
+      "bestLocations": [
+        "Loterie Farm"
+      ],
+      "viewingTips": [
+        "Hire a local guide for a more informative experience",
+        "Wear appropriate clothing and footwear"
+      ],
+      "scientificData": {
+        "Area": "120 hectares",
+        "Tree Species": "Over 150"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Marine Biodiversity",
+    "icon": "Fish",
+    "description": "Saint Martin’s marine environment is incredibly diverse, boasting vibrant coral reefs, abundant fish populations, and a variety of marine mammals and seabirds.",
+    "statistics": [
+      {
+        "category": "Coral Species",
+        "count": "Over 40",
+        "details": "The reefs support a wide range of coral species, including elkhorn and staghorn corals."
+      },
+      {
+        "category": "Fish Species",
+        "count": "250+",
+        "details": "The waters are home to over 250 species of fish, including parrotfish, snapper, and grouper."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Humpback Whale",
+        "status": "Vulnerable",
+        "significance": "Migrates to Saint Martin’s waters to breed and calve during the winter months."
+      },
+      {
+        "name": "Loggerhead Turtle",
+        "status": "Endangered",
+        "significance": "Nests on the beaches of Saint Martin."
+      }
+    ],
+    "threats": [
+      "Climate change",
+      "Pollution",
+      "Overfishing"
+    ],
+    "conservationEfforts": [
+      "Marine protected areas",
+      "Coral reef restoration projects",
+      "Sustainable fishing practices"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Coastal Ecosystems",
+    "overview": "Saint Martin’s coastal ecosystems are a complex mosaic of beaches, coral reefs, mangroves, and seagrass beds, providing vital habitat for a wide range of marine and terrestrial species.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Biodiversity",
+        "icon": "Fish",
+        "description": "As described above, this category encompasses the diverse marine life found in Saint Martin’s waters.",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [],
+        "conservationEfforts": []
+      },
+      {
+        "name": "Mangrove Ecosystems",
+        "icon": "Tree",
+        "description": "Mangrove forests line the sheltered bays and estuaries of Saint Martin, providing crucial nursery grounds for fish and other marine species.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 10 hectares",
+            "details": "These are vital for coastal protection."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration projects"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities",
+    "description": "Saint Martin offers a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s diverse landscapes on foot, from rainforest trails to coastal cliffs.",
+        "activities": [
+          {
+            "name": "Loterie Farm Trail",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "A scenic trail through the heart of Loterie Farm’s rainforest.",
+            "bestLocations": [
+              "Loterie Farm"
+            ],
+            "requirements": "Sturdy shoes, water, insect repellent",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Colombier-Plage Cliff Walk",
+            "difficulty": "Hard",
+            "season": "Year-Round",
+            "duration": "3-5 hours",
+            "description": "A challenging hike along the dramatic cliffs of Colombier-Plage.",
+            "bestLocations": [
+              "Colombier-Plage"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Watch your footing",
+              "Be aware of strong winds"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Saint Martin’s crystal-clear waters.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-3 hours",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Grand Case Bay",
+              "Anse Marcel"
+            ],
+            "requirements": "Snorkel gear, sunscreen",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "1-3 hours",
+            "description": "Discover the underwater wonders of Saint Martin’s reefs.",
+            "bestLocations": [
+              "Grand Case Bay",
+              "Anse Michel"
+            ],
+            "requirements": "Certification, scuba gear",
+            "safety": [
+              "Follow dive guidelines",
+              "Dive with a certified instructor"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, sweater, jacket, waterproof shoes",
+        "yearRound": "Comfortable walking shoes, sunglasses, insect repellent"
+      },
+      "equipment": {
+        "basic": "Sunscreen, hat, sunglasses, insect repellent",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of currents",
+        "Respect wildlife"
+      ]
+    }
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "name": "Peru",
+  "region": "South America",
+  "description": "Peru, officially the Republic of Peru, is a country in western South America. It’s renowned for its rich history, diverse geography, and vibrant culture. From the towering Andes Mountains to the Amazon rainforest, Peru offers an unparalleled range of landscapes and experiences. It’s a land of ancient civilizations, colonial architecture, and modern cities, all interwoven with a deep connection to nature and tradition.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "33.3 Million",
+      "icon": "Users",
+      "description": "Peru boasts a diverse population with a significant indigenous heritage.",
+      "detail": "The majority of the population resides in the central highlands, with significant urban centers like Lima, Arequipa, and Trujillo."
+    },
+    {
+      "label": "Area",
+      "value": "1,285,216 sq km",
+      "icon": "MapPin",
+      "description": "Peru is the second-largest country in South America.",
+      "detail": "Its territory spans a vast range of altitudes, from the Pacific coast to the Amazon basin."
+    },
+    {
+      "label": "Capital",
+      "value": "Lima",
+      "icon": "MapPin",
+      "description": "Lima is a bustling metropolis and the economic heart of Peru.",
+      "detail": "It’s a city of contrasts, blending colonial architecture with modern skyscrapers."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish & Quechua",
+      "icon": "Globe",
+      "description": "Spanish is the official language, while Quechua is recognized as an official language in certain regions.",
+      "detail": "Numerous indigenous languages are also spoken throughout the country."
+    },
+    {
+      "label": "Currency",
+      "value": "Sol (PEN)",
+      "icon": "Zap",
+      "description": "The currency of Peru is the Sol.",
+      "detail": "Exchange rates fluctuate, so it's advisable to check current rates before traveling."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 275.8 Billion (2023)",
+      "icon": "Globe",
+      "description": "Peru's economy is driven by mining, agriculture, and tourism.",
+      "detail": "The country is a major exporter of copper, gold, and silver."
+    }
+  ],
+  "climateData": {
+    "title": "Peru's Diverse Climate",
+    "description": "Peru experiences a wide range of climates due to its varied topography. Coastal regions are generally dry and sunny, while the highlands are cool and dry, and the Amazon basin is hot and humid.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (December - March)",
+        "period": "December to March",
+        "description": "Summer in Peru is characterized by warm temperatures and increased rainfall, particularly in the Andes and Amazon regions.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Increased rainfall",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Hiking",
+          "Rainforest exploration",
+          "Waterfalls visits"
+        ]
+      },
+      {
+        "name": "Autumn (April - May)",
+        "period": "April to May",
+        "description": "Autumn brings pleasant temperatures and fewer crowds. The landscapes are stunning with fall foliage in the highlands.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Clear skies",
+          "Colorful foliage"
+        ],
+        "activities": [
+          "Mountain trekking",
+          "Cultural festivals",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Winter (June - August)",
+        "period": "June to August",
+        "description": "Winter in Peru is cool and dry, especially in the highlands. It’s a popular time for skiing and snowboarding in the Cordillera Blanca.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Dry conditions",
+          "Snowfall in the Andes"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Exploring colonial cities"
+        ]
+      },
+      {
+        "name": "Spring (September - November)",
+        "period": "September to November",
+        "description": "Spring is a beautiful time to visit Peru, with blooming flowers and comfortable temperatures. The Amazon rainforest is lush and vibrant.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Blooming flowers",
+          "Lush rainforest"
+        ],
+        "activities": [
+          "Amazon river cruises",
+          "Wildlife spotting",
+          "Hiking in the Andes"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Machu Picchu",
+      "category": "Historical Site",
+      "description": "Machu Picchu, often referred to as the 'Lost City of the Incas,' is a remarkably preserved 15th-century Inca citadel nestled high in the Andes Mountains. It’s a testament to the ingenuity and architectural prowess of the Inca civilization.",
+      "detailedDescription": "Located above the Urubamba River Valley, Machu Picchu was likely a royal estate or religious sanctuary. Its intricate stonework, sophisticated irrigation systems, and stunning mountain setting continue to captivate visitors from around the world.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "Machu Picchu Pueblo",
+        "Huayna Picchu",
+        "Inti Punku (Sun Gate)"
+      ],
+      "viewingTips": [
+        "Book permits well in advance",
+        "Hire a guide",
+        "Acclimatize to the altitude"
+      ],
+      "scientificData": {
+        "Height": "2,430m",
+        "Age": "15th Century",
+        "StoneType": "Granite and Sandstone"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Amazon Rainforest",
+      "category": "Ecosystem",
+      "description": "The Amazon Rainforest is the world’s largest tropical rainforest, covering a vast area of northern Peru. It’s a biodiversity hotspot teeming with unique flora and fauna.",
+      "detailedDescription": "The Amazon River, the second-longest river in the world, flows through the heart of the rainforest, creating a complex network of waterways and supporting an incredible array of life. It plays a crucial role in regulating the global climate.",
+      "bestTime": "June - November (dry season)",
+      "bestLocations": [
+        "Iquitos",
+        "Puerto Maldonado",
+        "Manu National Park"
+      ],
+      "viewingTips": [
+        "Bring insect repellent",
+        "Wear long sleeves and pants",
+        "Respect local communities"
+      ],
+      "scientificData": {
+        "Area": "12,183,600 sq km",
+        "Biodiversity": "Estimated 10% of the world's species"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Lake Titicaca",
+      "category": "Lake",
+      "description": "Lake Titicaca is the highest navigable lake in the world, located on the border between Peru and Bolivia. It’s a sacred site for the indigenous people of the region.",
+      "detailedDescription": "The lake is renowned for its stunning turquoise waters and unique islands, including Taquile and Amantani. It’s home to the Uros people, who live on floating islands made of reeds.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "Taquile Island",
+        "Amantani Island",
+        "Puno"
+      ],
+      "viewingTips": [
+        "Learn about the Uros culture",
+        "Take a boat tour",
+        "Enjoy the stunning views"
+      ],
+      "scientificData": {
+        "Depth": "381m",
+        "SurfaceArea": "8390 sq km"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Peru's Ecosystems",
+    "overview": "Peru’s ecosystems are incredibly diverse, ranging from the arid coastal deserts to the lush Amazon rainforest and the towering Andes Mountains. Each ecosystem supports a unique array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 48
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Peru is home to a wide variety of mammals, including jaguars, pumas, vicuñas, and llamas.",
+        "statistics": [
+          {
+            "category": "Endangered",
+            "count": "15",
+            "details": "Several species are threatened by habitat loss and poaching."
+          },
+          {
+            "category": "Vulnerable",
+            "count": "30",
+            "details": "Many mammals face challenges due to deforestation and human encroachment."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Vulnerable",
+            "significance": "Apex predator and symbol of the Amazon rainforest."
+          },
+          {
+            "name": "Andean Condor",
+            "status": "Near Threatened",
+            "significance": "Largest flying bird in the world, a majestic symbol of the Andes."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Poaching",
+          "Habitat Loss"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Anti-poaching patrols",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "Peru boasts an incredible diversity of bird species, including hummingbirds, macaws, and Andean condors.",
+        "statistics": [
+          {
+            "category": "Endemic",
+            "count": "150",
+            "details": "Many bird species are found only in Peru."
+          },
+          {
+            "category": "Migratory",
+            "count": "100",
+            "details": "Peru is a crucial stopover for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Andean Cock-of-the-Rock",
+            "status": "Vulnerable",
+            "significance": "Known for its elaborate courtship displays."
+          },
+          {
+            "name": "Hoatzin",
+            "status": "Near Threatened",
+            "significance": "A primitive bird with a unique digestive system."
+          }
+        ],
+        "threats": [
+          "Habitat Loss",
+          "Illegal Wildlife Trade",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Reforestation",
+          "Protected areas",
+          "Community education"
+        ]
+      },
+      {
+        "name": "Reptiles & Amphibians",
+        "icon": "Leaf",
+        "description": "Peru’s diverse habitats support a rich variety of reptiles and amphibians, including snakes, lizards, frogs, and caimans.",
+        "statistics": [
+          {
+            "category": "Endangered",
+            "count": "20",
+            "details": "Several amphibian species are facing extinction due to habitat loss and disease."
+          },
+          {
+            "category": "Unique",
+            "count": "50",
+            "details": "Peru is home to several endemic reptile and amphibian species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Anaconda",
+            "status": "Least Concern",
+            "significance": "One of the largest snakes in the world."
+          },
+          {
+            "name": "Poison Dart Frog",
+            "status": "Vulnerable",
+            "significance": "Known for its vibrant colors and potent toxins."
+          }
+        ],
+        "threats": [
+          "Habitat Destruction",
+          "Pollution",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Habitat Restoration",
+          "Captive Breeding Programs",
+          "Community Involvement"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Peru's Adventures",
+    "description": "Peru offers a wide range of activities for adventure seekers and nature enthusiasts. From trekking through the Andes to exploring the Amazon rainforest, there’s something for everyone.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Peru is a hiker’s paradise, with trails ranging from easy day hikes to challenging multi-day treks.",
+        "activities": [
+          {
+            "name": "Inca Trail Trek",
+            "difficulty": "Moderate",
+            "season": "May - September",
+            "duration": "4 days",
+            "description": "A classic trek to Machu Picchu, following the ancient Inca pathway.",
+            "bestLocations": [
+              "Machu Picchu",
+              "Cusco"
+            ],
+            "requirements": "Permits, good fitness level",
+            "safety": [
+              "Altitude sickness prevention",
+              "Proper gear"
+            ]
+          },
+          {
+            "name": "Huayhuash Circuit",
+            "difficulty": "Hard",
+            "season": "June - September",
+            "duration": "8-12 days",
+            "description": "A challenging trek through the Cordillera Huayhuash, offering stunning mountain scenery.",
+            "bestLocations": [
+              "Cordillera Huayhuash"
+            ],
+            "requirements": "Excellent fitness, mountaineering experience",
+            "safety": [
+              "Avalanche risk",
+              "Remote location"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Peru’s rivers and lakes offer opportunities for kayaking, rafting, and fishing.",
+        "activities": [
+          {
+            "name": "Amazon River Rafting",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "3-7 days",
+            "description": "Experience the thrill of navigating the Amazon River, spotting wildlife along the way.",
+            "bestLocations": [
+              "Iquitos",
+              "Puerto Maldonado"
+            ],
+            "requirements": "Life jacket, waterproof gear",
+            "safety": [
+              "River currents",
+              "Wildlife encounters"
+            ]
+          },
+          {
+            "name": "Lake Titicaca Kayaking",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half Day",
+            "description": "Explore the islands of Lake Titicaca by kayak, enjoying the stunning scenery.",
+            "bestLocations": [
+              "Taquile Island",
+              "Amantani Island"
+            ],
+            "requirements": "Kayaking experience (optional)",
+            "safety": [
+              "Weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, gloves, hat",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, insect repellent, sunscreen",
+        "hiking": "Hiking boots, trekking poles, headlamp",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Altitude sickness medication",
+        "First-aid kit",
+        "Travel insurance"
+      ]
+    }
+  }
+}

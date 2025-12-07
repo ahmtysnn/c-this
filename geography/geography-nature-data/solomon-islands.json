@@ -1,0 +1,319 @@
+{
+  "name": "Solomon Islands",
+  "region": "Oceania",
+  "description": "The Solomon Islands are a sovereign state nation consisting of nine provinces located in Melanesia, part of the larger Pacific Islands region. Situated in the southwestern Pacific Ocean, they are renowned for their stunning coral reefs, volcanic landscapes, rich cultural heritage, and significant biodiversity. The islands were historically a crossroads of seafaring cultures and played a crucial role in the sandalwood trade. Today, they face challenges related to climate change, sustainable development, and post-conflict recovery, while striving to preserve their unique identity and natural resources.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Honiara",
+      "icon": "MapPin",
+      "description": "The political and administrative center of the Solomon Islands.",
+      "detail": "Honiara is located on Guadalcanal Island and is a bustling city with a mix of modern and traditional influences."
+    },
+    {
+      "label": "Population",
+      "value": "742,922",
+      "icon": "Users",
+      "description": "The total population of the Solomon Islands.",
+      "detail": "The population is distributed across numerous islands, with Honiara being the most densely populated."
+    },
+    {
+      "label": "Area",
+      "value": "28,450 sq km (10,953 sq mi)",
+      "icon": "Globe",
+      "description": "The total land area of the Solomon Islands.",
+      "detail": "This includes approximately 1,200 islands, of which 297 are inhabited."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "The official language of the Solomon Islands.",
+      "detail": "Tok Pisin and Hiri Motu are also widely spoken."
+    },
+    {
+      "label": "Currency",
+      "value": "Solomon Dollar (SBD)",
+      "icon": "Clock",
+      "description": "The currency used in the Solomon Islands.",
+      "detail": "The SBD is pegged to the Australian Dollar."
+    },
+    {
+      "label": "GDP (2023)",
+      "value": "$2.3 Billion",
+      "icon": "Coffee",
+      "description": "The Gross Domestic Product of the Solomon Islands.",
+      "detail": "Primarily driven by services and agriculture."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "The Solomon Islands experience a tropical maritime climate characterized by consistently high temperatures and humidity throughout the year. Rainfall is abundant, particularly during the wet season, and influenced by monsoonal winds.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season",
+        "period": "November – April",
+        "description": "This period is marked by frequent heavy rainfall, strong winds, and increased humidity. Flooding is a common occurrence.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Strong winds",
+          "High humidity"
+        ],
+        "activities": [
+          "Rainforest trekking",
+          "River exploration (with caution)",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "May – October",
+        "description": "The dry season brings calmer weather, lower humidity, and more sunshine. It's generally considered the best time to visit.",
+        "keyFeatures": [
+          "Sunny days",
+          "Lower humidity",
+          "Calm seas"
+        ],
+        "activities": [
+          "Diving and snorkeling",
+          "Island hopping",
+          "Hiking"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Vella Lavella Island",
+      "category": "Island",
+      "description": "Vella Lavella is a remote and pristine island offering a unique glimpse into the untouched beauty of the Solomon Islands. Its volcanic origins have created dramatic landscapes, including towering peaks, lush rainforests, and secluded beaches.",
+      "detailedDescription": "The island boasts a diverse marine ecosystem, making it a prime location for diving and snorkeling. It's also home to a significant population of endemic bird species.  The island's isolation has helped preserve its natural state.",
+      "bestTime": "May – October",
+      "bestLocations": [
+        "North Beach",
+        "Mount Lolea",
+        "Coral Gardens"
+      ],
+      "viewingTips": [
+        "Bring reef-safe sunscreen",
+        "Respect the local culture",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Height": "750m",
+        "Area": "110 sq km",
+        "Volcanic Activity": "Active"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Kokoda Track",
+      "category": "Mountain Range",
+      "description": "The Kokoda Track is a challenging and historically significant mountain range located in the central Solomon Islands. It served as a crucial battleground during World War II and offers breathtaking views and a poignant reminder of the region's past.",
+      "detailedDescription": "The track is a rugged and demanding hike, traversing dense rainforests, steep slopes, and treacherous terrain. It's a testament to the resilience of the human spirit and a vital part of the country's heritage.",
+      "bestTime": "May – October",
+      "bestLocations": [
+        "Gazelle Express Crossing",
+        "Murray Barracks",
+        "Temple Valley"
+      ],
+      "viewingTips": [
+        "Hire an experienced guide",
+        "Pack appropriate gear",
+        "Be prepared for challenging conditions"
+      ],
+      "scientificData": {
+        "Elevation": "1,800m",
+        "Terrain": "Steep, rocky, and forested"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Solomon Islands Ecosystems",
+    "overview": "The Solomon Islands are home to a remarkable array of ecosystems, ranging from pristine coral reefs to dense rainforests and volcanic landscapes. These diverse habitats support an extraordinary level of biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral Reefs",
+        "icon": "Waves",
+        "description": "The coral reefs surrounding the Solomon Islands are among the most diverse and pristine in the world, supporting a vast array of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 600",
+            "details": "Including numerous endemic species"
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 1,000",
+            "details": "A significant proportion of which are found nowhere else"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Manta Ray",
+            "status": "Vulnerable",
+            "significance": "A key indicator of reef health"
+          },
+          {
+            "name": "Clownfish",
+            "status": "Least Concern",
+            "significance": "A globally recognized symbol of coral reef ecosystems"
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Community-based conservation programs"
+        ]
+      },
+      {
+        "name": "Rainforests",
+        "icon": "Trees",
+        "description": "The Solomon Islands boast extensive rainforests, harboring a wealth of endemic plant and animal species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 800",
+            "details": "Many of which are unique to the islands"
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 200",
+            "details": "Including numerous endemic species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Solomon Islands Parrot",
+            "status": "Endangered",
+            "significance": "A critically endangered bird species"
+          },
+          {
+            "name": "Giant Flying Fox",
+            "status": "Vulnerable",
+            "significance": "An important pollinator"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Logging",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Forest reserve establishment",
+          "Sustainable forestry practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Solomon Islands Adventures",
+    "description": "The Solomon Islands offer a diverse range of activities for adventure seekers and nature enthusiasts.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the islands' stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Kokoda Track Hike",
+            "difficulty": "Hard",
+            "season": "May – October",
+            "duration": "3-5 days",
+            "description": "A challenging multi-day trek through the Kokoda Track.",
+            "bestLocations": [
+              "Gazelle Express Crossing",
+              "Murray Barracks"
+            ],
+            "requirements": "Good fitness level, hiking boots, rain gear",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Mount Austin Ridge Hike",
+            "difficulty": "Moderate",
+            "season": "May – October",
+            "duration": "2-3 days",
+            "description": "Hike to the summit of Mount Austin Ridge for panoramic views.",
+            "bestLocations": [
+              "Honiara"
+            ],
+            "requirements": "Hiking boots, water, sunscreen",
+            "safety": [
+              "Check weather conditions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Discover the underwater wonders of the Solomon Islands.",
+        "activities": [
+          {
+            "name": "Diving & Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Explore vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "Vella Lavella Island",
+              "Rendova"
+            ],
+            "requirements": "Snorkeling gear or diving certification",
+            "safety": [
+              "Respect marine life",
+              "Use reef-safe sunscreen"
+            ]
+          },
+          {
+            "name": "Sailing & Kayaking",
+            "difficulty": "Moderate",
+            "season": "May – October",
+            "duration": "Variable",
+            "description": "Explore the coastline and hidden bays by boat or kayak.",
+            "bestLocations": [
+              "Various islands"
+            ],
+            "requirements": "Kayaking or sailing experience",
+            "safety": [
+              "Check weather conditions",
+              "Wear life jackets"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, hat, sunglasses",
+        "winter": "Long-sleeved shirts, trousers, fleece jacket, waterproof jacket",
+        "yearRound": "Quick-drying clothing, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit, flashlight",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Respect local customs",
+        "Be aware of wildlife",
+        "Drink bottled water",
+        "Consult a doctor before traveling"
+      ]
+    }
+  }
+}

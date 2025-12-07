@@ -1,0 +1,368 @@
+{
+  "CountryData": {
+    "name": "Indonesia",
+    "region": "Southeast Asia",
+    "description": "Indonesia, the Republic of Indonesia, is a Southeast Asian nation comprised of over 17,000 islands, stretching over 3,000 kilometers. It’s a land of incredible biodiversity, volcanic landscapes, vibrant cultures, and rich history. From the towering volcanoes of Sumatra to the pristine beaches of Bali, Indonesia offers a diverse range of experiences for travelers and nature enthusiasts alike.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "277.5 million",
+        "icon": "Users",
+        "description": "Indonesia is the fourth most populous country in the world.",
+        "detail": "The population is incredibly diverse, with over 300 ethnic groups and hundreds of languages spoken."
+      },
+      {
+        "label": "Area",
+        "value": "1,904,569 sq km",
+        "icon": "Globe",
+        "description": "It’s the largest archipelago in the world.",
+        "detail": "The vastness of the archipelago contributes to its incredible biodiversity and varied climates."
+      },
+      {
+        "label": "Capital",
+        "value": "Jakarta",
+        "icon": "MapPin",
+        "description": "The bustling capital city.",
+        "detail": "Jakarta is a major economic and cultural hub, though facing significant challenges related to urbanization and pollution."
+      },
+      {
+        "label": "Currency",
+        "value": "Indonesian Rupiah (IDR)",
+        "icon": "Coffee",
+        "description": "The official currency of Indonesia.",
+        "detail": "Exchange rates fluctuate, and it's advisable to check current rates before traveling."
+      },
+      {
+        "label": "Official Language",
+        "value": "Bahasa Indonesia",
+        "icon": "ArrowRight",
+        "description": "The national language.",
+        "detail": "English is widely spoken in tourist areas."
+      }
+    ],
+    "climateData": {
+      "title": "Climate Overview",
+      "description": "Indonesia experiences a tropical climate, characterized by high temperatures and humidity year-round. The climate varies significantly across the archipelago due to its vast size and diverse topography.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Dry Season",
+          "period": "May - September",
+          "description": "This season brings sunny skies, lower humidity, and less rainfall. It's generally considered the best time to visit many parts of Indonesia.",
+          "keyFeatures": [
+            "Lower humidity",
+            "Clear skies",
+            "Reduced rainfall"
+          ],
+          "activities": [
+            "Beach holidays",
+            "Island hopping",
+            "Volcano trekking"
+          ]
+        },
+        {
+          "name": "Wet Season",
+          "period": "October - April",
+          "description": "The wet season is characterized by heavy rainfall, particularly in the western parts of the archipelago. However, the rain often comes in short bursts, and the landscape is lush and vibrant.",
+          "keyFeatures": [
+            "Heavy rainfall",
+            "Lush vegetation",
+            "Increased humidity"
+          ],
+          "activities": [
+            "Jungle trekking",
+            "Waterfalls exploration",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Harmattan Winds",
+          "period": "December - February",
+          "description": "A dry and dusty wind originating from the Sahara Desert can affect parts of Sumatra and Java, bringing reduced visibility and dust storms.",
+          "keyFeatures": [
+            "Dust storms",
+            "Reduced visibility",
+            "Dry air"
+          ],
+          "activities": [
+            "Limited outdoor activities in affected areas"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Komodo National Park",
+        "category": "Wildlife & Landscapes",
+        "description": "Komodo National Park is home to the Komodo dragon, the world’s largest lizard. The park encompasses several islands, including Komodo, Rinca, and Padar, offering stunning volcanic landscapes, pristine beaches, and incredible wildlife viewing opportunities.",
+        "detailedDescription": "The park protects a unique ecosystem where Komodo dragons roam freely. Visitors can hike, snorkel, and dive, encountering these magnificent creatures and diverse marine life. The islands also boast dramatic cliffs, turquoise waters, and vibrant coral reefs.",
+        "bestTime": "May - September",
+        "bestLocations": [
+          "Komodo Island",
+          "Rinca Island",
+          "Padar Island"
+        ],
+        "viewingTips": [
+          "Maintain a safe distance from Komodo dragons.",
+          "Hire a local guide for optimal wildlife viewing.",
+          "Bring sunscreen and insect repellent."
+        ],
+        "scientificData": {
+          "Height": "100m (volcanic peaks)",
+          "Age": "200,000 years (volcanic formation)"
+        },
+        "icon": "Bird"
+      },
+      {
+        "id": 2,
+        "name": "Mount Bromo",
+        "category": "Volcanoes",
+        "description": "Mount Bromo is an active volcano in East Java, renowned for its stunning sunrise views and otherworldly landscapes. The surrounding Tengger caldera is a vast expanse of volcanic sand and ash.",
+        "detailedDescription": "Witnessing the sunrise over Mount Bromo is a truly unforgettable experience. The volcano’s active crater, billowing smoke, and surrounding sea of sand create a dramatic and surreal scene.  The area is also home to the Tenggerese people, who practice a unique ritual called Yadnya Kasada.",
+        "bestTime": "Year-round",
+        "bestLocations": [
+          "Bromo Tengger National Park"
+        ],
+        "viewingTips": [
+          "Arrive early to secure a good viewing spot.",
+          "Wear warm clothing, as temperatures can be cold at sunrise.",
+          "Be prepared for dust and ash."
+        ],
+        "scientificData": {
+          "Height": "2,329m",
+          "Activity": "Active volcano with frequent eruptions"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 3,
+        "name": "Lake Toba",
+        "category": "Lakes & Geothermal",
+        "description": "Lake Toba is the largest volcanic lake in the world, formed by a massive supervolcanic eruption thousands of years ago. The surrounding Samosir Island offers a unique blend of natural beauty and cultural heritage.",
+        "detailedDescription": "The lake’s immense size and stunning turquoise waters are a sight to behold. The volcanic landscape surrounding the lake is dotted with hot springs and geothermal areas. Samosir Island, located in the middle of the lake, is home to the Batak people, who have a rich and fascinating culture.",
+        "bestTime": "April - October",
+        "bestLocations": [
+          "Samosir Island",
+          "Parapat"
+        ],
+        "viewingTips": [
+          "Take a boat trip across the lake.",
+          "Explore the Batak cultural villages.",
+          "Relax in the hot springs."
+        ],
+        "scientificData": {
+          "Depth": "1,100m",
+          "Volume": "1,770 km³"
+        },
+        "icon": "Droplets"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Tropical Rainforests and Coral Reefs",
+      "overview": "Indonesia is home to some of the world’s most diverse ecosystems, including extensive tropical rainforests and vibrant coral reefs. These ecosystems are vital for biodiversity and provide essential ecosystem services.",
+      "conservationStatus": {
+        "protectedAreas": "24% (estimated)",
+        "nationalParks": 17
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Mammals",
+          "icon": "Bird",
+          "description": "Indonesia boasts a remarkable diversity of mammals, including orangutans, tigers, elephants, and rhinos.",
+          "statistics": [
+            {
+              "category": "Orangutans",
+              "count": "65,000",
+              "details": "Endemic to Borneo and Sumatra"
+            },
+            {
+              "category": "Tigers",
+              "count": "400",
+              "details": "Critically endangered"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Sumatran Orangutan",
+              "status": "Endangered",
+              "significance": "Keystone species in rainforest ecosystems"
+            },
+            {
+              "name": "Sumatran Tiger",
+              "status": "Critically Endangered",
+              "significance": "Apex predator"
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Poaching",
+            "Illegal wildlife trade"
+          ],
+          "conservationEfforts": [
+            "Anti-poaching patrols",
+            "Habitat restoration",
+            "Community-based conservation"
+          ]
+        },
+        {
+          "name": "Birds",
+          "icon": "Leaf",
+          "description": "Indonesia is a birdwatcher’s paradise, with over 1,800 bird species, including many endemic and migratory species.",
+          "statistics": [
+            {
+              "category": "Endemic Birds",
+              "count": "300+",
+              "details": "Unique to Indonesia"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Raja Ampat Bird-of-Paradise",
+              "status": "Vulnerable",
+              "significance": "Critically important for rainforest conservation"
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Illegal wildlife trade",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Protected areas",
+            "Community-based monitoring",
+            "Research"
+          ]
+        },
+        {
+          "name": "Reptiles & Amphibians",
+          "icon": "Wave",
+          "description": "Indonesia’s tropical climate supports a diverse array of reptiles and amphibians, including snakes, lizards, frogs, and turtles.",
+          "statistics": [
+            {
+              "category": "Snake Species",
+              "count": "300+",
+              "details": "Many venomous species"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Komodo Dragon",
+              "status": "Endangered",
+              "significance": "Largest lizard in the world"
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Illegal wildlife trade",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Protected areas",
+            "Community-based conservation",
+            "Research"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Adventures in Indonesia",
+      "description": "Indonesia offers a vast array of outdoor activities, catering to all levels of experience and adventure seekers.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore Indonesia’s stunning landscapes on foot, from volcanic trails to jungle paths.",
+          "activities": [
+            {
+              "name": "Mount Rinjani Trek",
+              "difficulty": "Moderate",
+              "season": "April - October",
+              "duration": "3-5 days",
+              "description": "A challenging but rewarding trek to the summit of Mount Rinjani, offering breathtaking views of Lake Toba.",
+              "bestLocations": [
+                "Mount Rinjani"
+              ],
+              "requirements": "Good fitness level, hiking boots, appropriate clothing.",
+              "safety": [
+                "Altitude sickness",
+                "Weather conditions"
+              ]
+            },
+            {
+              "name": "Borneo Rainforest Hike",
+              "difficulty": "Moderate",
+              "season": "March - September",
+              "duration": "3-7 days",
+              "description": "Immerse yourself in the lush rainforests of Borneo, encountering diverse wildlife and learning about local cultures.",
+              "bestLocations": [
+                "Borneo"
+              ],
+              "requirements": "Hiking boots, insect repellent, rain gear.",
+              "safety": [
+                "Wildlife encounters",
+                "Tropical diseases"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy a wide range of water activities in Indonesia’s pristine beaches and coral reefs.",
+          "activities": [
+            {
+              "name": "Scuba Diving in Raja Ampat",
+              "difficulty": "Easy",
+              "season": "Year-round",
+              "duration": "Variable",
+              "description": "Explore the world’s most biodiverse coral reefs in Raja Ampat, encountering colorful fish, manta rays, and sharks.",
+              "bestLocations": [
+                "Raja Ampat"
+              ],
+              "requirements": "Scuba certification, wetsuit (depending on water temperature).",
+              "safety": [
+                "Currents",
+                "Marine life"
+              ]
+            },
+            {
+              "name": "Surfing in Bali",
+              "difficulty": "Moderate",
+              "season": "July - September",
+              "duration": "Variable",
+              "description": "Catch some waves on Bali’s famous surf breaks, catering to all skill levels.",
+              "bestLocations": [
+                "Kuta",
+                "Canggu",
+                "Uluwatu"
+              ],
+              "requirements": "Surfboard, wetsuit (depending on water temperature).",
+              "safety": [
+                "Rip currents",
+                "Marine life"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat.",
+          "winter": "Layers of clothing, including a fleece jacket, waterproof jacket, and long-sleeved shirts.",
+          "yearRound": "Comfortable walking shoes, sandals, insect repellent, and a reusable water bottle."
+        },
+        "equipment": {
+          "basic": "Passport, visa (if required), travel insurance, adapter.",
+          "hiking": "Hiking boots, backpack, map, compass, first-aid kit.",
+          "photography": "Camera, extra batteries, memory cards."
+        },
+        "safety": [
+          "Be aware of your surroundings",
+          "Drink bottled water",
+          "Protect yourself from the sun",
+          "Respect local customs"
+        ]
+      }
+    }
+  }
+}

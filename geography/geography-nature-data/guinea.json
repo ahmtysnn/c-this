@@ -1,0 +1,333 @@
+{
+  "name": "Guinea",
+  "region": "West Africa",
+  "description": "Guinea, officially the Republic of Guinea, is a country located in West Africa. It is bordered by Senegal to the northwest, Mali to the northeast, Côte d'Ivoire to the southeast, and Liberia to the southwest. Known as the 'Golden Triangle' due to its rich bauxite and gold deposits, Guinea boasts a diverse landscape ranging from coastal plains to highlands, including the Loma Mountains. The country's history is deeply intertwined with the transatlantic slave trade and colonial rule, shaping its present-day socio-political landscape. Guinea is a nation rich in culture, with vibrant music, dance, and craftsmanship, and is currently navigating significant economic and political challenges.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Conakry",
+      "icon": "MapPin",
+      "description": "The bustling capital and largest city of Guinea, located on the Atlantic coast.",
+      "detail": "Conakry is a major port and economic hub, known for its vibrant markets and coastal atmosphere."
+    },
+    {
+      "label": "Population",
+      "value": "13.7 million",
+      "icon": "Users",
+      "description": "Guinea's population is predominantly young and rapidly growing.",
+      "detail": "The majority of the population lives in rural areas, relying on agriculture."
+    },
+    {
+      "label": "Official Language",
+      "value": "French",
+      "icon": "Globe",
+      "description": "French is the official language of Guinea.",
+      "detail": "However, several indigenous languages are also spoken throughout the country."
+    },
+    {
+      "label": "Currency",
+      "value": "Guinean Franc (GNF)",
+      "icon": "Coffee",
+      "description": "The currency of Guinea is the Guinean Franc.",
+      "detail": "The currency is heavily devalued, and the economy faces significant financial challenges."
+    },
+    {
+      "label": "GDP",
+      "value": "$14.7 billion (2023)",
+      "icon": "Zap",
+      "description": "Guinea's economy is heavily reliant on natural resources.",
+      "detail": "Bauxite, gold, and diamonds are the primary exports."
+    }
+  ],
+  "climateData": {
+    "title": "Guinea's Climate",
+    "description": "Guinea experiences a tropical climate, characterized by high temperatures and humidity throughout the year. The coastal regions are generally milder than the inland areas, which are significantly hotter and drier.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "November – April",
+        "description": "The dry season brings cooler temperatures and lower humidity, with less rainfall. Dust storms are common.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Cooler temperatures",
+          "Dust storms"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Hiking",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May – October",
+        "description": "The wet season is characterized by heavy rainfall, high humidity, and increased temperatures. Flooding is a significant concern.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Flooding"
+        ],
+        "activities": [
+          "River cruises",
+          "Fishing",
+          "Exploring waterfalls"
+        ]
+      },
+      {
+        "name": "Harmattan Winds",
+        "period": "December – February",
+        "description": "The Harmattan is a dry, dusty trade wind that blows from the Sahara Desert, bringing cooler temperatures and reduced visibility.",
+        "keyFeatures": [
+          "Dry wind",
+          "Dust",
+          "Cool temperatures"
+        ],
+        "activities": [
+          "Limited outdoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Nimba",
+      "category": "Mountain Range",
+      "description": "Mount Nimba is a UNESCO World Heritage Site and the highest point in West Africa. It's renowned for its stunning geological formations, particularly the Soapstone quarries, and its unique biodiversity, including several endemic plant species.",
+      "detailedDescription": "The mountain is composed of layered bauxite and silica, creating dramatic cliffs and valleys. The Soapstone quarries are a significant source of high-quality soapstone used in sculpture and decorative arts. The area is also home to the rare Nimba Ironbird, a bird of paradise.",
+      "bestTime": "November – March",
+      "bestLocations": [
+        "Nimba Range",
+        "Dinguissen"
+      ],
+      "viewingTips": [
+        "Hire a local guide for safe exploration.",
+        "Wear sturdy hiking boots.",
+        "Bring plenty of water."
+      ],
+      "scientificData": {
+        "Height": "1,752 m",
+        "Age": "Approximately 80 million years old"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Kalalou Waterfalls",
+      "category": "Waterfall",
+      "description": "Kalalou Waterfalls is a series of cascading waterfalls located in the forest near Conakry. It's a beautiful and relatively untouched natural area offering a refreshing escape from the city.",
+      "detailedDescription": "The waterfalls are fed by the River Kalalou and create a series of pools and cascades. The surrounding forest is rich in biodiversity, with a variety of plant and animal life. The area is known for its tranquility and scenic beauty.",
+      "bestTime": "June – September",
+      "bestLocations": [
+        "Near Conakry"
+      ],
+      "viewingTips": [
+        "Wear waterproof clothing.",
+        "Bring insect repellent.",
+        "Respect the environment."
+      ],
+      "scientificData": {
+        "Height": "Approximately 30 meters",
+        "Flow Rate": "Variable depending on rainfall"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Guinea's Ecosystems",
+    "overview": "Guinea’s ecosystems are incredibly diverse, ranging from dense rainforests to savanna grasslands and coastal wetlands. The country is a critical habitat for a wide range of species, many of which are endemic.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 3.5%",
+      "nationalParks": 4
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forest Ecosystems",
+        "icon": "Trees",
+        "description": "Guinea’s forests cover a significant portion of the country and are home to a remarkable array of plant and animal life.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 1,500",
+            "details": "Including many endemic species"
+          },
+          {
+            "category": "Endemic Mammals",
+            "count": "Approximately 50",
+            "details": "Unique to Guinea"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Nimba Ironbird",
+            "status": "Endangered",
+            "significance": "A rare bird of paradise found only in the Mount Nimba range"
+          },
+          {
+            "name": "Western Dormouse",
+            "status": "Vulnerable",
+            "significance": "One of the smallest mammals in the world"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Mining"
+        ],
+        "conservationEfforts": [
+          "Creation of protected areas",
+          "Sustainable forestry practices",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Savanna Ecosystems",
+        "icon": "Leaf",
+        "description": "Guinea’s savanna ecosystems are characterized by grasslands interspersed with scattered trees and shrubs.",
+        "statistics": [
+          {
+            "category": "Grass Species",
+            "count": "Numerous",
+            "details": "Dominant vegetation type"
+          },
+          {
+            "category": "Large Herbivores",
+            "count": "Various",
+            "details": "Including elephants, antelopes, and zebras"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "Important for maintaining ecosystem health"
+          },
+          {
+            "name": "West African Lion",
+            "status": "Vulnerable",
+            "significance": "A significant predator in the savanna"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community conservation programs",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Guinea",
+    "description": "Guinea offers a range of activities for adventurous travelers, from wildlife viewing to cultural immersion.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Guinea’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Mount Nimba Trek",
+            "difficulty": "Moderate",
+            "season": "November – March",
+            "duration": "3-5 days",
+            "description": "A challenging trek to the summit of Mount Nimba, offering stunning views and geological wonders.",
+            "bestLocations": [
+              "Mount Nimba"
+            ],
+            "requirements": "Good hiking boots, water, sunscreen, and a local guide.",
+            "safety": [
+              "Be aware of altitude sickness.",
+              "Stay on marked trails.",
+              "Carry a first-aid kit."
+            ]
+          },
+          {
+            "name": "Forest Hiking",
+            "difficulty": "Easy – Moderate",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the lush forests surrounding Conakry and other areas.",
+            "bestLocations": [
+              "Forests near Conakry"
+            ],
+            "requirements": "Insect repellent, comfortable shoes, water.",
+            "safety": [
+              "Be aware of wildlife.",
+              "Stay on trails.",
+              "Inform someone of your plans."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Viewing",
+        "icon": "Bird",
+        "description": "Observe Guinea’s diverse wildlife in its natural habitat.",
+        "activities": [
+          {
+            "name": "Nimba Range Wildlife Safari",
+            "difficulty": "Moderate",
+            "season": "November – March",
+            "duration": "3-7 days",
+            "description": "A safari to the Mount Nimba range, offering opportunities to see endemic wildlife.",
+            "bestLocations": [
+              "Nimba Range"
+            ],
+            "requirements": "Binoculars, camera, sunscreen, insect repellent.",
+            "safety": [
+              "Hire a local guide.",
+              "Maintain a safe distance from wildlife.",
+              "Be aware of potential hazards."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cultural Tourism",
+        "icon": "Users",
+        "description": "Immerse yourself in Guinea’s rich culture and traditions.",
+        "activities": [
+          {
+            "name": "Visit Local Markets",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Experience the vibrant atmosphere of Guinea’s local markets.",
+            "bestLocations": [
+              "Conakry",
+              "Regional Markets"
+            ],
+            "requirements": "Respect local customs.",
+            "safety": [
+              "Be aware of your surroundings.",
+              "Don't flash valuables."
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat.",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves.",
+        "yearRound": "Comfortable walking shoes, insect repellent, sunglasses."
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, basic medications.",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Consult your doctor about necessary vaccinations.",
+        "Drink bottled water.",
+        "Be aware of petty theft.",
+        "Respect local customs."
+      ]
+    }
+  }
+}

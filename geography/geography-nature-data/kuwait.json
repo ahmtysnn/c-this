@@ -1,0 +1,335 @@
+{
+  "name": "Kuwait",
+  "region": "Western Asia",
+  "description": "Kuwait, officially the State of Kuwait, is a country in Western Asia. It is located at the northwestern corner of the Persian Gulf. Characterized by a largely arid climate and a rich history intertwined with trade and seafaring, Kuwait boasts a unique cultural heritage and a developing economy heavily reliant on oil and gas. The country’s landscape is dominated by flat, arid plains, punctuated by limestone plateaus and coastal wetlands.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "4.4 million",
+      "icon": "Users",
+      "description": "Kuwait has a relatively small but growing population, largely comprised of expatriates.",
+      "detail": "The majority of the population resides in urban areas, particularly Kuwait City."
+    },
+    {
+      "label": "Capital",
+      "value": "Kuwait City",
+      "icon": "MapPin",
+      "description": "The bustling capital city is the economic and political center of the country.",
+      "detail": "Kuwait City is a modern metropolis with a rich historical core."
+    },
+    {
+      "label": "Area",
+      "value": "17,818 sq km (6,880 sq mi)",
+      "icon": "Globe",
+      "description": "Kuwait is a small country with a predominantly flat landscape.",
+      "detail": "The coastline stretches for approximately 300 km."
+    },
+    {
+      "label": "Currency",
+      "value": "Kuwaiti Dinar (KWD)",
+      "icon": "Coffee",
+      "description": "The official currency of Kuwait.",
+      "detail": "The KWD is pegged to the US dollar."
+    },
+    {
+      "label": "Language",
+      "value": "Arabic",
+      "icon": "Eye",
+      "description": "The official language of Kuwait.",
+      "detail": "English is widely spoken due to the large expatriate community."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 173.7 billion (2023)",
+      "icon": "Zap",
+      "description": "Kuwait's economy is largely driven by oil and gas exports.",
+      "detail": "Diversification efforts are underway to reduce reliance on hydrocarbons."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Kuwait",
+    "description": "Kuwait experiences a hot desert climate with extremely high temperatures during the summer months. Rainfall is scarce, typically less than 100 mm per year, concentrated in winter. The country is characterized by intense sunshine and significant temperature fluctuations between day and night.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "The summer months are characterized by scorching heat and intense sunshine. Daytime temperatures regularly exceed 45°C (113°F).",
+        "keyFeatures": [
+          "Extreme heat",
+          "High humidity",
+          "Limited rainfall"
+        ],
+        "activities": [
+          "Indoor activities",
+          "Early morning/late evening outdoor activities"
+        ],
+        "icon": "Sun"
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Temperatures begin to moderate, and humidity decreases. Rainfall is slightly more frequent than in summer.",
+        "keyFeatures": [
+          "Pleasant temperatures",
+          "Lower humidity",
+          "Occasional rainfall"
+        ],
+        "activities": [
+          "Outdoor activities",
+          "Desert exploration"
+        ],
+        "icon": "Sun"
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter brings cooler temperatures and occasional rainfall. Nights can be surprisingly cold.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Occasional rainfall",
+          "Clear skies"
+        ],
+        "activities": [
+          "Desert hiking",
+          "Birdwatching"
+        ],
+        "icon": "Cloud"
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Temperatures gradually increase, and the landscape blooms with wildflowers. It's a pleasant time for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Blooming wildflowers",
+          "Increasing sunshine"
+        ],
+        "activities": [
+          "Desert camping",
+          "Nature walks"
+        ],
+        "icon": "Leaf"
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Burgan Oil Field",
+      "category": "Geological Formation",
+      "description": "The Burgan Oil Field is one of the world's largest oil fields, representing a significant portion of Kuwait's oil reserves. Its vastness and geological complexity are a testament to the country's rich hydrocarbon resources.",
+      "detailedDescription": "Located approximately 80 km south of Kuwait City, the Burgan field covers an area of over 10,000 square kilometers. It’s characterized by a complex network of reservoirs and faults, contributing to its immense production capacity.  The field’s development has shaped Kuwait’s economy and infrastructure.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Burgan Oil Field area"
+      ],
+      "viewingTips": [
+        "Guided tours are available to learn about the field's history and operations."
+      ],
+      "scientificData": {
+        "Depth": "Up to 10,000 ft",
+        "Oil Reserves": "Approximately 100 billion barrels"
+      },
+      "icon": "Flame"
+    },
+    {
+      "id": 2,
+      "name": "Shammar Sand Dunes",
+      "category": "Desert Landscape",
+      "description": "The Shammar Sand Dunes, located in the country's southeastern region, offer a dramatic and awe-inspiring landscape of towering sand formations.",
+      "detailedDescription": "These undulating dunes, formed by centuries of wind action, create a mesmerizing vista. The shifting sands and stark beauty of the desert make it a popular destination for photography and adventure tourism. The area is also home to unique desert wildlife.",
+      "bestTime": "Autumn and Winter",
+      "bestLocations": [
+        "Southeastern Kuwait"
+      ],
+      "viewingTips": [
+        "Wear appropriate footwear and clothing. Bring plenty of water."
+      ],
+      "scientificData": {
+        "Height": "Up to 60 meters",
+        "Age": "Approximately 8,000 years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Salmiya Coastal Wetlands",
+      "category": "Coastal Ecosystem",
+      "description": "Salmiya Coastal Wetlands is a vital coastal ecosystem, providing a habitat for a diverse range of bird species and acting as a natural buffer against coastal erosion.",
+      "detailedDescription": "These wetlands are a crucial stopover point for migratory birds traveling along the Arabian Sea. The area is characterized by brackish water, mudflats, and salt marshes. Conservation efforts are underway to protect this important habitat.",
+      "bestTime": "Winter and Spring",
+      "bestLocations": [
+        "Salmiya Coast"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching."
+      ],
+      "scientificData": {
+        "Area": "Approximately 100 hectares",
+        "Water Salinity": "Variable, ranging from brackish to saline"
+      },
+      "icon": "Bird"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Desert Wildlife",
+    "icon": "Bird",
+    "description": "Kuwait’s desert environment supports a surprising array of wildlife adapted to the harsh conditions.",
+    "statistics": [
+      {
+        "category": "Reptiles",
+        "count": "Over 80 species",
+        "details": "Including sand lizards, desert monitors, and venomous snakes."
+      },
+      {
+        "category": "Birds",
+        "count": "Over 300 species",
+        "details": "Migratory birds are particularly abundant during the winter months."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Arabian Sand Gecko",
+        "status": "Least Concern",
+        "significance": "A common gecko found throughout Kuwait's deserts."
+      },
+      {
+        "name": "Shaheen (Peregrine Falcon)",
+        "status": "Near Threatened",
+        "significance": "A majestic raptor that hunts over the desert landscape."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Illegal hunting"
+    ],
+    "conservationEfforts": [
+      "Protected area management",
+      "Habitat restoration",
+      "Community education"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Kuwait's Desert Ecosystem",
+    "overview": "Kuwait’s desert ecosystem is characterized by extreme aridity, high temperatures, and limited rainfall. Despite these challenging conditions, a remarkable diversity of plant and animal life has adapted to survive.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Kuwait’s land area is protected.",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Desert Wildlife",
+        "icon": "Bird",
+        "description": "As described above, this category encompasses the diverse range of animals adapted to Kuwait’s desert environment.",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [],
+        "conservationEfforts": []
+      },
+      {
+        "name": "Desert Plants",
+        "icon": "Leaf",
+        "description": "Desert plants have evolved remarkable adaptations to conserve water and survive in the harsh conditions.",
+        "statistics": [
+          {
+            "category": "Succulents",
+            "count": "Over 50 species",
+            "details": "Including cacti and aloe-like plants."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Overgrazing",
+          "Habitat degradation"
+        ],
+        "conservationEfforts": [
+          "Controlled grazing",
+          "Reforestation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Kuwait",
+    "description": "Kuwait offers a range of outdoor activities, catering to various interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Kuwait’s desert landscapes on foot.",
+        "activities": [
+          {
+            "name": "Shammar Dunes Hike",
+            "difficulty": "Moderate",
+            "season": "Autumn & Winter",
+            "duration": "3-6 hours",
+            "description": "Hike through the towering sand dunes of the Shammar region.",
+            "bestLocations": [
+              "Shammar Sand Dunes"
+            ],
+            "requirements": "Sturdy hiking boots, sunscreen, hat, plenty of water.",
+            "safety": [
+              "Be aware of heat exhaustion",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Salmiya Coastal Trail",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "A scenic trail along the Salmiya coastline, offering views of the wetlands.",
+            "bestLocations": [
+              "Salmiya Coast"
+            ],
+            "requirements": "Comfortable walking shoes",
+            "safety": [
+              "Watch out for slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy water activities along Kuwait’s coastline.",
+        "activities": [
+          {
+            "name": "Jet Skiing",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "1-3 hours",
+            "description": "Experience the thrill of jet skiing along the Kuwaiti coast.",
+            "bestLocations": [
+              "Kuwait Bay"
+            ],
+            "requirements": "Valid driver's license, life jacket",
+            "safety": [
+              "Follow safety regulations",
+              "Be aware of marine traffic"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, sunscreen, hat, sunglasses.",
+        "winter": "Layers of clothing, including a jacket and scarf.",
+        "yearRound": "Comfortable walking shoes, swimwear (for water activities)."
+      },
+      "equipment": {
+        "basic": "Water bottle, sunscreen, hat, sunglasses.",
+        "hiking": "Sturdy hiking boots, backpack, map, compass.",
+        "photography": "Camera, extra batteries, memory card."
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of the weather conditions",
+        "Inform someone of your plans"
+      ]
+    }
+  }
+}

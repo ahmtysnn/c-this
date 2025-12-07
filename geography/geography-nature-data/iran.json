@@ -1,0 +1,347 @@
+{
+  "name": "Iran",
+  "region": "Western Asia",
+  "description": "Iran, officially the Islamic Republic of Iran, is a transcontinental country in Southwest Asia. It is bordered by Iraq to the east, Afghanistan and Turkmenistan to the northeast, Pakistan and Azerbaijan to the northwest, Turkey to the northwest, Armenia and Georgia to the northeast, and the Caspian Sea to the north. Iran possesses a rich and ancient history, diverse landscapes ranging from deserts and mountains to coastal plains, and a vibrant culture.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "89.2 Million",
+      "icon": "Users",
+      "description": "Iran has the second-largest population in Western Asia.",
+      "detail": "The majority of the population lives in urban areas, particularly in Tehran, Mashhad, and Isfahan."
+    },
+    {
+      "label": "Capital",
+      "value": "Tehran",
+      "icon": "MapPin",
+      "description": "Tehran is the bustling capital and largest city of Iran.",
+      "detail": "It's a modern metropolis with historical sites and a vibrant cultural scene."
+    },
+    {
+      "label": "Area",
+      "value": "1,648,195 sq km",
+      "icon": "Globe",
+      "description": "Iran covers a vast area, making it the second-largest country in Asia.",
+      "detail": "Its diverse geography includes mountains, deserts, and fertile plains."
+    },
+    {
+      "label": "Official Language",
+      "value": "Persian (Farsi)",
+      "icon": "ArrowRight",
+      "description": "Persian is the official language and the most widely spoken.",
+      "detail": "Arabic script is used for writing."
+    },
+    {
+      "label": "Currency",
+      "value": "Iranian Rial (IRR)",
+      "icon": "Coffee",
+      "description": "The official currency of Iran.",
+      "detail": "Exchange rates can fluctuate."
+    },
+    {
+      "label": "GDP",
+      "value": "$197 Billion (2023 est.)",
+      "icon": "Zap",
+      "description": "Iran's economy is largely based on oil and gas.",
+      "detail": "Diversification efforts are underway."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Iran",
+    "description": "Iran experiences a wide range of climates due to its diverse geography. Generally, it's a hot desert climate, but variations occur across the country.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summers are extremely hot and dry, particularly in the central and southern regions.",
+        "keyFeatures": [
+          "High temperatures",
+          "Low rainfall",
+          "Dust storms"
+        ],
+        "activities": [
+          "Desert exploration",
+          "Visiting historical sites (early morning/late evening)"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings pleasant temperatures and clear skies, making it an ideal time for outdoor activities.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Colorful foliage (in mountainous areas)",
+          "Reduced humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Visiting cultural sites"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winters are cold and snowy in the northern and mountainous regions, while the southern regions remain relatively mild.",
+        "keyFeatures": [
+          "Snowfall (north), Mild temperatures (south)",
+          "Lower humidity",
+          "Festive atmosphere"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting bazaars"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring is a beautiful season with blooming flowers and pleasant temperatures.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Blooming flowers",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Gardening",
+          "Picnics",
+          "Exploring national parks"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Damavand",
+      "category": "Mountain",
+      "description": "Mount Damavand is Iran's highest peak and one of the world's tallest volcanoes. It's a challenging but rewarding climb for experienced mountaineers.",
+      "detailedDescription": "Located in the Alborz Mountains, Damavand's summit reaches 5,610 meters (18,404 feet). Its volcanic history is evident in its distinctive cone shape and the presence of fumaroles.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Damavand National Park"
+      ],
+      "viewingTips": [
+        "Acclimatize to the altitude before attempting the summit.",
+        "Check weather conditions before starting your climb."
+      ],
+      "scientificData": {
+        "Height": "5,610 m",
+        "Age": "Approximately 1.8 million years",
+        "VolcanicType": "Stratovolcano"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Kavir Desert",
+      "category": "Desert",
+      "description": "The Kavir Desert, meaning 'Sea of Sand,' is one of Iran's two deserts. It's a vast expanse of sand dunes and rocky terrain.",
+      "detailedDescription": "The Kavir Desert is divided into Eastern and Western Kavir. The Western Kavir is more sandy, while the Eastern Kavir is characterized by rocky outcrops and salt plains. It's a unique ecosystem with specialized flora and fauna.",
+      "bestTime": "Spring & Autumn",
+      "bestLocations": [
+        "Dasht-e Kavir National Park"
+      ],
+      "viewingTips": [
+        "Bring plenty of water and sunscreen.",
+        "Respect the local nomadic communities."
+      ],
+      "scientificData": {
+        "Area": "97,000 sq km",
+        "SandType": "Quartz-rich sand"
+      },
+      "icon": "Wind"
+    },
+    {
+      "id": 3,
+      "name": "Chalus National Park",
+      "category": "Forest",
+      "description": "Chalus National Park is renowned for its ancient beech forests, some of the oldest in the world.",
+      "detailedDescription": "The park is home to a diverse range of flora and fauna, including rare bird species and endemic plants. The trees are estimated to be over 1,000 years old.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "Alborz Mountains"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots.",
+        "Respect the fragile ecosystem."
+      ],
+      "scientificData": {
+        "TreeAge": "1,000+ years",
+        "ForestType": "Beech Forest"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Iran",
+    "overview": "Iran's ecosystems are incredibly diverse, ranging from arid deserts to lush forests and alpine meadows. These ecosystems support a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Iran's land area is protected within national parks and reserves.",
+      "nationalParks": 42
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Iran is home to a variety of mammals, including lions, tigers, leopards, wolves, foxes, and gazelles.",
+        "statistics": [
+          {
+            "category": "Large Carnivores",
+            "count": "Relatively Low",
+            "details": "Threatened by habitat loss and poaching."
+          },
+          {
+            "category": "Small Mammals",
+            "count": "High",
+            "details": "Diverse range of rodents and shrews."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Iranian Lion",
+            "status": "Vulnerable",
+            "significance": "Iran's national animal."
+          },
+          {
+            "name": "Asiatic Wild Ass",
+            "status": "Endangered",
+            "significance": "Critically important for desert ecosystems."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Habitat restoration",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Iran is a birdwatcher's paradise, with over 600 bird species recorded.",
+        "statistics": [
+          {
+            "category": "Migratory Birds",
+            "count": "High",
+            "details": "Important stopover point for birds migrating between Asia and Africa."
+          },
+          {
+            "category": "Endemic Species",
+            "count": "Moderate",
+            "details": "Several bird species found only in Iran."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Siberian Crane",
+            "status": "Critically Endangered",
+            "significance": "A rare and majestic bird."
+          },
+          {
+            "name": "Black Francolin",
+            "status": "Vulnerable",
+            "significance": "A ground-dwelling bird found in grasslands."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal trapping",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Community education",
+          "Research and monitoring"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Iran",
+    "description": "Iran offers a wide range of outdoor activities for adventure seekers and nature enthusiasts.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Iran's diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Mount Damavand Trek",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "5-7 days",
+            "description": "A challenging trek to the summit of Iran's highest peak.",
+            "bestLocations": [
+              "Damavand National Park"
+            ],
+            "requirements": "Experienced mountaineer, appropriate gear, permits",
+            "safety": [
+              "Altitude sickness",
+              "Weather conditions"
+            ]
+          },
+          {
+            "name": "Alborz Mountains Hiking",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "1-3 days",
+            "description": "Hike through stunning mountain scenery.",
+            "bestLocations": [
+              "Alborz Mountains"
+            ],
+            "requirements": "Hiking boots, water, sunscreen",
+            "safety": [
+              "Trail hazards",
+              "Wildlife encounters"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy water activities in Iran's Caspian Sea and coastal regions.",
+        "activities": [
+          {
+            "name": "Caspian Sea Fishing",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Cast a line and try your luck at catching fish in the Caspian Sea.",
+            "bestLocations": [
+              "Astara, Gonbad-Kavoos"
+            ],
+            "requirements": "Fishing license, boat",
+            "safety": [
+              "Weather conditions",
+              "Marine life"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, hat, sunglasses",
+        "winter": "Warm coat, hat, gloves, scarf",
+        "yearRound": "Comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Water bottle, sunscreen, insect repellent",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Travel insurance",
+        "Respect local customs",
+        "Stay hydrated"
+      ]
+    }
+  }
+}

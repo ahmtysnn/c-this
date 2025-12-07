@@ -1,0 +1,322 @@
+{
+  "CountryData": {
+    "name": "British Indian Ocean Territory",
+    "region": "Asia",
+    "description": "The British Indian Ocean Territory (BIOT) is a British Overseas Territory located in the Indian Ocean. It consists of numerous coral atolls and islands, primarily within the Maldives archipelago. The territory is renowned for its exceptional biodiversity, particularly its coral reefs, and its strategic importance as a research and conservation area.  It’s a relatively sparsely populated territory with a focus on scientific research, tourism, and sustainable resource management.",
+    "quickFacts": [
+      {
+        "label": "Area",
+        "value": "1,258.5 km² (484.1 sq mi)",
+        "icon": "MapPin",
+        "description": "The total land area of the BIOT encompasses all its islands and reefs.",
+        "detail": "This includes approximately 580 km² of land and 680 km² of surrounding waters."
+      },
+      {
+        "label": "Population",
+        "value": "2,779 (2021 est.)",
+        "icon": "Users",
+        "description": "The population is primarily comprised of Maldivian citizens who work and reside on the islands.",
+        "detail": "The vast majority of the population lives on Kavarodhoo, Thoodhoo, and Gulhi."
+      },
+      {
+        "label": "Capital",
+        "value": "Kavarodhoo",
+        "icon": "MapPin",
+        "description": "Kavarodhoo serves as the administrative center of the British Indian Ocean Territory.",
+        "detail": "It’s the largest inhabited island and the focal point for governance and services."
+      },
+      {
+        "label": "Currency",
+        "value": "Maldivian Rufiyaa (MVR)",
+        "icon": "Coffee",
+        "description": "While the Rufiyaa is the official currency of the Maldives, it is also used within the BIOT.",
+        "detail": "The British Pound Sterling is also accepted in many establishments."
+      },
+      {
+        "label": "Official Language",
+        "value": "Dhivehi",
+        "icon": "Globe",
+        "description": "Dhivehi is the national language and is widely spoken throughout the territory.",
+        "detail": "English is also spoken, particularly by those involved in tourism and research."
+      },
+      {
+        "label": "Government",
+        "value": "Overseas Territory",
+        "icon": "Navigation",
+        "description": "The territory is governed by the United Kingdom.",
+        "detail": "The British High Commissioner represents the UK in the BIOT."
+      }
+    ],
+    "climateData": {
+      "title": "Tropical Climate",
+      "description": "The British Indian Ocean Territory experiences a tropical monsoon climate characterized by consistently high temperatures and humidity throughout the year. Rainfall is concentrated during the monsoon seasons, with distinct wet and dry periods.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Dry Season",
+          "period": "November – April",
+          "description": "The dry season is generally sunny and pleasant, with lower humidity levels. It’s the most popular time for tourism.",
+          "keyFeatures": [
+            "Sunny days",
+            "Low humidity",
+            "Calm seas"
+          ],
+          "activities": [
+            "Snorkeling",
+            "Diving",
+            "Island hopping"
+          ]
+        },
+        {
+          "name": "Wet Season",
+          "period": "May – October",
+          "description": "The wet season brings frequent rainfall and higher humidity. While it can be cloudy, the seas remain relatively calm.",
+          "keyFeatures": [
+            "Heavy rainfall",
+            "High humidity",
+            "Storms possible"
+          ],
+          "activities": [
+            "Birdwatching",
+            "Photography",
+            "Relaxing on the beach"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Kavarodhoo Atoll Coral Reef",
+        "category": "Coral Reef Ecosystem",
+        "description": "The Kavarodhoo Atoll Coral Reef is a vibrant and extensive coral reef system, teeming with marine life and showcasing a remarkable diversity of coral species. It’s a crucial habitat for numerous fish, invertebrates, and sea turtles.",
+        "detailedDescription": "The reef’s intricate structure provides shelter and breeding grounds for a vast array of marine organisms.  It’s a living laboratory for coral reef research and conservation.",
+        "bestTime": "November – April",
+        "bestLocations": [
+          "Kavarodhoo Island",
+          "Surrounding reefs"
+        ],
+        "viewingTips": [
+          "Use a waterproof camera",
+          "Respect the marine environment",
+          "Hire a local guide"
+        ],
+        "scientificData": {
+          "Coral Diversity": "Over 40 different coral species",
+          "Average Depth": "5-30 meters",
+          "Age": "Approximately 10,000 years (formed after the last glacial period)"
+        },
+        "icon": "Leaf"
+      },
+      {
+        "id": 2,
+        "name": "Thoodhoo Sand Dunes",
+        "category": "Coastal Feature",
+        "description": "Thoodhoo Sand Dunes represent a unique coastal landscape, formed by centuries of wind and wave action. They provide a habitat for specialized plant and animal species.",
+        "detailedDescription": "The dunes are a significant area for studying coastal erosion and the impact of climate change. They also offer stunning views of the surrounding ocean.",
+        "bestTime": "Year Round",
+        "bestLocations": [
+          "Thoodhoo Island"
+        ],
+        "viewingTips": [
+          "Wear appropriate footwear",
+          "Be mindful of the dunes' fragility"
+        ],
+        "scientificData": {
+          "Sand Composition": "Primarily quartz and feldspar",
+          "Height": "Up to 15 meters",
+          "Age": "Approximately 2,000 years"
+        },
+        "icon": "Wind"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Coral Reef Ecosystems",
+      "overview": "The British Indian Ocean Territory is globally significant for its extensive and diverse coral reef ecosystems. These reefs support a rich array of marine life and play a vital role in the region’s biodiversity and coastal protection.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 15% of the territory’s marine environment is protected through Marine Protected Areas.",
+        "nationalParks": 0
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Coral Biodiversity",
+          "icon": "Droplets",
+          "description": "The territory boasts an exceptional diversity of coral species, including hard corals, soft corals, and gorgonians.",
+          "statistics": [
+            {
+              "category": "Coral Species",
+              "count": "Over 40",
+              "details": "A significant proportion of these are endemic to the region."
+            },
+            {
+              "category": "Coral Cover",
+              "count": "Approximately 60%",
+              "details": "Healthy coral cover is crucial for reef resilience."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Acropora",
+              "status": "Vulnerable",
+              "significance": "A dominant reef-building coral species."
+            },
+            {
+              "name": "Montipora",
+              "status": "Near Threatened",
+              "significance": "Known for its vibrant colors and diverse forms."
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Pollution",
+            "Overfishing"
+          ],
+          "conservationEfforts": [
+            "Marine Protected Areas",
+            "Coral restoration projects",
+            "Community-based conservation"
+          ]
+        },
+        {
+          "name": "Fish Biodiversity",
+          "icon": "Fish",
+          "description": "The coral reefs support a vast array of fish species, ranging from small reef fish to larger pelagic species.",
+          "statistics": [
+            {
+              "category": "Fish Species",
+              "count": "Over 300",
+              "details": "Many species are endemic to the region."
+            },
+            {
+              "category": "Reef Fish Density",
+              "count": "High",
+              "details": "The reefs provide abundant food and shelter for fish."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Grouper",
+              "status": "Least Concern",
+              "significance": "A top predator in the reef ecosystem."
+            },
+            {
+              "name": "Butterflyfish",
+              "status": "Near Threatened",
+              "significance": "Known for their vibrant colors and intricate patterns."
+            }
+          ],
+          "threats": [
+            "Overfishing",
+            "Habitat destruction",
+            "Pollution"
+          ],
+          "conservationEfforts": [
+            "Sustainable fishing practices",
+            "Marine Protected Areas",
+            "Community involvement"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Island Adventures & Marine Activities",
+      "description": "The British Indian Ocean Territory offers a range of exciting activities, from exploring pristine coral reefs to experiencing the unique culture of the local communities.",
+      "activityCategories": [
+        {
+          "name": "Diving & Snorkeling",
+          "icon": "Waves",
+          "description": "Explore the vibrant coral reefs and encounter a diverse array of marine life.",
+          "activities": [
+            {
+              "name": "Reef Diving",
+              "difficulty": "Moderate",
+              "season": "November – April",
+              "duration": "3-5 hours",
+              "description": "Dive amongst colorful coral formations and encounter reef fish, sharks, and turtles.",
+              "bestLocations": [
+                "Kavarodhoo Atoll",
+                "Thoodhoo Atoll"
+              ],
+              "requirements": "PADI certification recommended",
+              "safety": [
+                "Buddy system",
+                "Dive guide",
+                "Check equipment"
+              ]
+            },
+            {
+              "name": "Snorkeling",
+              "difficulty": "Easy",
+              "season": "Year Round",
+              "duration": "1-3 hours",
+              "description": "Enjoy the beauty of the coral reefs from the surface.",
+              "bestLocations": [
+                "All islands with accessible reefs"
+              ],
+              "requirements": "Basic swimming skills",
+              "safety": [
+                "Swim with a buddy",
+                "Use reef-safe sunscreen"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hiking & Island Exploration",
+          "icon": "Compass",
+          "description": "Discover the unique landscapes and cultural heritage of the islands.",
+          "activities": [
+            {
+              "name": "Coastal Hiking",
+              "difficulty": "Easy",
+              "season": "Year Round",
+              "duration": "2-4 hours",
+              "description": "Explore the coastal trails and enjoy stunning views of the ocean.",
+              "bestLocations": [
+                "Thoodhoo Island",
+                "Kavarodhoo Island"
+              ],
+              "requirements": "Comfortable walking shoes",
+              "safety": [
+                "Stay on marked trails",
+                "Bring water"
+              ]
+            },
+            {
+              "name": "Sand Dune Exploration",
+              "difficulty": "Moderate",
+              "season": "Year Round",
+              "duration": "1-3 hours",
+              "description": "Climb the sand dunes and enjoy panoramic views.",
+              "bestLocations": [
+                "Thoodhoo Island"
+              ],
+              "requirements": "Sunscreen, hat, water",
+              "safety": [
+                "Be aware of the heat",
+                "Stay hydrated"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight cotton clothing, swimwear, hat, sunglasses",
+          "winter": "Long-sleeved shirts, light jacket, waterproof jacket",
+          "yearRound": "Sunscreen, insect repellent, comfortable walking shoes"
+        },
+        "equipment": {
+          "basic": "Reusable water bottle, backpack, flashlight",
+          "hiking": "Hiking boots, trekking poles, first-aid kit",
+          "photography": "Underwater camera, waterproof case"
+        },
+        "safety": [
+          "Respect local customs",
+          "Stay hydrated",
+          "Be aware of the sun",
+          "Follow safety guidelines for water activities"
+        ]
+      }
+    }
+  }
+}

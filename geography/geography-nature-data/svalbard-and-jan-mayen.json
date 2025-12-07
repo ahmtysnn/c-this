@@ -1,0 +1,361 @@
+{
+  "CountryData": {
+    "name": "Svalbard and Jan Mayen",
+    "region": "Arctic",
+    "description": "Svalbard and Jan Mayen are two Norwegian archipelagoes located in the Arctic Ocean, far north of mainland Norway. Svalbard is an autonomous territory governed by Norwegian law, while Jan Mayen is a territory jointly administered by Norway and Denmark. Characterized by dramatic landscapes of glaciers, mountains, and tundra, these islands offer a unique and challenging environment.  The region is known for its stunning natural beauty, abundant wildlife, and rich scientific interest, particularly regarding climate change and permafrost.",
+    "quickFacts": [
+      {
+        "label": "Area",
+        "value": "33,768 km²",
+        "icon": "MapPin",
+        "description": "The combined area of Svalbard and Jan Mayen.",
+        "detail": "Svalbard covers approximately 33,768 square kilometers, while Jan Mayen is significantly smaller."
+      },
+      {
+        "label": "Population",
+        "value": "2,800",
+        "icon": "Users",
+        "description": "The population of Svalbard, a mix of residents and researchers.",
+        "detail": "Most residents are Norwegian, but there's a growing community of scientists, adventurers, and support staff."
+      },
+      {
+        "label": "Highest Point",
+        "value": "Great Brasvo",
+        "icon": "Mountain",
+        "description": "The highest point on Svalbard.",
+        "detail": "Great Brasvo rises to 1,266 meters (4,153 feet) above sea level."
+      },
+      {
+        "label": "Climate",
+        "value": "Subpolar",
+        "icon": "Thermometer",
+        "description": "A cold and harsh subpolar climate.",
+        "detail": "Long, dark winters and short, cool summers are typical."
+      },
+      {
+        "label": "Currency",
+        "value": "Norwegian Krone (NOK)",
+        "icon": "Coffee",
+        "description": "The official currency of Svalbard.",
+        "detail": "Cash is widely accepted, but credit cards are also common in Longyearbyen."
+      },
+      {
+        "label": "Time Zone",
+        "value": "WGT",
+        "icon": "Clock",
+        "description": "West Greenland Time.",
+        "detail": "UTC+1 during summer, UTC+2 during winter."
+      }
+    ],
+    "climateData": {
+      "title": "Arctic Climate",
+      "description": "Svalbard and Jan Mayen experience a subpolar climate characterized by extremely cold temperatures, long periods of darkness in winter, and short, cool summers. Permafrost is widespread, impacting the landscape and infrastructure.  The region is highly sensitive to global climate change, with noticeable warming trends and melting glaciers.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Winter (November - March)",
+          "period": "6 months",
+          "description": "Long, dark, and bitterly cold. Temperatures rarely rise above freezing.",
+          "keyFeatures": [
+            "Midnight Sun (briefly in late January/early February)",
+            "Aurora Borealis (Northern Lights) potential",
+            "Limited daylight"
+          ],
+          "activities": [
+            "Photography",
+            "Dog sledding",
+            "Ice caving"
+          ]
+        },
+        {
+          "name": "Spring (April - May)",
+          "period": "2 months",
+          "description": "Slowly increasing daylight hours and temperatures. Snow melts, revealing the tundra.",
+          "keyFeatures": [
+            "Melting snow and ice",
+            "Return of migratory birds",
+            "Increased wildlife activity"
+          ],
+          "activities": [
+            "Hiking",
+            "Wildlife watching",
+            "Boat trips"
+          ]
+        },
+        {
+          "name": "Summer (June - August)",
+          "period": "2 months",
+          "description": "Long daylight hours and relatively mild temperatures. The tundra blooms with wildflowers.",
+          "keyFeatures": [
+            "Midnight Sun",
+            "Warmest temperatures of the year",
+            "Peak wildlife activity"
+          ],
+          "activities": [
+            "Hiking",
+            "Kayaking",
+            "Fishing",
+            "Camping"
+          ]
+        },
+        {
+          "name": "Autumn (September - October)",
+          "period": "2 months",
+          "description": "Decreasing daylight hours and temperatures. The landscape transforms as vegetation dies back.",
+          "keyFeatures": [
+            "Falling leaves",
+            "Migration of birds",
+            "Increased snowfall"
+          ],
+          "activities": [
+            "Wildlife watching",
+            "Photography",
+            "Northern Lights viewing (increasing frequency)"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Svalbard Global Seed Vault",
+        "category": "Infrastructure",
+        "description": "The Svalbard Global Seed Vault, often called the 'Doomsday Vault,' is a secure facility designed to safeguard the world’s plant biodiversity. It’s a crucial backup for seed banks around the globe, protecting crops from disasters and ensuring food security.",
+        "detailedDescription": "Located deep inside a mountain on Spitsbergen Island, the vault is built to withstand extreme conditions, including earthquakes, floods, and even nuclear attacks. It holds copies of seeds from over 100 gene banks worldwide.",
+        "bestTime": "Year-Round",
+        "bestLocations": [
+          "Longyearbyen"
+        ],
+        "viewingTips": [
+          "Reservations are required to visit.",
+          "Photography is permitted."
+        ],
+        "scientificData": {
+          "Depth": "100m below ground",
+          "Temperature": "Constant 4°C",
+          "Humidity": "98%"
+        },
+        "icon": "Zap"
+      },
+      {
+        "id": 2,
+        "name": "Norra Linnarøyane Archipelago",
+        "category": "Coastal",
+        "description": "A stunning archipelago of islands and islets off the coast of Spitsbergen, known for its dramatic cliffs, sea caves, and abundant birdlife. It’s a haven for seabirds and offers breathtaking coastal scenery.",
+        "detailedDescription": "The archipelago is characterized by steep, rocky islands covered in mosses and lichens. Numerous sea caves and arches provide unique photographic opportunities. The waters are rich in marine life, attracting seals and whales.",
+        "bestTime": "June - August",
+        "bestLocations": [
+          "Various islands within the archipelago"
+        ],
+        "viewingTips": [
+          "Boat tours are the best way to explore the archipelago.",
+          "Bring waterproof clothing."
+        ],
+        "scientificData": {
+          "Area": "130 km²",
+          "Average Depth": "30m"
+        },
+        "icon": "Waves"
+      },
+      {
+        "id": 3,
+        "name": "Jan Mayen's Vulcanoes",
+        "category": "Volcanic",
+        "description": "Jan Mayen is dominated by a single active stratovolcano, Beerenberg, and several dormant volcanic peaks. The volcanic activity shapes the island's landscape and creates unique geological features.",
+        "detailedDescription": "Beerenberg is the most active volcano in the Arctic. It has erupted frequently in recent decades, releasing ash and lava. The surrounding area is characterized by lava fields, craters, and geothermal activity.",
+        "bestTime": "Summer (for easier access)",
+        "bestLocations": [
+          "Mount Schjelderup",
+          "Beerenberg Crater"
+        ],
+        "viewingTips": [
+          "Monitor volcanic activity reports before visiting.",
+          "Bring appropriate safety gear."
+        ],
+        "scientificData": {
+          "Elevation": "2,128 m",
+          "Last Eruption": "2008"
+        },
+        "icon": "Flame"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Arctic Tundra Ecosystem",
+      "overview": "Svalbard and Jan Mayen are dominated by a vast Arctic tundra ecosystem, characterized by low-growing vegetation, permafrost, and a short growing season. This fragile environment is highly susceptible to climate change.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 25%",
+        "nationalParks": 2
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Birds",
+          "icon": "Bird",
+          "description": "A diverse array of migratory and resident bird species thrive in the Arctic tundra.",
+          "statistics": [
+            {
+              "category": "Seabirds",
+              "count": "10 million",
+              "details": "Puffins, guillemots, and kittiwakes are abundant."
+            },
+            {
+              "category": "Shorebirds",
+              "count": "1 million",
+              "details": "Sandpipers, plovers, and oystercatchers breed in the tundra."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Puffin",
+              "status": "Least Concern",
+              "significance": "A charismatic seabird that plays a vital role in the Arctic food web."
+            },
+            {
+              "name": "Snow Bunting",
+              "status": "Near Threatened",
+              "significance": "A hardy bird that adapts to the harsh Arctic conditions."
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Habitat loss"
+          ],
+          "conservationEfforts": [
+            "Monitoring bird populations",
+            "Protecting breeding grounds"
+          ]
+        },
+        {
+          "name": "Mammals",
+          "icon": "Leaf",
+          "description": "A variety of mammals, including Arctic foxes, reindeer, and polar bears, inhabit the islands.",
+          "statistics": [
+            {
+              "category": "Arctic Foxes",
+              "count": "5,000",
+              "details": "The most common mammal on Svalbard."
+            },
+            {
+              "category": "Reindeer",
+              "count": "10,000",
+              "details": "Migratory reindeer graze on the tundra."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Polar Bear",
+              "status": "Vulnerable",
+              "significance": "A top predator in the Arctic ecosystem."
+            },
+            {
+              "name": "Arctic Fox",
+              "status": "Least Concern",
+              "significance": "Highly adaptable to the cold climate."
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Human disturbance"
+          ],
+          "conservationEfforts": [
+            "Managing reindeer populations",
+            "Protecting polar bear habitats"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Adventures in Svalbard",
+      "description": "Svalbard offers a wide range of outdoor activities for adventurous travelers, from hiking and wildlife watching to kayaking and glacier exploration.  However, due to the challenging environment, careful planning and preparation are essential.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the stunning landscapes of Svalbard on foot.",
+          "activities": [
+            {
+              "name": "Mountroom Glacier Hike",
+              "difficulty": "Moderate",
+              "season": "Summer",
+              "duration": "6-8 hours",
+              "description": "Hike across the impressive Mountroom Glacier, surrounded by towering ice formations.",
+              "bestLocations": [
+                "Mountroom Glacier"
+              ],
+              "requirements": "Sturdy hiking boots, waterproof clothing, ice axe (recommended).",
+              "safety": [
+                "Avalanche risk",
+                "Hypothermia"
+              ]
+            },
+            {
+              "name": "Slettnes Peninsula Hike",
+              "difficulty": "Easy",
+              "season": "Summer",
+              "duration": "3-4 hours",
+              "description": "A relatively easy hike along the Slettnes Peninsula, offering views of glaciers and wildlife.",
+              "bestLocations": [
+                "Slettnes Peninsula"
+              ],
+              "requirements": "Hiking boots, sunscreen, insect repellent.",
+              "safety": [
+                "Sunburn"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Experience the icy waters of Svalbard through kayaking and boat trips.",
+          "activities": [
+            {
+              "name": "Kayaking in Magdalenefjorden",
+              "difficulty": "Moderate",
+              "season": "Summer",
+              "duration": "3-5 hours",
+              "description": "Paddle through the stunning Magdalenefjorden, surrounded by glaciers and mountains.",
+              "bestLocations": [
+                "Magdalenefjorden"
+              ],
+              "requirements": "Kayaking experience, waterproof clothing, life jacket.",
+              "safety": [
+                "Cold water shock"
+              ]
+            },
+            {
+              "name": "Boat Tour to Pyramiden",
+              "difficulty": "Easy",
+              "season": "Summer",
+              "duration": "8-10 hours",
+              "description": "Explore the abandoned Russian mining town of Pyramiden on a boat tour.",
+              "bestLocations": [
+                "Pyramiden"
+              ],
+              "requirements": "Warm clothing, binoculars.",
+              "safety": [
+                "Sea conditions"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight layers, waterproof jacket and trousers, hiking boots, hat, gloves.",
+          "winter": "Thermal underwear, insulated jacket and trousers, waterproof boots, hat, gloves, scarf, balaclava.",
+          "yearRound": "Warm layers, waterproof outerwear, sturdy footwear."
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, sunscreen, insect repellent, headlamp.",
+          "hiking": "Hiking boots, trekking poles, map, compass, first-aid kit.",
+          "photography": "Camera, extra batteries, waterproof case."
+        },
+        "safety": [
+          "Inform local authorities of your plans",
+          "Carry a satellite phone or personal locator beacon (PLB)",
+          "Be aware of wildlife",
+          "Respect the environment"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "name": "Haiti",
+  "region": "Caribbean",
+  "description": "Haiti, the second smallest independent nation in the Americas, is a land of dramatic contrasts – stunning natural beauty alongside persistent challenges. Situated on the western third of Hispaniola Island, it shares the island with the Dominican Republic. Haiti’s history is marked by colonialism, revolution, and significant socio-economic struggles, yet it possesses a vibrant culture, resilient people, and a unique biodiversity.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Port-au-Prince",
+      "icon": "MapPin",
+      "description": "The bustling capital and largest city of Haiti.",
+      "detail": "Port-au-Prince is a major economic, political, and cultural center, though it faces significant infrastructure challenges."
+    },
+    {
+      "label": "Population",
+      "value": "11.5 million",
+      "icon": "Users",
+      "description": "Haiti's population is diverse, with a significant Creole-speaking majority.",
+      "detail": "The population density is high, particularly in urban areas."
+    },
+    {
+      "label": "Area",
+      "value": "27,750 sq miles (71,761 sq km)",
+      "icon": "Globe",
+      "description": "Haiti is a relatively small country with varied topography.",
+      "detail": "It’s characterized by mountainous terrain, coastal plains, and a central plateau."
+    },
+    {
+      "label": "Official Language",
+      "value": "French and Haitian Creole",
+      "icon": "ArrowRight",
+      "description": "French is used in government and education, while Haitian Creole is the most widely spoken language.",
+      "detail": "Creole is a blend of French, African languages, and indigenous influences."
+    },
+    {
+      "label": "Currency",
+      "value": "Gourde (HTG)",
+      "icon": "Coffee",
+      "description": "The Haitian Gourde is pegged to the US Dollar.",
+      "detail": "Inflation has been a persistent issue in Haiti's economic history."
+    },
+    {
+      "label": "GDP",
+      "value": "$2,300 (USD) per capita (2023 est.)",
+      "icon": "Zap",
+      "description": "Haiti has one of the lowest GDPs in the Western Hemisphere.",
+      "detail": "The economy is heavily reliant on agriculture and remittances."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Haiti experiences a tropical climate with distinct wet and dry seasons. The mountainous terrain contributes to significant rainfall variations across the country.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December - April",
+        "description": "The dry season is generally sunny and relatively cool, particularly in the mountains.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Clear skies",
+          "Cooler temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Exploring waterfalls"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May - November",
+        "description": "The wet season brings heavy rainfall, flooding, and landslides, especially in the lowlands.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent rainfall",
+          "Cloudy skies"
+        ],
+        "activities": [
+          "River rafting (during manageable flows)",
+          "Visiting coastal areas"
+        ]
+      },
+      {
+        "name": "Hurricane Season",
+        "period": "June 1st - November 30th",
+        "description": "Haiti is vulnerable to hurricanes and tropical storms during this period.",
+        "keyFeatures": [
+          "Strong winds",
+          "Heavy rainfall",
+          "Storm surges"
+        ],
+        "activities": [
+          "Limited outdoor activities during storm threats"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Citadelle Laferrière",
+      "category": "Historical Landmark",
+      "description": "A UNESCO World Heritage site, the Citadelle is a massive mountaintop fortress built in the early 19th century. It stands as a symbol of Haitian independence and resilience.",
+      "detailedDescription": "The Citadelle is an impressive feat of engineering, constructed without mortar using locally sourced stone. Its strategic location and imposing presence made it a formidable defense against foreign invaders.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "North-Central Haiti"
+      ],
+      "viewingTips": [
+        "Hire a local guide for historical context",
+        "Wear sturdy shoes for the steep climb"
+      ],
+      "scientificData": {
+        "Height": "117m",
+        "Area": "18,000 sq m",
+        "ConstructionTime": "12 years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Cascades de Bassalette (Saline Waterfalls)",
+      "category": "Waterfall",
+      "description": "A series of stunning waterfalls cascading down a cliff face into a natural pool, surrounded by lush vegetation. It's a popular swimming spot and a beautiful natural spectacle.",
+      "detailedDescription": "The Cascades de Bassalette are located in the northern mountains of Haiti. The water is exceptionally pure and salty, giving it a unique taste.",
+      "bestTime": "December - May",
+      "bestLocations": [
+        "Northern Haiti"
+      ],
+      "viewingTips": [
+        "Bring swimwear and a towel",
+        "Wear appropriate footwear for the slippery rocks"
+      ],
+      "scientificData": {
+        "Height": "80m",
+        "WaterFlowRate": "20 m³/s",
+        "WaterTemperature": "24°C"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Pic Macaya",
+      "category": "Mountain",
+      "description": "The highest peak in Haiti, offering breathtaking panoramic views of the island.",
+      "detailedDescription": "Reaching Pic Macaya is a challenging but rewarding hike. The summit provides a stunning vista of the surrounding mountains and valleys.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Southern Haiti"
+      ],
+      "viewingTips": [
+        "Start early in the morning",
+        "Bring plenty of water and snacks",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Height": "2,637m",
+        "ElevationGain": "1,300m",
+        "VegetationZone": "Cloud Forest"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Haitian Ecosystems",
+    "overview": "Haiti’s ecosystems are remarkably diverse, ranging from coastal mangroves to cloud forests and mountainous highlands. However, they are increasingly threatened by deforestation, unsustainable agriculture, and climate change.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Tropical Rainforest",
+        "icon": "Trees",
+        "description": "Dominates the mountainous regions, harboring a vast array of plant and animal species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 1,000",
+            "details": "Many endemic species"
+          },
+          {
+            "category": "Biodiversity Index",
+            "count": "High",
+            "details": "One of the most biodiverse regions in the Caribbean"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Haitian Parrot",
+            "status": "Endangered",
+            "significance": "A unique parrot species found only in Haiti"
+          },
+          {
+            "name": "Haitian Solitaire",
+            "status": "Vulnerable",
+            "significance": "A rare species of lizard"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Protected area establishment",
+          "Community-based conservation programs"
+        ]
+      },
+      {
+        "name": "Mangrove Forests",
+        "icon": "Leaf",
+        "description": "Coastal wetlands providing crucial habitat for marine life and protecting shorelines from erosion.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 100 sq km",
+            "details": "Significant areas degraded"
+          },
+          {
+            "category": "Species Diversity",
+            "count": "High",
+            "details": "Supports numerous fish and invertebrate species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Red Snapper",
+            "status": "Near Threatened",
+            "significance": "A commercially important fish species"
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration projects",
+          "Sustainable coastal management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Haiti",
+    "description": "Haiti offers a range of outdoor activities, from hiking and birdwatching to water sports and cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Haiti’s mountainous terrain and discover stunning landscapes.",
+        "activities": [
+          {
+            "name": "Citadelle Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-4 hours",
+            "description": "A challenging hike to the iconic Citadelle Laferrière.",
+            "bestLocations": [
+              "North-Central Haiti"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of altitude sickness"
+            ]
+          },
+          {
+            "name": "Pic Macaya Ascent",
+            "difficulty": "Hard",
+            "season": "December - April",
+            "duration": "6-8 hours",
+            "description": "A strenuous climb to the highest peak in Haiti.",
+            "bestLocations": [
+              "Southern Haiti"
+            ],
+            "requirements": "Hiking poles, appropriate clothing, plenty of water",
+            "safety": [
+              "Check weather conditions",
+              "Hire a local guide"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Caribbean Sea with various water sports activities.",
+        "activities": [
+          {
+            "name": "Coastal Swimming",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Relax and swim in the warm waters of the Caribbean Sea.",
+            "bestLocations": [
+              "Coastal areas"
+            ],
+            "requirements": "Swimsuit, sunscreen",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat",
+        "winter": "Layers of clothing, jacket, sweater",
+        "yearRound": "Rain gear, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Travel insurance",
+        "Learn basic Creole phrases",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

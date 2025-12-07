@@ -1,0 +1,317 @@
+{
+  "name": "Eritrea",
+  "region": "Africa",
+  "description": "Eritrea, officially the State of Eritrea, is a country in the Horn of Africa. It's characterized by its rugged terrain, including the Danakil Depression, one of the hottest places on Earth, and the highlands of Taguelah.  The country has a long and complex history, marked by periods of independence and colonial rule.  Eritrea is a landlocked nation with a predominantly arid climate, though the coastal areas experience more rainfall.  It faces significant developmental challenges, including limited infrastructure and a challenging humanitarian situation.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Asmara",
+      "icon": "MapPin",
+      "description": "Asmara is a UNESCO World Heritage Site renowned for its modernist architecture, a legacy of its Italian colonial past.",
+      "detail": "The city boasts a unique blend of Italian and Eritrean styles, offering a fascinating glimpse into the country's history."
+    },
+    {
+      "label": "Population",
+      "value": "1.2 Million",
+      "icon": "Users",
+      "description": "Eritrea has a relatively small population, largely concentrated in the highlands.",
+      "detail": "The population is diverse, with various ethnic groups contributing to the country's cultural richness."
+    },
+    {
+      "label": "Area",
+      "value": "117,600 sq km",
+      "icon": "Globe",
+      "description": "Eritrea is a relatively small country, making exploration a rewarding experience.",
+      "detail": "Its landlocked status presents logistical challenges for transportation and trade."
+    },
+    {
+      "label": "Official Language",
+      "value": "Tigrinya",
+      "icon": "ArrowRight",
+      "description": "Tigrinya is the most widely spoken language, but Arabic and English are also used.",
+      "detail": "The country recognizes three official languages reflecting its diverse linguistic heritage."
+    },
+    {
+      "label": "Currency",
+      "value": "Nakfa (ERN)",
+      "icon": "Coffee",
+      "description": "The Eritrean Nakfa is the official currency.",
+      "detail": "The economy is largely based on agriculture and natural resources."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Eritrea",
+    "description": "Eritrea experiences a hot and arid climate, with significant variations depending on altitude and location. The coastal areas receive more rainfall than the interior highlands.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "Summer is characterized by scorching temperatures, particularly in the Danakil Depression and the lowlands. Rainfall is minimal.",
+        "keyFeatures": [
+          "High Temperatures",
+          "Low Rainfall",
+          "Desert Conditions"
+        ],
+        "activities": [
+          "Wildlife Viewing (Danakil)",
+          "Exploring Coastal Areas"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September to November",
+        "description": "Autumn brings a slight decrease in temperatures and increased humidity. Rainfall begins to pick up in the western regions.",
+        "keyFeatures": [
+          "Moderate Temperatures",
+          "Increasing Rainfall",
+          "Transition Season"
+        ],
+        "activities": [
+          "Hiking in the Highlands",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "Winter is the coolest and wettest season, with temperatures dropping significantly in the highlands. The northern coastal areas receive the most rainfall.",
+        "keyFeatures": [
+          "Cool Temperatures",
+          "High Rainfall",
+          "Cloudy Skies"
+        ],
+        "activities": [
+          "Exploring Ancient Sites",
+          "Visiting Waterfalls"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March to May",
+        "description": "Spring brings a gradual warming trend and blooming landscapes. Rainfall continues in the western regions.",
+        "keyFeatures": [
+          "Warm Temperatures",
+          "Blooming Vegetation",
+          "Increased Humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Exploring National Parks"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Danakil Depression",
+      "category": "Geological",
+      "description": "The Danakil Depression is one of the hottest and lowest places on Earth, a surreal landscape of volcanic activity, salt flats, and hydrothermal areas. It's a truly unique and otherworldly environment.",
+      "detailedDescription": "This UNESCO World Heritage site features bubbling lava lakes, colorful salt formations, and active volcanoes. The extreme heat and harsh conditions make it a challenging but rewarding destination for experienced travelers.",
+      "bestTime": "November to March",
+      "bestLocations": [
+        "Erta Ale Volcano",
+        "Assab Salt Flats"
+      ],
+      "viewingTips": [
+        "Bring extreme heat protection",
+        "Hire a local guide",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Temperature": "Up to 50°C (122°F)",
+        "Elevation": "Around 120m (400 ft)",
+        "GeologicalAge": "Approximately 80 million years old"
+      },
+      "icon": "Thermometer"
+    },
+    {
+      "id": 2,
+      "name": "Rabawa Massif",
+      "category": "Mountain",
+      "description": "The Rabawa Massif is a dramatic mountain range in northern Eritrea, known for its towering peaks and stunning views.",
+      "detailedDescription": "This rugged mountain range offers challenging hiking trails and breathtaking vistas. The massif is home to diverse flora and fauna, including endemic species.",
+      "bestTime": "October to May",
+      "bestLocations": [
+        "Mount Rabawa Summit"
+      ],
+      "viewingTips": [
+        "Acclimatize to the altitude",
+        "Check weather conditions",
+        "Pack appropriate gear"
+      ],
+      "scientificData": {
+        "Height": "2916m (9570 ft)",
+        "GeologicalFormation": "Volcanic",
+        "VegetationZones": "Alpine, Subalpine"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Eritrean Ecosystems",
+    "overview": "Eritrea's ecosystems are diverse, ranging from arid deserts to humid highlands and coastal areas. The country is home to a variety of habitats, supporting a rich biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Desert Ecosystems",
+        "icon": "Sun",
+        "description": "These ecosystems are characterized by sparse vegetation, extreme temperatures, and limited water resources.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "Approximately 300",
+            "details": "Many species are adapted to arid conditions."
+          },
+          {
+            "category": "Animal Species",
+            "count": "Around 50",
+            "details": "Includes reptiles, insects, and small mammals."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Dorcas Gazelle",
+            "status": "Vulnerable",
+            "significance": "A key prey species in the desert ecosystem."
+          },
+          {
+            "name": "Addax",
+            "status": "Critically Endangered",
+            "significance": "An iconic desert antelope."
+          }
+        ],
+        "threats": [
+          "Desertification",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Rangeland Management",
+          "Water Conservation"
+        ]
+      },
+      {
+        "name": "Highland Ecosystems",
+        "icon": "Leaf",
+        "description": "The highlands of Eritrea are characterized by fertile soils, abundant rainfall, and diverse vegetation.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 200",
+            "details": "Includes endemic tree species."
+          },
+          {
+            "category": "Bird Species",
+            "count": "Approximately 100",
+            "details": "A haven for birdwatchers."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Eritrean Horned Hornbill",
+            "status": "Endangered",
+            "significance": "A unique and threatened bird species."
+          },
+          {
+            "name": "Gelada",
+            "status": "Least Concern",
+            "significance": "A social primate found in the highlands."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Overgrazing"
+        ],
+        "conservationEfforts": [
+          "Sustainable Forestry",
+          "Community-Based Conservation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Eritrea",
+    "description": "Eritrea offers a range of activities for adventurous travelers, from exploring ancient ruins to hiking in the highlands.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Eritrea's rugged terrain provides excellent hiking opportunities for all levels.",
+        "activities": [
+          {
+            "name": "Rabawa Massif Hike",
+            "difficulty": "Hard",
+            "season": "October - May",
+            "duration": "3-5 days",
+            "description": "A challenging trek to the summit of Mount Rabawa, offering stunning views.",
+            "bestLocations": [
+              "Mount Rabawa Base Camp"
+            ],
+            "requirements": "Good physical fitness, hiking boots, warm clothing",
+            "safety": [
+              "Altitude sickness",
+              "Weather changes"
+            ]
+          },
+          {
+            "name": "Taguelah Highlands Hike",
+            "difficulty": "Moderate",
+            "season": "March - November",
+            "duration": "2-4 days",
+            "description": "Explore the diverse landscapes of the Taguelah Highlands.",
+            "bestLocations": [
+              "Taguelah Plateau"
+            ],
+            "requirements": "Hiking boots, water bottle",
+            "safety": [
+              "Heat exhaustion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cultural Tourism",
+        "icon": "Clock",
+        "description": "Discover Eritrea's rich cultural heritage through visits to ancient ruins and traditional villages.",
+        "activities": [
+          {
+            "name": "Asmara Exploration",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-2 days",
+            "description": "Explore the modernist architecture and historical sites of Asmara.",
+            "bestLocations": [
+              "Asmara Museum",
+              "Haile Selassie Palace"
+            ],
+            "requirements": "Comfortable shoes",
+            "safety": [
+              "General safety precautions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, hat, sunglasses",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, sunscreen"
+      },
+      "equipment": {
+        "basic": "Water bottle, sunscreen, insect repellent",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Travel insurance",
+        "Respect local customs",
+        "Stay hydrated"
+      ]
+    }
+  }
+}

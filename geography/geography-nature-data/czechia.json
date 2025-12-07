@@ -1,0 +1,348 @@
+{
+  "name": "Czechia",
+  "region": "Europe",
+  "description": "Czechia, also known as the Czech Republic, is a landlocked country in Central Europe, renowned for its rich history, stunning natural landscapes, and vibrant cultural heritage. From the majestic Bohemian Switzerland National Park to the rolling hills of Moravia, Czechia offers a diverse range of experiences for travelers and nature enthusiasts alike. Its capital, Prague, is a UNESCO World Heritage site, famed for its medieval architecture, charming streets, and lively atmosphere.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "78,866 sq km (30,450 sq mi)",
+      "icon": "MapPin",
+      "description": "Czechia is a relatively small country, making it easy to explore its diverse regions.",
+      "detail": "The country's area is primarily comprised of fertile plains and hilly regions, with the Bohemian Forest forming a significant natural boundary."
+    },
+    {
+      "label": "Population",
+      "value": "10.7 million",
+      "icon": "Users",
+      "description": "Czechia boasts a population of over 10 million people, creating a dynamic and culturally rich society.",
+      "detail": "The population density is approximately 136 people per sq km."
+    },
+    {
+      "label": "Capital",
+      "value": "Prague",
+      "icon": "Globe",
+      "description": "Prague, the capital, is a historic city with a thriving arts and culture scene.",
+      "detail": "Prague is one of the most visited cities in Europe, attracting millions of tourists annually."
+    },
+    {
+      "label": "Currency",
+      "value": "Czech Koruna (CZK)",
+      "icon": "Coffee",
+      "description": "The official currency of Czechia is the Czech Koruna.",
+      "detail": "The exchange rate fluctuates, but generally, 1 EUR is approximately 22 CZK."
+    },
+    {
+      "label": "Languages",
+      "value": "Czech",
+      "icon": "Eye",
+      "description": "The official language is Czech.",
+      "detail": "German and Slovak are also spoken in certain regions."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Czechia",
+    "description": "Czechia experiences a temperate continental climate, characterized by warm summers and cold winters. Rainfall is relatively evenly distributed throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with blossoming trees and wildflowers transforming the landscape.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is the warmest season, with long sunny days and pleasant temperatures, ideal for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Sunny days",
+          "Festivals"
+        ],
+        "activities": [
+          "Swimming",
+          "Boating",
+          "Picnics"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and stunning foliage, creating picturesque landscapes.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Cool temperatures",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is cold and snowy, with occasional freezing temperatures. It's a time for cozying up indoors and enjoying winter sports.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Christmas markets"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Bohemian Switzerland National Park",
+      "category": "National Park",
+      "description": "Bohemian Switzerland National Park is a stunning landscape of sandstone formations, deep gorges, and pristine forests, offering breathtaking views and unique hiking trails. It's a haven for wildlife and a testament to the power of nature.",
+      "detailedDescription": "The park is characterized by the Pravčická brána, the largest natural sandstone arch in Europe. The Elbe River carves through the sandstone, creating dramatic cliffs and valleys.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Pravčická brána",
+        "Hrubá Skála",
+        "Kamenný Údol"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring waterproof clothing",
+        "Allow ample time for exploration"
+      ],
+      "scientificData": {
+        "Height": "637m",
+        "Area": "10,528 ha",
+        "ElevationRange": "200-637m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Moravian Karst",
+      "category": "Cave System",
+      "description": "The Moravian Karst is a vast cave system, one of the largest in Europe, featuring impressive stalactites, stalagmites, and underground rivers. It's a geological wonder and a fascinating destination for exploration.",
+      "detailedDescription": "The caves are formed by the dissolution of limestone rock over millions of years. The Punkva Caves are particularly famous for their underground river.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "Punkva Caves",
+        "Macocha Gorge",
+        "Dobšín"
+      ],
+      "viewingTips": [
+        "Book tours in advance",
+        "Wear comfortable shoes",
+        "Bring a flashlight"
+      ],
+      "scientificData": {
+        "Length": "230 km",
+        "Depth": "130m",
+        "FormationAge": "Millions of years"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Šumava National Park",
+      "category": "National Park",
+      "description": "Šumava National Park is a vast, unspoiled wilderness in southern Bohemia and Moravia, characterized by dense forests, peat bogs, and glacial lakes. It's a paradise for hikers, nature lovers, and those seeking tranquility.",
+      "detailedDescription": "The park is home to a diverse range of flora and fauna, including lynx, wolves, and brown bears. The Černé jezero (Black Lake) and Čertovo jezero (Devil's Lake) are two of the park's most iconic features.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Černé jezero",
+        "Čertovo jezero",
+        "Křivokladsko"
+      ],
+      "viewingTips": [
+        "Bring insect repellent",
+        "Wear waterproof clothing",
+        "Respect wildlife"
+      ],
+      "scientificData": {
+        "Area": "46,062 ha",
+        "ElevationRange": "460-1252m",
+        "ForestCover": "70%"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Forest Ecosystems",
+    "icon": "Trees",
+    "description": "Czechia boasts extensive forests, covering approximately 33% of the country's land area. These forests are home to a rich diversity of plant and animal life, playing a crucial role in the country's biodiversity.",
+    "statistics": [
+      {
+        "category": "Tree Species",
+        "count": "Over 100",
+        "details": "Common species include beech, oak, spruce, and fir."
+      },
+      {
+        "category": "Bird Species",
+        "count": "200+",
+        "details": "Forests support a wide variety of bird species, including woodpeckers, owls, and songbirds."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "European Lynx",
+        "status": "Near Threatened",
+        "significance": "A top predator in the forest ecosystem, playing a vital role in maintaining balance."
+      },
+      {
+        "name": "Great Spotted Woodpecker",
+        "status": "Least Concern",
+        "significance": "An important insectivore, contributing to forest health."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Habitat fragmentation",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Forest management plans",
+      "Protected areas",
+      "Reforestation projects"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Forest Ecosystems of Czechia",
+    "overview": "Czechia's forests are a vital component of the country's natural heritage, providing numerous ecological and economic benefits. They contribute to carbon sequestration, water regulation, and biodiversity conservation.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forest Ecosystems",
+        "icon": "Trees",
+        "description": "The dominant ecosystem in Czechia, characterized by diverse tree species and a rich array of associated flora and fauna.",
+        "statistics": [
+          {
+            "category": "Forest Area",
+            "count": "33%",
+            "details": "Approximately 33% of Czechia's land area is covered by forests."
+          },
+          {
+            "category": "Timber Production",
+            "count": "10 million m3",
+            "details": "Czechia is a significant producer of timber."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Roe Deer",
+            "status": "Least Concern",
+            "significance": "A common herbivore in the forest ecosystem."
+          }
+        ],
+        "threats": [
+          "Illegal logging",
+          "Forest fires",
+          "Pest outbreaks"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Forest fire prevention",
+          "Pest control"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Czechia",
+    "description": "Czechia offers a wide range of outdoor activities for all skill levels, from leisurely hikes to challenging climbs and water sports.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the stunning landscapes of Czechia on foot, discovering hidden trails and breathtaking views.",
+        "activities": [
+          {
+            "name": "Bohemian Switzerland Trail",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "1-3 days",
+            "description": "A challenging multi-day hike through Bohemian Switzerland National Park.",
+            "bestLocations": [
+              "Pravčická brána",
+              "Hrubá Skála"
+            ],
+            "requirements": "Sturdy hiking boots, waterproof clothing, map, compass",
+            "safety": [
+              "Inform someone of your route",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Moravian Karst Loop Trail",
+            "difficulty": "Easy",
+            "season": "April - October",
+            "duration": "2-4 hours",
+            "description": "A scenic loop trail around the Moravian Karst caves.",
+            "bestLocations": [
+              "Macocha Gorge"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the numerous rivers and lakes of Czechia with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Kayaking on the Vltava River",
+            "difficulty": "Moderate",
+            "season": "June - August",
+            "duration": "2-4 hours",
+            "description": "Paddle down the scenic Vltava River, passing through picturesque towns and villages.",
+            "bestLocations": [
+              "Prague",
+              "Český Krumlov"
+            ],
+            "requirements": "Kayak, paddle, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Check water conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, sunscreen, hat",
+        "winter": "Warm coat, hat, gloves, scarf",
+        "yearRound": "Layers of clothing"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, snacks",
+        "hiking": "Hiking boots, map, compass, first-aid kit",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Check weather conditions",
+        "Carry a first-aid kit"
+      ]
+    }
+  }
+}

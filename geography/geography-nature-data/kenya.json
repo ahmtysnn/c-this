@@ -1,0 +1,353 @@
+{
+  "name": "Kenya",
+  "region": "Eastern Africa",
+  "description": "Kenya, a land of dramatic landscapes and vibrant cultures, is located in East Africa. Known as the ‘Safari Capital of the World’, it boasts incredible wildlife, from the iconic Masai Mara to the Amboseli National Park.  Kenya’s diverse geography ranges from the snow-capped Mount Kenya to the arid deserts of the north and the lush highlands. It’s a country of immense beauty, rich history, and a burgeoning tourism industry.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "55.8 million (2023)",
+      "icon": "Users",
+      "description": "Kenya has a rapidly growing population, contributing to its dynamic social and economic landscape.",
+      "detail": "The majority of the population resides in urban areas, particularly Nairobi and Mombasa."
+    },
+    {
+      "label": "Area",
+      "value": "580,367 sq km (224,088 sq mi)",
+      "icon": "MapPin",
+      "description": "Kenya’s vast territory encompasses diverse ecosystems and climates.",
+      "detail": "It borders Tanzania, Uganda, South Sudan, Ethiopia, and Somalia."
+    },
+    {
+      "label": "Capital",
+      "value": "Nairobi",
+      "icon": "MapPin",
+      "description": "Nairobi is a bustling metropolis and the economic hub of East Africa.",
+      "detail": "It’s known for its vibrant arts scene, innovative startups, and wildlife tourism."
+    },
+    {
+      "label": "Official Language",
+      "value": "Swahili & English",
+      "icon": "Globe",
+      "description": "Swahili is the lingua franca, while English is used in government, education, and business.",
+      "detail": "Kenya’s linguistic diversity reflects its rich history and cultural influences."
+    },
+    {
+      "label": "Currency",
+      "value": "Kenyan Shilling (KES)",
+      "icon": "Coffee",
+      "description": "The Kenyan Shilling is the official currency.",
+      "detail": "Exchange rates fluctuate, and it's advisable to check current rates before traveling."
+    }
+  ],
+  "climateData": {
+    "title": "Kenya’s Climate",
+    "description": "Kenya experiences a wide range of climates due to its varied topography. The coastal areas are tropical, while the highlands are temperate. The north is arid and semi-arid, and the central highlands have a distinct wet and dry season.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Long Rains",
+        "period": "March - May",
+        "description": "Characterized by heavy rainfall, particularly in the coastal areas and highlands.  It’s a period of lush vegetation and abundant wildlife.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Green landscapes",
+          "Increased wildlife activity"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Waterfall exploration"
+        ]
+      },
+      {
+        "name": "Short Rains",
+        "period": "October - December",
+        "description": "A shorter, less intense rainy season, bringing relief after the dry season.  The landscape transforms with vibrant colors.",
+        "keyFeatures": [
+          "Moderate rainfall",
+          "Blooming flowers",
+          "Improved wildlife viewing"
+        ],
+        "activities": [
+          "Safari viewing",
+          "Photography",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "June - August & January - February",
+        "description": "The coolest and driest period, offering the best conditions for wildlife viewing. Temperatures are pleasant, and the skies are clear.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Clear skies",
+          "Excellent wildlife viewing"
+        ],
+        "activities": [
+          "Safari",
+          "Hiking",
+          "Camping"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Kenya",
+      "category": "Mountain",
+      "description": "Mount Kenya is an extinct shield volcano and the second-highest mountain in Africa. Its snow-capped peaks and diverse ecosystems make it a stunning and challenging destination.",
+      "detailedDescription": "The mountain is home to numerous endemic plant and animal species, including the endangered mountain bongo antelope. Climbing Mount Kenya requires significant preparation and experience.",
+      "bestTime": "June - October & December - February",
+      "bestLocations": [
+        "Sirimon Route",
+        "Talavela Route",
+        "Oldoinyo Lengai Route"
+      ],
+      "viewingTips": [
+        "Acclimatize gradually",
+        "Hire a qualified guide",
+        "Pack warm clothing"
+      ],
+      "scientificData": {
+        "Height": "5,199 m (17,057 ft)",
+        "Age": "3.7 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Masai Mara National Reserve",
+      "category": "Wildlife Reserve",
+      "description": "The Masai Mara is renowned for its spectacular annual wildebeest migration, one of the greatest wildlife spectacles on Earth. It’s a haven for predators and a diverse range of herbivores.",
+      "detailedDescription": "The reserve is located in southwestern Kenya and borders the Serengeti National Park in Tanzania. Witnessing the river crossings is a truly unforgettable experience.",
+      "bestTime": "July - October (Migration)",
+      "bestLocations": [
+        "Mara River",
+        "Kogatende",
+        "Musiara"
+      ],
+      "viewingTips": [
+        "Book a safari in advance",
+        "Use a 4x4 vehicle",
+        "Bring binoculars"
+      ],
+      "scientificData": {
+        "Area": "1,510 sq km (583 sq mi)",
+        "Biodiversity": "Over 450 bird species"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 3,
+      "name": "Lake Nakuru National Park",
+      "category": "Lake & Wildlife Park",
+      "description": "Lake Nakuru is famous for its large flocks of flamingos, which gather on the alkaline waters. It’s also home to rhinos, lions, and other wildlife.",
+      "detailedDescription": "The lake’s water levels fluctuate, impacting the flamingo population. The park is a crucial habitat for endangered black rhinos.",
+      "bestTime": "June - October & January - February",
+      "bestLocations": [
+        "Lake Nakuru shoreline",
+        "Hyena Cliffs"
+      ],
+      "viewingTips": [
+        "Bring a zoom lens",
+        "Respect the wildlife",
+        "Stay on designated trails"
+      ],
+      "scientificData": {
+        "Area": "200 sq km (77 sq mi)",
+        "WaterType": "Alkaline lake"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Kenya's Ecosystems",
+    "overview": "Kenya’s ecosystems are incredibly diverse, ranging from savannas and grasslands to forests, wetlands, and coral reefs. These ecosystems support a vast array of plant and animal life, contributing significantly to the country’s biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "25%",
+      "nationalParks": 58
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Savanna Ecosystem",
+        "icon": "Trees",
+        "description": "The iconic savanna is characterized by grasslands and scattered trees, supporting large herds of herbivores and their predators.",
+        "statistics": [
+          {
+            "category": "Herbivore Species",
+            "count": "48",
+            "details": "Includes wildebeest, zebras, giraffes, and gazelles"
+          },
+          {
+            "category": "Predator Species",
+            "count": "30",
+            "details": "Includes lions, cheetahs, leopards, and hyenas"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "Keystone species, crucial for ecosystem health"
+          },
+          {
+            "name": "Black Rhinoceros",
+            "status": "Critically Endangered",
+            "significance": "Important for maintaining biodiversity"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community-based conservation",
+          "Habitat restoration"
+        ]
+      },
+      {
+        "name": "Coastal Ecosystem",
+        "icon": "Waves",
+        "description": "Kenya’s coastline boasts diverse ecosystems, including coral reefs, mangrove forests, and sandy beaches.",
+        "statistics": [
+          {
+            "category": "Coral Reef Area",
+            "count": "200,000 sq km",
+            "details": "Supports a rich marine biodiversity"
+          },
+          {
+            "category": "Mangrove Area",
+            "count": "1,200 sq km",
+            "details": "Provides vital coastal protection and habitat"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Dugong",
+            "status": "Vulnerable",
+            "significance": "Marine mammal, important for coastal ecosystems"
+          },
+          {
+            "name": "Green Turtle",
+            "status": "Endangered",
+            "significance": "Key component of coral reef ecosystems"
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices",
+          "Coral reef restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Kenya's Activities",
+    "description": "Kenya offers a wide range of activities for travelers of all interests and abilities, from wildlife safaris to cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Kenya’s stunning landscapes on foot, from mountain trails to forest paths.",
+        "activities": [
+          {
+            "name": "Mount Kenya Hiking",
+            "difficulty": "Hard",
+            "season": "June - October & December - February",
+            "duration": "7-14 days",
+            "description": "Challenge yourself with a trek to the summit of Mount Kenya.",
+            "bestLocations": [
+              "Sirimon Route",
+              "Talavela Route"
+            ],
+            "requirements": "Good physical fitness, mountaineering experience, appropriate gear",
+            "safety": [
+              "Altitude sickness",
+              "Weather conditions"
+            ]
+          },
+          {
+            "name": "Hell's Gate National Park Hiking",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "Half-day to Full-day",
+            "description": "Hike through dramatic gorges and volcanic landscapes.",
+            "bestLocations": [
+              "Hell's Gate Gorge"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Wildlife encounters",
+              "Uneven terrain"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities along Kenya’s coastline and lakes.",
+        "activities": [
+          {
+            "name": "Diving & Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half-day to Full-day",
+            "description": "Explore the vibrant coral reefs and marine life of the Kenyan coast.",
+            "bestLocations": [
+              "Watamu",
+              "Malindi",
+              "Diani Beach"
+            ],
+            "requirements": "Snorkeling gear or diving certification",
+            "safety": [
+              "Marine life encounters",
+              "Sunburn"
+            ]
+          },
+          {
+            "name": "Sailing & Windsurfing",
+            "difficulty": "Moderate",
+            "season": "June - October & January - February",
+            "duration": "Half-day to Full-day",
+            "description": "Catch the wind and sail along the Kenyan coast.",
+            "bestLocations": [
+              "Lamu Island",
+              "Watamu"
+            ],
+            "requirements": "Sailing experience or lessons",
+            "safety": [
+              "Weather conditions",
+              "Boat safety"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, insect repellent"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, adapter",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Consult a doctor before traveling",
+        "Drink bottled water",
+        "Be aware of your surroundings",
+        "Respect local customs"
+      ]
+    }
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "name": "Palau",
+  "region": "Oceania",
+  "description": "Palau, known as the ‘Lost Paradise,’ is a small island nation in the western Pacific Ocean, comprised of over 300 islands, of which only about 240 are inhabited.  It’s renowned for its stunning coral reefs, diverse marine life, and rich cultural heritage. Palau boasts a unique blend of pristine natural beauty and a commitment to conservation, making it a globally significant destination for ecotourism and scientific research.",
+  "quickFacts": [
+    {
+      "label": "Official Name",
+      "value": "Republic of Palau",
+      "icon": "Globe",
+      "description": "The official name of the nation.",
+      "detail": "Formally recognized in 1994, Palau gained independence from the United States."
+    },
+    {
+      "label": "Population",
+      "value": "18,000",
+      "icon": "Users",
+      "description": "The total population of Palau.",
+      "detail": "The population is concentrated on the rocky islands and the main island of Babeldaob."
+    },
+    {
+      "label": "Capital",
+      "value": "Ngerulmud",
+      "icon": "MapPin",
+      "description": "The capital city of Palau.",
+      "detail": "Located on Babeldaob, the largest island."
+    },
+    {
+      "label": "Area",
+      "value": "459 km²",
+      "icon": "MapPin",
+      "description": "The total land area of Palau.",
+      "detail": "This small nation comprises over 300 islands."
+    },
+    {
+      "label": "Currency",
+      "value": "US Dollar (USD)",
+      "icon": "Coffee",
+      "description": "The currency used in Palau.",
+      "detail": "Palau adopted the US Dollar as its official currency in 1995."
+    },
+    {
+      "label": "Languages",
+      "value": "Palauan, English",
+      "icon": "Calendar",
+      "description": "The official languages of Palau.",
+      "detail": "Palauan is a Micronesian language, and English is widely spoken due to its role in tourism and education."
+    },
+    {
+      "label": "GDP",
+      "value": "$230 million (2022)",
+      "icon": "Thermometer",
+      "description": "The Gross Domestic Product of Palau.",
+      "detail": "Primarily driven by tourism and fisheries."
+    }
+  ],
+  "climateData": {
+    "title": "Palau Climate",
+    "description": "Palau experiences a tropical maritime climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, particularly during the wet season, and influences the lush vegetation and vibrant coral reefs.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December – April",
+        "description": "The dry season offers the best weather for diving and exploring the islands, with lower humidity and fewer rain showers.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Calm seas"
+        ],
+        "activities": [
+          "Diving",
+          "Snorkeling",
+          "Hiking",
+          "Island hopping"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May – November",
+        "description": "The wet season brings frequent rainfall, often in the form of short, intense showers. Despite the rain, the islands remain beautiful and the marine life is abundant.",
+        "keyFeatures": [
+          "High rainfall",
+          "Green landscapes",
+          "Increased marine life visibility"
+        ],
+        "activities": [
+          "Whale watching (July-October)",
+          "Kayaking",
+          "Exploring waterfalls"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Jellyfish Lake",
+      "category": "Marine",
+      "description": "Jellyfish Lake is a unique marine lake teeming with millions of non-stinging jellyfish. Visitors can swim amongst these gentle creatures in a surreal and unforgettable experience.",
+      "detailedDescription": "The lake is completely enclosed by a limestone ridge, preventing the jellyfish from escaping. The jellyfish have evolved to lose their stinging cells, creating a safe environment for swimming. The lake's color varies from turquoise to emerald green due to the algae that thrive in the water.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Jellyfish Lake"
+      ],
+      "viewingTips": [
+        "Wear a dark-colored swimsuit to avoid attracting attention from the jellyfish.",
+        "Do not touch the jellyfish.",
+        "Respect the delicate ecosystem."
+      ],
+      "scientificData": {
+        "Depth": "3m",
+        "Salinity": "Low",
+        "Temperature": "28-30°C"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 2,
+      "name": "Rock Islands Southern Lagoon",
+      "category": "Marine",
+      "description": "A UNESCO World Heritage Site, the Rock Islands Southern Lagoon is a stunning archipelago of limestone islands covered in lush vegetation and surrounded by vibrant coral reefs.",
+      "detailedDescription": "The islands are remnants of an ancient coral reef that has been slowly eroded by the sea over millions of years. They provide habitat for a diverse range of marine and terrestrial species, including endangered sea turtles and Palau's national bird, the flycatcher.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Rock Islands"
+      ],
+      "viewingTips": [
+        "Take a guided boat tour to explore the islands.",
+        "Snorkel or dive in the coral reefs.",
+        "Respect the fragile ecosystem."
+      ],
+      "scientificData": {
+        "Coral Coverage": "70%",
+        "Biodiversity": "High",
+        "Island Age": "Millions of years"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 3,
+      "name": "Babeldaob",
+      "category": "Island",
+      "description": "Babeldaob is the largest island in Palau, offering a diverse landscape of volcanic mountains, lush rainforests, and pristine beaches.",
+      "detailedDescription": "The island is home to the nation’s capital, Ngerulmud, and several traditional villages. It’s a great place to experience Palauan culture and explore the island’s natural beauty.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Ngerulmud",
+        "Ngardmau"
+      ],
+      "viewingTips": [
+        "Visit the traditional villages to learn about Palauan culture.",
+        "Hike to the summit of Ngardmau volcano.",
+        "Relax on the beaches."
+      ],
+      "scientificData": {
+        "Elevation": "900m",
+        "Area": "350 km²"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Palau Ecosystems",
+    "overview": "Palau’s ecosystems are remarkably diverse and fragile, shaped by its unique geological history and isolation. The nation’s commitment to conservation has resulted in significant protection of its natural resources.",
+    "conservationStatus": {
+      "protectedAreas": "80%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral Reefs",
+        "icon": "Waves",
+        "description": "Palau’s coral reefs are among the most diverse and pristine in the world, supporting a vast array of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "300+",
+            "details": "Over 300 species of coral have been identified."
+          },
+          {
+            "category": "Fish Species",
+            "count": "600+",
+            "details": "More than 600 species of fish inhabit the reefs."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Manta Ray",
+            "status": "Vulnerable",
+            "significance": "A keystone species in the reef ecosystem."
+          },
+          {
+            "name": "Green Sea Turtle",
+            "status": "Endangered",
+            "significance": "An important herbivore that helps maintain the health of the coral reefs."
+          }
+        ],
+        "threats": [
+          "Climate change",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices",
+          "Coral restoration projects"
+        ]
+      },
+      {
+        "name": "Rainforests",
+        "icon": "Leaf",
+        "description": "Palau’s rainforests are home to a wealth of endemic plant and animal species, many of which are found nowhere else on Earth.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "200+",
+            "details": "Over 200 species of trees thrive in the rainforests."
+          },
+          {
+            "category": "Bird Species",
+            "count": "40+",
+            "details": "More than 40 species of birds call the rainforests home."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Palauan Flycatcher",
+            "status": "Endangered",
+            "significance": "Palau’s national bird, endemic to the islands."
+          },
+          {
+            "name": "Palauan Gecko",
+            "status": "Vulnerable",
+            "significance": "A unique gecko species found only in Palau."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Habitat loss",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Reforestation programs",
+          "Community-based conservation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Palau Activities",
+    "description": "Palau offers a wide range of activities for visitors, from diving and snorkeling to hiking and cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Diving & Snorkeling",
+        "icon": "Waves",
+        "description": "Explore Palau’s world-renowned coral reefs and encounter diverse marine life.",
+        "activities": [
+          {
+            "name": "Reef Diving",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "3-5 hours",
+            "description": "Dive amongst vibrant coral reefs and encounter colorful fish, sharks, and rays.",
+            "bestLocations": [
+              "Rock Islands",
+              "German Channel"
+            ],
+            "requirements": "PADI certification (recommended)",
+            "safety": [
+              "Dive with a certified operator",
+              "Check equipment",
+              "Follow dive briefings"
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-4 hours",
+            "description": "Explore the shallow reefs and observe marine life without diving.",
+            "bestLocations": [
+              "Jellyfish Lake",
+              "German Channel"
+            ],
+            "requirements": "None",
+            "safety": [
+              "Wear sunscreen",
+              "Stay within designated areas"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hiking & Trekking",
+        "icon": "Mountain",
+        "description": "Discover Palau’s diverse landscapes, from volcanic mountains to lush rainforests.",
+        "activities": [
+          {
+            "name": "Ngardmau Volcano Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "4-6 hours",
+            "description": "Hike to the summit of Palau’s highest volcano.",
+            "bestLocations": [
+              "Babeldaob"
+            ],
+            "requirements": "Sturdy hiking shoes, water, sunscreen",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of weather conditions"
+            ]
+          },
+          {
+            "name": "Waterfall Trekking",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-3 hours",
+            "description": "Explore the island’s hidden waterfalls.",
+            "bestLocations": [
+              "Babeldaob"
+            ],
+            "requirements": "Water shoes, insect repellent",
+            "safety": [
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Long-sleeved shirts, light jacket, rain gear",
+        "yearRound": "Quick-drying clothing, comfortable shoes"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Sturdy hiking shoes, backpack, water bottle",
+        "photography": "Camera, waterproof case"
+      },
+      "safety": [
+        "Respect local customs",
+        "Drink bottled water",
+        "Be aware of marine life"
+      ]
+    }
+  }
+}

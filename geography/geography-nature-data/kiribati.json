@@ -1,0 +1,304 @@
+{
+  "CountryData": {
+    "name": "Kiribati",
+    "region": "Oceania",
+    "description": "Kiribati, known as the 'Line Islands,' is a remote island nation in the central Pacific Ocean. Comprising 33 coral atolls and islands, it’s the third-smallest island nation in the world and faces significant challenges from rising sea levels. Its unique culture, deeply rooted in traditional navigation and fishing, is intertwined with the rhythms of the ocean. The nation’s economy relies heavily on fishing and remittances, and it’s a member of the Pacific Community (SPC).",
+    "quickFacts": [
+      {
+        "label": "Area",
+        "value": "811 km²",
+        "icon": "MapPin",
+        "description": "Kiribati’s landmass is remarkably small, making it incredibly vulnerable to climate change.",
+        "detail": "The total land area encompasses only 811 square kilometers, consisting of 29 habitable islands and numerous uninhabited islets."
+      },
+      {
+        "label": "Population",
+        "value": "123,522 (2023)",
+        "icon": "Users",
+        "description": "Kiribati has a small and resilient population, largely reliant on the ocean for sustenance and livelihood.",
+        "detail": "The population is concentrated on Kiritimati, Banaba, and Abaiang, with the majority residing on the Gilbert Islands."
+      },
+      {
+        "label": "Capital",
+        "value": "Tarawa",
+        "icon": "MapPin",
+        "description": "Tarawa is the most populous island and the administrative center of Kiribati.",
+        "detail": "Tarawa is the heart of Kiribati's government and commerce, though it faces increasing pressure from rising sea levels."
+      },
+      {
+        "label": "Official Language",
+        "value": "Gilbertese",
+        "icon": "Globe",
+        "description": "Gilbertese is the primary language spoken throughout Kiribati, reflecting the nation’s unique cultural heritage.",
+        "detail": "English is also widely spoken, particularly in government and education."
+      },
+      {
+        "label": "Currency",
+        "value": "Ikirati (KIO)",
+        "icon": "Coffee",
+        "description": "The Kiribati dollar is pegged to the New Zealand dollar.",
+        "detail": "Most international transactions are conducted in New Zealand dollars."
+      },
+      {
+        "label": "Time Zone",
+        "value": "UTC+12",
+        "icon": "Clock",
+        "description": "Kiribati operates on a unique time zone, offering a distinct advantage for satellite communications.",
+        "detail": "This time zone allows for round-the-clock communication with North America and Asia."
+      }
+    ],
+    "climateData": {
+      "title": "Tropical Climate",
+      "description": "Kiribati experiences a tropical maritime climate characterized by consistently high temperatures and humidity throughout the year. Rainfall is abundant, particularly during the wet season, and the islands are prone to cyclones.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Wet Season",
+          "period": "November – April",
+          "description": "The wet season brings frequent heavy rainfall, strong winds, and a higher risk of cyclones. Sea levels are also typically higher.",
+          "keyFeatures": [
+            "High rainfall",
+            "Strong winds",
+            "Cyclones",
+            "High humidity"
+          ],
+          "activities": [
+            "Fishing",
+            "Relaxation (during calmer periods)"
+          ]
+        },
+        {
+          "name": "Dry Season",
+          "period": "May – October",
+          "description": "The dry season offers calmer seas and lower humidity, making it a more pleasant time for outdoor activities. However, the sun is intense.",
+          "keyFeatures": [
+            "Lower rainfall",
+            "Calmer seas",
+            "Intense sunshine",
+            "Lower humidity"
+          ],
+          "activities": [
+            "Diving",
+            "Snorkeling",
+            "Island hopping"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Banaba (Ghost Island)",
+        "category": "Volcanic Island",
+        "description": "Banaba, also known as Ghost Island, is a volcanic atoll renowned for its rich vanilla bean deposits and its haunting, desolate landscape. Its unique geological history and traditional significance make it a compelling destination.",
+        "detailedDescription": "Banaba’s volcanic origins are evident in its dramatic cliffs and fertile interior. The island’s isolation and challenging terrain have contributed to its nickname, ‘Ghost Island.’ Historically, it was a vital source of vanilla for the Pacific trade.",
+        "bestTime": "May – October",
+        "bestLocations": [
+          "North Lagoon",
+          "South Lagoon",
+          "Vanilla Plantation"
+        ],
+        "viewingTips": [
+          "Bring sturdy footwear",
+          "Respect local customs",
+          "Be prepared for limited facilities"
+        ],
+        "scientificData": {
+          "Height": "270m",
+          "Age": "2,500 years"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "Christmas Atoll",
+        "category": "Coral Atoll",
+        "description": "Christmas Atoll is the largest atoll in Kiribati, boasting pristine coral reefs, abundant marine life, and a stunning lagoon. It’s a haven for divers and a vital breeding ground for numerous species.",
+        "detailedDescription": "Christmas Atoll’s extensive reef system protects a sheltered lagoon teeming with colorful fish, sea turtles, and coral formations. The atoll’s isolation has helped preserve its natural beauty and biodiversity.",
+        "bestTime": "June – August",
+        "bestLocations": [
+          "North Lagoon",
+          "South Lagoon",
+          "Coral Gardens"
+        ],
+        "viewingTips": [
+          "Hire a local guide for snorkeling",
+          "Respect the marine environment",
+          "Bring underwater camera"
+        ],
+        "scientificData": {
+          "Area": "370 km²",
+          "Coral Cover": "70%"
+        },
+        "icon": "Leaf"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Coral Reef Ecosystems",
+      "overview": "Kiribati’s coral reefs are the foundation of its marine biodiversity and provide crucial coastal protection. However, they are increasingly threatened by climate change, pollution, and unsustainable fishing practices.",
+      "conservationStatus": {
+        "protectedAreas": "15%",
+        "nationalParks": 2
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Coral Reef Fish",
+          "icon": "Fish",
+          "description": "Kiribati’s coral reefs support a diverse array of fish species, many of which are endemic to the region.",
+          "statistics": [
+            {
+              "category": "Species Count",
+              "count": "Over 300",
+              "details": "Estimates vary, but over 300 fish species have been identified."
+            },
+            {
+              "category": "Endemic Species",
+              "count": "50+",
+              "details": "At least 50 fish species are found nowhere else in the world."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Giant Clam",
+              "status": "Vulnerable",
+              "significance": "A keystone species in the reef ecosystem."
+            },
+            {
+              "name": "Morwarii Parrotfish",
+              "status": "Endangered",
+              "significance": "Plays a vital role in maintaining reef health."
+            }
+          ],
+          "threats": [
+            "Coral bleaching",
+            "Overfishing",
+            "Pollution"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas",
+            "Sustainable fishing practices",
+            "Coral restoration projects"
+          ]
+        },
+        {
+          "name": "Sea Turtles",
+          "icon": "Bird",
+          "description": "Several species of sea turtles nest on Kiribati’s beaches, playing a crucial role in maintaining the health of the ecosystem.",
+          "statistics": [
+            {
+              "category": "Species",
+              "count": "6",
+              "details": "Green, Hawksbill, Loggerhead, Olive Ridley, Leatherback, and Flatback turtles nest in Kiribati."
+            },
+            {
+              "category": "Nesting Sites",
+              "count": "15",
+              "details": "Approximately 15 nesting sites are known across the islands."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Green Turtle",
+              "status": "Endangered",
+              "significance": "A major consumer of seagrass and algae."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Plastic pollution",
+            "Predation"
+          ],
+          "conservationEfforts": [
+            "Beach patrols",
+            "Nest protection",
+            "Community awareness programs"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities in Kiribati",
+      "description": "Kiribati offers a range of outdoor activities, from diving and snorkeling to island hopping and cultural experiences. The warm waters and abundant marine life make it a paradise for water sports enthusiasts.",
+      "activityCategories": [
+        {
+          "name": "Diving & Snorkeling",
+          "icon": "Waves",
+          "description": "Explore the vibrant coral reefs and diverse marine life of Kiribati’s lagoons and atolls.",
+          "activities": [
+            {
+              "name": "Reef Diving",
+              "difficulty": "Moderate",
+              "season": "May – October",
+              "duration": "3-5 hours",
+              "description": "Discover the underwater wonders of Kiribati’s coral reefs.",
+              "bestLocations": [
+                "Christmas Atoll",
+                "Abaiang Islands"
+              ],
+              "requirements": "PADI certification recommended",
+              "safety": [
+                "Dive with a certified operator",
+                "Check weather conditions"
+              ]
+            },
+            {
+              "name": "Snorkeling",
+              "difficulty": "Easy",
+              "season": "Year Round",
+              "duration": "1-3 hours",
+              "description": "Enjoy the colorful coral reefs and marine life from the surface.",
+              "bestLocations": [
+                "Tarawa Lagoon",
+                "Kiritimati"
+              ],
+              "requirements": "Basic swimming skills",
+              "safety": [
+                "Swim in designated areas",
+                "Wear sunscreen"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Island Hopping",
+          "icon": "Navigation",
+          "description": "Explore the diverse islands of Kiribati, each with its own unique culture and landscape.",
+          "activities": [
+            {
+              "name": "Traditional Sailing",
+              "difficulty": "Moderate",
+              "season": "May – October",
+              "duration": "1-3 days",
+              "description": "Experience the traditional way of travel by sailing on a local outrigger canoe.",
+              "bestLocations": [
+                "Abaiang Islands",
+                "Kiritimati"
+              ],
+              "requirements": "Respect local customs",
+              "safety": [
+                "Travel with a local guide"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight cotton clothing, swimwear, hat, sunglasses",
+          "winter": "Light jacket, long-sleeved shirts, trousers",
+          "yearRound": "Sunscreen, insect repellent, waterproof jacket"
+        },
+        "equipment": {
+          "basic": "Sunscreen, insect repellent, hat, sunglasses, water bottle",
+          "hiking": "Sturdy hiking boots, backpack, map, compass",
+          "photography": "Underwater camera, waterproof case"
+        },
+        "safety": [
+          "Stay hydrated",
+          "Protect yourself from the sun",
+          "Respect local customs",
+          "Be aware of cyclones"
+        ]
+      }
+    }
+  }
+}

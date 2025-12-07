@@ -1,0 +1,377 @@
+{
+  "name": "Sweden",
+  "region": "Northern Europe",
+  "description": "Sweden, officially the Kingdom of Sweden, is a Scandinavian nation known for its stunning natural landscapes, including vast forests, shimmering lakes, and dramatic coastlines. It boasts a rich history, vibrant culture, and a commitment to sustainability. From the Arctic north to the temperate south, Sweden offers a diverse range of experiences for visitors and residents alike.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "10.5 million",
+      "icon": "Users",
+      "description": "Sweden has a relatively small but highly educated and innovative population.",
+      "detail": "The population density is around 25 people per square kilometer."
+    },
+    {
+      "label": "Area",
+      "value": "450,295 sq km",
+      "icon": "MapPin",
+      "description": "Sweden is the fifth-largest country in Europe.",
+      "detail": "Approximately 30% of the country is covered by forests."
+    },
+    {
+      "label": "Capital",
+      "value": "Stockholm",
+      "icon": "MapPin",
+      "description": "Stockholm is a major European capital city and a global center for design and innovation.",
+      "detail": "It's built on 14 islands and connected by 50 bridges."
+    },
+    {
+      "label": "Currency",
+      "value": "Swedish Krona (SEK)",
+      "icon": "Coffee",
+      "description": "The Swedish currency is the Krona.",
+      "detail": "As of November 2023, 1 SEK is approximately $0.95 USD."
+    },
+    {
+      "label": "Official Language",
+      "value": "Swedish",
+      "icon": "Globe",
+      "description": "Swedish is the official language of Sweden.",
+      "detail": "Around 90% of the population speaks Swedish fluently."
+    }
+  ],
+  "climateData": {
+    "title": "Swedish Climate",
+    "description": "Sweden experiences a wide range of climates due to its vast size. Generally, it's a temperate climate with significant variations between north and south. Summers are mild and pleasant, while winters are long, cold, and snowy, particularly in the north.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer in Sweden is characterized by long daylight hours, warm temperatures, and lush greenery. It's a popular time for outdoor activities.",
+        "keyFeatures": [
+          "Long daylight hours",
+          "Warm temperatures",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Hiking",
+          "Kayaking",
+          "Camping",
+          "Fishing"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures, vibrant foliage, and a sense of tranquility. The days get shorter, and the landscape transforms into a stunning display of reds, oranges, and yellows.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Cool temperatures",
+          "Shorter days"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wildlife watching"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter in Sweden is cold and snowy, with long nights and a magical atmosphere. It's a time for cozying up indoors, enjoying winter sports, and experiencing the beauty of the snow-covered landscapes.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Long nights"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice fishing",
+          "Northern Lights viewing"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, melting snow, and the return of wildflowers. It's a time of renewal and rebirth, with longer daylight hours and blossoming landscapes.",
+        "keyFeatures": [
+          "Melting snow",
+          "Wildflowers",
+          "Longer days"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Abisko National Park",
+      "category": "Mountain & Forest",
+      "description": "Abisko National Park is renowned for its stunning mountain scenery, pristine lakes, and the mesmerizing Aurora Borealis (Northern Lights). It's a hiker's paradise and a prime location for wildlife viewing.",
+      "detailedDescription": "Located in Lapland, the park offers a variety of trails, from gentle lakeside walks to challenging mountain climbs. The Abisko Chasm, a deep gorge with a glass-bottomed walkway, provides a unique perspective on the landscape.",
+      "bestTime": "Winter (for Northern Lights), Summer (for hiking)",
+      "bestLocations": [
+        "Abisko Chasm",
+        "Lake Torneträsk",
+        "Mount Nuolja"
+      ],
+      "viewingTips": [
+        "Check the Aurora forecast",
+        "Bring warm clothing",
+        "Find a dark location away from light pollution"
+      ],
+      "scientificData": {
+        "Elevation": "949m",
+        "Area": "1,260 sq km",
+        "Average Temperature": " -5°C"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "The Koster Islands",
+      "category": "Coastal & Archipelago",
+      "description": "The Koster Islands are a beautiful archipelago in the Gulf of Bothnia, known for their pristine beaches, diverse birdlife, and unique coastal landscapes. They offer a tranquil escape and a chance to experience the beauty of the Swedish coast.",
+      "detailedDescription": "The islands are characterized by sandy beaches, pine forests, and rocky cliffs. They are a haven for migratory birds, particularly during the summer months. The islands are also home to traditional Swedish fishing villages.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Sandhamn",
+        "Kosterlandet",
+        "Rännesand"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Explore the islands by boat",
+        "Look for birdlife"
+      ],
+      "scientificData": {
+        "Area": "135 sq km",
+        "Average Depth": " 5m",
+        "Water Temperature": "10-15°C"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Lake District of Vänern",
+      "category": "Lake & Forest",
+      "description": "Vänern is Sweden’s largest lake and a stunning natural area, offering a diverse range of activities and landscapes. Surrounded by forests and charming towns, it’s a popular destination for boating, fishing, and relaxation.",
+      "detailedDescription": "The lake is dotted with islands, creating a labyrinthine network of waterways. The surrounding forests provide opportunities for hiking and camping. Vänern is also known for its rich history and cultural heritage.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Sävarby",
+        "Motala",
+        "Värnamo"
+      ],
+      "viewingTips": [
+        "Rent a boat",
+        "Go fishing",
+        "Explore the islands"
+      ],
+      "scientificData": {
+        "Area": "5,650 sq km",
+        "Maximum Depth": "31.5m",
+        "Water Volume": "1,930 cu km"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Swedish Ecosystems",
+    "overview": "Sweden boasts a diverse range of ecosystems, from boreal forests and arctic tundra to temperate deciduous forests and coastal wetlands. These ecosystems support a rich variety of plant and animal life, contributing to the country's biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 30
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Sweden’s vast forests cover approximately 25% of the country and play a crucial role in carbon sequestration and biodiversity conservation.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "200+",
+            "details": "A wide variety of tree species, including spruce, pine, birch, and aspen."
+          },
+          {
+            "category": "Forest Area",
+            "count": "45 million hectares",
+            "details": "The largest forest area in Europe."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Roe Deer",
+            "status": "Common",
+            "significance": "An important prey species for predators."
+          },
+          {
+            "name": "Black Grouse",
+            "status": "Vulnerable",
+            "significance": "A symbol of the Swedish wilderness."
+          }
+        ],
+        "threats": [
+          "Forest fires",
+          "Illegal logging",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Protected areas",
+          "Reforestation projects"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Leaf",
+        "description": "Sweden’s wetlands, including marshes, bogs, and fens, are vital habitats for a wide range of species and play a crucial role in flood control and water purification.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "1.8 million hectares",
+            "details": "A significant portion of Sweden’s land area is covered by wetlands."
+          },
+          {
+            "category": "Bird Species",
+            "count": "200+",
+            "details": "Important breeding grounds for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "White-tailed Eagle",
+            "status": "Near Threatened",
+            "significance": "A top predator in the Swedish ecosystem."
+          },
+          {
+            "name": "Marsh Beetle",
+            "status": "Endangered",
+            "significance": "A specialist species adapted to wetland habitats."
+          }
+        ],
+        "threats": [
+          "Drainage",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration",
+          "Protected areas",
+          "Pollution control"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Sweden",
+    "description": "Sweden offers a wide range of outdoor activities for all skill levels, from hiking and fishing to skiing and kayaking. The country’s stunning natural landscapes provide the perfect backdrop for adventure and recreation.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Sweden is a hiker’s paradise, with trails ranging from gentle lakeside walks to challenging mountain climbs.",
+        "activities": [
+          {
+            "name": "Day Hike",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "3-6 hours",
+            "description": "A short hike to a scenic viewpoint or waterfall.",
+            "bestLocations": [
+              "Abisko National Park",
+              "Kungsleden Trail"
+            ],
+            "requirements": "Hiking boots, backpack, water bottle, snacks",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your plans",
+              "Carry a map and compass"
+            ]
+          },
+          {
+            "name": "Multi-Day Trek",
+            "difficulty": "Moderate to Hard",
+            "season": "Summer",
+            "duration": "5-10 days",
+            "description": "A challenging trek through the wilderness, requiring careful planning and preparation.",
+            "bestLocations": [
+              "Kungsleden Trail",
+              "Sarek National Park"
+            ],
+            "requirements": "Tent, sleeping bag, cooking equipment, navigation tools",
+            "safety": [
+              "Experience in wilderness navigation",
+              "Emergency supplies",
+              "Knowledge of survival skills"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Sweden’s lakes and coastline offer a variety of water sports activities, from kayaking and canoeing to sailing and fishing.",
+        "activities": [
+          {
+            "name": "Kayaking",
+            "difficulty": "Easy to Moderate",
+            "season": "Summer",
+            "duration": "2-4 hours",
+            "description": "Explore the lakes and waterways by kayak.",
+            "bestLocations": [
+              "Lake Vänern",
+              "Stockholm Archipelago"
+            ],
+            "requirements": "Kayak, paddle, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Check weather conditions",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Sailing",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Enjoy sailing on the lakes and coastline.",
+            "bestLocations": [
+              "Stockholm Archipelago",
+              "Gotland"
+            ],
+            "requirements": "Sailboat, sailing experience",
+            "safety": [
+              "Check weather conditions",
+              "Follow sailing regulations"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket and pants, hat, gloves, scarf",
+        "yearRound": "Versatile clothing that can be layered"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a map and compass",
+        "Be aware of wildlife",
+        "Check weather conditions"
+      ]
+    }
+  }
+}

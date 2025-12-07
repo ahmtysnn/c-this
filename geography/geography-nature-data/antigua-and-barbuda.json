@@ -1,0 +1,400 @@
+{
+  "name": "Antigua and Barbuda",
+  "region": "Caribbean",
+  "description": "Antigua and Barbuda is an independent island nation in the Leeward Islands of the West Indies, located in the Caribbean Sea. Known for its stunning beaches, rich history, and vibrant culture, the twin-island nation offers a diverse range of experiences, from luxurious resorts to adventurous explorations of its natural beauty. The islands boast a unique blend of European and African influences, reflected in their architecture, cuisine, and traditions.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "St. John's",
+      "icon": "MapPin",
+      "description": "The bustling capital city, a vibrant hub of commerce and culture.",
+      "detail": "St. John's is characterized by colorful colonial buildings, bustling markets, and a lively waterfront."
+    },
+    {
+      "label": "Population",
+      "value": "103,000",
+      "icon": "Users",
+      "description": "A friendly and welcoming population.",
+      "detail": "The population is primarily of African descent, with a significant British influence."
+    },
+    {
+      "label": "Area",
+      "value": "341 km²",
+      "icon": "Globe",
+      "description": "Two islands combined, offering diverse landscapes.",
+      "detail": "Antigua is larger, while Barbuda is smaller and known for its pink sand beaches."
+    },
+    {
+      "label": "Currency",
+      "value": "East Caribbean Dollar (XCD)",
+      "icon": "Coffee",
+      "description": "The official currency of Antigua and Barbuda.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD is approximately 0.98 XCD."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "English is the official language and is widely spoken.",
+      "detail": "Creole languages are also prevalent and add to the islands' unique linguistic landscape."
+    },
+    {
+      "label": "Independence",
+      "value": "November 1, 1981",
+      "icon": "Calendar",
+      "description": "Gained independence from Britain.",
+      "detail": "Antigua and Barbuda became a fully independent nation after a period of self-governance."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Antigua and Barbuda enjoy a consistently warm and humid tropical climate year-round, influenced by trade winds. Rainfall is relatively evenly distributed, with a distinct wet and dry season.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "Warm & Humid",
+        "description": "The hottest and most humid months, with frequent showers and occasional thunderstorms.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent showers",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Swimming",
+          "Snorkeling",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "Transition",
+        "description": "Temperatures begin to cool slightly, and rainfall decreases. Hurricane season is at its peak.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Cooler temperatures",
+          "Hurricane risk"
+        ],
+        "activities": [
+          "Hiking",
+          "Exploring historical sites",
+          "Water sports (with caution)"
+        ]
+      },
+      {
+        "name": "Winter (December - March)",
+        "period": "Dry Season",
+        "description": "The driest and mildest months, with sunny skies and pleasant temperatures. A popular time to visit.",
+        "keyFeatures": [
+          "Sunny skies",
+          "Mild temperatures",
+          "Low rainfall"
+        ],
+        "activities": [
+          "Scuba diving",
+          "Sailing",
+          "Island tours"
+        ]
+      },
+      {
+        "name": "Spring (April - May)",
+        "period": "Warm & Pleasant",
+        "description": "Temperatures rise again, and rainfall increases slightly. A beautiful time to visit with blooming flora.",
+        "keyFeatures": [
+          "Rising temperatures",
+          "Increasing rainfall",
+          "Blooming flowers"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Beach activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Nevis Pitons",
+      "category": "Volcanic Peaks",
+      "description": "The Nevis Pitons are a pair of dramatic volcanic plugs rising from the coastline of Nevis, a neighboring island. These iconic formations offer breathtaking views and are a testament to the islands' volcanic past.",
+      "detailedDescription": "The eastern Piton is the more accessible and popular of the two, offering a challenging but rewarding climb. The western Piton is more rugged and less frequently visited.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Nevis Island"
+      ],
+      "viewingTips": [
+        "Arrive early to avoid crowds",
+        "Wear sturdy shoes",
+        "Bring water and sunscreen"
+      ],
+      "scientificData": {
+        "Height": "827m",
+        "Age": "Approximately 450,000 years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Dickenson Bay",
+      "category": "Beach",
+      "description": "Dickenson Bay is renowned for its calm, turquoise waters and pristine white sand, making it a popular destination for swimming, sunbathing, and water sports.",
+      "detailedDescription": "The bay is sheltered by a coral reef, creating a tranquil environment perfect for families and those seeking relaxation. Numerous resorts and restaurants line the shore.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Antigua"
+      ],
+      "viewingTips": [
+        "Rent a beach chair and umbrella",
+        "Try water sports like snorkeling or paddleboarding"
+      ],
+      "scientificData": {
+        "Sand Composition": "Primarily quartz and shell fragments",
+        "Water Temperature": "Average 27°C"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Barbuda Pink Sands Beach",
+      "category": "Beach",
+      "description": "Barbuda’s Pink Sands Beach is a unique and stunning stretch of coastline, famed for its pink-hued sand created by crushed coral and shells.",
+      "detailedDescription": "The beach is relatively undeveloped and offers a sense of seclusion and tranquility. It’s a haven for birdwatchers and nature enthusiasts.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "Barbuda"
+      ],
+      "viewingTips": [
+        "Bring a camera to capture the unique colors",
+        "Respect the fragile ecosystem"
+      ],
+      "scientificData": {
+        "Sand Color": "Due to high concentration of foraminifera shells",
+        "Shell Composition": "Primarily foraminifera and coral fragments"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Coral Reef Ecosystems",
+    "overview": "Antigua and Barbuda boast extensive coral reef ecosystems, vital for marine biodiversity and coastal protection. These reefs support a rich array of marine life and provide essential habitat for numerous species.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 10% of coral reefs are formally protected.",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral Reef Fish",
+        "icon": "Fish",
+        "description": "A diverse array of fish species inhabit the coral reefs, playing crucial roles in the ecosystem.",
+        "statistics": [
+          {
+            "category": "Species Count",
+            "count": "Over 200 species",
+            "details": "Includes parrotfish, snapper, grouper, and angelfish"
+          },
+          {
+            "category": "Habitat Area",
+            "count": "Approximately 500 km²",
+            "details": "Provides critical nursery grounds for many fish species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Humphead Parrotfish",
+            "status": "Vulnerable",
+            "significance": "Important grazers that maintain reef health"
+          },
+          {
+            "name": "Queen Snapper",
+            "status": "Least Concern",
+            "significance": "A commercially important fish species"
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral restoration projects"
+        ]
+      },
+      {
+        "name": "Sea Turtle",
+        "icon": "Bird",
+        "description": "Several species of sea turtles nest on the beaches of Antigua and Barbuda, playing a vital role in the marine ecosystem.",
+        "statistics": [
+          {
+            "category": "Nesting Sites",
+            "count": "Over 30 nesting sites",
+            "details": "Located primarily on Barbuda"
+          },
+          {
+            "category": "Species",
+            "count": "Loggerhead, Green, Hawksbill",
+            "details": "All three species are listed as threatened or endangered"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Loggerhead Turtle",
+            "status": "Endangered",
+            "significance": "A keystone species that helps maintain reef health"
+          },
+          {
+            "name": "Green Turtle",
+            "status": "Endangered",
+            "significance": "A vital herbivore that grazes on seagrass beds"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Plastic pollution",
+          "Predation"
+        ],
+        "conservationEfforts": [
+          "Beach patrols",
+          "Nest protection programs"
+        ]
+      }
+    ]
+  },
+  "biodiversityCategory": {
+    "name": "Endemic Bird Species",
+    "icon": "Bird",
+    "description": "Antigua and Barbuda are home to several endemic bird species, found nowhere else on Earth, adding to the islands' unique biodiversity.",
+    "statistics": [
+      {
+        "category": "Number of Endemics",
+        "count": "5",
+        "details": "Representing a significant portion of the Caribbean's endemic avifauna"
+      },
+      {
+        "category": "Habitat Range",
+        "count": "Limited to specific islands and habitats",
+        "details": "Dependent on undisturbed forest and wetland areas"
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Antigua Brushfinch",
+        "status": "Endangered",
+        "significance": "A small, secretive finch species adapted to forest undergrowth"
+      },
+      {
+        "name": "Barbuda Warbler",
+        "status": "Endangered",
+        "significance": "A unique warbler species found only on Barbuda"
+      }
+    ],
+    "threats": [
+      "Habitat loss due to deforestation and development",
+      "Introduced predators"
+    ],
+    "conservationEfforts": [
+      "Habitat restoration",
+      "Community-based conservation programs"
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures",
+    "description": "Antigua and Barbuda offer a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the islands' diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Signal Hill Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "A scenic hike to the summit of Signal Hill, offering panoramic views of St. John's and the surrounding coastline.",
+            "bestLocations": [
+              "St. John's"
+            ],
+            "requirements": "Sturdy shoes, water, sunscreen",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Mount Obama Trail",
+            "difficulty": "Hard",
+            "season": "December - April",
+            "duration": "4-6 hours",
+            "description": "A challenging hike to the summit of Mount Obama, the highest point on Antigua.",
+            "bestLocations": [
+              "Antigua"
+            ],
+            "requirements": "Hiking boots, backpack, water, snacks",
+            "safety": [
+              "Check weather conditions",
+              "Bring a map and compass"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in the crystal-clear waters of the Caribbean.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Easy - Expert",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "Dickenson Bay",
+              "English Harbour"
+            ],
+            "requirements": "Certification, mask, fins, snorkel",
+            "safety": [
+              "Follow dive guidelines",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Sailing",
+            "difficulty": "Easy - Expert",
+            "season": "December - April",
+            "duration": "Variable",
+            "description": "Charter a sailboat and explore the islands' coastline.",
+            "bestLocations": [
+              "All islands"
+            ],
+            "requirements": "Sailboat rental, sailing experience (optional)",
+            "safety": [
+              "Check weather conditions",
+              "Follow boating regulations"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Light jacket, long-sleeved shirts, sweater, rain gear",
+        "yearRound": "Comfortable clothing, sandals, walking shoes"
+      },
+      "equipment": {
+        "basic": "Sunglasses, insect repellent, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of currents",
+        "Respect wildlife"
+      ]
+    }
+  }
+}

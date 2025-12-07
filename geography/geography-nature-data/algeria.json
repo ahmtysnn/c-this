@@ -1,0 +1,340 @@
+{
+  "name": "Algeria",
+  "region": "North Africa",
+  "description": "Algeria, officially the People's Democratic Republic of Algeria, is a transcontinental country located in North Africa. It borders Tunisia to the northwest, Libya to the west, Niger and Mali to the south, Mauritania to the southwest, and Morocco to the northeast.  The country is characterized by a diverse landscape, ranging from the Sahara Desert in the south to the Atlas Mountains in the northeast, and the Mediterranean coastline in the north.  Algeria possesses a rich history and culture, influenced by Berber, Arab, and European civilizations. It is a significant oil and gas producer and plays a crucial role in regional geopolitics.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "44.9 million",
+      "icon": "Users",
+      "description": "The population of Algeria is diverse, with a significant Berber and Arab heritage.",
+      "detail": "The majority of the population resides in urban areas, particularly along the coast."
+    },
+    {
+      "label": "Area",
+      "value": "2.38 million sq km",
+      "icon": "MapPin",
+      "description": "Algeria is the largest country in Africa by land area.",
+      "detail": "It encompasses a vast and varied terrain, including deserts, mountains, and coastal plains."
+    },
+    {
+      "label": "Capital",
+      "value": "Algiers",
+      "icon": "MapPin",
+      "description": "Algiers, located on the Mediterranean coast, is the bustling capital city.",
+      "detail": "It's a major economic, cultural, and political center."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "Globe",
+      "description": "Arabic is the official language of Algeria.",
+      "detail": "French is also widely spoken and used in government and business."
+    },
+    {
+      "label": "Currency",
+      "value": "Algerian Dinar (DZD)",
+      "icon": "Coffee",
+      "description": "The currency of Algeria is the Algerian Dinar.",
+      "detail": "It is pegged to the US dollar."
+    },
+    {
+      "label": "GDP",
+      "value": "$197.3 billion (2023)",
+      "icon": "Globe",
+      "description": "Algeria has a significant GDP driven by oil and gas exports.",
+      "detail": "Diversification efforts are underway to reduce reliance on hydrocarbons."
+    }
+  ],
+  "climateData": {
+    "title": "Algerian Climate",
+    "description": "Algeria experiences a diverse range of climates due to its vast geographical expanse. The northern coastal regions enjoy a Mediterranean climate with hot, dry summers and mild, wet winters.  Further inland, the climate transitions to a semi-arid climate, characterized by hot, dry summers and cooler winters.  In the south, the Sahara Desert dominates, with scorching summers and mild winters.  Rainfall is generally low, concentrated along the coast and in the mountainous regions.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is characterized by intense heat and sunshine across most of the country. Temperatures can soar to over 40°C (104°F) in the Sahara and coastal regions.",
+        "keyFeatures": [
+          "High Temperatures",
+          "Low Rainfall",
+          "Sunny Skies"
+        ],
+        "activities": [
+          "Beach Holidays",
+          "Desert Safaris",
+          "Hiking in the Mountains"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings a gradual cooling trend, with temperatures decreasing and rainfall increasing, particularly in the north and mountains.",
+        "keyFeatures": [
+          "Cooler Temperatures",
+          "Increasing Rainfall",
+          "Colorful Landscapes"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is mild in the north and Mediterranean coastal areas, with average temperatures around 15°C (59°F).  The interior and south experience colder temperatures, with occasional snowfall in the mountains.",
+        "keyFeatures": [
+          "Mild Temperatures (North)",
+          "Cold Temperatures (South)",
+          "Occasional Snowfall"
+        ],
+        "activities": [
+          "Skiing in the Mountains",
+          "Exploring Coastal Towns",
+          "Visiting Souks"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a resurgence of greenery and pleasant temperatures. Rainfall increases, and wildflowers bloom across the landscape.",
+        "keyFeatures": [
+          "Warm Temperatures",
+          "Increasing Rainfall",
+          "Blooming Flowers"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Tassili n'Ajjer",
+      "category": "Desert Landscape",
+      "description": "The Tassili n'Ajjer is a UNESCO World Heritage site in southeastern Algeria, renowned for its dramatic sandstone formations, ancient rock art, and unique geological features. It’s a window into prehistoric life and a testament to the power of erosion.",
+      "detailedDescription": "This vast expanse of desert contains towering cliffs, hidden canyons, and petroglyphs dating back thousands of years. The landscape is constantly changing due to wind and sand, creating an ever-evolving spectacle.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Tassili n'Ajjer National Park"
+      ],
+      "viewingTips": [
+        "Bring plenty of water and sunscreen.",
+        "Hire a local guide for navigation and cultural insights."
+      ],
+      "scientificData": {
+        "Height": "1500m",
+        "Age": "Over 90 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "El Bahri Djerba",
+      "category": "Coastal Oasis",
+      "description": "El Bahri Djerba is a remarkable oasis located on the island of Djerba, a unique example of human adaptation to a harsh desert environment. It’s a vibrant community sustained by underground springs and a testament to traditional Berber culture.",
+      "detailedDescription": "The oasis features a network of palm groves, mud-brick houses, and a bustling market. The springs provide water for irrigation and drinking, supporting a thriving agricultural economy.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Djerba Island"
+      ],
+      "viewingTips": [
+        "Explore the traditional Berber villages.",
+        "Visit the local market for handicrafts and souvenirs."
+      ],
+      "scientificData": {
+        "Water Source": "Underground Aquifer",
+        "Palm Species": "Date Palm (Phoenix dactylifera)"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Aurès Mountains",
+      "category": "Mountain Range",
+      "description": "The Aurès Mountains, stretching across northern Algeria, offer stunning scenery, diverse wildlife, and a rich cultural heritage. They are a haven for hikers and nature enthusiasts.",
+      "detailedDescription": "The mountains are characterized by rugged peaks, deep valleys, and lush forests. They are home to a variety of endemic species, including the Barbary macaque.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Mount Bou Ikhlif",
+        "Tidikoun"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots.",
+        "Be aware of the altitude."
+      ],
+      "scientificData": {
+        "Elevation": "2800m",
+        "Forest Cover": "20%"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Saharan Wildlife",
+    "icon": "Bird",
+    "description": "The Sahara Desert, despite its harsh conditions, supports a surprising array of wildlife adapted to the extreme environment.",
+    "statistics": [
+      {
+        "category": "Mammals",
+        "count": "Approximately 50 species",
+        "details": "Including the Addax, Dorcas Gazelle, and Fennec Fox."
+      },
+      {
+        "category": "Reptiles",
+        "count": "Over 100 species",
+        "details": "Such as the Sand Viper and Desert Monitor."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Addax",
+        "status": "Endangered",
+        "significance": "A critically endangered antelope adapted to desert life."
+      },
+      {
+        "name": "Fennec Fox",
+        "status": "Least Concern",
+        "significance": "The smallest fox species, known for its large ears."
+      }
+    ],
+    "threats": [
+      "Habitat Loss",
+      "Poaching",
+      "Climate Change"
+    ],
+    "conservationEfforts": [
+      "Protected Areas",
+      "Anti-Poaching Patrols",
+      "Community-Based Conservation"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Sahara Desert Ecosystem",
+    "overview": "The Sahara Desert is the largest hot desert in the world, covering a vast portion of North Africa. It’s characterized by extreme temperatures, low rainfall, and sparse vegetation. Despite its harsh conditions, the Sahara supports a unique and resilient ecosystem.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of the Sahara is protected within national parks and reserves.",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Saharan Wildlife",
+        "icon": "Bird",
+        "description": "As described above, the Sahara supports a remarkable array of desert-adapted animals.",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [],
+        "conservationEfforts": []
+      },
+      {
+        "name": "Arid Vegetation",
+        "icon": "Leaf",
+        "description": "Sparse vegetation, including cacti, shrubs, and grasses, adapted to survive with minimal water.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "Approximately 1000 species",
+            "details": "Many are endemic to the Sahara."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Desertification",
+          "Overgrazing"
+        ],
+        "conservationEfforts": [
+          "Reforestation Projects",
+          "Sustainable Grazing Practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Algeria",
+    "description": "Algeria offers a diverse range of outdoor activities, from exploring ancient ruins to trekking through stunning mountain landscapes.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the diverse landscapes of Algeria on foot.",
+        "activities": [
+          {
+            "name": "Mount Bou Ikhlif Trek",
+            "difficulty": "Moderate",
+            "season": "Spring & Autumn",
+            "duration": "3-5 days",
+            "description": "A challenging trek through the Aurès Mountains, offering stunning views and opportunities to spot wildlife.",
+            "bestLocations": [
+              "Aurès Mountains"
+            ],
+            "requirements": "Good physical fitness, hiking boots, water, and a guide.",
+            "safety": [
+              "Altitude sickness",
+              "Weather changes"
+            ]
+          },
+          {
+            "name": "Tassili n'Ajjer Exploration",
+            "difficulty": "Hard",
+            "season": "Autumn",
+            "duration": "7-10 days",
+            "description": "A demanding expedition into the Tassili n'Ajjer, exploring ancient rock art and geological wonders.",
+            "bestLocations": [
+              "Tassili n'Ajjer National Park"
+            ],
+            "requirements": "Excellent physical fitness, specialized equipment, and a local guide.",
+            "safety": [
+              "Extreme heat",
+              "Remoteness"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Mediterranean coastline with various water sports activities.",
+        "activities": [
+          {
+            "name": "Coastal Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Relax and swim in the clear waters of the Mediterranean.",
+            "bestLocations": [
+              "Algiers Coast",
+              "Djerba Island"
+            ],
+            "requirements": "Swimming ability",
+            "safety": [
+              "Strong currents",
+              "Sunburn"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses.",
+        "winter": "Warm layers, waterproof jacket, hat, gloves.",
+        "yearRound": "Comfortable walking shoes, sunscreen, insect repellent."
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit.",
+        "hiking": "Hiking boots, trekking poles, map, compass.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Inform someone of your plans.",
+        "Carry a satellite phone in remote areas.",
+        "Respect local customs."
+      ]
+    }
+  }
+}

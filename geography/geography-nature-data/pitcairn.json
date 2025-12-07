@@ -1,0 +1,330 @@
+{
+  "CountryData": {
+    "name": "Pitcairn",
+    "region": "Oceania",
+    "description": "Pitcairn Island is a remote British Overseas Territory in the South Pacific Ocean, renowned for its unique history as the refuge of the Bounty mutineers. It’s a volcanic island with a small, tightly-knit community, characterized by its rugged terrain, lush vegetation, and stunning coastal scenery.  Life on Pitcairn is simple and self-sufficient, deeply rooted in tradition and reliant on fishing and limited agriculture.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "187",
+        "icon": "Users",
+        "description": "The island's population is one of the smallest in the world.",
+        "detail": "The community is largely descended from the original mutineers and their families."
+      },
+      {
+        "label": "Area",
+        "value": "2.3 km²",
+        "icon": "MapPin",
+        "description": "Pitcairn is a relatively small island.",
+        "detail": "It comprises Pitcairn Island and the adjacent islet of Hat Rong."
+      },
+      {
+        "label": "Currency",
+        "value": "British Pound Sterling",
+        "icon": "Coffee",
+        "description": "The island uses the British Pound Sterling.",
+        "detail": "Banking facilities are extremely limited."
+      },
+      {
+        "label": "Language",
+        "value": "English",
+        "icon": "Navigation",
+        "description": "English is the official language.",
+        "detail": "Pitcairn Creole, a dialect derived from Tahitian and English, is also spoken."
+      },
+      {
+        "label": "Time Zone",
+        "value": "UTC-4",
+        "icon": "Clock",
+        "description": "Pitcairn observes UTC-4.",
+        "detail": "It is 12 hours behind GMT."
+      },
+      {
+        "label": "Elevation",
+        "value": "63 meters",
+        "icon": "Mountain",
+        "description": "The highest point on the island is Mount Reeves.",
+        "detail": "The island's terrain is largely volcanic and mountainous."
+      }
+    ],
+    "climateData": {
+      "title": "Tropical Marine Climate",
+      "description": "Pitcairn enjoys a consistently warm and humid tropical marine climate, influenced by the surrounding Pacific Ocean. Rainfall is abundant throughout the year, contributing to the island's lush vegetation.  Temperatures remain relatively stable, with minimal seasonal variation.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (December - March)",
+          "period": "Warm & Wet",
+          "description": "Summer brings consistently high temperatures and frequent rainfall.  Humidity is at its peak.",
+          "keyFeatures": [
+            "High humidity",
+            "Frequent showers",
+            "Warm temperatures"
+          ],
+          "activities": [
+            "Fishing",
+            "Beach relaxation",
+            "Exploring the interior trails"
+          ]
+        },
+        {
+          "name": "Autumn (April - May)",
+          "period": "Transition",
+          "description": "Autumn sees a gradual decrease in rainfall and a slight cooling of temperatures.  The skies are often clear.",
+          "keyFeatures": [
+            "Decreasing rainfall",
+            "Cooler temperatures",
+            "Clear skies"
+          ],
+          "activities": [
+            "Hiking",
+            "Birdwatching",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Winter (June - November)",
+          "period": "Mild & Dry",
+          "description": "Winter is the driest and mildest season, with average temperatures around 22°C (72°F).  The sun shines for a significant portion of the day.",
+          "keyFeatures": [
+            "Mild temperatures",
+            "Lower rainfall",
+            "Longer daylight hours"
+          ],
+          "activities": [
+            "Diving",
+            "Snorkeling",
+            "Boat trips"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Mount Reeves",
+        "category": "Volcanic Peak",
+        "description": "Mount Reeves is the island's dormant volcano and the highest point, offering panoramic views of the surrounding ocean and landscape. Its slopes are covered in dense vegetation.",
+        "detailedDescription": "The volcano formed approximately 3,500 years ago.  The summit is accessible via a challenging hike.",
+        "bestTime": "Autumn & Winter",
+        "bestLocations": [
+          "Summit Trail"
+        ],
+        "viewingTips": [
+          "Wear sturdy hiking boots",
+          "Bring plenty of water",
+          "Check weather conditions before setting out"
+        ],
+        "scientificData": {
+          "Height": "786m",
+          "Age": "3500 years",
+          "VolcanicType": "Stratovolcano"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "Pitcairn Lagoon",
+        "category": "Coral Reef",
+        "description": "Pitcairn Lagoon is a protected marine area teeming with diverse marine life. The vibrant coral reefs provide habitat for numerous fish species and other invertebrates.",
+        "detailedDescription": "The lagoon is surrounded by a fringing reef, offering excellent snorkeling and diving opportunities. It's a crucial breeding ground for many Pacific species.",
+        "bestTime": "Summer & Autumn",
+        "bestLocations": [
+          "Coral Gardens",
+          "Shark Bay"
+        ],
+        "viewingTips": [
+          "Use reef-safe sunscreen",
+          "Respect marine life",
+          "Consider a guided dive or snorkel tour"
+        ],
+        "scientificData": {
+          "Depth": "Average 15m",
+          "CoralCoverage": "60%"
+        },
+        "icon": "Waves"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Island Ecosystem",
+      "overview": "Pitcairn’s ecosystem is characterized by its isolation and volcanic origins, resulting in a unique blend of flora and fauna. The island’s limited size and human presence have led to a relatively undisturbed environment, though invasive species pose a challenge.",
+      "conservationStatus": {
+        "protectedAreas": "100%",
+        "nationalParks": 0
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Flora",
+          "icon": "Leaf",
+          "description": "The island’s vegetation is dominated by native plants adapted to the humid climate and volcanic soil.",
+          "statistics": [
+            {
+              "category": "Tree Species",
+              "count": "30",
+              "details": "A variety of native trees, including breadfruit, mango, and guava."
+            },
+            {
+              "category": "Ferns",
+              "count": "50",
+              "details": "Numerous fern species thrive in the moist understory."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Pitcairn Breadfruit",
+              "status": "Endemic",
+              "significance": "A key food source for the community."
+            },
+            {
+              "name": "Giant Fern",
+              "status": "Vulnerable",
+              "significance": "A rare and distinctive fern species."
+            }
+          ],
+          "threats": [
+            "Invasive plant species",
+            "Habitat loss"
+          ],
+          "conservationEfforts": [
+            "Control of invasive species",
+            "Reforestation projects"
+          ]
+        },
+        {
+          "name": "Fauna",
+          "icon": "Bird",
+          "description": "Pitcairn’s fauna is relatively limited due to the island’s isolation, but it includes several endemic bird species and marine life.",
+          "statistics": [
+            {
+              "category": "Bird Species",
+              "count": "12",
+              "details": "Several endemic bird species, including the Pitcairn Booby."
+            },
+            {
+              "category": "Marine Life",
+              "count": "Numerous",
+              "details": "Rich marine biodiversity, including fish, seabirds, and marine mammals."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Pitcairn Booby",
+              "status": "Endangered",
+              "significance": "A unique seabird endemic to the island."
+            },
+            {
+              "name": "Shag",
+              "status": "Common",
+              "significance": "A seabird frequently seen along the coastline."
+            }
+          ],
+          "threats": [
+            "Introduced predators",
+            "Habitat degradation"
+          ],
+          "conservationEfforts": [
+            "Predator control programs",
+            "Marine protected areas"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities",
+      "description": "Pitcairn offers a range of outdoor activities, catering to both adventurous and relaxed visitors. The island’s rugged terrain and pristine waters provide opportunities for hiking, diving, and exploring.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the island’s volcanic peaks and lush valleys on foot.",
+          "activities": [
+            {
+              "name": "Mount Reeves Summit Hike",
+              "difficulty": "Hard",
+              "season": "Autumn & Winter",
+              "duration": "4-6 hours",
+              "description": "A challenging hike to the summit of Mount Reeves, offering stunning views.",
+              "bestLocations": [
+                "Mount Reeves Trail"
+              ],
+              "requirements": "Sturdy hiking boots, water, sunscreen",
+              "safety": [
+                "Be aware of steep drop-offs",
+                "Check weather conditions"
+              ]
+            },
+            {
+              "name": "Coastal Trail Walk",
+              "difficulty": "Easy",
+              "season": "Year Round",
+              "duration": "2-3 hours",
+              "description": "A scenic walk along the island’s coastline.",
+              "bestLocations": [
+                "Coastal Path"
+              ],
+              "requirements": "Comfortable shoes",
+              "safety": [
+                "Watch for slippery rocks"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy the crystal-clear waters of Pitcairn’s lagoon and surrounding ocean.",
+          "activities": [
+            {
+              "name": "Snorkeling",
+              "difficulty": "Easy",
+              "season": "Summer & Autumn",
+              "duration": "Variable",
+              "description": "Explore the vibrant coral reefs and marine life.",
+              "bestLocations": [
+                "Coral Gardens",
+                "Shark Bay"
+              ],
+              "requirements": "Snorkel gear, reef-safe sunscreen",
+              "safety": [
+                "Respect marine life",
+                "Be aware of currents"
+              ]
+            },
+            {
+              "name": "Diving",
+              "difficulty": "Moderate",
+              "season": "Summer & Autumn",
+              "duration": "Variable",
+              "description": "Discover the underwater wonders of Pitcairn’s lagoon.",
+              "bestLocations": [
+                "Shark Bay",
+                "Deep Reef"
+              ],
+              "requirements": "Dive certification, dive gear",
+              "safety": [
+                "Follow dive guidelines",
+                "Check visibility"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, hat",
+          "winter": "Warm layers, waterproof jacket, hiking boots",
+          "yearRound": "Sunscreen, insect repellent"
+        },
+        "equipment": {
+          "basic": "Reusable water bottle, flashlight, first-aid kit",
+          "hiking": "Sturdy hiking boots, backpack, map, compass",
+          "photography": "Camera, extra batteries, waterproof case"
+        },
+        "safety": [
+          "Inform someone of your plans",
+          "Carry a satellite phone",
+          "Be aware of the weather"
+        ]
+      }
+    }
+  }
+}

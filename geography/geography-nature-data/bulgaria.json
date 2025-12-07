@@ -1,0 +1,381 @@
+{
+  "name": "Bulgaria",
+  "region": "Europe",
+  "description": "Bulgaria, a Balkan nation nestled in Southeastern Europe, boasts a diverse landscape ranging from the rugged peaks of the Rila and Pirin Mountains to the Black Sea coastline.  Rich in history, culture, and natural beauty, Bulgaria offers a unique blend of ancient traditions and modern experiences.  Its strategic location has shaped its identity, making it a crossroads of civilizations and a gateway to the Mediterranean.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Sofia",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, a hub of commerce, culture, and history.",
+      "detail": "Founded in the 4th century AD, Sofia is a UNESCO World Heritage site known for its Roman ruins, Orthodox churches, and lively atmosphere."
+    },
+    {
+      "label": "Population",
+      "value": "6.45 million",
+      "icon": "Users",
+      "description": "A welcoming and hospitable population.",
+      "detail": "Bulgarians are known for their warmth, generosity, and strong family values."
+    },
+    {
+      "label": "Area",
+      "value": "110,994 sq km",
+      "icon": "Globe",
+      "description": "A land of varied terrain and stunning vistas.",
+      "detail": "Bulgaria is the ninth-largest country in the European Union."
+    },
+    {
+      "label": "Currency",
+      "value": "Lev (BGN)",
+      "icon": "Coffee",
+      "description": "The official currency of Bulgaria.",
+      "detail": "The Bulgarian Lev is pegged to the Euro at a rate of 1.955 BGN = 1 EUR."
+    },
+    {
+      "label": "Languages",
+      "value": "Bulgarian",
+      "icon": "Eye",
+      "description": "The primary language spoken in Bulgaria.",
+      "detail": "Romanian is also spoken by a significant minority population in the country's western regions."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Bulgaria",
+    "description": "Bulgaria experiences a temperate continental climate with four distinct seasons. Summers are warm and sunny, while winters are cold and snowy, particularly in the mountainous regions. Rainfall is relatively evenly distributed throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March - May",
+        "description": "A time of renewal and blossoming, with wildflowers carpeting the meadows and forests.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Increased rainfall",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Wildlife watching"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June - August",
+        "description": "Warm and sunny days, ideal for outdoor activities and exploring the countryside.",
+        "keyFeatures": [
+          "High temperatures",
+          "Long daylight hours",
+          "Festivals and events"
+        ],
+        "activities": [
+          "Swimming",
+          "Sunbathing",
+          "Hiking",
+          "Camping",
+          "Water sports"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September - November",
+        "description": "Crisp air, colorful foliage, and a sense of tranquility.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Falling leaves",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting",
+          "Visiting vineyards"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December - February",
+        "description": "Cold and snowy conditions, perfect for skiing and snowboarding.",
+        "keyFeatures": [
+          "Low temperatures",
+          "Snowfall",
+          "Winter sports"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating",
+          "Visiting Christmas markets"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Rila Mountains",
+      "category": "Mountain Range",
+      "description": "The Rila Mountains are the highest and most extensive mountain range in Bulgaria, home to the iconic Rila Monastery and a diverse array of flora and fauna. They offer breathtaking views and challenging hiking trails.",
+      "detailedDescription": "The Rila Mountains are part of the Balkan Mountains and are a UNESCO World Heritage Site. The area is known for its glacial lakes, dense forests, and abundant wildlife, including brown bears and wolves.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Rila Monastery",
+        "Seven Rila Lakes",
+        "Musala Peak"
+      ],
+      "viewingTips": [
+        "Bring appropriate hiking gear",
+        "Check weather conditions before heading out",
+        "Respect wildlife"
+      ],
+      "scientificData": {
+        "Height": "2925m (Musala Peak)",
+        "Area": "2430 sq km",
+        "ElevationRange": "1319m - 2925m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Black Sea Coast",
+      "category": "Coastal Region",
+      "description": "Bulgaria's Black Sea coast offers a beautiful blend of sandy beaches, charming seaside resorts, and historic towns. It's a popular destination for swimming, sunbathing, and water sports.",
+      "detailedDescription": "The Black Sea coast is characterized by its long sandy beaches, crystal-clear waters, and diverse marine life. Sunny Beach and Golden Sands are two of the most popular resort towns.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Sunny Beach",
+        "Golden Sands",
+        "Varna",
+        "Nessebar"
+      ],
+      "viewingTips": [
+        "Book accommodation in advance during peak season",
+        "Protect the marine environment",
+        "Try local seafood"
+      ],
+      "scientificData": {
+        "Length": "371 km",
+        "AverageDepth": "50m",
+        "WaterTemperature": "20-28°C"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Pirin National Park",
+      "category": "National Park",
+      "description": "Pirin National Park is a stunning mountain park known for its dramatic peaks, deep gorges, and pristine alpine lakes. It's a paradise for hikers and nature lovers.",
+      "detailedDescription": "The park is home to a variety of plant and animal species, including the Balkan lynx and brown bear. The Seven Rila Lakes are a particularly popular attraction within the park.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Seven Rila Lakes",
+        "Veliko Pole",
+        "Banderishte"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Carry plenty of water and snacks",
+        "Be aware of changing weather conditions"
+      ],
+      "scientificData": {
+        "Area": "342 sq km",
+        "ElevationRange": "1470m - 2914m",
+        "AverageAltitude": "1824m"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Bulgarian Ecosystems",
+    "overview": "Bulgaria boasts a rich and diverse range of ecosystems, from the high-altitude mountains to the Black Sea coast and the vast plains of the Danubian Plain. These ecosystems support a remarkable variety of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 9
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Bulgaria is covered by extensive forests, primarily consisting of deciduous trees such as oak, beech, and maple.",
+        "statistics": [
+          {
+            "category": "Forest Cover",
+            "count": "33%",
+            "details": "Approximately 33% of Bulgaria's land area is covered by forests."
+          },
+          {
+            "category": "Tree Species",
+            "count": "120",
+            "details": "Over 120 different tree species can be found in Bulgarian forests."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Beech",
+            "status": "Common",
+            "significance": "A dominant species in Bulgarian forests, providing habitat for a wide range of animals."
+          },
+          {
+            "name": "European Oak",
+            "status": "Common",
+            "significance": "An important source of timber and food for wildlife."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Reforestation programs",
+          "Protected areas",
+          "Sustainable forestry practices"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "Bulgaria is home to a network of wetlands, including marshes, swamps, and reed beds, which are vital habitats for migratory birds and other wildlife.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "1.8%",
+            "details": "Approximately 1.8% of Bulgaria's land area is covered by wetlands."
+          },
+          {
+            "category": "Bird Species",
+            "count": "200+",
+            "details": "Over 200 bird species rely on Bulgarian wetlands for breeding and feeding."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "White Stork",
+            "status": "Near Threatened",
+            "significance": "A migratory bird that breeds in Bulgarian wetlands."
+          },
+          {
+            "name": "Black Spoonbill",
+            "status": "Vulnerable",
+            "significance": "A rare bird that visits Bulgarian wetlands during the winter months."
+          }
+        ],
+        "threats": [
+          "Drainage",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration projects",
+          "Protected areas",
+          "Water management strategies"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Bulgaria",
+    "description": "Bulgaria offers a wide range of outdoor activities for all interests and skill levels, from hiking and cycling to water sports and wildlife watching.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Bulgaria's stunning mountain landscapes and scenic trails.",
+        "activities": [
+          {
+            "name": "Rila Mountains Hiking",
+            "difficulty": "Moderate",
+            "season": "June - September",
+            "duration": "1-7 days",
+            "description": "Hike to the Seven Rila Lakes, climb Musala Peak, or explore the numerous trails in the Rila Mountains.",
+            "bestLocations": [
+              "Seven Rila Lakes",
+              "Musala Peak",
+              "Banderishte"
+            ],
+            "requirements": "Sturdy hiking boots, backpack, water, snacks, map, compass",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your plans",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Pirin National Park Hiking",
+            "difficulty": "Moderate to Hard",
+            "season": "June - September",
+            "duration": "2-5 days",
+            "description": "Discover the dramatic landscapes of Pirin National Park, with trails for all levels of experience.",
+            "bestLocations": [
+              "Seven Rila Lakes",
+              "Veliko Pole"
+            ],
+            "requirements": "Sturdy hiking boots, backpack, water, snacks, map, compass",
+            "safety": [
+              "Be aware of steep terrain",
+              "Carry a first-aid kit"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy swimming, sunbathing, and water sports along Bulgaria's beautiful Black Sea coast.",
+        "activities": [
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "June - September",
+            "duration": "Variable",
+            "description": "Relax on the sandy beaches and take a refreshing dip in the Black Sea.",
+            "bestLocations": [
+              "Sunny Beach",
+              "Golden Sands",
+              "Nessebar"
+            ],
+            "requirements": "Swimsuit, towel, sunscreen",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Windsurfing",
+            "difficulty": "Moderate",
+            "season": "June - September",
+            "duration": "Variable",
+            "description": "Catch the wind and ride the waves along the Black Sea coast.",
+            "bestLocations": [
+              "Sunny Beach",
+              "Golden Sands"
+            ],
+            "requirements": "Windsurfing board, sail, wetsuit",
+            "safety": [
+              "Take a lesson from a qualified instructor",
+              "Check wind conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm coat, hat, gloves, scarf, waterproof boots",
+        "yearRound": "Layers of clothing, comfortable shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Sturdy hiking boots, map, compass, trekking poles",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a first-aid kit",
+        "Be aware of weather conditions",
+        "Respect wildlife"
+      ]
+    }
+  }
+}

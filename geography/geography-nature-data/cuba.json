@@ -1,0 +1,373 @@
+{
+  "name": "Cuba",
+  "region": "Caribbean",
+  "description": "Cuba, an island nation in the Caribbean Sea, boasts a rich history, vibrant culture, and stunning natural beauty. From the turquoise waters of the Caribbean to the rugged peaks of the Sierra Maestra mountains, Cuba offers a diverse range of landscapes and experiences. The country’s unique blend of Spanish, African, and indigenous influences is reflected in its music, art, and cuisine.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Havana",
+      "icon": "MapPin",
+      "description": "The historic capital of Cuba, a UNESCO World Heritage site.",
+      "detail": "Havana is renowned for its colonial architecture, vibrant nightlife, and rich cultural heritage."
+    },
+    {
+      "label": "Population",
+      "value": "11.23 Million",
+      "icon": "Users",
+      "description": "Cuba's population is a diverse mix of ethnicities.",
+      "detail": "The majority of the population resides in urban areas, particularly Havana and Santiago de Cuba."
+    },
+    {
+      "label": "Area",
+      "value": "109,884 sq km (42,441 sq mi)",
+      "icon": "Globe",
+      "description": "Cuba is the largest island in the Caribbean.",
+      "detail": "It is geographically diverse, encompassing plains, mountains, and coastal regions."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "ArrowRight",
+      "description": "Spanish is the official language of Cuba.",
+      "detail": "However, Cuban Creole (Cuban Spanish) is widely spoken and has unique characteristics."
+    },
+    {
+      "label": "Currency",
+      "value": "Cuban Peso (CUP)",
+      "icon": "Coffee",
+      "description": "The official currency of Cuba.",
+      "detail": "The economy is undergoing significant changes, and access to foreign currency can be challenging."
+    },
+    {
+      "label": "Independence",
+      "value": "1898",
+      "icon": "Calendar",
+      "description": "Cuba gained independence from Spain in 1898.",
+      "detail": "This event marked a pivotal moment in Cuban history and shaped the nation's identity."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Cuba experiences a tropical climate with consistent warmth and humidity throughout the year. The country is influenced by trade winds and the warm Caribbean Current.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is hot and humid, with frequent afternoon showers.",
+        "keyFeatures": [
+          "High humidity",
+          "Afternoon thunderstorms",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Beach vacations",
+          "Water sports",
+          "Exploring cities"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings a gradual decrease in humidity and rainfall.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Pleasant temperatures",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is the dry season, with sunny skies and comfortable temperatures.",
+        "keyFeatures": [
+          "Dry weather",
+          "Mild temperatures",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Beach vacations",
+          "Exploring the countryside",
+          "Visiting historical sites"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a return of humidity and increased rainfall.",
+        "keyFeatures": [
+          "Increasing humidity",
+          "Warm temperatures",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Wildlife viewing"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Sian Ka'an Biosphere Reserve",
+      "category": "Coastal Ecosystem",
+      "description": "A vast, protected area encompassing mangrove forests, lagoons, and coral reefs along the Yucatan Peninsula's Caribbean coast. It's a crucial habitat for diverse wildlife and a vital part of the Mesoamerican Barrier Reef System.",
+      "detailedDescription": "Sian Ka'an is a UNESCO World Heritage Site and a biodiversity hotspot. Its intricate network of waterways provides refuge for numerous species of birds, marine life, and terrestrial animals. The reserve offers opportunities for eco-tourism, research, and conservation.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "Bacalar Lagoon",
+        "Rio Muy",
+        "Laguna de Manatee"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching",
+        "Wear lightweight clothing and insect repellent",
+        "Respect the natural environment"
+      ],
+      "scientificData": {
+        "Area": "130,917 ha",
+        "Biodiversity": "Over 700 species of plants and animals"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Escambray Mountains (Sierra Maestra)",
+      "category": "Mountain Range",
+      "description": "A rugged mountain range in central Cuba, known for its dense forests, waterfalls, and rich biodiversity. It played a significant role in the Cuban Revolution.",
+      "detailedDescription": "The Escambray Mountains are a haven for endemic species and offer challenging hiking trails. The region's isolation has preserved its pristine natural beauty and provides a glimpse into Cuba's pre-Columbian past.  The mountains are home to diverse flora and fauna, including jaguars, Cuban toads, and numerous bird species.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Valle de los Ingenios",
+        "Trinidad",
+        "Santuario de la Virgen de la Cueva"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear sturdy hiking boots",
+        "Bring plenty of water"
+      ],
+      "scientificData": {
+        "Elevation": "1,300 m (4,265 ft)",
+        "Forest Cover": "60%"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Cienfuegos Bay",
+      "category": "Coastal Bay",
+      "description": "A stunning bay on Cuba's southern coast, renowned for its turquoise waters, white-sand beaches, and lush vegetation.",
+      "detailedDescription": "Cienfuegos Bay is a UNESCO World Heritage Site and a popular destination for tourists and locals alike. The bay is home to a diverse array of marine life, including dolphins, manatees, and colorful fish. The surrounding area is dotted with charming colonial towns and historic plantations.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Trinidad",
+        "Cienfuegos",
+        "Santiago de Cuba"
+      ],
+      "viewingTips": [
+        "Take a boat tour to explore the bay",
+        "Snorkel or dive in the clear waters",
+        "Relax on the beach"
+      ],
+      "scientificData": {
+        "Water Temperature": "24-28°C (75-82°F)",
+        "Coral Reefs": "Extensive coral reefs support diverse marine life"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Cuban Ecosystems",
+    "overview": "Cuba’s ecosystems are remarkably diverse, ranging from tropical rainforests and wetlands to dry scrublands and coastal environments. These ecosystems support a rich array of plant and animal life, many of which are endemic to the island.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Endemic Flora",
+        "icon": "Leaf",
+        "description": "Cuba is home to a significant number of plant species found nowhere else in the world.",
+        "statistics": [
+          {
+            "category": "Endemic Plants",
+            "count": "Over 1,000",
+            "details": "Approximately 20% of Cuba's plant species are endemic."
+          },
+          {
+            "category": "Medicinal Plants",
+            "count": "150+",
+            "details": "Many plants have traditional medicinal uses."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Durleya cubensis",
+            "status": "Endangered",
+            "significance": "A rare succulent plant found only in Cuba."
+          },
+          {
+            "name": "Pitcairnia cubensis",
+            "status": "Vulnerable",
+            "significance": "A unique palm species endemic to Cuba."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Illegal collection"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Seed banking",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Endemic Fauna",
+        "icon": "Bird",
+        "description": "Cuba boasts a unique array of animal species, including several endemic reptiles and birds.",
+        "statistics": [
+          {
+            "category": "Endemic Birds",
+            "count": "Over 40",
+            "details": "Cuba is a birdwatcher's paradise."
+          },
+          {
+            "category": "Endemic Reptiles",
+            "count": "10+",
+            "details": "Several lizard and snake species are found only in Cuba."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Cuban Trogon",
+            "status": "Vulnerable",
+            "significance": "A brightly colored trogon endemic to Cuba."
+          },
+          {
+            "name": "Hispaniolan Hutia",
+            "status": "Endangered",
+            "significance": "A small rodent found only in Cuba."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Introduced species"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Species recovery programs",
+          "Anti-poaching patrols"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Cuban Adventures",
+    "description": "Cuba offers a wide range of activities for travelers of all interests and abilities.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Cuba's diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Sierra Maestra Trek",
+            "difficulty": "Hard",
+            "season": "November - April",
+            "duration": "3-7 days",
+            "description": "A challenging trek through the heart of the Sierra Maestra mountains.",
+            "bestLocations": [
+              "Valle de los Ingenios",
+              "Trinidad"
+            ],
+            "requirements": "Good physical fitness, hiking boots, water bottle",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of wildlife",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Viñales Valley Hike",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "Half-day to Full-day",
+            "description": "Hike through the stunning landscapes of the Viñales Valley, known for its mogotes (limestone hills).",
+            "bestLocations": [
+              "Viñales Valley"
+            ],
+            "requirements": "Comfortable shoes, sunscreen, hat",
+            "safety": [
+              "Stay on marked trails",
+              "Drink plenty of water"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of the Caribbean Sea.",
+        "activities": [
+          {
+            "name": "Scuba Diving in Cienfuegos Bay",
+            "difficulty": "Easy",
+            "season": "December - April",
+            "duration": "Half-day",
+            "description": "Explore the vibrant coral reefs and marine life of Cienfuegos Bay.",
+            "bestLocations": [
+              "Cienfuegos Bay"
+            ],
+            "requirements": "Snorkeling gear or scuba certification",
+            "safety": [
+              "Dive with a certified instructor",
+              "Follow dive guidelines"
+            ]
+          },
+          {
+            "name": "Kayaking in Bacalar Lagoon",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half-day",
+            "description": "Paddle through the stunning turquoise waters of Bacalar Lagoon.",
+            "bestLocations": [
+              "Bacalar Lagoon"
+            ],
+            "requirements": "Kayak, life vest",
+            "safety": [
+              "Wear sunscreen",
+              "Stay hydrated"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, sweater, jacket, rain gear",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), currency, adapter",
+        "hiking": "Hiking boots, backpack, water bottle, map",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Be aware of your surroundings",
+        "Drink bottled water"
+      ]
+    }
+  }
+}

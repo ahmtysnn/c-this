@@ -1,0 +1,339 @@
+{
+  "name": "Northern Mariana Islands",
+  "region": "Oceania",
+  "description": "The Northern Mariana Islands are a U.S. territory located in the western Pacific Ocean, approximately 170 miles (274 km) south of Japan and 1,400 miles (2,253 km) north of Guam. Comprising seven principal islands – Saipan, Tinian, Rota, Chamorro, Pagan, Guadalupe, and Agrihan – the islands boast a unique blend of Chamorro culture, American influences, and stunning natural beauty. The islands are characterized by rugged limestone cliffs, pristine beaches, lush tropical forests, and vibrant coral reefs, making them a popular destination for tourism and a haven for diverse marine life.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Saipan",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Saipan offers a mix of modern amenities and historical landmarks.",
+      "detail": "Saipan is the largest and most populated island, serving as the political and economic center of the Northern Mariana Islands."
+    },
+    {
+      "label": "Population",
+      "value": "58,000",
+      "icon": "Users",
+      "description": "The population is a blend of native Chamorro and American residents.",
+      "detail": "The majority of the population identifies as Chamorro, with a significant American presence due to historical ties and tourism."
+    },
+    {
+      "label": "Currency",
+      "value": "US Dollar (USD)",
+      "icon": "Coffee",
+      "description": "The official currency is the United States Dollar.",
+      "detail": "As a U.S. territory, the Northern Mariana Islands use the USD, offering stability and ease of transactions."
+    },
+    {
+      "label": "Official Language",
+      "value": "Chamorro and English",
+      "icon": "Globe",
+      "description": "Chamorro is the indigenous language, while English is widely spoken.",
+      "detail": "Learning a few basic Chamorro phrases is greatly appreciated by the local community."
+    },
+    {
+      "label": "Time Zone",
+      "value": "HST (UTC-11)",
+      "icon": "Clock",
+      "description": "The Northern Mariana Islands observe Hawaii Standard Time.",
+      "detail": "Be aware of the time difference when planning travel."
+    },
+    {
+      "label": "Area",
+      "value": "46.4 square miles (120 km²)",
+      "icon": "MapPin",
+      "description": "The total land area of the islands is relatively small.",
+      "detail": "Despite its small size, the islands offer a diverse range of landscapes and ecosystems."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "The Northern Mariana Islands enjoy a tropical climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, particularly during the wet season, but the islands also experience periods of sunshine and dry weather.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "Summer brings consistently warm temperatures and high humidity, with average highs around 86°F (30°C). Rainfall is frequent, often in the form of afternoon showers.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent showers",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Swimming",
+          "Snorkeling",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Fall (September - November)",
+        "period": "September to November",
+        "description": "Fall sees a gradual decrease in rainfall and slightly cooler temperatures. The humidity remains high, but the weather is generally more pleasant than during the summer months.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Pleasant temperatures",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Diving",
+          "Exploring waterfalls"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "Winter is the coolest and driest season, with average highs around 82°F (28°C). While temperatures are cooler, the weather is still generally warm and sunny.",
+        "keyFeatures": [
+          "Coolest temperatures",
+          "Driest season",
+          "Sunny days"
+        ],
+        "activities": [
+          "Scuba diving",
+          "Fishing",
+          "Island tours"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March to May",
+        "description": "Spring brings a return to warmer temperatures and increased rainfall. The islands are lush and vibrant during this season.",
+        "keyFeatures": [
+          "Increasing rainfall",
+          "Warm temperatures",
+          "Lush vegetation"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Exploring the rainforest"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Tropical Island Beaches",
+      "category": "Coastal",
+      "description": "The Northern Mariana Islands boast stunning beaches with pristine white sand and crystal-clear turquoise waters. These beaches are perfect for swimming, sunbathing, and enjoying the tropical scenery.",
+      "detailedDescription": "From the popular beaches of Tanapag and Chalan Pago on Saipan to the secluded coves of Rota, the islands offer a diverse range of coastal landscapes. The coral reefs surrounding the islands provide excellent snorkeling and diving opportunities.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Saipan",
+        "Rota",
+        "Tinian"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Respect marine life",
+        "Check tide charts"
+      ],
+      "scientificData": {
+        "Sand Grain Size": "Fine to Medium",
+        "Water Temperature": "26-29°C"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Chamorro Reefs",
+      "category": "Marine",
+      "description": "These vibrant coral reefs are a major attraction, teeming with diverse marine life and offering exceptional diving and snorkeling experiences.",
+      "detailedDescription": "The Chamorro Reefs are a UNESCO World Heritage Site, recognized for their exceptional biodiversity and ecological significance. The reefs provide a crucial habitat for numerous fish species, sea turtles, and other marine organisms.",
+      "bestTime": "Summer & Winter",
+      "bestLocations": [
+        "Saipan",
+        "Tinian"
+      ],
+      "viewingTips": [
+        "Use reef-safe sunscreen",
+        "Respect the coral",
+        "Hire a certified guide"
+      ],
+      "scientificData": {
+        "Coral Coverage": "60%",
+        "Fish Species": "Over 300"
+      },
+      "icon": "Fish"
+    },
+    {
+      "id": 3,
+      "name": "Mount Tapu-Tapu",
+      "category": "Mountain",
+      "description": "Mount Tapu-Tapu is the highest point in the Northern Mariana Islands, offering panoramic views of the surrounding islands and ocean.",
+      "detailedDescription": "This extinct volcano is a significant landmark and a popular hiking destination. The trail to the summit is challenging but rewarding, providing breathtaking vistas and a glimpse into the islands' geological history.",
+      "bestTime": "Spring & Fall",
+      "bestLocations": [
+        "Saipan"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking shoes",
+        "Bring plenty of water",
+        "Check weather conditions"
+      ],
+      "scientificData": {
+        "Height": "1,553 meters (5,100 feet)",
+        "Volcanic Type": "Stratovolcano"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Marine Biodiversity",
+    "icon": "Fish",
+    "description": "The Northern Mariana Islands are a biodiversity hotspot, particularly for marine life, due to their extensive coral reefs and diverse marine ecosystems.",
+    "statistics": [
+      {
+        "category": "Coral Species",
+        "count": "Over 60",
+        "details": "A wide variety of coral species, including hard corals and soft corals, contribute to the vibrant reef ecosystems."
+      },
+      {
+        "category": "Fish Species",
+        "count": "Over 300",
+        "details": "The reefs support a diverse range of fish species, from small reef fish to larger pelagic species."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Green Sea Turtle",
+        "status": "Endangered",
+        "significance": "A keystone species in the marine ecosystem, playing a vital role in maintaining reef health."
+      },
+      {
+        "name": "Hawksbill Turtle",
+        "status": "Vulnerable",
+        "significance": "Important for maintaining coral reef health through grazing on sponges."
+      }
+    ],
+    "threats": [
+      "Climate Change",
+      "Pollution",
+      "Overfishing"
+    ],
+    "conservationEfforts": [
+      "Marine Protected Areas",
+      "Coral Reef Restoration Projects",
+      "Sustainable Fishing Practices"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Coastal Ecosystems",
+    "overview": "The Northern Mariana Islands are characterized by a diverse range of coastal ecosystems, including coral reefs, mangrove forests, seagrass beds, and sandy beaches. These ecosystems provide essential habitat for numerous marine species and play a crucial role in protecting the islands from erosion and storm surges.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Biodiversity",
+        "icon": "Fish",
+        "description": "As detailed above, the marine ecosystems are incredibly diverse and vital to the islands' health.",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [],
+        "conservationEfforts": []
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures",
+    "description": "The Northern Mariana Islands offer a wide range of outdoor activities for adventure seekers and nature enthusiasts.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the islands' rugged terrain and lush rainforests on a variety of hiking trails.",
+        "activities": [
+          {
+            "name": "Mount Tapu-Tapu Hike",
+            "difficulty": "Hard",
+            "season": "Spring & Fall",
+            "duration": "4-6 hours",
+            "description": "A challenging hike to the summit of Mount Tapu-Tapu, offering panoramic views.",
+            "bestLocations": [
+              "Saipan"
+            ],
+            "requirements": "Sturdy hiking shoes, water, sunscreen",
+            "safety": [
+              "Be aware of steep drop-offs",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Lisan Island Trail",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "A scenic trail through the rainforest, leading to a beautiful waterfall.",
+            "bestLocations": [
+              "Saipan"
+            ],
+            "requirements": "Hiking boots, insect repellent",
+            "safety": [
+              "Watch for slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in the crystal-clear waters surrounding the islands.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "Saipan",
+              "Tinian"
+            ],
+            "requirements": "Certification, diving equipment",
+            "safety": [
+              "Follow dive guidelines",
+              "Check visibility"
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Discover the beauty of the coral reefs from the surface.",
+            "bestLocations": [
+              "Saipan",
+              "Rota"
+            ],
+            "requirements": "Snorkel and mask",
+            "safety": [
+              "Be mindful of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Layers of clothing, sweater, jacket, waterproof pants",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, flashlight, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of the weather",
+        "Respect local customs"
+      ]
+    }
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "name": "Belgium",
+  "region": "Europe",
+  "description": "Belgium, officially the Kingdom of Belgium, is a landlocked country in Western Europe. Known for its rich history, diverse culture, and delicious cuisine, Belgium boasts a unique blend of medieval architecture, vibrant cities, and picturesque countryside. It’s a small but incredibly influential nation, famed for its beer, chocolate, and contributions to art and philosophy.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Brussels",
+      "icon": "MapPin",
+      "description": "The political and administrative heart of Belgium.",
+      "detail": "Brussels is home to the headquarters of the European Union and NATO."
+    },
+    {
+      "label": "Population",
+      "value": "11.5 million",
+      "icon": "Users",
+      "description": "Belgium has a relatively high population density.",
+      "detail": "The population is diverse, with significant French, Flemish, and German-speaking communities."
+    },
+    {
+      "label": "Area",
+      "value": "30,528 km²",
+      "icon": "Globe",
+      "description": "Belgium is a small country, easily traversed.",
+      "detail": "It’s bordered by France, Germany, Luxembourg, and the Netherlands."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Belgium uses the Euro as its currency.",
+      "detail": "The Belgian economy is highly developed and diversified."
+    },
+    {
+      "label": "Official Languages",
+      "value": "Dutch, French, German",
+      "icon": "Navigation",
+      "description": "Belgium has three official languages reflecting its diverse regions.",
+      "detail": "Dutch is spoken in Flanders (northern Belgium), French in Wallonia (southern Belgium), and German in a small area of eastern Belgium."
+    }
+  ],
+  "climateData": {
+    "title": "Belgium's Temperate Climate",
+    "description": "Belgium experiences a temperate maritime climate, characterized by relatively mild winters and cool summers. Rainfall is evenly distributed throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming and the return of vibrant greenery. Wildflowers bloom across the countryside.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June - August",
+        "description": "Summer is warm and sunny, with average temperatures around 20-25°C. It’s a popular time for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Sunny days",
+          "Long daylight hours"
+        ],
+        "activities": [
+          "Swimming",
+          "Picnics",
+          "Outdoor festivals"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and stunning foliage displays. The landscape transforms into a tapestry of reds, oranges, and yellows.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Cool temperatures",
+          "Decreasing daylight hours"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Harvest festivals"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December - February",
+        "description": "Winter is cold and often damp, with occasional snowfall. Temperatures typically range from 0-5°C.",
+        "keyFeatures": [
+          "Cold temperatures",
+          "Occasional snow",
+          "Short daylight hours"
+        ],
+        "activities": [
+          "Ice skating",
+          "Visiting Christmas markets",
+          "Cozy indoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "The Ardennes Forest",
+      "category": "Forest",
+      "description": "The Ardennes Forest is a vast, ancient woodland stretching across much of southern Belgium. It’s a haven for wildlife and offers stunning scenery for hikers and nature lovers.",
+      "detailedDescription": "This temperate deciduous forest is characterized by its diverse tree species, including beech, oak, and ash. It’s also home to a variety of mammals, birds, and insects.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Houtem",
+        "Dinant",
+        "Marche-en-Famenne"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring waterproof clothing",
+        "Respect the wildlife"
+      ],
+      "scientificData": {
+        "Height": "300-600m",
+        "Age": "Several hundred years old"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "The Caves of Han",
+      "category": "Cave System",
+      "description": "The Caves of Han are a remarkable network of limestone caves located in the Belgian Ardennes. They are renowned for their stunning stalactites and stalagmites.",
+      "detailedDescription": "These caves were formed over millions of years by the dissolution of limestone. They offer a fascinating glimpse into the geological history of the region.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Han"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes",
+        "Bring a flashlight",
+        "Book a guided tour"
+      ],
+      "scientificData": {
+        "Length": "13 km",
+        "Depth": "100m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "The Coast of Zeeland",
+      "category": "Coastal",
+      "description": "The Zeeland coast offers a unique blend of sandy beaches, dunes, and mudflats. It's a popular destination for watersports and birdwatching.",
+      "detailedDescription": "The coastline is shaped by the influence of the North Sea and the Zwin estuary. The area is rich in biodiversity, with numerous bird species migrating through the region.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Knokke-Heist",
+        "Nieuwpoort"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching",
+        "Check the tide times",
+        "Wear sunscreen"
+      ],
+      "scientificData": {
+        "Length": "50 km",
+        "Average Height": "20m"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Belgium's Diverse Ecosystems",
+    "overview": "Belgium boasts a variety of ecosystems, ranging from dense forests and rolling hills to coastal wetlands and agricultural landscapes. These ecosystems support a rich biodiversity and provide essential services.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forest Ecosystems",
+        "icon": "Trees",
+        "description": "Belgium's forests play a crucial role in carbon sequestration, water regulation, and habitat provision.",
+        "statistics": [
+          {
+            "category": "Tree Cover",
+            "count": "28%",
+            "details": "Approximately 28% of Belgium's land area is covered by forests."
+          },
+          {
+            "category": "Species Richness",
+            "count": "150",
+            "details": "Over 150 different tree species can be found in Belgian forests."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Beech",
+            "status": "Common",
+            "significance": "A dominant species in many Belgian forests."
+          },
+          {
+            "name": "Red Squirrel",
+            "status": "Vulnerable",
+            "significance": "An important indicator of forest health."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Reforestation programs",
+          "Sustainable forestry practices"
+        ]
+      },
+      {
+        "name": "Wetland Ecosystems",
+        "icon": "Droplets",
+        "description": "Belgium's wetlands, including marshes and fens, are vital for flood control, water purification, and bird habitat.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "10%",
+            "details": "Approximately 10% of Belgium's land area is designated as wetland."
+          },
+          {
+            "category": "Bird Species",
+            "count": "200+",
+            "details": "Over 200 bird species rely on Belgian wetlands for breeding and migration."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Black-tailed Godwit",
+            "status": "Near Threatened",
+            "significance": "A key migratory bird species."
+          },
+          {
+            "name": "European Marsh Frog",
+            "status": "Vulnerable",
+            "significance": "A specialist wetland amphibian."
+          }
+        ],
+        "threats": [
+          "Drainage",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration projects",
+          "Water quality management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Belgium",
+    "description": "Belgium offers a wide range of outdoor activities for all interests and abilities.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Belgium's scenic trails and discover hidden gems.",
+        "activities": [
+          {
+            "name": "The Ardennes Trail",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "3-5 hours",
+            "description": "A challenging hike through the heart of the Ardennes Forest.",
+            "bestLocations": [
+              "Houtem",
+              "Dinant"
+            ],
+            "requirements": "Sturdy hiking boots, waterproof clothing",
+            "safety": [
+              "Inform someone of your route",
+              "Carry a map and compass"
+            ]
+          },
+          {
+            "name": "Coastal Walk",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "2-4 hours",
+            "description": "Enjoy a leisurely stroll along the Zeeland coast.",
+            "bestLocations": [
+              "Knokke-Heist"
+            ],
+            "requirements": "Sunscreen, hat",
+            "safety": [
+              "Be aware of tides",
+              "Stay on marked paths"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water-based activities along Belgium's coastline and rivers.",
+        "activities": [
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "2-3 hours",
+            "description": "Catch some waves at the Zeeland coast.",
+            "bestLocations": [
+              "Knokke-Heist"
+            ],
+            "requirements": "Surfboard, wetsuit",
+            "safety": [
+              "Check wave conditions",
+              "Use a leash"
+            ]
+          },
+          {
+            "name": "Canoeing",
+            "difficulty": "Easy",
+            "season": "Spring - Autumn",
+            "duration": "1-3 hours",
+            "description": "Explore the canals and rivers of Belgium by canoe.",
+            "bestLocations": [
+              "Bruges",
+              "Antwerp"
+            ],
+            "requirements": "Canoe, paddle",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of boat traffic"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen",
+        "winter": "Warm coat, hat, gloves, waterproof boots",
+        "yearRound": "Layers of clothing, comfortable shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, map, compass, headlamp",
+        "photography": "Camera, extra batteries, tripod"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a mobile phone",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

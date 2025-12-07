@@ -1,0 +1,377 @@
+{
+  "name": "Martinique",
+  "region": "Caribbean, France",
+  "description": "Martinique is the largest island in the Lesser Antilles, a French overseas region and department. Known for its dramatic volcanic landscapes, lush rainforests, stunning beaches, and vibrant culture, it offers a unique blend of Caribbean charm and European sophistication. The island boasts a diverse ecosystem, rich biodiversity, and a thriving tourism industry.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Fort-de-France",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Martinique.",
+      "detail": "A vibrant port city with a rich history and a lively cultural scene."
+    },
+    {
+      "label": "Population",
+      "value": "381,703",
+      "icon": "Users",
+      "description": "The population of Martinique.",
+      "detail": "A mix of Creole, French, and other European influences."
+    },
+    {
+      "label": "Area",
+      "value": "1,128 km²",
+      "icon": "Globe",
+      "description": "The total area of the island.",
+      "detail": "Larger than many Caribbean islands, offering diverse landscapes."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Navigation",
+      "description": "The official currency of Martinique.",
+      "detail": "As part of France, Martinique uses the Euro."
+    },
+    {
+      "label": "Language",
+      "value": "French, Creole",
+      "icon": "ArrowRight",
+      "description": "The primary languages spoken on the island.",
+      "detail": "Creole is widely spoken alongside French."
+    },
+    {
+      "label": "Elevation",
+      "value": "1397 m",
+      "icon": "Mountain",
+      "description": "The highest point on the island.",
+      "detail": "Mount Pelee, a dormant volcano, dominates the landscape."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Martinique enjoys a tropical climate with consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, particularly during the summer months.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "The hottest and wettest season, characterized by frequent showers and thunderstorms.",
+        "keyFeatures": [
+          "High humidity",
+          "Heavy rainfall",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Rainforest hikes",
+          "Waterfalls exploration"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September to November",
+        "description": "Rainfall gradually decreases, and temperatures remain warm.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Warm temperatures",
+          "Pleasant humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Snorkeling",
+          "Exploring coastal towns"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "The driest season, with sunny days and mild temperatures. A popular time for tourism.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Mild temperatures",
+          "Sunny days"
+        ],
+        "activities": [
+          "Beach activities",
+          "Exploring the interior",
+          "Cultural events"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March to May",
+        "description": "Temperatures begin to rise again, and rainfall increases slightly.",
+        "keyFeatures": [
+          "Increasing temperatures",
+          "Moderate rainfall",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Exploring botanical gardens"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Pelée",
+      "category": "Volcano",
+      "description": "Mount Pelée is a stratovolcano and the highest point on Martinique, rising to 1,397 meters. It’s known for its devastating 1902 eruption, which buried the city of Saint-Pierre. Today, it’s a popular destination for hiking and offers stunning views.",
+      "detailedDescription": "The volcano's slopes are covered in dense rainforest, supporting a unique ecosystem.  The crater lake, Lacroix, is a remarkable feature.",
+      "bestTime": "December - February",
+      "bestLocations": [
+        "Base of the volcano",
+        "Saint-Pierre (rebuilt city)"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Check weather conditions before ascending",
+        "Respect the volcanic environment"
+      ],
+      "scientificData": {
+        "Height": "1397 m",
+        "Age": "100,000 years (estimated)",
+        "VolcanicType": "Stratovolcano"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Tobouïron Natural Park",
+      "category": "Coastal Geological Formation",
+      "description": "Tobouïron is a dramatic coastal landscape carved by the erosion of the sea over millions of years. It features towering cliffs, sea caves, and a unique ecosystem.",
+      "detailedDescription": "The park is a UNESCO Biosphere Reserve and offers stunning views of the Caribbean Sea. The area is rich in marine life and provides excellent opportunities for snorkeling and diving.",
+      "bestTime": "April - June",
+      "bestLocations": [
+        "Cliffs overlooking the sea",
+        "Sea caves"
+      ],
+      "viewingTips": [
+        "Wear appropriate footwear for climbing",
+        "Bring waterproof gear for exploring caves",
+        "Respect the fragile coastal environment"
+      ],
+      "scientificData": {
+        "FormationAge": "2 million years",
+        "ErosionRate": "1 meter per year"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Carbet Falls",
+      "category": "Waterfall",
+      "description": "Carbet Falls is a series of cascading waterfalls located in the heart of Martinique's rainforest. It's a popular spot for swimming and picnicking.",
+      "detailedDescription": "The falls are surrounded by lush vegetation and offer a refreshing escape from the tropical heat. Several pools provide opportunities for swimming and relaxation.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Swimming pools at the base of the falls",
+        "Trails leading to the falls"
+      ],
+      "viewingTips": [
+        "Wear water shoes",
+        "Bring a towel and sunscreen",
+        "Respect the natural environment"
+      ],
+      "scientificData": {
+        "WaterfallHeight": "80 m",
+        "WaterFlowRate": "20 m³/s"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Rainforest Ecosystem",
+    "icon": "Trees",
+    "description": "Martinique’s rainforests are incredibly diverse, harboring a vast array of plant and animal species, many of which are endemic to the island.",
+    "statistics": [
+      {
+        "category": "Tree Species",
+        "count": "Over 300",
+        "details": "Including numerous endemic species of palms, figs, and hardwoods."
+      },
+      {
+        "category": "Bird Species",
+        "count": "Over 100",
+        "details": "Home to the Martinique Parrot (Psittacus martineaum), a critically endangered species."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Martinique Parrot",
+        "status": "Critically Endangered",
+        "significance": "A unique and endemic parrot species, facing severe threats due to habitat loss and poaching."
+      },
+      {
+        "name": "Golden Lion Tamarin",
+        "status": "Endangered",
+        "significance": "A small, brightly colored monkey found in the rainforests of Martinique."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Illegal wildlife trade",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Reforestation projects",
+      "Community-based conservation programs"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Martinique's Rainforest Ecosystem",
+    "overview": "Martinique’s rainforests represent a vital part of the island’s biodiversity and play a crucial role in regulating the climate. These ecosystems are characterized by high rainfall, dense vegetation, and a remarkable variety of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Rainforest Ecosystem",
+        "icon": "Trees",
+        "description": "The dominant ecosystem, characterized by dense vegetation and high biodiversity.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "Over 800",
+            "details": "Including numerous endemic species."
+          },
+          {
+            "category": "Animal Species",
+            "count": "Over 300",
+            "details": "A diverse range of mammals, birds, reptiles, and amphibians."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Deforestation",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Protected Areas",
+          "Sustainable Forestry Practices"
+        ]
+      },
+      {
+        "name": "Coastal Ecosystem",
+        "icon": "Waves",
+        "description": "The coastal areas of Martinique are home to diverse marine life and provide important habitats for seabirds and other animals.",
+        "statistics": [
+          {
+            "category": "Coral Reefs",
+            "count": "Extensive",
+            "details": "Supporting a rich diversity of marine species."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Pollution",
+          "Coastal Development"
+        ],
+        "conservationEfforts": [
+          "Marine Protected Areas",
+          "Coastal Cleanup Programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Martinique",
+    "description": "Martinique offers a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s diverse trails, from rainforest hikes to volcanic ascents.",
+        "activities": [
+          {
+            "name": "Pelee Volcano Trail",
+            "difficulty": "Moderate",
+            "season": "December - April",
+            "duration": "3-5 hours",
+            "description": "A challenging hike to the summit of Mount Pelée, offering panoramic views.",
+            "bestLocations": [
+              "Base of Mount Pelée"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Check weather conditions",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Carbet Falls Trail",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-2 hours",
+            "description": "A scenic trail leading to the Carbet Falls, perfect for a refreshing swim.",
+            "bestLocations": [
+              "Carbet Falls"
+            ],
+            "requirements": "Water shoes, towel",
+            "safety": [
+              "Be careful near the water"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of the Caribbean Sea with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "December - April",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Tobouïron",
+              "Anse Dufour"
+            ],
+            "requirements": "Snorkel gear, sunscreen",
+            "safety": [
+              "Swim with a buddy",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Sailing",
+            "difficulty": "Moderate",
+            "season": "December - April",
+            "duration": "Variable",
+            "description": "Charter a sailboat and explore the coastline.",
+            "bestLocations": [
+              "West Coast"
+            ],
+            "requirements": "Sailboat charter",
+            "safety": [
+              "Check weather conditions",
+              "Follow sailing regulations"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Layers, waterproof jacket, sweater",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Reusable water bottle, backpack, insect repellent",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Travel insurance",
+        "Emergency contact information",
+        "Basic first-aid knowledge"
+      ]
+    }
+  }
+}

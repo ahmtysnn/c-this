@@ -1,0 +1,339 @@
+{
+  "name": "Zimbabwe",
+  "region": "Southern Africa",
+  "description": "Zimbabwe, formerly Southern Rhodesia, is a landlocked country in Southern Africa known for its stunning landscapes, rich history, and vibrant culture. It’s a nation grappling with a complex past, marked by colonialism and liberation struggles, yet brimming with resilience and a burgeoning tourism industry. The country boasts diverse ecosystems, from the majestic Victoria Falls to the vast Zambezi River basin and the rolling hills of the Matobo National Park.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Harare",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Zimbabwe, a hub of commerce and government.",
+      "detail": "Harare is located in the north of the country and is experiencing rapid growth, though infrastructure challenges remain."
+    },
+    {
+      "label": "Population",
+      "value": "16.6 million",
+      "icon": "Users",
+      "description": "Zimbabwe's population is a mix of ethnic groups, primarily Shona and Ndebele.",
+      "detail": "The population density is relatively high, with most people residing in rural areas and urban centers."
+    },
+    {
+      "label": "Official Language",
+      "value": "Shona and English",
+      "icon": "Globe",
+      "description": "English is used in government, education, and business, while Shona is the most widely spoken indigenous language.",
+      "detail": "There are 16 officially recognized indigenous languages in Zimbabwe."
+    },
+    {
+      "label": "Currency",
+      "value": "Zimbabwean Dollar (ZWL)",
+      "icon": "Coffee",
+      "description": "The official currency, though its value fluctuates significantly.",
+      "detail": "The economy has faced significant challenges with hyperinflation in recent years."
+    },
+    {
+      "label": "Area",
+      "value": "390,757 sq km",
+      "icon": "MapPin",
+      "description": "Zimbabwe is a relatively small country in Southern Africa.",
+      "detail": "It borders Zambia to the north, Mozambique to the east, South Africa to the south and west, and Botswana to the northwest."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Zimbabwe",
+    "description": "Zimbabwe experiences a subtropical climate with variations across the country. The south is generally temperate, while the north is hotter and more humid. Rainfall is seasonal, with a distinct rainy season from November to March.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (November - March)",
+        "period": "November - March",
+        "description": "This is the rainy season, characterized by high humidity and frequent thunderstorms. Temperatures are generally warm to hot.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "River rafting",
+          "Hiking"
+        ]
+      },
+      {
+        "name": "Autumn (April - May)",
+        "period": "April - May",
+        "description": "The rainy season begins to subside, and temperatures start to cool down. The landscape is lush and green.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Cooler temperatures",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Bird watching",
+          "Safari",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Winter (June - August)",
+        "period": "June - August",
+        "description": "This is the dry season, with sunny days and cooler temperatures. It’s a popular time for tourism.",
+        "keyFeatures": [
+          "Dry conditions",
+          "Sunny days",
+          "Cool temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Game viewing"
+        ]
+      },
+      {
+        "name": "Spring (September - October)",
+        "period": "September - October",
+        "description": "Temperatures begin to rise again, and wildflowers bloom across the country. It’s a beautiful time to visit.",
+        "keyFeatures": [
+          "Rising temperatures",
+          "Wildflower blooms",
+          "Pleasant weather"
+        ],
+        "activities": [
+          "Walking safaris",
+          "Photography",
+          "Cultural festivals"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Victoria Falls",
+      "category": "Waterfall",
+      "description": "Known locally as 'Mosi-oa-Tunya' ('The Smoke That Thunders'), Victoria Falls is one of the world’s largest waterfalls, straddling the border between Zimbabwe and Zambia. The sheer volume of water cascading over the precipice creates a spectacular display of mist and spray.",
+      "detailedDescription": "The falls are formed by the Zambezi River plunging over a basalt cliff into a narrow gorge. The spray creates a perpetual rainbow, adding to the magical atmosphere.",
+      "bestTime": "Year-round, but particularly stunning during the rainy season (November - May)",
+      "bestLocations": [
+        "Zimbabwe side: Devil's Pool, Livingstone Island",
+        "Zambia side: Chobe National Park"
+      ],
+      "viewingTips": [
+        "Wear waterproof clothing",
+        "Bring binoculars for a closer view",
+        "Take a helicopter tour for a breathtaking perspective"
+      ],
+      "scientificData": {
+        "Height": "108 meters",
+        "Width": "1708 meters",
+        "FlowRate": "5000 cubic meters per second"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Matobo Hills",
+      "category": "Karst Landscape",
+      "description": "The Matobo Hills, a UNESCO World Heritage Site, are a dramatic landscape of granite kopjes (isolated rock outcrops) and ancient caves. They are renowned for their unique geological formations and rich cultural significance.",
+      "detailedDescription": "The hills are believed to be the burial place of many Shona Chiefs, and the caves contain ancient rock paintings dating back thousands of years. The area is also home to a significant population of black and white rhinos.",
+      "bestTime": "Year-round, but cooler months (May - October) are ideal for hiking.",
+      "bestLocations": [
+        "Bvumba Nature Reserve",
+        "White Rhino Sanctuary"
+      ],
+      "viewingTips": [
+        "Hire a local guide to learn about the history and geology",
+        "Wear sturdy hiking boots",
+        "Bring plenty of water"
+      ],
+      "scientificData": {
+        "Elevation": "1,076 meters",
+        "Age": "2.4 billion years"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Zimbabwe",
+    "overview": "Zimbabwe’s diverse ecosystems range from savannas and woodlands to wetlands and mountains, supporting a remarkable array of flora and fauna. Conservation efforts are crucial to protect these valuable ecosystems.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Savanna",
+        "icon": "Trees",
+        "description": "Dominating much of Zimbabwe, the savanna is characterized by grasslands interspersed with scattered trees and shrubs. It’s home to iconic African wildlife.",
+        "statistics": [
+          {
+            "category": "Grassland Area",
+            "count": "80%",
+            "details": "Approximately 80% of Zimbabwe's land is covered by savanna."
+          },
+          {
+            "category": "Wildlife Species",
+            "count": "500+",
+            "details": "Over 500 species of animals inhabit the savanna."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "A keystone species, vital for maintaining the savanna ecosystem."
+          },
+          {
+            "name": "African Lion",
+            "status": "Vulnerable",
+            "significance": "A top predator, playing a crucial role in regulating prey populations."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community-based conservation programs",
+          "Wildlife corridor development"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "Zimbabwe possesses a network of wetlands, including the Zambezi River floodplain and Lake Kariba, providing vital habitat for numerous species.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "10%",
+            "details": "Approximately 10% of Zimbabwe's land is covered by wetlands."
+          },
+          {
+            "category": "Bird Species",
+            "count": "600+",
+            "details": "Over 600 species of birds rely on wetlands for breeding and feeding."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Slaty Egret",
+            "status": "Near Threatened",
+            "significance": "A migratory bird that utilizes wetlands as a crucial stopover point."
+          },
+          {
+            "name": "African Skimmer",
+            "status": "Vulnerable",
+            "significance": "A specialist bird that feeds in shallow waters."
+          }
+        ],
+        "threats": [
+          "Drainage for agriculture",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration projects",
+          "Regulation of water use",
+          "Community awareness campaigns"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Zimbabwe",
+    "description": "Zimbabwe offers a wide range of activities for travelers, from wildlife safaris to cultural experiences and outdoor adventures.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Zimbabwe’s stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Matobo Hills Hiking",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-6 hours",
+            "description": "Hike through the dramatic granite kopjes of the Matobo Hills, discovering ancient caves and wildlife.",
+            "bestLocations": [
+              "Matobo Hills National Park"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of wildlife",
+              "Stick to marked trails"
+            ]
+          },
+          {
+            "name": "Vumba Mountains Hiking",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-4 hours",
+            "description": "Enjoy scenic hikes through the lush forests of the Vumba Mountains.",
+            "bestLocations": [
+              "Vumba Nature Reserve"
+            ],
+            "requirements": "Comfortable walking shoes, rain gear",
+            "safety": [
+              "Watch out for slippery trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Experience the thrill of water activities on Zimbabwe’s rivers and lakes.",
+        "activities": [
+          {
+            "name": "Zambezi River Rafting",
+            "difficulty": "Moderate",
+            "season": "November - March",
+            "duration": "1-3 days",
+            "description": "Raft down the Zambezi River, experiencing the adrenaline rush and stunning scenery.",
+            "bestLocations": [
+              "Livingstone Falls"
+            ],
+            "requirements": "Life jacket, rafting experience",
+            "safety": [
+              "Follow guide instructions",
+              "Be aware of river currents"
+            ]
+          },
+          {
+            "name": "Lake Kariba Fishing",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Cast a line in Lake Kariba, known for its abundant fish species.",
+            "bestLocations": [
+              "Lake Kariba"
+            ],
+            "requirements": "Fishing license, fishing gear",
+            "safety": [
+              "Follow fishing regulations",
+              "Be aware of weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, insect repellent"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), camera, binoculars",
+        "hiking": "Backpack, water bottle, first-aid kit",
+        "photography": "Camera with zoom lens, extra batteries"
+      },
+      "safety": [
+        "Travel insurance",
+        "Consult a doctor before traveling",
+        "Be aware of local customs"
+      ]
+    }
+  }
+}

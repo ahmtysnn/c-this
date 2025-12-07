@@ -1,0 +1,368 @@
+{
+  "name": "Portugal",
+  "region": "Europe",
+  "description": "Portugal, officially the Portuguese Republic, is a nation located on the Iberian Peninsula in Southwestern Europe. Known for its stunning coastline, historic cities, vibrant culture, and delicious cuisine, Portugal offers a diverse range of experiences. From the rolling hills of the Douro Valley to the dramatic cliffs of the Algarve, Portugal’s geography is as varied as its history.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "92,090 sq km (35,603 sq mi)",
+      "icon": "MapPin",
+      "description": "Portugal is the ninth-largest country in Europe.",
+      "detail": "This includes mainland Portugal and the Azores and Madeira islands."
+    },
+    {
+      "label": "Population",
+      "value": "10.34 million (2023)",
+      "icon": "Users",
+      "description": "Portugal has a population of over 10 million people.",
+      "detail": "The population density is approximately 112 people per sq km."
+    },
+    {
+      "label": "Capital",
+      "value": "Lisbon",
+      "icon": "Globe",
+      "description": "Lisbon is the largest city in Portugal.",
+      "detail": "It's a historic city with a rich maritime past."
+    },
+    {
+      "label": "Official Language",
+      "value": "Portuguese",
+      "icon": "ArrowRight",
+      "description": "Portuguese is a Romance language.",
+      "detail": "It has distinct dialects influenced by its history."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Portugal uses the Euro as its currency.",
+      "detail": "The currency code is EUR."
+    },
+    {
+      "label": "GDP",
+      "value": "258.37 billion (2022)",
+      "icon": "Clock",
+      "description": "Portugal has a developed economy.",
+      "detail": "It's a member of the European Union."
+    }
+  ],
+  "climateData": {
+    "title": "Portuguese Climate",
+    "description": "Portugal experiences a Mediterranean climate, characterized by hot, dry summers and mild, wet winters. However, there are regional variations due to its diverse geography.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Long, sunny days with high temperatures, especially in the south.",
+        "keyFeatures": [
+          "Hot weather",
+          "Low rainfall",
+          "Clear skies"
+        ],
+        "activities": [
+          "Beach holidays",
+          "Hiking",
+          "Water sports"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Pleasant temperatures, with a gradual decrease in rainfall.",
+        "keyFeatures": [
+          "Mild weather",
+          "Colorful foliage",
+          "Fewer crowds"
+        ],
+        "activities": [
+          "Wine tasting",
+          "Hiking",
+          "City exploration"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Mild winters, particularly in the south, with occasional rainfall.",
+        "keyFeatures": [
+          "Rainfall",
+          "Lower temperatures",
+          "Festive atmosphere"
+        ],
+        "activities": [
+          "Skiing in the Serra da Estrela",
+          "Visiting historic cities",
+          "Cozy evenings"
+        ]
+      },
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "Warm temperatures and blossoming flowers, creating a beautiful landscape.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Warm weather",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Pico Island",
+      "category": "Volcanic Landscape",
+      "description": "Pico Island, the westernmost point of Europe, is dominated by Mount Pico, Portugal’s highest peak. This UNESCO World Heritage site showcases a unique volcanic landscape with dramatic craters and lava flows.",
+      "detailedDescription": "Mount Pico’s summit offers breathtaking panoramic views of the Atlantic Ocean and neighboring islands. The island’s volcanic origins have created a distinctive ecosystem, supporting rare plant and animal species.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "Mount Pico summit",
+        "Furnas do Enxofre"
+      ],
+      "viewingTips": [
+        "Bring warm clothing, even in summer.",
+        "Wear sturdy hiking boots."
+      ],
+      "scientificData": {
+        "Height": "2351 m",
+        "Age": "3 million years",
+        "VolcanicType": "Stratovolcano"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Ria Formosa Natural Park",
+      "category": "Coastal Wetlands",
+      "description": "The Ria Formosa Natural Park is a stunning lagoon system located south of Faro, offering a diverse range of habitats and abundant wildlife.",
+      "detailedDescription": "This protected area is characterized by barrier islands, sandy beaches, salt marshes, and mudflats. It’s a crucial breeding ground for numerous bird species and a popular destination for birdwatching and water sports.",
+      "bestTime": "March - November",
+      "bestLocations": [
+        "Ilha Deserta",
+        "Ilha do Farol",
+        "Faro"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching.",
+        "Respect the wildlife and its habitat."
+      ],
+      "scientificData": {
+        "Area": "130 sq km",
+        "WaterSalinity": "Variable, ranging from brackish to marine"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Douro Valley",
+      "category": "Wine Region",
+      "description": "The Douro Valley, a UNESCO World Heritage site, is renowned for its terraced vineyards and picturesque river scenery. It's a region of immense beauty and historical significance.",
+      "detailedDescription": "The Douro River winds its way through the valley, creating a dramatic landscape of steep slopes covered in vineyards. The region is famous for its Port wine production, and visitors can enjoy wine tasting tours and scenic cruises.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "Peso da Régua",
+        "Pinhão",
+        "Lamego"
+      ],
+      "viewingTips": [
+        "Take a river cruise to admire the vineyards.",
+        "Visit a Port wine cellar for a tasting."
+      ],
+      "scientificData": {
+        "Elevation": "300-900 m",
+        "AverageTemperature": "15°C"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Portuguese Ecosystems",
+    "overview": "Portugal boasts a diverse range of ecosystems, from Mediterranean forests and coastal wetlands to mountainous regions and volcanic landscapes. These ecosystems support a rich biodiversity and provide essential ecological services.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 10
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mediterranean Forests, Woodlands and Scrub",
+        "icon": "Leaf",
+        "description": "These ecosystems dominate much of Portugal, characterized by drought-resistant trees and shrubs.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 300",
+            "details": "Includes cork oak, olive trees, and pine trees."
+          },
+          {
+            "category": "Habitat Area",
+            "count": "40% of Portugal",
+            "details": "Provides habitat for numerous bird and mammal species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Cork Oak (Quercus suber)",
+            "status": "Near Threatened",
+            "significance": "Important for cork production and biodiversity."
+          },
+          {
+            "name": "Iberian Lynx (Lynx pardinus)",
+            "status": "Critically Endangered",
+            "significance": "One of the world’s most endangered cats."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Reforestation projects",
+          "Protected area management"
+        ]
+      },
+      {
+        "name": "Atlantic Forests",
+        "icon": "Bird",
+        "description": "Found in the north and northwest of Portugal, these forests are characterized by Atlantic climate and diverse tree species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "150",
+            "details": "Includes beech, oak, and maple trees."
+          },
+          {
+            "category": "Biodiversity",
+            "count": "High",
+            "details": "Supports a wide range of plant and animal species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Black Stork (Ciconia nigra)",
+            "status": "Endangered",
+            "significance": "A rare bird species found in Portugal."
+          },
+          {
+            "name": "Iberian Wolf (Canis lupus signatus)",
+            "status": "Vulnerable",
+            "significance": "An important predator in the ecosystem."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Fragmentation"
+        ],
+        "conservationEfforts": [
+          "Forest management",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Portugal",
+    "description": "Portugal offers a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Portugal’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Serra da Estrela Hike",
+            "difficulty": "Moderate",
+            "season": "Autumn, Winter, Spring",
+            "duration": "3-6 hours",
+            "description": "Hike through the stunning Serra da Estrela mountain range, Portugal’s highest peak.",
+            "bestLocations": [
+              "Torre",
+              "Falchão"
+            ],
+            "requirements": "Hiking boots, waterproof jacket, water bottle",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your route"
+            ]
+          },
+          {
+            "name": "Ria Formosa Coastal Trail",
+            "difficulty": "Easy",
+            "season": "Spring, Summer, Autumn",
+            "duration": "2-4 hours",
+            "description": "Walk along the coastal trails of the Ria Formosa Natural Park.",
+            "bestLocations": [
+              "Ilha da Culatra",
+              "Ilha de Tavira"
+            ],
+            "requirements": "Comfortable shoes, sunscreen, hat",
+            "safety": [
+              "Wear sunscreen",
+              "Stay hydrated"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Atlantic Ocean and the Algarve coast.",
+        "activities": [
+          {
+            "name": "Surfing in Sagres",
+            "difficulty": "Moderate",
+            "season": "Spring, Summer, Autumn",
+            "duration": "2-4 hours",
+            "description": "Learn to surf or improve your skills in Sagres, known for its consistent waves.",
+            "bestLocations": [
+              "Praia do Tonel",
+              "Praia do Beliche"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on the season)",
+            "safety": [
+              "Take a lesson from a qualified instructor",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Kayaking in the Douro Valley",
+            "difficulty": "Easy",
+            "season": "Spring, Summer, Autumn",
+            "duration": "2-3 hours",
+            "description": "Paddle along the Douro River and admire the vineyards from a unique perspective.",
+            "bestLocations": [
+              "Peso da Régua",
+              "Pinhão"
+            ],
+            "requirements": "Kayak, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of boat traffic"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, versatile clothing"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Emergency contact information",
+        "Basic first-aid knowledge"
+      ]
+    }
+  }
+}

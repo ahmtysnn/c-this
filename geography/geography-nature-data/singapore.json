@@ -1,0 +1,324 @@
+{
+  "name": "Singapore",
+  "region": "South-East Asia",
+  "description": "Singapore, a sovereign city-state off the southern tip of the Malay Peninsula, is renowned for its stunning biodiversity, innovative urban planning, and vibrant cultural scene.  It’s a global hub for finance, technology, and trade, seamlessly blending modernity with lush greenery and a rich history.  The country’s strategic location and commitment to sustainability have shaped its unique identity.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "5.7 million",
+      "icon": "Users",
+      "description": "Singapore boasts a diverse population comprising Chinese, Malay, Indian, and Eurasian communities.",
+      "detail": "Multiculturalism is a cornerstone of Singaporean society, reflected in its cuisine, festivals, and traditions."
+    },
+    {
+      "label": "Area",
+      "value": "734 sq km (283 sq mi)",
+      "icon": "MapPin",
+      "description": "Singapore is one of the smallest countries in the world.",
+      "detail": "Despite its size, it’s incredibly densely populated."
+    },
+    {
+      "label": "Currency",
+      "value": "Singapore Dollar (SGD)",
+      "icon": "Coffee",
+      "description": "The official currency of Singapore.",
+      "detail": "SGD is pegged to the US dollar at a rate of 1:1.30."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 407.9 billion (2023)",
+      "icon": "Globe",
+      "description": "Singapore has one of the highest GDPs per capita globally.",
+      "detail": "It's a major player in global trade and finance."
+    },
+    {
+      "label": "Languages",
+      "value": "English, Malay, Mandarin, Tamil",
+      "icon": "Navigation",
+      "description": "English is the official language.",
+      "detail": "Other languages are widely spoken and recognized."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Rainforest Climate",
+    "description": "Singapore experiences a tropical rainforest climate characterized by consistently high temperatures and humidity throughout the year. Rainfall is abundant, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "February – June",
+        "description": "The dry season offers lower humidity and fewer rainfall days, making it ideal for outdoor activities.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Gardening",
+          "Beach activities"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "July – January",
+        "description": "The wet season brings heavy rainfall, often in short, intense bursts. Despite the rain, the landscape remains lush and vibrant.",
+        "keyFeatures": [
+          "High rainfall",
+          "Increased humidity",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Water sports",
+          "Exploring indoor attractions",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Gardens by the Bay",
+      "category": "Urban Oasis",
+      "description": "Gardens by the Bay is a stunning horticultural attraction featuring Supertrees, Cloud Forest, and Flower Dome. It showcases innovative sustainable design and a diverse collection of plants from around the world.",
+      "detailedDescription": "The Supertrees are towering vertical gardens that light up at night, creating a spectacular display. The Cloud Forest replicates a cool-moist mountain environment, while the Flower Dome recreates a Mediterranean climate.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Marina Bay",
+        "Singapore"
+      ],
+      "viewingTips": [
+        "Visit at night to see the Supertrees illuminated.",
+        "Explore the different gardens at your own pace."
+      ],
+      "scientificData": {
+        "Area": "101 hectares",
+        "Plant Species": "Over 1.5 million"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Bukit Timah Nature Reserve",
+      "category": "Hill and Forest",
+      "description": "Bukit Timah Nature Reserve is Singapore’s highest hill and a vital green lung within the city. It’s a haven for wildlife and offers challenging hiking trails.",
+      "detailedDescription": "The reserve is home to a diverse range of flora and fauna, including various bird species, reptiles, and insects. The summit provides panoramic views of the surrounding area.",
+      "bestTime": "March – November",
+      "bestLocations": [
+        "Bukit Timah"
+      ],
+      "viewingTips": [
+        "Wear appropriate hiking shoes.",
+        "Bring water and snacks.",
+        "Be mindful of wildlife."
+      ],
+      "scientificData": {
+        "Elevation": "163.63 m",
+        "Vegetation": "Dipterocarp forest"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Pulau Ubin",
+      "category": "Island Ecosystem",
+      "description": "Pulau Ubin is a rustic island offering a glimpse into Singapore’s past. It’s a haven for wildlife and a popular destination for nature lovers.",
+      "detailedDescription": "The island is largely undeveloped, with traditional kampongs (villages) and a rich ecosystem. Visitors can explore the island by bicycle or boat.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Pulau Ubin"
+      ],
+      "viewingTips": [
+        "Rent a bicycle to explore the island.",
+        "Visit the Malay Heritage Centre."
+      ],
+      "scientificData": {
+        "Area": "1.18 km²",
+        "Wildlife": "Diverse birdlife, monitor lizards"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Singapore’s Ecosystems",
+    "overview": "Singapore’s diverse ecosystems range from urban green spaces to coastal wetlands and rainforest fragments. Conservation efforts are crucial to maintain the country’s rich biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "25%",
+      "nationalParks": 14
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "Singapore is a birdwatcher’s paradise, attracting migratory species from around the world.",
+        "statistics": [
+          {
+            "category": "Migratory Species",
+            "count": "Over 200",
+            "details": "Various species migrate to Singapore during the winter months."
+          },
+          {
+            "category": "Resident Species",
+            "count": "115",
+            "details": "A wide variety of resident bird species thrive in Singapore's diverse habitats."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Rostering Finfoot",
+            "status": "Vulnerable",
+            "significance": "A rare and beautiful wading bird."
+          },
+          {
+            "name": "White Bellied Heron",
+            "status": "Near Threatened",
+            "significance": "A majestic bird found in coastal wetlands."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "National Biodiversity Centre",
+          "Habitat restoration projects"
+        ]
+      },
+      {
+        "name": "Marine Life",
+        "icon": "Fish",
+        "description": "Singapore’s coastal waters are home to a diverse range of marine life, including coral reefs and various fish species.",
+        "statistics": [
+          {
+            "category": "Coral Reefs",
+            "count": "Over 27",
+            "details": "Singapore’s coral reefs are facing challenges due to climate change and pollution."
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 400",
+            "details": "A rich diversity of fish species inhabit Singapore’s waters."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Hawksbill Turtle",
+            "status": "Endangered",
+            "significance": "A critically endangered sea turtle."
+          },
+          {
+            "name": "Lionfish",
+            "status": "Introduced Species",
+            "significance": "An invasive species that poses a threat to native fish populations."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Climate change",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine Park initiatives",
+          "Coral reef restoration programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Singapore",
+    "description": "Singapore offers a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Mountain",
+        "description": "Explore Singapore’s natural trails and enjoy stunning views.",
+        "activities": [
+          {
+            "name": "Bukit Timah Summit Hike",
+            "difficulty": "Hard",
+            "season": "March – November",
+            "duration": "3-4 hours",
+            "description": "A challenging hike to the summit of Bukit Timah, Singapore’s highest hill.",
+            "bestLocations": [
+              "Bukit Timah Nature Reserve"
+            ],
+            "requirements": "Sturdy hiking shoes, water, snacks",
+            "safety": [
+              "Be aware of slippery trails",
+              "Stay hydrated"
+            ]
+          },
+          {
+            "name": "MacRitchie Reservoir Trail",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-5 hours",
+            "description": "A scenic trail around MacRitchie Reservoir, offering opportunities for wildlife spotting.",
+            "bestLocations": [
+              "MacRitchie Reservoir"
+            ],
+            "requirements": "Comfortable walking shoes, insect repellent",
+            "safety": [
+              "Watch out for monkeys",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Singapore’s beaches and coastal areas.",
+        "activities": [
+          {
+            "name": "Kayaking at Marina Bay",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "1-2 hours",
+            "description": "Explore Marina Bay from a unique perspective by kayaking.",
+            "bestLocations": [
+              "Marina Bay"
+            ],
+            "requirements": "Life jacket, sunscreen",
+            "safety": [
+              "Follow safety guidelines",
+              "Be aware of boat traffic"
+            ]
+          },
+          {
+            "name": "Snorkeling at Pulau Hantu",
+            "difficulty": "Easy",
+            "season": "June – August",
+            "duration": "3-4 hours",
+            "description": "Discover the vibrant coral reefs and marine life of Pulau Hantu.",
+            "bestLocations": [
+              "Pulau Hantu"
+            ],
+            "requirements": "Snorkeling gear, sunscreen",
+            "safety": [
+              "Respect the marine environment",
+              "Avoid touching coral"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Light jacket, sweater",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Reusable water bottle, backpack",
+        "hiking": "Hiking boots, trekking poles",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

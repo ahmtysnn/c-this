@@ -1,0 +1,313 @@
+{
+  "name": "Gambia",
+  "region": "Africa",
+  "description": "The Gambia, officially the Republic of The Gambia, is a country in West Africa. Bordering Senegal to the north and east, and sharing a short coastline with the Atlantic Ocean to the west, it's a small nation known for its diverse ecosystems, rich cultural heritage, and role as a key migratory route for birds.  It’s a nation striving to balance economic development with environmental conservation.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Banjul",
+      "icon": "MapPin",
+      "description": "The nation's capital and largest city, situated on a peninsula.",
+      "detail": "Banjul is a vibrant port city with a unique blend of colonial architecture and bustling markets."
+    },
+    {
+      "label": "Population",
+      "value": "2,486,323",
+      "icon": "Users",
+      "description": "The population of The Gambia is predominantly young.",
+      "detail": "Approximately 60% of the population is under the age of 25."
+    },
+    {
+      "label": "Area",
+      "value": "11,300 sq km",
+      "icon": "Globe",
+      "description": "A relatively small country with diverse landscapes.",
+      "detail": "It's one of the smallest countries in Africa."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "The official language of The Gambia.",
+      "detail": "It was adopted during British colonial rule and remains the language of government and education."
+    },
+    {
+      "label": "GDP",
+      "value": "$2.37 billion (2023)",
+      "icon": "Coffee",
+      "description": "The country's Gross Domestic Product.",
+      "detail": "Primarily driven by agriculture and services."
+    },
+    {
+      "label": "Independence",
+      "value": "1965",
+      "icon": "Calendar",
+      "description": "Gained independence from the United Kingdom.",
+      "detail": "Became a republic in 1973."
+    }
+  ],
+  "climateData": {
+    "title": "Climate",
+    "description": "The Gambia experiences a tropical savanna climate, characterized by distinct wet and dry seasons. The coastal areas are humid, while inland regions are drier.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "November – March",
+        "description": "A period of low rainfall and high temperatures. The landscape turns golden brown.",
+        "keyFeatures": [
+          "Lower river levels",
+          "Reduced humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Birdwatching",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "April – October",
+        "description": "Heavy rainfall and increased humidity. Rivers swell, and vegetation flourishes.",
+        "keyFeatures": [
+          "High rainfall",
+          "Increased humidity",
+          "Flooding in low-lying areas"
+        ],
+        "activities": [
+          "Fishing",
+          "Boating",
+          "Exploring flooded landscapes"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "The Banc D'Arguin National Park",
+      "category": "Coastal Ecosystem",
+      "description": "A UNESCO World Heritage Site, this park protects a vital nesting ground for seabirds and a crucial stopover for migratory birds along the Atlantic coast. It’s a haven for marine life and a critical part of the African coastline.",
+      "detailedDescription": "The park encompasses a vast area of sand dunes, lagoons, and offshore islands. It’s a biodiversity hotspot and a significant area for conservation efforts.",
+      "bestTime": "March – November",
+      "bestLocations": [
+        "Banc d'Arguin Islands",
+        "Coastal lagoons"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching",
+        "Hire a local guide for navigation"
+      ],
+      "scientificData": {
+        "Area": "10,000 sq km",
+        "Bird Species": "Over 300",
+        "Marine Mammals": "Dolphins, whales"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 2,
+      "name": "Karenga Hills",
+      "category": "Geological Formation",
+      "description": "A series of ancient hills offering panoramic views and a glimpse into the region's geological history. These hills are a testament to the forces that shaped the landscape.",
+      "detailedDescription": "The Karenga Hills are composed of Precambrian sandstone and shale, dating back over 1.8 billion years. They are a significant geological feature and a popular destination for hiking and photography.",
+      "bestTime": "November – March",
+      "bestLocations": [
+        "Karenga Village"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes for hiking",
+        "Bring sunscreen and a hat"
+      ],
+      "scientificData": {
+        "Height": "100m",
+        "Age": "1.8 billion years"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of The Gambia",
+    "overview": "The Gambia boasts a remarkable diversity of ecosystems, ranging from mangrove forests and coastal wetlands to savanna grasslands and freshwater lakes. These ecosystems support a rich array of flora and fauna.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mangrove Forests",
+        "icon": "Leaves",
+        "description": "These coastal forests provide vital habitat for fish, birds, and other wildlife, and play a crucial role in protecting the coastline from erosion.",
+        "statistics": [
+          {
+            "category": "Area",
+            "count": "120 sq km",
+            "details": "Covering a significant portion of the coastline"
+          },
+          {
+            "category": "Species",
+            "count": "80",
+            "details": "Various mangrove species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Avicennia africana",
+            "status": "Least Concern",
+            "significance": "Dominant mangrove species"
+          },
+          {
+            "name": "Falco peregrinus",
+            "status": "Vulnerable",
+            "significance": "Peregrine falcon, a migratory raptor"
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration projects",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Savanna Grasslands",
+        "icon": "Trees",
+        "description": "Vast expanses of grasslands support a diverse range of herbivores and predators, forming the backbone of the country's ecosystem.",
+        "statistics": [
+          {
+            "category": "Area",
+            "count": "70%",
+            "details": "Dominating the interior landscape"
+          },
+          {
+            "category": "Species",
+            "count": "200",
+            "details": "Various grass species and grazing animals"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "A keystone species"
+          },
+          {
+            "name": "Giraffe",
+            "status": "Vulnerable",
+            "significance": "Iconic African mammal"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community conservation programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in The Gambia",
+    "description": "The Gambia offers a wide range of activities for visitors, from wildlife viewing and birdwatching to cultural experiences and water sports.",
+    "activityCategories": [
+      {
+        "name": "Wildlife & Birdwatching",
+        "icon": "Bird",
+        "description": "Explore the country's diverse wildlife and birdlife in national parks and reserves.",
+        "activities": [
+          {
+            "name": "Safari",
+            "difficulty": "Moderate",
+            "season": "November – March",
+            "duration": "1-3 days",
+            "description": "Guided tours to observe wildlife in their natural habitat.",
+            "bestLocations": [
+              "Karella National Park",
+              "Niamina Game Reserve"
+            ],
+            "requirements": "Binoculars, camera, sunscreen",
+            "safety": [
+              "Follow guide instructions",
+              "Maintain a safe distance from animals"
+            ]
+          },
+          {
+            "name": "Birdwatching Tour",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half-day",
+            "description": "Guided tours to spot various bird species.",
+            "bestLocations": [
+              "Banc d'Arguin",
+              "Various wetlands"
+            ],
+            "requirements": "Binoculars, bird identification guide",
+            "safety": [
+              "Wear appropriate clothing",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities along the coast and in the rivers.",
+        "activities": [
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "2-4 hours",
+            "description": "Explore the coastline and mangrove forests by kayak.",
+            "bestLocations": [
+              "Banc d'Arguin",
+              "Various lagoons"
+            ],
+            "requirements": "Life jacket, sunscreen, hat",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Fishing",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half-day",
+            "description": "Traditional fishing trips with local fishermen.",
+            "bestLocations": [
+              "River Gambia",
+              "Coastal lagoons"
+            ],
+            "requirements": "Fishing rod, bait",
+            "safety": [
+              "Follow local fishing regulations"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, hat, sunglasses",
+        "winter": "Long-sleeved shirts, trousers, sweater, jacket",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink bottled water",
+        "Be aware of mosquitoes",
+        "Respect local customs"
+      ]
+    }
+  }
+}

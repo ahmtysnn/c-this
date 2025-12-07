@@ -1,0 +1,343 @@
+{
+  "name": "Lithuania",
+  "region": "Europe",
+  "description": "Lithuania, a Baltic nation nestled in Northeastern Europe, boasts a rich history, stunning landscapes, and a unique cultural heritage. Characterized by vast plains, dense forests, and a dramatic coastline along the Baltic Sea, Lithuania offers a diverse range of experiences for travelers and nature enthusiasts. From medieval castles and charming towns to expansive national parks and serene lakes, Lithuania is a country of contrasts and captivating beauty.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Vilnius",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, a UNESCO World Heritage site.",
+      "detail": "Vilnius is renowned for its Baroque architecture, lively arts scene, and delicious cuisine."
+    },
+    {
+      "label": "Area",
+      "value": "65,300 sq km",
+      "icon": "Globe",
+      "description": "Relatively small, but packed with diverse landscapes.",
+      "detail": "Lithuania's territory includes plains, forests, and coastal areas."
+    },
+    {
+      "label": "Population",
+      "value": "2.8 million",
+      "icon": "Users",
+      "description": "A welcoming and historically resilient population.",
+      "detail": "Lithuanians are known for their hospitality and strong cultural traditions."
+    },
+    {
+      "label": "Official Language",
+      "value": "Lithuanian",
+      "icon": "ArrowRight",
+      "description": "A Baltic language with a unique history.",
+      "detail": "Lithuanian is one of the oldest living Indo-European languages."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Adopting the Euro in 2015.",
+      "detail": "Lithuania's economy is transitioning towards a more diversified model."
+    }
+  ],
+  "climateData": {
+    "title": "Lithuanian Climate",
+    "description": "Lithuania experiences a temperate climate with warm summers and cold winters. The coastal areas are moderated by the Baltic Sea, resulting in milder temperatures compared to inland regions.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March - May",
+        "description": "A time of renewal and blossoming, with temperatures gradually rising.",
+        "keyFeatures": [
+          "Melting snow",
+          "Blooming flowers",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June - August",
+        "description": "Warm and sunny days, ideal for outdoor activities.",
+        "keyFeatures": [
+          "Long daylight hours",
+          "Warm temperatures",
+          "Festivals"
+        ],
+        "activities": [
+          "Swimming",
+          "Beach activities",
+          "Outdoor concerts"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September - November",
+        "description": "Spectacular fall foliage and cooler temperatures.",
+        "keyFeatures": [
+          "Changing leaves",
+          "Harvest season",
+          "Crisp air"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December - February",
+        "description": "Cold and snowy winters, with occasional blizzards.",
+        "keyFeatures": [
+          "Snowfall",
+          "Ice skating",
+          "Christmas markets"
+        ],
+        "activities": [
+          "Skiing",
+          "Ice fishing",
+          "Cozy evenings"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Curonian Spit",
+      "category": "Coastal Landscape",
+      "description": "A UNESCO World Heritage site, the Curonian Spit is a stunning sand dune peninsula stretching along the Baltic Sea. Formed by centuries of wind and waves, it boasts unique ecosystems, traditional wooden villages, and breathtaking views.",
+      "detailedDescription": "The spit is a narrow strip of land separating the Curonian Lagoon from the Baltic Sea. It's a haven for diverse birdlife and features shifting sand dunes, pine forests, and picturesque fishing villages like Nida and Juodkrantė. The area is constantly evolving due to the relentless forces of nature.",
+      "bestTime": "June - August",
+      "bestLocations": [
+        "Nida",
+        "Juodkrantė",
+        "Smiltynis"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes for walking on the dunes",
+        "Bring sunscreen and a hat",
+        "Respect the fragile ecosystem"
+      ],
+      "scientificData": {
+        "Length": "95 km",
+        "Width": "0.8 - 2 km",
+        "Age": "Approximately 5,500 years"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Aukštaitija National Park",
+      "category": "Forest & Lake",
+      "description": "A vast expanse of pristine forests, serene lakes, and meandering rivers, Aukštaitija National Park offers a tranquil escape into nature.",
+      "detailedDescription": "This park is characterized by its numerous lakes, including Lake Spaude, one of the deepest lakes in Eastern Europe. It's a haven for wildlife, with diverse flora and fauna, including rare bird species. Hiking trails wind through the forests, offering stunning views and opportunities for exploration.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Lake Spaude",
+        "Lake Navomeria",
+        "Lake Atešmenos"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching",
+        "Pack a picnic",
+        "Respect the wildlife"
+      ],
+      "scientificData": {
+        "Area": "21,700 ha",
+        "Lake Depth (Max)": "60 m",
+        "Forest Cover": "70%"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Lithuanian Ecosystems",
+    "overview": "Lithuania's ecosystems are remarkably diverse, ranging from coastal wetlands to vast forests and peat bogs. These ecosystems support a rich array of plant and animal life, contributing significantly to the country's biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Dominating the landscape, Lithuanian forests are primarily comprised of coniferous and deciduous trees.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 100",
+            "details": "Including birch, oak, pine, and spruce"
+          },
+          {
+            "category": "Forest Area",
+            "count": "35%",
+            "details": "Covering a significant portion of the country"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Roe Deer",
+            "status": "Near Threatened",
+            "significance": "A key herbivore in the forest ecosystem"
+          },
+          {
+            "name": "Black Grouse",
+            "status": "Vulnerable",
+            "significance": "A symbol of Lithuanian wilderness"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Forest restoration projects",
+          "Protected areas management"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "Lithuania possesses a network of wetlands, including bogs, marshes, and coastal lagoons, vital for biodiversity and flood control.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "10%",
+            "details": "Representing a significant portion of the country's land area"
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 200",
+            "details": "Attracting migratory birds from across Europe"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Great Crested Grebe",
+            "status": "Vulnerable",
+            "significance": "A rare and iconic wetland bird"
+          },
+          {
+            "name": "European Marsh Beetle",
+            "status": "Endangered",
+            "significance": "A specialist species dependent on wetland habitats"
+          }
+        ],
+        "threats": [
+          "Drainage for agriculture",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration",
+          "Pollution control measures"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Lithuania",
+    "description": "Lithuania offers a wide range of outdoor activities for all skill levels, from leisurely hikes to challenging climbs and water sports.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Lithuania's diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Curonian Spit Hiking Trail",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "2-6 hours",
+            "description": "A scenic trail along the Curonian Spit, offering stunning views of the Baltic Sea and the shifting sand dunes.",
+            "bestLocations": [
+              "Nida",
+              "Juodkrantė"
+            ],
+            "requirements": "Sturdy hiking boots, sunscreen, water",
+            "safety": [
+              "Be aware of changing weather conditions",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Aukštaitija National Park Trails",
+            "difficulty": "Easy - Moderate",
+            "season": "May - October",
+            "duration": "Variable",
+            "description": "A network of trails through the forests and around the lakes of Aukštaitija National Park.",
+            "bestLocations": [
+              "Lake Spaude",
+              "Lake Navomeria"
+            ],
+            "requirements": "Hiking boots, map, compass",
+            "safety": [
+              "Inform someone of your hiking plans",
+              "Carry a first-aid kit"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Baltic Sea and its lagoons with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Kayaking",
+            "difficulty": "Easy",
+            "season": "June - August",
+            "duration": "Variable",
+            "description": "Explore the Curonian Lagoon and the Baltic Sea coastline by kayak.",
+            "bestLocations": [
+              "Nida",
+              "Juodkrantė"
+            ],
+            "requirements": "Kayak, life jacket, sunscreen",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "June - August",
+            "duration": "Variable",
+            "description": "Take a refreshing dip in the Baltic Sea.",
+            "bestLocations": [
+              "Smiltynis",
+              "Kviečiai"
+            ],
+            "requirements": "Swimsuit, towel",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of jellyfish"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm coat, hat, gloves, scarf, waterproof boots",
+        "yearRound": "Layers of clothing, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a first-aid kit",
+        "Be aware of weather conditions"
+      ]
+    }
+  }
+}

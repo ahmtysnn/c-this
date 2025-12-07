@@ -1,0 +1,385 @@
+{
+  "name": "Myanmar",
+  "region": "Southeast Asia",
+  "description": "Myanmar, formerly known as Burma, is a Southeast Asian nation characterized by its rich cultural heritage, stunning natural landscapes, and strategic location along the Indochinese Peninsula. It’s a land of ancient temples, diverse ethnic groups, and a complex history shaped by colonialism and internal conflict. The country boasts a varied topography, ranging from the fertile plains of the Irrawaddy Delta to the rugged mountains of the Shan and Kachin states, and the pristine coastline of the Bay of Bengal and the Andaman Sea.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Naypyidaw",
+      "icon": "MapPin",
+      "description": "The current administrative capital of Myanmar, a planned city.",
+      "detail": "Naypyidaw was established in 2005 and is known for its modern architecture and extensive infrastructure."
+    },
+    {
+      "label": "Population",
+      "value": "54.7 million",
+      "icon": "Users",
+      "description": "Myanmar has a diverse population comprised of numerous ethnic groups.",
+      "detail": "The Bamar people constitute the largest ethnic group, followed by Shan, Karen, and other minority groups."
+    },
+    {
+      "label": "Area",
+      "value": "676,579 sq km",
+      "icon": "Globe",
+      "description": "Myanmar is the 43rd largest country in the world.",
+      "detail": "It borders India, Bangladesh, China, Laos, and Thailand."
+    },
+    {
+      "label": "Official Language",
+      "value": "Burmese",
+      "icon": "ArrowRight",
+      "description": "The official language of Myanmar.",
+      "detail": "Many other languages and dialects are spoken throughout the country."
+    },
+    {
+      "label": "Currency",
+      "value": "Myanmar Kyat (MMK)",
+      "icon": "Coffee",
+      "description": "The official currency of Myanmar.",
+      "detail": "The Kyat has experienced significant devaluation in recent years."
+    },
+    {
+      "label": "GDP",
+      "value": "$63.6 billion (2023 est.)",
+      "icon": "Zap",
+      "description": "Myanmar's economy is largely agricultural.",
+      "detail": "The economy has been significantly impacted by political instability and sanctions."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Myanmar",
+    "description": "Myanmar experiences a tropical monsoon climate, characterized by distinct wet and dry seasons. The climate varies significantly across the country due to its diverse topography.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "November - April",
+        "description": "The dry season brings cooler temperatures and lower humidity, making it ideal for travel.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Clear skies",
+          "Pleasant temperatures"
+        ],
+        "activities": [
+          "Temple visits",
+          "Hiking",
+          "Exploring cities"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May - October",
+        "description": "The wet season is characterized by heavy rainfall and high humidity. Flooding is common in the delta region.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Flooding"
+        ],
+        "activities": [
+          "River cruises",
+          "Waterfalls",
+          "Exploring rainforests"
+        ]
+      },
+      {
+        "name": "Hot Season",
+        "period": "March - May",
+        "description": "Temperatures rise significantly during this period, with high humidity.",
+        "keyFeatures": [
+          "High temperatures",
+          "High humidity"
+        ],
+        "activities": [
+          "Relaxing by the beach",
+          "Visiting cooler mountain areas"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Victoria (Htantabin)",
+      "category": "Mountain",
+      "description": "Mount Victoria, also known as Htantabin, is the highest peak in Myanmar, offering breathtaking panoramic views of the surrounding landscape. It's a challenging climb, rewarding adventurers with unparalleled vistas.",
+      "detailedDescription": "The mountain is located in the Chin State, a remote and rugged region of Myanmar. The ascent involves steep trails and requires a guide. The summit offers views of the valleys and hills of Chin State.",
+      "bestTime": "November - March",
+      "bestLocations": [
+        "Chin State"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring appropriate hiking gear",
+        "Check weather conditions"
+      ],
+      "scientificData": {
+        "Height": "3,060 m",
+        "Elevation": "3,060 m",
+        "Geology": "Granite"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Inle Lake",
+      "category": "Lake",
+      "description": "Inle Lake is a stunning freshwater lake surrounded by rolling hills and home to unique Intha fishermen who use leg-rowed boats. It's a vital ecosystem and a cultural treasure.",
+      "detailedDescription": "The lake is renowned for its floating gardens, stilt houses, and traditional markets. The Intha people have a distinct way of life centered around the lake, and their unique fishing techniques are a sight to behold.",
+      "bestTime": "November - February",
+      "bestLocations": [
+        "Sagaing Region"
+      ],
+      "viewingTips": [
+        "Take a boat tour",
+        "Visit the floating gardens",
+        "Observe the Intha fishermen"
+      ],
+      "scientificData": {
+        "Area": "66 square kilometers",
+        "Depth": "21 meters",
+        "WaterType": "Freshwater"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Hlaung River",
+      "category": "River",
+      "description": "The Hlaung River is a major river flowing through central Myanmar, providing vital irrigation and transportation routes. It's a crucial part of the Irrawaddy River system.",
+      "detailedDescription": "The river flows through a diverse landscape, including fertile plains, rolling hills, and dense forests. It supports a rich ecosystem and is used for fishing and agriculture.",
+      "bestTime": "November - March",
+      "bestLocations": [
+        "Yangon, Mandalay"
+      ],
+      "viewingTips": [
+        "Take a boat trip",
+        "Observe local life along the riverbanks"
+      ],
+      "scientificData": {
+        "Length": "770 km",
+        "Source": "Mount Victoria",
+        "Mouth": "Irrawaddy River"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Myanmar",
+    "overview": "Myanmar’s diverse ecosystems range from tropical rainforests and wetlands to dry deciduous forests and mangrove swamps. These ecosystems support a remarkable array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 35
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Myanmar’s forests are home to a vast array of tree species, including teak, ebony, and sandalwood.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 1,000",
+            "details": "A significant portion are endemic to Myanmar."
+          },
+          {
+            "category": "Forest Cover",
+            "count": "14%",
+            "details": "Threatened by deforestation and illegal logging."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Teak Tree",
+            "status": "Endangered",
+            "significance": "Economically important timber species."
+          },
+          {
+            "name": "Sandalwood",
+            "status": "Vulnerable",
+            "significance": "Highly valued for its fragrant wood."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Agricultural expansion"
+        ],
+        "conservationEfforts": [
+          "Protected area establishment",
+          "Sustainable forestry practices"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "Myanmar’s wetlands, including Inle Lake and the Ayeyarwady Delta, are vital habitats for migratory birds and fish.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "Approximately 2.5 million hectares",
+            "details": "Highly susceptible to climate change impacts."
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 200",
+            "details": "Important stopover site for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Black-headed Gull",
+            "status": "Near Threatened",
+            "significance": "Common wetland bird."
+          },
+          {
+            "name": "Swamphen",
+            "status": "Vulnerable",
+            "significance": "Important indicator species for wetland health."
+          }
+        ],
+        "threats": [
+          "Drainage for agriculture",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration",
+          "Sustainable agriculture practices"
+        ]
+      }
+    ]
+  },
+  "biodiversityCategory": {
+    "name": "Mammals",
+    "icon": "Bird",
+    "description": "Myanmar is home to a diverse range of mammals, including elephants, tigers, leopards, and primates.",
+    "statistics": [
+      {
+        "category": "Elephant Population",
+        "count": "Approximately 2,500",
+        "details": "Threatened by habitat loss and poaching."
+      },
+      {
+        "category": "Tiger Population",
+        "count": "Less than 400",
+        "details": "Critically endangered."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Asian Elephant",
+        "status": "Vulnerable",
+        "significance": "Important for ecosystem health and cultural significance."
+      },
+      {
+        "name": "Burmese Tiger",
+        "status": "Critically Endangered",
+        "significance": "Iconic predator of Myanmar's forests."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Human-wildlife conflict"
+    ],
+    "conservationEfforts": [
+      "Anti-poaching patrols",
+      "Habitat restoration",
+      "Community-based conservation"
+    ]
+  },
+  "activities": {
+    "title": "Activities in Myanmar",
+    "description": "Myanmar offers a wide range of activities for travelers, from exploring ancient temples to trekking through remote mountains and experiencing local culture.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Myanmar’s mountainous regions offer challenging and rewarding hiking trails.",
+        "activities": [
+          {
+            "name": "Mount Victoria Trek",
+            "difficulty": "Hard",
+            "season": "November - March",
+            "duration": "3-5 days",
+            "description": "A challenging trek to the summit of Mount Victoria, offering stunning views.",
+            "bestLocations": [
+              "Chin State"
+            ],
+            "requirements": "Good physical fitness, hiking boots, appropriate clothing",
+            "safety": [
+              "Altitude sickness",
+              "Weather conditions"
+            ]
+          },
+          {
+            "name": "Hlaung River Trail",
+            "difficulty": "Moderate",
+            "season": "November - March",
+            "duration": "2-3 days",
+            "description": "A scenic trail along the Hlaung River, offering opportunities for wildlife viewing.",
+            "bestLocations": [
+              "Yangon, Mandalay"
+            ],
+            "requirements": "Hiking boots, insect repellent",
+            "safety": [
+              "Mosquitoes",
+              "Heat"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Myanmar’s rivers and lakes offer opportunities for a variety of water sports.",
+        "activities": [
+          {
+            "name": "Inle Lake Boat Tour",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half-day to Full-day",
+            "description": "A relaxing boat tour of Inle Lake, allowing you to experience the unique culture and scenery.",
+            "bestLocations": [
+              "Sagaing Region"
+            ],
+            "requirements": "Sunscreen, hat",
+            "safety": [
+              "Sunburn"
+            ]
+          },
+          {
+            "name": "Ayeyarwady River Cruise",
+            "difficulty": "Moderate",
+            "season": "November - March",
+            "duration": "3-7 days",
+            "description": "A multi-day cruise along the Ayeyarwady River, exploring the surrounding villages and landscapes.",
+            "bestLocations": [
+              "Ayeyarwady Delta"
+            ],
+            "requirements": "Motion sickness medication",
+            "safety": [
+              "River currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear",
+        "winter": "Warm layers, waterproof jacket",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Respect local customs",
+        "Be aware of your surroundings",
+        "Drink bottled water"
+      ]
+    }
+  }
+}

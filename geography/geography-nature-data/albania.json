@@ -1,0 +1,379 @@
+{
+  "name": "Albania",
+  "region": "Southern Europe",
+  "description": "Albania, a Balkan nation nestled between the Adriatic and Ionian Seas, boasts a dramatic landscape of rugged mountains, pristine coastlines, and ancient historical sites.  Its diverse geography, shaped by tectonic activity and glacial erosion, contributes to a rich tapestry of ecosystems and a unique cultural heritage.  From the towering peaks of the Albanian Alps to the turquoise waters of the Riviera, Albania offers a captivating blend of adventure, relaxation, and cultural immersion.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Tirana",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, known for its colorful buildings and lively atmosphere.",
+      "detail": "Tirana is a hub of commerce, culture, and education, offering a glimpse into modern Albania."
+    },
+    {
+      "label": "Population",
+      "value": "2.8 million",
+      "icon": "Users",
+      "description": "A relatively young population with a growing economy.",
+      "detail": "The majority of the population resides in urban areas, particularly around Tirana and Durrës."
+    },
+    {
+      "label": "Area",
+      "value": "28,748 sq km (11,047 sq mi)",
+      "icon": "Globe",
+      "description": "A compact nation with diverse geographical features.",
+      "detail": "Albania's territory includes coastal plains, mountainous regions, and a significant portion of the Balkan Peninsula."
+    },
+    {
+      "label": "Official Language",
+      "value": "Albanian",
+      "icon": "ArrowRight",
+      "description": "An Indo-European language with unique roots.",
+      "detail": "Albanian has distinct dialects, reflecting the country's historical and geographical divisions."
+    },
+    {
+      "label": "Currency",
+      "value": "Albanian Lek (ALL)",
+      "icon": "Coffee",
+      "description": "The national currency of Albania.",
+      "detail": "The Lek is pegged to the Euro, though physical currency is still widely used."
+    }
+  ],
+  "climateData": {
+    "title": "Albanian Climate",
+    "description": "Albania experiences a Mediterranean climate, characterized by hot, dry summers and mild, wet winters.  The coastal regions enjoy a more temperate climate than the mountainous interior.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Hot and sunny with clear skies, ideal for beach activities and outdoor adventures.",
+        "keyFeatures": [
+          "High temperatures",
+          "Low rainfall",
+          "Long daylight hours"
+        ],
+        "activities": [
+          "Swimming",
+          "Sunbathing",
+          "Hiking",
+          "Water sports"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Pleasant temperatures and colorful foliage, perfect for hiking and exploring.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Colorful landscapes",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Photography",
+          "Wine tasting"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Cold and snowy in the mountains, mild and rainy along the coast.  A good time for skiing and cultural experiences.",
+        "keyFeatures": [
+          "Snowfall in mountains",
+          "Rainfall along coast",
+          "Festive atmosphere"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting historical sites",
+          "Enjoying traditional cuisine"
+        ]
+      },
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "Mild temperatures and blossoming flowers, a beautiful time to visit.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Exploring historical sites"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Albanian Alps (Bjeshkët e Namuna)",
+      "category": "Mountains",
+      "description": "The Albanian Alps, also known as Bjeshkët e Namuna, are a rugged and remote mountain range offering breathtaking scenery and challenging hiking trails.  They are a haven for wildlife and a testament to Albania's untouched natural beauty.",
+      "detailedDescription": "These mountains are characterized by dramatic peaks, deep valleys, and glacial lakes. The region is sparsely populated, preserving its traditional way of life and pristine environment.  The Valbona and Theth valleys are particularly popular destinations.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Valbona Valley",
+        "Theth Valley",
+        "Koman Lake"
+      ],
+      "viewingTips": [
+        "Pack appropriate hiking gear",
+        "Respect local customs",
+        "Be prepared for unpredictable weather"
+      ],
+      "scientificData": {
+        "Height": "2694 m",
+        "Area": "3000 sq km",
+        "ElevationRange": "1000-2694 m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Llogara National Park",
+      "category": "Coastal",
+      "description": "Llogara National Park is a stunning coastal park offering panoramic views of the Ionian Sea and a diverse range of flora and fauna.  It's a popular destination for hiking, camping, and enjoying the Mediterranean sunshine.",
+      "detailedDescription": "The park encompasses steep cliffs, lush forests, and pristine beaches.  It's home to a variety of bird species, including golden eagles and vultures. The Llogara Pass offers spectacular views and is a popular route for drivers.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Llogara Pass",
+        "Planes Beach",
+        "Guri i Peshtimeve"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Wear sturdy shoes for hiking",
+        "Respect the natural environment"
+      ],
+      "scientificData": {
+        "Area": "12,000 ha",
+        "Biodiversity": "Over 300 plant species, 150 bird species"
+      },
+      "icon": "Sun"
+    },
+    {
+      "id": 3,
+      "name": "Lake Ohrid",
+      "category": "Lake",
+      "description": "Lake Ohrid is one of Europe's oldest and deepest lakes, a UNESCO World Heritage site renowned for its unique biodiversity and stunning scenery.  It's a popular destination for swimming, boating, and exploring the surrounding villages.",
+      "detailedDescription": "The lake is home to numerous endemic species of fish and plants, making it a vital center of biodiversity. The town of Ohrid, located on the lake's shores, boasts a rich history and beautiful architecture.  The Drilon National Park offers stunning views and hiking trails.",
+      "bestTime": "June - August",
+      "bestLocations": [
+        "Ohrid Town",
+        "Drilon National Park",
+        "Pogradec"
+      ],
+      "viewingTips": [
+        "Take a boat trip on the lake",
+        "Visit the Church of St. John at Kaneo",
+        "Explore the Drilon National Park"
+      ],
+      "scientificData": {
+        "Depth": "320 m",
+        "SurfaceArea": "355 sq km",
+        "Age": "2900 years"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Albanian Ecosystems",
+    "overview": "Albania’s ecosystems are remarkably diverse, ranging from Mediterranean forests and wetlands to alpine meadows and rocky slopes.  The country’s unique geographical location and varied climate contribute to this rich biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 4
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Albania’s forests cover approximately 30% of the country’s land area, providing habitat for a wide range of plant and animal species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 800",
+            "details": "Diverse range of deciduous and coniferous trees"
+          },
+          {
+            "category": "Forest Cover",
+            "count": "30%",
+            "details": "Significant contribution to carbon sequestration"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Black Pine",
+            "status": "Vulnerable",
+            "significance": "Dominant tree species in the mountainous regions"
+          },
+          {
+            "name": "European Beech",
+            "status": "Near Threatened",
+            "significance": "Important for forest regeneration"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Forest management programs",
+          "Protected areas",
+          "Reforestation projects"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Leaf",
+        "description": "Albania’s wetlands, including marshes, swamps, and lagoons, are vital habitats for migratory birds and other wildlife.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "100,000 ha",
+            "details": "Important for flood control and water purification"
+          },
+          {
+            "category": "Bird Species",
+            "count": "200+",
+            "details": "Significant stopover point for migratory birds"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "White Stork",
+            "status": "Near Threatened",
+            "significance": "Migratory bird dependent on wetlands"
+          },
+          {
+            "name": "Bittern",
+            "status": "Vulnerable",
+            "significance": "Specialist wetland inhabitant"
+          }
+        ],
+        "threats": [
+          "Drainage",
+          "Pollution",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration projects",
+          "Protected areas",
+          "Sustainable land use practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Albania",
+    "description": "Albania offers a wide range of outdoor activities for all levels of experience, from challenging hikes to relaxing beach days.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Albania’s stunning mountains and valleys on foot.",
+        "activities": [
+          {
+            "name": "Valbona Hike",
+            "difficulty": "Moderate",
+            "season": "June - September",
+            "duration": "2-3 days",
+            "description": "A classic hike through the Albanian Alps, connecting the Valbona and Theth valleys.",
+            "bestLocations": [
+              "Valbona Valley",
+              "Theth Valley"
+            ],
+            "requirements": "Hiking boots, backpack, water bottle, appropriate clothing",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your route",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Peaks of the Balkans Trail",
+            "difficulty": "Hard",
+            "season": "June - September",
+            "duration": "7-10 days",
+            "description": "A challenging multi-day trek through the Albanian Alps, Montenegro, and Kosovo.",
+            "bestLocations": [
+              "Albanian Alps",
+              "Montenegro",
+              "Kosovo"
+            ],
+            "requirements": "Excellent fitness level, backpacking experience, navigation skills",
+            "safety": [
+              "Experienced guide recommended",
+              "Permits required",
+              "Remote areas"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Mediterranean Sea and Albania’s numerous lakes.",
+        "activities": [
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "June - August",
+            "duration": "Variable",
+            "description": "Relax and swim in the crystal-clear waters of the Albanian Riviera.",
+            "bestLocations": [
+              "Durrës",
+              "Vlorë",
+              "Ksamil"
+            ],
+            "requirements": "Swimsuit, sunscreen, towel",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "Variable",
+            "description": "Explore the coastline and hidden coves by kayak.",
+            "bestLocations": [
+              "Albanian Riviera",
+              "Lake Ohrid"
+            ],
+            "requirements": "Kayak, paddle, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Check weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, versatile clothing"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a first-aid kit",
+        "Be aware of your surroundings",
+        "Respect local customs"
+      ]
+    }
+  }
+}

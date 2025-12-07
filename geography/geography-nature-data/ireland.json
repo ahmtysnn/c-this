@@ -1,0 +1,361 @@
+{
+  "name": "Ireland",
+  "region": "Europe",
+  "description": "Ireland, known as the Emerald Isle, is an island nation in northwest Europe, famed for its dramatic coastline, rolling green hills, ancient history, and vibrant culture.  It’s a land of contrasts, boasting rugged Atlantic cliffs, serene lakes, and bustling cities.  Ireland’s unique blend of Celtic heritage, British influence, and modern innovation creates a captivating experience for visitors.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "5.1 million",
+      "icon": "Users",
+      "description": "Ireland has a relatively small but densely populated population.",
+      "detail": "The majority of the population resides in urban areas, particularly Dublin and Cork."
+    },
+    {
+      "label": "Area",
+      "value": "70,273 sq km (27,110 sq mi)",
+      "icon": "MapPin",
+      "description": "Ireland is a compact island nation.",
+      "detail": "It’s roughly the size of Costa Rica."
+    },
+    {
+      "label": "Capital",
+      "value": "Dublin",
+      "icon": "MapPin",
+      "description": "Dublin is the heart of Ireland's political, economic, and cultural life.",
+      "detail": "It’s a vibrant city with a rich literary and musical heritage."
+    },
+    {
+      "label": "Official Language",
+      "value": "Irish and English",
+      "icon": "ArrowRight",
+      "description": "Both languages are widely spoken and used in daily life.",
+      "detail": "Irish (Gaeilge) is a Celtic language with a long and complex history."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Ireland uses the Euro as its currency.",
+      "detail": "The Euro was adopted in 2002."
+    },
+    {
+      "label": "GDP",
+      "value": "337.6 billion USD (2023)",
+      "icon": "Globe",
+      "description": "Ireland has a developed economy.",
+      "detail": "It's a major hub for technology and pharmaceuticals."
+    }
+  ],
+  "climateData": {
+    "title": "Temperate Oceanic Climate",
+    "description": "Ireland experiences a temperate oceanic climate, characterized by mild, wet winters and cool summers. Rainfall is abundant throughout the year, contributing to the island's lush greenery.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming and an explosion of wildflowers across the countryside.",
+        "keyFeatures": [
+          "Increased daylight hours",
+          "Blooming wildflowers",
+          "Return of migratory birds"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Wildlife watching"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is generally mild and wet, with average temperatures around 15-20°C (59-68°F).",
+        "keyFeatures": [
+          "Long daylight hours",
+          "Warmest temperatures",
+          "Festivals and outdoor events"
+        ],
+        "activities": [
+          "Beach holidays",
+          "Water sports",
+          "Hiking",
+          "Music festivals"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and increased rainfall, with stunning autumn foliage in many areas.",
+        "keyFeatures": [
+          "Changing leaf colors",
+          "Reduced rainfall",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Birdwatching",
+          "Visiting historical sites"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is cool and wet, with average temperatures around 5-10°C (41-50°F). Snowfall is relatively rare, but can occur.",
+        "keyFeatures": [
+          "Shortest daylight hours",
+          "Coolest temperatures",
+          "Festive atmosphere"
+        ],
+        "activities": [
+          "Visiting Christmas markets",
+          "Exploring historic cities",
+          "Indoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Giant's Causeway",
+      "category": "Geological Formation",
+      "description": "The Giant's Causeway is a dramatic coastal rock formation consisting of approximately 40,000 interlocking basalt columns. Legend has it that it was formed by a giant falling into the sea.",
+      "detailedDescription": "Formed by a volcanic fissure eruption approximately 60 million years ago, the Causeway is a UNESCO World Heritage Site and a testament to the power of nature. The hexagonal columns are a result of the cooling and contraction of the lava.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Causeway Coastal Route",
+        "Antrim Coast"
+      ],
+      "viewingTips": [
+        "Wear sturdy footwear",
+        "Check the tide times",
+        "Allow ample time to explore"
+      ],
+      "scientificData": {
+        "Height": "10-40m",
+        "Age": "60 million years"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Cliffs of Moher",
+      "category": "Coastal Landscape",
+      "description": "The Cliffs of Moher are a spectacular stretch of rugged coastline in County Clare, offering breathtaking views of the Atlantic Ocean.",
+      "detailedDescription": "Rising to a height of 214 meters (702 feet), the cliffs provide a dramatic backdrop to the surrounding landscape. They are home to a diverse range of seabirds, including puffins, guillemots, and razorbills.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "The Cliffs of Moher Visitor Centre",
+        "Hag's Head"
+      ],
+      "viewingTips": [
+        "Dress warmly",
+        "Bring binoculars",
+        "Be aware of the weather"
+      ],
+      "scientificData": {
+        "Height": "214m",
+        "Cliff Type": "Shale"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Wicklow Mountains National Park",
+      "category": "Mountain Range",
+      "description": "The Wicklow Mountains National Park is a beautiful area of mountains, lakes, and woodlands in County Wicklow.",
+      "detailedDescription": "Known as the 'Garden of Ireland', the Wicklow Mountains offer stunning scenery and a wealth of outdoor activities. Glendalough, a glacial valley with a historic monastic site, is a highlight of the park.",
+      "bestTime": "Spring - Autumn",
+      "bestLocations": [
+        "Glendalough",
+        "Powerscourt Estate"
+      ],
+      "viewingTips": [
+        "Wear appropriate footwear",
+        "Check weather conditions"
+      ],
+      "scientificData": {
+        "Elevation": "900m",
+        "Area": "21,600 hectares"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Coastal Birds",
+    "icon": "Bird",
+    "description": "Ireland’s coastline is a vital habitat for a wide variety of seabirds, attracted by the abundant fish and sheltered waters.",
+    "statistics": [
+      {
+        "category": "Puffins",
+        "count": "50,000",
+        "details": "The largest puffin colony in Ireland is located on the Skellig Islands."
+      },
+      {
+        "category": "Guillemots",
+        "count": "200,000",
+        "details": "These seabirds nest in large colonies along the cliffs."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Puffin",
+        "status": "Least Concern",
+        "significance": "A beloved symbol of Ireland, known for its brightly colored beak."
+      },
+      {
+        "name": "Guillemot",
+        "status": "Least Concern",
+        "significance": "A common seabird that plays a crucial role in the marine ecosystem."
+      }
+    ],
+    "threats": [
+      "Climate change",
+      "Overfishing",
+      "Habitat loss"
+    ],
+    "conservationEfforts": [
+      "Protected seabird colonies",
+      "Sustainable fishing practices",
+      "Habitat restoration"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Atlantic Oak Woodland",
+    "overview": "Atlantic Oak Woodland is a unique and fragile ecosystem found primarily in the west of Ireland. It’s characterized by a mix of oak trees, hawthorn, and other native species, adapted to the cool, wet climate.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Native Trees",
+        "icon": "Trees",
+        "description": "The dominant tree species in Atlantic Oak Woodland.",
+        "statistics": [
+          {
+            "category": "Oak",
+            "count": "80%",
+            "details": "Specifically, sessile oak and sessile ash are prevalent."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Sessile Oak",
+            "status": "Near Threatened",
+            "significance": "A key component of the woodland ecosystem."
+          }
+        ],
+        "threats": [
+          "Forestry practices",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry management",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures in Ireland",
+    "description": "Ireland offers a wide range of outdoor activities for all skill levels, from gentle hikes to challenging climbs.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Ireland’s stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "The Twelve Bens Hike",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "3-4 days",
+            "description": "A challenging multi-day hike through the Twelve Bens mountain range in County Galway.",
+            "bestLocations": [
+              "Aran Islands",
+              "Galway Mountains"
+            ],
+            "requirements": "Good fitness level, hiking boots, waterproof clothing",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your route"
+            ]
+          },
+          {
+            "name": "Connor Pass Hike",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "4-5 hours",
+            "description": "A scenic hike across Connor Pass, the highest mountain pass in County Kerry.",
+            "bestLocations": [
+              "County Kerry"
+            ],
+            "requirements": "Hiking boots, waterproof clothing",
+            "safety": [
+              "Be aware of strong winds"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Atlantic Ocean with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Ireland has a growing surfing scene, with popular spots along the west coast.",
+            "bestLocations": [
+              "Bundoran",
+              "Lahinch"
+            ],
+            "requirements": "Surfboard, wetsuit",
+            "safety": [
+              "Check surf conditions",
+              "Use a leash"
+            ]
+          },
+          {
+            "name": "Sea Kayaking",
+            "difficulty": "Easy - Moderate",
+            "season": "Summer",
+            "duration": "2-4 hours",
+            "description": "Explore the coastline by kayak, discovering hidden coves and sea caves.",
+            "bestLocations": [
+              "West Coast",
+              "Wild Atlantic Way"
+            ],
+            "requirements": "Kayak, paddle, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Check weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket and trousers, hat, gloves",
+        "yearRound": "Waterproof jacket, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Check weather conditions",
+        "Carry a first-aid kit",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

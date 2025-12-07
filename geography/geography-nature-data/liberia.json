@@ -1,0 +1,325 @@
+{
+  "name": "Liberia",
+  "region": "Africa",
+  "description": "Liberia, officially the Republic of Liberia, is a West African nation bordered by Sierra Leone to the northwest, Côte d'Ivoire to the northeast, and the Atlantic Ocean to the west.  It’s known as the 'Rubber City' due to its historical significance in rubber production and boasts a rich, albeit often turbulent, history shaped by its connection to the American Colonization Society.  The country is characterized by diverse landscapes, including coastal plains, rolling hills, and dense rainforests, offering a unique blend of natural beauty and cultural heritage.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Monrovia",
+      "icon": "MapPin",
+      "description": "The bustling capital and largest city of Liberia.",
+      "detail": "Monrovia is situated on Bushrod Island and is a vibrant hub of commerce, culture, and government."
+    },
+    {
+      "label": "Population",
+      "value": "5.1 Million",
+      "icon": "Users",
+      "description": "Liberia's population is predominantly comprised of indigenous Liberians and descendants of freed American slaves.",
+      "detail": "The population density is relatively low, contributing to a rural character in many areas."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Globe",
+      "description": "English is the official language, a legacy of its colonial past.",
+      "detail": "However, numerous indigenous languages are also spoken throughout the country."
+    },
+    {
+      "label": "Currency",
+      "value": "Liberian Dollar (LRD)",
+      "icon": "Coffee",
+      "description": "The Liberian Dollar is pegged to the United States Dollar.",
+      "detail": "The US Dollar is widely accepted and used in commerce."
+    },
+    {
+      "label": "GDP",
+      "value": "$4.3 Billion (2023 est.)",
+      "icon": "Zap",
+      "description": "Liberia's economy is largely dependent on agriculture and natural resources.",
+      "detail": "Recent years have seen significant economic challenges due to political instability and the Ebola outbreak."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Liberia",
+    "description": "Liberia experiences a tropical rainforest climate, characterized by high temperatures and humidity year-round. Rainfall is abundant, particularly during the rainy season.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "November - March",
+        "description": "The dry season brings lower rainfall and slightly cooler temperatures. It's a popular time for wildlife viewing and exploring the interior.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Cooler temperatures",
+          "Clear skies"
+        ],
+        "activities": [
+          "Wildlife safaris",
+          "Hiking",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Rainy Season",
+        "period": "April - October",
+        "description": "The rainy season is characterized by heavy rainfall and high humidity. Rivers swell, and travel can be challenging.",
+        "keyFeatures": [
+          "High rainfall",
+          "High humidity",
+          "Flooding"
+        ],
+        "activities": [
+          "River cruises",
+          "Fishing",
+          "Exploring waterfalls"
+        ]
+      },
+      {
+        "name": "Harmattan Winds",
+        "period": "December - February",
+        "description": "The Harmattan wind, originating from the Sahara Desert, brings dry, dusty air and reduced visibility.",
+        "keyFeatures": [
+          "Dry air",
+          "Dust storms",
+          "Reduced visibility"
+        ],
+        "activities": [
+          "Limited outdoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Sapo National Park",
+      "category": "Forest",
+      "description": "Sapo National Park is Liberia’s largest and most important protected area, a vital stronghold for West Africa’s endangered species. It’s a pristine rainforest teeming with diverse flora and fauna, including chimpanzees, forest elephants, and various primate species.",
+      "detailedDescription": "The park encompasses a vast area of primary rainforest, offering unparalleled opportunities for wildlife observation and research.  Its rugged terrain and dense vegetation present a significant challenge for exploration, requiring experienced guides and careful planning.",
+      "bestTime": "Dry Season (November - March)",
+      "bestLocations": [
+        "Central Liberia"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring insect repellent",
+        "Wear sturdy hiking boots"
+      ],
+      "scientificData": {
+        "Area": "2,600 sq km",
+        "Elevation": "600m - 1,800m",
+        "Age": "Millions of years"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Tinney Island Falls",
+      "category": "Waterfall",
+      "description": "Tinney Island Falls is a stunning series of waterfalls cascading down a rocky cliff face into a refreshing pool. It’s a popular destination for swimming and enjoying the natural beauty of the region.",
+      "detailedDescription": "Located in the Bassa Plateau region, the falls are surrounded by lush vegetation and offer a tranquil escape from the hustle and bustle of daily life. The surrounding area is also home to a variety of bird species.",
+      "bestTime": "Dry Season (November - March)",
+      "bestLocations": [
+        "Bassa Plateau"
+      ],
+      "viewingTips": [
+        "Wear water shoes",
+        "Bring a towel",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Height": "30m",
+        "Flow Rate": "Variable depending on rainfall"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Liberia's Ecosystems",
+    "overview": "Liberia’s ecosystems are remarkably diverse, ranging from dense rainforests to coastal plains and savanna grasslands. The country is a biodiversity hotspot, harboring a significant number of endemic species.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 3.5%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forest Ecosystem",
+        "icon": "Trees",
+        "description": "Liberia’s rainforests cover approximately 50% of the country and are home to a vast array of plant and animal life.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 600",
+            "details": "A significant proportion are endemic to Liberia."
+          },
+          {
+            "category": "Endemic Mammals",
+            "count": "30+",
+            "details": "Many species are found nowhere else on Earth."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Western Lowland Gorilla",
+            "status": "Endangered",
+            "significance": "A key indicator of rainforest health."
+          },
+          {
+            "name": "Red Colobus Monkey",
+            "status": "Vulnerable",
+            "significance": "A flagship species for conservation efforts."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Community-based conservation",
+          "Reforestation projects"
+        ]
+      },
+      {
+        "name": "Coastal Ecosystem",
+        "icon": "Waves",
+        "description": "Liberia’s coastline is characterized by mangrove forests, sandy beaches, and coral reefs.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 100,000 hectares",
+            "details": "Crucial for coastal protection and fisheries."
+          },
+          {
+            "category": "Coral Reef Coverage",
+            "count": "Limited",
+            "details": "Threatened by pollution and climate change."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Leatherback Turtle",
+            "status": "Endangered",
+            "significance": "A vital part of the coastal ecosystem."
+          },
+          {
+            "name": "Various Fish Species",
+            "status": "Varying",
+            "significance": "Important for local fisheries."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration",
+          "Marine protected areas",
+          "Sustainable fishing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Liberia",
+    "description": "Liberia offers a range of outdoor activities, from wildlife safaris to river cruises and hiking adventures.  However, travel can be challenging due to infrastructure limitations and security concerns.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Liberia’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Sapo National Park Trek",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "3-7 days",
+            "description": "A challenging trek through the heart of Sapo National Park, offering opportunities to spot wildlife.",
+            "bestLocations": [
+              "Sapo National Park"
+            ],
+            "requirements": "Hiking boots, insect repellent, water bottle, local guide",
+            "safety": [
+              "Wildlife encounters",
+              "Terrain hazards"
+            ]
+          },
+          {
+            "name": "Bassa Plateau Hike",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "1-3 days",
+            "description": "A scenic hike through the Bassa Plateau, offering stunning views of the surrounding countryside.",
+            "bestLocations": [
+              "Bassa Plateau"
+            ],
+            "requirements": "Comfortable shoes, sunscreen, hat",
+            "safety": [
+              "Sun exposure"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Safaris",
+        "icon": "Bird",
+        "description": "Experience Liberia’s incredible wildlife in its natural habitat.",
+        "activities": [
+          {
+            "name": "Sapo National Park Safari",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "5-10 days",
+            "description": "A guided safari through Sapo National Park, focusing on wildlife viewing.",
+            "bestLocations": [
+              "Sapo National Park"
+            ],
+            "requirements": "Binoculars, camera, khaki clothing",
+            "safety": [
+              "Wildlife encounters"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "River Cruises",
+        "icon": "Navigation",
+        "description": "Explore Liberia’s rivers and waterways.",
+        "activities": [
+          {
+            "name": "St. Elizabeth River Cruise",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "1-2 days",
+            "description": "A relaxing cruise along the St. Elizabeth River, offering opportunities to spot wildlife and enjoy the scenery.",
+            "bestLocations": [
+              "St. Elizabeth River"
+            ],
+            "requirements": "Sunscreen, hat, insect repellent",
+            "safety": [
+              "Sun exposure"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Insect repellent, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Consult your doctor about necessary vaccinations",
+        "Be aware of your surroundings",
+        "Travel with a reputable tour operator"
+      ]
+    }
+  }
+}

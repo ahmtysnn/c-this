@@ -1,0 +1,364 @@
+{
+  "name": "Libya",
+  "region": "North Africa",
+  "description": "Libya, officially the Arab Republic of Libya, is a country located in North Africa. It borders six countries: Tunisia to the northwest, Algeria to the west, Chad and Niger to the south, and Egypt to the east. The country is characterized by vast deserts, including the Sahara, and features a Mediterranean coastline. Libya possesses significant oil reserves, which have historically shaped its economy and political landscape. Despite recent political instability, Libya boasts a rich cultural heritage, evident in its ancient ruins, traditional music, and diverse tribal communities.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Tripoli",
+      "icon": "MapPin",
+      "description": "The bustling capital and largest city of Libya, a major port and commercial center.",
+      "detail": "Tripoli is known for its Ottoman-era architecture, vibrant souks (markets), and historical significance as a Phoenician and Roman settlement."
+    },
+    {
+      "label": "Population",
+      "value": "6.8 million",
+      "icon": "Users",
+      "description": "Libya's population is a diverse mix of Arabs, Berbers, Egyptians, and other ethnicities.",
+      "detail": "The population density is relatively low, with most people concentrated along the coast and in major cities."
+    },
+    {
+      "label": "Area",
+      "value": "1.758.400 km²",
+      "icon": "Globe",
+      "description": "Libya is the tenth-largest country in Africa.",
+      "detail": "Approximately 90% of the country is covered by the Sahara Desert."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "ArrowRight",
+      "description": "The official language of Libya.",
+      "detail": "Several dialects of Arabic are spoken throughout the country."
+    },
+    {
+      "label": "Currency",
+      "value": "Libyan Dinar (LYD)",
+      "icon": "Zap",
+      "description": "The currency used in Libya.",
+      "detail": "The Libyan Dinar is pegged to the US dollar."
+    },
+    {
+      "label": "GDP",
+      "value": "$68.8 billion (2022)",
+      "icon": "Coffee",
+      "description": "Libya's economy is heavily reliant on oil exports.",
+      "detail": "Recent political instability has significantly impacted the country's economic growth."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Libya",
+    "description": "Libya experiences a hot desert climate with extreme temperature variations. Summers are scorching, while winters are mild, especially along the coast. Rainfall is scarce, primarily concentrated during the winter months.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "The hottest period of the year, characterized by intense heat and humidity.",
+        "keyFeatures": [
+          "Extreme heat",
+          "High humidity",
+          "Scorching sun"
+        ],
+        "activities": [
+          "Relaxing by the coast",
+          "Visiting historical sites (early morning/late evening)"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "Mild temperatures, particularly along the Mediterranean coast. Rainfall is more frequent during this season.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Occasional rainfall",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking in the Jebel Akhdar mountains",
+          "Exploring coastal towns"
+        ]
+      },
+      {
+        "name": "Spring/Autumn (March - May & September - November)",
+        "period": "March to May & September to November",
+        "description": "Pleasant temperatures and comfortable conditions, ideal for outdoor activities.",
+        "keyFeatures": [
+          "Moderate temperatures",
+          "Lower humidity",
+          "Pleasant sunshine"
+        ],
+        "activities": [
+          "Desert exploration",
+          "Wildlife viewing",
+          "Cultural tours"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Jebel Akhdar (Green Mountain)",
+      "category": "Mountain Range",
+      "description": "Jebel Akhdar, meaning 'Green Mountain,' is a stunning mountain range in the central Nafusa Mountains, known for its terraced farms, ancient villages, and dramatic landscapes.",
+      "detailedDescription": "The mountains are characterized by fertile valleys carved into the rock, producing olives, almonds, and citrus fruits. The area is rich in Berber culture and history, with numerous traditional villages offering a glimpse into a bygone era.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Saharia",
+        "Kawkab",
+        "Jabal al-Farha"
+      ],
+      "viewingTips": [
+        "Hire a local guide to explore the villages",
+        "Wear comfortable hiking shoes"
+      ],
+      "scientificData": {
+        "Height": "2,200m",
+        "ElevationRange": "1,500m - 2,200m",
+        "GeologicalFormation": "Eocene limestone"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Siwa Oasis",
+      "category": "Oasis",
+      "description": "Siwa Oasis is a remote and ancient oasis in the Western Desert, renowned for its unique culture, stunning landscapes, and ancient ruins.",
+      "detailedDescription": "The oasis is centered around Lake Siwa, a saltwater lake with therapeutic properties. The area is home to a distinct Berber community that has preserved its traditions and customs for centuries. The ruins of Shali, a mud-brick fortress, offer a glimpse into the oasis's rich past.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Shali Ruins",
+        "Lake Siwa",
+        "Temple of the Oracle"
+      ],
+      "viewingTips": [
+        "Respect local customs and traditions",
+        "Try Siwan cuisine"
+      ],
+      "scientificData": {
+        "Area": "300 km²",
+        "WaterSource": "Underground springs",
+        "Flora": "Date palms, acacia trees"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Libya",
+    "overview": "Libya's ecosystems are primarily desert, with limited areas of coastal vegetation and oases. The Sahara Desert dominates the landscape, supporting a sparse but resilient flora and fauna.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 5% (increasing)",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Desert Flora",
+        "icon": "Tree",
+        "description": "The flora of Libya's deserts is adapted to extreme conditions, including drought, high temperatures, and salinity.",
+        "statistics": [
+          {
+            "category": "Succulents",
+            "count": "150+",
+            "details": "Various species of cacti and succulents thrive in the arid environment."
+          },
+          {
+            "category": "Shrubs",
+            "count": "50+",
+            "details": "Drought-resistant shrubs provide limited vegetation cover."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Aloe Vera",
+            "status": "Common",
+            "significance": "Medicinal properties and drought tolerance"
+          },
+          {
+            "name": "Euphorbia",
+            "status": "Common",
+            "significance": "Succulent plant adapted to harsh conditions"
+          }
+        ],
+        "threats": [
+          "Overgrazing",
+          "Desertification"
+        ],
+        "conservationEfforts": [
+          "Reforestation projects (limited)"
+        ]
+      },
+      {
+        "name": "Coastal Vegetation",
+        "icon": "Waves",
+        "description": "Along the Mediterranean coast, a narrow band of vegetation exists, including shrubs, grasses, and some trees.",
+        "statistics": [
+          {
+            "category": "Shrubland",
+            "count": "Extensive",
+            "details": "Dominates the coastal vegetation zone."
+          },
+          {
+            "category": "Date Palms",
+            "count": "Numerous",
+            "details": "Cultivated in oases and along the coast."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Tamarix",
+            "status": "Common",
+            "significance": "Salt-tolerant shrub"
+          },
+          {
+            "name": "Ziziphus",
+            "status": "Common",
+            "significance": "Date palm species"
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Saltwater intrusion"
+        ],
+        "conservationEfforts": [
+          "Coastal zone management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Libya",
+    "description": "Libya offers a range of outdoor activities, primarily focused on exploring its deserts and coast.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the rugged mountains and desert landscapes on foot.",
+        "activities": [
+          {
+            "name": "Jebel Akhdar Trek",
+            "difficulty": "Moderate",
+            "season": "Spring/Autumn",
+            "duration": "2-5 days",
+            "description": "Hike through the stunning landscapes of Jebel Akhdar, visiting Berber villages and exploring ancient ruins.",
+            "bestLocations": [
+              "Saharia",
+              "Kawkab"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen, hat",
+            "safety": [
+              "Heatstroke",
+              "Dehydration"
+            ]
+          },
+          {
+            "name": "Siwa Oasis Hiking",
+            "difficulty": "Easy",
+            "season": "Spring/Autumn",
+            "duration": "1-3 days",
+            "description": "Explore the Siwa Oasis on foot, visiting the Shali ruins and Lake Siwa.",
+            "bestLocations": [
+              "Shali Ruins",
+              "Lake Siwa"
+            ],
+            "requirements": "Comfortable walking shoes, sunscreen, hat",
+            "safety": [
+              "Heatstroke"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Desert Exploration",
+        "icon": "Navigation",
+        "description": "Experience the vastness and beauty of Libya's deserts.",
+        "activities": [
+          {
+            "name": "4x4 Desert Safari",
+            "difficulty": "Moderate",
+            "season": "Autumn/Winter",
+            "duration": "1-3 days",
+            "description": "Explore the desert in a 4x4 vehicle, visiting sand dunes and remote oases.",
+            "bestLocations": [
+              "Hamada Salam",
+              "Al-Aziziya"
+            ],
+            "requirements": "4x4 vehicle, driver's license, water, sunscreen",
+            "safety": [
+              "Sandstorms",
+              "Vehicle breakdown"
+            ]
+          },
+          {
+            "name": "Camel Trekking",
+            "difficulty": "Easy",
+            "season": "Autumn/Winter",
+            "duration": "1-3 days",
+            "description": "Experience the desert like the ancient nomads, trekking on camels.",
+            "bestLocations": [
+              "Siwa Oasis"
+            ],
+            "requirements": "Camel guide, appropriate clothing",
+            "safety": [
+              "Heatstroke"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Mediterranean coastline with various water sports.",
+        "activities": [
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Swim in the clear waters of the Mediterranean Sea.",
+            "bestLocations": [
+              "Marsa Matruh",
+              "Sousse"
+            ],
+            "requirements": "Swimsuit, sunscreen",
+            "safety": [
+              "Rip currents"
+            ]
+          },
+          {
+            "name": "Snorkeling/Diving",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Explore the underwater world of the Mediterranean Sea.",
+            "bestLocations": [
+              "Sabratha",
+              "Ghadir"
+            ],
+            "requirements": "Snorkeling gear/diving equipment",
+            "safety": [
+              "Marine life"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, sunscreen, hat, sunglasses",
+        "winter": "Warm layers, jacket, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, modest clothing for visiting religious sites"
+      },
+      "equipment": {
+        "basic": "Water bottle, flashlight, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Heatstroke",
+        "Dehydration",
+        "Sandstorms",
+        "Political instability (check travel advisories)"
+      ]
+    }
+  }
+}

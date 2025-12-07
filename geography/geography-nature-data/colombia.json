@@ -1,0 +1,367 @@
+{
+  "name": "Colombia",
+  "region": "South America",
+  "description": "Colombia, officially the Republic of Colombia, is a country in northwestern South America. Known as the 'Land of Coffee' and the 'Emerald of the Continent,' it boasts incredible biodiversity, stunning landscapes ranging from the Andes Mountains to the Amazon rainforest, and a rich cultural heritage shaped by indigenous, Spanish, and African influences.  Its diverse geography contributes to a wide array of climates and ecosystems, making it a truly remarkable destination.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "1,141,748 km²",
+      "icon": "MapPin",
+      "description": "Colombia is the world's 12th largest country by area.",
+      "detail": "This vast expanse encompasses diverse terrains, from coastal plains to high-altitude plateaus."
+    },
+    {
+      "label": "Population",
+      "value": "52.1 million",
+      "icon": "Users",
+      "description": "Colombia has a dynamic and growing population.",
+      "detail": "The population is distributed unevenly, with a higher concentration in urban areas."
+    },
+    {
+      "label": "Capital",
+      "value": "Bogotá",
+      "icon": "MapPin",
+      "description": "Bogotá is the bustling capital and largest city.",
+      "detail": "Located in the Andes Mountains, it's known for its vibrant culture and historical significance."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "ArrowRight",
+      "description": "Spanish is the primary language spoken throughout the country.",
+      "detail": "Indigenous languages are also spoken in various regions."
+    },
+    {
+      "label": "Currency",
+      "value": "Colombian Peso (COP)",
+      "icon": "Zap",
+      "description": "The Colombian Peso is the official currency.",
+      "detail": "Exchange rates fluctuate, so it's wise to check current rates before traveling."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 367.7 billion (2023)",
+      "icon": "Globe",
+      "description": "Colombia has a growing economy.",
+      "detail": "Key sectors include agriculture, manufacturing, and services."
+    }
+  ],
+  "climateData": {
+    "title": "Colombia's Diverse Climate",
+    "description": "Colombia experiences a wide range of climates due to its varied topography and latitude. From tropical rainforests to temperate highlands, the country offers distinct seasonal variations.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season (May - October)",
+        "period": "May to October",
+        "description": "This season is characterized by heavy rainfall, particularly in the Caribbean and Pacific coasts, and the Amazon basin.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent thunderstorms",
+          "Flooding in low-lying areas"
+        ],
+        "activities": [
+          "Waterfalls",
+          "River rafting",
+          "Exploring rainforests"
+        ]
+      },
+      {
+        "name": "Dry Season (November - April)",
+        "period": "November to April",
+        "description": "The dry season brings sunshine and lower humidity, making it ideal for outdoor activities.",
+        "keyFeatures": [
+          "Clear skies",
+          "Lower humidity",
+          "Pleasant temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Visiting coffee plantations"
+        ]
+      },
+      {
+        "name": "Cool Season (June - August)",
+        "period": "June to August",
+        "description": "Temperatures drop in the Andes Mountains, creating a cool and refreshing climate.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Occasional frost in the highlands",
+          "Beautiful mountain scenery"
+        ],
+        "activities": [
+          "Skiing",
+          "Mountain trekking",
+          "Visiting colonial towns"
+        ]
+      },
+      {
+        "name": "Warm Season (September - November)",
+        "period": "September to November",
+        "description": "Warm temperatures prevail across the country, with the Amazon region experiencing its warmest months.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "High humidity",
+          "Abundant rainfall in the Amazon"
+        ],
+        "activities": [
+          "Amazon river cruises",
+          "Wildlife spotting",
+          "Exploring the jungle"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Amazon Rainforest",
+      "category": "Rainforest",
+      "description": "The Amazon Rainforest, spanning parts of Colombia, Brazil, Peru, and other South American countries, is the world's largest tropical rainforest. It's a biodiversity hotspot, home to countless plant and animal species.",
+      "detailedDescription": "The Amazon River, the world's second-longest river, flows through the heart of the rainforest, supporting a complex ecosystem. Indigenous communities have lived in harmony with the forest for centuries.",
+      "bestTime": "Year-round, but the dry season (December-April) offers easier access to trails.",
+      "bestLocations": [
+        "Leticia",
+        "Puerto Nariño"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring insect repellent",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Area": "14 million km²",
+        "Biodiversity": "Estimated 10% of the world's known species"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Tayrona National Natural Park",
+      "category": "Coastal Park",
+      "description": "Located on Colombia's Caribbean coast, Tayrona National Park is a stunning coastal paradise with pristine beaches, lush rainforests, and dramatic cliffs.",
+      "detailedDescription": "The park protects a unique ecosystem where the rainforest meets the sea. It's a haven for wildlife, including monkeys, sloths, and various bird species. The park's beaches are renowned for their beauty and tranquility.",
+      "bestTime": "December to April (dry season)",
+      "bestLocations": [
+        "Santa Marta",
+        "Taganga"
+      ],
+      "viewingTips": [
+        "Book accommodations in advance",
+        "Wear comfortable shoes",
+        "Bring sunscreen"
+      ],
+      "scientificData": {
+        "Elevation": "0 - 1,160 m",
+        "Vegetation": "Tropical rainforest, coastal scrub"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Los Nevados National Natural Park",
+      "category": "Mountain Park",
+      "description": "Los Nevados National Natural Park is a majestic mountain range in the Colombian Andes, characterized by its snow-capped peaks, glaciers, and volcanic activity.",
+      "detailedDescription": "The park offers incredible opportunities for mountaineering, trekking, and wildlife viewing. It's home to the Paramillo Volcano, one of Colombia's most iconic peaks. The park's diverse ecosystems range from alpine tundra to cloud forests.",
+      "bestTime": "June to September (dry season)",
+      "bestLocations": [
+        "El Peñol",
+        "Manizales"
+      ],
+      "viewingTips": [
+        "Hire a certified mountain guide",
+        "Check weather conditions",
+        "Be prepared for altitude sickness"
+      ],
+      "scientificData": {
+        "Elevation": "2,600 - 5,474 m",
+        "Volcanic Activity": "Active, with several glaciers"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Orchid Diversity",
+    "icon": "Leaf",
+    "description": "Colombia is a global hotspot for orchid diversity, boasting an estimated 2,000 native species.",
+    "statistics": [
+      {
+        "category": "Species Count",
+        "count": "2,000+",
+        "details": "The highest concentration of orchid species in the world."
+      },
+      {
+        "category": "Habitat Range",
+        "count": "Diverse",
+        "details": "Orchids are found in a wide range of habitats, from cloud forests to coastal mangroves."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Cattleya violacea",
+        "status": "Endangered",
+        "significance": "A stunning purple orchid found in the cloud forests of the Andes."
+      },
+      {
+        "name": "Masdevallia spp.",
+        "status": "Vulnerable",
+        "significance": "A diverse group of miniature orchids known for their vibrant colors and unique shapes."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Illegal collection",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Sustainable tourism",
+      "Seed banking"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Colombian Ecosystems",
+    "overview": "Colombia's diverse geography supports a wide range of ecosystems, including rainforests, grasslands, wetlands, and mountains.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Amazonian Ecosystem",
+        "icon": "Leaf",
+        "description": "The Amazon rainforest covers a significant portion of Colombia, playing a crucial role in global climate regulation.",
+        "statistics": [
+          {
+            "category": "Forest Cover",
+            "count": "20%",
+            "details": "Colombia's portion of the Amazon rainforest."
+          },
+          {
+            "category": "River Systems",
+            "count": "Numerous",
+            "details": "The Amazon River and its tributaries are vital for transportation and biodiversity."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Vulnerable",
+            "significance": "A top predator in the Amazon rainforest."
+          },
+          {
+            "name": "Giant Otter",
+            "status": "Endangered",
+            "significance": "The largest otter species in the world."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Mining",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "REDD+ projects",
+          "Community-based conservation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Colombia",
+    "description": "Colombia offers a diverse range of outdoor activities for all levels of experience.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Colombia's stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Lost City Trek",
+            "difficulty": "Hard",
+            "season": "Dry Season (December-April)",
+            "duration": "4-6 days",
+            "description": "A challenging trek through the jungle to reach the ancient ruins of Ciudad Perdida.",
+            "bestLocations": [
+              "Sierra Nevada de Santa Marta"
+            ],
+            "requirements": "Good physical fitness, hiking boots, insect repellent",
+            "safety": [
+              "Hire a guide",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Cocora Valley Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-4 hours",
+            "description": "Hike through the stunning Cocora Valley, home to the world's tallest palm trees.",
+            "bestLocations": [
+              "Salento"
+            ],
+            "requirements": "Comfortable shoes, rain gear",
+            "safety": [
+              "Watch out for slippery trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy Colombia's beautiful coastlines with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate",
+            "season": "Dry Season (December-April)",
+            "duration": "Variable",
+            "description": "Catch some waves on Colombia's Pacific coast.",
+            "bestLocations": [
+              "El Cartenero",
+              "Usaquén"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on the season)",
+            "safety": [
+              "Check surf conditions",
+              "Use a leash"
+            ]
+          },
+          {
+            "name": "White Water Rafting",
+            "difficulty": "Moderate",
+            "season": "Dry Season (December-April)",
+            "duration": "Half-day to full-day",
+            "description": "Raft down Colombia's exhilarating rivers.",
+            "bestLocations": [
+              "Guavio",
+              "Caño Cristales"
+            ],
+            "requirements": "Life jacket, helmet",
+            "safety": [
+              "Follow the guide's instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Layers, warm jacket, waterproof clothing",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, headlamp",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "name": "Congo",
+  "region": "Central Africa",
+  "description": "The Democratic Republic of the Congo (DRC) is a nation of immense biodiversity, dramatic landscapes, and a complex history. Situated in Central Africa, it’s renowned for its vast rainforests, the second-largest in the world, harboring incredible wildlife and unique ecosystems. The country faces significant challenges including political instability, poverty, and ongoing conservation efforts to protect its natural heritage.  It’s a land of immense potential, striving for sustainable development and a brighter future for its people.",
+  "quickFacts": [
+    {
+      "label": "Official Name",
+      "value": "Democratic Republic of the Congo",
+      "icon": "Globe",
+      "description": "The DRC is the largest country in Central Africa by area.",
+      "detail": "Formally known as Zaire until 1997."
+    },
+    {
+      "label": "Capital",
+      "value": "Kinshasa",
+      "icon": "MapPin",
+      "description": "The bustling capital city is located on the Congo River.",
+      "detail": "Kinshasa is the world's fourth-largest city by population."
+    },
+    {
+      "label": "Population",
+      "value": "Approximately 102 million",
+      "icon": "Users",
+      "description": "The DRC has a large and diverse population.",
+      "detail": "The population is comprised of numerous ethnic groups."
+    },
+    {
+      "label": "Area",
+      "value": "2,345,410 sq km",
+      "icon": "MapPin",
+      "description": "The DRC covers a vast area of Central Africa.",
+      "detail": "It borders eight countries."
+    },
+    {
+      "label": "Currency",
+      "value": "Congolese Franc (CDF) & US Dollar (USD)",
+      "icon": "Coffee",
+      "description": "Both currencies are used in the country.",
+      "detail": "The Franc is the official currency, but the USD is widely accepted."
+    },
+    {
+      "label": "Languages",
+      "value": "French, Lingala, Swahili, Kikongo",
+      "icon": "Navigation",
+      "description": "Multiple languages are spoken throughout the country.",
+      "detail": "French is the official language, inherited from colonial times."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of the Democratic Republic of the Congo",
+    "description": "The DRC experiences a tropical equatorial climate, characterized by high temperatures and humidity year-round. Rainfall is abundant, with distinct wet and dry seasons. The country’s climate varies slightly depending on altitude and location.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season",
+        "period": "November – March",
+        "description": "This season is marked by heavy rainfall and increased humidity. Rivers swell, making travel difficult in some areas.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Flooding"
+        ],
+        "activities": [
+          "River cruises",
+          "Wildlife viewing (increased water activity)"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "April – October",
+        "description": "The dry season brings lower rainfall and cooler temperatures. Wildlife congregates around water sources.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Cooler temperatures",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Game drives",
+          "Birdwatching"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Virunga National Park",
+      "category": "National Park",
+      "description": "Virunga National Park is a UNESCO World Heritage Site and one of Africa’s oldest national parks. It’s renowned for its incredible biodiversity, including mountain gorillas, chimpanzees, and a vast array of bird species. The park straddles three countries: DRC, Uganda, and Rwanda.",
+      "detailedDescription": "Located in the eastern Democratic Republic of the Congo, Virunga encompasses a dramatic volcanic landscape, including the Virunga Mountains. It’s a critical habitat for endangered species and a vital conservation area.",
+      "bestTime": "June – September (dry season)",
+      "bestLocations": [
+        "Muhangi Plateau",
+        "Nyiragongo Volcano",
+        "Rushaba Sector"
+      ],
+      "viewingTips": [
+        "Hire experienced guides",
+        "Respect wildlife boundaries",
+        "Bring appropriate clothing"
+      ],
+      "scientificData": {
+        "Height": "2,954m (Mount Nyiragongo)",
+        "Area": "3,500 sq km"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Lola Ya Songo",
+      "category": "Natural Wonder",
+      "description": "Lola Ya Songo is a mysterious and ancient site located on the banks of the Congo River. Legend has it that it was a trading post and a place of worship for the Bakongo people.",
+      "detailedDescription": "The site features a series of caves, pools, and a large, imposing stone structure. Its origins and purpose remain shrouded in mystery, fueling local legends and attracting visitors from around the world.",
+      "bestTime": "Anytime",
+      "bestLocations": [
+        "Congo River, near Kinzambo"
+      ],
+      "viewingTips": [
+        "Listen to local stories",
+        "Explore the caves carefully",
+        "Respect the site's cultural significance"
+      ],
+      "scientificData": {
+        "Age": "Estimated 500-800 years old",
+        "Material": "Local sandstone"
+      },
+      "icon": "Eye"
+    },
+    {
+      "id": 3,
+      "name": "Sangha River Rapids",
+      "category": "River Rapids",
+      "description": "The Sangha River is known for its exhilarating rapids and stunning scenery. It offers a thrilling experience for experienced kayakers and rafters.",
+      "detailedDescription": "The rapids are located in a remote area of the northwestern DRC, surrounded by dense rainforest. The river’s pristine waters and dramatic landscapes make it a truly unforgettable destination.",
+      "bestTime": "June – September (dry season)",
+      "bestLocations": [
+        "Near the town of Sangha"
+      ],
+      "viewingTips": [
+        "Hire experienced guides",
+        "Wear appropriate safety gear",
+        "Be prepared for challenging conditions"
+      ],
+      "scientificData": {
+        "Gradient": "15-20 meters per kilometer",
+        "Length": "Approximately 800 km"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Primates",
+    "icon": "Bird",
+    "description": "The DRC is home to a remarkable diversity of primate species, including gorillas, chimpanzees, and monkeys.",
+    "statistics": [
+      {
+        "category": "Mountain Gorillas",
+        "count": "Approximately 600",
+        "details": "Found primarily in Virunga National Park and other protected areas."
+      },
+      {
+        "category": "Chimpanzees",
+        "count": "Estimated 100,000",
+        "details": "Distributed throughout the rainforests of the DRC."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Grauer's Gorilla",
+        "status": "Critically Endangered",
+        "significance": "The largest gorilla subspecies, found only in the eastern DRC."
+      },
+      {
+        "name": "Western Chimpanzee",
+        "status": "Endangered",
+        "significance": "Known for its complex social behavior and tool use."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Political instability"
+    ],
+    "conservationEfforts": [
+      "Anti-poaching patrols",
+      "Community-based conservation programs",
+      "Transboundary conservation agreements"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Tropical Rainforest Ecosystem",
+    "overview": "The Democratic Republic of the Congo is dominated by vast tropical rainforests, which play a crucial role in regulating the region’s climate and supporting an incredible array of biodiversity. These forests are vital carbon sinks and home to countless plant and animal species.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "The rainforest is home to an estimated 10,000 plant species, including many endemic species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 800",
+            "details": "Dominantly hardwoods and valuable timber species."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Logging",
+          "Deforestation"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Reforestation programs"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "The rainforest is teeming with wildlife, including primates, elephants, leopards, and a vast array of bird species.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "Over 900",
+            "details": "Including numerous endemic and migratory species."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Poaching",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Wildlife corridors"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in the DRC",
+    "description": "The DRC offers a wide range of outdoor activities for adventurous travelers, from wildlife viewing to trekking and river expeditions.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the country’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Virunga Mountain Trek",
+            "difficulty": "Hard",
+            "season": "Dry Season",
+            "duration": "3-5 days",
+            "description": "A challenging trek to the summit of Mount Nyiragongo, an active volcano.",
+            "bestLocations": [
+              "Virunga National Park"
+            ],
+            "requirements": "Good physical fitness, trekking boots, warm clothing",
+            "safety": [
+              "Hire experienced guides",
+              "Be aware of volcanic activity"
+            ]
+          },
+          {
+            "name": "Sangha River Trek",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "3-7 days",
+            "description": "A multi-day trek through the rainforest along the Sangha River.",
+            "bestLocations": [
+              "Sangha River"
+            ],
+            "requirements": "Hiking boots, insect repellent, waterproof clothing",
+            "safety": [
+              "Be aware of wildlife",
+              "Carry sufficient water"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Viewing",
+        "icon": "Bird",
+        "description": "Observe the DRC’s incredible wildlife in their natural habitat.",
+        "activities": [
+          {
+            "name": "Gorilla Trekking",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "1-2 days",
+            "description": "Track and spend time with mountain gorillas in Virunga National Park.",
+            "bestLocations": [
+              "Virunga National Park"
+            ],
+            "requirements": "Permits, experienced guides",
+            "safety": [
+              "Maintain a safe distance from gorillas"
+            ]
+          },
+          {
+            "name": "Safari in South Kitangole",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "2-4 days",
+            "description": "Explore the diverse wildlife of South Kitangole National Park.",
+            "bestLocations": [
+              "South Kitangole"
+            ],
+            "requirements": "Binoculars, camera",
+            "safety": [
+              "Follow guide instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, long sleeves and pants for insect protection",
+        "winter": "Warm layers, waterproof jacket and pants, hat, gloves",
+        "yearRound": "Comfortable walking shoes, swimwear"
+      },
+      "equipment": {
+        "basic": "Insect repellent, sunscreen, hat, flashlight, first-aid kit",
+        "hiking": "Trekking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Consult a doctor before traveling"
+      ]
+    }
+  }
+}

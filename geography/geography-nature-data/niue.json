@@ -1,0 +1,347 @@
+{
+  "name": "Niue",
+  "region": "Oceania",
+  "description": "Niue, known as the 'Rock', is a small, self-governing island nation in the South Pacific, part of Polynesia. It’s renowned for its stunning volcanic landscapes, pristine coral reefs, and rich Polynesian culture.  Unlike many other Pacific islands, Niue is largely underwater, having subsided significantly over millions of years, creating a unique and dramatic topography. It offers a truly immersive experience of untouched nature and traditional Polynesian life.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "261 km²",
+      "icon": "MapPin",
+      "description": "The entire island nation.",
+      "detail": "Niue is one of the smallest island nations in the world."
+    },
+    {
+      "label": "Population",
+      "value": "1,733 (2023)",
+      "icon": "Users",
+      "description": "The population of Niue.",
+      "detail": "Predominantly Niuean, with a small number of expatriates."
+    },
+    {
+      "label": "Capital",
+      "value": "Niuepalega",
+      "icon": "MapPin",
+      "description": "The administrative center of Niue.",
+      "detail": "It's a small village, reflecting the island's rural character."
+    },
+    {
+      "label": "Language",
+      "value": "Niuean, English",
+      "icon": "Globe",
+      "description": "The official languages of Niue.",
+      "detail": "Niuean is a Polynesian language closely related to Tokelauan."
+    },
+    {
+      "label": "Currency",
+      "value": "NZD (New Zealand Dollar)",
+      "icon": "Coffee",
+      "description": "The currency used in Niue.",
+      "detail": "Niue accepts NZD as its primary currency."
+    },
+    {
+      "label": "Time Zone",
+      "value": "UTC+12",
+      "icon": "Clock",
+      "description": "Niue's time zone.",
+      "detail": "This is 12 hours ahead of GMT."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Niue",
+    "description": "Niue enjoys a tropical maritime climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, contributing to the lush vegetation and vibrant ecosystems.  The island experiences a distinct wet season and a slightly drier period.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (December - March)",
+        "period": "Warm & Wet",
+        "description": "Summer brings consistently high temperatures and frequent rainfall. It's the peak of the wet season, with occasional tropical storms.",
+        "keyFeatures": [
+          "High humidity",
+          "Heavy rainfall",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Swimming",
+          "Snorkeling",
+          "Hiking",
+          "Cultural events"
+        ]
+      },
+      {
+        "name": "Autumn (April - May)",
+        "period": "Transition",
+        "description": "Autumn sees a gradual decrease in rainfall and a slight cooling of temperatures. The landscape is vibrant with autumn colors.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Mild temperatures",
+          "Colorful foliage"
+        ],
+        "activities": [
+          "Hiking",
+          "Fishing",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Winter (June - November)",
+        "period": "Dry & Mild",
+        "description": "Winter is the driest period, with lower humidity and milder temperatures.  It's a pleasant time for outdoor activities.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Mild temperatures",
+          "Sunny days"
+        ],
+        "activities": [
+          "Diving",
+          "Snorkeling",
+          "Exploring caves",
+          "Cultural tours"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lake Rotomito",
+      "category": "Cave System",
+      "description": "Lake Rotomito is a unique, submerged volcanic crater lake, accessible only by boat or diving. Its crystal-clear waters and surrounding volcanic rock formations create a breathtaking underwater landscape.",
+      "detailedDescription": "The lake is a remnant of a massive volcanic eruption that occurred millions of years ago.  It’s a significant geological feature and a popular dive site.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Lake Rotomito"
+      ],
+      "viewingTips": [
+        "Hire a local guide for boat tours.",
+        "Bring underwater cameras."
+      ],
+      "scientificData": {
+        "Depth": "30m",
+        "Volume": "1.2 million cubic meters",
+        "Age": "2-3 million years"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Nghi Lagoon",
+      "category": "Coral Reef",
+      "description": "Nghi Lagoon is a stunning coral reef system teeming with marine life, offering exceptional snorkeling and diving opportunities. Its vibrant colors and diverse ecosystem make it a true underwater paradise.",
+      "detailedDescription": "The lagoon is a protected marine reserve, contributing to its exceptional biodiversity. It’s a crucial habitat for numerous fish species, coral, and other marine organisms.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Nghi Lagoon"
+      ],
+      "viewingTips": [
+        "Respect the marine environment.",
+        "Use reef-safe sunscreen."
+      ],
+      "scientificData": {
+        "Coral Coverage": "40%",
+        "Fish Species": "Over 150"
+      },
+      "icon": "Fish"
+    },
+    {
+      "id": 3,
+      "name": "Mount Akau",
+      "category": "Volcanic Peak",
+      "description": "Mount Akau is the highest point on Niue, offering panoramic views of the island and surrounding ocean. Its rugged volcanic landscape and unique geological formations make it a fascinating destination.",
+      "detailedDescription": "The mountain is a remnant of a volcanic eruption that shaped much of Niue's landscape. It’s a challenging but rewarding hike.",
+      "bestTime": "June - November",
+      "bestLocations": [
+        "Mount Akau"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots.",
+        "Bring plenty of water."
+      ],
+      "scientificData": {
+        "Height": "156m",
+        "Volcanic Type": "Shield Volcano"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Niue",
+    "overview": "Niue’s ecosystems are remarkably diverse, shaped by its volcanic origins, submerged topography, and tropical climate. The island boasts lush rainforests, vibrant coral reefs, and unique cave systems, all contributing to its rich biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 1
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral Reefs",
+        "icon": "Waves",
+        "description": "Niue’s coral reefs are among the healthiest in the South Pacific, supporting a vast array of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 50",
+            "details": "Diverse coral species contribute to the reef's complexity."
+          },
+          {
+            "category": "Fish Species",
+            "count": "150+",
+            "details": "A rich diversity of fish inhabit the reef ecosystem."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Clownfish",
+            "status": "Vulnerable",
+            "significance": "A keystone species in the reef ecosystem."
+          },
+          {
+            "name": "Manta Ray",
+            "status": "Endangered",
+            "significance": "A majestic predator of the reef."
+          }
+        ],
+        "threats": [
+          "Climate change",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Marine reserve management",
+          "Coral restoration projects"
+        ]
+      },
+      {
+        "name": "Rainforests",
+        "icon": "Trees",
+        "description": "Niue’s rainforests are characterized by towering trees, lush vegetation, and a high level of endemism (species found nowhere else).",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 100",
+            "details": "Many endemic tree species contribute to the rainforest's unique character."
+          },
+          {
+            "category": "Bird Species",
+            "count": "12",
+            "details": "A variety of bird species call the rainforest home."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Niuean Kingfisher",
+            "status": "Endangered",
+            "significance": "A rare and endemic bird species."
+          },
+          {
+            "name": "Giant Fern",
+            "status": "Endemic",
+            "significance": "A large fern species found only in Niue."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Forest conservation programs",
+          "Invasive species control"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Niue",
+    "description": "Niue offers a wide range of activities for visitors, from exploring its underwater wonders to experiencing its rich Polynesian culture.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Niue’s volcanic landscapes and rainforests on foot.",
+        "activities": [
+          {
+            "name": "Mount Akau Hike",
+            "difficulty": "Moderate",
+            "season": "June - November",
+            "duration": "3-4 hours",
+            "description": "Hike to the summit of Mount Akau for stunning views.",
+            "bestLocations": [
+              "Mount Akau"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen.",
+            "safety": [
+              "Be aware of slippery trails.",
+              "Check weather conditions."
+            ]
+          },
+          {
+            "name": "Waterfall Trail",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "A scenic trail leading to a beautiful waterfall.",
+            "bestLocations": [
+              "Waterfall Trail"
+            ],
+            "requirements": "Comfortable shoes.",
+            "safety": [
+              "Watch your footing."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of Niue with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Nghi Lagoon",
+              "Various bays"
+            ],
+            "requirements": "Snorkel gear, sunscreen.",
+            "safety": [
+              "Be aware of currents.",
+              "Use reef-safe sunscreen."
+            ]
+          },
+          {
+            "name": "Diving",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "Variable",
+            "description": "Discover the underwater caves and volcanic formations.",
+            "bestLocations": [
+              "Lake Rotomito",
+              "Various dive sites"
+            ],
+            "requirements": "Dive certification, dive gear.",
+            "safety": [
+              "Follow dive guidelines.",
+              "Check dive conditions."
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses.",
+        "winter": "Layers of clothing, waterproof jacket, sweater.",
+        "yearRound": "Comfortable walking shoes, sandals."
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit.",
+        "hiking": "Sturdy hiking boots, backpack, water bottle.",
+        "photography": "Camera, waterproof case."
+      },
+      "safety": [
+        "Respect local customs.",
+        "Be aware of the tropical climate.",
+        "Drink plenty of water."
+      ]
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "name": "Ethiopia",
+  "region": "Africa",
+  "description": "Ethiopia, the birthplace of coffee and one of Africa's oldest civilizations, is a land of dramatic landscapes, ancient cultures, and remarkable biodiversity.  From the towering Simien Mountains to the vast Ethiopian Rift Valley, the country offers a diverse range of experiences.  Its rich history is evident in its numerous historical sites, including Aksum, Lalibela, and Gonder, while its vibrant culture is reflected in its music, dance, and cuisine.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "123.4 million",
+      "icon": "Users",
+      "description": "Ethiopia is Africa's second-most populous country.",
+      "detail": "The population is largely concentrated in rural areas, with a growing urban population."
+    },
+    {
+      "label": "Area",
+      "value": "1103600 sq km",
+      "icon": "MapPin",
+      "description": "Ethiopia covers a vast area of the Horn of Africa.",
+      "detail": "It borders Eritrea, Sudan, Kenya, South Sudan, and Djibouti."
+    },
+    {
+      "label": "Capital",
+      "value": "Addis Ababa",
+      "icon": "MapPin",
+      "description": "The bustling capital city is a hub for regional diplomacy.",
+      "detail": "Addis Ababa is located at an elevation of approximately 8,000 feet."
+    },
+    {
+      "label": "Official Language",
+      "value": "Amharic",
+      "icon": "Globe",
+      "description": "Amharic is the language of government and commerce.",
+      "detail": "Oromo, Tigrinya, and Somali are also widely spoken."
+    },
+    {
+      "label": "Currency",
+      "value": "Ethiopian Birr (ETB)",
+      "icon": "Coffee",
+      "description": "The Birr is the official currency of Ethiopia.",
+      "detail": "It's pegged to the US dollar."
+    },
+    {
+      "label": "GDP",
+      "value": "$120 billion",
+      "icon": "Zap",
+      "description": "Ethiopia has a growing economy.",
+      "detail": "Agriculture remains a significant contributor to the GDP."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Ethiopia",
+    "description": "Ethiopia experiences a diverse range of climates due to its varied topography. Generally, it's a hot, dry country, but variations occur across regions. The Rift Valley creates a unique microclimate, while the highlands are cooler and wetter.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season (November - April)",
+        "period": "November - April",
+        "description": "This is the most common season, characterized by low rainfall and high temperatures. It's ideal for visiting the highlands and exploring historical sites.",
+        "keyFeatures": [
+          "Low rainfall",
+          "High temperatures",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Cultural tours",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Rainy Season (May - October)",
+        "period": "May - October",
+        "description": "The rainy season brings significant rainfall, particularly in the southwest. While it can make travel more challenging in some areas, it's crucial for agriculture and the landscape is lush and green.",
+        "keyFeatures": [
+          "High rainfall",
+          "Green landscapes",
+          "Flooding in lowlands"
+        ],
+        "activities": [
+          "River rafting",
+          "Waterfall viewing",
+          "Agricultural tourism"
+        ]
+      },
+      {
+        "name": "Cool Season (December - January)",
+        "period": "December - January",
+        "description": "Temperatures drop significantly in the highlands during this period, offering a pleasant climate for hiking and exploring.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Occasional frost",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Cultural festivals"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Simien Mountains National Park",
+      "category": "Mountain Range",
+      "description": "The Simien Mountains are a UNESCO World Heritage Site renowned for their dramatic landscapes, unique wildlife, and stunning biodiversity.  They offer unparalleled hiking opportunities and breathtaking views.",
+      "detailedDescription": "The park is home to the Gelada baboon, Walia ibex, and Ethiopian wolf, among other species. The jagged peaks and deep valleys create a truly spectacular environment.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "Debark",
+        "Gichachew"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Pack warm clothing",
+        "Bring binoculars"
+      ],
+      "scientificData": {
+        "Height": "4,230 m",
+        "Area": "3,500 sq km",
+        "ElevationRange": "1,500 - 4,230 m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Danakil Depression",
+      "category": "Volcanic Landscape",
+      "description": "The Danakil Depression is one of the hottest and lowest places on Earth, a surreal and otherworldly landscape of volcanic activity, salt flats, and hot springs.",
+      "detailedDescription": "The depression is a geological marvel, shaped by volcanic eruptions and tectonic activity. It's a challenging but rewarding destination for adventurous travelers.",
+      "bestTime": "November - March",
+      "bestLocations": [
+        "Mila Village",
+        "Erta Ale Volcano"
+      ],
+      "viewingTips": [
+        "Bring plenty of water",
+        "Wear protective clothing",
+        "Hire a reputable tour operator"
+      ],
+      "scientificData": {
+        "Temperature": "Up to 50°C",
+        "LowestElevation": "-120 m",
+        "VolcanicActivity": "Active volcanic vents"
+      },
+      "icon": "Flame"
+    },
+    {
+      "id": 3,
+      "name": "Blue Nile Falls",
+      "category": "Waterfall",
+      "description": "The Blue Nile Falls, also known as Tisisi, are a spectacular cascade of the Blue Nile River plunging into a deep gorge. They are a powerful and awe-inspiring sight.",
+      "detailedDescription": "The falls are a significant source of the Nile River and a symbol of Ethiopia's natural beauty. The surrounding area offers opportunities for wildlife viewing and cultural exploration.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Jukwe"
+      ],
+      "viewingTips": [
+        "Bring waterproof clothing",
+        "Take photos from various viewpoints"
+      ],
+      "scientificData": {
+        "Height": "80 m",
+        "FlowRate": "4,300 cubic meters per second"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ethiopian Ecosystems",
+    "overview": "Ethiopia boasts a diverse range of ecosystems, including afro-alpine forests, grasslands, wetlands, and drylands. These ecosystems support a rich array of plant and animal life, many of which are endemic to the region.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Ethiopia is home to a remarkable diversity of mammals, including the Ethiopian wolf, Gelada baboon, Walia ibex, and African wild dog.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "50+",
+            "details": "Many species are found nowhere else on Earth."
+          },
+          {
+            "category": "Large Mammals",
+            "count": "60+",
+            "details": "A significant number of large mammal species inhabit the country."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Ethiopian Wolf",
+            "status": "Endangered",
+            "significance": "The rarest canid in the world."
+          },
+          {
+            "name": "Walia Ibex",
+            "status": "Endangered",
+            "significance": "A critically endangered wild goat species."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Community-based conservation",
+          "Anti-poaching patrols"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Ethiopia is a birdwatcher's paradise, with over 800 bird species recorded, including numerous endemic and migratory species.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "100+",
+            "details": "A high proportion of bird species are endemic to Ethiopia."
+          },
+          {
+            "category": "Migratory Birds",
+            "count": "50+",
+            "details": "The country is a crucial stopover for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Abyssinian Noah's Warbler",
+            "status": "Endangered",
+            "significance": "A critically endangered warbler species."
+          },
+          {
+            "name": "Lammergeier",
+            "status": "Vulnerable",
+            "significance": "A large vulture species."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal hunting",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Community-based conservation",
+          "Bird monitoring programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Ethiopia",
+    "description": "Ethiopia offers a wide range of activities for travelers of all interests, from hiking and wildlife viewing to cultural immersion and adventure sports.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Ethiopia is a hiker's dream, with trails ranging from gentle walks to challenging multi-day treks.",
+        "activities": [
+          {
+            "name": "Simien Mountains Trek",
+            "difficulty": "Moderate to Hard",
+            "season": "October - April",
+            "duration": "3-7 days",
+            "description": "A challenging but rewarding trek through the stunning Simien Mountains, offering incredible wildlife viewing opportunities.",
+            "bestLocations": [
+              "Debark",
+              "Gichachew"
+            ],
+            "requirements": "Good fitness level, hiking boots, warm clothing",
+            "safety": [
+              "Altitude sickness",
+              "Wildlife encounters"
+            ]
+          },
+          {
+            "name": "Danakil Depression Trek",
+            "difficulty": "Hard",
+            "season": "November - March",
+            "duration": "5-7 days",
+            "description": "An adventurous trek through the surreal landscapes of the Danakil Depression, experiencing volcanic activity and extreme heat.",
+            "bestLocations": [
+              "Mila Village",
+              "Erta Ale Volcano"
+            ],
+            "requirements": "High fitness level, heat-resistant clothing, water supply",
+            "safety": [
+              "Extreme heat",
+              "Volcanic hazards"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cultural Tourism",
+        "icon": "Calendar",
+        "description": "Immerse yourself in Ethiopia's rich history and culture by visiting ancient sites, attending festivals, and interacting with local communities.",
+        "activities": [
+          {
+            "name": "Visit Lalibela",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "1-2 days",
+            "description": "Explore the remarkable rock-hewn churches of Lalibela, a UNESCO World Heritage Site.",
+            "bestLocations": [
+              "Lalibela"
+            ],
+            "requirements": "Comfortable walking shoes",
+            "safety": [
+              "Crowds"
+            ]
+          },
+          {
+            "name": "Attend a Traditional Ethiopian Wedding",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Experience the vibrant traditions of an Ethiopian wedding, with music, dance, and elaborate ceremonies.",
+            "bestLocations": [
+              "Various"
+            ],
+            "requirements": "Respectful behavior",
+            "safety": [
+              "None"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, scarf"
+      },
+      "equipment": {
+        "basic": "Insect repellent, sunscreen, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Consult a doctor before traveling",
+        "Drink bottled water",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

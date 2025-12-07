@@ -1,0 +1,336 @@
+{
+  "CountryData": {
+    "name": "Saint Pierre and Miquelon",
+    "region": "North America",
+    "description": "Saint Pierre and Miquelon is an archipelago located in the South Atlantic Ocean, approximately 45 kilometers (28 miles) east of Newfoundland, Canada. It is an overseas territorial collectivity of France, consisting of two main islands, Saint Pierre and Miquelon, and numerous smaller islets. The islands boast a unique blend of French and North American cultures, characterized by a strong maritime tradition and a relaxed pace of life. The landscape is dominated by rolling hills, coastal cliffs, and expansive grasslands, offering stunning views of the Atlantic.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "6,237",
+        "icon": "Users",
+        "description": "The population of Saint Pierre and Miquelon is relatively small, reflecting its remote location and limited economic opportunities.",
+        "detail": "The majority of the population resides on Miquelon, the larger of the two islands."
+      },
+      {
+        "label": "Area",
+        "value": "102.1 km²",
+        "icon": "MapPin",
+        "description": "The archipelago covers a modest area, contributing to its isolated nature.",
+        "detail": "Saint Pierre is approximately 78 km² and Miquelon is around 24 km²."
+      },
+      {
+        "label": "Currency",
+        "value": "Euro (€)",
+        "icon": "Globe",
+        "description": "As part of France, Saint Pierre and Miquelon uses the Euro as its currency.",
+        "detail": "However, Canadian dollars are also sometimes accepted."
+      },
+      {
+        "label": "Language",
+        "value": "French",
+        "icon": "Calendar",
+        "description": "French is the official language of Saint Pierre and Miquelon.",
+        "detail": "English is also spoken, particularly by the fishing community."
+      },
+      {
+        "label": "Time Zone",
+        "value": "UTC-3",
+        "icon": "Clock",
+        "description": "Saint Pierre and Miquelon observes Atlantic Time (AST), which is three hours behind Coordinated Universal Time (UTC).",
+        "detail": "During daylight saving time, the time zone shifts to UTC-2."
+      }
+    ],
+    "climateData": {
+      "title": "Maritime Climate",
+      "description": "Saint Pierre and Miquelon experiences a cool, maritime climate influenced by the cold waters of the North Atlantic. Summers are mild and relatively short, while winters are long, cold, and often windy.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (June - August)",
+          "period": "June to August",
+          "description": "Summer brings relatively mild temperatures and longer daylight hours. Rainfall is moderate, and fog is common.",
+          "keyFeatures": [
+            "Mild Temperatures",
+            "Long Daylight Hours",
+            "Fog",
+            "Moderate Rainfall"
+          ],
+          "activities": [
+            "Hiking",
+            "Birdwatching",
+            "Boat Trips",
+            "Fishing"
+          ]
+        },
+        {
+          "name": "Autumn (September - November)",
+          "period": "September to November",
+          "description": "Autumn is characterized by cooler temperatures, increasing wind, and a higher chance of rain. The landscape transforms with vibrant fall foliage.",
+          "keyFeatures": [
+            "Cool Temperatures",
+            "Increasing Wind",
+            "Fall Foliage",
+            "Rain"
+          ],
+          "activities": [
+            "Hiking",
+            "Photography",
+            "Wildlife Observation"
+          ]
+        },
+        {
+          "name": "Winter (December - February)",
+          "period": "December to February",
+          "description": "Winter is the coldest and wettest season, with frequent snowfall and strong winds. Daylight hours are short.",
+          "keyFeatures": [
+            "Cold Temperatures",
+            "Snowfall",
+            "Strong Winds",
+            "Short Daylight Hours"
+          ],
+          "activities": [
+            "Indoor Activities",
+            "Museum Visits",
+            "Relaxation"
+          ]
+        },
+        {
+          "name": "Spring (March - May)",
+          "period": "March to May",
+          "description": "Spring brings a gradual warming trend, with increasing daylight hours and blooming wildflowers. The landscape slowly comes back to life.",
+          "keyFeatures": [
+            "Warming Temperatures",
+            "Increasing Daylight Hours",
+            "Wildflowers",
+            "Rain"
+          ],
+          "activities": [
+            "Hiking",
+            "Birdwatching",
+            "Gardening"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Miquelon Pointe",
+        "category": "Coastal Landscape",
+        "description": "Miquelon Pointe is a dramatic headland on the southwestern tip of Miquelon Island, characterized by towering cliffs, rugged terrain, and a rich birdlife. It offers breathtaking views of the Atlantic Ocean and is a prime location for observing seabirds.",
+        "detailedDescription": "The cliffs are composed of layered sedimentary rock, showcasing millions of years of geological history. The Pointe is also home to a small, sheltered cove, providing a safe harbor for fishing boats.",
+        "bestTime": "April - June (for nesting birds)",
+        "bestLocations": [
+          "Miquelon Pointe Headland",
+          "Coastal Trails"
+        ],
+        "viewingTips": [
+          "Bring binoculars for birdwatching",
+          "Wear sturdy hiking boots",
+          "Be prepared for windy conditions"
+        ],
+        "scientificData": {
+          "Height": "100m",
+          "Rock Type": "Sedimentary",
+          "Age": "150 million years"
+        },
+        "icon": "MapPin"
+      },
+      {
+        "id": 2,
+        "name": "Saint Pierre Dunes",
+        "category": "Coastal Feature",
+        "description": "The Saint Pierre Dunes are a unique and fragile ecosystem of sand dunes located on the western coast of Saint Pierre Island. These dunes are a result of centuries of wind and wave action, creating a distinctive landscape.",
+        "detailedDescription": "The dunes are covered in a sparse vegetation of grasses and shrubs, adapted to the harsh coastal environment. They provide a habitat for various bird species and other wildlife.",
+        "bestTime": "June - August (for wildflowers)",
+        "bestLocations": [
+          "Coastal Trails",
+          "Dune Observation Points"
+        ],
+        "viewingTips": [
+          "Stay on designated trails to protect the dunes",
+          "Be mindful of the fragile ecosystem"
+        ],
+        "scientificData": {
+          "Sand Composition": "Quartz and Feldspar",
+          "Dune Height": "20-30m",
+          "Age": "Ongoing formation"
+        },
+        "icon": "Leaf"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Atlantic Coastal Ecosystem",
+      "overview": "The Atlantic coastal ecosystem of Saint Pierre and Miquelon is a dynamic and resilient environment shaped by the forces of the ocean and the surrounding landscape. It supports a diverse range of plant and animal life, including seabirds, marine mammals, and various invertebrates.",
+      "conservationStatus": {
+        "protectedAreas": "10%",
+        "nationalParks": 1
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Seabirds",
+          "icon": "Bird",
+          "description": "Saint Pierre and Miquelon is a crucial breeding ground for numerous seabird species, attracted by the islands' sheltered waters and abundant fish stocks.",
+          "statistics": [
+            {
+              "category": "Northern Gannet",
+              "count": "5000",
+              "details": "Dominant species"
+            },
+            {
+              "category": "Black-legged Kittiwake",
+              "count": "3000",
+              "details": "Common breeding species"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Northern Gannet",
+              "status": "Least Concern",
+              "significance": "Key predator of fish"
+            },
+            {
+              "name": "Black-legged Kittiwake",
+              "status": "Near Threatened",
+              "significance": "Sensitive to climate change"
+            }
+          ],
+          "threats": [
+            "Climate Change",
+            "Predation by rats"
+          ],
+          "conservationEfforts": [
+            "Monitoring of seabird populations",
+            "Rat control programs"
+          ]
+        },
+        {
+          "name": "Marine Mammals",
+          "icon": "Fish",
+          "description": "The surrounding waters are home to various marine mammals, including seals, dolphins, and whales, which rely on the ecosystem for food and breeding.",
+          "statistics": [
+            {
+              "category": "Harbour Seal",
+              "count": "500",
+              "details": "Common resident"
+            },
+            {
+              "category": "Bottlenose Dolphin",
+              "count": "200",
+              "details": "Occasional visitors"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Harbour Seal",
+              "status": "Least Concern",
+              "significance": "Important prey species"
+            },
+            {
+              "name": "Bottlenose Dolphin",
+              "status": "Near Threatened",
+              "significance": "Migratory species"
+            }
+          ],
+          "threats": [
+            "Fishing activities",
+            "Pollution"
+          ],
+          "conservationEfforts": [
+            "Marine Protected Areas",
+            "Sustainable fishing practices"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities",
+      "description": "Saint Pierre and Miquelon offers a range of outdoor activities for nature enthusiasts and adventure seekers, taking advantage of the islands' stunning coastal scenery and diverse wildlife.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the islands' rolling hills and coastal trails, enjoying panoramic views of the Atlantic Ocean.",
+          "activities": [
+            {
+              "name": "Coastal Trail Hike",
+              "difficulty": "Moderate",
+              "season": "Summer, Autumn",
+              "duration": "2-4 hours",
+              "description": "Hike along the scenic coastal trails, observing seabirds and marine life.",
+              "bestLocations": [
+                "Miquelon Pointe Trail",
+                "Saint Pierre Coastal Trail"
+              ],
+              "requirements": "Sturdy hiking boots, water, sunscreen",
+              "safety": [
+                "Be aware of changing weather conditions",
+                "Stay on marked trails"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Birdwatching",
+          "icon": "Bird",
+          "description": "Observe a wide variety of seabirds, including Northern Gannets, Black-legged Kittiwakes, and various migratory species.",
+          "activities": [
+            {
+              "name": "Seabird Observation",
+              "difficulty": "Easy",
+              "season": "Spring, Summer, Autumn",
+              "duration": "1-3 hours",
+              "description": "Spend time observing seabirds at Miquelon Pointe and other coastal locations.",
+              "bestLocations": [
+                "Miquelon Pointe",
+                "Saint Pierre Cliffs"
+              ],
+              "requirements": "Binoculars, field guide",
+              "safety": [
+                "Respect bird nesting sites"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Boat Trips",
+          "icon": "Waves",
+          "description": "Take a boat trip to explore the islands' coastline, visit secluded coves, and observe marine wildlife.",
+          "activities": [
+            {
+              "name": "Coastal Exploration Tour",
+              "difficulty": "Easy",
+              "season": "Summer",
+              "duration": "3-5 hours",
+              "description": "Enjoy a scenic boat tour along the coastline, with opportunities for wildlife viewing.",
+              "bestLocations": [
+                "Saint Pierre Harbour",
+                "Miquelon Bay"
+              ],
+              "requirements": "Sea sickness medication (if needed)",
+              "safety": [
+                "Follow the captain's instructions"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Light clothing, swimwear, sunscreen, hat",
+          "winter": "Warm layers, waterproof jacket and pants, hat, gloves, scarf",
+          "yearRound": "Comfortable walking shoes, rain gear"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, snacks",
+          "hiking": "Hiking boots, trekking poles",
+          "photography": "Camera, extra batteries"
+        },
+        "safety": [
+          "Inform someone of your hiking plans",
+          "Carry a map and compass",
+          "Be aware of weather conditions"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "name": "Rwanda",
+  "region": "Africa",
+  "description": "Rwanda, the ‘Land of a Thousand Hills’, is a small, landlocked country in East Africa, known for its stunning landscapes, rich culture, and remarkable conservation efforts. Recovering from a devastating genocide in 1994, Rwanda has transformed itself into a beacon of stability and sustainable development, prioritizing ecotourism and community-based conservation. The country’s diverse ecosystems, from volcanic mountains to lush rainforests and expansive savannahs, support a remarkable array of flora and fauna.",
+  "quickFacts": [
+    {
+      "label": "Official Language",
+      "value": "Kinyarwanda",
+      "icon": "Globe",
+      "description": "The primary language spoken in Rwanda.",
+      "detail": "While Kinyarwanda is the official language, English and French are also widely used, particularly in business and tourism."
+    },
+    {
+      "label": "Population",
+      "value": "13,303,947 (2023)",
+      "icon": "Users",
+      "description": "Rwanda has a relatively young and growing population.",
+      "detail": "The median age is around 22 years, indicating a dynamic and youthful society."
+    },
+    {
+      "label": "Capital",
+      "value": "Kigali",
+      "icon": "MapPin",
+      "description": "The bustling capital and economic hub of Rwanda.",
+      "detail": "Kigali is undergoing rapid modernization and is known for its cleanliness and vibrant arts scene."
+    },
+    {
+      "label": "Area",
+      "value": "26,338 sq km (10,169 sq mi)",
+      "icon": "MapPin",
+      "description": "A compact nation with diverse terrain.",
+      "detail": "Rwanda’s small size belies its incredible biodiversity and natural beauty."
+    },
+    {
+      "label": "Currency",
+      "value": "Rwandan Franc (RWF)",
+      "icon": "Coffee",
+      "description": "The local currency of Rwanda.",
+      "detail": "1 USD is approximately 1000 RWF."
+    },
+    {
+      "label": "GDP (2023)",
+      "value": "$4.1 Billion",
+      "icon": "Zap",
+      "description": "Rwanda's Gross Domestic Product.",
+      "detail": "The economy is driven by agriculture, tourism, and increasingly, technology."
+    }
+  ],
+  "climateData": {
+    "title": "Rwanda’s Climate",
+    "description": "Rwanda experiences a tropical highland climate, characterized by warm temperatures and high rainfall. The altitude significantly influences the climate, with temperatures decreasing as you ascend into the mountains.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Short Rains (April - May)",
+        "period": "April - May",
+        "description": "This season brings a welcome respite after the dry season, with frequent showers and increased humidity.",
+        "keyFeatures": [
+          "Increased rainfall",
+          "Greenery",
+          "Higher humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Planting season"
+        ]
+      },
+      {
+        "name": "Dry Season (June - September)",
+        "period": "June - September",
+        "description": "The dry season is the most popular time to visit, with clear skies and comfortable temperatures. However, it can also be dusty.",
+        "keyFeatures": [
+          "Clear skies",
+          "Lower humidity",
+          "Cooler temperatures"
+        ],
+        "activities": [
+          "Gorilla trekking",
+          "Chimpanzee tracking",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Long Rains (October - March)",
+        "period": "October - March",
+        "description": "The long rains bring heavy downpours and muddy conditions, making some activities challenging. However, the landscape is lush and vibrant.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Lush vegetation",
+          "Increased wildlife activity"
+        ],
+        "activities": [
+          "Community tourism",
+          "Exploring waterfalls",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Volcanoes National Park",
+      "category": "Mountain Range",
+      "description": "Home to the critically endangered mountain gorillas, Volcanoes National Park is a UNESCO World Heritage Site and a prime destination for gorilla trekking. The park also boasts stunning volcanic landscapes and diverse birdlife.",
+      "detailedDescription": "The park encompasses several dormant volcanoes, including Mount Karisimbi, the highest peak in Rwanda. It’s a challenging but rewarding experience to trek through the dense forests and encounter these magnificent creatures in their natural habitat.",
+      "bestTime": "June - September (Dry Season)",
+      "bestLocations": [
+        "Gorilla trekking trails",
+        "Dull Volcanoes viewpoint"
+      ],
+      "viewingTips": [
+        "Book permits well in advance",
+        "Wear sturdy hiking boots",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Height": "1968m",
+        "ElevationRange": "2200-4507m",
+        "VegetationType": "Montane rainforest"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Akagera National Park",
+      "category": "Savanna",
+      "description": "Akagera National Park is Rwanda’s largest national park and a haven for wildlife. It offers a diverse range of experiences, from game drives to boat safaris, and is home to lions, elephants, giraffes, and a variety of bird species.",
+      "detailedDescription": "Rehabilitated after years of neglect, Akagera now boasts a thriving ecosystem. Visitors can enjoy classic safari experiences, including tracking wildlife on foot and by vehicle, as well as exploring the park’s scenic waterways.",
+      "bestTime": "June - September (Dry Season)",
+      "bestLocations": [
+        "Lake Ihema",
+        "Mudamu swamp"
+      ],
+      "viewingTips": [
+        "Bring binoculars",
+        "Wear neutral-colored clothing",
+        "Respect wildlife distances"
+      ],
+      "scientificData": {
+        "Area": "3,200 sq km",
+        "ElevationRange": "390-2,600m",
+        "HabitatTypes": [
+          "Savanna",
+          "Lake",
+          "Swamp"
+        ]
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Rwanda’s Ecosystems",
+    "overview": "Rwanda’s ecosystems are remarkably diverse, ranging from volcanic mountains and lush rainforests to expansive savannahs and wetlands. These ecosystems support a rich array of flora and fauna, including several endangered species.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 33% of Rwanda’s land area is protected.",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Rwanda’s forests are home to a wide variety of tree species, including valuable hardwoods and medicinal plants. They play a crucial role in regulating water flow and preventing soil erosion.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 1,000",
+            "details": "A significant portion are endemic to Rwanda."
+          },
+          {
+            "category": "Forest Cover",
+            "count": "29%",
+            "details": "Efforts are underway to increase forest cover."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Rwenzori Olive Baboon",
+            "status": "Endangered",
+            "significance": "One of the rarest primates in Africa."
+          },
+          {
+            "name": "Mountain Colobus",
+            "status": "Vulnerable",
+            "significance": "A distinctive white-faced monkey found in the high-altitude forests."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Reforestation programs",
+          "Community forestry initiatives"
+        ]
+      },
+      {
+        "name": "Aquatic Ecosystems",
+        "icon": "Droplets",
+        "description": "Rwanda’s lakes and rivers are vital habitats for fish, birds, and other aquatic species. They also provide essential water resources for the country’s population.",
+        "statistics": [
+          {
+            "category": "Lake Area",
+            "count": "Approximately 400 sq km",
+            "details": "Lake Kivu is the largest lake in Rwanda."
+          },
+          {
+            "category": "River Length",
+            "count": "Over 2,500 km",
+            "details": "Rivers play a crucial role in water supply and transportation."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Nyelore Fish",
+            "status": "Vulnerable",
+            "significance": "A unique freshwater fish found only in Rwanda."
+          },
+          {
+            "name": "African Fish Eagle",
+            "status": "Least Concern",
+            "significance": "A majestic bird of prey commonly found near lakes and rivers."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Lake conservation projects",
+          "Sustainable fishing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Rwanda",
+    "description": "Rwanda offers a diverse range of activities for travelers of all interests, from wildlife encounters to cultural experiences and outdoor adventures.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Rwanda’s stunning landscapes on foot, from volcanic mountains to lush rainforests.",
+        "activities": [
+          {
+            "name": "Mount Bisoke Hike",
+            "difficulty": "Moderate",
+            "season": "June - September",
+            "duration": "6-8 hours",
+            "description": "Hike to the summit of Mount Bisoke, an active volcano offering panoramic views of the surrounding landscape.",
+            "bestLocations": [
+              "Parc National des Volcans"
+            ],
+            "requirements": "Good fitness level, hiking boots, rain gear",
+            "safety": [
+              "Altitude sickness",
+              "Volcanic activity"
+            ]
+          },
+          {
+            "name": "Muhabura Hike",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "7-9 hours",
+            "description": "A less crowded alternative to Mount Bisoke, offering stunning views of Lake Burera and Volcanoes National Park.",
+            "bestLocations": [
+              "Muhabura Volcano"
+            ],
+            "requirements": "Hiking boots, warm clothing",
+            "safety": [
+              "Weather conditions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Viewing",
+        "icon": "Bird",
+        "description": "Experience the thrill of encountering Rwanda’s diverse wildlife, including gorillas, elephants, and lions.",
+        "activities": [
+          {
+            "name": "Gorilla Trekking",
+            "difficulty": "Moderate",
+            "season": "June - September",
+            "duration": "2-3 hours",
+            "description": "Track and spend time with endangered mountain gorillas in Volcanoes National Park.",
+            "bestLocations": [
+              "Volcanoes National Park"
+            ],
+            "requirements": "Permit, hiking boots, rain gear",
+            "safety": [
+              "Respect gorilla boundaries"
+            ]
+          },
+          {
+            "name": "Game Drives in Akagera",
+            "difficulty": "Easy",
+            "season": "June - September",
+            "duration": "3-4 hours",
+            "description": "Explore Akagera National Park in a 4x4 vehicle and spot a variety of wildlife.",
+            "bestLocations": [
+              "Akagera National Park"
+            ],
+            "requirements": "Binoculars, sunscreen",
+            "safety": [
+              "Vehicle maintenance"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Passport, visa, travel insurance, adapter",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Respect local customs"
+      ]
+    }
+  }
+}

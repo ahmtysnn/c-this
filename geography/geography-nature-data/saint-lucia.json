@@ -1,0 +1,346 @@
+{
+  "name": "Saint Lucia",
+  "region": "Caribbean",
+  "description": "Saint Lucia, a stunning dual-island nation in the Eastern Caribbean, is renowned for its dramatic volcanic peaks, lush rainforests, pristine beaches, and vibrant coral reefs.  Part of the Lesser Antilles, it boasts a unique blend of French and British influences, reflected in its culture, cuisine, and architecture.  The island’s diverse landscapes offer a wealth of opportunities for adventure, relaxation, and exploration, making it a popular destination for tourists and a haven for biodiversity.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Castries",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Saint Lucia.",
+      "detail": "Castries is the economic and administrative center of the island, offering a vibrant mix of markets, shops, and historical sites."
+    },
+    {
+      "label": "Population",
+      "value": "180,000",
+      "icon": "Users",
+      "description": "The population of Saint Lucia.",
+      "detail": "The majority of the population resides in the northern region, particularly in and around Castries."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "English is the official language of Saint Lucia.",
+      "detail": "French is also widely spoken and understood, reflecting the island's colonial history."
+    },
+    {
+      "label": "Currency",
+      "value": "East Caribbean Dollar (XCD)",
+      "icon": "Clock",
+      "description": "The local currency of Saint Lucia.",
+      "detail": "The exchange rate fluctuates, but is generally around 1 XCD = 0.94 USD."
+    },
+    {
+      "label": "GDP",
+      "value": "$1.6 Billion (2022)",
+      "icon": "Globe",
+      "description": "Saint Lucia's Gross Domestic Product.",
+      "detail": "Tourism and agriculture are the primary contributors to the island's economy."
+    },
+    {
+      "label": "Elevation",
+      "value": "910 meters (3,000 ft)",
+      "icon": "Mountain",
+      "description": "The highest point on the island.",
+      "detail": "Mount Gimie is the highest peak, offering breathtaking panoramic views."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Saint Lucia enjoys a tropical maritime climate characterized by warm temperatures and high humidity throughout the year. Rainfall is distributed relatively evenly, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December - May",
+        "description": "The dry season is generally sunny and pleasant, with lower humidity and less rainfall. It's ideal for outdoor activities.",
+        "keyFeatures": [
+          "Sunny days",
+          "Low humidity",
+          "Calm seas"
+        ],
+        "activities": [
+          "Hiking",
+          "Snorkeling",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "June - November",
+        "description": "The wet season brings increased rainfall, often in the form of afternoon showers. However, the sun still shines, and the landscape is lush and vibrant.",
+        "keyFeatures": [
+          "Rainfall",
+          "Green landscapes",
+          "Increased humidity"
+        ],
+        "activities": [
+          "Waterfall exploration",
+          "Rainforest hikes",
+          "Boat tours"
+        ]
+      },
+      {
+        "name": "Hurricane Season",
+        "period": "June - November",
+        "description": "Saint Lucia is susceptible to hurricanes during the Atlantic hurricane season. Travelers should monitor weather forecasts and be prepared for potential disruptions.",
+        "keyFeatures": [
+          "Potential for hurricanes",
+          "Strong winds",
+          "Heavy rainfall"
+        ],
+        "activities": [
+          "Limited outdoor activities during storms"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Piton National Park",
+      "category": "Volcanic Landscape",
+      "description": "Piton National Park is a UNESCO World Heritage Site, famed for its iconic Pitons – Gros Piton and Petit Piton – dramatic volcanic peaks rising from the sea. The park is a haven for endemic flora and fauna.",
+      "detailedDescription": "The Pitons are formed by ancient volcanic activity and are considered one of the most beautiful landscapes in the world. Hiking to the summit of Gros Piton is a challenging but rewarding experience.",
+      "bestTime": "December - May",
+      "bestLocations": [
+        "Gros Piton Base",
+        "Petit Piton Base",
+        "Anse Chastanet Beach"
+      ],
+      "viewingTips": [
+        "Bring sturdy hiking shoes",
+        "Pack plenty of water",
+        "Check weather conditions before hiking"
+      ],
+      "scientificData": {
+        "Height": "793m (Gros Piton)",
+        "Age": "200,000 years (Volcanic formation)"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Marigot Bay",
+      "category": "Coastal Bay",
+      "description": "Marigot Bay is a stunningly beautiful, sheltered bay known for its calm waters and lush vegetation. It's a popular anchorage for yachts and a tranquil spot for relaxation.",
+      "detailedDescription": "The bay's natural protection creates a serene environment, surrounded by towering hills covered in rainforest. It's a perfect location for swimming, snorkeling, and enjoying the beauty of the Caribbean.",
+      "bestTime": "Year Round",
+      "bestLocations": [
+        "Bay Beach",
+        "Waterfront Restaurants"
+      ],
+      "viewingTips": [
+        "Enjoy sunset views",
+        "Take a boat tour"
+      ],
+      "scientificData": {
+        "Depth": "Maximum 20 meters",
+        "Coral Coverage": "Moderate"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Sale Bay",
+      "category": "Coastal Bay",
+      "description": "Sale Bay is a picturesque bay located in Soufriere, offering stunning views of the Pitons and a vibrant waterfront.",
+      "detailedDescription": "The bay is a hub of activity, with restaurants, shops, and hotels lining the shore. It's a great place to soak up the local atmosphere and enjoy the Caribbean sunshine.",
+      "bestTime": "Year Round",
+      "bestLocations": [
+        "Soufriere Waterfront",
+        "Bay View Restaurants"
+      ],
+      "viewingTips": [
+        "Take a sunset cruise",
+        "Enjoy fresh seafood"
+      ],
+      "scientificData": {
+        "Average Temperature": "27°C",
+        "Salinity": "32 ppt"
+      },
+      "icon": "Sun"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Saint Lucia's Diverse Ecosystems",
+    "overview": "Saint Lucia boasts a remarkable diversity of ecosystems, ranging from volcanic peaks and rainforests to coral reefs and mangrove swamps. These ecosystems support a rich array of plant and animal life, many of which are endemic to the island.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Rainforest",
+        "icon": "Trees",
+        "description": "Saint Lucia’s rainforests are home to a vast array of plant and animal species, including many endemic orchids, ferns, and insects.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 200",
+            "details": "A significant proportion are endemic."
+          },
+          {
+            "category": "Insect Species",
+            "count": "Over 500",
+            "details": "Many are yet to be identified."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Saint Lucia Parrot",
+            "status": "Endangered",
+            "significance": "A unique parrot species found only on Saint Lucia."
+          },
+          {
+            "name": "Red-billed Streamertail",
+            "status": "Vulnerable",
+            "significance": "A rare hummingbird species."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Reforestation programs"
+        ]
+      },
+      {
+        "name": "Coral Reefs",
+        "icon": "Leaf",
+        "description": "Saint Lucia’s coral reefs are vibrant and diverse, providing habitat for a wide range of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 40",
+            "details": "Including branching, massive, and plate corals."
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 150",
+            "details": "Supporting a diverse marine ecosystem."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Queen Conch",
+            "status": "Vulnerable",
+            "significance": "An important food source and a symbol of Saint Lucia."
+          },
+          {
+            "name": "Spiny Lobster",
+            "status": "Endangered",
+            "significance": "A valuable commercial species."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral restoration projects"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Adventure and Exploration in Saint Lucia",
+    "description": "Saint Lucia offers a diverse range of activities for all interests and skill levels, from hiking and water sports to cultural experiences and wildlife encounters.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s stunning trails and volcanic peaks.",
+        "activities": [
+          {
+            "name": "Gros Piton Hike",
+            "difficulty": "Hard",
+            "season": "December - May",
+            "duration": "6-8 hours",
+            "description": "A challenging but rewarding hike to the summit of Gros Piton.",
+            "bestLocations": [
+              "Gros Piton Base"
+            ],
+            "requirements": "Sturdy hiking shoes, water, sunscreen",
+            "safety": [
+              "Be aware of slippery trails",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Toraille Waterfall Hike",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "2-3 hours",
+            "description": "A scenic hike to a beautiful waterfall.",
+            "bestLocations": [
+              "Toraille Waterfall"
+            ],
+            "requirements": "Water shoes, insect repellent",
+            "safety": [
+              "Watch out for slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of Saint Lucia with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Anse Chastanet",
+              "Sugar Beach"
+            ],
+            "requirements": "Snorkel gear, sunscreen",
+            "safety": [
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "December - May",
+            "duration": "2-4 hours",
+            "description": "Discover the underwater wonders of Saint Lucia.",
+            "bestLocations": [
+              "Anse Chastanet",
+              "Soufriere Marine Reserve"
+            ],
+            "requirements": "Certification, scuba gear",
+            "safety": [
+              "Follow dive guidelines"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Layers of clothing, rain jacket, sweater",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Insect repellent, sunscreen, hat, sunglasses",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of wildlife",
+        "Follow local guidelines"
+      ]
+    }
+  }
+}

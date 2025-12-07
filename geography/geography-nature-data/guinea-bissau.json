@@ -1,0 +1,313 @@
+{
+  "name": "Guinea-Bissau",
+  "region": "West Africa",
+  "description": "Guinea-Bissau, a small nation on the Guinea coast, is a land of vibrant culture, stunning natural beauty, and significant biodiversity. It’s one of the least developed countries in the world, yet boasts a rich history, a unique Creole culture, and a remarkable array of ecosystems, from mangrove forests and coastal wetlands to savanna woodlands and the Bijagós Archipelago. The country faces considerable challenges related to poverty, climate change, and deforestation, but is actively working towards sustainable development and conservation.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Bissau",
+      "icon": "MapPin",
+      "description": "The bustling capital city, a hub of commerce and culture.",
+      "detail": "Bissau is located on the Rio Geba, a major river flowing into the Atlantic Ocean."
+    },
+    {
+      "label": "Population",
+      "value": "1.78 million",
+      "icon": "Users",
+      "description": "A predominantly young population.",
+      "detail": "The population is largely comprised of Creole and Mandinka communities."
+    },
+    {
+      "label": "Official Language",
+      "value": "Portuguese",
+      "icon": "ArrowRight",
+      "description": "Inherited from its colonial past.",
+      "detail": "Creole languages are also widely spoken."
+    },
+    {
+      "label": "Area",
+      "value": "36,125 sq km",
+      "icon": "Globe",
+      "description": "A relatively small nation.",
+      "detail": "It borders Senegal to the south and Mali to the north."
+    },
+    {
+      "label": "GDP per capita",
+      "value": "$850",
+      "icon": "Coffee",
+      "description": "One of the lowest in the world.",
+      "detail": "Primarily reliant on agriculture and cashew nuts."
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)",
+      "icon": "Zap",
+      "description": "Used alongside the Portuguese Escudo.",
+      "detail": "The XOF is pegged to the Euro."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Guinea-Bissau experiences a tropical climate with high temperatures and humidity throughout the year. Rainfall is abundant, particularly during the rainy seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "June - September",
+        "description": "Characterized by lower rainfall and cooler temperatures.  A good time for wildlife viewing in some areas.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Clear skies",
+          "Reduced mosquito activity"
+        ],
+        "activities": [
+          "Wildlife safaris",
+          "Birdwatching",
+          "Coastal fishing"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "October - May",
+        "description": "Heavy rainfall and high humidity prevail. Rivers swell, and coastal areas experience flooding.",
+        "keyFeatures": [
+          "High rainfall",
+          "Flooding",
+          "Increased mosquito activity"
+        ],
+        "activities": [
+          "River cruises (seasonal)",
+          "Coastal exploration",
+          "Rainforest trekking"
+        ]
+      },
+      {
+        "name": "Harmattan Winds",
+        "period": "November - February",
+        "description": "A dry, dusty wind originating from the Sahara Desert brings cooler temperatures and reduced rainfall.",
+        "keyFeatures": [
+          "Dry wind",
+          "Cooler temperatures",
+          "Dust storms"
+        ],
+        "activities": [
+          "Reduced outdoor activities",
+          "Indoor relaxation"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Bijagós Archipelago",
+      "category": "Archipelago",
+      "description": "A UNESCO World Heritage Site, the Bijagós Archipelago is a stunning collection of over 88 islands and islets, renowned for its unique biodiversity, traditional culture, and mangrove forests. It’s a vital refuge for migratory birds and a stronghold for endangered species.",
+      "detailedDescription": "The islands are home to a diverse range of flora and fauna, including the rare Bijagós chameleon and several endemic bird species. The local Bijago people maintain a rich cultural heritage, with traditional fishing practices and animistic beliefs.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Bubaque Island",
+        "Orango Island",
+        "Bainzano Island"
+      ],
+      "viewingTips": [
+        "Respect local customs and traditions",
+        "Hire a local guide",
+        "Bring insect repellent"
+      ],
+      "scientificData": {
+        "Area": "3,760 sq km",
+        "Elevation": "0-100m",
+        "Age": "Millions of years"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Caassa Forest Reserve",
+      "category": "Forest",
+      "description": "A significant area of intact dry evergreen forest, Caassa is a crucial habitat for numerous endemic and migratory species, playing a vital role in regional biodiversity conservation.",
+      "detailedDescription": "The reserve is characterized by its diverse tree species, including shea and baobab trees. It’s a critical stopover point for migratory birds and a refuge for threatened mammals like the red colobus monkey.",
+      "bestTime": "November - February",
+      "bestLocations": [
+        "Central Reserve"
+      ],
+      "viewingTips": [
+        "Early morning or late afternoon for wildlife sightings",
+        "Wear sturdy hiking boots"
+      ],
+      "scientificData": {
+        "Area": "10,000 ha",
+        "Tree Density": "High",
+        "Biodiversity Index": "Significant"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Birds",
+    "icon": "Bird",
+    "description": "Guinea-Bissau is a globally important site for migratory birds, boasting a remarkable diversity of species that utilize its wetlands and coastal areas for breeding and resting.",
+    "statistics": [
+      {
+        "category": "Migratory Species",
+        "count": "Over 500",
+        "details": "Includes waders, raptors, and seabirds."
+      },
+      {
+        "category": "Endemic Species",
+        "count": "20+",
+        "details": "Unique bird species found nowhere else on Earth."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Red Colobus Monkey",
+        "status": "Endangered",
+        "significance": "A key indicator species for forest health."
+      },
+      {
+        "name": "White-Bellied Chat",
+        "status": "Vulnerable",
+        "significance": "A rare and elusive bird found only in Guinea-Bissau."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Illegal hunting",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Protected area management",
+      "Community-based conservation",
+      "Bird monitoring programs"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Mangrove Ecosystems",
+    "overview": "Guinea-Bissau possesses extensive mangrove forests along its coastline, providing critical habitat for numerous species and protecting the shoreline from erosion. These ecosystems are vital for fisheries and coastal communities.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Fish",
+        "icon": "Fish",
+        "description": "The mangroves support a rich diversity of fish species, forming the base of the coastal food web.",
+        "statistics": [
+          {
+            "category": "Commercial Fish Species",
+            "count": "30+",
+            "details": "Important for local fisheries."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Overfishing",
+          "Habitat degradation"
+        ],
+        "conservationEfforts": [
+          "Sustainable fisheries management",
+          "Mangrove restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Guinea-Bissau",
+    "description": "Guinea-Bissau offers a range of outdoor activities, from wildlife safaris and birdwatching to coastal exploration and cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the country’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Caassa Forest Hike",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "3-5 hours",
+            "description": "A guided hike through the Caassa Forest Reserve, offering opportunities to spot wildlife and learn about the local flora and fauna.",
+            "bestLocations": [
+              "Caassa Forest Reserve"
+            ],
+            "requirements": "Sturdy hiking boots, insect repellent, water",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Bijagós Island Trek",
+            "difficulty": "Hard",
+            "season": "Dry Season",
+            "duration": "Variable",
+            "description": "Explore the remote islands of the Bijagós Archipelago, experiencing the unique culture and biodiversity of the region.",
+            "bestLocations": [
+              "Various Bijagós Islands"
+            ],
+            "requirements": "Boat transport, local guide, appropriate clothing",
+            "safety": [
+              "Respect local customs",
+              "Be aware of boat conditions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the coastal waters of Guinea-Bissau.",
+        "activities": [
+          {
+            "name": "Coastal Fishing",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Experience traditional fishing practices with local communities.",
+            "bestLocations": [
+              "Coastal villages"
+            ],
+            "requirements": "Fishing license (if required), appropriate clothing",
+            "safety": [
+              "Follow local guidelines",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "Variable",
+            "description": "Explore the mangrove estuaries and coastal lagoons by kayak.",
+            "bestLocations": [
+              "Mangrove areas"
+            ],
+            "requirements": "Kayak, life jacket, sunscreen",
+            "safety": [
+              "Be aware of tides",
+              "Wear a life jacket"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, hat",
+        "winter": "Long-sleeved shirts, trousers, jacket, sweater",
+        "yearRound": "Insect repellent, sunscreen, sunglasses"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Consult a doctor before travel",
+        "Drink bottled water",
+        "Be aware of petty theft"
+      ]
+    }
+  }
+}

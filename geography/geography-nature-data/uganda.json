@@ -1,0 +1,363 @@
+{
+  "name": "Uganda",
+  "region": "East Africa",
+  "description": "Uganda, the ‘Pearl of Africa’, is a landlocked country in East Africa known for its diverse ecosystems, abundant wildlife, and rich cultural heritage. Situated in the Great Rift Valley, Uganda boasts lush rainforests, expansive savannas, stunning lakes, and towering mountains. It’s a haven for birdwatchers, trekkers, and wildlife enthusiasts, offering a truly unforgettable experience.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "47.1 million (2023)",
+      "icon": "Users",
+      "description": "Uganda has a rapidly growing population, contributing to its vibrant culture and economy.",
+      "detail": "The majority of the population resides in rural areas, primarily engaged in agriculture."
+    },
+    {
+      "label": "Capital",
+      "value": "Kampala",
+      "icon": "MapPin",
+      "description": "Kampala is the bustling capital city and a center of commerce, culture, and politics.",
+      "detail": "It’s known for its colonial architecture, vibrant markets, and lively nightlife."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "English is the official language, alongside Swahili and numerous indigenous languages.",
+      "detail": "Luganda is the most widely spoken local language."
+    },
+    {
+      "label": "Area",
+      "value": "241,038 sq km (93,040 sq mi)",
+      "icon": "Globe",
+      "description": "Uganda's diverse terrain encompasses a wide range of landscapes.",
+      "detail": "It’s roughly the size of West Virginia."
+    },
+    {
+      "label": "Currency",
+      "value": "Uganda Shilling (UGX)",
+      "icon": "Clock",
+      "description": "The Ugandan Shilling is the national currency.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD = approximately 3,600 UGX."
+    },
+    {
+      "label": "Independence",
+      "value": "October 9, 1962",
+      "icon": "Calendar",
+      "description": "Uganda gained independence from the United Kingdom.",
+      "detail": "It has since faced periods of political instability and economic challenges."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Uganda",
+    "description": "Uganda experiences a tropical climate with variations depending on altitude and region. Generally, it’s warm and humid year-round, but distinct wet and dry seasons influence the landscape and activities.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Long Rains (Masaka)",
+        "period": "March - May",
+        "description": "The long rains bring heavy rainfall across much of the country, transforming the landscape into a lush, green paradise. Rivers swell, and the vegetation flourishes.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Increased humidity",
+          "Green landscapes"
+        ],
+        "activities": [
+          "River rafting",
+          "Hiking (limited)",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Short Rains (Karuma)",
+        "period": "June - August",
+        "description": "A shorter, less intense rainy season, primarily affecting the north and eastern regions. It’s a good time for wildlife viewing as animals congregate around water sources.",
+        "keyFeatures": [
+          "Moderate rainfall",
+          "Wildlife viewing opportunities",
+          "Green vegetation"
+        ],
+        "activities": [
+          "Game drives",
+          "Chimpanzee trekking",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Dry Season (Kagari)",
+        "period": "September - February",
+        "description": "The dry season brings cooler temperatures and sunny skies, making it ideal for trekking and exploring the highlands. Wildlife is more concentrated, increasing the chances of sightings.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Sunny skies",
+          "Wildlife concentration"
+        ],
+        "activities": [
+          "Mountain climbing (Mount Elgon)",
+          "Gorilla trekking",
+          "Cultural tours"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Bwindi Impenetrable National Park",
+      "category": "Forest",
+      "description": "Bwindi Impenetrable National Park is a UNESCO World Heritage Site renowned for its incredibly dense rainforest and, most importantly, its population of endangered mountain gorillas. It’s a truly immersive experience.",
+      "detailedDescription": "The park is characterized by its steep slopes, thick vegetation, and diverse flora and fauna. It’s a challenging but rewarding trek through a primeval landscape.",
+      "bestTime": "June - September, December - February",
+      "bestLocations": [
+        "Rushaga",
+        "Nshongi",
+        "Muzabamba"
+      ],
+      "viewingTips": [
+        "Book permits well in advance",
+        "Wear sturdy hiking boots",
+        "Hire a knowledgeable guide"
+      ],
+      "scientificData": {
+        "Area": "331 sq km",
+        "Altitude": "1,550 - 2,600 m",
+        "Rainfall": "1,800 - 2,200 mm"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Murchison Falls National Park",
+      "category": "Savanna",
+      "description": "Murchison Falls National Park is Uganda’s largest national park, famous for the powerful Murchison Falls, where the Nile River forces its way through a narrow gorge. It’s a spectacular display of nature’s power.",
+      "detailedDescription": "The park encompasses a vast savanna landscape, teeming with wildlife including elephants, lions, giraffes, and hippos. Boat trips along the Nile River offer unique wildlife viewing opportunities.",
+      "bestTime": "June - September, December - February",
+      "bestLocations": [
+        "Delta",
+        "Paraa"
+      ],
+      "viewingTips": [
+        "Take a boat trip to the base of the falls",
+        "Look out for elephants and giraffes",
+        "Consider a night game drive"
+      ],
+      "scientificData": {
+        "Area": "3,800 sq km",
+        "Altitude": "1,170 - 2,042 m",
+        "River": "Nile River"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Lake Bunyonyi",
+      "category": "Lake",
+      "description": "Lake Bunyonyi is a stunningly beautiful lake nestled in the misty hills of southwestern Uganda. Its twin islands, peaceful waters, and diverse birdlife make it a tranquil escape.",
+      "detailedDescription": "The lake is known for its numerous small islands, some of which are home to unique bird species. It’s a popular destination for swimming, kayaking, and hiking.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Lake Mutanda",
+        "Bwindi"
+      ],
+      "viewingTips": [
+        "Take a boat trip to the islands",
+        "Go birdwatching",
+        "Try canoeing or kayaking"
+      ],
+      "scientificData": {
+        "Area": "69 sq km",
+        "Depth": "915 m",
+        "Temperature": "18-24°C"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Birds",
+    "icon": "Bird",
+    "description": "Uganda is a world-renowned birding destination, boasting over 1,000 species of birds, representing approximately 20% of the world’s total bird population. Its diverse habitats support a remarkable variety of avian life.",
+    "statistics": [
+      {
+        "category": "Species Count",
+        "count": "1,102",
+        "details": "Over 1,100 bird species have been recorded in Uganda."
+      },
+      {
+        "category": "Endemic Species",
+        "count": "37",
+        "details": "37 bird species are endemic to Uganda, found nowhere else in the world."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Shoebill Stork",
+        "status": "Vulnerable",
+        "significance": "One of the largest wading birds in the world, known for its distinctive shoe-shaped bill."
+      },
+      {
+        "name": "Grey Crowned Crane",
+        "status": "Endangered",
+        "significance": "The national bird of Uganda, known for its striking grey crown."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Community-based conservation",
+      "Protected area management",
+      "Research and monitoring"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Ecosystems of Uganda",
+    "overview": "Uganda’s diverse landscapes support a wide range of ecosystems, including rainforests, savannas, wetlands, and montane forests. These ecosystems are home to an incredible array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Uganda’s land area is protected in national parks, wildlife reserves, and sanctuaries.",
+      "nationalParks": 10
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Uganda’s forests cover approximately 23% of the country, providing habitat for a vast array of plant and animal species.",
+        "statistics": [
+          {
+            "category": "Forest Cover",
+            "count": "23%",
+            "details": "Approximately 23% of Uganda’s land area is covered by forests."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Community forestry programs"
+        ]
+      },
+      {
+        "name": "Savannas",
+        "icon": "Sun",
+        "description": "Uganda’s savannas are home to iconic African wildlife, including elephants, lions, giraffes, and zebras.",
+        "statistics": [
+          {
+            "category": "Savanna Area",
+            "count": "40%",
+            "details": "Approximately 40% of Uganda’s land area is covered by savanna grasslands."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat loss",
+          "Human-wildlife conflict"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community conservation programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Uganda",
+    "description": "Uganda offers a wide range of activities for travelers of all interests and abilities, from wildlife viewing and trekking to cultural experiences and adventure sports.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Uganda’s stunning landscapes on foot, from the foothills of Mount Elgon to the trails of Bwindi Impenetrable National Park.",
+        "activities": [
+          {
+            "name": "Mount Elgon Hike",
+            "difficulty": "Moderate",
+            "season": "June - September, December - February",
+            "duration": "3-7 days",
+            "description": "Hike to the summit of Mount Elgon, Uganda’s second-highest mountain, and enjoy breathtaking views.",
+            "bestLocations": [
+              "Sipi Falls",
+              "Bugema"
+            ],
+            "requirements": "Good fitness level, hiking boots, rain gear",
+            "safety": [
+              "Altitude sickness awareness",
+              "Hire a guide"
+            ]
+          },
+          {
+            "name": "Bwindi Forest Trek",
+            "difficulty": "Hard",
+            "season": "June - September, December - February",
+            "duration": "7-8 days",
+            "description": "Trek through the dense Bwindi Impenetrable National Park in search of mountain gorillas.",
+            "bestLocations": [
+              "Rushaga",
+              "Nshongi"
+            ],
+            "requirements": "Good fitness level, hiking boots, rain gear",
+            "safety": [
+              "Hire a guide",
+              "Follow guide instructions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities on Uganda’s numerous lakes and rivers.",
+        "activities": [
+          {
+            "name": "White Water Rafting",
+            "difficulty": "Moderate",
+            "season": "June - September",
+            "duration": "1-3 days",
+            "description": "Raft down the rapids of the Nile River.",
+            "bestLocations": [
+              "Ssezibuga",
+              "Murchison Falls"
+            ],
+            "requirements": "Swimming skills, life jacket",
+            "safety": [
+              "Follow guide instructions",
+              "Wear a helmet"
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Half-day to full-day",
+            "description": "Explore Lake Bunyonyi and Lake Victoria by kayak.",
+            "bestLocations": [
+              "Lake Bunyonyi",
+              "Lake Victoria"
+            ],
+            "requirements": "Life jacket",
+            "safety": [
+              "Wear a life jacket"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Insect repellent, sunscreen, hat, sunglasses",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Consult a doctor before traveling"
+      ]
+    }
+  }
+}

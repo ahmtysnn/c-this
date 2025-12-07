@@ -1,0 +1,324 @@
+{
+  "name": "Cameroon",
+  "region": "Africa",
+  "description": "Cameroon, officially the Republic of Cameroon, is a Central African nation bordered by Nigeria to the west, Chad to the north, the Central African Republic to the east, and Gabon and Equatorial Guinea to the south. It’s a land of incredible biodiversity, boasting diverse ecosystems ranging from dense rainforests to savannas and volcanic mountains. Cameroon’s climate is equatorial, with significant regional variations. It’s a country rich in culture, with numerous ethnic groups and languages, and a complex history shaped by colonialism and independence.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Yaoundé",
+      "icon": "MapPin",
+      "description": "The political and administrative center of Cameroon.",
+      "detail": "Yaoundé is located in the center of the country and is a bustling metropolis with a vibrant cultural scene."
+    },
+    {
+      "label": "Population",
+      "value": "28.6 Million",
+      "icon": "Users",
+      "description": "Cameroon has a large and diverse population.",
+      "detail": "The population is comprised of numerous ethnic groups, including the Fulani, Bantu, and Bamileke."
+    },
+    {
+      "label": "Area",
+      "value": "475,442 sq km (183,641 sq mi)",
+      "icon": "Globe",
+      "description": "Cameroon is the 6th largest country in Africa.",
+      "detail": "It covers a vast area of Central Africa, encompassing a wide range of landscapes."
+    },
+    {
+      "label": "Official Languages",
+      "value": "French, English",
+      "icon": "Navigation",
+      "description": "Cameroon has two official languages reflecting its colonial past.",
+      "detail": "French is widely spoken, particularly in urban areas, while English is prevalent in the Northwest and Southwest regions."
+    },
+    {
+      "label": "Currency",
+      "value": "Central African CFA Franc (XAF)",
+      "icon": "Clock",
+      "description": "The currency of Cameroon.",
+      "detail": "The CFA Franc is pegged to the Euro."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Cameroon",
+    "description": "Cameroon experiences a tropical climate with significant variations due to its diverse topography. The coastal regions are hot and humid year-round, while the highlands are cooler and wetter. The northern regions have a semi-arid climate, and the south experiences a rainforest climate.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "June - October",
+        "description": "This season is characterized by lower rainfall and cooler temperatures. It's a popular time for wildlife viewing and hiking.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Cooler temperatures",
+          "Clear skies"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Hiking",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "November - May",
+        "description": "The wet season brings heavy rainfall and high humidity. Rivers swell, and the landscape is lush and green.",
+        "keyFeatures": [
+          "High rainfall",
+          "High humidity",
+          "Lush vegetation"
+        ],
+        "activities": [
+          "River cruises",
+          "Waterfall exploration",
+          "Rainforest trekking"
+        ]
+      },
+      {
+        "name": "Harmattan Winds",
+        "period": "December - February",
+        "description": "A dry, dusty wind blows from the Sahara Desert, bringing cooler temperatures and reduced visibility.",
+        "keyFeatures": [
+          "Dry wind",
+          "Cool temperatures",
+          "Dusty conditions"
+        ],
+        "activities": [
+          "Indoor activities",
+          "Museum visits"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Cameroon",
+      "category": "Mountain",
+      "description": "Mount Cameroon is an active volcano and the highest peak in West Africa. It offers challenging climbs and stunning views of the surrounding rainforest.",
+      "detailedDescription": "Rising to 4,040 meters (13,255 feet), Mount Cameroon is a significant geological feature and a biodiversity hotspot. Its slopes are covered in dense rainforest, supporting a wide range of plant and animal life.",
+      "bestTime": "June - October",
+      "bestLocations": [
+        "Waza National Park",
+        "Limbe"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Acclimatize to the altitude",
+        "Bring appropriate gear"
+      ],
+      "scientificData": {
+        "Height": "4,040m",
+        "Age": "Approximately 1.2 million years",
+        "VolcanicType": "Stratovolcano"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Dja Faunal Reserve",
+      "category": "Forest",
+      "description": "The Dja Faunal Reserve is one of the largest protected areas in Central Africa, renowned for its exceptional biodiversity and primate populations.",
+      "detailedDescription": "This vast reserve encompasses a significant portion of the Congo rainforest, providing a crucial refuge for endangered species such as gorillas, chimpanzees, and forest elephants. It’s a critical area for conservation efforts.",
+      "bestTime": "June - October",
+      "bestLocations": [
+        "Sanganda Bailliage"
+      ],
+      "viewingTips": [
+        "Travel with experienced guides",
+        "Respect wildlife",
+        "Minimize disturbance"
+      ],
+      "scientificData": {
+        "Area": "3.6 million hectares",
+        "Biodiversity": "Home to over 300 mammal species"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Cameroon",
+    "overview": "Cameroon’s ecosystems are incredibly diverse, ranging from tropical rainforests to savannas and wetlands. These ecosystems support a vast array of plant and animal life, many of which are found nowhere else on Earth.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Rainforest",
+        "icon": "Trees",
+        "description": "Cameroon’s rainforest is one of the most biodiverse in the world, playing a vital role in global climate regulation.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 1,500",
+            "details": "A remarkable diversity of tree species thrives in the rainforest."
+          },
+          {
+            "category": "Endemic Species",
+            "count": "Approximately 300",
+            "details": "Many plant and animal species are found only in Cameroon."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Gorilla",
+            "status": "Endangered",
+            "significance": "A flagship species for conservation efforts."
+          },
+          {
+            "name": "Okapi",
+            "status": "Vulnerable",
+            "significance": "Often referred to as the 'forest giraffe'."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Community-based conservation",
+          "Sustainable forestry"
+        ]
+      },
+      {
+        "name": "Savanna",
+        "icon": "Wind",
+        "description": "Cameroon’s savannas are characterized by grasslands interspersed with scattered trees, supporting a variety of large mammals.",
+        "statistics": [
+          {
+            "category": "Large Mammals",
+            "count": "Over 60 species",
+            "details": "Includes elephants, giraffes, zebras, and antelopes."
+          },
+          {
+            "category": "Grassland Area",
+            "count": "Approximately 10%",
+            "details": "Dominates the landscape."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "A keystone species in the savanna ecosystem."
+          },
+          {
+            "name": "Giraffe",
+            "status": "Vulnerable",
+            "significance": "A distinctive and iconic animal."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Human-wildlife conflict",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community conservation programs",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Cameroon",
+    "description": "Cameroon offers a wide range of activities for adventure seekers and nature enthusiasts, from hiking and wildlife viewing to water sports and cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Cameroon’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Mount Cameroon Climb",
+            "difficulty": "Hard",
+            "season": "June - October",
+            "duration": "3-5 days",
+            "description": "A challenging but rewarding climb to the summit of Mount Cameroon.",
+            "bestLocations": [
+              "Waza National Park",
+              "Limbe"
+            ],
+            "requirements": "Good physical fitness, hiking boots, appropriate clothing",
+            "safety": [
+              "Altitude sickness",
+              "Weather conditions"
+            ]
+          },
+          {
+            "name": "Korup National Park Trails",
+            "difficulty": "Moderate",
+            "season": "June - October",
+            "duration": "1-3 days",
+            "description": "Explore the rainforest trails of Korup National Park.",
+            "bestLocations": [
+              "Limbe"
+            ],
+            "requirements": "Hiking boots, insect repellent",
+            "safety": [
+              "Snakes",
+              "Insects"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in Cameroon’s rivers and coastal areas.",
+        "activities": [
+          {
+            "name": "Lake Chad Fishing",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Experience traditional fishing practices on Lake Chad.",
+            "bestLocations": [
+              "Lake Chad"
+            ],
+            "requirements": "Fishing license, boat",
+            "safety": [
+              "Heatstroke",
+              "Sunburn"
+            ]
+          },
+          {
+            "name": "Wouri River Cruises",
+            "difficulty": "Moderate",
+            "season": "June - October",
+            "duration": "2-4 days",
+            "description": "Explore the Wouri River by boat, observing wildlife and local communities.",
+            "bestLocations": [
+              "Douala"
+            ],
+            "requirements": "Binoculars, sunscreen",
+            "safety": [
+              "Boat safety",
+              "Wildlife encounters"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat",
+        "yearRound": "Insect repellent, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, flashlight",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Respect local customs"
+      ]
+    }
+  }
+}

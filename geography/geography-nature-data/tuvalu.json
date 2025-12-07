@@ -1,0 +1,328 @@
+{
+  "CountryData": {
+    "name": "Tuvalu",
+    "region": "Oceania",
+    "description": "Tuvalu, known as the ‘Tuvaluan Archipelago,’ is a Polynesian island nation consisting of nine low-lying coral atolls in the Pacific Ocean. It’s the third smallest state in the world and faces significant challenges from rising sea levels and climate change. The nation’s culture is deeply rooted in traditional Polynesian values, with a strong emphasis on community and connection to the ocean.  Its economy relies heavily on fishing and remittances.  Tuvalu is a member of the Commonwealth and has a unique system of governance based on consensus.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "11,396 (2023)",
+        "icon": "Users",
+        "description": "The population of Tuvalu is small and dispersed across its atolls.",
+        "detail": "The population density is extremely low, making it one of the least densely populated countries in the world."
+      },
+      {
+        "label": "Area",
+        "value": "26 square kilometers (10 sq mi)",
+        "icon": "MapPin",
+        "description": "Tuvalu is a very small island nation.",
+        "detail": "It comprises nine islands: Funafuti, Nanumea, Niutao, Nui, Nukufetau, Niulkifetau, Niulakita, and Vaitupu."
+      },
+      {
+        "label": "Capital",
+        "value": "Funafuti",
+        "icon": "MapPin",
+        "description": "Funafuti is the administrative and economic center of Tuvalu.",
+        "detail": "It’s the only atoll with a proper airport."
+      },
+      {
+        "label": "Official Language",
+        "value": "Tuvaluan",
+        "icon": "Globe",
+        "description": "Tuvaluan is a Polynesian language.",
+        "detail": "English is also spoken, particularly in government and education."
+      },
+      {
+        "label": "Currency",
+        "value": "Tuvaluan Dollar (TVD)",
+        "icon": "Coffee",
+        "description": "The currency of Tuvalu.",
+        "detail": "It is pegged to the New Zealand Dollar."
+      },
+      {
+        "label": "GDP",
+        "value": "$88.8 million (2022)",
+        "icon": "Zap",
+        "description": "Tuvalu's economy is largely dependent on fishing and remittances.",
+        "detail": "The country is highly vulnerable to the impacts of climate change."
+      }
+    ],
+    "climateData": {
+      "title": "Climate of Tuvalu",
+      "description": "Tuvalu experiences a tropical maritime climate characterized by consistently high temperatures and humidity throughout the year. Rainfall is abundant, with a distinct wet season from November to April.  The islands are susceptible to cyclones, particularly during the November-April period.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Wet Season",
+          "period": "November – April",
+          "description": "This period is marked by frequent rainfall, high humidity, and a greater risk of cyclones.",
+          "keyFeatures": [
+            "Heavy rainfall",
+            "High humidity",
+            "Cyclone risk"
+          ],
+          "activities": [
+            "Fishing",
+            "Traditional ceremonies",
+            "Coastal exploration"
+          ]
+        },
+        {
+          "name": "Dry Season",
+          "period": "May – October",
+          "description": "The dry season brings lower rainfall, reduced humidity, and calmer seas.  Temperatures remain consistently warm.",
+          "keyFeatures": [
+            "Lower rainfall",
+            "Lower humidity",
+            "Calm seas"
+          ],
+          "activities": [
+            "Diving",
+            "Snorkeling",
+            "Island hopping"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Funafuti Lagoon",
+        "category": "Marine Ecosystem",
+        "description": "Funafuti Lagoon is a stunning coral atoll lagoon, a vital habitat for a diverse range of marine life. It’s a crucial breeding ground for many fish species and a popular destination for divers and snorkelers.",
+        "detailedDescription": "The lagoon’s shallow, clear waters are teeming with colorful coral reefs, vibrant fish, and sea turtles. It’s a protected area, playing a critical role in the nation’s ecosystem.",
+        "bestTime": "May – October",
+        "bestLocations": [
+          "Funafuti Island",
+          "Atoll reefs"
+        ],
+        "viewingTips": [
+          "Use reef-safe sunscreen",
+          "Respect the marine environment",
+          "Hire a local guide"
+        ],
+        "scientificData": {
+          "Coral Coverage": "60%",
+          "Average Depth": "10 meters",
+          "Water Temperature": "28-30°C"
+        },
+        "icon": "Waves"
+      },
+      {
+        "id": 2,
+        "name": "Nanumea Atoll",
+        "category": "Coastal Landscape",
+        "description": "Nanumea Atoll is a remarkably flat and low-lying coral atoll, renowned for its pristine beaches and unique sand formations.",
+        "detailedDescription": "The atoll’s distinctive ‘sand dunes’ are formed by the constant action of waves and winds. It’s a haven for birdlife and offers a tranquil escape.",
+        "bestTime": "May – October",
+        "bestLocations": [
+          "Beachfront bungalows",
+          "Sand dune trails"
+        ],
+        "viewingTips": [
+          "Take a guided tour of the sand dunes",
+          "Observe the birdlife",
+          "Enjoy the sunset"
+        ],
+        "scientificData": {
+          "Maximum Elevation": "1 meter",
+          "Sand Dune Height": "Up to 5 meters",
+          "Island Perimeter": "20 km"
+        },
+        "icon": "Leaf"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Ecosystems of Tuvalu",
+      "overview": "Tuvalu’s ecosystems are primarily marine, dominated by coral reefs, lagoons, and mangrove forests. The islands themselves are low-lying and vulnerable to erosion and sea-level rise.  The interconnectedness of these ecosystems is vital for the nation’s survival.",
+      "conservationStatus": {
+        "protectedAreas": "15%",
+        "nationalParks": 0
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Marine Biodiversity",
+          "icon": "Fish",
+          "description": "The marine environment is incredibly rich and diverse, supporting a wide array of fish, coral, and invertebrate species.",
+          "statistics": [
+            {
+              "category": "Coral Species",
+              "count": "Over 40",
+              "details": "A significant portion of the world’s coral species are found in Tuvalu’s reefs."
+            },
+            {
+              "category": "Fish Species",
+              "count": "Over 300",
+              "details": "The lagoon supports commercially important fish species like tuna and mackerel."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Green Turtle",
+              "status": "Vulnerable",
+              "significance": "A key indicator species for the health of the reef ecosystem."
+            },
+            {
+              "name": "Grey Reef Shark",
+              "status": "Endangered",
+              "significance": "An apex predator crucial for maintaining the balance of the marine food web."
+            }
+          ],
+          "threats": [
+            "Coral bleaching",
+            "Overfishing",
+            "Pollution"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas",
+            "Sustainable fishing practices",
+            "Coral restoration projects"
+          ]
+        },
+        {
+          "name": "Coastal Vegetation",
+          "icon": "Tree",
+          "description": "Mangrove forests and coastal shrubs provide vital habitat and protect the islands from erosion.",
+          "statistics": [
+            {
+              "category": "Mangrove Area",
+              "count": "Approximately 5 km²",
+              "details": "Mangroves are crucial for coastal protection and carbon sequestration."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Coconut Palm",
+              "status": "Least Concern",
+              "significance": "A primary food source and building material for the local population."
+            }
+          ],
+          "threats": [
+            "Sea-level rise",
+            "Coastal development"
+          ],
+          "conservationEfforts": [
+            "Mangrove restoration",
+            "Coastal management planning"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Activities in Tuvalu",
+      "description": "Tuvalu offers a range of activities, primarily focused on experiencing the natural beauty of the islands and engaging with local culture.",
+      "activityCategories": [
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy the crystal-clear waters of Tuvalu’s lagoon.",
+          "activities": [
+            {
+              "name": "Snorkeling",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "2-4 hours",
+              "description": "Explore the vibrant coral reefs and diverse marine life.",
+              "bestLocations": [
+                "Funafuti Lagoon",
+                "Nanumea Atoll"
+              ],
+              "requirements": "Swimsuit, reef-safe sunscreen, mask and snorkel (rental available)",
+              "safety": [
+                "Swim in designated areas",
+                "Be aware of currents"
+              ]
+            },
+            {
+              "name": "Diving",
+              "difficulty": "Moderate",
+              "season": "May – October",
+              "duration": "3-6 hours",
+              "description": "Discover the underwater wonders of Tuvalu’s coral reefs.",
+              "bestLocations": [
+                "Funafuti Lagoon",
+                "Nui Atoll"
+              ],
+              "requirements": "Certification, wetsuit, diving equipment (rental available)",
+              "safety": [
+                "Follow dive guidelines",
+                "Check equipment before diving"
+              ]
+            },
+            {
+              "name": "Fishing",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "Variable",
+              "description": "Experience traditional Tuvaluan fishing techniques.",
+              "bestLocations": [
+                "Coastal waters",
+                "Lagoon"
+              ],
+              "requirements": "Fishing license (if required), fishing gear (rental available)",
+              "safety": [
+                "Follow local fishing regulations",
+                "Be aware of weather conditions"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cultural Activities",
+          "icon": "Calendar",
+          "description": "Immerse yourself in the rich traditions of Tuvalu.",
+          "activities": [
+            {
+              "name": "Village Tours",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "2-4 hours",
+              "description": "Learn about Tuvaluan customs and traditions.",
+              "bestLocations": [
+                "Funafuti",
+                "Nanumea"
+              ],
+              "requirements": "Respectful attire, willingness to learn",
+              "safety": [
+                "Follow local customs",
+                "Ask for permission before taking photos"
+              ]
+            },
+            {
+              "name": "Traditional Ceremonies",
+              "difficulty": "None",
+              "season": "Variable",
+              "duration": "Variable",
+              "description": "Witness traditional dances, songs, and rituals.",
+              "bestLocations": [
+                "Local villages"
+              ],
+              "requirements": "Respectful behavior",
+              "safety": [
+                "Observe from a distance",
+                "Follow local guidance"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight, breathable clothing, swimwear, hat, sunglasses",
+          "winter": "Light jacket, long-sleeved shirts, trousers",
+          "yearRound": "Modest clothing, covering shoulders and knees when visiting villages"
+        },
+        "equipment": {
+          "basic": "Sunscreen, insect repellent, water bottle, flashlight",
+          "hiking": "Sturdy walking shoes, backpack, map, compass",
+          "photography": "Camera, extra batteries, waterproof case"
+        },
+        "safety": [
+          "Stay hydrated",
+          "Protect yourself from the sun",
+          "Be aware of currents",
+          "Respect local customs"
+        ]
+      }
+    }
+  }
+}

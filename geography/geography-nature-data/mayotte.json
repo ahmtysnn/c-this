@@ -1,0 +1,324 @@
+{
+  "CountryData": {
+    "name": "Mayotte",
+    "region": "Africa",
+    "description": "Mayotte is an autonomous region of France located in the Indian Ocean, about 650 kilometers east of Madagascar. It’s a volcanic island with a unique blend of African, Arab, and French cultures. The island boasts stunning coral reefs, lush rainforests, and diverse wildlife, making it a popular destination for ecotourism and adventure travel.  Its economy relies heavily on agriculture, fishing, and tourism.",
+    "quickFacts": [
+      {
+        "label": "Capital",
+        "value": "Mamoudzou",
+        "icon": "MapPin",
+        "description": "The bustling capital and largest city of Mayotte.",
+        "detail": "Mamoudzou is the administrative, economic, and cultural center of the island."
+      },
+      {
+        "label": "Population",
+        "value": "227,000",
+        "icon": "Users",
+        "description": "The population is a diverse mix of ethnicities.",
+        "detail": "Approximately 60% are Comorian, 30% are Mahoran, and 10% are French."
+      },
+      {
+        "label": "Area",
+        "value": "1,660 km²",
+        "icon": "Globe",
+        "description": "A relatively small island with varied terrain.",
+        "detail": "It consists of Grande Comore, Ngazidja, and Mwali."
+      },
+      {
+        "label": "Currency",
+        "value": "Euro (€)",
+        "icon": "Coffee",
+        "description": "As part of France, Mayotte uses the Euro.",
+        "detail": "However, Comorian francs are also widely accepted."
+      },
+      {
+        "label": "Official Language",
+        "value": "French",
+        "icon": "Navigation",
+        "description": "French is the official language.",
+        "detail": "Comorian and Mahoran are also spoken."
+      },
+      {
+        "label": "GDP",
+        "value": "$680 million (2021)",
+        "icon": "Zap",
+        "description": "A developing economy primarily based on agriculture and tourism.",
+        "detail": "Tourism is a growing sector, attracting visitors with its pristine beaches and unique culture."
+      }
+    ],
+    "climateData": {
+      "title": "Tropical Climate",
+      "description": "Mayotte experiences a tropical climate with consistently high temperatures and humidity throughout the year. Rainfall is abundant, particularly during the wet season.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Dry Season",
+          "period": "May - October",
+          "description": "The dry season offers lower humidity and fewer rain showers, making it ideal for outdoor activities.",
+          "keyFeatures": [
+            "Lower humidity",
+            "Sunny days",
+            "Reduced rainfall"
+          ],
+          "activities": [
+            "Hiking",
+            "Diving",
+            "Beach relaxation"
+          ]
+        },
+        {
+          "name": "Wet Season",
+          "period": "November - April",
+          "description": "The wet season brings heavy rainfall and occasional cyclones, but also lush vegetation and vibrant landscapes.",
+          "keyFeatures": [
+            "High rainfall",
+            "Cyclones possible",
+            "Lush vegetation"
+          ],
+          "activities": [
+            "Wildlife spotting",
+            "Waterfall exploration"
+          ]
+        },
+        {
+          "name": "Summer (June-August)",
+          "period": "June - August",
+          "description": "This period is characterized by the hottest temperatures and most intense sunshine.",
+          "keyFeatures": [
+            "Hottest temperatures",
+            "Strongest sunshine",
+            "High humidity"
+          ],
+          "activities": [
+            "Swimming",
+            "Snorkeling",
+            "Boat trips"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Mount Ntengwe",
+        "category": "Mountain",
+        "description": "Mount Ntengwe is the highest point on Mayotte, offering breathtaking panoramic views of the island and surrounding waters. It’s a challenging but rewarding hike for experienced trekkers.",
+        "detailedDescription": "The ascent involves navigating through dense rainforest and volcanic terrain. The summit provides a stunning vista of the island's diverse landscapes, including the turquoise coastline and the lush interior.",
+        "bestTime": "June - September",
+        "bestLocations": [
+          "North-western coast"
+        ],
+        "viewingTips": [
+          "Start early to avoid the midday heat",
+          "Bring plenty of water and sunscreen"
+        ],
+        "scientificData": {
+          "Height": "1,611m",
+          "ElevationGain": "1200m",
+          "GeologicalFormation": "Volcanic"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "Iha Mtsapéré Coral Reef",
+        "category": "Marine",
+        "description": "Iha Mtsapéré is a vibrant coral reef system teeming with marine life, offering exceptional diving and snorkeling opportunities. Its diverse coral formations and abundant fish species make it a true underwater paradise.",
+        "detailedDescription": "The reef is home to a wide variety of coral species, including staghorn coral, brain coral, and soft corals. It’s also a habitat for numerous fish species, including colorful reef fish, sea turtles, and sharks.",
+        "bestTime": "May - November",
+        "bestLocations": [
+          "North-eastern coast"
+        ],
+        "viewingTips": [
+          "Use a reef-safe sunscreen",
+          "Respect the marine environment"
+        ],
+        "scientificData": {
+          "CoralDiversity": "Over 80 species",
+          "FishSpecies": "Over 200 species",
+          "Depth": "Variable, 3-30m"
+        },
+        "icon": "Leaf"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Mayotte Ecosystem",
+      "overview": "Mayotte’s ecosystems are remarkably diverse, ranging from volcanic mountains and rainforests to coral reefs and coastal wetlands. The island’s unique location and isolation have contributed to the evolution of endemic species and a rich biodiversity.",
+      "conservationStatus": {
+        "protectedAreas": "15%",
+        "nationalParks": 2
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Birds",
+          "icon": "Bird",
+          "description": "Mayotte is a haven for migratory birds, with a diverse range of species visiting the island during the breeding season.",
+          "statistics": [
+            {
+              "category": "Migratory Birds",
+              "count": "Over 100 species",
+              "details": "Includes several endemic species"
+            },
+            {
+              "category": "Endemic Birds",
+              "count": "10",
+              "details": "Unique to Mayotte"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Mayotte Paradise Flycatcher",
+              "status": "Endangered",
+              "significance": "Critically important for the island's avian biodiversity"
+            },
+            {
+              "name": "Red-tailed Tropicbird",
+              "status": "Vulnerable",
+              "significance": "A rare visitor to the island"
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Protected areas",
+            "Community-based conservation"
+          ]
+        },
+        {
+          "name": "Marine Life",
+          "icon": "Fish",
+          "description": "The coral reefs surrounding Mayotte are home to an incredible array of marine life, including colorful fish, sea turtles, sharks, and dolphins.",
+          "statistics": [
+            {
+              "category": "Coral Cover",
+              "count": "30%",
+              "details": "Significant coral reef area"
+            },
+            {
+              "category": "Fish Species",
+              "count": "200+",
+              "details": "High marine biodiversity"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Green Sea Turtle",
+              "status": "Endangered",
+              "significance": "A key component of the reef ecosystem"
+            },
+            {
+              "name": "Hammerhead Shark",
+              "status": "Vulnerable",
+              "significance": "Occasional sightings in the surrounding waters"
+            }
+          ],
+          "threats": [
+            "Pollution",
+            "Overfishing"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas",
+            "Sustainable fishing practices"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Mayotte Adventures",
+      "description": "Mayotte offers a wide range of activities for adventure seekers and nature lovers, from hiking and diving to exploring waterfalls and discovering local culture.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the island's volcanic mountains and lush rainforests on foot.",
+          "activities": [
+            {
+              "name": "Ntengwe Summit Hike",
+              "difficulty": "Hard",
+              "season": "June - September",
+              "duration": "6-8 hours",
+              "description": "A challenging hike to the summit of Mount Ntengwe, offering stunning views.",
+              "bestLocations": [
+                "North-western coast"
+              ],
+              "requirements": "Good hiking boots, water, sunscreen",
+              "safety": [
+                "Be aware of altitude sickness",
+                "Stick to marked trails"
+              ]
+            },
+            {
+              "name": "Waterfall Trek",
+              "difficulty": "Moderate",
+              "season": "May - October",
+              "duration": "4-6 hours",
+              "description": "Discover hidden waterfalls in the island's interior.",
+              "bestLocations": [
+                "Central plateau"
+              ],
+              "requirements": "Hiking boots, rain gear",
+              "safety": [
+                "Be careful on slippery rocks"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy the crystal-clear waters of Mayotte with a variety of water sports activities.",
+          "activities": [
+            {
+              "name": "Diving",
+              "difficulty": "Easy - Expert",
+              "season": "May - November",
+              "duration": "Variable",
+              "description": "Explore the vibrant coral reefs and marine life.",
+              "bestLocations": [
+                "Iha Mtsapéré",
+                "North-eastern coast"
+              ],
+              "requirements": "Certification (for advanced dives)",
+              "safety": [
+                "Dive with a reputable operator"
+              ]
+            },
+            {
+              "name": "Snorkeling",
+              "difficulty": "Easy",
+              "season": "Year Round",
+              "duration": "Variable",
+              "description": "Discover the underwater world without diving.",
+              "bestLocations": [
+                "Beaches along the coast"
+              ],
+              "requirements": "Snorkel and mask",
+              "safety": [
+                "Be aware of currents"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+          "winter": "Long-sleeved shirts, trousers, sweater, raincoat",
+          "yearRound": "Sunscreen, insect repellent"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, first-aid kit",
+          "hiking": "Hiking boots, trekking poles",
+          "photography": "Camera, extra batteries"
+        },
+        "safety": [
+          "Respect local customs",
+          "Stay hydrated",
+          "Be aware of wildlife"
+        ]
+      }
+    }
+  }
+}

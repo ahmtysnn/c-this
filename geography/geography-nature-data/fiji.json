@@ -1,0 +1,340 @@
+{
+  "name": "Fiji",
+  "region": "Oceania",
+  "description": "Fiji, officially the Republic of Fiji, is an archipelago nation in Melanesia, located in the South Pacific Ocean. It’s renowned for its stunning coral reefs, pristine beaches, lush rainforests, and vibrant culture. The country is comprised of more than 300 islands, with approximately 100 of them permanently inhabited. Fiji boasts a diverse ecosystem, rich biodiversity, and a warm, welcoming spirit.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "933,029",
+      "icon": "Users",
+      "description": "The total population of Fiji is approximately 933,029 as of 2023.",
+      "detail": "The population is concentrated on Viti Levu and Vanua Levu, the two largest islands."
+    },
+    {
+      "label": "Capital",
+      "value": "Suva",
+      "icon": "MapPin",
+      "description": "Suva is the capital and largest city of Fiji.",
+      "detail": "It’s a bustling commercial and administrative center."
+    },
+    {
+      "label": "Official Language",
+      "value": "Fijian, English",
+      "icon": "Globe",
+      "description": "Fijian is the national language, while English is widely used in government, education, and business.",
+      "detail": "Bula is a common Fijian greeting."
+    },
+    {
+      "label": "Currency",
+      "value": "Fijian Dollar (FJD)",
+      "icon": "Coffee",
+      "description": "The currency of Fiji is the Fijian Dollar.",
+      "detail": "It is pegged to the New Zealand Dollar."
+    },
+    {
+      "label": "GDP",
+      "value": "$12.37 billion (2023)",
+      "icon": "Zap",
+      "description": "Fiji's Gross Domestic Product (GDP) in 2023 was approximately $12.37 billion.",
+      "detail": "Tourism and sugar production are key contributors to the economy."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Fiji enjoys a tropical climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is generally abundant, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "May – October",
+        "description": "The dry season is generally sunny and pleasant, with lower humidity and less rainfall. It’s ideal for outdoor activities.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Snorkeling",
+          "Diving",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "November – April",
+        "description": "The wet season brings increased rainfall, often in the form of tropical storms and cyclones. However, the rain is usually short-lived, and sunshine often returns quickly.",
+        "keyFeatures": [
+          "High rainfall",
+          "Tropical storms",
+          "Increased humidity"
+        ],
+        "activities": [
+          "Waterfall exploration",
+          "Rainforest hikes",
+          "Cultural experiences"
+        ]
+      },
+      {
+        "name": "Cyclone Season",
+        "period": "December – April",
+        "description": "Fiji is within the cyclone belt, so cyclone season is a significant factor. Residents and visitors should be aware of weather warnings and take necessary precautions.",
+        "keyFeatures": [
+          "Potential for cyclones",
+          "Strong winds",
+          "Heavy rainfall"
+        ],
+        "activities": [
+          "Limited outdoor activities during cyclone warnings"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Sawa-i-Lau Caves",
+      "category": "Cave System",
+      "description": "The Sawa-i-Lau Caves are a series of stunning limestone caves located on a remote island in the Yasawa Group. Accessible only by boat, these caves feature breathtaking blue pools and intricate formations.",
+      "detailedDescription": "The caves are believed to have been used as a sacred burial ground by the islanders for centuries. The blue color of the pools is due to the reflection of sunlight on the limestone walls.",
+      "bestTime": "May – October",
+      "bestLocations": [
+        "Yasawa Islands"
+      ],
+      "viewingTips": [
+        "Book a guided tour in advance",
+        "Wear appropriate footwear",
+        "Bring a waterproof camera"
+      ],
+      "scientificData": {
+        "Depth": "Varies, up to 30m",
+        "Formation Age": "Millions of years"
+      },
+      "icon": "Navigation"
+    },
+    {
+      "id": 2,
+      "name": "Garden of the Sleeping Giant",
+      "category": "Botanical Garden",
+      "description": "The Garden of the Sleeping Giant is a sprawling botanical garden showcasing the diverse flora of Fiji. It’s a peaceful oasis with stunning views of the Coral Coast.",
+      "detailedDescription": "The garden features a vast collection of native plants, including orchids, ferns, and towering trees. It’s a popular spot for birdwatching and photography.",
+      "bestTime": "Year Round",
+      "bestLocations": [
+        "Coral Coast"
+      ],
+      "viewingTips": [
+        "Allow at least 2-3 hours to explore",
+        "Wear comfortable shoes",
+        "Bring insect repellent"
+      ],
+      "scientificData": {
+        "Area": "170 hectares",
+        "Plant Species": "Over 600"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 3,
+      "name": "Tavoro Falls",
+      "category": "Waterfall",
+      "description": "The Tavoro Falls are a series of three stunning waterfalls located on the island of Kadavu. The largest waterfall cascades into a beautiful lagoon, perfect for swimming.",
+      "detailedDescription": "The falls are surrounded by lush rainforest and offer a truly immersive experience. A short hike through the jungle leads to the lagoon.",
+      "bestTime": "May – October",
+      "bestLocations": [
+        "Kadavu Island"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear water shoes",
+        "Bring swimwear"
+      ],
+      "scientificData": {
+        "Height": "90m",
+        "Flow Rate": "Variable"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Fiji’s Diverse Ecosystems",
+    "overview": "Fiji’s ecosystems are remarkably diverse, ranging from pristine coral reefs to lush rainforests and volcanic mountains. The country’s isolation has contributed to the evolution of unique flora and fauna.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral Reefs",
+        "icon": "Waves",
+        "description": "Fiji’s coral reefs are among the most diverse in the world, supporting a vast array of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "350+",
+            "details": "Over 350 different coral species"
+          },
+          {
+            "category": "Fish Species",
+            "count": "1,000+",
+            "details": "More than 1,000 species of fish"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Clownfish",
+            "status": "Vulnerable",
+            "significance": "Iconic reef fish"
+          },
+          {
+            "name": "Manta Ray",
+            "status": "Endangered",
+            "significance": "Large filter-feeding rays"
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral restoration projects"
+        ]
+      },
+      {
+        "name": "Rainforests",
+        "icon": "Leaf",
+        "description": "Fiji’s rainforests are home to a remarkable variety of plant and animal life, including many endemic species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "800+",
+            "details": "Over 800 tree species"
+          },
+          {
+            "category": "Bird Species",
+            "count": "60+",
+            "details": "More than 60 bird species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Fiji Parrot",
+            "status": "Endangered",
+            "significance": "Unique parrot species"
+          },
+          {
+            "name": "Green Iguana",
+            "status": "Vulnerable",
+            "significance": "Large lizard"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Reforestation programs",
+          "Protected areas"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Adventure & Recreation in Fiji",
+    "description": "Fiji offers a wide range of activities for visitors of all interests and abilities, from adrenaline-pumping adventures to relaxing beach days.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Fiji’s stunning rainforests and volcanic mountains on foot.",
+        "activities": [
+          {
+            "name": "Saratoga Trail Hike",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "3-4 hours",
+            "description": "A popular hike through the rainforest to a waterfall.",
+            "bestLocations": [
+              "Viti Levu"
+            ],
+            "requirements": "Good hiking shoes, water, insect repellent",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Tavoro Falls Hike",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "1-2 hours",
+            "description": "A scenic hike to the Tavoro Falls.",
+            "bestLocations": [
+              "Kadavu Island"
+            ],
+            "requirements": "Water shoes, swimwear",
+            "safety": [
+              "Watch for slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Fiji’s crystal-clear waters.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Explore Fiji’s vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Beqa Lagoon",
+              "Namoli Island"
+            ],
+            "requirements": "Certification, diving equipment",
+            "safety": [
+              "Follow dive briefings",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Surfing",
+            "difficulty": "Easy – Expert",
+            "season": "May – October",
+            "duration": "Variable",
+            "description": "Catch some waves on Fiji’s world-class surf breaks.",
+            "bestLocations": [
+              "Cloudbreak",
+              "Namotu Left"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on conditions)",
+            "safety": [
+              "Be aware of currents",
+              "Check surf reports"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat",
+        "winter": "Long-sleeved shirts, light jacket, rain gear",
+        "yearRound": "Versatile clothing suitable for warm and humid conditions"
+      },
+      "equipment": {
+        "basic": "Insect repellent, sunscreen, hat, sunglasses",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Travel insurance",
+        "First-aid kit",
+        "Respect local customs"
+      ]
+    }
+  }
+}

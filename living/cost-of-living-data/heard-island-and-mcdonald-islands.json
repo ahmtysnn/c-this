@@ -1,0 +1,137 @@
+{
+  "country": "Heard Island and McDonald Islands",
+  "lastUpdated": "2025-12-07T14:13:28.260Z",
+  "currency": "USD",
+  "cities": [
+    {
+      "city": "Heard Island (Population: ~20)",
+      "items": [
+        {
+          "item": "Meal, Inexpensive Restaurant",
+          "price": "60.00",
+          "min": "40.00",
+          "max": "80.00"
+        },
+        {
+          "item": "Water (1.5 liter bottle)",
+          "price": "3.00",
+          "min": "2.00",
+          "max": "4.00"
+        },
+        {
+          "item": "Bottle of Wine (Mid-Range)",
+          "price": "40.00",
+          "min": "30.00",
+          "max": "50.00"
+        },
+        {
+          "item": "Domestic Beer (0.5 liter bottle)",
+          "price": "5.00",
+          "min": "4.00",
+          "max": "6.00"
+        },
+        {
+          "item": "Gasoline (1 liter)",
+          "price": "8.00",
+          "min": "7.00",
+          "max": "9.00"
+        },
+        {
+          "item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",
+          "price": "200.00",
+          "min": "150.00",
+          "max": "250.00"
+        },
+        {
+          "item": "Monthly Pass (Regular Price)",
+          "price": "75.00",
+          "min": "60.00",
+          "max": "90.00"
+        },
+        {
+          "item": "One-way Ticket (Local Transport)",
+          "price": "10.00",
+          "min": "8.00",
+          "max": "12.00"
+        },
+        {
+          "item": "Apartment (1 bedroom) Outside of Centre",
+          "price": "1000.00",
+          "min": "800.00",
+          "max": "1200.00"
+        },
+        {
+          "item": "Average Monthly Net Salary (After Tax)",
+          "price": "2500.00",
+          "min": "1800.00",
+          "max": "3500.00"
+        }
+      ]
+    },
+    {
+      "city": "McDonald Island (Population: ~10)",
+      "items": [
+        {
+          "item": "Meal, Inexpensive Restaurant",
+          "price": "50.00",
+          "min": "35.00",
+          "max": "70.00"
+        },
+        {
+          "item": "Water (1.5 liter bottle)",
+          "price": "2.50",
+          "min": "2.00",
+          "max": "3.00"
+        },
+        {
+          "item": "Bottle of Wine (Mid-Range)",
+          "price": "35.00",
+          "min": "30.00",
+          "max": "45.00"
+        },
+        {
+          "item": "Domestic Beer (0.5 liter bottle)",
+          "price": "4.00",
+          "min": "3.00",
+          "max": "5.00"
+        },
+        {
+          "item": "Gasoline (1 liter)",
+          "price": "7.00",
+          "min": "6.00",
+          "max": "8.00"
+        },
+        {
+          "item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment",
+          "price": "180.00",
+          "min": "140.00",
+          "max": "220.00"
+        },
+        {
+          "item": "Monthly Pass (Regular Price)",
+          "price": "65.00",
+          "min": "50.00",
+          "max": "80.00"
+        },
+        {
+          "item": "One-way Ticket (Local Transport)",
+          "price": "8.00",
+          "min": "6.00",
+          "max": "10.00"
+        },
+        {
+          "item": "Apartment (1 bedroom) Outside of Centre",
+          "price": "900.00",
+          "min": "750.00",
+          "max": "1100.00"
+        },
+        {
+          "item": "Average Monthly Net Salary (After Tax)",
+          "price": "3000.00",
+          "min": "2200.00",
+          "max": "4000.00"
+        }
+      ]
+    }
+  ]
+}

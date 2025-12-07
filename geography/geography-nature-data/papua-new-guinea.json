@@ -1,0 +1,343 @@
+{
+  "name": "Papua New Guinea",
+  "region": "Oceania",
+  "description": "Papua New Guinea (PNG) is an island nation located in the southwestern Pacific Ocean, east of Indonesia and north of Australia. It’s renowned for its incredible biodiversity, volcanic landscapes, and diverse cultures. PNG boasts the highest level of linguistic and cultural diversity in the world, with over 800 languages spoken. The country’s rugged terrain, including extensive rainforests, highlands, and coral reefs, presents both challenges and unparalleled beauty.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "8.8 million",
+      "icon": "Users",
+      "description": "Papua New Guinea has a remarkably diverse population, comprising numerous ethnic groups and languages.",
+      "detail": "The population density is extremely low, with most people living in rural areas."
+    },
+    {
+      "label": "Capital",
+      "value": "Port Moresby",
+      "icon": "MapPin",
+      "description": "Port Moresby is the bustling capital city and a major commercial center.",
+      "detail": "It's located on the southeastern coast of the island of New Guinea."
+    },
+    {
+      "label": "Area",
+      "value": "462,840 sq km (178,753 sq mi)",
+      "icon": "Globe",
+      "description": "PNG is a large island nation with a diverse topography.",
+      "detail": "It’s the fourth-largest island in the world."
+    },
+    {
+      "label": "Currency",
+      "value": "Papua New Guinean Kina (PGK)",
+      "icon": "Coffee",
+      "description": "The official currency of Papua New Guinea.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD is approximately 0.80 PGK."
+    },
+    {
+      "label": "Languages",
+      "value": "Over 800",
+      "icon": "Eye",
+      "description": "PNG is a linguistic hotspot with an astonishing variety of languages.",
+      "detail": "English is the official language, but many indigenous languages are widely spoken."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Papua New Guinea",
+    "description": "Papua New Guinea experiences a tropical climate with significant regional variations. The coastal areas are hot and humid year-round, while the highlands are cooler and wetter. Rainfall is abundant throughout the year, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season",
+        "period": "November – April",
+        "description": "The wet season is characterized by heavy rainfall, high humidity, and frequent storms. Flooding is common in low-lying areas.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Storms",
+          "Flooding"
+        ],
+        "activities": [
+          "Rainforest trekking",
+          "River rafting (experienced guides only)",
+          "Wildlife viewing (especially birds)"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "May – October",
+        "description": "The dry season brings drier conditions, lower humidity, and less rainfall. Temperatures remain warm, but there are cooler nights, especially in the highlands.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Lower humidity",
+          "Cooler nights",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Mountaineering",
+          "Birdwatching",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Tropical Cyclones",
+        "period": "December – April",
+        "description": "PNG is prone to tropical cyclones, which can bring destructive winds and heavy rainfall.  Monitoring and preparedness are crucial.",
+        "keyFeatures": [
+          "Strong winds",
+          "Heavy rainfall",
+          "Storm surges"
+        ],
+        "activities": [
+          "Stay indoors and follow safety guidelines"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "The Sepik River",
+      "category": "River",
+      "description": "The Sepik River is a major waterway in Papua New Guinea, renowned for its rich cultural significance and stunning scenery. It flows through a dense rainforest teeming with wildlife and is home to numerous traditional villages.",
+      "detailedDescription": "The river is a vital lifeline for the people of the Sepik region, providing transportation, sustenance, and a connection to their ancestral heritage.  Its tributaries are lined with towering trees and lush vegetation.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Kakamemas",
+        "Angoro"
+      ],
+      "viewingTips": [
+        "Hire a local guide to navigate the river and learn about the culture.",
+        "Respect the local customs and traditions."
+      ],
+      "scientificData": {
+        "Length": "1,000 km (621 miles)",
+        "Drainage Basin Area": "26,500 sq km (10,200 sq mi)"
+      },
+      "icon": "Navigation"
+    },
+    {
+      "id": 2,
+      "name": "Mount Wilhelm",
+      "category": "Mountain",
+      "description": "Mount Wilhelm is the highest peak in Papua New Guinea, offering breathtaking views and challenging trekking opportunities. It’s a sacred site for many indigenous groups.",
+      "detailedDescription": "The mountain is part of the Sudirman Range and is covered in alpine meadows and glaciers.  The ascent requires significant physical fitness and experience.",
+      "bestTime": "June – September",
+      "bestLocations": [
+        "Mount Wilhelm Plateau"
+      ],
+      "viewingTips": [
+        "Acclimatize to the altitude before attempting the summit.",
+        "Hire a qualified guide."
+      ],
+      "scientificData": {
+        "Height": "4,509 m (14,799 ft)",
+        "Geological Age": "Approximately 150 million years old"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "The Kokoda Trail",
+      "category": "Trail",
+      "description": "The Kokoda Trail is a historically significant jungle track that played a crucial role in World War II. Today, it’s a popular trekking destination offering a challenging and rewarding experience.",
+      "detailedDescription": "The trail winds through dense rainforest, across rivers, and over rugged terrain, offering glimpses of the country’s natural beauty and a poignant reminder of the war’s impact. It’s a demanding trek requiring good fitness and preparation.",
+      "bestTime": "May – September",
+      "bestLocations": [
+        "Kokoda"
+      ],
+      "viewingTips": [
+        "Respect the historical significance of the trail.",
+        "Hire a local guide."
+      ],
+      "scientificData": {
+        "Length": "75 km (47 miles)",
+        "Elevation Gain": "1,200 m (3,940 ft)"
+      },
+      "icon": "Compass"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Papua New Guinea",
+    "overview": "Papua New Guinea boasts an extraordinary range of ecosystems, from tropical rainforests and coral reefs to alpine meadows and volcanic landscapes. These diverse environments support an unparalleled level of biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 65
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Rainforests",
+        "icon": "Trees",
+        "description": "Papua New Guinea is home to some of the world’s most extensive and biodiverse rainforests, playing a crucial role in global carbon sequestration.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 7,000",
+            "details": "A remarkable diversity of tree species, many of which are endemic."
+          },
+          {
+            "category": "Insect Species",
+            "count": "Estimated 10,000",
+            "details": "One of the highest concentrations of insect species on Earth."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Papuan Broadbill",
+            "status": "Endangered",
+            "significance": "A critically endangered bird species found only in PNG."
+          },
+          {
+            "name": "Giant Clam",
+            "status": "Vulnerable",
+            "significance": "One of the largest clams in the world, found in PNG’s coral reefs."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Mining"
+        ],
+        "conservationEfforts": [
+          "Protected area establishment",
+          "Community-based conservation programs"
+        ]
+      },
+      {
+        "name": "Coral Reefs",
+        "icon": "Fish",
+        "description": "Papua New Guinea’s coral reefs are among the most diverse and pristine in the world, supporting a vast array of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 600",
+            "details": "A significant proportion of coral species are found only in PNG."
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 1,500",
+            "details": "A remarkable diversity of reef fish, including many endemic species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Manta Ray",
+            "status": "Vulnerable",
+            "significance": "A large and graceful ray species found in PNG’s reefs."
+          },
+          {
+            "name": "Sea Turtle",
+            "status": "Endangered",
+            "significance": "Several species of sea turtles nest on PNG’s beaches."
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Papua New Guinea",
+    "description": "Papua New Guinea offers a wide range of activities for adventure seekers and nature enthusiasts, from trekking and diving to cultural experiences and wildlife viewing.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the diverse landscapes of PNG on foot, from rainforest trails to mountain peaks.",
+        "activities": [
+          {
+            "name": "Mount Wilhelm Ascent",
+            "difficulty": "Hard",
+            "season": "June – September",
+            "duration": "3-5 days",
+            "description": "A challenging trek to the highest peak in PNG.",
+            "bestLocations": [
+              "Mount Wilhelm Plateau"
+            ],
+            "requirements": "Good fitness, trekking experience, appropriate gear.",
+            "safety": [
+              "Altitude sickness",
+              "Weather conditions"
+            ]
+          },
+          {
+            "name": "Kokoda Trail Trek",
+            "difficulty": "Moderate",
+            "season": "May – September",
+            "duration": "4-7 days",
+            "description": "A historic trek through the rainforest, following the route of World War II.",
+            "bestLocations": [
+              "Kokoda"
+            ],
+            "requirements": "Good fitness, trekking experience, appropriate gear.",
+            "safety": [
+              "Jungle hazards",
+              "Wildlife encounters"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Discover the underwater wonders of PNG’s coral reefs and rivers.",
+        "activities": [
+          {
+            "name": "Diving",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "Ragamauga Island",
+              "Kavieng"
+            ],
+            "requirements": "PADI certification (recommended), appropriate gear.",
+            "safety": [
+              "Marine life encounters",
+              "Currents"
+            ]
+          },
+          {
+            "name": "River Rafting",
+            "difficulty": "Moderate",
+            "season": "Dry Season (May – October)",
+            "duration": "1-3 days",
+            "description": "Experience the thrill of navigating PNG’s rivers.",
+            "bestLocations": [
+              "Fly River",
+              "Sepik River"
+            ],
+            "requirements": "Experience recommended, appropriate gear.",
+            "safety": [
+              "River hazards",
+              "Wildlife encounters"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, sunscreen.",
+        "winter": "Warm layers, waterproof jacket, hat, gloves.",
+        "yearRound": "Insect repellent, sturdy hiking boots."
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit, headlamp.",
+        "hiking": "Trekking poles, map, compass, GPS.",
+        "photography": "Camera, extra batteries, waterproof case."
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Respect local customs",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

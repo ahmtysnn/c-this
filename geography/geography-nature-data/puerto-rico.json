@@ -1,0 +1,373 @@
+{
+  "name": "Puerto Rico",
+  "region": "Caribbean, North America",
+  "description": "Puerto Rico, an island territory of the United States, boasts a rich history, diverse landscapes, and vibrant culture. Located east of Cuba and north of the Dominican Republic, it’s characterized by a mountainous spine, lush rainforests, stunning beaches, and a unique blend of Spanish, African, and indigenous influences. The island’s geological history, shaped by volcanic activity and erosion, contributes to its remarkable biodiversity and varied ecosystems.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "San Juan",
+      "icon": "MapPin",
+      "description": "The historic capital and largest city of Puerto Rico.",
+      "detail": "San Juan is a UNESCO World Heritage Site, renowned for its colonial architecture and strategic importance throughout history."
+    },
+    {
+      "label": "Population",
+      "value": "3.265 million",
+      "icon": "Users",
+      "description": "The population of Puerto Rico reflects a diverse heritage.",
+      "detail": "The majority of the population identifies as Hispanic or Latino, with a significant African and European ancestry."
+    },
+    {
+      "label": "Area",
+      "value": "9,104 sq km (3,519 sq mi)",
+      "icon": "Globe",
+      "description": "A relatively small island with significant geographical variation.",
+      "detail": "Puerto Rico’s terrain ranges from coastal plains to mountainous highlands."
+    },
+    {
+      "label": "Currency",
+      "value": "US Dollar (USD)",
+      "icon": "Zap",
+      "description": "As a US territory, Puerto Rico uses the US Dollar.",
+      "detail": "However, Puerto Rico has its own distinct financial regulations and economic policies."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish and English",
+      "icon": "ArrowRight",
+      "description": "Both Spanish and English are widely spoken.",
+      "detail": "Spanish is the predominant language, while English is prevalent in business and tourism."
+    },
+    {
+      "label": "Independence Status",
+      "value": "US Territory",
+      "icon": "Navigation",
+      "description": "Puerto Rico is a self-governing territory of the United States.",
+      "detail": "The island's political status remains a subject of ongoing debate and referendums."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Puerto Rico experiences a tropical climate with consistently warm temperatures and high humidity throughout the year. The island is influenced by trade winds, resulting in distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "The summer months are hot and humid, with frequent afternoon showers.",
+        "keyFeatures": [
+          "High humidity",
+          "Afternoon thunderstorms",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Water sports",
+          "Exploring rainforests"
+        ]
+      },
+      {
+        "name": "Fall (September - November)",
+        "period": "September - November",
+        "description": "Fall brings a gradual decrease in rainfall and slightly cooler temperatures.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Pleasant temperatures",
+          "Hurricane season"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Exploring coastal areas"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is the coolest and driest season, with average temperatures in the low 70s Fahrenheit.",
+        "keyFeatures": [
+          "Coolest temperatures",
+          "Lowest rainfall",
+          "Dry season"
+        ],
+        "activities": [
+          "Surfing",
+          "Scuba diving",
+          "Visiting historical sites"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring offers a transition between the dry and wet seasons, with increasing rainfall.",
+        "keyFeatures": [
+          "Increasing rainfall",
+          "Warm temperatures",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Hiking",
+          "Botanical gardens",
+          "Outdoor festivals"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "El Yunque National Forest",
+      "category": "Forest",
+      "description": "El Yunque is the only tropical rainforest in the U.S. National Forest System, renowned for its incredible biodiversity and stunning waterfalls. It’s a vital source of freshwater for the island.",
+      "detailedDescription": "The forest boasts a diverse array of plant and animal life, including orchids, bromeliads, and the coquí frog, Puerto Rico’s national symbol. Trails range from easy strolls to challenging climbs, offering breathtaking views.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Luquillo",
+        "Rio Grande"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking shoes",
+        "Bring rain gear",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Height": "600-800m",
+        "Rainfall": "1000-3000mm annually",
+        "Temperature": "21-30°C"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Bioluminescent Bays",
+      "category": "Coastal",
+      "description": "Puerto Rico is home to several bioluminescent bays, where microscopic organisms called dinoflagellates emit a blue glow when disturbed. This creates a magical experience.",
+      "detailedDescription": "The bays are a delicate ecosystem, and responsible tourism practices are crucial to protect them. Kayaking or paddleboarding through the glowing waters is an unforgettable experience.",
+      "bestTime": "Summer and Fall",
+      "bestLocations": [
+        "Mosquito Bay (Vieques)",
+        "Laguna Grande (Fajardo)",
+        "Jobos Bay (Luquillo)"
+      ],
+      "viewingTips": [
+        "Book a guided tour",
+        "Avoid using flashlights",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Organism": "Dinoflagellates",
+        "Luminescence": "Blue light emission"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Las Cabezas de San Juan National Monument",
+      "category": "Coastal",
+      "description": "This historic monument protects a significant portion of the island’s coastline and features a lighthouse built in the 17th century. It’s a crucial habitat for migratory birds.",
+      "detailedDescription": "The monument encompasses a diverse range of ecosystems, including mangroves, coral reefs, and beaches. It offers opportunities for birdwatching, snorkeling, and exploring the island’s maritime history.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "San Juan"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching",
+        "Wear sunscreen and a hat"
+      ],
+      "scientificData": {
+        "Bird Species": "Over 80 species",
+        "Mangrove Area": "100 hectares"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Endemic Species",
+    "icon": "Bird",
+    "description": "Puerto Rico is a biodiversity hotspot, with a high number of species found nowhere else on Earth. Many of these are endemic, meaning they are unique to the island.",
+    "statistics": [
+      {
+        "category": "Plants",
+        "count": "Approximately 1,200",
+        "details": "Around 10% of the world’s plant species are found in Puerto Rico."
+      },
+      {
+        "category": "Birds",
+        "count": "Over 70",
+        "details": "Numerous bird species are endemic to Puerto Rico, including the Puerto Rican Parrot."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Puerto Rican Parrot",
+        "status": "Critically Endangered",
+        "significance": "The only parrot endemic to the Caribbean, once on the brink of extinction but now making a slow recovery."
+      },
+      {
+        "name": "Puerto Rican Coquí Frog",
+        "status": "Vulnerable",
+        "significance": "The national symbol of Puerto Rico, known for its distinctive call."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Invasive species",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Species recovery programs",
+      "Habitat restoration"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Tropical Rainforests and Coastal Ecosystems",
+    "overview": "Puerto Rico’s ecosystems are remarkably diverse, ranging from the lush tropical rainforests of El Yunque to the vibrant coral reefs of its coastline. These ecosystems are vital for the island’s biodiversity and provide essential services.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 40%",
+      "nationalParks": 4
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral Reefs",
+        "icon": "Waves",
+        "description": "Puerto Rico’s coral reefs are among the most biodiverse in the Caribbean, supporting a wide range of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 60",
+            "details": "A diverse array of coral species contributes to the reef’s complexity."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Climate change",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral restoration projects"
+        ]
+      },
+      {
+        "name": "Mangrove Forests",
+        "icon": "Leaf",
+        "description": "Mangrove forests provide critical habitat for numerous species and protect the coastline from erosion.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 200 km²",
+            "details": "These forests are essential for coastal protection and fisheries."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration projects",
+          "Sustainable coastal management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures",
+    "description": "Puerto Rico offers a wide range of outdoor activities for all skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s diverse trails, from rainforest hikes to coastal trails.",
+        "activities": [
+          {
+            "name": "El Yunque Summit Trail",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-4 hours",
+            "description": "A challenging hike to the summit of El Yunque, offering panoramic views.",
+            "bestLocations": [
+              "El Yunque National Forest"
+            ],
+            "requirements": "Hiking boots, water, sunscreen",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of weather conditions"
+            ]
+          },
+          {
+            "name": "La Mina Falls Trail",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "A popular trail leading to a beautiful waterfall.",
+            "bestLocations": [
+              "El Yunque National Forest"
+            ],
+            "requirements": "Hiking boots, water",
+            "safety": [
+              "Watch for slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the island’s pristine beaches and crystal-clear waters.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "Culebra",
+              "Vieques"
+            ],
+            "requirements": "Scuba certification, snorkeling gear",
+            "safety": [
+              "Follow dive guidelines",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Surfing",
+            "difficulty": "Easy to Hard",
+            "season": "Winter",
+            "duration": "Variable",
+            "description": "Catch the waves at popular surf spots.",
+            "bestLocations": [
+              "Rincón",
+              "Aguadilla"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on the season)",
+            "safety": [
+              "Be aware of currents",
+              "Check surf conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Layers, light jacket, rain gear",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Insect repellent, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

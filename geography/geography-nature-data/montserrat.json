@@ -1,0 +1,342 @@
+{
+  "name": "Montserrat",
+  "region": "Caribbean",
+  "description": "Montserrat is a volcanic island nation in the Leeward Islands of the Caribbean, located southeast of Antigua and Barbuda.  It’s a land of dramatic landscapes shaped by ongoing volcanic activity, boasting lush rainforests, rugged mountains, and a unique blend of British and Caribbean cultures. The island’s history is deeply intertwined with its volcanic past, including the devastating 1995 eruption of Soufrière Hills, which dramatically altered the island’s geography and population.",
+  "quickFacts": [
+    {
+      "label": "Official Name",
+      "value": "Island of Montserrat",
+      "icon": "MapPin",
+      "description": "The official designation of the island.",
+      "detail": "Recognized internationally as a British Overseas Territory."
+    },
+    {
+      "label": "Population",
+      "value": "4,535 (2021)",
+      "icon": "Users",
+      "description": "The current population of the island.",
+      "detail": "Approximately 1,000 residents live on the main island (Soufrière Hills), with the remainder residing on the sister island, Plymouth."
+    },
+    {
+      "label": "Area",
+      "value": "101 km² (39 sq mi)",
+      "icon": "Globe",
+      "description": "The total land area of Montserrat.",
+      "detail": "Divided into two main areas: Soufrière Hills and Plymouth."
+    },
+    {
+      "label": "Currency",
+      "value": "East Caribbean Dollar (XCD)",
+      "icon": "Coffee",
+      "description": "The official currency of Montserrat.",
+      "detail": "Linked to the currencies of other Caribbean nations."
+    },
+    {
+      "label": "Capital",
+      "value": "Bridgetown",
+      "icon": "MapPin",
+      "description": "The administrative capital of Montserrat.",
+      "detail": "Located on the southwestern coast of the main island."
+    },
+    {
+      "label": "Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "The official language of Montserrat.",
+      "detail": "With significant influences from Caribbean Creole dialects."
+    }
+  ],
+  "climateData": {
+    "title": "Montserrat Climate",
+    "description": "Montserrat experiences a tropical marine climate, influenced by trade winds and the surrounding ocean. Temperatures are consistently warm throughout the year, with a distinct wet and dry season. Volcanic activity can impact local weather patterns.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "The summer months are hot and humid, with frequent showers and thunderstorms. Rainfall is generally higher during this period.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent showers",
+          "Thunderstorms"
+        ],
+        "activities": [
+          "Hiking",
+          "Beach relaxation",
+          "Water sports (limited)"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Temperatures begin to cool slightly, and rainfall decreases. The landscape is vibrant with lush greenery.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Cooler temperatures",
+          "Vibrant foliage"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Exploring rainforests"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "The coolest and driest months of the year.  Sunshine is abundant, and the sea is calm.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Low rainfall",
+          "Sunny days"
+        ],
+        "activities": [
+          "Hiking",
+          "Scuba diving",
+          "Boat trips"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Temperatures gradually increase, and rainfall starts to rise again. Wildflowers bloom throughout the island.",
+        "keyFeatures": [
+          "Increasing temperatures",
+          "Rising rainfall",
+          "Wildflower blooms"
+        ],
+        "activities": [
+          "Hiking",
+          "Nature walks",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Soufrière Hills Volcano",
+      "category": "Volcano",
+      "description": "The active volcano at the center of the island, responsible for the 1995 eruption.  Despite its destructive power, it’s a stunning geological feature and a reminder of the island’s dynamic nature.",
+      "detailedDescription": "The volcano is composed of a complex system of lava domes, craters, and pyroclastic flows.  Ongoing monitoring by the Montserrat Volcano Observatory is crucial for assessing risks and providing warnings.",
+      "bestTime": "Year-round (with appropriate precautions)",
+      "bestLocations": [
+        "Observation Point",
+        "Montserrat University Research Station"
+      ],
+      "viewingTips": [
+        "Maintain a safe distance from the crater rim.",
+        "Check with the Montserrat Volcano Observatory for current conditions."
+      ],
+      "scientificData": {
+        "Height": "1022m",
+        "Age": "Approximately 300,000 years",
+        "Last Eruption": "2014-2015 (period of increased activity)"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Peter's Head",
+      "category": "Landform",
+      "description": "A dramatic limestone headland offering panoramic views of the coastline and surrounding islands. It’s a testament to the island’s ancient geological history.",
+      "detailedDescription": "Formed by the erosion of limestone over millions of years, Peter’s Head provides a unique habitat for seabirds and marine life. The cliffs are particularly impressive during high tide.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Coastal trails"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes for the hike.",
+        "Bring binoculars for birdwatching."
+      ],
+      "scientificData": {
+        "Height": "120m",
+        "Rock Type": "Limestone"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Montserrat Ecosystems",
+    "overview": "Montserrat’s ecosystems are remarkably diverse, shaped by volcanic activity, coastal influences, and a unique evolutionary history. The island supports a range of habitats, including rainforests, dry forests, and coastal wetlands.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 1
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "Montserrat boasts a rich flora, including several endemic plant species found nowhere else on Earth. The rainforests are home to a variety of trees, shrubs, and ferns.",
+        "statistics": [
+          {
+            "category": "Endemic Plants",
+            "count": "Approximately 30",
+            "details": "Unique plant species adapted to the volcanic environment."
+          },
+          {
+            "category": "Tree Species",
+            "count": "Over 100",
+            "details": "Diverse tree species, including palms, figs, and mahogany."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Montserrat Hibiscus",
+            "status": "Endangered",
+            "significance": "A critically endangered hibiscus species endemic to the island."
+          },
+          {
+            "name": "Giant Fern",
+            "status": "Vulnerable",
+            "significance": "A large fern species found in the rainforests."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Reforestation projects",
+          "Invasive species control"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Montserrat’s fauna includes a variety of birds, reptiles, and invertebrates. The island is a haven for migratory birds and endemic species.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "Over 80",
+            "details": "Diverse bird populations, including endemic warblers and parrots."
+          },
+          {
+            "category": "Reptile Species",
+            "count": "Approximately 10",
+            "details": "Various lizard and snake species adapted to the island's climate."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Montserrat Martin",
+            "status": "Endangered",
+            "significance": "A critically endangered martin species endemic to the island."
+          },
+          {
+            "name": "Yellow-tailed Boa",
+            "status": "Vulnerable",
+            "significance": "A venomous snake species found in the rainforests."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Predation by introduced species"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Species monitoring"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Montserrat Activities",
+    "description": "Montserrat offers a range of outdoor activities, from hiking and exploring volcanic landscapes to diving and relaxing on pristine beaches.  Adventure and tranquility await.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Montserrat’s diverse trails, ranging from easy coastal walks to challenging climbs to volcanic peaks.",
+        "activities": [
+          {
+            "name": "Soufrière Hills Trail",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-4 hours",
+            "description": "A popular trail leading to viewpoints overlooking the volcano.",
+            "bestLocations": [
+              "Observation Point"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen.",
+            "safety": [
+              "Be aware of volcanic hazards.",
+              "Stay on marked trails."
+            ]
+          },
+          {
+            "name": "Peter’s Head Trail",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-3 hours",
+            "description": "A scenic coastal trail offering stunning views of the coastline.",
+            "bestLocations": [
+              "Coastal trails"
+            ],
+            "requirements": "Comfortable shoes, water.",
+            "safety": [
+              "Watch for slippery rocks."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters surrounding Montserrat with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "South Reef",
+              "North Reef"
+            ],
+            "requirements": "Certification, diving equipment.",
+            "safety": [
+              "Follow dive guidelines.",
+              "Respect marine life."
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Discover the underwater world without needing to scuba dive.",
+            "bestLocations": [
+              "South Reef",
+              "North Reef"
+            ],
+            "requirements": "Snorkel gear.",
+            "safety": [
+              "Swim with caution.",
+              "Be aware of currents."
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat.",
+        "winter": "Warm layers, waterproof jacket, sweater, long pants.",
+        "yearRound": "Comfortable walking shoes, rain gear."
+      },
+      "equipment": {
+        "basic": "Insect repellent, flashlight, first-aid kit.",
+        "hiking": "Sturdy hiking boots, backpack, water bottle.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Inform someone of your hiking plans.",
+        "Carry a map and compass.",
+        "Be aware of volcanic hazards.",
+        "Respect local customs."
+      ]
+    }
+  }
+}

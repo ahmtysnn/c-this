@@ -1,0 +1,345 @@
+{
+  "name": "Gibraltar",
+  "region": "Europe",
+  "description": "Gibraltar, a British Overseas Territory located at the southern tip of the Iberian Peninsula, is a dramatic and unique landscape characterized by towering limestone cliffs, a rich history, and a fascinating blend of cultures.  It sits astride the Strait of Gibraltar, offering stunning views of both Africa and Europe.  The territory boasts a diverse ecosystem, a strategic military location, and a vibrant tourism industry.",
+  "quickFacts": [
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Globe",
+      "description": "English is the official language, though Spanish is widely spoken.",
+      "detail": "Gibraltar's unique status as a British Overseas Territory has resulted in a fascinating linguistic landscape."
+    },
+    {
+      "label": "Population",
+      "value": "33,000",
+      "icon": "Users",
+      "description": "The population of Gibraltar is approximately 33,000.",
+      "detail": "The majority of the population are of British descent, with a significant Spanish-speaking minority."
+    },
+    {
+      "label": "Currency",
+      "value": "GBP (British Pound)",
+      "icon": "Coffee",
+      "description": "The currency used is the British Pound Sterling.",
+      "detail": "While the UK currency is used, the euro is also accepted in many establishments."
+    },
+    {
+      "label": "Highest Point",
+      "value": "764m (Peake of Europa)",
+      "icon": "Mountain",
+      "description": "The highest point in Gibraltar is the Peake of Europa.",
+      "detail": "This limestone peak offers panoramic views of the surrounding area."
+    },
+    {
+      "label": "Time Zone",
+      "value": "GMT (Greenwich Mean Time)",
+      "icon": "Clock",
+      "description": "Gibraltar observes Greenwich Mean Time (GMT).",
+      "detail": "During the summer months, Gibraltar switches to British Summer Time (BST)."
+    },
+    {
+      "label": "Area",
+      "value": "6.8 sq km",
+      "icon": "MapPin",
+      "description": "The area of Gibraltar is approximately 6.8 square kilometers.",
+      "detail": "It's a remarkably compact territory with a high population density."
+    }
+  ],
+  "climateData": {
+    "title": "Mediterranean Climate",
+    "description": "Gibraltar enjoys a Mediterranean climate characterized by hot, dry summers and mild, wet winters. The location on the Atlantic coast influences the climate, creating a unique microclimate.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summers are hot and dry, with average temperatures ranging from 28°C to 35°C (82°F to 95°F). Sunshine is abundant, and rainfall is minimal.",
+        "keyFeatures": [
+          "Hot weather",
+          "Sunny days",
+          "Low rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Beach visits",
+          "Water sports"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings a gradual cooling of temperatures and an increase in rainfall. The landscape transforms with vibrant autumnal colors.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Increased rainfall",
+          "Autumn foliage"
+        ],
+        "activities": [
+          "Hiking",
+          "Wildlife watching",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winters are mild, with average temperatures ranging from 8°C to 15°C (46°F to 59°F). Rainfall is more frequent, and occasional frosts occur.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Rainfall",
+          "Occasional frost"
+        ],
+        "activities": [
+          "Exploring caves",
+          "Museum visits",
+          "Relaxing"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming of temperatures and blossoming wildflowers. The landscape comes alive with color.",
+        "keyFeatures": [
+          "Warming temperatures",
+          "Wildflowers",
+          "Increased sunshine"
+        ],
+        "activities": [
+          "Hiking",
+          "Gardening",
+          "Outdoor dining"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "The Upper Rock Nature Reserve",
+      "category": "Geological Formation",
+      "description": "The Upper Rock is a dramatic limestone ridge dominating Gibraltar's skyline. It’s a UNESCO World Heritage Site, showcasing remarkable geological formations and a diverse ecosystem.",
+      "detailedDescription": "The rock is composed of ancient limestone, sculpted by millions of years of erosion. It’s home to numerous caves, including the famous Great Siege Tunnels and the Barbary Macaque monkeys.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Peake of Europa",
+        "Great Siege Tunnels",
+        "Barbary Macaque Sanctuary"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes for hiking.",
+        "Bring water and sunscreen.",
+        "Respect the wildlife."
+      ],
+      "scientificData": {
+        "Height": "764m",
+        "Age": "1M years",
+        "Rock Type": "Limestone"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "St. Michael's Cave",
+      "category": "Cave System",
+      "description": "St. Michael’s Cave is a spectacular limestone cave system, renowned for its impressive stalactites and stalagmites, and its historical significance as a refuge during sieges.",
+      "detailedDescription": "The cave was used as a refuge during the Great Siege of Gibraltar in 1783.  Its formations are a testament to the power of water and time.  Light shows and musical performances are regularly held within the cave.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Main Chamber",
+        "St. Christopher's Chamber"
+      ],
+      "viewingTips": [
+        "Allow at least 1 hour for a tour.",
+        "Photography is permitted in designated areas."
+      ],
+      "scientificData": {
+        "Depth": "120m",
+        "Length": "600m"
+      },
+      "icon": "Cloud"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Gibraltar's Unique Ecosystem",
+    "overview": "Gibraltar’s ecosystem is remarkably diverse for its size, encompassing a range of habitats from coastal cliffs and Mediterranean scrubland to limestone caves and a small, sheltered bay.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "The flora of Gibraltar is adapted to the Mediterranean climate, featuring drought-resistant shrubs, herbs, and wildflowers.",
+        "statistics": [
+          {
+            "category": "Native Species",
+            "count": "150",
+            "details": "Approximately 150 native plant species."
+          },
+          {
+            "category": "Introduced Species",
+            "count": "50",
+            "details": "Around 50 introduced plant species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Mediterranean Cushion Rose",
+            "status": "Endangered",
+            "significance": "A rare and endemic species found only in Gibraltar."
+          },
+          {
+            "name": "Gibraltar Rock Violet",
+            "status": "Vulnerable",
+            "significance": "A distinctive violet species adapted to the rocky terrain."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Habitat restoration",
+          "Control of invasive species"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Gibraltar’s fauna includes a variety of bird species, reptiles, and mammals, many of which are migratory.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "120",
+            "details": "Over 120 bird species are recorded annually."
+          },
+          {
+            "category": "Reptile Species",
+            "count": "10",
+            "details": "Ten reptile species inhabit the territory."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Barbary Macaque",
+            "status": "Endangered",
+            "significance": "The only wild population of Barbary Macaques in Europe."
+          },
+          {
+            "name": "Bonelli's Eagle",
+            "status": "Vulnerable",
+            "significance": "A majestic raptor that nests in the Upper Rock."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal trapping",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protection of nesting sites",
+          "Anti-trapping measures",
+          "Habitat management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Gibraltar",
+    "description": "Gibraltar offers a wide range of outdoor activities for all levels of experience, from challenging hikes to relaxing beach days.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Gibraltar’s dramatic landscapes on foot.",
+        "activities": [
+          {
+            "name": "Peake of Europa Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-4 hours",
+            "description": "A challenging hike to the highest point in Gibraltar, offering stunning panoramic views.",
+            "bestLocations": [
+              "Peake of Europa"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen.",
+            "safety": [
+              "Be aware of steep drop-offs.",
+              "Check weather conditions before setting out."
+            ]
+          },
+          {
+            "name": "Mediterranean Steps Hike",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "1-2 hours",
+            "description": "A scenic walk along the Mediterranean Steps, offering views of the coastline.",
+            "bestLocations": [
+              "Mediterranean Steps"
+            ],
+            "requirements": "Comfortable shoes.",
+            "safety": [
+              "Watch your footing on the steps."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Gibraltar Bay.",
+        "activities": [
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Swim in the clear waters of Gibraltar Bay.",
+            "bestLocations": [
+              "Gibraltar Bay"
+            ],
+            "requirements": "Swimming gear.",
+            "safety": [
+              "Swim within designated areas.",
+              "Be aware of currents."
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-3 hours",
+            "description": "Explore the coastline by kayak.",
+            "bestLocations": [
+              "Gibraltar Bay"
+            ],
+            "requirements": "Kayak, life jacket.",
+            "safety": [
+              "Wear a life jacket.",
+              "Be aware of boat traffic."
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat.",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves.",
+        "yearRound": "Comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Water bottle, sunscreen, insect repellent.",
+        "hiking": "Sturdy hiking boots, backpack, map, compass.",
+        "photography": "Camera, extra batteries, memory card."
+      },
+      "safety": [
+        "Stay hydrated.",
+        "Wear sunscreen.",
+        "Be aware of your surroundings.",
+        "Respect wildlife."
+      ]
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "CountryData": {
+    "name": "Aland Islands",
+    "region": "Northern Europe",
+    "description": "The Aland Islands are an autonomous archipelago within Finland, located in the Baltic Sea.  They possess a unique blend of Finnish and Swedish cultures, reflected in their language, traditions, and legal system.  Characterized by stunning coastal scenery, dense forests, numerous islands, and a rich maritime history, the Aland Islands offer a tranquil and captivating destination for nature lovers, history enthusiasts, and those seeking a peaceful escape.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "28,832",
+        "icon": "Users",
+        "description": "The population of the Aland Islands is primarily Swedish-speaking.",
+        "detail": "The islands have a relatively stable population, with a significant proportion of residents being born and raised on the archipelago."
+      },
+      {
+        "label": "Area",
+        "value": "1,880 km²",
+        "icon": "MapPin",
+        "description": "The Aland Islands consist of over 6,700 islands and islets.",
+        "detail": "The largest island is Fasta Åland, which covers approximately 80% of the archipelago's land area."
+      },
+      {
+        "label": "Capital",
+        "value": "Mariehamn",
+        "icon": "MapPin",
+        "description": "Mariehamn is the largest town and administrative center.",
+        "detail": "It’s a charming port town with a vibrant cultural scene and a well-preserved historic center."
+      },
+      {
+        "label": "Language",
+        "value": "Swedish & Finnish",
+        "icon": "Globe",
+        "description": "Swedish is the official language.",
+        "detail": "Finnish is also widely spoken, and bilingualism is common."
+      },
+      {
+        "label": "Currency",
+        "value": "Euro (€)",
+        "icon": "Coffee",
+        "description": "The Aland Islands use the Euro.",
+        "detail": "However, they have a slightly different monetary system, with a unique Aland mark."
+      },
+      {
+        "label": "Government",
+        "value": "Autonomous",
+        "icon": "Navigation",
+        "description": "The Aland Islands have a high degree of autonomy within Finland.",
+        "detail": "They have their own parliament, government, and legal system."
+      }
+    ],
+    "climateData": {
+      "title": "Aland Islands Climate",
+      "description": "The Aland Islands experience a temperate maritime climate, characterized by cool summers and mild winters.  The Gulf Stream moderates temperatures, resulting in relatively warm summers compared to other regions at similar latitudes. Precipitation is fairly evenly distributed throughout the year.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (June - August)",
+          "period": "June - August",
+          "description": "Warm and pleasant with long daylight hours.",
+          "keyFeatures": [
+            "Warm temperatures",
+            "Long daylight hours",
+            "Abundant rainfall"
+          ],
+          "activities": [
+            "Hiking",
+            "Kayaking",
+            "Cycling",
+            "Swimming",
+            "Boat trips"
+          ]
+        },
+        {
+          "name": "Autumn (September - November)",
+          "period": "September - November",
+          "description": "Cool and misty, with vibrant autumn foliage.",
+          "keyFeatures": [
+            "Colorful foliage",
+            "Cool temperatures",
+            "Increased rainfall"
+          ],
+          "activities": [
+            "Birdwatching",
+            "Hiking",
+            "Photography",
+            "Fishing"
+          ]
+        },
+        {
+          "name": "Winter (December - February)",
+          "period": "December - February",
+          "description": "Cold and often cloudy, with occasional snowfall.",
+          "keyFeatures": [
+            "Cold temperatures",
+            "Snowfall (occasional)",
+            "Short daylight hours"
+          ],
+          "activities": [
+            "Cross-country skiing",
+            "Snowshoeing",
+            "Visiting museums and cultural centers"
+          ]
+        },
+        {
+          "name": "Spring (March - May)",
+          "period": "March - May",
+          "description": "Mild and gradually warming, with blossoming flowers.",
+          "keyFeatures": [
+            "Mild temperatures",
+            "Blooming flowers",
+            "Increasing daylight hours"
+          ],
+          "activities": [
+            "Hiking",
+            "Cycling",
+            "Gardening",
+            "Wildlife watching"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Fasta Åland",
+        "category": "Island Landscape",
+        "description": "Fasta Åland is the largest island in the Aland Islands, boasting a diverse landscape of forests, lakes, and coastal areas. Its rolling hills, picturesque villages, and abundant wildlife offer a stunning natural setting.",
+        "detailedDescription": "The island’s interior is dominated by the vast and ancient Fasta Åland forest, one of the largest contiguous forests in Finland. The coastline is characterized by rocky shores, sandy beaches, and numerous bays and inlets.  Numerous small lakes dot the landscape, providing opportunities for boating and fishing.",
+        "bestTime": "Summer",
+        "bestLocations": [
+          "Fasta Åland Forest",
+          "Kustavi",
+          "Mariehamn"
+        ],
+        "viewingTips": [
+          "Explore the forest trails on foot or by bike.",
+          "Visit the Kustavi lighthouse for panoramic views.",
+          "Take a boat trip to explore the coastline."
+        ],
+        "scientificData": {
+          "Height": "160m",
+          "Area": "800 km²",
+          "ForestCover": "65%"
+        },
+        "icon": "MapPin"
+      },
+      {
+        "id": 2,
+        "name": "Koster Islands",
+        "category": "Coastal Archipelago",
+        "description": "The Koster Islands are a group of islands located off the southern coast of Fasta Åland. Known for their pristine beaches, diverse birdlife, and dramatic coastal scenery, they are a haven for nature enthusiasts.",
+        "detailedDescription": "The islands are composed of three main islands: Stor Koster, Mellankoster, and Små Koster. Stor Koster is the largest and most populated, while Små Koster is a small, uninhabited island. The islands are renowned for their sandy beaches, crystal-clear waters, and abundant marine life. They are also a vital breeding ground for numerous bird species.",
+        "bestTime": "Summer",
+        "bestLocations": [
+          "Stor Koster Beach",
+          "Mellankoster Lighthouse",
+          "Små Koster"
+        ],
+        "viewingTips": [
+          "Go birdwatching at the Kosterhavet National Park.",
+          "Relax on the sandy beaches.",
+          "Take a boat trip to explore the islands."
+        ],
+        "scientificData": {
+          "Area": "130 km²",
+          "BirdSpecies": "Over 200"
+        },
+        "icon": "Waves"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Aland Islands Ecosystems",
+      "overview": "The Aland Islands boast a rich and diverse ecosystem, shaped by their unique geographical location and maritime environment.  The islands support a wide range of flora and fauna, including numerous bird species, marine mammals, and forest ecosystems.",
+      "conservationStatus": {
+        "protectedAreas": "20%",
+        "nationalParks": 0
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Forest Ecosystems",
+          "icon": "Trees",
+          "description": "The Aland Islands are covered in extensive forests, primarily consisting of Scots pine and Norway spruce.",
+          "statistics": [
+            {
+              "category": "Forest Area",
+              "count": "65%",
+              "details": "Approximately 65% of the islands' land area is covered by forests."
+            },
+            {
+              "category": "Tree Species",
+              "count": "2",
+              "details": "The dominant tree species are Scots pine and Norway spruce."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Scots Pine",
+              "status": "Common",
+              "significance": "A key component of the forest ecosystem."
+            },
+            {
+              "name": "Norway Spruce",
+              "status": "Common",
+              "significance": "Provides habitat for numerous bird species."
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Forest fires"
+          ],
+          "conservationEfforts": [
+            "Sustainable forestry practices",
+            "Forest regeneration projects"
+          ]
+        },
+        {
+          "name": "Coastal Ecosystems",
+          "icon": "Waves",
+          "description": "The Aland Islands' coastline is characterized by rocky shores, sandy beaches, and extensive mudflats.",
+          "statistics": [
+            {
+              "category": "Beach Length",
+              "count": "150 km",
+              "details": "Approximately 150 km of coastline consists of sandy beaches."
+            },
+            {
+              "category": "Mudflat Area",
+              "count": "50 km²",
+              "details": "Extensive mudflats provide important feeding grounds for migratory birds."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Grey Seal",
+              "status": "Vulnerable",
+              "significance": "A key indicator of coastal ecosystem health."
+            },
+            {
+              "name": "Atlantic Puffin",
+              "status": "Near Threatened",
+              "significance": "A breeding colony is found on the Koster Islands."
+            }
+          ],
+          "threats": [
+            "Coastal erosion",
+            "Pollution"
+          ],
+          "conservationEfforts": [
+            "Coastal protection measures",
+            "Pollution control programs"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Activities in Aland Islands",
+      "description": "The Aland Islands offer a wide range of outdoor activities throughout the year, catering to all interests and skill levels.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the islands' diverse landscapes on foot.",
+          "activities": [
+            {
+              "name": "Fasta Åland Forest Hike",
+              "difficulty": "Moderate",
+              "season": "Summer",
+              "duration": "3-6 hours",
+              "description": "Hike through the ancient Fasta Åland Forest, enjoying the tranquility of the wilderness.",
+              "bestLocations": [
+                "Fasta Åland Forest"
+              ],
+              "requirements": "Hiking boots, waterproof jacket, map, compass",
+              "safety": [
+                "Inform someone of your route.",
+                "Check weather conditions before setting out."
+              ]
+            },
+            {
+              "name": "Koster Islands Coastal Trail",
+              "difficulty": "Easy",
+              "season": "Summer",
+              "duration": "2-4 hours",
+              "description": "Walk along the scenic coastal trail of the Koster Islands, enjoying the stunning views.",
+              "bestLocations": [
+                "Koster Islands"
+              ],
+              "requirements": "Comfortable shoes, sunscreen, hat",
+              "safety": [
+                "Stay on marked trails.",
+                "Be aware of tides."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy the crystal-clear waters of the Baltic Sea.",
+          "activities": [
+            {
+              "name": "Kayaking",
+              "difficulty": "Moderate",
+              "season": "Summer",
+              "duration": "2-4 hours",
+              "description": "Explore the coastline and islands by kayak.",
+              "bestLocations": [
+                "Mariehamn",
+                "Koster Islands"
+              ],
+              "requirements": "Kayak, paddle, life jacket",
+              "safety": [
+                "Wear a life jacket.",
+                "Check weather conditions."
+              ]
+            },
+            {
+              "name": "Sailing",
+              "difficulty": "Easy",
+              "season": "Summer",
+              "duration": "Variable",
+              "description": "Sail the waters of the Aland Islands.",
+              "bestLocations": [
+                "All coastal areas"
+              ],
+              "requirements": "Sailboat, navigation equipment",
+              "safety": [
+                "Obey maritime regulations.",
+                "Check weather conditions."
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Light clothing, swimwear, sunscreen, hat",
+          "winter": "Warm layers, waterproof jacket, hat, gloves, scarf",
+          "yearRound": "Comfortable walking shoes, waterproof jacket"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, snacks",
+          "hiking": "Hiking boots, map, compass, first-aid kit",
+          "photography": "Camera, extra batteries, tripod"
+        },
+        "safety": [
+          "Inform someone of your plans.",
+          "Check weather conditions.",
+          "Carry a first-aid kit.",
+          "Be aware of wildlife."
+        ]
+      }
+    }
+  }
+}

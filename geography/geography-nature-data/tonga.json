@@ -1,0 +1,388 @@
+{
+  "name": "Tonga",
+  "region": "Oceania",
+  "description": "Tonga, known as the ‘Friendly Islands’, is a South Pacific archipelago nation comprised of 17 volcanic islands.  Located about halfway between Fiji and Samoa, Tonga boasts a unique blend of Polynesian and Melanesian cultures, stunning underwater landscapes, and a relaxed pace of life.  It’s a nation deeply connected to the ocean, relying heavily on fishing and marine resources. Tonga faces significant challenges from rising sea levels and climate change, making conservation efforts crucial for its future.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Nukuʻalofa",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, a hub of commerce and culture.",
+      "detail": "Nukuʻalofa is known for its colorful buildings, bustling markets, and friendly locals."
+    },
+    {
+      "label": "Population",
+      "value": "107,000",
+      "icon": "Users",
+      "description": "A small, close-knit population deeply rooted in tradition.",
+      "detail": "Tongan society is characterized by strong family ties and a respect for elders."
+    },
+    {
+      "label": "Area",
+      "value": "748 km²",
+      "icon": "Globe",
+      "description": "A relatively small island nation.",
+      "detail": "The islands are diverse in topography, ranging from volcanic peaks to low-lying coral atolls."
+    },
+    {
+      "label": "Official Language",
+      "value": "Tongan",
+      "icon": "ArrowRight",
+      "description": "A Polynesian language with unique characteristics.",
+      "detail": "English is also widely spoken, particularly in government and business."
+    },
+    {
+      "label": "Currency",
+      "value": "Tongan Dollar (TOP)",
+      "icon": "Coffee",
+      "description": "The local currency.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD = approximately 2.4 TOP."
+    },
+    {
+      "label": "GDP per capita",
+      "value": "$12,800",
+      "icon": "Clock",
+      "description": "A developing economy.",
+      "detail": "Tourism and remittances are key contributors to the economy."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Tonga experiences a tropical maritime climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "May – October",
+        "description": "The dry season is generally sunny and pleasant, with lower humidity levels. It’s the peak tourist season.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Sunny skies",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Water sports",
+          "Hiking"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "November – April",
+        "description": "The wet season brings frequent showers and occasional cyclones.  Despite the rain, the islands remain beautiful and lush.",
+        "keyFeatures": [
+          "High rainfall",
+          "Cyclones possible",
+          "Lush vegetation"
+        ],
+        "activities": [
+          "Waterfall exploration",
+          "Cultural experiences",
+          "Rainforest walks"
+        ]
+      },
+      {
+        "name": "Cyclone Season",
+        "period": "November – April",
+        "description": "Tonga is particularly vulnerable to cyclones during this period. Residents and tourists should be aware of weather warnings and follow safety guidelines.",
+        "keyFeatures": [
+          "High risk of cyclones",
+          "Strong winds",
+          "Heavy rainfall"
+        ],
+        "activities": [
+          "Sheltering in place",
+          "Monitoring weather updates"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "ʻAquaba Caves\"",
+      "category": "Cave System",
+      "description": "ʻAquaba Caves is a remarkable network of limestone caves located on the island of ʻOfu. These caves are renowned for their stunning stalactite and stalagmite formations, created over millennia by dripping water. The caves also harbor a unique ecosystem of blind fish and other adapted species.",
+      "detailedDescription": "The caves are accessible by boat and offer a fascinating glimpse into Tonga’s geological history.  Guided tours are available to explore the various chambers and learn about the cave’s formation and inhabitants.",
+      "bestTime": "May – October",
+      "bestLocations": [
+        "ʻOfu Island"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes",
+        "Bring a flashlight",
+        "Respect the cave environment"
+      ],
+      "scientificData": {
+        "Depth": "Up to 30m",
+        "Formation Age": "10,000 - 20,000 years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Tofua Volcanic Island",
+      "category": "Volcano",
+      "description": "Tofua is the tallest volcano in Tonga, a dormant stratovolcano rising dramatically from the Pacific Ocean. Its steep slopes are covered in dense rainforest, and its summit offers panoramic views of the surrounding islands.",
+      "detailedDescription": "The island is a haven for diverse flora and fauna, including endemic bird species. Hiking to the summit is a challenging but rewarding experience.",
+      "bestTime": "May – October",
+      "bestLocations": [
+        "Tofua Island"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring appropriate hiking gear",
+        "Be prepared for steep climbs"
+      ],
+      "scientificData": {
+        "Height": "1148m",
+        "Volcanic Activity Last": "1988"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Kongi Island",
+      "category": "Coral Atoll",
+      "description": "Kongi is a stunning coral atoll, a ring-shaped island formed by a submerged volcanic caldera. It’s known for its pristine beaches, turquoise lagoons, and abundant marine life.",
+      "detailedDescription": "The island offers a tranquil escape with opportunities for snorkeling, diving, and relaxing on the beach.  It’s a vital nesting site for seabirds.",
+      "bestTime": "May – October",
+      "bestLocations": [
+        "Kongi Island"
+      ],
+      "viewingTips": [
+        "Bring reef-safe sunscreen",
+        "Respect marine life",
+        "Consider a guided snorkeling tour"
+      ],
+      "scientificData": {
+        "Diameter": "3km",
+        "Ring Formation Age": "10,000 years"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Tongan Coral Reef Ecosystem",
+    "overview": "Tonga’s coral reefs are among the most diverse and pristine in the world, supporting a vast array of marine life. These reefs are vital for the nation’s economy, providing food, livelihoods, and coastal protection.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral",
+        "icon": "Leaf",
+        "description": "A diverse range of coral species, including hard corals and soft corals, forms the foundation of the reef ecosystem.",
+        "statistics": [
+          {
+            "category": "Species Count",
+            "count": "Over 600",
+            "details": "Estimated number of coral species"
+          },
+          {
+            "category": "Coral Cover",
+            "count": "30%",
+            "details": "Percentage of reef area covered by coral"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Acropora",
+            "status": "Vulnerable",
+            "significance": "Important for reef structure"
+          },
+          {
+            "name": "Porites",
+            "status": "Near Threatened",
+            "significance": "Common and resilient coral species"
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Ocean acidification",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Coral restoration projects",
+          "Marine protected areas",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Fish",
+        "icon": "Fish",
+        "description": "Tonga’s reefs are home to a remarkable variety of fish species, including colorful reef fish, sharks, and rays.",
+        "statistics": [
+          {
+            "category": "Species Count",
+            "count": "Over 300",
+            "details": "Estimated number of fish species"
+          },
+          {
+            "category": "Endemic Species",
+            "count": "20",
+            "details": "Number of fish species found only in Tonga"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Giant Clam",
+            "status": "Data Deficient",
+            "significance": "Large and ecologically important"
+          },
+          {
+            "name": "Hammerhead Shark",
+            "status": "Vulnerable",
+            "significance": "Apex predator"
+          }
+        ],
+        "threats": [
+          "Overfishing",
+          "Habitat destruction",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Sustainable fishing practices",
+          "Marine protected areas",
+          "Community involvement"
+        ]
+      }
+    ]
+  },
+  "biodiversityCategory": {
+    "name": "Birds",
+    "icon": "Bird",
+    "description": "Tonga is a birdwatcher's paradise, boasting a high number of endemic and migratory bird species.",
+    "statistics": [
+      {
+        "category": "Endemic Species",
+        "count": "30+",
+        "details": "Numerous species found nowhere else"
+      },
+      {
+        "category": "Migratory Species",
+        "count": "10+",
+        "details": "Important stopover point for migratory birds"
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Tongan Reed Warbler",
+        "status": "Endangered",
+        "significance": "Critically endangered endemic warbler"
+      },
+      {
+        "name": "Tongan Imperial Pigeon",
+        "status": "Vulnerable",
+        "significance": "Endemic pigeon species"
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Introduced predators",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Habitat restoration",
+      "Community education"
+    ]
+  },
+  "activities": {
+    "title": "Tongan Adventures",
+    "description": "Tonga offers a diverse range of activities for adventure seekers and nature lovers.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Tonga’s volcanic landscapes and lush rainforests.",
+        "activities": [
+          {
+            "name": "Mount Talau Hike",
+            "difficulty": "Moderate",
+            "season": "May – October",
+            "duration": "3-4 hours",
+            "description": "Hike to the summit of Mount Talau for stunning views of Vavaʻu Island.",
+            "bestLocations": [
+              "Vavaʻu Island"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of slippery trails",
+              "Stay on marked paths"
+            ]
+          },
+          {
+            "name": "ʻOfu Caves Exploration",
+            "difficulty": "Easy",
+            "season": "May – October",
+            "duration": "2-3 hours",
+            "description": "Guided tour of the ʻAquaba Caves.",
+            "bestLocations": [
+              "ʻOfu Island"
+            ],
+            "requirements": "Comfortable clothing, flashlight",
+            "safety": [
+              "Follow guide instructions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of Tonga’s lagoons and reefs.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "May – October",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Various islands"
+            ],
+            "requirements": "Snorkel gear, reef-safe sunscreen",
+            "safety": [
+              "Swim with caution",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Diving",
+            "difficulty": "Moderate",
+            "season": "May – October",
+            "duration": "Variable",
+            "description": "Discover the underwater wonders of Tonga’s reefs.",
+            "bestLocations": [
+              "Kongi Island",
+              "Tofua Island"
+            ],
+            "requirements": "Dive certification, dive gear",
+            "safety": [
+              "Follow dive guidelines",
+              "Check weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Long-sleeved shirts, light jacket, rain gear",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, waterproof case"
+      },
+      "safety": [
+        "Respect local customs",
+        "Stay hydrated",
+        "Be aware of weather conditions"
+      ]
+    }
+  }
+}

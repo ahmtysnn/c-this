@@ -1,0 +1,312 @@
+{
+  "name": "Mali",
+  "region": "West Africa",
+  "description": "Mali, officially the Republic of Mali, is a landlocked country in West Africa. It’s a nation of incredible diversity, encompassing vast deserts, the fertile Niger River basin, and the highlands of the Guinean Shield. Historically a crossroads of empires and kingdoms, Mali boasts a rich cultural heritage, evident in its vibrant music, art, and architecture.  It faces significant challenges including poverty, desertification, and political instability, but possesses immense potential for sustainable development and tourism.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Bamako",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Mali, located on the Niger River.",
+      "detail": "Bamako is a major economic and cultural center, known for its vibrant markets and artistic traditions."
+    },
+    {
+      "label": "Population",
+      "value": "23.2 Million",
+      "icon": "Users",
+      "description": "Mali has a large and diverse population.",
+      "detail": "The population is predominantly composed of ethnic groups, including the Bambara, Fulani, Soninke, and Tuareg."
+    },
+    {
+      "label": "Area",
+      "value": "1.240.192 sq km",
+      "icon": "Globe",
+      "description": "Mali is a sizable country in West Africa.",
+      "detail": "It's the eighth-largest country in Africa by land area."
+    },
+    {
+      "label": "Official Language",
+      "value": "Bambara",
+      "icon": "ArrowRight",
+      "description": "Bambara is the most widely spoken language.",
+      "detail": "French is also an official language and widely used in government and commerce."
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA Franc (XOF)",
+      "icon": "Coffee",
+      "description": "The currency used in Mali.",
+      "detail": "It's pegged to the Euro."
+    },
+    {
+      "label": "GDP",
+      "value": "$15.7 Billion (2023)",
+      "icon": "Zap",
+      "description": "Mali's Gross Domestic Product.",
+      "detail": "It's a low-income country with significant economic challenges."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Mali",
+    "description": "Mali experiences a predominantly hot and arid climate, influenced by its location in the Sahel region.  The climate varies significantly across the country, from the hot, dry desert conditions in the south to the more temperate climate in the highlands.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season (November - April)",
+        "period": "Winter",
+        "description": "This is the coldest and driest period of the year, characterized by clear skies and low humidity.",
+        "keyFeatures": [
+          "Low rainfall",
+          "Cooler temperatures",
+          "Dust storms"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Cultural tourism",
+          "Desert exploration"
+        ]
+      },
+      {
+        "name": "Wet Season (May - October)",
+        "period": "Summer",
+        "description": "The wet season brings increased rainfall, particularly in the southern and central regions. Temperatures are high and humidity is significant.",
+        "keyFeatures": [
+          "High rainfall",
+          "High temperatures",
+          "Increased humidity"
+        ],
+        "activities": [
+          "River cruises",
+          "Agricultural activities",
+          "Birdwatching"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Dogon Cliffs",
+      "category": "Geological Formation",
+      "description": "The Dogon Cliffs are a series of dramatic sandstone cliffs located near the village of Bandiagara. These cliffs are renowned for their unique rock formations and the ancient petroglyphs carved by the Dogon people, depicting scenes from their mythology and history.",
+      "detailedDescription": "The cliffs rise to heights of up to 700 meters and are a UNESCO World Heritage Site. The petroglyphs are believed to be over 2,000 years old and offer a fascinating glimpse into the Dogon culture.",
+      "bestTime": "Dry Season (November - April)",
+      "bestLocations": [
+        "Bandiagara"
+      ],
+      "viewingTips": [
+        "Hire a local guide to learn about the petroglyphs.",
+        "Wear sturdy shoes for hiking."
+      ],
+      "scientificData": {
+        "Height": "700m",
+        "Age": "2000+ years",
+        "Rock Type": "Sandstone"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Tombouctou (Timtassar)",
+      "category": "Historical Site",
+      "description": "Tombouctou, also known as Timtassar, was once the capital of the Mali Empire and a major center of trade and Islamic learning. Today, it's a partially submerged town on the edge of the Sahara Desert, offering a poignant reminder of its glorious past.",
+      "detailedDescription": "The town was abandoned in the 17th century due to conflict and the rise of Djenné.  Archaeological excavations are ongoing, revealing the remains of mosques, palaces, and residential buildings.",
+      "bestTime": "Dry Season (November - April)",
+      "bestLocations": [
+        "Near Tombouctou"
+      ],
+      "viewingTips": [
+        "Take a guided tour to learn about the history of the town.",
+        "Be prepared for extreme heat and sandstorms."
+      ],
+      "scientificData": {
+        "Elevation": "100m",
+        "Area": "Approximately 1 sq km",
+        "Historical Significance": "Former capital of the Mali Empire"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Mali",
+    "overview": "Mali’s ecosystems are incredibly diverse, ranging from the Sahara Desert in the north to the Sahel grasslands and the Guinean forests in the south.  These ecosystems support a wide range of plant and animal life, many of which are threatened by habitat loss and climate change.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Sahel Grasslands",
+        "icon": "Trees",
+        "description": "The Sahel is a transitional zone between the Sahara Desert and the savanna. It’s characterized by sparse vegetation and a fragile ecosystem.",
+        "statistics": [
+          {
+            "category": "Grassland Area",
+            "count": "100,000 sq km",
+            "details": "Vulnerable to desertification"
+          },
+          {
+            "category": "Wildlife Species",
+            "count": "500+",
+            "details": "Includes antelopes, gazelles, and various bird species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Addax",
+            "status": "Vulnerable",
+            "significance": "A critically endangered antelope adapted to arid conditions"
+          },
+          {
+            "name": "Dorcas Gazelle",
+            "status": "Near Threatened",
+            "significance": "A resilient gazelle found in the Sahel"
+          }
+        ],
+        "threats": [
+          "Desertification",
+          "Overgrazing",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Reforestation projects",
+          "Sustainable grazing practices",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Guinean Forests",
+        "icon": "Leaf",
+        "description": "The Guinean Forests are a tropical rainforest ecosystem located in the south of Mali. They are rich in biodiversity and play a crucial role in regulating regional climate.",
+        "statistics": [
+          {
+            "category": "Forest Cover",
+            "count": "20,000 sq km",
+            "details": "Home to a vast array of plant and animal species"
+          },
+          {
+            "category": "Tree Species",
+            "count": "1,000+",
+            "details": "Includes mahogany, ebony, and various palm species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Gorilla",
+            "status": "Endangered",
+            "significance": "A critically endangered primate found in the rainforests"
+          },
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "A large herbivore that plays a vital role in the ecosystem"
+          }
+        ],
+        "threats": [
+          "Logging",
+          "Deforestation",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Sustainable forestry",
+          "Anti-poaching patrols"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Mali",
+    "description": "Mali offers a diverse range of activities for travelers, from exploring ancient historical sites to experiencing the vibrant culture and natural beauty of the country.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the rugged landscapes and stunning viewpoints of Mali on foot.",
+        "activities": [
+          {
+            "name": "Dogon Cliffs Trek",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "2-3 days",
+            "description": "Hike through the Dogon Cliffs and visit the ancient petroglyphs.",
+            "bestLocations": [
+              "Bandiagara"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen, hat.",
+            "safety": [
+              "Be aware of wildlife.",
+              "Hire a local guide."
+            ]
+          },
+          {
+            "name": "Tombouctou Exploration",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "1 day",
+            "description": "Explore the ruins of Tombouctou and learn about its rich history.",
+            "bestLocations": [
+              "Near Tombouctou"
+            ],
+            "requirements": "Sun protection, water.",
+            "safety": [
+              "Stay hydrated.",
+              "Avoid walking alone."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cultural Tourism",
+        "icon": "Calendar",
+        "description": "Immerse yourself in the rich culture and traditions of Mali.",
+        "activities": [
+          {
+            "name": "Attend a Traditional Music Performance",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Experience the vibrant music and dance traditions of Mali.",
+            "bestLocations": [
+              "Bamako, Timbuktu"
+            ],
+            "requirements": "Open mind, respect for local customs.",
+            "safety": [
+              "Be respectful of local traditions."
+            ]
+          },
+          {
+            "name": "Visit a Local Market",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Explore the bustling markets of Mali and discover local crafts and products.",
+            "bestLocations": [
+              "Bamako"
+            ],
+            "requirements": "Bargaining skills.",
+            "safety": [
+              "Be aware of your surroundings."
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, sunscreen, hat.",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves.",
+        "yearRound": "Comfortable walking shoes, sunglasses."
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, first-aid kit.",
+        "hiking": "Sturdy hiking boots, backpack, water bottle.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Drink bottled water.",
+        "Be aware of petty theft.",
+        "Consult a doctor before traveling."
+      ]
+    }
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "CountryData": {
+    "name": "Japan",
+    "region": "East Asia",
+    "description": "Japan, the Land of the Rising Sun, is an archipelago nation consisting of four main islands – Honshu, Hokkaido, Kyushu, and Shikoku – and thousands of smaller islands. Known for its stunning natural beauty, rich cultural heritage, and technological advancements, Japan offers a diverse range of experiences, from serene temples and bustling cities to breathtaking mountain landscapes and pristine coastlines. It’s a country where ancient traditions seamlessly blend with modern innovation.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "125.7 million",
+        "icon": "Users",
+        "description": "Japan has a relatively high population density.",
+        "detail": "The majority of the population resides on Honshu, the largest island."
+      },
+      {
+        "label": "Area",
+        "value": "377,975 sq km",
+        "icon": "Globe",
+        "description": "Japan is a relatively small country in terms of land area.",
+        "detail": "Approximately 73% of the country is mountainous."
+      },
+      {
+        "label": "Currency",
+        "value": "Japanese Yen (JPY)",
+        "icon": "Coffee",
+        "description": "The official currency of Japan.",
+        "detail": "Exchange rates fluctuate, but generally around 140 JPY per 1 USD."
+      },
+      {
+        "label": "Capital",
+        "value": "Tokyo",
+        "icon": "MapPin",
+        "description": "The bustling capital and economic center of Japan.",
+        "detail": "Tokyo is one of the world's largest metropolitan areas."
+      },
+      {
+        "label": "Official Language",
+        "value": "Japanese",
+        "icon": "Eye",
+        "description": "The primary language spoken in Japan.",
+        "detail": "Japanese has several distinct writing systems, including Hiragana, Katakana, and Kanji."
+      }
+    ],
+    "climateData": {
+      "title": "Japan's Climate",
+      "description": "Japan experiences a diverse range of climates due to its island geography and mountainous terrain. Generally, it has a humid subtropical climate in the south, a temperate climate in the central regions, and a cool climate in the north.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Spring (March - May)",
+          "period": "March - May",
+          "description": "Spring is a beautiful time to visit Japan, with cherry blossoms (sakura) in full bloom.",
+          "keyFeatures": [
+            "Cherry blossoms",
+            "Mild temperatures",
+            "Green landscapes"
+          ],
+          "activities": [
+            "Hanami (cherry blossom viewing)",
+            "Hiking",
+            "Gardening"
+          ]
+        },
+        {
+          "name": "Summer (June - August)",
+          "period": "June - August",
+          "description": "Summers are hot and humid, with frequent rainfall, particularly in the west.",
+          "keyFeatures": [
+            "Rainy season (tsuyu)",
+            "High humidity",
+            "Festivals"
+          ],
+          "activities": [
+            "Beach activities",
+            "Hiking in the mountains",
+            "Festivals"
+          ]
+        },
+        {
+          "name": "Autumn (September - November)",
+          "period": "September - November",
+          "description": "Autumn offers stunning foliage and pleasant temperatures.",
+          "keyFeatures": [
+            "Autumn leaves (koyo)",
+            "Cool and dry weather",
+            "Harvest season"
+          ],
+          "activities": [
+            "Hiking",
+            "Photography",
+            "Visiting temples and shrines"
+          ]
+        },
+        {
+          "name": "Winter (December - February)",
+          "period": "December - February",
+          "description": "Winters are cold and snowy, especially in the northern regions.",
+          "keyFeatures": [
+            "Snowfall",
+            "Winter festivals",
+            "Skiing and snowboarding"
+          ],
+          "activities": [
+            "Skiing",
+            "Snowboarding",
+            "Visiting onsen (hot springs)"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Mount Fuji",
+        "category": "Mountain",
+        "description": "Mount Fuji, an active stratovolcano and Japan's highest peak, is a symbol of the country. Its perfectly symmetrical cone is a breathtaking sight and a popular climbing destination.",
+        "detailedDescription": "Rising to 3,776 meters (12,389 feet), Mount Fuji is a UNESCO World Heritage Site and a sacred place in Shinto and Buddhist traditions. The surrounding Fuji Five Lakes region offers stunning views and various recreational activities.",
+        "bestTime": "July - September (climbing season), Spring & Autumn (views)",
+        "bestLocations": [
+          "Fuji Five Lakes",
+          "Hakone",
+          "Gotemba"
+        ],
+        "viewingTips": [
+          "Check weather conditions before climbing",
+          "Respect local customs and traditions"
+        ],
+        "scientificData": {
+          "Height": "3,776 m",
+          "Age": "200,000 years",
+          "Volcanic Type": "Stratovolcano"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "Yakushima Island",
+        "category": "Island",
+        "description": "Yakushima is a subtropical island renowned for its ancient cedar forests, including the iconic Jomon Sugi, one of the oldest and largest trees in the world.",
+        "detailedDescription": "Declared a UNESCO World Heritage Site, Yakushima boasts a unique ecosystem with diverse flora and fauna. Its lush forests, waterfalls, and rugged coastline offer incredible hiking and wildlife viewing opportunities.",
+        "bestTime": "Spring & Autumn",
+        "bestLocations": [
+          "Jomon Sugi",
+          "Shiratako River",
+          "Kyusu Plain"
+        ],
+        "viewingTips": [
+          "Wear sturdy hiking boots",
+          "Bring rain gear"
+        ],
+        "scientificData": {
+          "Area": "337.5 km²",
+          "Elevation": "1,984 m"
+        },
+        "icon": "Tree"
+      },
+      {
+        "id": 3,
+        "name": "Shirakami-Sanchi",
+        "category": "Forest",
+        "description": "Shirakami-Sanchi is a vast, pristine temperate broadleaf forest in Hokkaido, known for its old-growth beech trees and stunning scenery.",
+        "detailedDescription": "This UNESCO World Heritage Site is one of the largest remaining old-growth forests in Japan. It’s a haven for wildlife and offers excellent hiking and camping opportunities. The area is characterized by its dramatic mountain landscapes and clear streams.",
+        "bestTime": "Spring & Autumn",
+        "bestLocations": [
+          "Usuzumi Pond",
+          "Shukubo-ike Pond"
+        ],
+        "viewingTips": [
+          "Respect the forest environment",
+          "Follow designated trails"
+        ],
+        "scientificData": {
+          "Area": "200,000 ha",
+          "Tree Age": "Up to 1,000 years"
+        },
+        "icon": "Trees"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Japanese Ecosystems",
+      "overview": "Japan’s ecosystems are incredibly diverse, ranging from subtropical rainforests to alpine meadows and coral reefs. These ecosystems support a wide array of plant and animal life, many of which are endemic to the islands.",
+      "conservationStatus": {
+        "protectedAreas": "25%",
+        "nationalParks": 140
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Marine Biodiversity",
+          "icon": "Fish",
+          "description": "Japan’s coastal waters are home to a rich variety of marine life, including fish, marine mammals, and invertebrates.",
+          "statistics": [
+            {
+              "category": "Coral Reefs",
+              "count": "1,700",
+              "details": "Approximately 1,700 coral reefs exist along Japan's coastlines."
+            },
+            {
+              "category": "Marine Mammals",
+              "count": "12",
+              "details": "12 species of marine mammals, including dolphins and whales, inhabit Japanese waters."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Japanese Macaque",
+              "status": "Least Concern",
+              "significance": "One of the oldest populations of macaques in the world."
+            },
+            {
+              "name": "Japanese Sea Lion",
+              "status": "Vulnerable",
+              "significance": "Critically endangered, with a small population remaining."
+            }
+          ],
+          "threats": [
+            "Pollution",
+            "Overfishing",
+            "Climate Change"
+          ],
+          "conservationEfforts": [
+            "Marine Protected Areas",
+            "Sustainable Fishing Practices"
+          ]
+        },
+        {
+          "name": "Terrestrial Biodiversity",
+          "icon": "Bird",
+          "description": "Japan’s mountainous terrain supports a diverse range of terrestrial ecosystems, including forests, grasslands, and alpine meadows.",
+          "statistics": [
+            {
+              "category": "Bird Species",
+              "count": "720",
+              "details": "Over 720 bird species inhabit Japan."
+            },
+            {
+              "category": "Mammal Species",
+              "count": "127",
+              "details": "127 mammal species, including the Japanese serow and red fox."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Japanese Giant Salamander",
+              "status": "Endangered",
+              "significance": "One of the largest salamanders in the world."
+            },
+            {
+              "name": "Japanese Giant Flying Squirrel",
+              "status": "Endangered",
+              "significance": "A rare and elusive species found in the forests of Honshu."
+            }
+          ],
+          "threats": [
+            "Habitat Loss",
+            "Invasive Species",
+            "Climate Change"
+          ],
+          "conservationEfforts": [
+            "Habitat Restoration",
+            "Species Protection Programs"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities in Japan",
+      "description": "Japan offers a wide range of outdoor activities for all skill levels, from leisurely hikes to challenging climbs and water sports.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Japan is a hiker's paradise, with trails ranging from gentle coastal paths to challenging mountain ascents.",
+          "activities": [
+            {
+              "name": "Mount Fuji Climb",
+              "difficulty": "Hard",
+              "season": "July - September",
+              "duration": "2-3 days",
+              "description": "A challenging but rewarding climb to the summit of Japan's iconic mountain.",
+              "bestLocations": [
+                "Yoshida Trail",
+                "Subashiri Trail"
+              ],
+              "requirements": "Good physical fitness, hiking boots, appropriate clothing",
+              "safety": [
+                "Check weather conditions",
+                "Stay on marked trails"
+              ]
+            },
+            {
+              "name": "Kumano Kodo Pilgrimage Trails",
+              "difficulty": "Moderate",
+              "season": "Spring & Autumn",
+              "duration": "3-7 days",
+              "description": "A network of ancient pilgrimage trails through the mountains of the Kii Peninsula.",
+              "bestLocations": [
+                "Nakahechi Route",
+                "Ohechi Route"
+              ],
+              "requirements": "Comfortable walking shoes, rain gear",
+              "safety": [
+                "Carry water and snacks",
+                "Be aware of wildlife"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Japan’s coastline offers opportunities for a variety of water sports, from surfing to kayaking.",
+          "activities": [
+            {
+              "name": "Surfing in Okinawa",
+              "difficulty": "Moderate",
+              "season": "Summer",
+              "duration": "Half-day to full-day",
+              "description": "Okinawa is known for its consistent waves and warm waters, making it a popular surfing destination.",
+              "bestLocations": [
+                "Nanjou Beach",
+                "Araha Beach"
+              ],
+              "requirements": "Surfboard, wetsuit (depending on water temperature)",
+              "safety": [
+                "Check surf conditions",
+                "Use a leash"
+              ]
+            },
+            {
+              "name": "Kayaking in Lake Ashi",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "1-3 hours",
+              "description": "Paddle across the picturesque Lake Ashi, surrounded by stunning views of Mount Fuji.",
+              "bestLocations": [
+                "Lake Ashi"
+              ],
+              "requirements": "Kayak, life jacket",
+              "safety": [
+                "Wear a life jacket",
+                "Be aware of boat traffic"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, sunscreen, hat",
+          "winter": "Warm coat, hat, gloves, scarf",
+          "yearRound": "Layers are recommended for unpredictable weather"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, first-aid kit",
+          "hiking": "Hiking boots, trekking poles",
+          "photography": "Camera, extra batteries"
+        },
+        "safety": [
+          "Inform someone of your plans",
+          "Carry a map and compass",
+          "Be aware of wildlife"
+        ]
+      }
+    }
+  }
+}

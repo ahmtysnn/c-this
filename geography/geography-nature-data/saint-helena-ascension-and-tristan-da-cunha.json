@@ -1,0 +1,385 @@
+{
+  "CountryData": {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "region": "South Atlantic Ocean",
+    "description": "Saint Helena, Ascension and Tristan da Cunha is a remote British Overseas Territory located in the South Atlantic Ocean. It comprises three distinct islands: Saint Helena, Ascension Island, and Tristan da Cunha. Each island possesses unique geological features, ecosystems, and cultural histories. The territory is renowned for its dramatic landscapes, endemic wildlife, and historical significance as a major naval base and penal colony.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "Approximately 4,000",
+        "icon": "Users",
+        "description": "The population is concentrated primarily on Saint Helena Island.",
+        "detail": "The islands have a small, tightly-knit community with a strong sense of local identity."
+      },
+      {
+        "label": "Capital",
+        "value": "Saint James, Saint Helena",
+        "icon": "MapPin",
+        "description": "The administrative and commercial center of Saint Helena.",
+        "detail": "It’s a UNESCO World Heritage Site, showcasing Georgian architecture."
+      },
+      {
+        "label": "Highest Point",
+        "value": "Grizzled Sailors Mountain, 1,113m",
+        "icon": "Mountain",
+        "description": "The highest point on Saint Helena.",
+        "detail": "Offers stunning panoramic views of the island."
+      },
+      {
+        "label": "Currency",
+        "value": "British Pound Sterling (GBP)",
+        "icon": "Coffee",
+        "description": "The official currency of the territory.",
+        "detail": "Cash is widely accepted, but credit cards are limited."
+      },
+      {
+        "label": "Time Zone",
+        "value": "GMT/UTC -01:00",
+        "icon": "Clock",
+        "description": "The territory observes Greenwich Mean Time.",
+        "detail": "Slightly ahead of UTC."
+      },
+      {
+        "label": "Official Language",
+        "value": "English",
+        "icon": "Navigation",
+        "description": "The primary language spoken on the islands.",
+        "detail": "Local dialects exist."
+      }
+    ],
+    "climateData": {
+      "title": "Climate Overview",
+      "description": "Saint Helena experiences a subtropical maritime climate with consistently mild temperatures and high humidity. Ascension Island has a more equatorial climate, while Tristan da Cunha is significantly colder and more exposed. Rainfall is abundant throughout the year.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (June - August)",
+          "period": "June - August",
+          "description": "Warm and humid with average temperatures around 20-25°C (68-77°F). Rainfall is frequent.",
+          "keyFeatures": [
+            "High humidity",
+            "Frequent showers",
+            "Mild temperatures"
+          ],
+          "activities": [
+            "Hiking",
+            "Birdwatching",
+            "Coastal walks"
+          ]
+        },
+        {
+          "name": "Autumn (September - November)",
+          "period": "September - November",
+          "description": "Temperatures begin to cool slightly, and rainfall decreases. The landscape is vibrant with autumn colors.",
+          "keyFeatures": [
+            "Cooler temperatures",
+            "Decreasing rainfall",
+            "Autumn foliage"
+          ],
+          "activities": [
+            "Hiking",
+            "Photography",
+            "Wildlife observation"
+          ]
+        },
+        {
+          "name": "Winter (December - February)",
+          "period": "December - February",
+          "description": "The coolest months with average temperatures around 15-20°C (59-68°F). Rainfall remains consistent.",
+          "keyFeatures": [
+            "Coolest temperatures",
+            "Consistent rainfall",
+            "Dramatic skies"
+          ],
+          "activities": [
+            "Birdwatching",
+            "Exploring historical sites"
+          ]
+        },
+        {
+          "name": "Spring (March - May)",
+          "period": "March - May",
+          "description": "Temperatures gradually increase, and the landscape comes alive with new growth. Rainfall is moderate.",
+          "keyFeatures": [
+            "Increasing temperatures",
+            "New plant growth",
+            "Moderate rainfall"
+          ],
+          "activities": [
+            "Hiking",
+            "Gardening",
+            "Coastal exploration"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Saint Helena Peak",
+        "category": "Mountain Range",
+        "description": "Saint Helena Peak is a dramatic volcanic mountain range dominating the island's landscape. Its steep slopes and rugged terrain offer challenging hiking opportunities and breathtaking views.",
+        "detailedDescription": "The range is composed of ancient volcanic rock and is covered in lush vegetation. The highest peak, Grizzelled Sailors Mountain, is a popular destination for experienced hikers.",
+        "bestTime": "Spring and Autumn",
+        "bestLocations": [
+          "Grizzelled Sailors Mountain",
+          "Flat Point"
+        ],
+        "viewingTips": [
+          "Wear sturdy hiking boots",
+          "Bring plenty of water",
+          "Check weather conditions before setting out"
+        ],
+        "scientificData": {
+          "Height": "1,113m",
+          "Age": "Approximately 3.8 million years",
+          "Volcanic Activity": "Active during the Tertiary period"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "Ascension Island Volcanic Landscape",
+        "category": "Volcanic Landscape",
+        "description": "Ascension Island’s unique landscape is shaped by its volcanic origins. The island features dramatic craters, lava flows, and unusual rock formations, creating a surreal and otherworldly environment.",
+        "detailedDescription": "The volcanic activity ceased millions of years ago, leaving behind a landscape of black basalts and volcanic cones. The island’s interior is largely uninhabited and offers a sense of isolation.",
+        "bestTime": "Year-round",
+        "bestLocations": [
+          "The Pockmarks",
+          "The Crater"
+        ],
+        "viewingTips": [
+          "Wear sunscreen and a hat",
+          "Bring insect repellent",
+          "Respect the fragile environment"
+        ],
+        "scientificData": {
+          "Volcanic Age": "Approximately 3.6 million years",
+          "Lava Flows": "Extensive basaltic lava flows",
+          "Crater Diameter": "Varies, up to 500m"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 3,
+        "name": "Tristan da Cunha’s Rugged Coastline",
+        "category": "Coastal Landscape",
+        "description": "Tristan da Cunha’s dramatic coastline is characterized by sheer cliffs, black sand beaches, and powerful waves. The island’s remote location and exposed position create a wild and untamed beauty.",
+        "detailedDescription": "The coastline is sculpted by centuries of erosion and is home to a variety of seabirds and marine life. The island’s volcanic origins are evident in its rugged terrain and black basalt cliffs.",
+        "bestTime": "Spring and Summer",
+        "bestLocations": [
+          "Scotland’s Bay",
+          "The Point"
+        ],
+        "viewingTips": [
+          "Be aware of strong currents",
+          "Wear waterproof clothing",
+          "Observe wildlife from a safe distance"
+        ],
+        "scientificData": {
+          "Cliff Height": "Up to 300m",
+          "Beach Composition": "Black basalt sand",
+          "Wave Height": "Variable, often strong"
+        },
+        "icon": "Waves"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Island Ecosystems",
+      "overview": "Saint Helena, Ascension and Tristan da Cunha boast remarkably diverse ecosystems, shaped by their isolation and unique geological history. Each island supports endemic species found nowhere else on Earth.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 20%",
+        "nationalParks": 0
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Birds",
+          "icon": "Bird",
+          "description": "The islands are a haven for seabirds, including albatrosses, petrels, and shearwaters. Many species are critically endangered due to habitat loss and introduced predators.",
+          "statistics": [
+            {
+              "category": "Endemic Species",
+              "count": "Over 50",
+              "details": "Numerous bird species are found only on these islands."
+            },
+            {
+              "category": "Albatross Populations",
+              "count": "Significant breeding colonies",
+              "details": "Home to several globally important albatross colonies."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "St Helena Plover",
+              "status": "Critically Endangered",
+              "significance": "One of the rarest birds in the world."
+            },
+            {
+              "name": "Tristan Cape Petrel",
+              "status": "Endangered",
+              "significance": "A unique and vulnerable seabird."
+            }
+          ],
+          "threats": [
+            "Introduced predators",
+            "Habitat loss",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Predator control programs",
+            "Habitat restoration",
+            "Monitoring of populations"
+          ]
+        },
+        {
+          "name": "Plants",
+          "icon": "Leaf",
+          "description": "The islands’ flora is characterized by endemic plants adapted to the harsh conditions. Many species are found only in specific microhabitats.",
+          "statistics": [
+            {
+              "category": "Endemic Plants",
+              "count": "Approximately 100",
+              "details": "Unique plant species adapted to the islands' climate."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Saint Helena Olive",
+              "status": "Endangered",
+              "significance": "A unique olive tree species."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Invasive species"
+          ],
+          "conservationEfforts": [
+            "Seed banking",
+            "Habitat protection"
+          ]
+        },
+        {
+          "name": "Marine Life",
+          "icon": "Fish",
+          "description": "The surrounding waters are rich in marine life, including whales, dolphins, seals, and a variety of fish species. The deep-sea environment is largely unexplored.",
+          "statistics": [
+            {
+              "category": "Whale Sightings",
+              "count": "Regular sightings of various whale species",
+              "details": "Important breeding and feeding grounds."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Ascension Island Seal",
+              "status": "Endangered",
+              "significance": "A unique seal species found only on Ascension Island."
+            }
+          ],
+          "threats": [
+            "Overfishing",
+            "Pollution"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas",
+            "Sustainable fishing practices"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Island Adventures",
+      "description": "Saint Helena, Ascension and Tristan da Cunha offer a range of outdoor activities for adventurous travelers. From hiking to wildlife watching, there’s something for everyone.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the islands’ dramatic landscapes on foot.",
+          "activities": [
+            {
+              "name": "Grizzelled Sailors Mountain Hike",
+              "difficulty": "Hard",
+              "season": "Year-round",
+              "duration": "6-8 hours",
+              "description": "A challenging hike to the summit of Saint Helena’s highest peak.",
+              "bestLocations": [
+                "Grizzelled Sailors Mountain"
+              ],
+              "requirements": "Sturdy hiking boots, water, sunscreen",
+              "safety": [
+                "Check weather conditions",
+                "Inform someone of your plans"
+              ]
+            },
+            {
+              "name": "Flat Point Coastal Walk",
+              "difficulty": "Moderate",
+              "season": "Spring & Autumn",
+              "duration": "3-4 hours",
+              "description": "A scenic walk along the coastline of Saint Helena.",
+              "bestLocations": [
+                "Flat Point"
+              ],
+              "requirements": "Comfortable shoes, water",
+              "safety": [
+                "Be aware of slippery rocks"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Wildlife Watching",
+          "icon": "Bird",
+          "description": "Observe the islands’ unique birdlife and marine mammals.",
+          "activities": [
+            {
+              "name": "Albatross Colony Visit",
+              "difficulty": "Easy",
+              "season": "Summer",
+              "duration": "2-3 hours",
+              "description": "Visit a breeding colony of albatrosses and observe these magnificent birds.",
+              "bestLocations": [
+                "Bird Island (Ascension)",
+                "Various locations on Saint Helena"
+              ],
+              "requirements": "Binoculars, camera",
+              "safety": [
+                "Maintain a safe distance from nesting birds"
+              ]
+            },
+            {
+              "name": "Seal Watching",
+              "difficulty": "Easy",
+              "season": "Year-round",
+              "duration": "1-2 hours",
+              "description": "Observe seals basking on the beaches.",
+              "bestLocations": [
+                "Ascension Island Beaches"
+              ],
+              "requirements": "Binoculars",
+              "safety": [
+                "Do not approach seals"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+          "winter": "Warm layers, waterproof jacket, hat, gloves",
+          "yearRound": "Comfortable walking shoes, rain gear"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, first-aid kit",
+          "hiking": "Sturdy hiking boots, trekking poles",
+          "photography": "Camera, extra batteries"
+        },
+        "safety": [
+          "Inform someone of your plans",
+          "Carry a map and compass",
+          "Be aware of the weather"
+        ]
+      }
+    }
+  }
+}

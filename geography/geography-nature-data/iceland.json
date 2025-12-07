@@ -1,0 +1,361 @@
+{
+  "name": "Iceland",
+  "region": "Northern Europe",
+  "description": "Iceland, the 'Land of Fire and Ice,' is a Nordic island nation characterized by its dramatic landscapes, including active volcanoes, glaciers, geysers, waterfalls, and lava fields.  Its unique geology, shaped by plate tectonics and volcanic activity, creates a constantly evolving environment.  Iceland boasts a rich cultural heritage, a resilient population, and a thriving tourism industry focused on experiencing its raw natural beauty.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "375,000",
+      "icon": "Users",
+      "description": "The population of Iceland is relatively small, contributing to a strong sense of community.",
+      "detail": "Most Icelanders live in the southwest, clustered around Reykjavik."
+    },
+    {
+      "label": "Capital",
+      "value": "Reykjavik",
+      "icon": "MapPin",
+      "description": "Reykjavik is the northernmost capital city in the world.",
+      "detail": "It's a vibrant hub of culture, entertainment, and innovation."
+    },
+    {
+      "label": "Language",
+      "value": "Icelandic",
+      "icon": "Eye",
+      "description": "Icelandic is a North Germanic language, closely related to Old Norse.",
+      "detail": "It has remained remarkably unchanged since the settlement period."
+    },
+    {
+      "label": "Currency",
+      "value": "Icelandic Króna (ISK)",
+      "icon": "Coffee",
+      "description": "The Icelandic Króna is the official currency.",
+      "detail": "Exchange rates fluctuate, but generally, it's a stable currency."
+    },
+    {
+      "label": "Area",
+      "value": "103,000 sq km",
+      "icon": "Globe",
+      "description": "Iceland is a relatively small island nation.",
+      "detail": "It's roughly the size of Ireland."
+    },
+    {
+      "label": "GDP",
+      "value": "$35 billion",
+      "icon": "Zap",
+      "description": "Iceland's economy is largely based on fishing and tourism.",
+      "detail": "Renewable energy sources, particularly geothermal and hydropower, are increasingly important."
+    }
+  ],
+  "climateData": {
+    "title": "Icelandic Climate",
+    "description": "Iceland experiences a subpolar oceanic climate, characterized by cool summers and mild winters.  The Gulf Stream moderates the climate, making it warmer than similar latitudes in other parts of the world.  Precipitation is relatively high, with snow common in winter.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June-August)",
+        "period": "June to August",
+        "description": "Summer brings long daylight hours, warmer temperatures, and increased accessibility to the highlands.",
+        "keyFeatures": [
+          "Midnight Sun",
+          "Warmest Temperatures",
+          "Highland Access"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Whale Watching",
+          "Horse Riding"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September to November",
+        "description": "Autumn is a beautiful time, with vibrant foliage and the Northern Lights becoming increasingly visible.",
+        "keyFeatures": [
+          "Northern Lights",
+          "Fall Colors",
+          "Fewer Crowds"
+        ],
+        "activities": [
+          "Northern Lights Hunting",
+          "Hiking",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December to February",
+        "description": "Winter is cold and dark, with heavy snowfall.  It's a prime time for experiencing the Icelandic winter landscape and seeing the Northern Lights.",
+        "keyFeatures": [
+          "Northern Lights",
+          "Snowfall",
+          "Darkness"
+        ],
+        "activities": [
+          "Ice Caving",
+          "Northern Lights Hunting",
+          "Skiing",
+          "Snowmobiling"
+        ]
+      },
+      {
+        "name": "Spring (March-May)",
+        "period": "March to May",
+        "description": "Spring brings a gradual warming, melting snow, and the return of wildflowers.",
+        "keyFeatures": [
+          "Melting Snow",
+          "Wildflowers",
+          "Increasing Daylight"
+        ],
+        "activities": [
+          "Hiking",
+          "Bird Watching",
+          "Road Trips"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Blue Lagoon",
+      "category": "Geothermal",
+      "description": "The Blue Lagoon is a geothermal spa renowned for its mineral-rich waters, believed to have therapeutic properties.  It's a popular destination for relaxation and rejuvenation.",
+      "detailedDescription": "The lagoon is fed by water heated deep beneath the earth's surface. The silica-rich mud is known for its skin-enhancing qualities. The surrounding lava fields create a surreal and beautiful landscape.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Reykjanes Peninsula"
+      ],
+      "viewingTips": [
+        "Book in advance",
+        "Bring a waterproof phone case",
+        "Apply moisturizer after soaking"
+      ],
+      "scientificData": {
+        "Temperature": "37-40°C",
+        "Silica Content": "High",
+        "Alkalinity": "High"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 2,
+      "name": "Jökulsárlón Glacier Lagoon",
+      "category": "Glacial",
+      "description": "Jökulsárlón is a stunning glacial lagoon where icebergs break off from the Breiðamerkurjökull glacier and float towards the sea.  It's a truly breathtaking sight.",
+      "detailedDescription": "The lagoon is located in southeast Iceland, near Vatnajökull National Park. The icebergs, ranging in size from small chunks to massive formations, are a mesmerizing display of blue and white hues. Seals are frequently spotted swimming in the lagoon.",
+      "bestTime": "June-August",
+      "bestLocations": [
+        "Southeast Iceland"
+      ],
+      "viewingTips": [
+        "Visit at sunrise or sunset for optimal lighting",
+        "Walk along Diamond Beach to see icebergs washed ashore"
+      ],
+      "scientificData": {
+        "Glacier Size": "Breiðamerkurjökull - 30km long",
+        "Iceberg Age": "Variable, ranging from a few months to several years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Þingvellir National Park",
+      "category": "Geological",
+      "description": "Þingvellir is a UNESCO World Heritage Site, significant for its geological features and historical importance as the site of Iceland's first parliament.",
+      "detailedDescription": "The park lies in a rift valley caused by the separation of the North American and Eurasian tectonic plates. Visitors can walk between the continents and witness dramatic cliffs and fissures. It’s also the location of Iceland’s first parliament, the Alþingi, established in 930 AD.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Þingvellir"
+      ],
+      "viewingTips": [
+        "Take a guided tour to learn about the geology and history",
+        "Snorkel or dive in Silfra fissure"
+      ],
+      "scientificData": {
+        "Tectonic Plate Separation": "1.5 cm per year",
+        "Fissure Width": "Up to 20 meters"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Icelandic Ecosystems",
+    "overview": "Iceland's ecosystems are remarkably resilient, shaped by its volcanic activity, glaciers, and harsh climate.  They support a unique biodiversity, adapted to the challenging conditions.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 10
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "Iceland is a birdwatcher's paradise, home to a variety of seabirds, migratory species, and iconic birds like puffins.",
+        "statistics": [
+          {
+            "category": "Seabirds",
+            "count": "300,000",
+            "details": "Millions of seabirds breed in Iceland each year."
+          },
+          {
+            "category": "Migratory Birds",
+            "count": "100,000",
+            "details": "Iceland is a crucial stopover for migrating birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Puffin",
+            "status": "Near Threatened",
+            "significance": "A symbol of Iceland, known for its charming appearance and breeding colonies."
+          },
+          {
+            "name": "Arctic Tern",
+            "status": "Least Concern",
+            "significance": "Holds the record for the longest migration of any bird."
+          }
+        ],
+        "threats": [
+          "Habitat Loss",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Protected Bird Colonies",
+          "Monitoring Programs"
+        ]
+      },
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "Despite the harsh climate, Iceland boasts a surprising diversity of plant life, including mosses, lichens, wildflowers, and hardy shrubs.",
+        "statistics": [
+          {
+            "category": "Mosses",
+            "count": "Over 800 species",
+            "details": "Mosses cover a significant portion of Iceland's land surface."
+          },
+          {
+            "category": "Wildflowers",
+            "count": "Around 60 species",
+            "details": "Wildflowers bloom briefly in the summer months."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Arctic Poppy",
+            "status": "Least Concern",
+            "significance": "A vibrant wildflower that symbolizes Iceland."
+          },
+          {
+            "name": "Crowfoot Grass",
+            "status": "Least Concern",
+            "significance": "A resilient grass adapted to the Icelandic climate."
+          }
+        ],
+        "threats": [
+          "Climate Change",
+          "Invasive Species"
+        ],
+        "conservationEfforts": [
+          "Habitat Restoration",
+          "Control of Invasive Species"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Icelandic Activities",
+    "description": "Iceland offers a wide range of outdoor activities for all skill levels, from hiking and glacier walking to whale watching and exploring ice caves.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Iceland is a hiker's dream, with trails ranging from easy coastal walks to challenging mountain treks.",
+        "activities": [
+          {
+            "name": "Laugavegur Trail",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "3-4 days",
+            "description": "A multi-day trek through stunning landscapes, crossing volcanic deserts and glacial valleys.",
+            "bestLocations": [
+              "Landmannalaugar",
+              "Þórsmörk"
+            ],
+            "requirements": "Good hiking boots, waterproof clothing, navigation skills",
+            "safety": [
+              "Be aware of changing weather conditions",
+              "Inform someone of your route"
+            ]
+          },
+          {
+            "name": "Reykjadalur Hot Spring Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-4 hours",
+            "description": "Hike to a natural hot spring river where you can soak in the warm waters.",
+            "bestLocations": [
+              "Hveragerði"
+            ],
+            "requirements": "Hiking boots, swimsuit",
+            "safety": [
+              "Be mindful of slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Iceland's coastline offers opportunities for various water sports, including whale watching, snorkeling, and diving.",
+        "activities": [
+          {
+            "name": "Whale Watching",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "3-4 hours",
+            "description": "Observe magnificent whales in their natural habitat.",
+            "bestLocations": [
+              "Reykjavik",
+              "Húsavík"
+            ],
+            "requirements": "Warm clothing, binoculars",
+            "safety": [
+              "Follow the instructions of the tour operator"
+            ]
+          },
+          {
+            "name": "Snorkeling/Diving in Silfra",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "Explore the crystal-clear waters of the Silfra fissure, between the North American and Eurasian tectonic plates.",
+            "bestLocations": [
+              "Þingvellir National Park"
+            ],
+            "requirements": "Drysuit, certification (for diving)",
+            "safety": [
+              "Follow the instructions of the dive operator"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light layers, waterproof jacket, hiking boots",
+        "winter": "Warm layers, waterproof and windproof outerwear, insulated boots",
+        "yearRound": "Layers are key, waterproof jacket and pants"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, sunscreen, hat",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, tripod"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Check weather forecasts",
+        "Be prepared for changing conditions"
+      ]
+    }
+  }
+}

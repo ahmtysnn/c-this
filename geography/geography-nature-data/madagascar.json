@@ -1,0 +1,369 @@
+{
+  "name": "Madagascar",
+  "region": "Africa",
+  "description": "Madagascar, the ‘Island of Wonders,’ is a unique island nation off the coast of Southeast Africa, renowned for its exceptional biodiversity, dramatic landscapes, and rich cultural heritage.  It’s the fourth-largest island in the world and boasts a remarkable level of endemism – meaning many of its plants and animals are found nowhere else on Earth.  The island’s geological history, shaped by its separation from the Indian subcontinent millions of years ago, has fostered an unparalleled array of evolutionary adaptations and a truly distinctive ecosystem.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "587,041 sq km (226,658 sq mi)",
+      "icon": "MapPin",
+      "description": "Madagascar is the fourth-largest island in the world.",
+      "detail": "Its size contributes significantly to its unique biodiversity."
+    },
+    {
+      "label": "Population",
+      "value": "29.7 million (2023)",
+      "icon": "Users",
+      "description": "The population is diverse, with a blend of ethnic groups.",
+      "detail": "Malagasy is the official language, with French also widely spoken."
+    },
+    {
+      "label": "Capital",
+      "value": "Antananarivo",
+      "icon": "MapPin",
+      "description": "Antananarivo is the political and economic center.",
+      "detail": "It’s situated high in the Maletoaka Hills."
+    },
+    {
+      "label": "Official Language",
+      "value": "Malagasy & French",
+      "icon": "Globe",
+      "description": "Two official languages reflect the country's history.",
+      "detail": "English is increasingly used in tourism."
+    },
+    {
+      "label": "Currency",
+      "value": "Arine (MGA)",
+      "icon": "Coffee",
+      "description": "The local currency is the Arine.",
+      "detail": "Conversion rates fluctuate."
+    },
+    {
+      "label": "GDP (2023)",
+      "value": "$15.7 billion",
+      "icon": "Zap",
+      "description": "Madagascar's economy is largely based on agriculture.",
+      "detail": "Tourism is a growing sector."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Madagascar",
+    "description": "Madagascar experiences a tropical climate with variations across its diverse regions. The eastern coast is generally cooler and wetter, while the western coast is hotter and drier. Seasonal rainfall patterns are crucial to the island's ecology.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season (April - October)",
+        "period": "April - October",
+        "description": "This is the cooler and drier season, characterized by clear skies and lower humidity. It's ideal for trekking and wildlife viewing in many areas.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Clear skies",
+          "Cooler temperatures",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Wildlife viewing",
+          "Photography",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Wet Season (November - March)",
+        "period": "November - March",
+        "description": "The wet season brings heavy rainfall, particularly on the eastern coast. Rivers swell, and some areas become inaccessible. However, the lush vegetation is at its most vibrant.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Lush vegetation",
+          "Increased river levels"
+        ],
+        "activities": [
+          "River rafting",
+          "Coastal exploration",
+          "Birdwatching",
+          "Rainforest hikes"
+        ]
+      },
+      {
+        "name": "Transition Seasons (March-April & October-November)",
+        "period": "March-April & October-November",
+        "description": "These transitional periods offer a balance between the dry and wet seasons, with moderate rainfall and pleasant temperatures.",
+        "keyFeatures": [
+          "Moderate rainfall",
+          "Pleasant temperatures",
+          "Reduced humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Beach relaxation",
+          "Cultural experiences"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Isalo National Park",
+      "category": "National Park",
+      "description": "Isalo National Park is a stunning sandstone landscape of canyons, gorges, and natural swimming pools. It’s a haven for endemic lemurs and reptiles, offering incredible hiking opportunities.",
+      "detailedDescription": "The park’s unique geology, shaped by millions of years of erosion, creates a dramatic and otherworldly environment.  Its diverse microclimates support a wide range of flora and fauna.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "The Canyon of the Kings",
+        "The Piscine Naturelle",
+        "The Cascade des Nymphes"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring plenty of water",
+        "Protect yourself from the sun"
+      ],
+      "scientificData": {
+        "Height": "1000m - 2175m",
+        "Age": "Approximately 70 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Tsingy de Bemaraha Strict Nature Reserve",
+      "category": "Strict Nature Reserve",
+      "description": "The Tsingy de Bemaraha Strict Nature Reserve is a UNESCO World Heritage site renowned for its unique limestone formations – the ‘tsingy’ – a jagged, almost impenetrable landscape.",
+      "detailedDescription": "These razor-sharp limestone karsts are home to several endemic lemur species and other unique wildlife.  Exploring the reserve requires specialized equipment and experienced guides.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "The Grand Tsingy",
+        "The Valley of the Pygmies",
+        "The Cascade de Sabaka"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear long sleeves and pants",
+        "Be prepared for challenging terrain"
+      ],
+      "scientificData": {
+        "Height": "300m - 600m",
+        "Age": "Approximately 60 million years"
+      },
+      "icon": "Wind"
+    },
+    {
+      "id": 3,
+      "name": "Masoala National Park",
+      "category": "National Park",
+      "description": "Masoala National Park is the largest national park in Madagascar and a vital rainforest ecosystem, crucial for biodiversity conservation.",
+      "detailedDescription": "It encompasses a vast area of coastal rainforest, mangroves, and coral reefs.  The park is home to numerous endemic bird species, lemurs, and reptiles, and plays a critical role in regulating the island’s climate.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "The coastal mangroves",
+        "The rainforest interior",
+        "The coral reefs"
+      ],
+      "viewingTips": [
+        "Bring insect repellent",
+        "Wear waterproof clothing",
+        "Respect the local communities"
+      ],
+      "scientificData": {
+        "Area": "1,460,000 hectares",
+        "Rainfall": "Over 3,000 mm per year"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Lemurs",
+    "icon": "Bird",
+    "description": "Madagascar is home to over 100 species of lemurs, representing a significant portion of the world’s lemur diversity.",
+    "statistics": [
+      {
+        "category": "Species",
+        "count": "102",
+        "details": "Over 100 species of lemurs exist, many of which are endemic."
+      },
+      {
+        "category": "Endemic Species",
+        "count": "96",
+        "details": "Approximately 96 species are found nowhere else on Earth."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Indri",
+        "status": "Vulnerable",
+        "significance": "The largest lemur species, known for its distinctive calls."
+      },
+      {
+        "name": "Aye-aye",
+        "status": "Endangered",
+        "significance": "A nocturnal lemur with a unique finger used for finding insects."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Hunting",
+      "Pet trade"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Community-based conservation",
+      "Research and monitoring"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Madagascar's Ecosystems",
+    "overview": "Madagascar’s ecosystems are incredibly diverse, ranging from rainforests and spiny woodlands to coastal wetlands and coral reefs.  The island’s unique evolutionary history has resulted in a high degree of endemism, making it a global biodiversity hotspot.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 15
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Lemurs",
+        "icon": "Bird",
+        "description": "As discussed above, lemurs are a defining feature of Madagascar’s biodiversity.",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [],
+        "conservationEfforts": []
+      },
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Madagascar boasts a rich avifauna, with many endemic bird species.",
+        "statistics": [
+          {
+            "category": "Species",
+            "count": "108",
+            "details": "Over 108 bird species are found on the island."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Vangas",
+            "status": "Various",
+            "significance": "A diverse group of colorful songbirds."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Hunting"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Community-based conservation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Madagascar",
+    "description": "Madagascar offers a wide range of activities for nature lovers and adventure seekers, from hiking and wildlife viewing to diving and cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Madagascar’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Isalo National Park Trek",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "3-5 days",
+            "description": "Hike through the stunning sandstone canyons and gorges of Isalo National Park.",
+            "bestLocations": [
+              "The Canyon of the Kings",
+              "The Piscine Naturelle"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Ranomafana National Park Hike",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "2-4 days",
+            "description": "Explore the rainforest trails of Ranomafana National Park, searching for lemurs and other wildlife.",
+            "bestLocations": [
+              "The rainforest trails",
+              "The waterfall"
+            ],
+            "requirements": "Rain gear, insect repellent",
+            "safety": [
+              "Be aware of snakes",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Viewing",
+        "icon": "Leaf",
+        "description": "Observe Madagascar’s unique wildlife in their natural habitat.",
+        "activities": [
+          {
+            "name": "Lemur Spotting in Andasibe-Mantadia National Park",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "1-3 days",
+            "description": "Search for lemurs, birds, and reptiles in Andasibe-Mantadia National Park.",
+            "bestLocations": [
+              "The rainforest trails",
+              "The night walk"
+            ],
+            "requirements": "Binoculars, camera",
+            "safety": [
+              "Respect wildlife",
+              "Maintain a safe distance"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the coastal waters of Madagascar.",
+        "activities": [
+          {
+            "name": "Diving and Snorkeling in Nosy Be",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "3-7 days",
+            "description": "Explore the coral reefs and marine life of Nosy Be.",
+            "bestLocations": [
+              "The coral reefs",
+              "The dive sites"
+            ],
+            "requirements": "Snorkeling gear, diving certification (for diving)",
+            "safety": [
+              "Be aware of currents",
+              "Use reef-safe sunscreen"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, waterproof jacket, long-sleeved shirts",
+        "yearRound": "Comfortable walking shoes, insect repellent, flashlight"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Consult a doctor before traveling",
+        "Drink bottled water",
+        "Be aware of petty theft",
+        "Respect local customs"
+      ]
+    }
+  }
+}

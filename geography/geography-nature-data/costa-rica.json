@@ -1,0 +1,346 @@
+{
+  "name": "Costa Rica",
+  "region": "Central America",
+  "description": "Costa Rica, officially the Republic of Costa Rica, is a tropical country known for its stunning biodiversity, lush rainforests, active volcanoes, and beautiful coastlines. It’s a pioneer in ecotourism and conservation, boasting an impressive 25% of its land protected as national parks and reserves.  With a commitment to sustainability and a welcoming culture, Costa Rica offers a unique blend of adventure, relaxation, and natural beauty.",
+  "quickFacts": [
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "Globe",
+      "description": "Spanish is the official language of Costa Rica, though English is widely spoken in tourist areas.",
+      "detail": "The country's history is deeply intertwined with Spanish colonization, but indigenous languages also hold significance."
+    },
+    {
+      "label": "Capital",
+      "value": "San José",
+      "icon": "MapPin",
+      "description": "San José is the political, economic, and cultural center of Costa Rica.",
+      "detail": "It’s a bustling city with a rich history, numerous museums, and vibrant nightlife."
+    },
+    {
+      "label": "Population",
+      "value": "5.1 million",
+      "icon": "Users",
+      "description": "Costa Rica has a relatively small but vibrant population.",
+      "detail": "The population density is moderate, with most people living in urban areas."
+    },
+    {
+      "label": "Currency",
+      "value": "Costa Rican Colón (CRC)",
+      "icon": "Zap",
+      "description": "The Costa Rican Colón is the official currency.",
+      "detail": "The US dollar is also widely accepted."
+    },
+    {
+      "label": "Biodiversity Hotspot",
+      "value": "Highest in Central America",
+      "icon": "Leaf",
+      "description": "Costa Rica is renowned for its incredible biodiversity.",
+      "detail": "It’s home to over 5% of the world’s biodiversity, including numerous endemic species."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Costa Rica experiences a tropical climate with distinct wet and dry seasons. The country’s diverse geography contributes to a wide range of microclimates.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season (December - April)",
+        "period": "Winter",
+        "description": "The dry season is generally sunny and pleasant, with lower humidity and less rainfall. It's ideal for exploring national parks and beaches.",
+        "keyFeatures": [
+          "Sunny days",
+          "Lower humidity",
+          "Less rainfall",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Surfing",
+          "Wildlife viewing",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Green Season (May - November)",
+        "period": "Summer",
+        "description": "The green season brings increased rainfall, lush vegetation, and fewer crowds. It’s a fantastic time for birdwatching and experiencing the rainforest at its most vibrant.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Lush vegetation",
+          "Fewer tourists",
+          "Lower prices"
+        ],
+        "activities": [
+          "Rainforest hikes",
+          "Waterfall exploration",
+          "Birdwatching",
+          "River rafting"
+        ]
+      },
+      {
+        "name": "Shoulder Seasons (April-May & November-December)",
+        "period": "Spring/Fall",
+        "description": "These periods offer a balance of good weather and fewer crowds, making them ideal for travel.",
+        "keyFeatures": [
+          "Moderate rainfall",
+          "Pleasant temperatures",
+          "Balanced crowds"
+        ],
+        "activities": [
+          "All outdoor activities",
+          "Photography",
+          "Cultural experiences"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Monteverde Cloud Forest",
+      "category": "Cloud Forest",
+      "description": "Monteverde is a world-renowned cloud forest, characterized by its persistent mist and incredible biodiversity. It’s a haven for birdwatchers and nature enthusiasts.",
+      "detailedDescription": "Located in the Tilarán Mountains, the cloud forest is home to a vast array of plant and animal life, including the resplendent quetzal. Trails wind through the canopy, offering breathtaking views and opportunities for exploration.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Santa Elena",
+        "Ciudad Nea"
+      ],
+      "viewingTips": [
+        "Bring waterproof clothing",
+        "Use binoculars",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Height": "1600m",
+        "Area": "26000ha",
+        "Rainfall": "2000mm/year"
+      },
+      "icon": "Cloud"
+    },
+    {
+      "id": 2,
+      "name": "Manuel Antonio National Park",
+      "category": "Coastal Rainforest",
+      "description": "Manuel Antonio is a stunning national park on the Pacific coast, famous for its pristine beaches, lush rainforest, and abundant wildlife.",
+      "detailedDescription": "The park offers a diverse range of ecosystems, from sandy beaches to mangrove forests and cloud forests. It’s a popular destination for both wildlife viewing and relaxation.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Quepos",
+        "Manuel Antonio"
+      ],
+      "viewingTips": [
+        "Arrive early to avoid crowds",
+        "Hire a guide for wildlife spotting",
+        "Wear sunscreen"
+      ],
+      "scientificData": {
+        "Area": "3430ha",
+        "Biodiversity": "Over 100 mammal species"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Arenal Volcano National Park",
+      "category": "Volcanic",
+      "description": "Arenal Volcano is an iconic landmark in Costa Rica, offering stunning views of the active volcano and surrounding rainforest.",
+      "detailedDescription": "The park features hiking trails, hot springs, and opportunities for adventure activities like zip-lining and canyoning. The area is rich in geothermal activity.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "La Fortuna"
+      ],
+      "viewingTips": [
+        "Check the volcano’s activity level",
+        "Visit the hot springs",
+        "Take a night hike"
+      ],
+      "scientificData": {
+        "Height": "1916m",
+        "Volcanic Activity": "Ongoing"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Costa Rican Ecosystems",
+    "overview": "Costa Rica boasts an incredible array of ecosystems, including rainforests, cloud forests, dry forests, mangroves, and coral reefs. These diverse habitats support a vast array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "25%",
+      "nationalParks": 28
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Rainforests",
+        "icon": "Trees",
+        "description": "Costa Rica’s rainforests are incredibly diverse, harboring a vast array of plant and animal species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "5,000+",
+            "details": "Home to an astonishing variety of tree species."
+          },
+          {
+            "category": "Insect Species",
+            "count": "10,000+",
+            "details": "A major center for insect biodiversity."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Resplendent Quetzal",
+            "status": "Vulnerable",
+            "significance": "A symbol of Costa Rica and a prized birdwatcher's target."
+          },
+          {
+            "name": "Jaguar",
+            "status": "Near Threatened",
+            "significance": "The largest cat in the Americas."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Protected Areas",
+          "Reforestation Projects"
+        ]
+      },
+      {
+        "name": "Coastal Ecosystems",
+        "icon": "Waves",
+        "description": "Costa Rica’s coastline is characterized by diverse ecosystems, including coral reefs, mangroves, and sandy beaches.",
+        "statistics": [
+          {
+            "category": "Coral Reef Area",
+            "count": "100,000ha",
+            "details": "Supports a rich marine ecosystem."
+          },
+          {
+            "category": "Mangrove Area",
+            "count": "200,000ha",
+            "details": "Provides vital habitat for numerous species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Sea Turtle",
+            "status": "Endangered",
+            "significance": "A threatened species that nests on Costa Rican beaches."
+          },
+          {
+            "name": "Humpback Whale",
+            "status": "Least Concern",
+            "significance": "Migrates to Costa Rican waters to breed."
+          }
+        ],
+        "threats": [
+          "Coastal Development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Marine Protected Areas",
+          "Beach Cleanups"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Costa Rican Adventures",
+    "description": "Costa Rica offers a wide range of activities for all interests and skill levels, from adrenaline-pumping adventures to relaxing nature experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Costa Rica’s diverse trails, from rainforest hikes to mountain climbs.",
+        "activities": [
+          {
+            "name": "La Fortuna Waterfall Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "Hike down to the base of the stunning La Fortuna Waterfall and swim in the cool waters.",
+            "bestLocations": [
+              "La Fortuna"
+            ],
+            "requirements": "Good hiking shoes, water bottle",
+            "safety": [
+              "Be aware of slippery rocks",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Monteverde Cloud Forest Trails",
+            "difficulty": "Easy to Moderate",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the cloud forest on a network of well-maintained trails.",
+            "bestLocations": [
+              "Monteverde"
+            ],
+            "requirements": "Waterproof jacket, binoculars",
+            "safety": [
+              "Watch for wildlife",
+              "Stay on trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities, from surfing to white-water rafting.",
+        "activities": [
+          {
+            "name": "Surfing in Tamarindo",
+            "difficulty": "Beginner to Advanced",
+            "season": "Dry Season (December - April)",
+            "duration": "Variable",
+            "description": "Learn to surf or improve your skills in the waves of Tamarindo.",
+            "bestLocations": [
+              "Tamarindo"
+            ],
+            "requirements": "Surfboard, wetsuit (optional)",
+            "safety": [
+              "Be aware of currents",
+              "Use a lifeguard"
+            ]
+          },
+          {
+            "name": "White-Water Rafting on Pacuare River",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "Full Day",
+            "description": "Experience the thrill of rafting down the pristine Pacuare River.",
+            "bestLocations": [
+              "Pacuare River"
+            ],
+            "requirements": "Life jacket, helmet",
+            "safety": [
+              "Follow guide instructions",
+              "Wear appropriate clothing"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers, rain jacket, sweater, long pants",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Insect repellent, flashlight, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink bottled water",
+        "Be aware of wildlife",
+        "Follow local regulations"
+      ]
+    }
+  }
+}

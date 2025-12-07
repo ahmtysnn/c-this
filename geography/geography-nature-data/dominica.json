@@ -1,0 +1,386 @@
+{
+  "name": "Dominica",
+  "region": "Caribbean",
+  "description": "The Nature Island, Dominica, is a volcanic island nation in the Caribbean Sea, renowned for its dramatic landscapes, lush rainforests, and commitment to ecotourism.  It’s significantly less developed than many of its Caribbean neighbors, preserving a pristine environment and offering a unique, immersive experience for visitors. Dominica boasts a rich cultural heritage, a vibrant Creole community, and a strong focus on sustainability.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Roseau",
+      "icon": "MapPin",
+      "description": "The vibrant capital city of Dominica.",
+      "detail": "Roseau is a bustling port town with colorful buildings, local markets, and a historic waterfront."
+    },
+    {
+      "label": "Population",
+      "value": "73,000",
+      "icon": "Users",
+      "description": "Dominica's population is primarily of African descent.",
+      "detail": "The majority of the population lives in rural areas, deeply connected to the land and its resources."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "English is the official language of Dominica.",
+      "detail": "Kweyol (Creole) is widely spoken and understood throughout the island."
+    },
+    {
+      "label": "GDP per capita",
+      "value": "$6,800",
+      "icon": "Coffee",
+      "description": "Dominica has a relatively low GDP per capita.",
+      "detail": "The economy relies heavily on tourism, agriculture, and small-scale industries."
+    },
+    {
+      "label": "Area",
+      "value": "751 km²",
+      "icon": "Globe",
+      "description": "Dominica is a relatively small island.",
+      "detail": "It’s the second-lethalest island in the Caribbean."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Rainforest Climate",
+    "description": "Dominica experiences a tropical rainforest climate, characterized by consistently high temperatures and rainfall throughout the year.  The island benefits from a moist trade wind, contributing to its lush vegetation and frequent showers.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is hot and humid, with frequent showers and occasional thunderstorms.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent rainfall",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Waterfalls exploration",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn sees a gradual decrease in rainfall and slightly cooler temperatures.  It’s a beautiful time for hiking and exploring.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Pleasant temperatures",
+          "Vibrant foliage"
+        ],
+        "activities": [
+          "Hiking",
+          "Scuba diving",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is the driest season, with the most sunshine and the lowest rainfall. Temperatures are mild and comfortable.",
+        "keyFeatures": [
+          "Dryest season",
+          "Mild temperatures",
+          "Sunny days"
+        ],
+        "activities": [
+          "Hiking",
+          "Exploring the interior",
+          "Visiting hot springs"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a return to wetter conditions, with increasing rainfall and blossoming flora.",
+        "keyFeatures": [
+          "Increasing rainfall",
+          "Blooming flowers",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Botanical tours",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Boiling Lake",
+      "category": "Volcanic Feature",
+      "description": "Boiling Lake is the world’s second-largest hot lake, formed by volcanic activity. It’s a challenging but rewarding hike to reach this geothermal marvel.",
+      "detailedDescription": "The lake’s surface temperature reaches an astonishing 194°C (381°F). The surrounding rainforest is unique due to the mineral-rich steam vents.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Richmond Nature Trail"
+      ],
+      "viewingTips": [
+        "Wear waterproof boots and clothing.",
+        "Bring a headlamp.",
+        "Hire a local guide."
+      ],
+      "scientificData": {
+        "Temperature": "194°C",
+        "Depth": "80m",
+        "Area": "1.7 km²"
+      },
+      "icon": "Thermometer"
+    },
+    {
+      "id": 2,
+      "name": "Trafalgar Falls",
+      "category": "Waterfall",
+      "description": "Trafalgar Falls are a pair of stunning waterfalls cascading down moss-covered cliffs into a refreshing pool.",
+      "detailedDescription": "The Upper Falls plunge 60 meters (197 feet), while the Lower Falls cascade 30 meters (98 feet). The surrounding rainforest is teeming with wildlife.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Trafalgar Falls Trail"
+      ],
+      "viewingTips": [
+        "Take a dip in the pool at the base of the Lower Falls.",
+        "Bring your camera."
+      ],
+      "scientificData": {
+        "Height": "60m & 30m",
+        "Flow Rate": "Variable, dependent on rainfall"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Morne Trois Pitons National Park",
+      "category": "National Park",
+      "description": "A UNESCO World Heritage Site, Morne Trois Pitons National Park is a haven for biodiversity and dramatic volcanic landscapes.",
+      "detailedDescription": "The park contains Boiling Lake, Trafalgar Falls, and numerous other unique geological formations and plant species. It’s a crucial area for conservation.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Richmond Nature Trail",
+        "Boiling Lake Trail"
+      ],
+      "viewingTips": [
+        "Book a guided tour to learn about the park's history and ecology.",
+        "Wear sturdy hiking boots."
+      ],
+      "scientificData": {
+        "Area": "300 km²",
+        "Elevation Range": "1,117m - 1,493m"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Rainforest Ecosystem",
+    "icon": "Leaf",
+    "description": "Dominica’s rainforests are incredibly diverse, supporting a vast array of plant and animal life.",
+    "statistics": [
+      {
+        "category": "Tree Species",
+        "count": "Over 150",
+        "details": "Including many endemic species found nowhere else on Earth."
+      },
+      {
+        "category": "Bird Species",
+        "count": "117",
+        "details": "Dominica is a birdwatcher’s paradise, home to numerous endemic and migratory species."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Sisserou Parrot",
+        "status": "Endangered",
+        "significance": "The national bird of Dominica, critically endangered due to habitat loss and hunting."
+      },
+      {
+        "name": "Dominica White-eye",
+        "status": "Endemic",
+        "significance": "A small, vibrant bird found only on Dominica."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Climate Change",
+      "Illegal Wildlife Trade"
+    ],
+    "conservationEfforts": [
+      "Protected Area Management",
+      "Reforestation Programs",
+      "Community-Based Conservation"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Dominica’s Ecosystems",
+    "overview": "Dominica’s ecosystems are remarkably diverse, ranging from its lush rainforests to its rugged volcanic landscapes and coral reefs.  The island’s commitment to ecotourism and conservation is vital for preserving this natural heritage.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Rainforest Ecosystem",
+        "icon": "Leaf",
+        "description": "Dominica’s rainforests are incredibly diverse, supporting a vast array of plant and animal life.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 150",
+            "details": "Including many endemic species found nowhere else on Earth."
+          },
+          {
+            "category": "Bird Species",
+            "count": "117",
+            "details": "Dominica is a birdwatcher’s paradise, home to numerous endemic and migratory species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Sisserou Parrot",
+            "status": "Endangered",
+            "significance": "The national bird of Dominica, critically endangered due to habitat loss and hunting."
+          },
+          {
+            "name": "Dominica White-eye",
+            "status": "Endemic",
+            "significance": "A small, vibrant bird found only on Dominica."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Climate Change",
+          "Illegal Wildlife Trade"
+        ],
+        "conservationEfforts": [
+          "Protected Area Management",
+          "Reforestation Programs",
+          "Community-Based Conservation"
+        ]
+      },
+      {
+        "name": "Coral Reef Ecosystem",
+        "icon": "Fish",
+        "description": "Dominica’s coral reefs are a vibrant underwater world, supporting a rich diversity of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 60",
+            "details": "Including several species of staghorn and elkhorn coral."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Humphead Parrotfish",
+            "status": "Vulnerable",
+            "significance": "A large, iconic fish found in Dominica’s coral reefs."
+          }
+        ],
+        "threats": [
+          "Coral Bleaching",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine Protected Areas",
+          "Coral Reef Restoration Projects"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Dominica’s Adventures",
+    "description": "Dominica offers a wide range of activities for adventure seekers and nature lovers.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Dominica’s stunning trails, from easy coastal walks to challenging rainforest treks.",
+        "activities": [
+          {
+            "name": "Boiling Lake Hike",
+            "difficulty": "Hard",
+            "season": "December - April",
+            "duration": "7-8 hours",
+            "description": "A challenging hike to the world’s second-largest hot lake.",
+            "bestLocations": [
+              "Richmond Nature Trail"
+            ],
+            "requirements": "Sturdy hiking boots, waterproof clothing, water, snacks.",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of slippery conditions"
+            ]
+          },
+          {
+            "name": "Trafalgar Falls Trail",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-3 hours",
+            "description": "A scenic trail leading to the beautiful Trafalgar Falls.",
+            "bestLocations": [
+              "Trafalgar Falls"
+            ],
+            "requirements": "Comfortable shoes, water.",
+            "safety": [
+              "Watch out for uneven terrain"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy Dominica’s pristine waters with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore Dominica’s vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "Soufriere Marine Reserve",
+              "Anse Chastanet"
+            ],
+            "requirements": "Certification, mask, fins, snorkel.",
+            "safety": [
+              "Dive with a certified instructor"
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Discover the beauty of Dominica’s coral reefs without diving.",
+            "bestLocations": [
+              "Soufriere Marine Reserve",
+              "Anse Chastanet"
+            ],
+            "requirements": "Mask, fins, snorkel.",
+            "safety": [
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat.",
+        "winter": "Warm layers, waterproof jacket, hiking boots.",
+        "yearRound": "Comfortable walking shoes, rain gear."
+      },
+      "equipment": {
+        "basic": "Insect repellent, flashlight, first-aid kit.",
+        "hiking": "Sturdy hiking boots, backpack, water bottle.",
+        "photography": "Camera, extra batteries, waterproof case."
+      },
+      "safety": [
+        "Respect local customs",
+        "Stay hydrated",
+        "Be aware of wildlife",
+        "Follow trail markers"
+      ]
+    }
+  }
+}

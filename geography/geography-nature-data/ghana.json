@@ -1,0 +1,328 @@
+{
+  "name": "Ghana",
+  "region": "West Africa",
+  "description": "Ghana, formerly known as the Gold Coast, is a nation located along the Gulf of Guinea on the Atlantic coast of West Africa. It’s renowned for its rich history as a former British colony, its vibrant culture, and its significant role in the transatlantic slave trade. Today, Ghana is a thriving democracy with a diverse economy driven by agriculture, tourism, and natural resource extraction. The country boasts stunning landscapes, from the coastal plains to the Ashanti rainforest and the majestic Kakum National Park.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "31.7 million (2023)",
+      "icon": "Users",
+      "description": "Ghana has a rapidly growing population, largely due to high birth rates and internal migration.",
+      "detail": "The population density is approximately 36 people per square kilometer."
+    },
+    {
+      "label": "Capital",
+      "value": "Accra",
+      "icon": "MapPin",
+      "description": "Accra is the bustling capital city and economic hub of Ghana.",
+      "detail": "It's a coastal city with a mix of modern and traditional architecture."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Globe",
+      "description": "English is the official language and is widely spoken throughout the country.",
+      "detail": "However, numerous indigenous languages are also spoken."
+    },
+    {
+      "label": "Currency",
+      "value": "Ghanaian Cedi (GHS)",
+      "icon": "Coffee",
+      "description": "The Ghanaian Cedi is the official currency.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD is approximately 12 GHS."
+    },
+    {
+      "label": "GDP",
+      "value": "$81.4 billion (2023)",
+      "icon": "Zap",
+      "description": "Ghana's economy is growing steadily.",
+      "detail": "Key sectors include cocoa, gold, and tourism."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Ghana",
+    "description": "Ghana experiences a tropical climate with two main seasons: a wet season and a dry season. The country is generally hot and humid throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Harmattan",
+        "period": "November – March",
+        "description": "The Harmattan is a dry and dusty trade wind that blows from the Sahara Desert, bringing cooler temperatures and reduced rainfall.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Dusty winds",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Ideal for wildlife viewing",
+          "Visiting historical sites"
+        ]
+      },
+      {
+        "name": "Rainy Season",
+        "period": "April – October",
+        "description": "This season is characterized by heavy rainfall and high humidity. It’s the agricultural season, with increased river levels.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Flooding in low-lying areas"
+        ],
+        "activities": [
+          "Harvesting crops",
+          "River rafting (seasonal)"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Kakum National Park",
+      "category": "Rainforest",
+      "description": "Kakum National Park is renowned for its towering canopy walkway, offering a unique perspective on the rainforest ecosystem. It’s home to a diverse array of flora and fauna, including chimpanzees, monkeys, and numerous bird species.",
+      "detailedDescription": "The 100-meter-long canopy walkway allows visitors to walk amongst the treetops, experiencing the rainforest from a breathtaking height. The park also features a series of waterfalls and hiking trails.",
+      "bestTime": "March – November",
+      "bestLocations": [
+        "Central Ghana"
+      ],
+      "viewingTips": [
+        "Wear comfortable walking shoes",
+        "Bring insect repellent",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Height": "100m",
+        "Area": "320 km²",
+        "Elevation": "200-670m"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Mole National Park",
+      "category": "Savanna",
+      "description": "Mole National Park is Ghana’s largest national park and a haven for wildlife enthusiasts. It’s home to elephants, lions, buffalo, antelopes, and a variety of bird species.",
+      "detailedDescription": "The park’s vast savanna landscape offers opportunities for game drives and guided walks. It’s a crucial habitat for many endangered species.",
+      "bestTime": "November – March",
+      "bestLocations": [
+        "Northern Ghana"
+      ],
+      "viewingTips": [
+        "Go on early morning game drives",
+        "Hire a local guide",
+        "Bring binoculars"
+      ],
+      "scientificData": {
+        "Area": "475 km²",
+        "Elevation": "210-880m",
+        "Biodiversity": "Over 400 species of plants and 42 mammal species"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 3,
+      "name": "Lake Volta",
+      "category": "Lake",
+      "description": "Lake Volta is the largest man-made lake in Africa, created by the Akosombo Dam. It’s a vital source of hydroelectric power and a popular recreational area.",
+      "detailedDescription": "The lake offers opportunities for boating, fishing, and water sports. It’s also home to a diverse range of aquatic life.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Eastern and Volta Regions"
+      ],
+      "viewingTips": [
+        "Take a boat trip",
+        "Try your hand at fishing",
+        "Visit the Akosombo Dam"
+      ],
+      "scientificData": {
+        "Length": "205 km",
+        "Surface Area": "8,500 km²",
+        "Depth": "100m"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ghana's Ecosystems",
+    "overview": "Ghana’s ecosystems are incredibly diverse, ranging from dense rainforests to savannas and coastal wetlands. These ecosystems support a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 18
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forest Ecosystems",
+        "icon": "Trees",
+        "description": "Ghana’s forests are home to a vast array of plant and animal species, including primates, birds, and insects.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 3,500",
+            "details": "A significant portion of these are endemic to Ghana."
+          },
+          {
+            "category": "Biodiversity Index",
+            "count": "High",
+            "details": "Ghana is considered a biodiversity hotspot."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Indri",
+            "status": "Endangered",
+            "significance": "Largest lemur in Madagascar, found in the rainforests."
+          },
+          {
+            "name": "African Grey Parrot",
+            "status": "Vulnerable",
+            "significance": "Known for its intelligence and ability to mimic human speech."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Reforestation programs",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Savanna Ecosystems",
+        "icon": "Sun",
+        "description": "Ghana’s savannas are characterized by grasslands and scattered trees, supporting large herds of herbivores and predators.",
+        "statistics": [
+          {
+            "category": "Grassland Area",
+            "count": "Approximately 40%",
+            "details": "Dominates the landscape."
+          },
+          {
+            "category": "Large Mammals",
+            "count": "Diverse",
+            "details": "Includes elephants, lions, and antelopes."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "A keystone species in the savanna ecosystem."
+          },
+          {
+            "name": "African Lion",
+            "status": "Vulnerable",
+            "significance": "A top predator in the savanna."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community conservation programs",
+          "Wildlife corridors"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Ghana",
+    "description": "Ghana offers a wide range of activities for travelers, from wildlife viewing and cultural experiences to adventure sports and relaxation.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Ghana’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Kakum Canopy Walk",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-3 hours",
+            "description": "Walk amongst the treetops of Kakum National Park.",
+            "bestLocations": [
+              "Kakum National Park"
+            ],
+            "requirements": "Comfortable shoes, insect repellent",
+            "safety": [
+              "Stay on marked trails",
+              "Follow guide instructions"
+            ]
+          },
+          {
+            "name": "Mount Afadjato Hike",
+            "difficulty": "Hard",
+            "season": "March – September",
+            "duration": "6-8 hours",
+            "description": "Hike to the summit of Ghana’s highest mountain.",
+            "bestLocations": [
+              "Eastern Region"
+            ],
+            "requirements": "Sturdy hiking boots, water, snacks",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of weather conditions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities on Ghana’s beautiful coastline and lakes.",
+        "activities": [
+          {
+            "name": "Surfing at Axim",
+            "difficulty": "Moderate",
+            "season": "June – August",
+            "duration": "Variable",
+            "description": "Catch some waves at Axim, Ghana’s surfing capital.",
+            "bestLocations": [
+              "Western Region"
+            ],
+            "requirements": "Surfboard, wetsuit (optional)",
+            "safety": [
+              "Check surf conditions",
+              "Use a lifeguard"
+            ]
+          },
+          {
+            "name": "Lake Volta Boat Trips",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Take a relaxing boat trip on Lake Volta.",
+            "bestLocations": [
+              "Eastern and Volta Regions"
+            ],
+            "requirements": "Sunscreen, hat",
+            "safety": [
+              "Follow boat operator instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen",
+        "winter": "Layers of clothing, a light jacket, rain gear",
+        "yearRound": "Comfortable walking shoes, a hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Insect repellent, sunscreen, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink bottled water",
+        "Be aware of your surroundings",
+        "Respect local customs"
+      ]
+    }
+  }
+}

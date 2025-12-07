@@ -1,0 +1,378 @@
+{
+  "CountryData": {
+    "name": "Italy",
+    "region": "Europe",
+    "description": "Italy, officially the Italian Republic, is a transcontinental country located in Southern Europe. It is renowned for its rich history, art, culture, and diverse landscapes, ranging from the majestic Alps in the north to the sun-drenched Mediterranean coastline in the south. Italy boasts a complex and fascinating past, having been the center of the Roman Empire and a cradle of the Renaissance. Today, it’s a vibrant nation celebrated for its cuisine, fashion, and contributions to global culture.",
+    "quickFacts": [
+      {
+        "label": "Area",
+        "value": "301,340 km²",
+        "icon": "MapPin",
+        "description": "Italy is the third-largest country in Europe by land area.",
+        "detail": "Its diverse geography contributes to a wide range of climates and ecosystems."
+      },
+      {
+        "label": "Population",
+        "value": "59.07 million",
+        "icon": "Users",
+        "description": "Italy has a large and diverse population.",
+        "detail": "The population is concentrated along the coasts and in major cities."
+      },
+      {
+        "label": "Capital",
+        "value": "Rome",
+        "icon": "MapPin",
+        "description": "Rome is the historical and political heart of Italy.",
+        "detail": "It’s a UNESCO World Heritage site and home to iconic landmarks like the Colosseum and the Vatican City."
+      },
+      {
+        "label": "Currency",
+        "value": "Euro (€)",
+        "icon": "Coffee",
+        "description": "The Euro is the official currency of Italy.",
+        "detail": "Italy joined the Eurozone in 1999."
+      },
+      {
+        "label": "Languages",
+        "value": "Italian",
+        "icon": "Globe",
+        "description": "Italian is the official language of Italy.",
+        "detail": "Regional dialects are also widely spoken."
+      }
+    ],
+    "climateData": {
+      "title": "Italian Climate",
+      "description": "Italy experiences a Mediterranean climate, characterized by hot, dry summers and mild, wet winters. However, climate varies significantly across the country due to its diverse topography.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Spring (March-May)",
+          "period": "March - May",
+          "description": "Spring brings pleasant temperatures and blooming wildflowers, transforming the landscape into a vibrant spectacle.",
+          "keyFeatures": [
+            "Mild temperatures",
+            "Wildflowers",
+            "Increased rainfall"
+          ],
+          "activities": [
+            "Hiking",
+            "Cycling",
+            "Gardening",
+            "Wine tasting"
+          ]
+        },
+        {
+          "name": "Summer (June-August)",
+          "period": "June - August",
+          "description": "Summer is hot and dry, particularly in the southern regions. It’s ideal for beach holidays and outdoor activities.",
+          "keyFeatures": [
+            "Hot temperatures",
+            "Sunny days",
+            "Low rainfall"
+          ],
+          "activities": [
+            "Swimming",
+            "Sunbathing",
+            "Beach volleyball",
+            "Outdoor festivals"
+          ]
+        },
+        {
+          "name": "Autumn (September-November)",
+          "period": "September - November",
+          "description": "Autumn offers cooler temperatures and stunning fall foliage, especially in the mountainous regions.",
+          "keyFeatures": [
+            "Cool temperatures",
+            "Fall foliage",
+            "Harvest season"
+          ],
+          "activities": [
+            "Hiking",
+            "Wine harvesting",
+            "Food festivals",
+            "Cultural events"
+          ]
+        },
+        {
+          "name": "Winter (December-February)",
+          "period": "December - February",
+          "description": "Winter is mild in the south, but cold and snowy in the north. It’s a good time for skiing and winter sports.",
+          "keyFeatures": [
+            "Mild temperatures (south)",
+            "Snowy conditions (north)",
+            "Festive atmosphere"
+          ],
+          "activities": [
+            "Skiing",
+            "Snowboarding",
+            "Ice skating",
+            "Visiting Christmas markets"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Dolomites",
+        "category": "Mountains",
+        "description": "The Dolomites are a UNESCO World Heritage Site, renowned for their dramatic, jagged peaks and pale rock formations. They offer breathtaking views and a haven for hikers and climbers.",
+        "detailedDescription": "Formed by ancient coral reefs, the Dolomites are a geological marvel. Their unique appearance is due to the Triassic limestone, which has been sculpted by erosion over millions of years. The area is also home to diverse flora and fauna, including chamois and ibex.",
+        "bestTime": "June - September",
+        "bestLocations": [
+          "Val di Funes",
+          "Lago di Braies",
+          "Tre Cime di Lavaredo"
+        ],
+        "viewingTips": [
+          "Bring appropriate hiking gear",
+          "Check weather conditions before heading out",
+          "Respect the environment"
+        ],
+        "scientificData": {
+          "Height": "2,912 m",
+          "Age": "280 million years",
+          "RockType": "Triassic Limestone"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "Amalfi Coast",
+        "category": "Coastal",
+        "description": "The Amalfi Coast is a stunning stretch of coastline in southern Italy, famous for its picturesque towns, dramatic cliffs, and turquoise waters.",
+        "detailedDescription": "This UNESCO World Heritage site is characterized by its terraced hillsides, vibrant villages, and lemon groves. The region’s history is deeply intertwined with maritime trade and the influence of the maritime republic of Amalfi. The winding coastal road offers spectacular views at every turn.",
+        "bestTime": "May - June, September - October",
+        "bestLocations": [
+          "Positano",
+          "Amalfi",
+          "Ravello"
+        ],
+        "viewingTips": [
+          "Drive carefully on the winding roads",
+          "Take a boat trip along the coast",
+          "Enjoy the local cuisine"
+        ],
+        "scientificData": {
+          "AverageTemperature": "18°C",
+          "Rainfall": "800mm/year"
+        },
+        "icon": "Waves"
+      },
+      {
+        "id": 3,
+        "name": "Lake Como",
+        "category": "Lake",
+        "description": "Lake Como is a beautiful lake in northern Italy, surrounded by stunning mountains and charming villages.",
+        "detailedDescription": "Known for its elegance and beauty, Lake Como has been a popular destination for celebrities and artists for centuries. The lake is fed by numerous streams and rivers, creating a diverse ecosystem. The surrounding hills are covered in vineyards and olive groves.",
+        "bestTime": "June - August",
+        "bestLocations": [
+          "Bellagio",
+          "Varenna",
+          "Como"
+        ],
+        "viewingTips": [
+          "Take a boat tour of the lake",
+          "Explore the historic towns",
+          "Enjoy the lakeside restaurants"
+        ],
+        "scientificData": {
+          "SurfaceArea": "37 km²",
+          "MaximumDepth": "387 m"
+        },
+        "icon": "Droplets"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Italian Ecosystems",
+      "overview": "Italy’s diverse geography supports a wide range of ecosystems, from the Mediterranean scrublands of the south to the alpine forests of the north. These ecosystems are home to a rich variety of plant and animal life, many of which are unique to the region.",
+      "conservationStatus": {
+        "protectedAreas": "20%",
+        "nationalParks": 15
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Mediterranean Flora",
+          "icon": "Leaf",
+          "description": "The Mediterranean region is characterized by drought-resistant plants adapted to the hot, dry summers.",
+          "statistics": [
+            {
+              "category": "Species",
+              "count": "8,000",
+              "details": "A significant portion of the world’s plant diversity is found here."
+            },
+            {
+              "category": "Endemic Species",
+              "count": "1,500",
+              "details": "Many plant species are found only in Italy."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Maquis shrubland",
+              "status": "Vulnerable",
+              "significance": "A key component of the Mediterranean ecosystem."
+            },
+            {
+              "name": "Olive Tree",
+              "status": "Least Concern",
+              "significance": "A symbol of Italy and a vital part of the economy."
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Habitat loss",
+            "Invasive species"
+          ],
+          "conservationEfforts": [
+            "Protected areas",
+            "Sustainable agriculture",
+            "Reforestation"
+          ]
+        },
+        {
+          "name": "Alpine Ecosystems",
+          "icon": "Mountain",
+          "description": "The Italian Alps are home to unique alpine flora and fauna, adapted to the harsh conditions of high altitudes.",
+          "statistics": [
+            {
+              "category": "Species",
+              "count": "500",
+              "details": "A diverse range of plant and animal species thrive in this environment."
+            },
+            {
+              "category": "Snow Cover",
+              "count": "8 months",
+              "details": "Significant snow cover contributes to the unique ecosystem."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Chamois",
+              "status": "Least Concern",
+              "significance": "A resilient mountain goat adapted to rocky terrain."
+            },
+            {
+              "name": "Edelweiss",
+              "status": "Vulnerable",
+              "significance": "A rare and iconic alpine flower."
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Overgrazing",
+            "Tourism"
+          ],
+          "conservationEfforts": [
+            "Sustainable tourism",
+            "Protected areas",
+            "Habitat restoration"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Italian Activities",
+      "description": "Italy offers a vast array of activities for all interests and skill levels, from outdoor adventures to cultural experiences.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore Italy’s stunning landscapes on foot.",
+          "activities": [
+            {
+              "name": "Dolomites Hiking Trail",
+              "difficulty": "Moderate",
+              "season": "June - September",
+              "duration": "3-5 days",
+              "description": "A challenging but rewarding hike through the iconic Dolomites.",
+              "bestLocations": [
+                "Val di Funes",
+                "Tre Cime di Lavaredo"
+              ],
+              "requirements": "Hiking boots, backpack, water bottle, map",
+              "safety": [
+                "Check weather conditions",
+                "Inform someone of your route",
+                "Carry a first-aid kit"
+              ]
+            },
+            {
+              "name": "Cinque Terre Coastal Hike",
+              "difficulty": "Easy",
+              "season": "April - October",
+              "duration": "1-2 days",
+              "description": "Hike between the five picturesque villages of the Cinque Terre.",
+              "bestLocations": [
+                "Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore"
+              ],
+              "requirements": "Comfortable shoes, sunscreen, hat",
+              "safety": [
+                "Wear sunscreen",
+                "Stay hydrated",
+                "Be aware of slippery trails"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy the Mediterranean Sea with a variety of water sports.",
+          "activities": [
+            {
+              "name": "Sailing in Sardinia",
+              "difficulty": "Moderate",
+              "season": "June - September",
+              "duration": "7 days",
+              "description": "Explore the crystal-clear waters and stunning coastline of Sardinia.",
+              "bestLocations": [
+                "Costa Smeralda",
+                "Arcipelago de La Maddalena"
+              ],
+              "requirements": "Sailboat rental, sailing experience (recommended)",
+              "safety": [
+                "Wear life jackets",
+                "Check weather conditions",
+                "Follow sailing rules"
+              ]
+            },
+            {
+              "name": "Scuba Diving in the Amalfi Coast",
+              "difficulty": "Easy",
+              "season": "May - October",
+              "duration": "1-3 days",
+              "description": "Discover the underwater world of the Amalfi Coast.",
+              "bestLocations": [
+                "Positano",
+                "Amalfi"
+              ],
+              "requirements": "Scuba certification, wetsuit",
+              "safety": [
+                "Follow dive instructions",
+                "Check equipment",
+                "Be aware of currents"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Light clothing, swimwear, sunscreen, hat",
+          "winter": "Warm coat, hat, gloves, scarf",
+          "yearRound": "Comfortable walking shoes, layers"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, sunscreen, insect repellent",
+          "hiking": "Hiking boots, trekking poles, map, compass",
+          "photography": "Camera, extra batteries, memory cards"
+        },
+        "safety": [
+          "Travel insurance",
+          "First-aid kit",
+          "Emergency contact information"
+        ]
+      }
+    }
+  }
+}

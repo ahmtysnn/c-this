@@ -1,0 +1,372 @@
+{
+  "name": "Taiwan",
+  "region": "Asia",
+  "description": "Taiwan, officially the Republic of China, is an island nation located in East Asia, off the coast of mainland China. Known for its dramatic landscapes, including towering mountains, lush forests, and stunning coastlines, Taiwan boasts a rich cultural heritage and a vibrant economy. It’s a biodiversity hotspot, home to a diverse range of flora and fauna, and offers a wide array of outdoor activities and cultural experiences.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Taipei",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Taiwan, a hub of commerce, culture, and technology.",
+      "detail": "Taipei is renowned for its vibrant night markets, impressive museums, and modern architecture."
+    },
+    {
+      "label": "Population",
+      "value": "Approximately 23.6 million",
+      "icon": "Users",
+      "description": "Taiwan has a densely populated population, contributing to its dynamic urban landscape.",
+      "detail": "The majority of the population resides in urban areas, particularly around Taipei and Taichung."
+    },
+    {
+      "label": "Area",
+      "value": "36,193 square kilometers (13,974 sq mi)",
+      "icon": "Globe",
+      "description": "Taiwan's relatively small size belies its incredible diversity of landscapes.",
+      "detail": "The island is dominated by mountainous terrain, with only a small percentage of the land being arable."
+    },
+    {
+      "label": "Official Language",
+      "value": "Mandarin Chinese",
+      "icon": "ArrowRight",
+      "description": "Mandarin Chinese is the official language and is widely spoken throughout the island.",
+      "detail": "Taiwanese Hokkien (Min Nan) is also a prevalent dialect, alongside Hakka and Tsou."
+    },
+    {
+      "label": "Currency",
+      "value": "New Taiwan Dollar (TWD)",
+      "icon": "Coffee",
+      "description": "The New Taiwan Dollar is the official currency of Taiwan.",
+      "detail": "It's a stable currency and widely accepted throughout the country."
+    }
+  ],
+  "climateData": {
+    "title": "Taiwan's Diverse Climate",
+    "description": "Taiwan experiences a subtropical climate with significant regional variations due to its mountainous terrain. The north is cooler and wetter, while the south is warmer and drier.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with blooming flowers and lush greenery. It's a popular time for outdoor activities.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Blooming flowers",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is hot and humid, with frequent rainfall. Typhoons are common during this season.",
+        "keyFeatures": [
+          "High humidity",
+          "Typhoons",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Water sports",
+          "Beach trips",
+          "Night markets"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn offers pleasant temperatures and clear skies. It's considered the best time to visit Taiwan.",
+        "keyFeatures": [
+          "Cool and dry weather",
+          "Clear skies",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Mountain climbing",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is mild and wet, with occasional cold snaps. Snowfall is rare, mainly in the higher mountains.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Rainfall",
+          "Occasional cold snaps"
+        ],
+        "activities": [
+          "Visiting hot springs",
+          "Exploring museums",
+          "Indoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Taroko Gorge",
+      "category": "Mountain Landscape",
+      "description": "Taroko Gorge is a stunning marble canyon carved by the Liwu River. Its towering cliffs, lush forests, and turquoise rivers create a breathtaking spectacle.",
+      "detailedDescription": "The gorge is renowned for its dramatic scenery and is a popular destination for hiking and exploring. The marble formations are particularly impressive, showcasing a variety of colors and textures.",
+      "bestTime": "Autumn",
+      "bestLocations": [
+        "Shakadang Trail",
+        "Swallow Grotto",
+        "Eternal Spring Shrine"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking shoes",
+        "Bring plenty of water",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Height": "1,600m",
+        "Length": "14km",
+        "Depth": "600m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Sun Moon Lake",
+      "category": "Lake",
+      "description": "Sun Moon Lake is Taiwan's largest lake, nestled amidst rolling hills and forested mountains. It's a serene and picturesque destination.",
+      "detailedDescription": "The lake is surrounded by temples, aboriginal villages, and scenic trails. Boat tours and cycling are popular ways to explore the area.",
+      "bestTime": "Spring & Autumn",
+      "bestLocations": [
+        "Wenwu Temple",
+        "Ci'en Pagoda",
+        "Shuishe Pier"
+      ],
+      "viewingTips": [
+        "Rent a bike to explore the lake",
+        "Take a boat tour",
+        "Visit the local temples"
+      ],
+      "scientificData": {
+        "Area": "120 square kilometers",
+        "Depth": "75 meters"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Yushan National Park",
+      "category": "Mountain & Forest",
+      "description": "Yushan National Park encompasses Taiwan’s highest peak, Yushan (Jade Mountain), and a vast expanse of pristine forests and alpine meadows.",
+      "detailedDescription": "The park offers incredible hiking opportunities, diverse wildlife viewing, and stunning panoramic views. It’s a haven for nature lovers and adventure seekers.",
+      "bestTime": "Summer & Autumn",
+      "bestLocations": [
+        "Shimu Grassland",
+        "Qingshui Cliff",
+        "Yushan Summit"
+      ],
+      "viewingTips": [
+        "Check weather conditions before hiking",
+        "Bring appropriate gear",
+        "Respect wildlife"
+      ],
+      "scientificData": {
+        "Elevation": "3,952m",
+        "Area": "299 square kilometers"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Endemic Flora and Fauna",
+    "icon": "Leaf",
+    "description": "Taiwan is renowned for its unique biodiversity, with a significant number of plant and animal species found nowhere else on Earth.",
+    "statistics": [
+      {
+        "category": "Plant Species",
+        "count": "Approximately 3,100",
+        "details": "Many of these plants are endemic to Taiwan's diverse ecosystems."
+      },
+      {
+        "category": "Animal Species",
+        "count": "Approximately 480",
+        "details": "Including numerous endemic bird species, reptiles, and amphibians."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Formosan Black Bear",
+        "status": "Vulnerable",
+        "significance": "Taiwan's largest mammal, playing a crucial role in seed dispersal."
+      },
+      {
+        "name": "Red Eared Dragon",
+        "status": "Endangered",
+        "significance": "A unique and beautiful reptile found only in Taiwan's streams and rivers."
+      },
+      {
+        "name": "Taiwan Blue Magpie",
+        "status": "Near Threatened",
+        "significance": "A striking bird species with vibrant blue plumage."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Poaching"
+    ],
+    "conservationEfforts": [
+      "National park establishment",
+      "Wildlife protection programs",
+      "Reforestation projects"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Taiwan's Diverse Ecosystems",
+    "overview": "Taiwan’s ecosystems range from subtropical rainforests to alpine meadows and coral reefs, each supporting a unique array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 13
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Tropical Rainforest",
+        "icon": "Trees",
+        "description": "Taiwan’s tropical rainforests are home to a vast array of plant and animal species, including many endemic species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 800",
+            "details": "Including ancient trees and rare orchids."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Protected area expansion",
+          "Sustainable forestry practices"
+        ]
+      },
+      {
+        "name": "Coastal Ecosystems",
+        "icon": "Waves",
+        "description": "Taiwan’s coastline is characterized by diverse habitats, including coral reefs, mangrove forests, and rocky shores.",
+        "statistics": [
+          {
+            "category": "Coral Reef Area",
+            "count": "Approximately 100 square kilometers",
+            "details": "Supporting a rich diversity of marine life."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral reef restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Taiwan",
+    "description": "Taiwan offers a wide range of outdoor activities for all skill levels, from leisurely hikes to challenging climbs.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Taiwan’s stunning mountain trails and discover breathtaking views.",
+        "activities": [
+          {
+            "name": "Taroko Gorge Trail",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "3-6 hours",
+            "description": "Hike through the dramatic Taroko Gorge, exploring its stunning marble formations and scenic trails.",
+            "bestLocations": [
+              "Shakadang Trail",
+              "Swallow Grotto"
+            ],
+            "requirements": "Sturdy hiking shoes, water, sunscreen",
+            "safety": [
+              "Be aware of trail conditions",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Mount Jade Trail",
+            "difficulty": "Hard",
+            "season": "Summer - Autumn",
+            "duration": "8-12 hours",
+            "description": "A challenging climb to the summit of Taiwan’s highest peak, offering panoramic views.",
+            "bestLocations": [
+              "Yushan Summit"
+            ],
+            "requirements": "Hiking boots, warm clothing, altitude sickness medication",
+            "safety": [
+              "Check weather conditions",
+              "Acclimatize to altitude"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in Taiwan’s beautiful coastal waters.",
+        "activities": [
+          {
+            "name": "Sun Moon Lake Boat Tour",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "Take a relaxing boat tour around Sun Moon Lake, enjoying the stunning scenery.",
+            "bestLocations": [
+              "Shuishe Pier"
+            ],
+            "requirements": "Sunscreen, hat",
+            "safety": [
+              "Follow boat operator instructions"
+            ]
+          },
+          {
+            "name": "Scuba Diving at Kenting",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "3-5 hours",
+            "description": "Explore the vibrant coral reefs and marine life of Kenting National Park.",
+            "bestLocations": [
+              "Kenting Marine Park"
+            ],
+            "requirements": "Scuba certification, wetsuit",
+            "safety": [
+              "Dive with a certified instructor"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Warm jacket, hat, gloves, scarf",
+        "yearRound": "Rain jacket, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your hiking plans",
+        "Carry a first-aid kit",
+        "Be aware of weather conditions"
+      ]
+    }
+  }
+}

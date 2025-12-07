@@ -1,0 +1,365 @@
+{
+  "CountryData": {
+    "name": "Australia",
+    "region": "Oceania",
+    "description": "Australia, known as the ‘Land Down Under’, is a vast and diverse continent and island nation located in the Southern Hemisphere. It boasts a unique combination of ancient landscapes, unique wildlife, and vibrant indigenous cultures. From the iconic Great Barrier Reef to the rugged outback and stunning coastal regions, Australia offers an unparalleled range of experiences.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "26.1 million",
+        "icon": "Users",
+        "description": "Australia's population is concentrated along the eastern and southeastern coasts.",
+        "detail": "The majority of Australians live in urban areas, with Sydney and Melbourne being the largest cities."
+      },
+      {
+        "label": "Area",
+        "value": "7.692 million sq km",
+        "icon": "Globe",
+        "description": "Australia is the sixth-largest country in the world by land area.",
+        "detail": "It encompasses a wide range of climates and ecosystems, from tropical rainforests to arid deserts."
+      },
+      {
+        "label": "Capital",
+        "value": "Canberra",
+        "icon": "MapPin",
+        "description": "Canberra serves as the political and administrative center of Australia.",
+        "detail": "It was deliberately planned as a neutral capital city between Sydney and Melbourne."
+      },
+      {
+        "label": "Official Languages",
+        "value": "English",
+        "icon": "Navigation",
+        "description": "English is the de facto national language.",
+        "detail": "Many Aboriginal and Torres Strait Islander languages are also spoken."
+      },
+      {
+        "label": "Currency",
+        "value": "Australian Dollar (AUD)",
+        "icon": "Coffee",
+        "description": "The Australian Dollar is the official currency.",
+        "detail": "It's a freely floating currency."
+      }
+    ],
+    "climateData": {
+      "title": "Australia's Climate",
+      "description": "Australia experiences a wide range of climates due to its vast size and latitudinal extent. Generally, it’s a warm climate with significant seasonal variations, particularly in the south.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (December - February)",
+          "period": "Southern Hemisphere Summer",
+          "description": "Summer is hot and dry, with high temperatures and low rainfall. It's the peak tourist season in many areas.",
+          "keyFeatures": [
+            "High Temperatures",
+            "Dry Conditions",
+            "Increased Bushfire Risk"
+          ],
+          "activities": [
+            "Beach Holidays",
+            "Outdoor Adventures",
+            "Wildlife Spotting"
+          ]
+        },
+        {
+          "name": "Autumn (March - May)",
+          "period": "Southern Hemisphere Autumn",
+          "description": "Autumn brings pleasant temperatures and colorful foliage, particularly in southern regions. Rainfall increases slightly.",
+          "keyFeatures": [
+            "Mild Temperatures",
+            "Changing Foliage",
+            "Increased Rainfall"
+          ],
+          "activities": [
+            "Hiking",
+            "Cycling",
+            "Wine Tasting"
+          ]
+        },
+        {
+          "name": "Winter (June - August)",
+          "period": "Southern Hemisphere Winter",
+          "description": "Winter is cool and wet, with temperatures dropping significantly in the south. Snowfall occurs in the alpine regions.",
+          "keyFeatures": [
+            "Cool Temperatures",
+            "Rainfall",
+            "Snowfall in the Mountains"
+          ],
+          "activities": [
+            "Skiing",
+            "Snowboarding",
+            "Exploring Cities"
+          ]
+        },
+        {
+          "name": "Spring (September - November)",
+          "period": "Southern Hemisphere Spring",
+          "description": "Spring is a time of renewal, with flowers blooming and temperatures rising. It’s a beautiful time to visit Australia.",
+          "keyFeatures": [
+            "Mild Temperatures",
+            "Blooming Flowers",
+            "Increased Rainfall"
+          ],
+          "activities": [
+            "Outdoor Activities",
+            "Wildlife Watching",
+            "Gardening"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Great Barrier Reef",
+        "category": "Marine Ecosystem",
+        "description": "The Great Barrier Reef is the world’s largest coral reef system, composed of over 3,000 individual reefs and 900 islands stretching for over 2,300 kilometers. It’s a biodiversity hotspot and a UNESCO World Heritage Site.",
+        "detailedDescription": "This underwater paradise is home to an incredible array of marine life, including colorful coral, fish, turtles, and dolphins. It’s facing significant threats from climate change and coral bleaching.",
+        "bestTime": "May to October (Dry Season)",
+        "bestLocations": [
+          "Cairns",
+          "Port Douglas",
+          "Whitsunday Islands"
+        ],
+        "viewingTips": [
+          "Use a reef-safe sunscreen",
+          "Respect the marine environment",
+          "Consider a guided tour"
+        ],
+        "scientificData": {
+          "Depth": "Average 3m, Maximum 30m",
+          "Coral Coverage": "Approximately 347,000 sq km"
+        },
+        "icon": "Leaf"
+      },
+      {
+        "id": 2,
+        "name": "Uluru (Ayers Rock)",
+        "category": "Geological Formation",
+        "description": "Uluru is a massive sandstone monolith located in the heart of the Northern Territory. It’s a sacred site for the Aboriginal Anangu people and a geological marvel.",
+        "detailedDescription": "The rock changes color dramatically throughout the day, reflecting the sunlight. It’s a significant cultural and spiritual landmark, offering a unique insight into Aboriginal traditions.",
+        "bestTime": "April to October (Mild Temperatures)",
+        "bestLocations": [
+          "Yulara",
+          "Kata Tjuta (The Olgas)"
+        ],
+        "viewingTips": [
+          "Visit at sunrise or sunset for the best colors",
+          "Respect the cultural significance of the site",
+          "Take a guided tour with Anangu representatives"
+        ],
+        "scientificData": {
+          "Height": "348m",
+          "Age": "Approximately 550 million years"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 3,
+        "name": "Kakadu National Park",
+        "category": "National Park",
+        "description": "Kakadu National Park in the Northern Territory is a UNESCO World Heritage Site renowned for its ancient Aboriginal rock art, diverse ecosystems, and stunning landscapes.",
+        "detailedDescription": "The park encompasses wetlands, floodplains, sandstone escarpments, and monsoon forests. It’s home to a vast array of wildlife, including crocodiles, birds, and kangaroos.",
+        "bestTime": "May to September (Dry Season)",
+        "bestLocations": [
+          "Ubirr",
+          "Yellow Water Billabong"
+        ],
+        "viewingTips": [
+          "Take a boat tour on Yellow Water Billabong",
+          "Explore the Aboriginal rock art sites",
+          "Look out for wildlife"
+        ],
+        "scientificData": {
+          "Area": "19,800 sq km",
+          "Waterholes": "Over 1,000"
+        },
+        "icon": "Trees"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Australian Ecosystems",
+      "overview": "Australia’s ecosystems are incredibly diverse, ranging from tropical rainforests to arid deserts and temperate woodlands. Each ecosystem supports unique flora and fauna, many of which are found nowhere else on Earth.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 17% of Australia’s landmass is protected in national parks and reserves.",
+        "nationalParks": 150
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Mammals",
+          "icon": "Bird",
+          "description": "Australia is home to a unique range of mammals, including kangaroos, koalas, wombats, and echidnas.",
+          "statistics": [
+            {
+              "category": "Marsupials",
+              "count": "80",
+              "details": "Over 80% of Australian mammals are marsupials."
+            },
+            {
+              "category": "Endemic Species",
+              "count": "100+",
+              "details": "More than 100 mammal species are endemic to Australia."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Koala",
+              "status": "Vulnerable",
+              "significance": "An iconic symbol of Australia, known for its arboreal lifestyle."
+            },
+            {
+              "name": "Kangaroo",
+              "status": "Least Concern",
+              "significance": "A large marsupial adapted to hopping and grazing."
+            }
+          ],
+          "threats": [
+            "Habitat Loss",
+            "Climate Change",
+            "Introduced Species"
+          ],
+          "conservationEfforts": [
+            "Habitat Restoration",
+            "Species Protection Programs",
+            "Control of Invasive Species"
+          ]
+        },
+        {
+          "name": "Birds",
+          "icon": "Leaf",
+          "description": "Australia boasts an extraordinary diversity of bird species, including parrots, emus, and cockatoos.",
+          "statistics": [
+            {
+              "category": "Bird Species",
+              "count": "830+",
+              "details": "Over 830 bird species are found in Australia."
+            },
+            {
+              "category": "Flightless Birds",
+              "count": "2",
+              "details": "Two flightless bird species: the Emu and the Kiwi (introduced)."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Emu",
+              "status": "Least Concern",
+              "significance": "The largest native bird in Australia."
+            },
+            {
+              "name": "Kookaburra",
+              "status": "Least Concern",
+              "significance": "Known for its distinctive laughing call."
+            }
+          ],
+          "threats": [
+            "Habitat Loss",
+            "Climate Change",
+            "Predation by Introduced Species"
+          ],
+          "conservationEfforts": [
+            "Habitat Protection",
+            "Monitoring Programs",
+            "Control of Invasive Predators"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities in Australia",
+      "description": "Australia offers a vast array of outdoor activities for all interests and skill levels, from hiking and camping to water sports and wildlife watching.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore Australia’s stunning landscapes on foot.",
+          "activities": [
+            {
+              "name": "The Overland Track",
+              "difficulty": "Moderate",
+              "season": "November - May",
+              "duration": "6 days",
+              "description": "A challenging multi-day hike through Tasmania’s wilderness.",
+              "bestLocations": [
+                "Tasmania"
+              ],
+              "requirements": "Hiking boots, waterproof clothing, navigation skills",
+              "safety": [
+                "Carry a first-aid kit",
+                "Inform someone of your plans",
+                "Be aware of weather conditions"
+              ]
+            },
+            {
+              "name": "Ben Lomond Track",
+              "difficulty": "Hard",
+              "season": "November - February",
+              "duration": "8-10 hours",
+              "description": "A strenuous hike to the summit of Ben Lomond in Tasmania, offering panoramic views.",
+              "bestLocations": [
+                "Tasmania"
+              ],
+              "requirements": "Sturdy hiking boots, trekking poles, appropriate clothing",
+              "safety": [
+                "Check weather conditions before starting",
+                "Carry sufficient water and food"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy Australia’s beautiful coastline with a variety of water sports.",
+          "activities": [
+            {
+              "name": "Surfing at Bondi Beach",
+              "difficulty": "Moderate",
+              "season": "October - May",
+              "duration": "Variable",
+              "description": "Learn to surf or improve your skills at Bondi Beach, Sydney’s iconic surfing spot.",
+              "bestLocations": [
+                "Bondi Beach, Sydney"
+              ],
+              "requirements": "Surfboard, wetsuit (depending on the season)",
+              "safety": [
+                "Swim between the flags",
+                "Be aware of rips"
+              ]
+            },
+            {
+              "name": "Snorkeling at the Great Barrier Reef",
+              "difficulty": "Easy",
+              "season": "May - October",
+              "duration": "Half-day to full-day tour",
+              "description": "Explore the vibrant coral reefs and marine life of the Great Barrier Reef.",
+              "bestLocations": [
+                "Cairns, Port Douglas"
+              ],
+              "requirements": "Swimsuit, sunscreen, snorkeling gear",
+              "safety": [
+                "Follow the guide’s instructions",
+                "Respect the reef environment"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+          "winter": "Warm layers, waterproof jacket, scarf, gloves",
+          "yearRound": "Comfortable walking shoes, sunscreen, insect repellent"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, first-aid kit",
+          "hiking": "Hiking boots, trekking poles, map, compass",
+          "photography": "Camera, extra batteries, memory cards"
+        },
+        "safety": [
+          "Carry a personal locator beacon (PLB)",
+          "Inform someone of your itinerary",
+          "Be aware of wildlife"
+        ]
+      }
+    }
+  }
+}

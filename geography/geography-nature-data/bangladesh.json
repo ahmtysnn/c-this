@@ -1,0 +1,339 @@
+{
+  "name": "Bangladesh",
+  "region": "South Asia",
+  "description": "Bangladesh, officially the People's Republic of Bangladesh, is a country in South Asia. It’s known as the 'Land of Bengal' and is characterized by its fertile delta region formed by the Ganges, Brahmaputra, and Meghna rivers.  It’s a densely populated country with a rich cultural heritage, facing significant challenges related to climate change and riverine flooding.  The country boasts a diverse landscape, from mangrove forests to rolling hills, and is a vital hub for biodiversity.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "170 million",
+      "icon": "Users",
+      "description": "Bangladesh is one of the most densely populated countries in the world.",
+      "detail": "Over half the population lives in rural areas, primarily engaged in agriculture."
+    },
+    {
+      "label": "Area",
+      "value": "147,570 sq km",
+      "icon": "MapPin",
+      "description": "It's the world's eighth-largest country by area.",
+      "detail": "Approximately 60% of the country is less than 10 meters above sea level."
+    },
+    {
+      "label": "Capital",
+      "value": "Dhaka",
+      "icon": "MapPin",
+      "description": "Dhaka is the largest city and the political, economic, and cultural center.",
+      "detail": "It's a rapidly growing megacity with significant infrastructure challenges."
+    },
+    {
+      "label": "Currency",
+      "value": "Bangladeshi Taka (BDT)",
+      "icon": "Coffee",
+      "description": "The official currency of Bangladesh.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD is approximately 108 BDT."
+    },
+    {
+      "label": "Languages",
+      "value": "Bengali",
+      "icon": "Eye",
+      "description": "Bengali is the official language and is spoken by the vast majority of the population.",
+      "detail": "English is also widely used in business and education."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Bangladesh",
+    "description": "Bangladesh experiences a tropical monsoon climate, characterized by distinct wet and dry seasons. The country is highly vulnerable to climate change impacts, including rising sea levels and increased flooding.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (March - June)",
+        "period": "March to June",
+        "description": "The summer months are hot and humid, with temperatures often exceeding 35°C (95°F). Rainfall is generally light during this period.",
+        "keyFeatures": [
+          "High humidity",
+          "Scorching heat",
+          "Occasional thunderstorms"
+        ],
+        "activities": [
+          "Relaxation",
+          "Visiting cultural sites",
+          "Water-based activities (limited)"
+        ]
+      },
+      {
+        "name": "Monsoon (July - October)",
+        "period": "July to October",
+        "description": "The monsoon season brings heavy rainfall and flooding across the country.  The Bay of Bengal experiences strong cyclones during this time.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Flooding",
+          "Cyclones"
+        ],
+        "activities": [
+          "River cruises",
+          "Exploring wetlands",
+          "Photography (stormy weather)"
+        ]
+      },
+      {
+        "name": "Autumn (November - February)",
+        "period": "November to February",
+        "description": "Autumn brings pleasant weather with lower humidity and temperatures.  It's a popular time for outdoor activities.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Lower humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Spring (March - April)",
+        "period": "March to April",
+        "description": "Spring is characterized by blooming flowers and pleasant weather. It's a beautiful time to visit Bangladesh.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Pleasant weather",
+          "Increased bird activity"
+        ],
+        "activities": [
+          "Photography",
+          "Nature walks",
+          "Cultural tours"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Sundarbans Mangrove Forest",
+      "category": "Forest",
+      "description": "The Sundarbans is the world’s largest mangrove forest, shared between Bangladesh and India. It’s a UNESCO World Heritage Site and home to the iconic Bengal tiger, along with numerous other species of flora and fauna.",
+      "detailedDescription": "This unique ecosystem is a vital carbon sink and provides crucial protection against cyclones and erosion. The intricate network of waterways and mudflats creates a mesmerizing landscape.",
+      "bestTime": "November to February",
+      "bestLocations": [
+        "Piutola Island",
+        "Sudhury Island",
+        "Trout Island"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Take a boat trip",
+        "Respect the wildlife"
+      ],
+      "scientificData": {
+        "Area": "10,000 sq km",
+        "Biodiversity": "Over 200 fish species, 36 reptile species, 600 bird species, and 26 species of mammals"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Saint Martin's Island",
+      "category": "Island",
+      "description": "Saint Martin’s Island, also known as Haridor Mohekh, is the only coral island in Bangladesh. It’s a popular tourist destination offering pristine beaches and diverse marine life.",
+      "detailedDescription": "The island is relatively small and unspoiled, providing a tranquil escape from the bustling cities. It’s a haven for birdwatchers and offers opportunities for snorkeling and diving.",
+      "bestTime": "November to March",
+      "bestLocations": [
+        "Beachfront resorts",
+        "Coral reefs"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Respect the marine environment",
+        "Book accommodation in advance"
+      ],
+      "scientificData": {
+        "Area": "0.8 sq km",
+        "CoralCoverage": "Approximately 40%"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Bangladesh",
+    "overview": "Bangladesh’s diverse ecosystems include mangrove forests, wetlands, rivers, and grasslands, each supporting a unique array of biodiversity. These ecosystems are vital for the country’s economy, livelihoods, and climate resilience.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mangrove Ecosystems",
+        "icon": "Trees",
+        "description": "The Sundarbans and other mangrove forests provide critical habitat for numerous species, including the Bengal tiger and various bird species.",
+        "statistics": [
+          {
+            "category": "Species Count",
+            "count": "Over 300",
+            "details": "Various fish, reptile, and bird species"
+          },
+          {
+            "category": "Carbon Storage",
+            "count": "100 million tons",
+            "details": "Mangroves play a significant role in carbon sequestration"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Bengal Tiger",
+            "status": "Endangered",
+            "significance": "Iconic species and a key component of the Sundarbans ecosystem"
+          },
+          {
+            "name": "Irrawaddy Dolphin",
+            "status": "Endangered",
+            "significance": "Rare freshwater dolphin found in the rivers of Bangladesh"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Community-based conservation",
+          "Reforestation programs"
+        ]
+      },
+      {
+        "name": "Riverine Ecosystems",
+        "icon": "Waves",
+        "description": "Bangladesh’s extensive river system supports a rich diversity of aquatic life and provides livelihoods for millions of people.",
+        "statistics": [
+          {
+            "category": "River Length",
+            "count": "75,000 km",
+            "details": "Bangladesh has more than 50 rivers"
+          },
+          {
+            "category": "Fisheries",
+            "count": "10 million tons",
+            "details": "Rivers are a major source of fish for the country"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Rohu",
+            "status": "Near Threatened",
+            "significance": "A commercially important fish species"
+          },
+          {
+            "name": "Pernem",
+            "status": "Vulnerable",
+            "significance": "A popular freshwater fish"
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Overfishing",
+          "Riverbank erosion"
+        ],
+        "conservationEfforts": [
+          "Fisheries management",
+          "Riverbank stabilization",
+          "Pollution control"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Bangladesh",
+    "description": "Bangladesh offers a wide range of outdoor activities, catering to various interests and skill levels. From exploring the Sundarbans to trekking in the hills, there’s something for everyone.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the diverse landscapes of Bangladesh on foot.",
+        "activities": [
+          {
+            "name": "Sangu Hills Trek",
+            "difficulty": "Moderate",
+            "season": "Autumn, Winter",
+            "duration": "2-3 days",
+            "description": "A challenging trek through the Sangu Hills, offering stunning views of the surrounding countryside.",
+            "bestLocations": [
+              "Sangu Hills"
+            ],
+            "requirements": "Sturdy hiking boots, backpack, water bottle",
+            "safety": [
+              "Inform someone of your route",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Sonagazi Hill Trek",
+            "difficulty": "Easy",
+            "season": "Autumn, Winter",
+            "duration": "1 day",
+            "description": "A relatively easy trek to the top of Sonagazi Hill, offering panoramic views of the Meghna River.",
+            "bestLocations": [
+              "Sonagazi Hill"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Wear appropriate footwear"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water-based activities in Bangladesh’s rivers and coastal areas.",
+        "activities": [
+          {
+            "name": "River Cruises",
+            "difficulty": "Easy",
+            "season": "All year",
+            "duration": "Variable",
+            "description": "Relaxing cruises along the rivers of Bangladesh, offering scenic views and opportunities for wildlife spotting.",
+            "bestLocations": [
+              "Padma River",
+              "Meghna River"
+            ],
+            "requirements": "Sunscreen, hat, sunglasses",
+            "safety": [
+              "Follow the instructions of the crew"
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "Winter, Spring",
+            "duration": "Variable",
+            "description": "Explore the waterways of Bangladesh at your own pace.",
+            "bestLocations": [
+              "Sundarbans waterways"
+            ],
+            "requirements": "Kayak, life jacket, helmet",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light cotton clothing, swimwear, hat, sunglasses",
+        "winter": "Warm sweaters, jackets, trousers, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Insect repellent, sunscreen, flashlight, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Be aware of local customs"
+      ]
+    }
+  }
+}

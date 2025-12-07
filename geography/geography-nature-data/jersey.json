@@ -1,0 +1,344 @@
+{
+  "name": "Jersey",
+  "region": "British Isles",
+  "description": "Jersey, a self-governing Crown Dependency located off the coast of Normandy, France, is a picturesque island renowned for its stunning coastline, dramatic granite cliffs, lush green pastures, and rich history.  It boasts a unique blend of British and French influences, reflected in its architecture, cuisine, and culture.  The island’s relatively small size belies its diverse landscape, offering a wealth of outdoor activities and a tranquil atmosphere.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "56,000",
+      "icon": "Users",
+      "description": "The population of Jersey is comprised of a diverse community with a strong sense of local identity.",
+      "detail": "The majority of residents are of British descent, with a significant French-Jèrriais speaking minority."
+    },
+    {
+      "label": "Area",
+      "value": "116 square miles (301 km²)",
+      "icon": "MapPin",
+      "description": "Jersey is a relatively small island, making it easily navigable and offering a sense of intimacy.",
+      "detail": "It’s larger than many other British Channel Islands."
+    },
+    {
+      "label": "Currency",
+      "value": "Jersey Pound (JFM)",
+      "icon": "Coffee",
+      "description": "The Jersey Pound is pegged to the British Pound at a 1:1 ratio.",
+      "detail": "While the British Pound is widely accepted, the Jersey Pound is used for local transactions."
+    },
+    {
+      "label": "Language",
+      "value": "English, Jèrriais",
+      "icon": "Globe",
+      "description": "English is the official language, but Jèrriais, a Norman dialect, is still spoken by a portion of the population.",
+      "detail": "Jèrriais is a unique and endangered language."
+    },
+    {
+      "label": "Government",
+      "value": "Crown Dependency",
+      "icon": "Navigation",
+      "description": "Jersey has a unique political status, governed by a Royal Appointment and a States Assembly.",
+      "detail": "It is not part of the United Kingdom but is under the protection of the British Crown."
+    }
+  ],
+  "climateData": {
+    "title": "Jersey's Temperate Maritime Climate",
+    "description": "Jersey enjoys a mild, temperate maritime climate influenced by the Atlantic Ocean. Summers are generally warm and sunny, while winters are cool and damp, with frequent showers.  The Gulf Stream moderates temperatures, preventing extremes.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming and the return of wildflowers to the island's meadows and coastal paths.",
+        "keyFeatures": [
+          "Blooming wildflowers",
+          "Increased daylight hours",
+          "Bird migration"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Coastal walks"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is the warmest and driest time of year, with long sunny days and pleasant temperatures.",
+        "keyFeatures": [
+          "Warmest temperatures",
+          "Longest daylight hours",
+          "Festivals and events"
+        ],
+        "activities": [
+          "Swimming",
+          "Sailing",
+          "Beach activities",
+          "Outdoor dining"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures, increased rainfall, and stunning autumn foliage in the island's forests.",
+        "keyFeatures": [
+          "Autumn foliage",
+          "Reduced rainfall",
+          "Fewer crowds"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Birdwatching",
+          "Coastal walks"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is the coolest and wettest time of year, with frequent showers and occasional frost.",
+        "keyFeatures": [
+          "Coolest temperatures",
+          "Frequent showers",
+          "Christmas festivities"
+        ],
+        "activities": [
+          "Indoor activities",
+          "Visiting museums and galleries",
+          "Cozy evenings"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "The Grells",
+      "category": "Coastal Scenery",
+      "description": "The Grells are a series of dramatic, jagged granite cliffs along the north-east coast of Jersey. These imposing formations offer breathtaking views of the English Channel and are a testament to the island's geological history.",
+      "detailedDescription": "Formed by ancient volcanic activity and erosion, the Grells are a haven for seabirds and provide a challenging but rewarding hiking experience. The sheer scale and rugged beauty of the cliffs are truly awe-inspiring.",
+      "bestTime": "Spring & Autumn",
+      "bestLocations": [
+        "Grells Coastal Path",
+        "St. Mary's"
+      ],
+      "viewingTips": [
+        "Wear sturdy footwear",
+        "Check tide times",
+        "Bring waterproof clothing"
+      ],
+      "scientificData": {
+        "Height": "100m",
+        "Age": "1M years",
+        "RockType": "Granite"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Corblets",
+      "category": "Coastal Scenery",
+      "description": "Corblets is a unique and picturesque cove on the west coast of Jersey, known for its sheltered beach and dramatic rock formations.",
+      "detailedDescription": "The name 'Corblets' comes from the Cornish word for 'small coves'. The beach is a mix of sand and pebbles, and the surrounding cliffs provide a stunning backdrop. It's a popular spot for swimming, sunbathing, and exploring.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Corblets Beach"
+      ],
+      "viewingTips": [
+        "Bring a towel and sunscreen",
+        "Be aware of strong currents"
+      ],
+      "scientificData": {
+        "BeachType": "Sand and Pebble",
+        "WaterDepth": "Shallow"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Manoir Farm",
+      "category": "Landscape",
+      "description": "Manoir Farm is a quintessential Jersey landscape, showcasing the island's traditional agricultural heritage with its rolling green pastures, stone walls, and charming farm buildings.",
+      "detailedDescription": "The farm is a working dairy farm, producing high-quality Jersey milk and cheese. It’s a beautiful example of rural Jersey life and offers a glimpse into the island’s agricultural past. The surrounding countryside is perfect for walking and cycling.",
+      "bestTime": "Spring & Summer",
+      "bestLocations": [
+        "Manoir Farm Road"
+      ],
+      "viewingTips": [
+        "Respect private property",
+        "Enjoy the peaceful atmosphere"
+      ],
+      "scientificData": {
+        "SoilType": "Loam",
+        "LandCover": "Pasture"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Coastal Ecology",
+    "icon": "Bird",
+    "description": "Jersey’s coastline is a vital habitat for a diverse range of marine and avian species, shaped by the island’s unique geology and maritime environment.",
+    "statistics": [
+      {
+        "category": "Seabird Colonies",
+        "count": "150,000",
+        "details": "Jersey is home to significant colonies of seabirds, including gulls, terns, and puffins."
+      },
+      {
+        "category": "Marine Mammals",
+        "count": "50",
+        "details": "Dolphins and porpoises are occasionally sighted off the coast."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Atlantic Puffin",
+        "status": "Near Threatened",
+        "significance": "A key indicator species for the health of the marine environment."
+      },
+      {
+        "name": "Grey Seal",
+        "status": "Vulnerable",
+        "significance": "A protected species that breeds on the island’s beaches."
+      }
+    ],
+    "threats": [
+      "Coastal development",
+      "Pollution",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Coastal habitat restoration",
+      "Marine protected areas",
+      "Public awareness campaigns"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Jersey's Coastal Ecosystems",
+    "overview": "Jersey’s coastal ecosystems are characterized by a mosaic of habitats, including rocky shores, sandy beaches, salt marshes, and seagrass beds. These diverse environments support a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coastal Vegetation",
+        "icon": "Leaf",
+        "description": "The coastal vegetation includes sea thrift, thrift, and various grasses and herbs adapted to the harsh conditions of the shoreline.",
+        "statistics": [
+          {
+            "category": "Sea Thrift",
+            "count": "100,000",
+            "details": "A dominant plant species on the island’s cliffs."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Coastal erosion",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Coastal habitat restoration",
+          "Control of invasive species"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Jersey",
+    "description": "Jersey offers a wide range of outdoor activities for all interests and abilities, from challenging hikes to relaxing beach days.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Jersey’s stunning coastline and countryside on foot.",
+        "activities": [
+          {
+            "name": "Grells Coastal Path Hike",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "3-4 hours",
+            "description": "A challenging hike along the dramatic Grells cliffs, offering spectacular views.",
+            "bestLocations": [
+              "Grells"
+            ],
+            "requirements": "Sturdy footwear, waterproof clothing",
+            "safety": [
+              "Check tide times",
+              "Be aware of steep drops"
+            ]
+          },
+          {
+            "name": "Pomme de Terre Trail",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "2-3 hours",
+            "description": "A scenic trail through the Pomme de Terre valley, offering beautiful views of the surrounding countryside.",
+            "bestLocations": [
+              "Pomme de Terre"
+            ],
+            "requirements": "Comfortable walking shoes",
+            "safety": [
+              "Watch out for livestock"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports along Jersey’s beautiful coastline.",
+        "activities": [
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "2-3 hours",
+            "description": "Explore the coastline and discover hidden coves by kayak.",
+            "bestLocations": [
+              "Corblets",
+              "St. Ouen's Bay"
+            ],
+            "requirements": "Life jacket, waterproof clothing",
+            "safety": [
+              "Check weather conditions",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Sailing",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Take advantage of Jersey’s sheltered waters and enjoy a day of sailing.",
+            "bestLocations": [
+              "St. Helier Harbour",
+              "Grouville Bay"
+            ],
+            "requirements": "Sailing license (if required)",
+            "safety": [
+              "Check weather conditions",
+              "Follow sailing rules"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket and trousers, hat and gloves",
+        "yearRound": "Comfortable walking shoes, waterproof footwear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, walking poles",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "First-aid kit",
+        "Emergency contact information",
+        "Mobile phone"
+      ]
+    }
+  }
+}

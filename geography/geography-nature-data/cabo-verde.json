@@ -1,0 +1,347 @@
+{
+  "name": "Cabo Verde",
+  "region": "Africa",
+  "description": "Cabo Verde, also known as the Cape Verde Islands, is a volcanic archipelago nation located off the coast of West Africa, approximately 570 kilometers (350 miles) west of Capex Verde is a nation of 10 islands, offering a unique blend of African and Portuguese cultures, stunning landscapes, and a rich maritime history. The islands boast diverse ecosystems, from arid deserts to lush valleys, and are renowned for their vibrant music, delicious cuisine, and warm hospitality.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Praia",
+      "icon": "MapPin",
+      "description": "The bustling capital city, a vibrant port and cultural hub.",
+      "detail": "Praia is the economic and administrative center of Cabo Verde, offering a mix of colonial architecture, modern amenities, and lively markets."
+    },
+    {
+      "label": "Population",
+      "value": "586,000",
+      "icon": "Users",
+      "description": "A relatively small and welcoming population.",
+      "detail": "The population is primarily of mixed African and Portuguese descent, with a strong Creole influence."
+    },
+    {
+      "label": "Official Language",
+      "value": "Portuguese",
+      "icon": "Globe",
+      "description": "The official language, reflecting the country's colonial past.",
+      "detail": "Creole (Cape Verdean Creole) is widely spoken and understood throughout the islands."
+    },
+    {
+      "label": "Currency",
+      "value": "Cape Verdean Escudo (CVE)",
+      "icon": "Coffee",
+      "description": "The local currency, pegged to the Euro.",
+      "detail": "The Escudo is gradually being replaced by the West African CFA franc."
+    },
+    {
+      "label": "Independence",
+      "value": "1975",
+      "icon": "Calendar",
+      "description": "Gained independence from Portugal in 1975.",
+      "detail": "Following independence, Cabo Verde faced economic challenges but has since stabilized and developed a thriving tourism sector."
+    },
+    {
+      "label": "Area",
+      "value": "4,033 sq km (1,557 sq mi)",
+      "icon": "MapPin",
+      "description": "A relatively small island nation.",
+      "detail": "The islands are volcanic in origin, with varying elevations and landscapes."
+    }
+  ],
+  "climateData": {
+    "title": "Climate",
+    "description": "Cabo Verde enjoys a subtropical climate with warm temperatures year-round. The islands experience a distinct dry season (November to April) and a wet season (May to October). The trade winds provide a refreshing breeze, making it a pleasant destination for outdoor activities.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "The hottest and driest period, with clear skies and abundant sunshine.",
+        "keyFeatures": [
+          "High temperatures",
+          "Low humidity",
+          "Sunny days"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Water sports",
+          "Hiking"
+        ]
+      },
+      {
+        "name": "Autumn (September - October)",
+        "period": "September to October",
+        "description": "Temperatures begin to cool slightly, and rainfall increases.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Increased rainfall",
+          "Wildflowers"
+        ],
+        "activities": [
+          "Whale watching",
+          "Birdwatching",
+          "Coastal walks"
+        ]
+      },
+      {
+        "name": "Winter (November - March)",
+        "period": "November to March",
+        "description": "The coolest period, with occasional showers and stronger winds.",
+        "keyFeatures": [
+          "Moderate temperatures",
+          "Occasional showers",
+          "Stronger winds"
+        ],
+        "activities": [
+          "Surfing",
+          "Diving",
+          "Exploring volcanic landscapes"
+        ]
+      },
+      {
+        "name": "Spring (April - May)",
+        "period": "April to May",
+        "description": "Temperatures gradually rise, and the landscape comes alive with greenery.",
+        "keyFeatures": [
+          "Increasing temperatures",
+          "Green landscapes",
+          "Bird migration"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Wildlife spotting"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Monte Verde",
+      "category": "Volcano",
+      "description": "Monte Verde is the highest point in Cabo Verde, a dormant volcano offering breathtaking panoramic views of the surrounding islands. Its unique ecosystem supports a variety of endemic plant and animal species.",
+      "detailedDescription": "The volcano's slopes are covered in a diverse range of vegetation, including endemic cacti and shrubs. Hiking to the summit is a challenging but rewarding experience.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Santo Antão"
+      ],
+      "viewingTips": [
+        "Start early to avoid the midday heat",
+        "Wear sturdy hiking boots",
+        "Bring plenty of water"
+      ],
+      "scientificData": {
+        "Height": "1,890m",
+        "Age": "Approximately 1 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Sal National Park",
+      "category": "Coastal Ecosystem",
+      "description": "Sal National Park protects a significant portion of the island of Sal, showcasing its diverse coastal ecosystems, including pristine beaches, dunes, and wetlands. It's a haven for birdlife and a popular destination for water sports.",
+      "detailedDescription": "The park encompasses a variety of habitats, from sandy beaches to rocky cliffs and salt flats. It's a crucial area for the conservation of several endemic bird species.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Sal"
+      ],
+      "viewingTips": [
+        "Respect the natural environment",
+        "Follow park regulations",
+        "Bring binoculars for birdwatching"
+      ],
+      "scientificData": {
+        "Area": "18 sq km",
+        "Biodiversity": "Over 100 bird species"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 3,
+      "name": "Lagoa do Fogo (Lake of Fire)",
+      "category": "Volcanic Crater Lake",
+      "description": "Lagoa do Fogo is a stunning volcanic crater lake nestled in the heart of Santo Antão, offering dramatic scenery and a unique ecosystem. Its vibrant blue waters and surrounding cliffs create a truly unforgettable landscape.",
+      "detailedDescription": "The lake is fed by rainwater and streams, creating a rich and diverse aquatic environment. The surrounding area is characterized by lush vegetation and steep cliffs.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Santo Antão"
+      ],
+      "viewingTips": [
+        "Take a 4x4 vehicle to reach the lake",
+        "Wear appropriate footwear for hiking",
+        "Bring a camera to capture the stunning views"
+      ],
+      "scientificData": {
+        "Depth": "90m",
+        "Water Temperature": "14-18°C"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Endemic Birds",
+    "icon": "Bird",
+    "description": "Cabo Verde is a global hotspot for endemic bird species, many of which are found nowhere else on Earth. These birds have adapted to the islands' unique environments, showcasing remarkable evolutionary resilience.",
+    "statistics": [
+      {
+        "category": "Number of Endemic Species",
+        "count": "Over 20",
+        "details": "Approximately 20% of Cabo Verde's bird species are endemic."
+      },
+      {
+        "category": "Conservation Status",
+        "count": "Several species are threatened",
+        "details": "Due to habitat loss and invasive species, several endemic bird species are classified as threatened or endangered."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Cape Verde Warbler",
+        "status": "Endangered",
+        "significance": "A critically endangered warbler found only on the islands."
+      },
+      {
+        "name": "Cabo Verde Green Parrot",
+        "status": "Vulnerable",
+        "significance": "A rare parrot species endemic to the islands."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Invasive species",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Species monitoring",
+      "Habitat restoration"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Island Ecosystems",
+    "overview": "Cabo Verde's ecosystems are shaped by its volcanic origins, subtropical climate, and isolation. The islands support a diverse range of habitats, including volcanic landscapes, coastal wetlands, and arid shrublands.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Endemic Flora",
+        "icon": "Leaf",
+        "description": "Cabo Verde boasts a unique flora, with many plant species found nowhere else on Earth, adapted to the islands' harsh conditions.",
+        "statistics": [
+          {
+            "category": "Number of Endemic Plants",
+            "count": "Approximately 150",
+            "details": "Many of these plants are drought-resistant and adapted to saline soils."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Habitat destruction",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Seed banking",
+          "Protected areas"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities",
+    "description": "Cabo Verde offers a wide range of activities for visitors, from water sports and hiking to cultural experiences and wildlife viewing.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the islands' diverse landscapes on foot, from volcanic peaks to coastal trails.",
+        "activities": [
+          {
+            "name": "Monte Verde Hike",
+            "difficulty": "Hard",
+            "season": "Year-round",
+            "duration": "6-8 hours",
+            "description": "A challenging hike to the summit of Monte Verde, offering panoramic views.",
+            "bestLocations": [
+              "Santo Antão"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Santo Antão Coastal Trails",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore the stunning coastal trails of Santo Antão, offering breathtaking views of the Atlantic Ocean.",
+            "bestLocations": [
+              "Santo Antão"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Be aware of slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Cabo Verde's crystal-clear waters.",
+        "activities": [
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate",
+            "season": "October - June",
+            "duration": "Variable",
+            "description": "Cabo Verde is a popular surfing destination, with consistent waves along the islands' coasts.",
+            "bestLocations": [
+              "Sal",
+              "Boa Vista"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on the season)",
+            "safety": [
+              "Be aware of strong currents"
+            ]
+          },
+          {
+            "name": "Diving",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore the underwater world of Cabo Verde, with vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "Sal",
+              "Boa Vista"
+            ],
+            "requirements": "Snorkeling gear or scuba certification",
+            "safety": [
+              "Follow dive operator guidelines"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, waterproof jacket, sweater",
+        "yearRound": "Comfortable walking shoes, sunglasses"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink plenty of water",
+        "Wear sunscreen",
+        "Be aware of the sun's intensity",
+        "Respect local customs"
+      ]
+    }
+  }
+}

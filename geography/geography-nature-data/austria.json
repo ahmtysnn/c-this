@@ -1,0 +1,350 @@
+{
+  "name": "Austria",
+  "region": "Europe",
+  "description": "Austria, nestled in the heart of Europe, is a land of dramatic alpine landscapes, charming medieval towns, and a rich cultural heritage. Known for its stunning scenery, including the towering Alps, picturesque lakes, and fertile valleys, Austria offers a diverse range of experiences for visitors. From world-class music and art to delicious cuisine and traditional festivals, Austria is a captivating destination.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Vienna",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, a UNESCO World Heritage site.",
+      "detail": "Vienna is renowned for its imperial palaces, classical music, and thriving arts scene."
+    },
+    {
+      "label": "Population",
+      "value": "9 million",
+      "icon": "Users",
+      "description": "A densely populated country with a strong sense of national identity.",
+      "detail": "The population is concentrated in urban areas, particularly around Vienna and Graz."
+    },
+    {
+      "label": "Area",
+      "value": "83,879 km²",
+      "icon": "Globe",
+      "description": "Dominated by the Eastern Alps.",
+      "detail": "Approximately 32% of the country is covered by forests."
+    },
+    {
+      "label": "Official Language",
+      "value": "German",
+      "icon": "ArrowRight",
+      "description": "The primary language spoken throughout Austria.",
+      "detail": "Austrian German has distinct dialects."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Austria adopted the Euro in 2002.",
+      "detail": "The average annual income is around €35,000."
+    }
+  ],
+  "climateData": {
+    "title": "Alpine Climate",
+    "description": "Austria experiences a temperate climate with significant seasonal variations, largely influenced by its mountainous terrain. Summers are mild and pleasant, while winters are cold and snowy, particularly in the Alps.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March - May",
+        "description": "A time of renewal and blossoming, with wildflowers carpeting the meadows and forests.",
+        "keyFeatures": [
+          "Melting snow",
+          "Blooming flowers",
+          "Mild temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June - August",
+        "description": "Warm and sunny days, ideal for outdoor activities and exploring the countryside.",
+        "keyFeatures": [
+          "Long daylight hours",
+          "Warm temperatures",
+          "Festivals"
+        ],
+        "activities": [
+          "Hiking",
+          "Swimming",
+          "Mountain Biking",
+          "Music Festivals"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September - November",
+        "description": "Spectacular fall foliage transforms the landscape into a vibrant tapestry of colors.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Cooler temperatures",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Wine Tasting"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December - February",
+        "description": "Cold and snowy conditions dominate, creating a winter wonderland perfect for skiing and snowboarding.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Christmas Markets"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice Skating",
+          "Visiting Christmas Markets"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Grossglockner",
+      "category": "Mountain",
+      "description": "The highest mountain in Austria, offering breathtaking views and challenging hiking trails. It's a symbol of the Austrian Alps and a testament to the power of nature.",
+      "detailedDescription": "Grossglockner is a solitary, jagged peak, formed by glacial activity. Its summit is perpetually covered in snow and ice, making it a popular destination for experienced mountaineers and hikers. The surrounding landscape is characterized by rugged terrain, alpine meadows, and glacial lakes.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "National Park Hohe Tauern",
+        "Grossglockner High Alpine Road"
+      ],
+      "viewingTips": [
+        "Check weather conditions before heading out.",
+        "Wear appropriate hiking gear.",
+        "Respect the environment."
+      ],
+      "scientificData": {
+        "Height": "3,798 m",
+        "Age": "Approximately 2.8 million years",
+        "Glacier Coverage": "Significant, with ongoing glacial retreat"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Salzkammergut",
+      "category": "Lake District",
+      "description": "A stunning region of lakes, mountains, and charming villages, known for its picturesque beauty and rich history. It's a popular destination for tourists and locals alike.",
+      "detailedDescription": "The Salzkammergut is a geological marvel, formed by glacial erosion. Its numerous lakes, including Wolfgangsee and Hallstätter See, are renowned for their crystal-clear waters and stunning scenery. The region is also steeped in history, having been a major center for salt production for centuries.",
+      "bestTime": "June - August",
+      "bestLocations": [
+        "Hallstatt",
+        "St. Wolfgang",
+        "Bad Ischl"
+      ],
+      "viewingTips": [
+        "Take a boat trip on one of the lakes.",
+        "Explore the charming villages.",
+        "Hike in the surrounding mountains."
+      ],
+      "scientificData": {
+        "Lake Area": "Approximately 700 km²",
+        "Depth (average)": "30 m",
+        "Water Source": "Glacial meltwater"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Alpine Ecosystem",
+    "overview": "Austria's alpine ecosystem is a unique and fragile environment, characterized by high altitudes, harsh weather conditions, and specialized plant and animal life. It plays a crucial role in the country's biodiversity and provides valuable ecosystem services.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 7
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "The alpine flora is adapted to the harsh conditions, with resilient plants like edelweiss and gentians.",
+        "statistics": [
+          {
+            "category": "Alpine Flowers",
+            "count": "Over 600 species",
+            "details": "Many are endemic to the Alps."
+          },
+          {
+            "category": "Coniferous Trees",
+            "count": "Dominant in higher elevations",
+            "details": "Spruce and fir are common species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Edelweiss",
+            "status": "Vulnerable",
+            "significance": "A symbol of the Alps and a rare alpine flower."
+          },
+          {
+            "name": "Gentian",
+            "status": "Least Concern",
+            "significance": "Known for its vibrant blue flowers."
+          }
+        ],
+        "threats": [
+          "Climate change",
+          "Overgrazing",
+          "Tourism"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Sustainable tourism practices",
+          "Reforestation"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "The alpine fauna includes iconic species like ibex, chamois, and golden eagles.",
+        "statistics": [
+          {
+            "category": "Mammals",
+            "count": "Around 30 species",
+            "details": "Including ibex, chamois, and marmots."
+          },
+          {
+            "category": "Birds",
+            "count": "Over 200 species",
+            "details": "Including golden eagles and ptarmigans."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Ibex",
+            "status": "Near Threatened",
+            "significance": "A majestic mountain goat adapted to high altitudes."
+          },
+          {
+            "name": "Golden Eagle",
+            "status": "Least Concern",
+            "significance": "A powerful predator of the alpine skies."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Anti-poaching patrols",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures in Austria",
+    "description": "Austria offers a wide range of outdoor activities for all skill levels, from challenging mountain climbs to relaxing lakeside strolls.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Austria's stunning mountain trails and enjoy breathtaking views.",
+        "activities": [
+          {
+            "name": "Alpine Hiking",
+            "difficulty": "Moderate to Hard",
+            "season": "June - September",
+            "duration": "3-8 hours",
+            "description": "Hike through alpine meadows and forests, enjoying panoramic views.",
+            "bestLocations": [
+              "Grossglockner",
+              "Hohe Tauern National Park"
+            ],
+            "requirements": "Hiking boots, backpack, water, snacks, map, compass",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your route",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Valley Hiking",
+            "difficulty": "Easy",
+            "season": "May - October",
+            "duration": "1-4 hours",
+            "description": "Enjoy leisurely walks through picturesque valleys and along rivers.",
+            "bestLocations": [
+              "Salzkammergut",
+              "Wachau Valley"
+            ],
+            "requirements": "Comfortable shoes, water, sunscreen",
+            "safety": [
+              "Watch out for wildlife",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities on Austria's many lakes and rivers.",
+        "activities": [
+          {
+            "name": "Kayaking",
+            "difficulty": "Easy to Moderate",
+            "season": "June - September",
+            "duration": "2-4 hours",
+            "description": "Paddle through crystal-clear lakes and explore hidden coves.",
+            "bestLocations": [
+              "Salzkammergut",
+              "Wachau Valley"
+            ],
+            "requirements": "Kayak, paddle, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "June - August",
+            "duration": "Variable",
+            "description": "Take a refreshing dip in Austria's alpine lakes.",
+            "bestLocations": [
+              "Salzkammergut",
+              "Tyrol"
+            ],
+            "requirements": "Swimsuit, towel",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket and pants, hat, gloves, scarf",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a first-aid kit",
+        "Be aware of weather conditions",
+        "Respect wildlife"
+      ]
+    }
+  }
+}

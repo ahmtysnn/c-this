@@ -1,0 +1,349 @@
+{
+  "name": "Dominican Republic",
+  "region": "Caribbean, Latin America",
+  "description": "The Dominican Republic, officially the Dominican Republic, is a large Caribbean island nation. It boasts a diverse landscape ranging from arid coastal plains to lush mountainous regions, and is known for its beautiful beaches, vibrant culture, and rich history. The country is a popular tourist destination, offering a blend of relaxation, adventure, and cultural experiences.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Santo Domingo",
+      "icon": "MapPin",
+      "description": "The historical and cultural heart of the Dominican Republic.",
+      "detail": "Founded in 1496 by Christopher Columbus, Santo Domingo is a UNESCO World Heritage site."
+    },
+    {
+      "label": "Population",
+      "value": "11.3 million",
+      "icon": "Users",
+      "description": "The second-most populous country in the Caribbean.",
+      "detail": "The population is predominantly of mixed African, European, and Taíno descent."
+    },
+    {
+      "label": "Area",
+      "value": "48,671 sq km (18,881 sq mi)",
+      "icon": "Globe",
+      "description": "A relatively large island nation.",
+      "detail": "Approximately 43% of the land is covered by forests."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "ArrowRight",
+      "description": "The primary language spoken throughout the country.",
+      "detail": "English is spoken in tourist areas."
+    },
+    {
+      "label": "Currency",
+      "value": "Dominican Peso (DOP)",
+      "icon": "Zap",
+      "description": "The official currency of the Dominican Republic.",
+      "detail": "Exchange rates fluctuate, check current rates before traveling."
+    },
+    {
+      "label": "GDP",
+      "value": "$110.7 billion (2023)",
+      "icon": "Thermometer",
+      "description": "A growing economy driven by tourism and agriculture.",
+      "detail": "Tourism contributes significantly to the country's economy."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "The Dominican Republic enjoys a tropical climate with warm temperatures year-round. There are distinct wet and dry seasons, influencing the best times to visit.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December - April",
+        "description": "The dry season is generally sunny and pleasant, ideal for beach activities and outdoor adventures.",
+        "keyFeatures": [
+          "Low humidity",
+          "Clear skies",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Swimming",
+          "Sunbathing",
+          "Snorkeling",
+          "Hiking"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May - November",
+        "description": "The wet season brings frequent rainfall, particularly in the mountainous regions. However, the coast remains relatively dry.",
+        "keyFeatures": [
+          "High humidity",
+          "Rainfall",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Waterfall exploration",
+          "Jungle trekking",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Hurricane Season",
+        "period": "June 1 - November 30",
+        "description": "The Dominican Republic is susceptible to hurricanes during this period. Travelers should monitor weather forecasts and be prepared for potential disruptions.",
+        "keyFeatures": [
+          "Potential for storms",
+          "Travel advisories"
+        ],
+        "activities": []
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Los Haitises National Park",
+      "category": "National Park",
+      "description": "Los Haitises National Park is a vast, protected area encompassing mangrove forests, limestone caves, and diverse wildlife. It’s a crucial habitat for numerous bird species and offers a glimpse into the island’s prehistoric past.",
+      "detailedDescription": "The park’s caves, adorned with ancient petroglyphs, tell stories of the Taíno people. Boat tours through the mangroves reveal a unique ecosystem teeming with life.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Haimoná",
+        "Bacardi"
+      ],
+      "viewingTips": [
+        "Bring insect repellent",
+        "Wear sturdy shoes",
+        "Hire a knowledgeable guide"
+      ],
+      "scientificData": {
+        "Area": "26,000 ha",
+        "Elevation": "0-300m"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Damajagua Waterfalls (27 Charcos)",
+      "category": "Waterfall",
+      "description": "Damajagua Waterfalls, also known as 27 Charcos, is a series of 27 waterfalls cascading down a rugged mountain slope. It’s a thrilling adventure involving swimming, jumping, and climbing.",
+      "detailedDescription": "The journey involves navigating the waterfalls with the assistance of local guides. It’s a truly immersive experience in the heart of the Dominican rainforest.",
+      "bestTime": "December - April (dry season)",
+      "bestLocations": [
+        "Samana Peninsula"
+      ],
+      "viewingTips": [
+        "Wear quick-drying swimwear",
+        "Bring a towel",
+        "Listen to your guide"
+      ],
+      "scientificData": {
+        "Height": "180m",
+        "Water Temperature": "24-28°C"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Cotubalí National Park",
+      "category": "National Park",
+      "description": "Cotubalí National Park is a vast rainforest located in the southwestern corner of the Dominican Republic. It’s home to a remarkable diversity of flora and fauna, including jaguars, monkeys, and numerous bird species.",
+      "detailedDescription": "The park’s mountainous terrain and dense vegetation create a challenging but rewarding environment for exploration. It’s a vital area for biodiversity conservation.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Southern Highlands"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Be prepared for challenging terrain",
+        "Respect wildlife"
+      ],
+      "scientificData": {
+        "Area": "147,564 ha",
+        "Elevation": "300-1,300m"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Dominican Ecosystems",
+    "overview": "The Dominican Republic boasts a diverse range of ecosystems, including tropical rainforests, dry forests, coastal mangroves, and coral reefs. These ecosystems support a rich biodiversity and provide essential ecological services.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of the country's land area is protected within national parks and reserves.",
+      "nationalParks": 25
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Dominican forests are incredibly diverse, ranging from the moist, humid rainforests of the north to the drier, more open forests of the south.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 3,000",
+            "details": "A significant portion of these are endemic to the island."
+          },
+          {
+            "category": "Forest Cover",
+            "count": "43%",
+            "details": "Essential for carbon sequestration and biodiversity."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jamaican Boa",
+            "status": "Endangered",
+            "significance": "A unique snake species found only in the Dominican Republic."
+          },
+          {
+            "name": "Hispaniolan Trogon",
+            "status": "Vulnerable",
+            "significance": "A brightly colored bird endemic to the island."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Agricultural expansion"
+        ],
+        "conservationEfforts": [
+          "Protected area establishment",
+          "Reforestation programs",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Coastal Ecosystems",
+        "icon": "Waves",
+        "description": "The Dominican coastline is characterized by diverse coastal ecosystems, including coral reefs, mangroves, and sandy beaches.",
+        "statistics": [
+          {
+            "category": "Coral Reef Area",
+            "count": "Approximately 4,000 ha",
+            "details": "Supports a wide range of marine life."
+          },
+          {
+            "category": "Mangrove Area",
+            "count": "150,000 ha",
+            "details": "Provides coastal protection and nursery grounds for fish."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Humpback Whale",
+            "status": "Migratory",
+            "significance": "A major breeding ground for humpback whales."
+          },
+          {
+            "name": "Green Sea Turtle",
+            "status": "Endangered",
+            "significance": "Nests on Dominican beaches."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Beach cleanup programs",
+          "Sustainable tourism"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Dominican Republic Activities",
+    "description": "The Dominican Republic offers a wide range of activities for all interests and skill levels, from relaxing on pristine beaches to exploring lush rainforests and diving in vibrant coral reefs.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s diverse landscapes on foot, from mountain trails to coastal paths.",
+        "activities": [
+          {
+            "name": "Mount Isabel de Torres Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-4 hours",
+            "description": "Hike to the summit of Mount Isabel de Torres for panoramic views of Santo Domingo.",
+            "bestLocations": [
+              "Santo Domingo"
+            ],
+            "requirements": "Hiking boots, water, sunscreen",
+            "safety": [
+              "Stay on marked trails",
+              "Inform someone of your plans"
+            ]
+          },
+          {
+            "name": "Los Haitises Trail",
+            "difficulty": "Hard",
+            "season": "December - April",
+            "duration": "6-8 hours",
+            "description": "A challenging hike through the mangroves of Los Haitises National Park.",
+            "bestLocations": [
+              "Haimoná"
+            ],
+            "requirements": "Sturdy hiking boots, insect repellent, water",
+            "safety": [
+              "Hire a guide",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in the Dominican Republic’s crystal-clear waters.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and diverse marine life of the Dominican Republic.",
+            "bestLocations": [
+              "Bayahibe",
+              "Punta Cana"
+            ],
+            "requirements": "Snorkeling gear or scuba certification",
+            "safety": [
+              "Dive with a certified instructor",
+              "Follow dive briefings"
+            ]
+          },
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate",
+            "season": "November - May",
+            "duration": "2-3 hours",
+            "description": "Catch some waves at popular surf spots along the north coast.",
+            "bestLocations": [
+              "Cabarete",
+              "Sosúa"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on the season)",
+            "safety": [
+              "Check surf conditions",
+              "Use a leash"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Light jacket, long-sleeved shirts, sweater",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Insect repellent, sunscreen, hat, sunglasses",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "First-aid kit",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

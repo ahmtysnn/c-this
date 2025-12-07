@@ -1,0 +1,356 @@
+{
+  "name": "Nicaragua",
+  "region": "Central America",
+  "description": "Nicaragua, often called the 'Land of Lakes,' is a nation of stunning contrasts. From the volcanic peaks of the Cordillera Mototombo-Sibasco to the vast, sun-drenched beaches of the Caribbean and Pacific coasts, Nicaragua offers a diverse landscape and rich cultural heritage. It’s a country of vibrant traditions, friendly people, and a burgeoning ecotourism industry.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Managua",
+      "icon": "MapPin",
+      "description": "The bustling capital city, situated in a volcanic caldera.",
+      "detail": "Managua is a major economic and political center, offering a mix of colonial architecture and modern development."
+    },
+    {
+      "label": "Population",
+      "value": "6.9 million",
+      "icon": "Users",
+      "description": "A predominantly young population.",
+      "detail": "The median age is around 22 years, reflecting a dynamic and growing nation."
+    },
+    {
+      "label": "Area",
+      "value": "130,370 sq km (50,336 sq mi)",
+      "icon": "Globe",
+      "description": "Relatively small, but incredibly diverse.",
+      "detail": "Nicaragua is bordered by Honduras to the north, Costa Rica to the south, and the Caribbean Sea and Pacific Ocean to the east and west."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "ArrowRight",
+      "description": "The primary language of communication.",
+      "detail": "Indigenous languages are also spoken in various regions."
+    },
+    {
+      "label": "Currency",
+      "value": "León (NIO)",
+      "icon": "Coffee",
+      "description": "The national currency.",
+      "detail": "Exchange rates fluctuate; check current rates before traveling."
+    },
+    {
+      "label": "GDP",
+      "value": "$7.2 billion (2023)",
+      "icon": "Zap",
+      "description": "A developing economy with growth potential.",
+      "detail": "Tourism, agriculture, and services are key sectors."
+    }
+  ],
+  "climateData": {
+    "title": "Climate Overview",
+    "description": "Nicaragua experiences a tropical climate with variations depending on altitude and proximity to the coast. The Pacific coast is generally hot and dry, while the Caribbean coast is warm and humid with significant rainfall.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season (November - April)",
+        "period": "November - April",
+        "description": "The coolest and driest period, ideal for exploring the highlands and beaches.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Pleasant temperatures",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Beach relaxation",
+          "Volcano trekking"
+        ]
+      },
+      {
+        "name": "Wet Season (May - October)",
+        "period": "May - October",
+        "description": "Characterized by heavy rainfall, particularly on the Caribbean coast.  The Pacific coast remains relatively dry.",
+        "keyFeatures": [
+          "High rainfall",
+          "Increased humidity",
+          "Green landscapes"
+        ],
+        "activities": [
+          "River rafting",
+          "Waterfall exploration",
+          "Rainforest hikes",
+          "Coastal fishing"
+        ]
+      },
+      {
+        "name": "Hurricane Season (June - November)",
+        "period": "June - November",
+        "description": "Nicaragua is susceptible to hurricanes during this period.  Monitor weather forecasts closely.",
+        "keyFeatures": [
+          "Potential for severe storms",
+          "Coastal flooding"
+        ],
+        "activities": [
+          "Limited outdoor activities during storms"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Volcán Concepción",
+      "category": "Volcano",
+      "description": "Volcán Concepción is an active, towering stratovolcano located in the Sierra de los Chirros mountain range. It’s one of the most visually striking and active volcanoes in Central America, offering a challenging but rewarding climb for experienced hikers.",
+      "detailedDescription": "Concepción last erupted in 1999, and continues to exhibit signs of activity. The surrounding crater lake, Lago de Concepcion, is a stunning turquoise color.  The hike to the summit requires significant preparation and acclimatization.",
+      "bestTime": "Dry Season (December - April)",
+      "bestLocations": [
+        "Chinandega"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Acclimatize to altitude",
+        "Check volcanic activity reports"
+      ],
+      "scientificData": {
+        "Height": "2,785 m",
+        "Age": "Approximately 200,000 years",
+        "Eruption Style": "Strombolian"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Las Peñas Archipelago",
+      "category": "Archipelago",
+      "description": "A stunning chain of islands off the Caribbean coast, renowned for its diverse birdlife and pristine beaches.  Las Peñas is a vital nesting ground for numerous seabird species.",
+      "detailedDescription": "The archipelago consists of several small islands, each with unique ecosystems.  The islands are largely uninhabited, offering a truly remote and unspoiled experience.  The waters surrounding Las Peñas are teeming with marine life.",
+      "bestTime": "Dry Season (November - April)",
+      "bestLocations": [
+        "Corn Islands"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching",
+        "Respect the wildlife",
+        "Use reef-safe sunscreen"
+      ],
+      "scientificData": {
+        "Area": "Approximately 40 sq km",
+        "Biodiversity": "Over 150 bird species"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 3,
+      "name": "Cerro Zelote",
+      "category": "Mountain Range",
+      "description": "Cerro Zelote is a dramatic mountain range in northern Nicaragua, known for its rugged terrain, cloud forests, and abundant wildlife. It’s a popular destination for experienced hikers and nature enthusiasts.",
+      "detailedDescription": "The range is characterized by steep slopes, dense vegetation, and numerous waterfalls. Cerro Zelote is home to a variety of endemic plant and animal species, including jaguars, monkeys, and colorful birds. The area is also rich in cultural heritage, with numerous indigenous communities.",
+      "bestTime": "Dry Season (December - April)",
+      "bestLocations": [
+        "Matagalpa"
+      ],
+      "viewingTips": [
+        "Pack for all weather conditions",
+        "Hire a local guide",
+        "Respect indigenous communities"
+      ],
+      "scientificData": {
+        "Elevation Range": "1,300 - 2,300 m",
+        "Forest Cover": "Over 60%"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Tropical Rainforests",
+    "icon": "Leaf",
+    "description": "Nicaragua is home to extensive tropical rainforests, harboring an incredible diversity of plant and animal life. These forests play a crucial role in regulating the country’s climate and providing essential ecosystem services.",
+    "statistics": [
+      {
+        "category": "Tree Species",
+        "count": "Over 3,000",
+        "details": "Nicaragua boasts one of the highest tree species diversity in the world."
+      },
+      {
+        "category": "Endemic Species",
+        "count": "Approximately 150",
+        "details": "Many plant and animal species are found only in Nicaragua."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Jaguar",
+        "status": "Endangered",
+        "significance": "A top predator in the rainforest ecosystem."
+      },
+      {
+        "name": "Three-toed Sloth",
+        "status": "Vulnerable",
+        "significance": "A slow-moving herbivore adapted to life in the canopy."
+      },
+      {
+        "name": "Resplendent Quetzal",
+        "status": "Near Threatened",
+        "significance": "A brilliantly colored bird revered by ancient cultures."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Illegal logging",
+      "Habitat loss"
+    ],
+    "conservationEfforts": [
+      "Protected area establishment",
+      "Community-based conservation programs",
+      "Reforestation projects"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Nicaraguan Ecosystems",
+    "overview": "Nicaragua’s ecosystems are incredibly diverse, ranging from tropical rainforests and cloud forests to coastal wetlands and volcanic landscapes. These ecosystems provide vital resources and support a rich array of biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 25% of the country's land area is protected in national parks and reserves.",
+      "nationalParks": 16
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Tropical Rainforests",
+        "icon": "Leaf",
+        "description": "The heart of Nicaragua’s biodiversity, characterized by high rainfall and dense vegetation.",
+        "statistics": [
+          {
+            "category": "Rainfall",
+            "count": "2,000 - 3,000 mm per year",
+            "details": "High rainfall supports lush vegetation growth."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Deforestation",
+          "Agriculture expansion"
+        ],
+        "conservationEfforts": [
+          "Protected area expansion",
+          "Sustainable forestry practices"
+        ]
+      },
+      {
+        "name": "Coastal Wetlands",
+        "icon": "Waves",
+        "description": "Important habitats for migratory birds and marine life, providing crucial ecosystem services.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 100,000 hectares",
+            "details": "Mangroves protect coastlines from erosion and provide nursery grounds for fish."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Coastal zone management",
+          "Mangrove restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Nicaragua",
+    "description": "Nicaragua offers a wide range of outdoor activities for all skill levels, from hiking and birdwatching to water sports and adventure tourism.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Nicaragua’s stunning mountain ranges and cloud forests.",
+        "activities": [
+          {
+            "name": "Cerro Zelote Trek",
+            "difficulty": "Hard",
+            "season": "Dry Season",
+            "duration": "3-5 days",
+            "description": "A challenging trek through a remote mountain range, offering breathtaking views and diverse wildlife encounters.",
+            "bestLocations": [
+              "Matagalpa"
+            ],
+            "requirements": "Good physical fitness, hiking boots, rain gear",
+            "safety": [
+              "Altitude sickness",
+              "Wildlife encounters"
+            ]
+          },
+          {
+            "name": "Granada Volcano Hike",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "1-2 days",
+            "description": "Hike to the summit of Granada Volcano for panoramic views of Lake Nicaragua.",
+            "bestLocations": [
+              "Granada"
+            ],
+            "requirements": "Hiking boots, water, sunscreen",
+            "safety": [
+              "Volcanic activity"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities on Nicaragua’s beautiful coasts and lakes.",
+        "activities": [
+          {
+            "name": "Surfing at San Juan del Sur",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "Variable",
+            "description": "Catch some waves at San Juan del Sur, a popular surfing destination.",
+            "bestLocations": [
+              "San Juan del Sur"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on season)",
+            "safety": [
+              "Rip currents",
+              "Marine life"
+            ]
+          },
+          {
+            "name": "Kayaking on Lake Nicaragua",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Explore the stunning scenery of Lake Nicaragua by kayak.",
+            "bestLocations": [
+              "Isletas de Granada"
+            ],
+            "requirements": "Kayak, life jacket",
+            "safety": [
+              "Boat traffic"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, rain jacket, sweater",
+        "yearRound": "Comfortable walking shoes, insect repellent"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, cash",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink bottled water",
+        "Be aware of your surroundings",
+        "Respect local customs"
+      ]
+    }
+  }
+}

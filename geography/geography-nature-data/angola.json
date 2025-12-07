@@ -1,0 +1,342 @@
+{
+  "name": "Angola",
+  "region": "Southern Africa",
+  "description": "Angola, officially the Republic of Angola, is a country in southwestern Africa. It’s known for its vast oil reserves, diverse landscapes ranging from deserts and savannahs to coastal areas and rainforests, and a rich, complex history shaped by Portuguese colonization and a long struggle for independence. The country boasts significant biodiversity and is experiencing rapid development, though challenges remain in terms of poverty and infrastructure.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Luanda",
+      "icon": "MapPin",
+      "description": "The bustling capital and largest city of Angola.",
+      "detail": "Luanda is a major port city and economic hub, characterized by its vibrant culture and rapidly growing skyline."
+    },
+    {
+      "label": "Population",
+      "value": "36.6 million",
+      "icon": "Users",
+      "description": "Angola's population is diverse, with a mix of ethnic groups.",
+      "detail": "The majority of the population lives in rural areas, primarily engaged in agriculture."
+    },
+    {
+      "label": "Area",
+      "value": "1,246,700 sq km",
+      "icon": "Globe",
+      "description": "Angola is the second-largest country in Africa.",
+      "detail": "It borders Namibia, Zambia, Democratic Republic of the Congo, and the Republic of the Congo."
+    },
+    {
+      "label": "Official Language",
+      "value": "Portuguese",
+      "icon": "ArrowRight",
+      "description": "Portuguese is the official language, a legacy of colonial rule.",
+      "detail": "However, numerous indigenous languages are also spoken throughout the country."
+    },
+    {
+      "label": "Currency",
+      "value": "Angolan Kwanza (AOA)",
+      "icon": "Coffee",
+      "description": "The currency of Angola.",
+      "detail": "The Kwanza has experienced significant fluctuations in value."
+    },
+    {
+      "label": "GDP",
+      "value": "$29.7 billion (2023)",
+      "icon": "Zap",
+      "description": "Angola's economy is heavily reliant on oil.",
+      "detail": "Diversification efforts are underway to reduce dependence on the oil sector."
+    }
+  ],
+  "climateData": {
+    "title": "Angolan Climate",
+    "description": "Angola experiences a tropical climate with significant regional variations. The coastal areas are hot and humid year-round, while inland regions have distinct wet and dry seasons. Rainfall is generally high, particularly along the Atlantic coast and in the northern highlands.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "June - September",
+        "description": "This is the coolest and driest period of the year, characterized by clear skies and low humidity.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Cooler temperatures",
+          "Reduced humidity"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Hiking",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "October - May",
+        "description": "The wet season brings heavy rainfall, flooding, and increased humidity. Temperatures remain consistently high.",
+        "keyFeatures": [
+          "High rainfall",
+          "High humidity",
+          "Flooding"
+        ],
+        "activities": [
+          "River cruises",
+          "Fishing",
+          "Exploring waterfalls"
+        ]
+      },
+      {
+        "name": "Harmattan Winds",
+        "period": "December - February",
+        "description": "A dry, dusty wind originating from the Sahara Desert, bringing cooler temperatures and reduced visibility.",
+        "keyFeatures": [
+          "Dry wind",
+          "Dust storms",
+          "Cooler temperatures"
+        ],
+        "activities": [
+          "Limited outdoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Etosha National Park",
+      "category": "Wildlife Reserve",
+      "description": "Etosha National Park is one of Africa’s premier wildlife destinations, renowned for its vast salt pan and abundant animal populations. It’s a haven for elephants, lions, rhinos, zebras, and countless bird species.",
+      "detailedDescription": "The park’s unique ecosystem offers exceptional opportunities for game viewing, particularly around the waterholes that attract animals from across the surrounding area. The salt pan, a vast expanse of white salt, creates a surreal and unforgettable landscape.",
+      "bestTime": "June - October (Dry Season)",
+      "bestLocations": [
+        "Waterholes",
+        "Salt Pan",
+        "Southern Sector"
+      ],
+      "viewingTips": [
+        "Wake up early for optimal wildlife sightings",
+        "Bring binoculars and a spotting scope",
+        "Hire a knowledgeable guide"
+      ],
+      "scientificData": {
+        "Area": "9,227 sq km",
+        "Elevation": "140m - 1,971m",
+        "AverageTemperature": "25°C"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 2,
+      "name": "Quilos Archipelago",
+      "category": "Coastal Ecosystem",
+      "description": "The Quilos Archipelago, located off the coast of Angola, is a unique and fragile ecosystem comprised of mangrove forests, coral reefs, and sandy islands. It’s a vital breeding ground for marine life and a crucial habitat for numerous bird species.",
+      "detailedDescription": "The archipelago’s mangrove forests provide shelter and nursery grounds for fish and crustaceans, while the coral reefs support a diverse array of marine life. The islands are home to nesting seabirds and offer stunning coastal scenery.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Isla de Quilos",
+        "Coral Reefs",
+        "Mangrove Forests"
+      ],
+      "viewingTips": [
+        "Take a boat tour to explore the islands",
+        "Snorkel or dive in the coral reefs",
+        "Respect the fragile ecosystem"
+      ],
+      "scientificData": {
+        "CoralCoverage": "30%",
+        "MangroveArea": "150 sq km",
+        "BirdSpecies": "Over 100"
+      },
+      "icon": "Fish"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Angolan Ecosystems",
+    "overview": "Angola’s ecosystems are incredibly diverse, ranging from the arid Namib Desert in the west to the lush rainforests of the north and the coastal mangrove swamps. These ecosystems support a remarkable array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Savanna",
+        "icon": "Trees",
+        "description": "Vast grasslands dotted with acacia trees, supporting large herds of herbivores and their predators.",
+        "statistics": [
+          {
+            "category": "Herbivore Species",
+            "count": "60",
+            "details": "Includes elephants, giraffes, zebras, and wildebeest"
+          },
+          {
+            "category": "Predator Species",
+            "count": "20",
+            "details": "Includes lions, leopards, hyenas, and wild dogs"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "Keystone species, crucial for ecosystem health"
+          },
+          {
+            "name": "Black Rhinoceros",
+            "status": "Critically Endangered",
+            "significance": "Important for maintaining biodiversity"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community-based conservation",
+          "Habitat restoration"
+        ]
+      },
+      {
+        "name": "Coastal Wetlands",
+        "icon": "Waves",
+        "description": "Mangrove forests, salt marshes, and mudflats along the Atlantic and Indian Ocean coasts, providing vital habitat for marine life.",
+        "statistics": [
+          {
+            "category": "Mangrove Species",
+            "count": "10",
+            "details": "Diverse mangrove species adapted to varying salinity levels"
+          },
+          {
+            "category": "Bird Species",
+            "count": "80",
+            "details": "Important nesting and feeding grounds for migratory birds"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Turtle",
+            "status": "Endangered",
+            "significance": "Critical for maintaining coastal ecosystems"
+          },
+          {
+            "name": "Atlantic Salmon",
+            "status": "Threatened",
+            "significance": "Migratory fish species"
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices",
+          "Coastal restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Angolan Activities",
+    "description": "Angola offers a diverse range of activities for adventure seekers and nature enthusiasts, from wildlife safaris to coastal explorations.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Angola’s diverse landscapes on foot, from the highlands to the coastal plains.",
+        "activities": [
+          {
+            "name": "Etosha Hiking Trails",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "1-3 days",
+            "description": "Guided hikes through Etosha National Park, offering opportunities to spot wildlife.",
+            "bestLocations": [
+              "Etosha National Park"
+            ],
+            "requirements": "Hiking boots, sunscreen, hat, water bottle",
+            "safety": [
+              "Hire a guide",
+              "Stay on marked trails",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Quilos Island Hike",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "2-4 hours",
+            "description": "Explore the trails of Quilos Island, discovering its unique flora and fauna.",
+            "bestLocations": [
+              "Quilos Island"
+            ],
+            "requirements": "Comfortable shoes, insect repellent",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of insects"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Safaris",
+        "icon": "Mountain",
+        "description": "Experience the thrill of encountering Angola’s incredible wildlife in their natural habitat.",
+        "activities": [
+          {
+            "name": "Etosha Safari",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "3-7 days",
+            "description": "Game drives and guided walks in Etosha National Park, offering exceptional wildlife viewing opportunities.",
+            "bestLocations": [
+              "Etosha National Park"
+            ],
+            "requirements": "Binoculars, camera, sunscreen, hat",
+            "safety": [
+              "Follow guide instructions",
+              "Maintain a safe distance from wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the coastal waters of Angola with a variety of water sports activities.",
+        "activities": [
+          {
+            "name": "Diving & Snorkeling",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Explore the coral reefs and marine life of the Quilos Archipelago.",
+            "bestLocations": [
+              "Quilos Archipelago"
+            ],
+            "requirements": "Snorkeling gear or diving certification",
+            "safety": [
+              "Swim with a buddy",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, including a jacket, sweater, and long pants",
+        "yearRound": "Comfortable walking shoes, insect repellent"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Consult a doctor before traveling",
+        "Drink bottled water",
+        "Be aware of your surroundings",
+        "Respect local customs"
+      ]
+    }
+  }
+}

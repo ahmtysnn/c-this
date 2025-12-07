@@ -1,0 +1,361 @@
+{
+  "name": "Morocco",
+  "region": "Africa",
+  "description": "Morocco, officially the Kingdom of Morocco, is a country located in North Africa. It borders Spain to the northwest, and lies along the Atlantic Ocean and the Mediterranean Sea to the west.  The country is characterized by diverse landscapes, ranging from the snow-capped Atlas Mountains to the vast Sahara Desert, and the fertile plains of the Souss Valley.  Morocco boasts a rich and complex history, influenced by Berber, Arab, European, and African cultures, reflected in its architecture, cuisine, and traditions. It's a popular tourist destination known for its vibrant cities, ancient medinas, stunning coastlines, and unique cultural experiences.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "37.78 million",
+      "icon": "Users",
+      "description": "The population of Morocco is diverse, with a significant Berber and Arab heritage.",
+      "detail": "The majority of the population resides in urban areas, particularly in Casablanca, Rabat, and Marrakech."
+    },
+    {
+      "label": "Capital",
+      "value": "Rabat",
+      "icon": "MapPin",
+      "description": "Rabat is the political and administrative center of Morocco.",
+      "detail": "It's a modern city with a historic medina and numerous embassies."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "Globe",
+      "description": "Arabic is the official language of Morocco.",
+      "detail": "Darija (Moroccan Arabic) is the most widely spoken dialect."
+    },
+    {
+      "label": "Currency",
+      "value": "Moroccan Dirham (MAD)",
+      "icon": "Coffee",
+      "description": "The currency of Morocco is the Moroccan Dirham.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD is approximately 10-11 MAD."
+    },
+    {
+      "label": "Area",
+      "value": "446,550 km²",
+      "icon": "MapPin",
+      "description": "Morocco covers a vast area of North Africa.",
+      "detail": "It's the fourth largest country in Africa."
+    }
+  ],
+  "climateData": {
+    "title": "Moroccan Climate",
+    "description": "Morocco experiences a Mediterranean climate in the north, transitioning to arid and semi-arid climates in the interior and desert regions.  The Atlas Mountains have a cooler, alpine climate. Rainfall is generally higher in the mountains and coastal areas.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summers are hot and dry, particularly in the interior and desert regions. Temperatures can soar above 40°C (104°F).",
+        "keyFeatures": [
+          "High Temperatures",
+          "Low Rainfall",
+          "Sunny Days"
+        ],
+        "activities": [
+          "Desert Safaris",
+          "Beach Relaxation",
+          "Exploring Cities"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings pleasant temperatures and less intense sunlight. Rainfall increases, especially in the mountains.",
+        "keyFeatures": [
+          "Mild Temperatures",
+          "Increasing Rainfall",
+          "Colorful Landscapes"
+        ],
+        "activities": [
+          "Hiking in the Atlas Mountains",
+          "Exploring Coastal Towns",
+          "Harvest Festivals"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winters are mild in the coastal areas, but cold in the mountains. Snowfall is common in the Atlas Mountains and Rif Mountains.",
+        "keyFeatures": [
+          "Mild Coastal Temperatures",
+          "Snowfall in Mountains",
+          "Lower Humidity"
+        ],
+        "activities": [
+          "Skiing in the Atlas Mountains",
+          "Visiting Marrakech's Souks",
+          "Exploring Coastal Cities"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring is a beautiful time in Morocco, with blooming flowers and pleasant temperatures. Rainfall is moderate.",
+        "keyFeatures": [
+          "Blooming Flowers",
+          "Pleasant Temperatures",
+          "Moderate Rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Visiting Gardens",
+          "Exploring Historical Sites"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Sahara Desert",
+      "category": "Desert",
+      "description": "The Sahara Desert, the largest hot desert in the world, covers a significant portion of Morocco. It's a vast expanse of sand dunes, rocky plateaus, and oases, offering a unique and unforgettable experience.",
+      "detailedDescription": "The Erg Chebbi dunes, near Merzouga, are particularly impressive, reaching heights of over 150 meters.  The Sahara is home to nomadic tribes who have adapted to the harsh environment for centuries.",
+      "bestTime": "Autumn and Spring",
+      "bestLocations": [
+        "Erg Chebbi",
+        "Erg Chigaga",
+        "Merzouga"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Stay hydrated",
+        "Respect local customs"
+      ],
+      "scientificData": {
+        "Area": "960,000 km²",
+        "Average Temperature": "Day: 35°C, Night: 15°C",
+        "Sand Depth": "Varies, averaging 30m"
+      },
+      "icon": "Sun"
+    },
+    {
+      "id": 2,
+      "name": "Atlas Mountains",
+      "category": "Mountain Range",
+      "description": "The Atlas Mountains are a rugged mountain range that runs through Morocco, offering stunning scenery, diverse ecosystems, and opportunities for adventure.",
+      "detailedDescription": "The highest peak, Toubkal, reaches 4,167 meters (13,671 feet). The mountains are home to Berber villages, waterfalls, and a variety of wildlife, including snow leopards and ibex.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Toubkal National Park",
+        "Imlil",
+        "Ait Benhaddou"
+      ],
+      "viewingTips": [
+        "Wear appropriate hiking gear",
+        "Be prepared for changing weather conditions",
+        "Respect local communities"
+      ],
+      "scientificData": {
+        "Highest Peak": "Toubkal (4,167m)",
+        "Elevation Range": "600m - 4,167m",
+        "Glacier Coverage": "Declining due to climate change"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Todra Gorge",
+      "category": "Canyon",
+      "description": "The Todra Gorge is a spectacular canyon carved by the Todra River, known for its towering limestone cliffs and lush vegetation.",
+      "detailedDescription": "The gorge is a popular destination for rock climbers and hikers. The walls of the canyon can reach heights of over 300 meters (984 feet).",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Todra Gorge"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes",
+        "Bring water",
+        "Be aware of rockfall"
+      ],
+      "scientificData": {
+        "Depth": "Up to 300m",
+        "Width": "Up to 100m",
+        "Rock Type": "Limestone"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Saharan Wildlife",
+    "icon": "Bird",
+    "description": "The Sahara Desert supports a surprising array of wildlife adapted to the extreme conditions.",
+    "statistics": [
+      {
+        "category": "Desert Foxes",
+        "count": "Approximately 500,000",
+        "details": "The Fennec Fox is the most iconic Saharan mammal."
+      },
+      {
+        "category": "Addax Antelope",
+        "count": "Estimated 10,000",
+        "details": "Critically endangered, protected by law."
+      },
+      {
+        "category": "Sand Cats",
+        "count": "Unknown, but rare",
+        "details": "Adapted to survive in the desert with specialized paws and fur."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Fennec Fox",
+        "status": "Least Concern",
+        "significance": "Highly adapted to the desert environment."
+      },
+      {
+        "name": "Addax Antelope",
+        "status": "Critically Endangered",
+        "significance": "A symbol of desert conservation efforts."
+      }
+    ],
+    "threats": [
+      "Habitat Loss",
+      "Poaching",
+      "Climate Change"
+    ],
+    "conservationEfforts": [
+      "Protected Areas",
+      "Anti-Poaching Patrols",
+      "Community-Based Conservation"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Moroccan Ecosystems",
+    "overview": "Morocco’s ecosystems are incredibly diverse, ranging from the arid Sahara Desert to the Mediterranean coast and the mountainous Atlas region. Each ecosystem supports unique flora and fauna, contributing to the country’s rich biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 18% of Morocco's land area is protected in national parks and reserves.",
+      "nationalParks": 15
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coastal Wetlands",
+        "icon": "Droplets",
+        "description": "Morocco’s coastline is fringed with extensive wetlands, providing vital habitat for migratory birds and fish.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "Over 300",
+            "details": "Important stopover site for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Flamingo",
+            "status": "Near Threatened",
+            "significance": "A symbol of the coastal wetlands."
+          }
+        ],
+        "threats": [
+          "Coastal Development",
+          "Pollution",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Wetland Restoration",
+          "Sustainable Tourism",
+          "Pollution Control"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Morocco",
+    "description": "Morocco offers a wide range of outdoor activities for all levels of experience.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the diverse landscapes of Morocco on foot.",
+        "activities": [
+          {
+            "name": "Atlas Mountains Trekking",
+            "difficulty": "Moderate",
+            "season": "Spring & Autumn",
+            "duration": "3-7 days",
+            "description": "Trek through the stunning Atlas Mountains, visiting Berber villages and enjoying breathtaking views.",
+            "bestLocations": [
+              "Imlil",
+              "Ouzoud Falls"
+            ],
+            "requirements": "Good hiking boots, layers of clothing, water bottle",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Stick to marked trails"
+            ]
+          },
+          {
+            "name": "Coastal Hiking",
+            "difficulty": "Easy",
+            "season": "Spring & Autumn",
+            "duration": "1-3 days",
+            "description": "Enjoy coastal trails along the Atlantic and Mediterranean coasts.",
+            "bestLocations": [
+              "Essaouira",
+              "Cap Spartel"
+            ],
+            "requirements": "Sunscreen, hat, comfortable shoes",
+            "safety": [
+              "Be aware of strong winds"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Experience the Mediterranean and Atlantic coasts with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "Variable",
+            "description": "Ride the waves at popular surfing spots along the Atlantic coast.",
+            "bestLocations": [
+              "Taghazout",
+              "Essaouira"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on water temperature)",
+            "safety": [
+              "Be aware of currents",
+              "Use a leash"
+            ]
+          },
+          {
+            "name": "Kitesurfing",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "Variable",
+            "description": "Learn to kitesurf in the windy coastal areas.",
+            "bestLocations": [
+              "Essaouira"
+            ],
+            "requirements": "Kite, harness, board",
+            "safety": [
+              "Take a lesson from a certified instructor"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, scarf"
+      },
+      "equipment": {
+        "basic": "Reusable water bottle, backpack, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Learn basic Arabic phrases",
+        "Be aware of local customs"
+      ]
+    }
+  }
+}

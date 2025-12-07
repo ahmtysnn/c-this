@@ -1,0 +1,331 @@
+{
+  "name": "Maldives",
+  "region": "South Asia",
+  "description": "The Maldives, officially the Republic of Maldives, is a tropical nation in the Indian Ocean, southwest of India and Sri Lanka. It’s an archipelago of 1,192 islands, grouped into 26 atolls. Known for its stunning coral reefs, turquoise waters, and luxurious resorts, the Maldives is a premier destination for diving, snorkeling, and relaxation. The country faces significant challenges due to rising sea levels and climate change, making conservation efforts crucial for its survival.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "567,955",
+      "icon": "Users",
+      "description": "The population of the Maldives is primarily concentrated on the inhabited islands.",
+      "detail": "Most Maldivians live on the 199 islands that are part of the local council system."
+    },
+    {
+      "label": "Area",
+      "value": "300 sq km (116 sq mi)",
+      "icon": "MapPin",
+      "description": "The Maldives is one of the smallest countries in the world.",
+      "detail": "It’s comprised of 26 coral atolls, each with a unique ecosystem."
+    },
+    {
+      "label": "Capital",
+      "value": "Malé",
+      "icon": "MapPin",
+      "description": "Malé is the bustling capital and commercial center of the Maldives.",
+      "detail": "It’s the most densely populated island in the world."
+    },
+    {
+      "label": "Currency",
+      "value": "Maldivian Rufiyaa (MVR)",
+      "icon": "Waves",
+      "description": "The official currency of the Maldives.",
+      "detail": "US dollars are widely accepted in tourist areas."
+    },
+    {
+      "label": "Official Language",
+      "value": "Dhivehi",
+      "icon": "Globe",
+      "description": "The national language of the Maldives.",
+      "detail": "It’s derived from Sinhala and Arabic."
+    },
+    {
+      "label": "GDP",
+      "value": "$8.0 billion (2023)",
+      "icon": "Waves",
+      "description": "The economy is largely dependent on tourism and fishing.",
+      "detail": "Tourism contributes approximately 30% of the GDP."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "The Maldives enjoys a tropical monsoon climate characterized by consistently high temperatures and humidity throughout the year. Rainfall is concentrated during the southwest monsoon (May to November) and the northeast monsoon (December to April).",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season (November - April)",
+        "period": "November to April",
+        "description": "This is the peak tourist season, offering sunny skies, calm seas, and low humidity. It’s ideal for diving, snorkeling, and watersports.",
+        "keyFeatures": [
+          "Sunny days",
+          "Calm seas",
+          "Low humidity",
+          "Clear visibility"
+        ],
+        "activities": [
+          "Diving",
+          "Snorkeling",
+          "Watersports",
+          "Island hopping"
+        ]
+      },
+      {
+        "name": "Wet Season (May - October)",
+        "period": "May to October",
+        "description": "The wet season brings increased rainfall and stronger winds. However, the seas remain warm, and prices for accommodation are generally lower.",
+        "keyFeatures": [
+          "Rainfall",
+          "Stronger winds",
+          "Warm seas",
+          "Lower prices"
+        ],
+        "activities": [
+          "Surfing",
+          "Fishing",
+          "Relaxing on the beach"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Baa Atoll",
+      "category": "Coral Atoll",
+      "description": "Baa Atoll is a UNESCO Biosphere Reserve renowned for its exceptional biodiversity and vibrant coral reefs. It’s a haven for marine life, including manta rays, whale sharks, and sea turtles.",
+      "detailedDescription": "The atoll boasts the Hanifaru Bay, a feeding ground for manta rays during the southwest monsoon, attracting divers and snorkelers from around the world. The coral reefs are incredibly diverse and healthy, supporting a wide range of fish species.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "Hanifaru Bay",
+        "Kadiri Island",
+        "Thulusdhoo Island"
+      ],
+      "viewingTips": [
+        "Respect the marine environment",
+        "Use reef-safe sunscreen",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Coral Coverage": "70%",
+        "Fish Species": "Over 1,000",
+        "Average Depth": "30m"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Rainbow Reef",
+      "category": "Coral Reef",
+      "description": "Rainbow Reef is one of the largest single-piece coral reefs in the world, located off the coast of North Malé Atoll. Its vibrant colors and diverse marine life make it a spectacular underwater destination.",
+      "detailedDescription": "The reef’s unique formation and the abundance of coral species create a kaleidoscope of colors, hence its name. It’s a popular spot for scuba diving and snorkeling, offering opportunities to encounter a variety of fish, turtles, and reef sharks.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "North Malé Atoll"
+      ],
+      "viewingTips": [
+        "Maintain a safe distance from marine life",
+        "Use a waterproof camera",
+        "Respect the reef ecosystem"
+      ],
+      "scientificData": {
+        "Coral Type": "Acropora",
+        "Reef Size": "1.8 sq km",
+        "Depth": "15-30m"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Maldivian Ecosystems",
+    "overview": "The Maldives’ ecosystem is primarily defined by its coral reefs, which support a vast array of marine life. The islands themselves are composed of coral, limestone, and sand, creating a unique terrestrial environment. The country’s delicate balance is increasingly threatened by climate change and human activities.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral Reefs",
+        "icon": "Leaf",
+        "description": "The foundation of the Maldivian ecosystem, providing habitat for countless marine species.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "300+",
+            "details": "Over 300 different coral species thrive in the Maldivian waters."
+          },
+          {
+            "category": "Fish Species",
+            "count": "1,000+",
+            "details": "Approximately 1,000 fish species inhabit the coral reefs."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Manta Ray",
+            "status": "Vulnerable",
+            "significance": "A keystone species in the reef ecosystem."
+          },
+          {
+            "name": "Whale Shark",
+            "status": "Endangered",
+            "significance": "The largest fish in the ocean, a majestic sight for divers."
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral restoration projects",
+          "Sustainable tourism practices"
+        ]
+      },
+      {
+        "name": "Seagrass Beds",
+        "icon": "Leaf",
+        "description": "These underwater meadows provide crucial habitat for juvenile fish and invertebrates.",
+        "statistics": [
+          {
+            "category": "Area Covered",
+            "count": "100 sq km",
+            "details": "Seagrass beds cover approximately 100 square kilometers of the Maldives."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Sea Turtle",
+            "status": "Endangered",
+            "significance": "A vital component of the seagrass ecosystem."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Coastal zone management",
+          "Seagrass restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Maldivian Adventures",
+    "description": "The Maldives offers a diverse range of activities for travelers of all interests, from thrilling watersports to relaxing beach experiences.",
+    "activityCategories": [
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a wide variety of water-based activities in the crystal-clear waters of the Maldives.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and encounter diverse marine life.",
+            "bestLocations": [
+              "Baa Atoll",
+              "North Malé Atoll",
+              "Ari Atoll"
+            ],
+            "requirements": "Certification (PADI or equivalent)",
+            "safety": [
+              "Dive with a certified instructor",
+              "Check equipment before diving"
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "1-3 hours",
+            "description": "Discover the beauty of the coral reefs without getting wet.",
+            "bestLocations": [
+              "Hanifaru Bay",
+              "Rainbow Reef"
+            ],
+            "requirements": "None",
+            "safety": [
+              "Stay within designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "3-5 hours",
+            "description": "Catch some waves at popular surf breaks.",
+            "bestLocations": [
+              "North Malé Atoll",
+              "Thulusdhoo Island"
+            ],
+            "requirements": "Surfboard, wetsuit",
+            "safety": [
+              "Check surf conditions",
+              "Use a leash"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Island Activities",
+        "icon": "MapPin",
+        "description": "Experience the local culture and enjoy the beauty of the Maldivian islands.",
+        "activities": [
+          {
+            "name": "Island Hopping",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half-day to Full-day",
+            "description": "Visit different islands and experience the local way of life.",
+            "bestLocations": [
+              "Malé",
+              "Vaadhoo Island"
+            ],
+            "requirements": "None",
+            "safety": [
+              "Respect local customs",
+              "Follow guide instructions"
+            ]
+          },
+          {
+            "name": "Fishing",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half-day to Full-day",
+            "description": "Try your luck at catching local fish.",
+            "bestLocations": [
+              "Vaadhoo Island",
+              "Fulidhoo Island"
+            ],
+            "requirements": "Fishing license (if required)",
+            "safety": [
+              "Follow fishing regulations",
+              "Use appropriate equipment"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen, hat",
+        "winter": "Light jacket, long-sleeved shirts, trousers, swimwear",
+        "yearRound": "Versatile clothing suitable for warm weather, swimwear, sunglasses"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, adapter",
+        "hiking": "Sturdy shoes, backpack, water bottle",
+        "photography": "Camera, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Protect yourself from the sun",
+        "Be aware of currents",
+        "Respect local customs"
+      ]
+    }
+  }
+}

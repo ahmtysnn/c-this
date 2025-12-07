@@ -1,0 +1,382 @@
+{
+  "name": "Afghanistan",
+  "region": "Asia",
+  "description": "Afghanistan, a landlocked country at the heart of Central Asia, boasts a diverse geography ranging from towering mountain ranges to arid plains and rugged deserts. Historically a crossroads of civilizations, Afghanistan’s landscape has shaped its rich cultural heritage and continues to influence its economy and society. The country faces significant challenges related to security, development, and environmental sustainability, yet it possesses immense natural beauty and a resilient population.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Kabul",
+      "icon": "MapPin",
+      "description": "The bustling capital and political center of Afghanistan.",
+      "detail": "Kabul is a city undergoing rapid development, blending ancient traditions with modern influences."
+    },
+    {
+      "label": "Population",
+      "value": "Approximately 41 million",
+      "icon": "Users",
+      "description": "A diverse population comprising various ethnic groups and languages.",
+      "detail": "Pashtuns make up the largest ethnic group, followed by Hazaras, Tajiks, and Uzbeks."
+    },
+    {
+      "label": "Area",
+      "value": "652,230 sq km (252,230 sq mi)",
+      "icon": "Globe",
+      "description": "One of the largest countries in Central Asia.",
+      "detail": "Afghanistan's territory includes significant portions of the Hindu Kush mountain range."
+    },
+    {
+      "label": "Official Language",
+      "value": "Dari and Pashto",
+      "icon": "ArrowRight",
+      "description": "Afghanistan has two official languages, reflecting its diverse linguistic landscape.",
+      "detail": "Uzbek, Turkmen, and other languages are also widely spoken."
+    },
+    {
+      "label": "Currency",
+      "value": "Afghan Afghani (AFN)",
+      "icon": "Coffee",
+      "description": "The currency of Afghanistan.",
+      "detail": "The Afghani has experienced significant fluctuations in value over the years."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Afghanistan",
+    "description": "Afghanistan experiences a continental climate characterized by extreme temperature variations between summer and winter. The mountainous terrain significantly influences rainfall patterns, leading to arid conditions in the south and west, and more precipitation in the northeast.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "A brief but vibrant season marked by blooming wildflowers and increasing temperatures.",
+        "keyFeatures": [
+          "Melting snow",
+          "Wildflower blooms",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Hot and dry, with temperatures often exceeding 40°C (104°F). Rainfall is minimal.",
+        "keyFeatures": [
+          "High temperatures",
+          "Low humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Rock climbing",
+          "Mountain trekking",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Pleasant temperatures and clear skies, with the landscape ablaze with autumn colors.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Colorful foliage",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Horseback riding",
+          "Cultural tours",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Cold and harsh, with heavy snowfall in the mountains and freezing temperatures across the country.",
+        "keyFeatures": [
+          "Heavy snowfall",
+          "Freezing temperatures",
+          "Limited daylight"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting bazaars"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Wakhan Valley",
+      "category": "Mountain Range",
+      "description": "A remote and stunning valley nestled in the Pamir Mountains, known for its dramatic landscapes, turquoise rivers, and ancient Buddhist monasteries. It offers a unique glimpse into Afghanistan's cultural and natural heritage.",
+      "detailedDescription": "The Wakhan Valley is a high-altitude region with a unique ecosystem, supporting diverse flora and fauna. The valley's isolation has preserved its traditional way of life and cultural practices.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Qala-i-Shash",
+        "Langar",
+        "Yankaghan"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Acclimatize to the altitude",
+        "Respect local customs"
+      ],
+      "scientificData": {
+        "Height": "3,200m",
+        "Temperature": "Average 10°C",
+        "Rainfall": "500mm"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Band-e Amir",
+      "category": "Lake System",
+      "description": "A series of six deep blue lakes formed in ancient basins, surrounded by rugged mountains. Band-e Amir is a UNESCO World Heritage site and a popular destination for tourists and locals alike.",
+      "detailedDescription": "The lakes are renowned for their vibrant colors, attributed to the reflection of the surrounding mountains. They are also a vital source of water for the surrounding communities.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "Near Kabul",
+        "Shabgul"
+      ],
+      "viewingTips": [
+        "Bring binoculars for better views",
+        "Respect the local environment",
+        "Avoid swimming in the lakes"
+      ],
+      "scientificData": {
+        "Depth": "Up to 55m",
+        "WaterQuality": "High mineral content"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Lubabur Canyon",
+      "category": "Canyon",
+      "description": "A dramatic and remote canyon carved by the Lubabur River, offering stunning views of towering cliffs and deep gorges. It's a challenging but rewarding destination for experienced hikers and adventurers.",
+      "detailedDescription": "The canyon is home to a variety of unique plant and animal species, adapted to the harsh desert environment. It's also an important archaeological site, with evidence of ancient settlements.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "Near Sheberghan"
+      ],
+      "viewingTips": [
+        "Bring plenty of water and supplies",
+        "Hire a local guide",
+        "Be aware of flash floods"
+      ],
+      "scientificData": {
+        "Length": "15km",
+        "ElevationChange": "800m"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Afghanistan",
+    "overview": "Afghanistan’s ecosystems are incredibly diverse, ranging from high-altitude alpine meadows to arid deserts and lush river valleys. These ecosystems support a wide range of plant and animal life, many of which are endemic to the region.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Alpine Ecosystems",
+        "icon": "Mountain",
+        "description": "High-altitude regions characterized by sparse vegetation, rocky terrain, and unique wildlife adapted to the harsh conditions.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "Over 500",
+            "details": "Many endemic species"
+          },
+          {
+            "category": "Mammal Species",
+            "count": "20",
+            "details": "Including snow leopards and ibex"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Snow Leopard",
+            "status": "Endangered",
+            "significance": "Apex predator of the high mountains"
+          },
+          {
+            "name": "Ibex",
+            "status": "Vulnerable",
+            "significance": "Adapted to steep, rocky terrain"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Desert Ecosystems",
+        "icon": "Sun",
+        "description": "Arid and semi-arid regions characterized by sparse vegetation, extreme temperatures, and limited water resources.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "Approximately 100",
+            "details": "Drought-resistant shrubs and grasses"
+          },
+          {
+            "category": "Reptile Species",
+            "count": "Over 80",
+            "details": "Including snakes and lizards"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Fennec Fox",
+            "status": "Least Concern",
+            "significance": "Adapted to desert life"
+          },
+          {
+            "name": "Sand Viper",
+            "status": "Vulnerable",
+            "significance": "Venomous snake found in the desert"
+          }
+        ],
+        "threats": [
+          "Desertification",
+          "Overgrazing",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Sustainable land management",
+          "Water conservation"
+        ]
+      }
+    ]
+  },
+  "biodiversityCategory": {
+    "name": "Wildlife",
+    "icon": "Bird",
+    "description": "Afghanistan is home to a diverse range of wildlife, including snow leopards, ibex, brown bears, and various bird species.",
+    "statistics": [
+      {
+        "category": "Mammals",
+        "count": "Approximately 60",
+        "details": "Including large carnivores and herbivores"
+      },
+      {
+        "category": "Birds",
+        "count": "Over 400",
+        "details": "Migratory and resident species"
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Markhor",
+        "status": "Vulnerable",
+        "significance": "Wild goat species"
+      },
+      {
+        "name": "Golden Eagle",
+        "status": "Least Concern",
+        "significance": "Powerful bird of prey"
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Human-wildlife conflict"
+    ],
+    "conservationEfforts": [
+      "Anti-poaching patrols",
+      "Community-based conservation programs"
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Afghanistan",
+    "description": "Afghanistan offers a range of outdoor activities for adventurous travelers, from trekking in the mountains to exploring ancient ruins.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the stunning mountain landscapes and valleys of Afghanistan on foot.",
+        "activities": [
+          {
+            "name": "Wakhan Valley Trek",
+            "difficulty": "Moderate",
+            "season": "June - September",
+            "duration": "7-10 days",
+            "description": "A challenging trek through the remote Wakhan Valley, offering breathtaking views and cultural encounters.",
+            "bestLocations": [
+              "Qala-i-Shash",
+              "Yankaghan"
+            ],
+            "requirements": "Good fitness level, trekking boots, warm clothing",
+            "safety": [
+              "Altitude sickness",
+              "Flash floods"
+            ]
+          },
+          {
+            "name": "Band-e Amir Hike",
+            "difficulty": "Easy",
+            "season": "April - October",
+            "duration": "Half-day",
+            "description": "A scenic hike around the Band-e Amir lakes, offering stunning views of the surrounding mountains.",
+            "bestLocations": [
+              "Near Band-e Amir"
+            ],
+            "requirements": "Comfortable walking shoes",
+            "safety": [
+              "Sun exposure"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cultural Tours",
+        "icon": "Navigation",
+        "description": "Discover the rich history and culture of Afghanistan through visits to ancient cities and archaeological sites.",
+        "activities": [
+          {
+            "name": "Kabul City Tour",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-3 days",
+            "description": "Explore the historic sites of Kabul, including the Shah-i-Zinda complex and the National Museum.",
+            "bestLocations": [
+              "Kabul"
+            ],
+            "requirements": "Comfortable shoes, modest clothing",
+            "safety": [
+              "Security awareness"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Modest clothing, comfortable shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, flashlight",
+        "hiking": "Trekking boots, hiking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Register with your embassy",
+        "Be aware of security risks"
+      ]
+    }
+  }
+}

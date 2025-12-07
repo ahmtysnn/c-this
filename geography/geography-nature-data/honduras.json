@@ -1,0 +1,358 @@
+{
+  "name": "Honduras",
+  "region": "Central America",
+  "description": "Honduras, often referred to as the ‘Pearl of Central America,’ is a nation brimming with diverse landscapes, from the lush rainforests of the Mosquitia to the rugged peaks of the Sierra Madre mountains and the pristine Caribbean coastline.  It’s a country of vibrant culture, rich history, and significant biodiversity, facing challenges related to deforestation and climate change. Honduras boasts a complex and fascinating past, shaped by indigenous Maya civilizations, Spanish colonization, and a long struggle for independence.  Today, it’s a developing nation striving for economic stability and sustainable development.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Tegucigalpa",
+      "icon": "MapPin",
+      "description": "The political and administrative center of Honduras.",
+      "detail": "Located in the western highlands, Tegucigalpa is a bustling city with a mix of colonial architecture and modern development."
+    },
+    {
+      "label": "Population",
+      "value": "10.3 million",
+      "icon": "Users",
+      "description": "The 10th most populous country in Central America.",
+      "detail": "The population is largely concentrated in urban areas, particularly Tegucigalpa and San Pedro Sula."
+    },
+    {
+      "label": "Area",
+      "value": "112,492 sq km (43,434 sq mi)",
+      "icon": "Globe",
+      "description": "A relatively small country with diverse geographical features.",
+      "detail": "Honduras is bordered by Nicaragua to the north, Guatemala to the south, and the Caribbean Sea and Pacific Ocean to the east and west, respectively."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "ArrowRight",
+      "description": "The primary language spoken throughout the country.",
+      "detail": "Indigenous languages, such as Garifuna and Maya, are also spoken in various regions."
+    },
+    {
+      "label": "Currency",
+      "value": "Lempira (HNL)",
+      "icon": "Zap",
+      "description": "The official currency of Honduras.",
+      "detail": "The exchange rate fluctuates, but approximately 20 Lempiras equals 1 US Dollar."
+    },
+    {
+      "label": "GDP (2023)",
+      "value": "$5.6 billion",
+      "icon": "Thermometer",
+      "description": "A developing economy with significant potential.",
+      "detail": "The economy is heavily reliant on agriculture, manufacturing, and services."
+    }
+  ],
+  "climateData": {
+    "title": "Climate Overview",
+    "description": "Honduras experiences a tropical climate with variations depending on altitude and region. The coastal areas are hot and humid year-round, while the highlands are cooler and drier.  Rainfall is generally abundant, particularly during the rainy seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December - April",
+        "description": "The dry season is characterized by sunny skies, low humidity, and minimal rainfall. It's the most popular time for tourism.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Wildlife viewing",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Rainy Season",
+        "period": "May - November",
+        "description": "The rainy season brings frequent showers and thunderstorms, particularly in the afternoons.  However, the rain is often short-lived, and the landscape remains lush and vibrant.",
+        "keyFeatures": [
+          "High rainfall",
+          "Green landscapes",
+          "Increased humidity"
+        ],
+        "activities": [
+          "River rafting",
+          "Waterfall exploration",
+          "Jungle trekking"
+        ]
+      },
+      {
+        "name": "Hurricane Season",
+        "period": "June - November",
+        "description": "Honduras is vulnerable to hurricanes and tropical storms during this period.  Residents and tourists should monitor weather forecasts closely.",
+        "keyFeatures": [
+          "Potential for severe storms",
+          "Evacuation alerts"
+        ],
+        "activities": [
+          "Limited outdoor activities during storm warnings"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Rio Platano Biosphere Reserve",
+      "category": "Protected Area",
+      "description": "A UNESCO World Heritage Site, the Rio Platano Biosphere Reserve encompasses a vast area of rainforest along the Caribbean coast. It’s a critical habitat for numerous endangered species and showcases the region’s incredible biodiversity.",
+      "detailedDescription": "This reserve is a complex of rivers, lakes, and wetlands, supporting a diverse array of flora and fauna, including jaguars, tapirs, and numerous bird species.  It’s a vital area for scientific research and conservation.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "La Ceiba",
+        "Puerto Cabezas"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring insect repellent",
+        "Wear appropriate footwear"
+      ],
+      "scientificData": {
+        "Area": "1.0 million hectares",
+        "Altitude Range": "Sea level to 1,300m",
+        "Rainfall": "2,000-3,000 mm annually"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Copán Ruins",
+      "category": "Archaeological Site",
+      "description": "Copán Ruins are a remarkable Mayan archaeological site located in western Honduras.  They offer a fascinating glimpse into the sophisticated culture and artistry of the ancient Maya civilization.",
+      "detailedDescription": "The ruins include temples, palaces, plazas, and ball courts, showcasing the advanced architectural and astronomical knowledge of the Maya.  The intricate carvings and hieroglyphs provide valuable insights into their history and beliefs.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "Copán"
+      ],
+      "viewingTips": [
+        "Arrive early to avoid crowds",
+        "Hire a guide to learn about the site's history",
+        "Wear a hat and sunscreen"
+      ],
+      "scientificData": {
+        "Age": "Approximately 1000 years old",
+        "Population": "At its peak, estimated at 12,000-25,000 inhabitants"
+      },
+      "icon": "Eye"
+    },
+    {
+      "id": 3,
+      "name": "Monte Ruma",
+      "category": "Mountain Range",
+      "description": "Monte Ruma, part of the Sierra Madre de Honduras, is a stunning mountain range offering breathtaking views and challenging hiking trails. It’s a haven for birdwatchers and nature enthusiasts.",
+      "detailedDescription": "The mountain is known for its diverse flora and fauna, including cloud forests and endemic species.  The summit provides panoramic views of the surrounding landscape.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "La Mosquitia"
+      ],
+      "viewingTips": [
+        "Pack warm clothing",
+        "Bring hiking boots",
+        "Be prepared for unpredictable weather"
+      ],
+      "scientificData": {
+        "Elevation": "2,400 meters (7,874 feet)",
+        "Vegetation": "Cloud forest, pine forest"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Tropical Rainforests",
+    "icon": "Trees",
+    "description": "Honduras is home to extensive tropical rainforests, representing a significant portion of Central America’s rainforest cover. These forests are incredibly diverse and play a crucial role in regulating the region’s climate.",
+    "statistics": [
+      {
+        "category": "Species Richness",
+        "count": "Over 5,000 plant species",
+        "details": "Honduras boasts an exceptionally high number of plant species, many of which are endemic."
+      },
+      {
+        "category": "Endemic Species",
+        "count": "Over 300 mammal species",
+        "details": "A significant proportion of Honduras’s mammal species are found nowhere else on Earth."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Jaguar",
+        "status": "Endangered",
+        "significance": "A top predator in the rainforest ecosystem."
+      },
+      {
+        "name": "Tapir",
+        "status": "Vulnerable",
+        "significance": "An important seed disperser and herbivore."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Illegal logging",
+      "Mining"
+    ],
+    "conservationEfforts": [
+      "Protected area establishment",
+      "Community-based conservation programs",
+      "Reforestation projects"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Honduran Ecosystems",
+    "overview": "Honduras’s ecosystems are incredibly diverse, ranging from tropical rainforests and cloud forests to coastal wetlands and dry forests. These ecosystems provide essential services, including carbon sequestration, water regulation, and habitat for countless species.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of the country’s land area is protected in national parks and reserves.",
+      "nationalParks": 15
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Tropical Rainforests",
+        "icon": "Trees",
+        "description": "The dominant ecosystem, characterized by high rainfall and biodiversity.",
+        "statistics": [
+          {
+            "category": "Rainfall",
+            "count": "2,000-3,000 mm annually",
+            "details": "Supports lush vegetation and abundant wildlife."
+          },
+          {
+            "category": "Tree Density",
+            "count": "Over 300 species per hectare",
+            "details": "Creates a complex and layered forest structure."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Deforestation",
+          "Agriculture expansion"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Community involvement"
+        ]
+      },
+      {
+        "name": "Coastal Wetlands",
+        "icon": "Waves",
+        "description": "Important habitats for migratory birds and marine life.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 100,000 hectares",
+            "details": "Provides coastal protection and nursery grounds for fish."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration",
+          "Marine protected areas"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Honduras",
+    "description": "Honduras offers a wide range of outdoor activities for adventure seekers and nature lovers. From hiking and wildlife viewing to water sports and cultural experiences, there’s something for everyone.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the country’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Copán Ruins Trail",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-4 hours",
+            "description": "A scenic trail leading to the Copán Ruins, offering stunning views of the surrounding jungle.",
+            "bestLocations": [
+              "Copán"
+            ],
+            "requirements": "Hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Monte Ruma Summit Hike",
+            "difficulty": "Hard",
+            "season": "December - April",
+            "duration": "6-8 hours",
+            "description": "A challenging hike to the summit of Monte Ruma, rewarding hikers with panoramic views.",
+            "bestLocations": [
+              "La Mosquitia"
+            ],
+            "requirements": "Sturdy hiking boots, layers of clothing, water, snacks",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your plans"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Caribbean and Pacific coasts with a variety of water activities.",
+        "activities": [
+          {
+            "name": "Scuba Diving in Roatán",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life of Roatán, a world-renowned diving destination.",
+            "bestLocations": [
+              "Roatán"
+            ],
+            "requirements": "Scuba certification, wetsuit (optional)",
+            "safety": [
+              "Follow dive guidelines",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "White Water Rafting on the Río Frio",
+            "difficulty": "Moderate",
+            "season": "May - November",
+            "duration": "Half-day",
+            "description": "Experience the thrill of white water rafting on the Río Frio, navigating through exciting rapids.",
+            "bestLocations": [
+              "La Ceiba"
+            ],
+            "requirements": "Life jacket, appropriate clothing",
+            "safety": [
+              "Listen to the guide",
+              "Follow safety instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Layers of clothing, jacket, sweater, long pants",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, flashlight, first-aid kit",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Be aware of your surroundings",
+        "Respect local customs"
+      ]
+    }
+  }
+}

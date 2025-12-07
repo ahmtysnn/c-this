@@ -1,0 +1,390 @@
+{
+  "name": "Latvia",
+  "region": "Europe",
+  "description": "Latvia, officially the Republic of Latvia, is a Baltic country in Northern Europe. It’s known for its stunning coastline along the Baltic Sea, vast forests (over 50% of the country is forested), numerous lakes, and a rich history shaped by various empires and cultures. Latvia boasts a unique blend of European and Slavic influences, reflected in its architecture, cuisine, and traditions. The country is a member of the European Union and NATO, and its capital, Riga, is a vibrant cultural hub.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "45,587 km²",
+      "icon": "MapPin",
+      "description": "Latvia is a relatively small country, making it ideal for exploring its diverse landscapes.",
+      "detail": "It's slightly larger than the state of Delaware in the United States."
+    },
+    {
+      "label": "Population",
+      "value": "1,875,757",
+      "icon": "Users",
+      "description": "Latvia has a population of approximately 1.9 million people.",
+      "detail": "The population density is around 41 people per square kilometer."
+    },
+    {
+      "label": "Capital",
+      "value": "Riga",
+      "icon": "MapPin",
+      "description": "Riga, the capital, is a UNESCO World Heritage site renowned for its Art Nouveau architecture.",
+      "detail": "It's one of the oldest cities in Northern Europe."
+    },
+    {
+      "label": "Official Language",
+      "value": "Latvian",
+      "icon": "Globe",
+      "description": "Latvian is a West Germanic language closely related to Lithuanian.",
+      "detail": "Russian is also widely spoken, particularly among older generations."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Latvia adopted the Euro in 2014.",
+      "detail": "The national currency previously was the Latvian Lats."
+    },
+    {
+      "label": "Time Zone",
+      "value": "UTC+2",
+      "icon": "Clock",
+      "description": "Latvia observes Central European Time.",
+      "detail": "During summer, daylight saving time is in effect."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Latvia",
+    "description": "Latvia has a temperate oceanic climate, characterized by cool summers and mild winters. The Gulf Stream significantly moderates the climate, preventing extreme temperatures. Precipitation is relatively evenly distributed throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with snow melting and wildflowers blooming. It's a time of renewal and vibrant colors.",
+        "keyFeatures": [
+          "Melting snow",
+          "Blooming wildflowers",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is the warmest season, with average temperatures ranging from 15°C to 22°C (59°F to 72°F). It's ideal for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Long daylight hours",
+          "Festivals"
+        ],
+        "activities": [
+          "Swimming",
+          "Beach activities",
+          "Outdoor concerts"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and stunning foliage. The forests transform into a tapestry of reds, oranges, and yellows.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Cooler temperatures",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is cold and snowy, with average temperatures ranging from -4°C to 2°C (25°F to 36°F). It's a time for cozy evenings and winter sports.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Christmas markets"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Skrunda Stone Circles",
+      "category": "Archaeological",
+      "description": "The Skrunda Stone Circles are a remarkable collection of ancient stone monuments dating back to the Bronze Age. Their purpose remains a mystery, sparking ongoing research and speculation.",
+      "detailedDescription": "Located in Skrunda, Latvia, these circles consist of over 30 standing stones arranged in various formations. The stones are primarily made of granite and vary in size. The site is considered one of the most important prehistoric archaeological sites in the Baltic region.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "Skrunda, Latvia"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes for walking on uneven terrain.",
+        "Bring a camera to capture the unique formations."
+      ],
+      "scientificData": {
+        "Height": "Stone diameter: 1-2.5m",
+        "Age": "Bronze Age (circa 1500-800 BC)"
+      },
+      "icon": "Navigation"
+    },
+    {
+      "id": 2,
+      "name": " Gauja National Park",
+      "category": "National Park",
+      "description": "Gauja National Park is Latvia’s largest and most popular national park, renowned for its dramatic sandstone cliffs, deep gorges, and diverse wildlife.",
+      "detailedDescription": "Located in southeastern Latvia, the park encompasses a vast area of rolling hills, forests, and the Gauja River. The sandstone cliffs, particularly at Sigulda, offer stunning views and hiking opportunities. The park is also home to numerous caves, including the Gutmani Cave, one of the largest in the Baltic region.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Sigulda, Cēsis, Dundzinava"
+      ],
+      "viewingTips": [
+        "Take a guided tour to learn about the park's geology and history.",
+        "Pack a picnic for a day of exploring."
+      ],
+      "scientificData": {
+        "Area": "121,600 hectares",
+        "Elevation": "Highest point: 294m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Lake Lubāna",
+      "category": "Lake",
+      "description": "Lake Lubāna is a picturesque lake in Latvia, known for its unique water lilies and abundant birdlife.",
+      "detailedDescription": "Located in the Dobele region, Lake Lubāna is one of the deepest lakes in Latvia, reaching a depth of 9.5 meters. It’s surrounded by lush forests and offers stunning views. The lake is a haven for various bird species, including the black-throated diver, a rare visitor to Latvia.",
+      "bestTime": "June - August",
+      "bestLocations": [
+        "Lubāna, Latvia"
+      ],
+      "viewingTips": [
+        "Rent a boat to explore the lake.",
+        "Bring binoculars for birdwatching."
+      ],
+      "scientificData": {
+        "Area": "12.5 km²",
+        "Depth": "Maximum depth: 9.5m"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Forest Ecosystems",
+    "icon": "Trees",
+    "description": "Latvia’s extensive forests play a crucial role in the country’s biodiversity, providing habitat for a wide range of plant and animal species.",
+    "statistics": [
+      {
+        "category": "Forest Cover",
+        "count": "51%",
+        "details": "Over half of Latvia’s land area is covered by forests."
+      },
+      {
+        "category": "Tree Species",
+        "count": "Over 100",
+        "details": "Latvia boasts a diverse range of tree species, including spruce, pine, birch, and oak."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "European Roe Deer",
+        "status": "Near Threatened",
+        "significance": "A key herbivore in the forest ecosystem."
+      },
+      {
+        "name": "Black Grouse",
+        "status": "Vulnerable",
+        "significance": "A symbol of Latvian nature and a specialist forest species."
+      }
+    ],
+    "threats": [
+      "Forest fires",
+      "Illegal logging",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Forest management plans",
+      "Protected areas",
+      "Reforestation projects"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Latvian Ecosystems",
+    "overview": "Latvia’s ecosystems are characterized by a mosaic of forests, lakes, wetlands, and coastal areas. These diverse habitats support a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 10
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forest Ecosystems",
+        "icon": "Trees",
+        "description": "Latvia’s extensive forests play a crucial role in the country’s biodiversity, providing habitat for a wide range of plant and animal species.",
+        "statistics": [
+          {
+            "category": "Forest Cover",
+            "count": "51%",
+            "details": "Over half of Latvia’s land area is covered by forests."
+          },
+          {
+            "category": "Tree Species",
+            "count": "Over 100",
+            "details": "Latvia boasts a diverse range of tree species, including spruce, pine, birch, and oak."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Roe Deer",
+            "status": "Near Threatened",
+            "significance": "A key herbivore in the forest ecosystem."
+          },
+          {
+            "name": "Black Grouse",
+            "status": "Vulnerable",
+            "significance": "A symbol of Latvian nature and a specialist forest species."
+          }
+        ],
+        "threats": [
+          "Forest fires",
+          "Illegal logging",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Forest management plans",
+          "Protected areas",
+          "Reforestation projects"
+        ]
+      },
+      {
+        "name": "Lake Ecosystems",
+        "icon": "Droplets",
+        "description": "Latvia’s numerous lakes provide vital habitat for aquatic species and contribute to the country’s overall biodiversity.",
+        "statistics": [
+          {
+            "category": "Number of Lakes",
+            "count": "15,000+",
+            "details": "Latvia has over 15,000 lakes of varying sizes."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Black-throated Diver",
+            "status": "Near Threatened",
+            "significance": "A rare migratory bird that breeds in Latvia’s lakes."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Lake protection programs",
+          "Water quality monitoring"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Latvia",
+    "description": "Latvia offers a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Latvia’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Sigulda Forest Trails",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "2-6 hours",
+            "description": "A network of trails through the beautiful forests of Sigulda.",
+            "bestLocations": [
+              "Sigulda"
+            ],
+            "requirements": "Hiking boots, water, snacks",
+            "safety": [
+              "Inform someone of your route",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Gauja National Park Trails",
+            "difficulty": "Easy to Hard",
+            "season": "May - October",
+            "duration": "Variable",
+            "description": "Numerous trails offering stunning views of the sandstone cliffs and river gorges.",
+            "bestLocations": [
+              "Cēsis, Dundzinava"
+            ],
+            "requirements": "Hiking boots, water, map",
+            "safety": [
+              "Stick to marked trails",
+              "Be prepared for changing weather"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the Baltic Sea and Latvia’s lakes with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "June - August",
+            "duration": "Variable",
+            "description": "Swim in the Baltic Sea or one of Latvia’s many lakes.",
+            "bestLocations": [
+              "Jūrmala, Riga"
+            ],
+            "requirements": "Swimsuit, towel",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Sailing",
+            "difficulty": "Moderate",
+            "season": "June - August",
+            "duration": "Variable",
+            "description": "Explore the Baltic Sea by sailboat.",
+            "bestLocations": [
+              "Jūrmala, Riga"
+            ],
+            "requirements": "Sailboat rental, sailing experience",
+            "safety": [
+              "Check weather conditions",
+              "Wear a life jacket"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm coat, hat, gloves, scarf, waterproof boots",
+        "yearRound": "Layers of clothing, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, map, compass, headlamp",
+        "photography": "Camera, extra batteries, tripod"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a map and compass",
+        "Be aware of wildlife",
+        "Check weather conditions"
+      ]
+    }
+  }
+}

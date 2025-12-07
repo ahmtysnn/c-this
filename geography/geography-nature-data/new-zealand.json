@@ -1,0 +1,372 @@
+{
+  "name": "New Zealand",
+  "region": "Oceania",
+  "description": "New Zealand, known as Aotearoa in Māori, is an island nation in the southwestern Pacific Ocean. Comprising two main landmasses, the North Island (Te Ika-a-Māui) and the South Island (Te Waipounamu), it’s renowned for its dramatic landscapes, including towering mountains, active volcanoes, geothermal areas, glaciers, and extensive coastlines. The country boasts a unique biodiversity, shaped by its isolation and diverse environments, and is a popular destination for adventure tourism and nature enthusiasts.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "5.2 million",
+      "icon": "Users",
+      "description": "New Zealand has a relatively small but vibrant population.",
+      "detail": "The population is concentrated along the coastlines of both islands."
+    },
+    {
+      "label": "Capital",
+      "value": "Wellington",
+      "icon": "MapPin",
+      "description": "Wellington is the political and administrative center of New Zealand.",
+      "detail": "It’s situated on the southern tip of the North Island."
+    },
+    {
+      "label": "Official Languages",
+      "value": "English, Māori, and New Zealand Sign Language",
+      "icon": "Globe",
+      "description": "Māori is the indigenous language and holds significant cultural importance.",
+      "detail": "English is the most widely spoken language for business and daily life."
+    },
+    {
+      "label": "Currency",
+      "value": "New Zealand Dollar (NZD)",
+      "icon": "Coffee",
+      "description": "The NZD is pegged to the Australian dollar.",
+      "detail": "It's a stable and reliable currency."
+    },
+    {
+      "label": "Time Zone",
+      "value": "UTC+12",
+      "icon": "Clock",
+      "description": "New Zealand operates on a single time zone.",
+      "detail": "It’s ahead of many other countries."
+    }
+  ],
+  "climateData": {
+    "title": "New Zealand Climate",
+    "description": "New Zealand experiences a temperate maritime climate, influenced by the surrounding ocean currents. Temperatures vary significantly between the North and South Islands, with the North Island generally warmer and more humid, and the South Island cooler and drier.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (December - February)",
+        "period": "Warm and dry",
+        "description": "Summer is the peak tourist season, with warm temperatures and plenty of sunshine. It's ideal for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Long daylight hours",
+          "Sunny skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Swimming",
+          "Water sports",
+          "Camping"
+        ]
+      },
+      {
+        "name": "Autumn (March - May)",
+        "period": "Mild and colorful",
+        "description": "Autumn brings cooler temperatures and stunning foliage displays, particularly in the South Island.",
+        "keyFeatures": [
+          "Changing leaves",
+          "Mild temperatures",
+          "Fewer crowds"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting"
+        ]
+      },
+      {
+        "name": "Winter (June - August)",
+        "period": "Cold and wet",
+        "description": "Winter is the wettest season, with cooler temperatures and occasional snowfall in the mountains. It's a good time for skiing and snowboarding.",
+        "keyFeatures": [
+          "Snowfall in the mountains",
+          "Rainy weather",
+          "Short daylight hours"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting geothermal areas"
+        ]
+      },
+      {
+        "name": "Spring (September - November)",
+        "period": "Mild and blossoming",
+        "description": "Spring brings a burst of wildflowers and pleasant temperatures, marking the beginning of the tourist season.",
+        "keyFeatures": [
+          "Wildflowers",
+          "Mild temperatures",
+          "Increasing daylight hours"
+        ],
+        "activities": [
+          "Hiking",
+          "Gardening",
+          "Wildlife watching"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Fiordland National Park",
+      "category": "Mountain & Water",
+      "description": "Fiordland is a UNESCO World Heritage site renowned for its dramatic fiords, towering waterfalls, and ancient rainforests. It’s a haven for wildlife and offers unparalleled opportunities for kayaking and hiking.",
+      "detailedDescription": "The park encompasses Milford Sound, Doubtful Sound, and numerous other fiords carved by glaciers during the last ice age. The sheer scale and beauty of the landscape are truly awe-inspiring.",
+      "bestTime": "Year Round",
+      "bestLocations": [
+        "Milford Sound",
+        "Doubtful Sound",
+        "Te Anau"
+      ],
+      "viewingTips": [
+        "Book cruises and kayaking tours in advance",
+        "Pack waterproof clothing",
+        "Bring binoculars for wildlife viewing"
+      ],
+      "scientificData": {
+        "Elevation": "1000m - 2600m",
+        "Glacier Area": "100 sq km",
+        "Rainfall": "2000mm+ annually"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Tongariro National Park",
+      "category": "Volcanic",
+      "description": "Tongariro National Park is a volcanic wonderland, home to active volcanoes, geothermal areas, and stunning alpine landscapes. It’s famous for its three volcanic peaks – Ngauruhoe, Tongariro, and Ruapehu.",
+      "detailedDescription": "The park is a popular destination for hiking, particularly the Tongariro Alpine Crossing, one of New Zealand’s most iconic day hikes. The volcanic terrain creates a surreal and otherworldly atmosphere.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "Tongariro Alpine Crossing",
+        "Taranaki Falls",
+        "Lake Rotoaora"
+      ],
+      "viewingTips": [
+        "Check weather conditions before hiking",
+        "Wear sturdy hiking boots",
+        "Be aware of volcanic activity"
+      ],
+      "scientificData": {
+        "Volcano Activity": "Active",
+        "Geothermal Activity": "High",
+        "Rock Age": "300,000 years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Abel Tasman National Park",
+      "category": "Coastal",
+      "description": "Abel Tasman National Park is a coastal paradise, characterized by golden beaches, turquoise waters, and lush native forests. It’s a popular destination for kayaking, hiking, and wildlife viewing.",
+      "detailedDescription": "The park is accessible by boat, kayak, or on foot, offering a variety of ways to explore its stunning coastline. The sheltered bays and clear waters are perfect for swimming and snorkeling.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "Marahau",
+        "Tod Hills",
+        "Farewell Spit"
+      ],
+      "viewingTips": [
+        "Rent a kayak or join a guided tour",
+        "Look out for seals and dolphins",
+        "Enjoy a picnic on the beach"
+      ],
+      "scientificData": {
+        "Coastal Length": "60km",
+        "Forest Cover": "12,000 hectares",
+        "Marine Biodiversity": "High"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "New Zealand Ecosystems",
+    "overview": "New Zealand boasts a remarkable array of ecosystems, shaped by its unique geological history and isolation. These include temperate rainforests, alpine meadows, volcanic landscapes, and extensive coastal areas, each supporting a diverse range of flora and fauna.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 13
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Native Birds",
+        "icon": "Bird",
+        "description": "New Zealand is renowned for its unique native birdlife, many of which are found nowhere else in the world.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "80%",
+            "details": "80% of New Zealand’s bird species are endemic."
+          },
+          {
+            "category": "Threatened Species",
+            "count": "30+",
+            "details": "Over 30 bird species are currently threatened."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Kiwi",
+            "status": "Threatened",
+            "significance": "National icon and a symbol of New Zealand's unique biodiversity."
+          },
+          {
+            "name": "Kea",
+            "status": "Vulnerable",
+            "significance": "Highly intelligent and playful alpine parrot."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Introduced predators",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Predator control programs",
+          "Habitat restoration",
+          "Species breeding programs"
+        ]
+      },
+      {
+        "name": "Native Plants",
+        "icon": "Leaf",
+        "description": "New Zealand’s native flora is incredibly diverse, adapted to a wide range of environments.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "90%",
+            "details": "90% of New Zealand’s native plant species are endemic."
+          },
+          {
+            "category": "Threatened Species",
+            "count": "15+",
+            "details": "Over 15 plant species are currently threatened."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Kauri",
+            "status": "Threatened",
+            "significance": "One of the largest trees in the world, a keystone species in the rainforest."
+          },
+          {
+            "name": "Rimu",
+            "status": "Vulnerable",
+            "significance": "A majestic tree with distinctive bark and cones."
+          }
+        ],
+        "threats": [
+          "Pest infestations",
+          "Land clearing",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Pest control",
+          "Reforestation",
+          "Seed banking"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in New Zealand",
+    "description": "New Zealand offers a vast array of outdoor activities for all levels of experience, from gentle walks to challenging climbs.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore New Zealand’s stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Tongariro Alpine Crossing",
+            "difficulty": "Moderate",
+            "season": "October - April",
+            "duration": "6-8 hours",
+            "description": "A challenging but rewarding day hike through a volcanic landscape.",
+            "bestLocations": [
+              "Tongariro National Park"
+            ],
+            "requirements": "Good fitness level, sturdy hiking boots, waterproof clothing",
+            "safety": [
+              "Check weather conditions",
+              "Carry plenty of water",
+              "Inform someone of your plans"
+            ]
+          },
+          {
+            "name": "Abel Tasman Coast Track",
+            "difficulty": "Easy",
+            "season": "November - April",
+            "duration": "3-5 days",
+            "description": "A scenic coastal track with stunning beaches and forests.",
+            "bestLocations": [
+              "Abel Tasman National Park"
+            ],
+            "requirements": "Comfortable walking shoes, sunscreen, hat",
+            "safety": [
+              "Be aware of tides",
+              "Protect yourself from the sun"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of New Zealand.",
+        "activities": [
+          {
+            "name": "Kayaking",
+            "difficulty": "Easy - Moderate",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Explore the coastline and fiords by kayak.",
+            "bestLocations": [
+              "Milford Sound",
+              "Abel Tasman National Park"
+            ],
+            "requirements": "Life jacket, waterproof clothing",
+            "safety": [
+              "Check weather conditions",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Catch some waves on New Zealand’s famous surf beaches.",
+            "bestLocations": [
+              "Piha",
+              "Raglan"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on the season)",
+            "safety": [
+              "Be aware of rips",
+              "Respect local surfers"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket and trousers, hat, gloves",
+        "yearRound": "Versatile clothing that can be layered"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Sturdy hiking boots, trekking poles, map and compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Carry a personal locator beacon (PLB)",
+        "Inform someone of your plans",
+        "Be aware of the weather conditions",
+        "Respect the environment"
+      ]
+    }
+  }
+}

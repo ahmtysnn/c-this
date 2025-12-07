@@ -1,0 +1,1052 @@
+import React, { useState, useEffect } from 'react';
+import {
+  Mountain, Droplets, Thermometer, Wind, Trees, MapPin, Globe, Sun,
+  Cloud, Snowflake, Compass, Waves, Leaf, Bird, Fish, Zap, Flame,
+  Coffee, Navigation, Calendar, Clock, Users, Eye, Activity,
+  BarChart3, Shield, AlertTriangle, Heart, ArrowRight, DollarSign
+} from 'lucide-react';
+
+// Define icon components to avoid dynamic rendering issues
+const IconComponents = {
+  Mountain, Droplets, Thermometer, Wind, Trees, MapPin, Globe, Sun,
+  Cloud, Snowflake, Compass, Waves, Leaf, Bird, Fish, Zap, Flame,
+  Coffee, Navigation, Calendar, Clock, Users, Eye, Activity,
+  BarChart3, Shield, AlertTriangle, Heart, ArrowRight, DollarSign
+};
+
+// Define TypeScript interfaces for the API response
+interface QuickFact {
+  label: string;
+  value: string;
+  icon: string;
+  description: string;
+  detail: string;
+}
+
+interface SeasonalCharacteristic {
+  name: string;
+  period: string;
+  description: string;
+  keyFeatures: string[];
+  activities: string[];
+}
+
+interface ClimateData {
+  title: string;
+  description: string;
+  seasonalCharacteristics: SeasonalCharacteristic[];
+}
+
+interface NaturalWonder {
+  id: number;
+  name: string;
+  category: string;
+  description: string;
+  detailedDescription: string;
+  bestTime: string;
+  bestLocations: string[];
+  viewingTips: string[];
+  scientificData: Record<string, string>;
+  icon: string;
+}
+
+interface ConservationStatus {
+  protectedAreas: string;
+  nationalParks: number;
+}
+
+interface BiodiversityCategory {
+  name: string;
+  icon: string;
+  description: string;
+  statistics: Array<{ category: string; count: string; details: string }>;
+  notableSpecies: Array<{ name: string; status: string; significance: string }>;
+  threats: string[];
+  conservationEfforts: string[];
+}
+
+interface EcosystemData {
+  title: string;
+  overview: string;
+  conservationStatus: ConservationStatus;
+  biodiversityCategories: BiodiversityCategory[];
+}
+
+interface Activity {
+  name: string;
+  difficulty: string;
+  season: string;
+  duration: string;
+  description: string;
+  bestLocations: string[];
+  requirements: string;
+  safety: string;
+}
+
+interface ActivityCategory {
+  name: string;
+  icon: string;
+  description: string;
+  activities: Activity[];
+}
+
+interface ActivitiesData {
+  title: string;
+  description: string;
+  activityCategories: ActivityCategory[];
+  essentialPlanning: {
+    clothing: {
+      summer: string;
+      winter: string;
+      yearRound: string;
+    };
+    equipment: {
+      basic: string;
+      hiking: string;
+      photography: string;
+    };
+    safety: string[];
+  };
+}
+
+interface CountryData {
+  name: string;
+  region: string;
+  description: string;
+  quickFacts: QuickFact[];
+  climateData: ClimateData;
+  naturalWonders: NaturalWonder[];
+  ecosystemData: EcosystemData;
+  activities: ActivitiesData;
+}
+
+// Default data structure for when API data is missing certain fields
+const defaultCountryData: CountryData = {
+  name: "Country",
+  region: "Region",
+  description: "",
+  quickFacts: [],
+  climateData: {
+    title: "Climate & Weather",
+    description: "Climate information",
+    seasonalCharacteristics: []
+  },
+  naturalWonders: [],
+  ecosystemData: {
+    title: "Nature & Biodiversity",
+    overview: "",
+    conservationStatus: {
+      protectedAreas: "",
+      nationalParks: 0
+    },
+    biodiversityCategories: []
+  },
+  activities: {
+    title: "Outdoor Activities & Tourism",
+    description: "",
+    activityCategories: [],
+    essentialPlanning: {
+      clothing: {
+        summer: "Light layers, sun protection, comfortable shoes",
+        winter: "Warm layers, waterproof outerwear, insulated boots",
+        yearRound: "Comfortable walking shoes, rain jacket, backpack"
+      },
+      equipment: {
+        basic: "Water bottle, snacks, map, first aid kit",
+        hiking: "Daypack, hiking poles, navigation tools",
+        photography: "Camera, extra batteries, lens cleaning kit"
+      },
+      safety: [
+        "Check weather forecasts before departure",
+        "Inform someone of your plans",
+        "Carry adequate water and supplies",
+        "Respect wildlife and natural features",
+        "Follow local regulations and guidelines"
+      ]
+    }
+  }
+};
+
+export default function GeographyAndNature({ countryName }: { countryName: string }) {
+  const [selectedFeature, setSelectedFeature] = useState<number | null>(null);
+  const [activeSection, setActiveSection] = useState('geography');
+  const [isScrolled, setIsScrolled] = useState(false);
+  const [countryData, setCountryData] = useState<CountryData>(defaultCountryData);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
+  // --- Theme Logic Start ---
+  const [theme, setTheme] = useState('light');
+
+  useEffect(() => {
+    const storedTheme = localStorage.getItem('theme');
+    if (storedTheme) {
+      setTheme(storedTheme);
+    }
+  }, []);
+
+  const isDark = theme === 'dark';
+  // --- Theme Logic End ---
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 100);
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  // Fetch country data from API
+  useEffect(() => {
+    const fetchCountryData = async () => {
+      setIsLoading(true);
+      setError(null);
+      try {
+        const response = await fetch(`https://ahmtysnn.github.io/c-this/geography/geography-nature-data/${countryName.toLowerCase()}.json`);
+
+        if (!response.ok) {
+          throw new Error(`Failed to fetch data for ${countryName}`);
+        }
+
+        const apiData = await response.json();
+
+        // Merge API data with default structure
+        const mergedData: CountryData = {
+          name: apiData.name || countryName,
+          region: apiData.region || "Unknown Region",
+          description: apiData.description || "",
+          quickFacts: apiData.quickFacts || [],
+          climateData: apiData.climateData || defaultCountryData.climateData,
+          naturalWonders: apiData.naturalWonders || [],
+          ecosystemData: {
+            title: apiData.ecosystemData?.title || defaultCountryData.ecosystemData.title,
+            overview: apiData.ecosystemData?.overview || defaultCountryData.ecosystemData.overview,
+            conservationStatus: {
+              protectedAreas: apiData.ecosystemData?.conservationStatus?.protectedAreas ||
+                defaultCountryData.ecosystemData.conservationStatus.protectedAreas,
+              nationalParks: apiData.ecosystemData?.conservationStatus?.nationalParks || 0
+            },
+            biodiversityCategories: apiData.ecosystemData?.biodiversityCategories ||
+              defaultCountryData.ecosystemData.biodiversityCategories
+          },
+          activities: {
+            title: apiData.activities?.title || defaultCountryData.activities.title,
+            description: apiData.activities?.description || defaultCountryData.activities.description,
+            activityCategories: apiData.activities?.activityCategories ||
+              defaultCountryData.activities.activityCategories,
+            essentialPlanning: {
+              clothing: {
+                summer: apiData.activities?.essentialPlanning?.clothing?.summer ||
+                  defaultCountryData.activities.essentialPlanning.clothing.summer,
+                winter: apiData.activities?.essentialPlanning?.clothing?.winter ||
+                  defaultCountryData.activities.essentialPlanning.clothing.winter,
+                yearRound: apiData.activities?.essentialPlanning?.clothing?.yearRound ||
+                  defaultCountryData.activities.essentialPlanning.clothing.yearRound
+              },
+              equipment: {
+                basic: apiData.activities?.essentialPlanning?.equipment?.basic ||
+                  defaultCountryData.activities.essentialPlanning.equipment.basic,
+                hiking: apiData.activities?.essentialPlanning?.equipment?.hiking ||
+                  defaultCountryData.activities.essentialPlanning.equipment.hiking,
+                photography: apiData.activities?.essentialPlanning?.equipment?.photography ||
+                  defaultCountryData.activities.essentialPlanning.equipment.photography
+              },
+              safety: apiData.activities?.essentialPlanning?.safety ||
+                defaultCountryData.activities.essentialPlanning.safety
+            }
+          }
+        };
+
+        setCountryData(mergedData);
+      } catch (err) {
+        console.error('Error fetching country data:', err);
+        setError(`Failed to load data for ${countryName}. Please try again later.`);
+
+        // Use fallback data
+        const fallbackData: CountryData = {
+          ...defaultCountryData,
+          name: countryName,
+          description: `${countryName} - Explore the natural wonders and geographical features of this country.`,
+        };
+        setCountryData(fallbackData);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
+    if (countryName) {
+      fetchCountryData();
+    }
+  }, [countryName]);
+
+  // Helper function to render icons safely
+  const renderIcon = (iconName: string, className: string = "w-5 h-5") => {
+    const IconComponent = IconComponents[iconName as keyof typeof IconComponents];
+    return IconComponent ? <IconComponent className={className} /> : null;
+  };
+
+  // Helper function to get hero image based on country
+  const getHeroImage = (country: string) => {
+    const countryImages: Record<string, string> = {
+      'iceland': 'https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=1600&h=900&fit=crop',
+      'brazil': 'https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?w=1600&h=900&fit=crop',
+      'norway': 'https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=1600&h=900&fit=crop',
+      'canada': 'https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1600&h=900&fit=crop',
+      'australia': 'https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1600&h=900&fit=crop',
+      'japan': 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1600&h=900&fit=crop',
+      'india': 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1600&h=900&fit=crop',
+      'usa': 'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1600&h=900&fit=crop',
+      'italy': 'https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=1600&h=900&fit=crop',
+      'france': 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1600&h=900&fit=crop',
+      'spain': 'https://images.unsplash.com/photo-1519861531473-920034658307?w=1600&h=900&fit=crop',
+      'germany': 'https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1600&h=900&fit=crop',
+      'uk': 'https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=1600&h=900&fit=crop',
+      'china': 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1600&h=900&fit=crop',
+      'russia': 'https://images.unsplash.com/photo-1513326738677-b964603b136d?w=1600&h=900&fit=crop',
+      'mexico': 'https://images.unsplash.com/photo-1518639192441-8fce0a366e2e?w=1600&h=900&fit=crop',
+      'argentina': 'https://images.unsplash.com/photo-1516009086891-4b8c6d0f1234?w=1600&h=900&fit=crop',
+      'southafrica': 'https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=1600&h=900&fit=crop',
+      'egypt': 'https://images.unsplash.com/photo-1503177119275-0ee372849f8e?w=1600&h=900&fit=crop',
+      'thailand': 'https://images.unsplash.com/photo-1528181304800-259b08848526?w=1600&h=900&fit=crop'
+    };
+
+    const normalizedCountry = country.toLowerCase().replace(/\s+/g, '');
+    return countryImages[normalizedCountry] || 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1600&h=900&fit=crop';
+  };
+
+  // Helper function to get tagline based on country
+  const getTagline = (country: string) => {
+    const taglines: Record<string, string> = {
+      'iceland': 'The Land of Fire and Ice - Where Nature\'s Forces Collide',
+      'brazil': 'The Land of Diversity - From Amazon Rainforest to Tropical Beaches',
+      'norway': 'The Land of Fjords and Northern Lights',
+      'canada': 'The Great White North - Vast Wilderness and Natural Wonders',
+      'australia': 'The Land Down Under - Unique Wildlife and Diverse Landscapes',
+      'japan': 'The Land of the Rising Sun - Mountains, Forests, and Islands',
+      'india': 'Incredible India - Diverse Landscapes from Himalayas to Beaches',
+      'usa': 'America the Beautiful - From Coastlines to National Parks',
+      'italy': 'The Boot - Rich History and Stunning Landscapes',
+      'france': 'L\'Hexagone - Diverse Geography from Alps to Mediterranean',
+      'spain': 'The Iberian Gem - Mountains, Beaches, and Cultural Heritage',
+      'germany': 'Heart of Europe - Forests, Rivers, and Castles',
+      'uk': 'British Isles - Rolling Hills and Dramatic Coastlines',
+      'china': 'Middle Kingdom - Ancient Landscapes and Natural Wonders',
+      'russia': 'The Largest Country - Vast Wilderness and Diverse Ecosystems',
+      'mexico': 'Land of Contrasts - Deserts, Jungles, and Ancient Ruins',
+      'argentina': 'Land of Silver - Andes Mountains to Pampas Plains',
+      'southafrica': 'Rainbow Nation - Diverse Landscapes and Wildlife',
+      'egypt': 'Gift of the Nile - Ancient Deserts and River Valleys',
+      'thailand': 'Land of Smiles - Tropical Beaches and Lush Jungles'
+    };
+
+    const normalizedCountry = country.toLowerCase().replace(/\s+/g, '');
+    return taglines[normalizedCountry] || `Discover the natural wonders of ${country}`;
+  };
+
+  // Helper function to get continent based on country
+  const getContinent = (country: string) => {
+    const continents: Record<string, string> = {
+      'iceland': 'Europe',
+      'brazil': 'South America',
+      'norway': 'Europe',
+      'canada': 'North America',
+      'australia': 'Australia',
+      'japan': 'Asia',
+      'india': 'Asia',
+      'usa': 'North America',
+      'italy': 'Europe',
+      'france': 'Europe',
+      'spain': 'Europe',
+      'germany': 'Europe',
+      'uk': 'Europe',
+      'china': 'Asia',
+      'russia': 'Europe/Asia',
+      'mexico': 'North America',
+      'argentina': 'South America',
+      'southafrica': 'Africa',
+      'egypt': 'Africa',
+      'thailand': 'Asia'
+    };
+
+    const normalizedCountry = country.toLowerCase().replace(/\s+/g, '');
+    return continents[normalizedCountry] || 'Various Continents';
+  };
+
+  if (isLoading) {
+    return (
+      <div className={`min-h-screen flex items-center justify-center ${isDark ? 'bg-slate-950' : 'bg-white'}`}>
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto"></div>
+          <p className={`mt-4 ${isDark ? 'text-slate-300' : 'text-gray-600'}`}>
+            Loading {countryName} geography data...
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className={`min-h-screen flex items-center justify-center ${isDark ? 'bg-slate-950' : 'bg-white'}`}>
+        <div className="text-center max-w-md p-8 rounded-xl bg-red-50 border border-red-200">
+          <AlertTriangle className="w-16 h-16 text-red-500 mx-auto mb-4" />
+          <h3 className="text-xl font-bold text-red-800 mb-2">Error Loading Data</h3>
+          <p className="text-red-600">{error}</p>
+          <button
+            onClick={() => window.location.reload()}
+            className="mt-4 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
+          >
+            Try Again
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  const tagline = getTagline(countryData.name);
+  const continent = getContinent(countryData.name);
+  const heroImage = getHeroImage(countryData.name);
+
+  return (
+    <div className={`min-h-screen transition-colors duration-200 ${isDark ? 'bg-slate-950' : 'bg-white'}`}>
+      {/* Hero Section */}
+      <div className="relative h-screen">
+        <img
+          src={heroImage}
+          alt={countryData.name}
+          className="absolute inset-0 w-full h-full object-cover"
+        />
+        <div className="absolute inset-0 bg-black/50"></div>
+
+        <div className="absolute inset-0 flex items-end pb-20">
+          <div className="w-full max-w-7xl mx-auto px-6">
+            <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/20 backdrop-blur-sm rounded-full text-white text-sm mb-6">
+              <Globe className="w-4 h-4" />
+              {continent} • {countryData.region}
+            </div>
+            <h1 className="text-6xl md:text-8xl font-bold text-white mb-6">
+              {countryData.name}
+            </h1>
+            <p className="text-2xl text-white/90 font-light max-w-3xl leading-relaxed">
+              {tagline}
+            </p>
+
+            {/* Description */}
+            {countryData.description && (
+              <div className="mt-6 max-w-3xl">
+                <p className="text-white/80 leading-relaxed">
+                  {countryData.description}
+                </p>
+              </div>
+            )}
+
+            {/* Quick stats in hero */}
+            <div className="flex flex-wrap gap-6 mt-8 text-white/80">
+              {countryData.naturalWonders.length > 0 && (
+                <div className="flex items-center gap-2">
+                  <Trees className="w-5 h-5" />
+                  <span>{countryData.naturalWonders.length} Natural Wonders</span>
+                </div>
+              )}
+              {countryData.ecosystemData.conservationStatus.nationalParks > 0 && (
+                <div className="flex items-center gap-2">
+                  <Shield className="w-5 h-5" />
+                  <span>{countryData.ecosystemData.conservationStatus.nationalParks} National Parks</span>
+                </div>
+              )}
+              {countryData.quickFacts.length > 0 && (
+                <div className="flex items-center gap-2">
+                  <Activity className="w-5 h-5" />
+                  <span>{countryData.quickFacts.length} Key Facts</span>
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Quick Facts Bar */}
+      {countryData.quickFacts.length > 0 && (
+        <div className={`py-16 ${isDark ? 'bg-slate-950' : 'bg-gray-900'}`}>
+          <div className="max-w-7xl mx-auto px-6">
+            <h2 className="text-3xl font-bold text-white text-center mb-12">{countryData.name} at a Glance</h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {countryData.quickFacts.map((fact, idx) => (
+                <div key={idx} className={`rounded-xl p-6 text-white ${isDark ? 'bg-slate-900 border border-slate-800' : 'bg-gray-800'}`}>
+                  <div className="flex items-center gap-3 mb-4">
+                    {renderIcon(fact.icon, "w-6 h-6 text-blue-400")}
+                    <h3 className="text-lg font-semibold">{fact.label}</h3>
+                  </div>
+                  <div className="text-2xl font-bold text-blue-300 mb-2">{fact.value}</div>
+                  <p className="text-gray-300 mb-2">{fact.description}</p>
+                  <p className="text-sm text-gray-400">{fact.detail}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Navigation */}
+      <div className={`sticky top-0 z-40 transition-all duration-300 ${isScrolled
+          ? (isDark ? 'bg-slate-900 shadow-lg shadow-slate-900/50' : 'bg-white shadow-lg')
+          : (isDark ? 'bg-slate-950' : 'bg-gray-50')
+        }`}>
+        <div className="max-w-7xl mx-auto px-6 py-4">
+          <div className="flex gap-2 overflow-x-auto">
+            {[
+              { id: 'climate', label: 'Climate & Seasons', icon: 'Cloud' },
+              { id: 'wonders', label: 'Natural Wonders', icon: 'Activity' },
+              { id: 'ecosystem', label: 'Ecosystems', icon: 'Trees' },
+              { id: 'activities', label: 'Adventure Guide', icon: 'Navigation' }
+            ].map((section) => (
+              <button
+                key={section.id}
+                onClick={() => setActiveSection(section.id)}
+                className={`flex items-center gap-3 px-6 py-3 rounded-lg font-semibold whitespace-nowrap transition-colors ${activeSection === section.id
+                    ? 'bg-blue-600 text-white shadow-md'
+                    : isDark
+                      ? 'text-slate-400 hover:bg-slate-800 hover:text-slate-200'
+                      : 'text-gray-600 hover:bg-gray-100'
+                  }`}
+              >
+                {renderIcon(section.icon, "w-5 h-5")}
+                {section.label}
+              </button>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      {/* Content Sections */}
+      <div className="max-w-7xl mx-auto px-6 py-16">
+
+        {/* Climate Section */}
+        {activeSection === 'climate' && (
+          <div className="space-y-16">
+            {/* Header */}
+            <div className="max-w-4xl">
+              <div className={`inline-flex items-center gap-2 px-4 py-2 rounded-full font-semibold mb-6 ${isDark ? 'bg-blue-900/40 text-blue-300' : 'bg-blue-100 text-blue-800'
+                }`}>
+                <Cloud className="w-4 h-4" />
+                Climate & Weather
+              </div>
+              <h2 className={`text-5xl font-bold mb-6 ${isDark ? 'text-white' : 'text-gray-900'}`}>
+                {countryData.climateData.title}
+              </h2>
+              <p className={`text-lg leading-relaxed ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                {countryData.climateData.description}
+              </p>
+            </div>
+
+            {/* Seasons */}
+            {countryData.climateData.seasonalCharacteristics.length > 0 && (
+              <div>
+                <h3 className={`text-4xl font-bold mb-8 ${isDark ? 'text-white' : 'text-gray-900'}`}>Seasonal Guide</h3>
+                <div className="grid md:grid-cols-2 gap-8">
+                  {countryData.climateData.seasonalCharacteristics.map((season, idx) => (
+                    <div key={idx} className={`rounded-xl p-6 shadow-sm border ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'
+                      }`}>
+                      <div className="flex items-start justify-between mb-4">
+                        <div>
+                          <h4 className={`text-2xl font-bold mb-2 ${isDark ? 'text-white' : 'text-gray-900'}`}>{season.name}</h4>
+                          <p className={`font-medium ${isDark ? 'text-slate-400' : 'text-gray-500'}`}>{season.period}</p>
+                        </div>
+                      </div>
+
+                      <p className={`mb-4 leading-relaxed ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>{season.description}</p>
+
+                      {season.keyFeatures && season.keyFeatures.length > 0 && (
+                        <div className="mb-4">
+                          <div className={`text-sm font-semibold mb-2 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Key Features:</div>
+                          <ul className={`text-sm space-y-1 ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                            {season.keyFeatures.map((feature, fIdx) => (
+                              <li key={fIdx}>• {feature}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+
+                      {season.activities && season.activities.length > 0 && (
+                        <div className="mb-4">
+                          <div className={`text-sm font-semibold mb-2 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Popular Activities:</div>
+                          <div className="flex flex-wrap gap-2">
+                            {season.activities.map((activity, aIdx) => (
+                              <span key={aIdx} className={`px-3 py-1 rounded-full text-sm ${isDark ? 'bg-blue-900/40 text-blue-300' : 'bg-blue-50 text-blue-700'
+                                }`}>
+                                {activity}
+                              </span>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* Natural Wonders Section */}
+        {activeSection === 'wonders' && (
+          <div className="space-y-16">
+            <div className="max-w-4xl">
+              <h2 className={`text-5xl font-bold mb-6 ${isDark ? 'text-white' : 'text-gray-900'}`}>
+                Natural Wonders of {countryData.name}
+              </h2>
+              <p className={`text-lg leading-relaxed ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                Discover {countryData.name}'s most extraordinary natural phenomena and protected areas.
+              </p>
+            </div>
+
+            {countryData.naturalWonders.length > 0 ? (
+              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {countryData.naturalWonders.map((wonder, idx) => (
+                  <div
+                    key={wonder.id}
+                    className={`rounded-xl shadow-md border overflow-hidden cursor-pointer transition-transform hover:scale-105 ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'
+                      }`}
+                    onClick={() => setSelectedFeature(idx)}
+                  >
+                    <div className="relative aspect-[4/3] bg-gray-200">
+                      <div className="absolute inset-0 bg-gradient-to-br from-blue-900/20 to-green-900/20"></div>
+                      <div className="absolute top-4 left-4">
+                        <span className="inline-flex items-center gap-1 px-3 py-1 bg-black/70 backdrop-blur-sm rounded-full text-white text-sm font-medium">
+                          {renderIcon(wonder.icon, "w-4 h-4")}
+                          {wonder.category}
+                        </span>
+                      </div>
+                      <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-4">
+                        <div className="flex items-center gap-2 mb-2 text-white/90">
+                          <Calendar className="w-4 h-4" />
+                          <span className="text-sm font-medium">{wonder.bestTime}</span>
+                        </div>
+                        <h3 className="text-xl font-bold text-white">
+                          {wonder.name}
+                        </h3>
+                      </div>
+                    </div>
+
+                    <div className="p-6">
+                      <p className={`leading-relaxed mb-4 line-clamp-3 ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                        {wonder.description}
+                      </p>
+
+                      <div className="flex items-center justify-between text-sm">
+                        <span className={`font-semibold ${isDark ? 'text-blue-400' : 'text-blue-600'}`}>Learn more →</span>
+                        <span className={`${isDark ? 'text-slate-500' : 'text-gray-500'}`}>{wonder.bestTime}</span>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <div className={`text-center py-12 ${isDark ? 'bg-slate-900' : 'bg-gray-50'} rounded-xl`}>
+                <Trees className={`w-16 h-16 mx-auto mb-4 ${isDark ? 'text-slate-600' : 'text-gray-400'}`} />
+                <p className={`text-lg ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                  No specific natural wonders data available for {countryData.name}.
+                </p>
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* Ecosystem Section */}
+        {activeSection === 'ecosystem' && (
+          <div className="space-y-16">
+            <div className="max-w-4xl">
+              <h2 className={`text-5xl font-bold mb-6 ${isDark ? 'text-white' : 'text-gray-900'}`}>
+                {countryData.ecosystemData.title}
+              </h2>
+              <p className={`text-lg leading-relaxed ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                {countryData.ecosystemData.overview}
+              </p>
+            </div>
+
+            {/* Conservation Status */}
+            {(countryData.ecosystemData.conservationStatus.protectedAreas ||
+              countryData.ecosystemData.conservationStatus.nationalParks > 0) && (
+                <div className={`rounded-2xl p-8 ${isDark ? 'bg-green-900/20' : 'bg-green-50'}`}>
+                  <h3 className={`text-3xl font-bold mb-6 ${isDark ? 'text-white' : 'text-gray-900'}`}>Conservation Status</h3>
+                  <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 text-center">
+                    {countryData.ecosystemData.conservationStatus.protectedAreas && (
+                      <div>
+                        <div className={`text-3xl font-bold mb-2 ${isDark ? 'text-green-400' : 'text-green-600'}`}>
+                          {countryData.ecosystemData.conservationStatus.protectedAreas}
+                        </div>
+                        <div className={`${isDark ? 'text-green-300' : 'text-green-700'}`}>Protected Areas</div>
+                      </div>
+                    )}
+                    {countryData.ecosystemData.conservationStatus.nationalParks > 0 && (
+                      <div>
+                        <div className={`text-3xl font-bold mb-2 ${isDark ? 'text-green-400' : 'text-green-600'}`}>
+                          {countryData.ecosystemData.conservationStatus.nationalParks}
+                        </div>
+                        <div className={`${isDark ? 'text-green-300' : 'text-green-700'}`}>National Parks</div>
+                      </div>
+                    )}
+                  </div>
+                </div>
+              )}
+
+            {/* Biodiversity Categories */}
+            {countryData.ecosystemData.biodiversityCategories.length > 0 && (
+              <div className="space-y-12">
+                {countryData.ecosystemData.biodiversityCategories.map((category, idx) => (
+                  <div key={idx} className={`rounded-2xl p-8 shadow-sm border ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'
+                    }`}>
+                    <div className="flex items-center gap-4 mb-6">
+                      {renderIcon(category.icon, `w-8 h-8 ${isDark ? 'text-slate-300' : 'text-gray-700'}`)}
+                      <h3 className={`text-3xl font-bold ${isDark ? 'text-white' : 'text-gray-900'}`}>{category.name}</h3>
+                    </div>
+
+                    <p className={`text-lg mb-8 leading-relaxed ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>{category.description}</p>
+
+                    {/* Statistics */}
+                    {category.statistics && category.statistics.length > 0 && (
+                      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+                        {category.statistics.map((stat, statIdx) => (
+                          <div key={statIdx} className={`rounded-lg p-4 ${isDark ? 'bg-slate-800' : 'bg-gray-50'}`}>
+                            <div className={`text-xl font-bold mb-1 ${isDark ? 'text-white' : 'text-gray-900'}`}>{stat.count}</div>
+                            <div className={`text-sm font-semibold mb-1 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>{stat.category}</div>
+                            <div className={`text-xs ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>{stat.details}</div>
+                          </div>
+                        ))}
+                      </div>
+                    )}
+
+                    {/* Notable Species */}
+                    {category.notableSpecies && category.notableSpecies.length > 0 && (
+                      <div className="mb-8">
+                        <h4 className={`text-xl font-semibold mb-4 ${isDark ? 'text-white' : 'text-gray-900'}`}>Notable Species</h4>
+                        <div className="grid md:grid-cols-2 gap-4">
+                          {category.notableSpecies.map((species, speciesIdx) => (
+                            <div key={speciesIdx} className={`flex items-center justify-between p-3 border rounded-lg ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'
+                              }`}>
+                              <div>
+                                <div className={`font-semibold ${isDark ? 'text-white' : 'text-gray-900'}`}>{species.name}</div>
+                                <div className={`text-sm ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>{species.status}</div>
+                              </div>
+                              <div className={`text-sm text-right ${isDark ? 'text-slate-500' : 'text-gray-500'}`}>{species.significance}</div>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {/* Threats & Conservation */}
+                    <div className="grid md:grid-cols-2 gap-8">
+                      {category.threats && category.threats.length > 0 && (
+                        <div>
+                          <h4 className={`text-xl font-semibold mb-4 flex items-center gap-2 ${isDark ? 'text-white' : 'text-gray-900'}`}>
+                            <AlertTriangle className="w-5 h-5 text-orange-500" />
+                            Major Threats
+                          </h4>
+                          <ul className="space-y-2">
+                            {category.threats.map((threat, threatIdx) => (
+                              <li key={threatIdx} className={`flex items-center gap-2 ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                                <div className="w-2 h-2 bg-orange-500 rounded-full"></div>
+                                {threat}
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+
+                      {category.conservationEfforts && category.conservationEfforts.length > 0 && (
+                        <div>
+                          <h4 className={`text-xl font-semibold mb-4 flex items-center gap-2 ${isDark ? 'text-white' : 'text-gray-900'}`}>
+                            <Shield className="w-5 h-5 text-green-500" />
+                            Conservation Efforts
+                          </h4>
+                          <ul className="space-y-2">
+                            {category.conservationEfforts.map((effort, effortIdx) => (
+                              <li key={effortIdx} className={`flex items-center gap-2 ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                                <div className="w-2 h-2 bg-green-500 rounded-full"></div>
+                                {effort}
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* Activities Section */}
+        {activeSection === 'activities' && (
+          <div className="space-y-16">
+            <div className="max-w-4xl">
+              <h2 className={`text-5xl font-bold mb-6 ${isDark ? 'text-white' : 'text-gray-900'}`}>
+                {countryData.activities.title}
+              </h2>
+              <p className={`text-lg leading-relaxed ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                {countryData.activities.description}
+              </p>
+            </div>
+
+            {/* Activity Categories */}
+            {countryData.activities.activityCategories.length > 0 ? (
+              <div className="space-y-12">
+                {countryData.activities.activityCategories.map((category, categoryIdx) => (
+                  <div key={categoryIdx} className={`rounded-2xl p-8 shadow-sm border ${isDark ? 'bg-slate-900 border-slate-800' : 'bg-white border-gray-200'
+                    }`}>
+                    <div className="flex items-center gap-4 mb-6">
+                      {renderIcon(category.icon, `w-8 h-8 ${isDark ? 'text-slate-300' : 'text-gray-700'}`)}
+                      <div>
+                        <h3 className={`text-3xl font-bold ${isDark ? 'text-white' : 'text-gray-900'}`}>{category.name}</h3>
+                        <p className={`${isDark ? 'text-slate-400' : 'text-gray-600'}`}>{category.description}</p>
+                      </div>
+                    </div>
+
+                    <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                      {category.activities.map((activity, activityIdx) => (
+                        <div key={activityIdx} className={`rounded-xl p-6 ${isDark ? 'bg-slate-800' : 'bg-gray-50'}`}>
+                          <h4 className={`text-xl font-semibold mb-3 ${isDark ? 'text-white' : 'text-gray-900'}`}>{activity.name}</h4>
+
+                          <div className="flex items-center gap-4 mb-3 text-sm">
+                            <span className={`px-3 py-1 rounded-full font-semibold ${activity.difficulty === 'Easy' ? (isDark ? 'bg-green-900/40 text-green-300' : 'bg-green-100 text-green-800') :
+                                activity.difficulty === 'Moderate' ? (isDark ? 'bg-yellow-900/40 text-yellow-300' : 'bg-yellow-100 text-yellow-800') :
+                                  (isDark ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800')
+                              }`}>
+                              {activity.difficulty}
+                            </span>
+                            <span className={`${isDark ? 'text-slate-400' : 'text-gray-600'}`}>{activity.season}</span>
+                            <span className={`${isDark ? 'text-slate-400' : 'text-gray-600'}`}>{activity.duration}</span>
+                          </div>
+
+                          <p className={`mb-4 text-sm leading-relaxed ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>{activity.description}</p>
+
+                          {activity.bestLocations && activity.bestLocations.length > 0 && (
+                            <div className="mb-4">
+                              <div className={`text-sm font-semibold mb-2 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Best Locations:</div>
+                              <div className={`text-sm space-y-1 ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                                {activity.bestLocations.map((location, locIdx) => (
+                                  <div key={locIdx}>• {location}</div>
+                                ))}
+                              </div>
+                            </div>
+                          )}
+
+                          <div className="mb-4">
+                            <div className={`text-sm font-semibold mb-2 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Requirements:</div>
+                            <div className={`text-sm ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>{activity.requirements}</div>
+                          </div>
+
+                          <div>
+                            <div className={`text-sm font-semibold mb-2 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Safety:</div>
+                            <div className={`text-sm ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>{activity.safety}</div>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <div className={`rounded-2xl p-8 ${isDark ? 'bg-slate-900' : 'bg-gray-50'}`}>
+                <p className={`text-center ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                  No specific activity data available for {countryData.name}.
+                </p>
+              </div>
+            )}
+
+            {/* Essential Planning */}
+            <div className={`rounded-2xl p-8 ${isDark ? 'bg-blue-900/20' : 'bg-blue-50'}`}>
+              <h3 className={`text-3xl font-bold mb-8 ${isDark ? 'text-white' : 'text-gray-900'}`}>Essential Planning Guide</h3>
+
+              <div className="grid md:grid-cols-3 gap-8">
+                {/* Clothing */}
+                <div>
+                  <h4 className={`text-xl font-semibold mb-4 ${isDark ? 'text-white' : 'text-gray-900'}`}>Clothing Recommendations</h4>
+                  <div className={`space-y-4 text-sm ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                    <div>
+                      <div className={`font-semibold mb-1 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Summer:</div>
+                      <div>{countryData.activities.essentialPlanning.clothing.summer}</div>
+                    </div>
+                    <div>
+                      <div className={`font-semibold mb-1 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Winter:</div>
+                      <div>{countryData.activities.essentialPlanning.clothing.winter}</div>
+                    </div>
+                    <div>
+                      <div className={`font-semibold mb-1 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Year-round:</div>
+                      <div>{countryData.activities.essentialPlanning.clothing.yearRound}</div>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Equipment */}
+                <div>
+                  <h4 className={`text-xl font-semibold mb-4 ${isDark ? 'text-white' : 'text-gray-900'}`}>Essential Equipment</h4>
+                  <div className={`space-y-4 text-sm ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                    <div>
+                      <div className={`font-semibold mb-1 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Basic:</div>
+                      <div>{countryData.activities.essentialPlanning.equipment.basic}</div>
+                    </div>
+                    <div>
+                      <div className={`font-semibold mb-1 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Hiking:</div>
+                      <div>{countryData.activities.essentialPlanning.equipment.hiking}</div>
+                    </div>
+                    <div>
+                      <div className={`font-semibold mb-1 ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>Photography:</div>
+                      <div>{countryData.activities.essentialPlanning.equipment.photography}</div>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Safety */}
+                <div>
+                  <h4 className={`text-xl font-semibold mb-4 ${isDark ? 'text-white' : 'text-gray-900'}`}>Safety Guidelines</h4>
+                  <ul className={`space-y-2 text-sm ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                    {countryData.activities.essentialPlanning.safety.map((tip, tipIdx) => (
+                      <li key={tipIdx} className="flex items-start gap-2">
+                        <Shield className="w-4 h-4 text-blue-500 mt-0.5 flex-shrink-0" />
+                        {tip}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+      </div>
+
+      {/* Modal for Selected Natural Wonder */}
+      {selectedFeature !== null && countryData.naturalWonders[selectedFeature] && (
+        <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4">
+          <div className={`rounded-xl max-w-4xl w-full max-h-[90vh] overflow-y-auto ${isDark ? 'bg-slate-900' : 'bg-white'
+            }`}>
+            <div className="relative">
+              <div className="w-full h-64 bg-gradient-to-br from-blue-900/20 to-green-900/20 rounded-t-xl"></div>
+              <button
+                onClick={() => setSelectedFeature(null)}
+                className="absolute top-4 right-4 w-8 h-8 bg-black/50 text-white rounded-full flex items-center justify-center hover:bg-black/70"
+              >
+                ×
+              </button>
+              <div className="absolute bottom-4 left-4">
+                <span className="inline-flex items-center gap-2 px-3 py-1 bg-white/90 backdrop-blur-sm rounded-full text-gray-700 text-sm font-medium">
+                  {renderIcon(countryData.naturalWonders[selectedFeature].icon, "w-4 h-4")}
+                  {countryData.naturalWonders[selectedFeature].category}
+                </span>
+              </div>
+            </div>
+
+            <div className="p-8">
+              <div className="flex items-center gap-4 mb-6">
+                <div className={`flex items-center gap-2 ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                  <Calendar className="w-5 h-5" />
+                  <span>{countryData.naturalWonders[selectedFeature].bestTime}</span>
+                </div>
+              </div>
+
+              <h3 className={`text-3xl font-bold mb-4 ${isDark ? 'text-white' : 'text-gray-900'}`}>
+                {countryData.naturalWonders[selectedFeature].name}
+              </h3>
+
+              <p className={`text-lg leading-relaxed mb-6 ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                {countryData.naturalWonders[selectedFeature].description}
+              </p>
+
+              <p className={`leading-relaxed mb-8 ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                {countryData.naturalWonders[selectedFeature].detailedDescription}
+              </p>
+
+              <div className="grid md:grid-cols-2 gap-8">
+                <div className="space-y-6">
+                  {/* Scientific Data */}
+                  {countryData.naturalWonders[selectedFeature].scientificData &&
+                    Object.keys(countryData.naturalWonders[selectedFeature].scientificData).length > 0 && (
+                      <div className={`rounded-lg p-6 ${isDark ? 'bg-slate-800' : 'bg-gray-50'}`}>
+                        <h4 className={`text-xl font-semibold mb-4 ${isDark ? 'text-white' : 'text-gray-900'}`}>Scientific Information</h4>
+                        <div className={`space-y-3 text-sm ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                          {Object.entries(countryData.naturalWonders[selectedFeature].scientificData).map(([key, value]) => (
+                            <div key={key} className="flex justify-between">
+                              <span className={`font-medium capitalize ${isDark ? 'text-slate-300' : 'text-gray-700'}`}>{key.replace(/([A-Z])/g, ' $1')}:</span>
+                              <span className="text-right">{value}</span>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                  {/* Best Locations */}
+                  {countryData.naturalWonders[selectedFeature].bestLocations &&
+                    countryData.naturalWonders[selectedFeature].bestLocations.length > 0 && (
+                      <div>
+                        <h4 className={`text-xl font-semibold mb-4 ${isDark ? 'text-white' : 'text-gray-900'}`}>Best Locations</h4>
+                        <ul className={`space-y-2 ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                          {countryData.naturalWonders[selectedFeature].bestLocations.map((location, locIdx) => (
+                            <li key={locIdx} className="flex items-center gap-2">
+                              <MapPin className="w-4 h-4 text-blue-500" />
+                              {location}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                </div>
+
+                <div className="space-y-6">
+                  {/* Viewing Tips */}
+                  {countryData.naturalWonders[selectedFeature].viewingTips &&
+                    countryData.naturalWonders[selectedFeature].viewingTips.length > 0 && (
+                      <div>
+                        <h4 className={`text-xl font-semibold mb-4 ${isDark ? 'text-white' : 'text-gray-900'}`}>Viewing Tips & Advice</h4>
+                        <ul className="space-y-3">
+                          {countryData.naturalWonders[selectedFeature].viewingTips.map((tip, tipIdx) => (
+                            <li key={tipIdx} className={`flex items-start gap-3 ${isDark ? 'text-slate-400' : 'text-gray-600'}`}>
+                              <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 flex-shrink-0"></div>
+                              {tip}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+
+                  {/* Safety Notice */}
+                  <div className={`border rounded-lg p-4 ${isDark ? 'bg-yellow-900/20 border-yellow-800' : 'bg-yellow-50 border-yellow-200'
+                    }`}>
+                    <h5 className={`font-semibold mb-2 flex items-center gap-2 ${isDark ? 'text-yellow-200' : 'text-yellow-800'}`}>
+                      <AlertTriangle className="w-5 h-5" />
+                      Important Safety Notice
+                    </h5>
+                    <p className={`text-sm ${isDark ? 'text-yellow-100/80' : 'text-yellow-700'}`}>
+                      Always prioritize safety when visiting natural wonders. Follow marked paths, respect warning signs,
+                      check weather conditions, and be prepared for changing conditions.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Footer */}
+      <div className={`py-16 text-white ${isDark ? 'bg-slate-950' : 'bg-gray-900'}`}>
+        <div className="max-w-7xl mx-auto px-6 text-center">
+          <Globe className="w-16 h-16 mx-auto mb-6 opacity-50" />
+          <h3 className="text-3xl font-bold mb-4">Explore the Natural Wonders of {countryData.name}</h3>
+          <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
+            Discover the unique landscapes, ecosystems, and geographical features that make {countryData.name} a remarkable destination.
+            Plan your journey responsibly and help preserve this natural heritage.
+          </p>
+          <div className="flex justify-center gap-8 text-gray-400 text-sm">
+            <span>© 2024 {countryData.name} Nature Guide</span>
+            <span>•</span>
+            <span>Protected by Conservation Laws</span>
+            <span>•</span>
+            <span>Sustainable Tourism Initiative</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

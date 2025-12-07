@@ -1,0 +1,389 @@
+{
+  "name": "Oman",
+  "region": "Middle East",
+  "description": "Oman, a sultanate nestled on the southeastern coast of the Arabian Peninsula, boasts a diverse landscape ranging from towering mountains and dramatic wadis to vast deserts and pristine coastline. Rich in history and culture, Oman offers a unique blend of traditional Bedouin life and modern development. Its strategic location has shaped its identity, fostering trade and cultural exchange for centuries.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "4.6 million",
+      "icon": "Users",
+      "description": "The population of Oman is primarily comprised of Omani Arabs, with a significant expatriate community.",
+      "detail": "The majority of the population resides in urban centers like Muscat, Salalah, and Sohar."
+    },
+    {
+      "label": "Capital",
+      "value": "Muscat",
+      "icon": "MapPin",
+      "description": "Muscat is the political, economic, and cultural center of Oman.",
+      "detail": "It's a modern city with a historic old town (Al-Rimal) and a vibrant waterfront."
+    },
+    {
+      "label": "Area",
+      "value": "309,500 sq km (119,000 sq mi)",
+      "icon": "Globe",
+      "description": "Oman is the fifth-largest country in the Arabian Peninsula.",
+      "detail": "It's roughly the size of the UK."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "ArrowRight",
+      "description": "Omani Arabic is the official language, with some regional dialects.",
+      "detail": "English is widely spoken, particularly in business and tourism."
+    },
+    {
+      "label": "Currency",
+      "value": "Omani Rial (OMR)",
+      "icon": "Coffee",
+      "description": "The Omani Rial is pegged to the US dollar.",
+      "detail": "Exchange rates fluctuate slightly, but generally remain stable."
+    },
+    {
+      "label": "GDP",
+      "value": "$36.3 billion (2023)",
+      "icon": "Zap",
+      "description": "Oman's economy is driven by oil and gas, tourism, and fisheries.",
+      "detail": "Diversification efforts are underway to reduce reliance on hydrocarbons."
+    }
+  ],
+  "climateData": {
+    "title": "Oman's Climate",
+    "description": "Oman experiences a hot desert climate with significant seasonal variations. The coastal areas enjoy milder temperatures, while the interior is extremely hot during the summer. Rainfall is concentrated during the winter months.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "This is Oman’s hottest period, with temperatures soaring to 45°C (113°F) or higher in the interior.  The coastal areas are still warm, around 35-40°C (95-104°F).",
+        "keyFeatures": [
+          "Extreme heat",
+          "Low humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Relaxing on beaches",
+          "Desert exploration (with precautions)",
+          "Visiting souks"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Temperatures begin to moderate, with daytime highs averaging around 30-35°C (86-95°F). Rainfall increases, particularly in the western mountains.",
+        "keyFeatures": [
+          "Pleasant temperatures",
+          "Increased rainfall",
+          "Wildflowers bloom"
+        ],
+        "activities": [
+          "Hiking in the mountains",
+          "Wadi exploration",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winters are mild and relatively wet, with average daytime temperatures ranging from 18-22°C (64-72°F). The northern mountains receive significant snowfall.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Rainfall",
+          "Snow in the mountains"
+        ],
+        "activities": [
+          "Exploring wadis",
+          "Visiting historical sites",
+          "Desert camping"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Temperatures rise again, with average daytime highs around 28-32°C (82-90°F). The landscape comes alive with greenery and blooming flowers.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Green landscapes",
+          "Blooming flowers"
+        ],
+        "activities": [
+          "Hiking",
+          "Wadi exploration",
+          "Wildlife spotting"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Jebel Akhdar (Green Mountain)",
+      "category": "Mountain Range",
+      "description": "Jebel Akhdar, meaning 'Green Mountain', is a dramatic mountain range in the northwest of Oman, characterized by terraced farms, lush greenery, and stunning views. It's a UNESCO World Heritage Site.",
+      "detailedDescription": "The area is renowned for its unique microclimate, which allows for the cultivation of fruits and vegetables at high altitudes. Traditional Omani villages cling to the mountainsides, offering a glimpse into a bygone era.",
+      "bestTime": "October - April",
+      "bestLocations": [
+        "Al Ain",
+        "Al Jabal",
+        "Sayt",
+        "Ubar"
+      ],
+      "viewingTips": [
+        "Wear layers as temperatures can fluctuate",
+        "Bring sunscreen and a hat",
+        "Respect local customs"
+      ],
+      "scientificData": {
+        "Height": "2,917m (9,570 ft)",
+        "Altitude": "High altitude, creating a unique climate",
+        "Rainfall": "Average annual rainfall of 600mm (24 inches)"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Wadi Shab",
+      "category": "Wadi",
+      "description": "Wadi Shab is a stunning wadi (canyon) located in the south of Oman, known for its crystal-clear turquoise pools and towering cliffs. It's a popular destination for swimming and hiking.",
+      "detailedDescription": "The wadi requires a short hike through rocky terrain and wading through shallow water to reach the main pools. The final pool is a hidden oasis surrounded by lush vegetation.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "Wadi Shab"
+      ],
+      "viewingTips": [
+        "Wear water shoes",
+        "Bring a waterproof bag for valuables",
+        "Start early to avoid crowds"
+      ],
+      "scientificData": {
+        "Length": "Approximately 10km (6.2 miles)",
+        "Water Source": "Underground springs",
+        "Erosion": "Erosion by flash floods has shaped the wadi's dramatic landscape"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "The Empty Quarter (Rub' al Khali)",
+      "category": "Desert",
+      "description": "The Empty Quarter, also known as Rub' al Khali, is the largest continuous sand desert in the world, stretching across southern Oman and Yemen. It's a vast, desolate landscape of towering dunes and shifting sands.",
+      "detailedDescription": "Exploring the Empty Quarter requires specialized equipment and experienced guides. The area is known for its extreme temperatures and challenging terrain. It offers a unique opportunity to experience the raw beauty of the Arabian Peninsula.",
+      "bestTime": "November - March",
+      "bestLocations": [
+        "Sharurah",
+        "Madha"
+      ],
+      "viewingTips": [
+        "Bring plenty of water and sunscreen",
+        "Travel with a reputable guide",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Area": "Approximately 500,000 sq km (193,000 sq mi)",
+        "Sand Dune Height": "Dunes can reach heights of up to 30 meters (100 feet)",
+        "Sand Composition": "Primarily quartz sand"
+      },
+      "icon": "Wind"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Marine Biodiversity",
+    "icon": "Fish",
+    "description": "Oman's coastline is home to a rich and diverse marine ecosystem, supporting a wide range of fish, coral, and marine mammals.",
+    "statistics": [
+      {
+        "category": "Coral Reefs",
+        "count": "Approximately 150 species",
+        "details": "The coral reefs of Oman are home to a variety of colorful fish, invertebrates, and algae."
+      },
+      {
+        "category": "Fish Species",
+        "count": "Over 300 species",
+        "details": "Oman's waters support a diverse range of fish, including tuna, grouper, and barracuda."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Hawksbill Turtle",
+        "status": "Vulnerable",
+        "significance": "A key indicator of marine ecosystem health."
+      },
+      {
+        "name": "Dugong",
+        "status": "Endangered",
+        "significance": "A gentle marine mammal that grazes on seagrass."
+      }
+    ],
+    "threats": [
+      "Overfishing",
+      "Pollution",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Marine protected areas",
+      "Sustainable fishing practices",
+      "Coral reef restoration"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Oman's Ecosystems",
+    "overview": "Oman’s ecosystems are incredibly diverse, ranging from arid deserts and rugged mountains to lush wadis and coastal marine environments. These ecosystems support a wide array of plant and animal life, many of which are endemic to the region.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Oman’s land area is protected within national parks and reserves.",
+      "nationalParks": 10
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Desert Ecosystems",
+        "icon": "Sun",
+        "description": "Dominated by sand dunes, rocky plateaus, and sparse vegetation, these ecosystems are adapted to extreme heat and aridity.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "Approximately 200 species",
+            "details": "Many plants are drought-resistant and have deep root systems."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Desert Fox",
+            "status": "Least Concern",
+            "significance": "A nocturnal predator adapted to desert life."
+          }
+        ],
+        "threats": [
+          "Desertification",
+          "Overgrazing"
+        ],
+        "conservationEfforts": [
+          "Sustainable grazing practices",
+          "Reforestation projects"
+        ]
+      },
+      {
+        "name": "Coastal Ecosystems",
+        "icon": "Waves",
+        "description": "Oman’s coastline is characterized by diverse habitats, including coral reefs, mangroves, seagrass beds, and rocky shores.",
+        "statistics": [
+          {
+            "category": "Mangrove Species",
+            "count": "Approximately 30 species",
+            "details": "Mangroves provide important habitat for fish and other marine life."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Oman Damselfish",
+            "status": "Near Threatened",
+            "significance": "A unique species found only in Oman's coastal waters."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Mangrove restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Oman",
+    "description": "Oman offers a wide range of outdoor activities for all levels of experience, from hiking and camping to water sports and cultural tours.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Oman’s stunning mountains, wadis, and coastal trails.",
+        "activities": [
+          {
+            "name": "Jebel Akhdar Hike",
+            "difficulty": "Moderate",
+            "season": "Autumn - Spring",
+            "duration": "3-6 hours",
+            "description": "Hike through the terraced farms and villages of Jebel Akhdar.",
+            "bestLocations": [
+              "Al Ain",
+              "Al Jabal"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Wadi Shab Hike",
+            "difficulty": "Easy",
+            "season": "November - April",
+            "duration": "4-5 hours",
+            "description": "Hike through the wadi to reach the hidden pools.",
+            "bestLocations": [
+              "Wadi Shab"
+            ],
+            "requirements": "Water shoes, waterproof bag",
+            "safety": [
+              "Be careful of slippery rocks",
+              "Check water levels"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy swimming, snorkeling, diving, and kayaking in Oman’s pristine waters.",
+        "activities": [
+          {
+            "name": "Snorkeling in Bandar Al Juthrah",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and marine life of Bandar Al Juthrah.",
+            "bestLocations": [
+              "Bandar Al Juthrah"
+            ],
+            "requirements": "Snorkeling gear",
+            "safety": [
+              "Be aware of currents",
+              "Use reef-safe sunscreen"
+            ]
+          },
+          {
+            "name": "Diving in the Straits of Hormuz",
+            "difficulty": "Moderate",
+            "season": "November - April",
+            "duration": "3-6 hours",
+            "description": "Dive among shipwrecks and diverse marine ecosystems in the Straits of Hormuz.",
+            "bestLocations": [
+              "Sharurah"
+            ],
+            "requirements": "Scuba certification",
+            "safety": [
+              "Follow dive guidelines",
+              "Check weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, hat, sunglasses",
+        "winter": "Layers of clothing, including a jacket, sweater, and long pants",
+        "yearRound": "Comfortable walking shoes, sunscreen, insect repellent"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Respect local customs",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

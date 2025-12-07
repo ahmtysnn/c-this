@@ -1,0 +1,350 @@
+{
+  "name": "Bolivia",
+  "region": "South America",
+  "description": "Bolivia, officially the Plurinational State of Bolivia, is a landlocked country in the heart of South America. Characterized by dramatic landscapes ranging from the Andes Mountains to the Amazon rainforest, Bolivia boasts incredible biodiversity, rich indigenous cultures, and a complex history. It’s a country of stark contrasts, offering adventure, cultural immersion, and breathtaking natural beauty.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Sucre",
+      "icon": "MapPin",
+      "description": "Sucre serves as the constitutional capital and judicial center of Bolivia.",
+      "detail": "Designated a UNESCO World Heritage Site, Sucre is renowned for its well-preserved colonial architecture and vibrant cultural scene."
+    },
+    {
+      "label": "Population",
+      "value": "12.35 million",
+      "icon": "Users",
+      "description": "Bolivia has a diverse population, primarily composed of indigenous groups.",
+      "detail": "A significant portion of the population speaks indigenous languages alongside Spanish."
+    },
+    {
+      "label": "Area",
+      "value": "1,098,581 sq km",
+      "icon": "Globe",
+      "description": "Bolivia is the second-largest country in South America by land area.",
+      "detail": "Its vast territory encompasses a wide range of ecosystems, from high-altitude deserts to tropical rainforests."
+    },
+    {
+      "label": "Currency",
+      "value": "Boliviano (BOB)",
+      "icon": "Zap",
+      "description": "The official currency of Bolivia is the Boliviano.",
+      "detail": "Exchange rates fluctuate, and it's advisable to check current rates before traveling."
+    },
+    {
+      "label": "Official Languages",
+      "value": "Spanish and Quechua",
+      "icon": "ArrowRight",
+      "description": "Spanish is the most widely spoken language, while Quechua is recognized as an official language due to its historical significance.",
+      "detail": "Many indigenous languages are also spoken throughout the country."
+    }
+  ],
+  "climateData": {
+    "title": "Bolivian Climate",
+    "description": "Bolivia experiences a diverse range of climates due to its varied topography. The high Andes are characterized by cold temperatures and dry conditions, while the lowlands are hot and humid. Seasonal variations are significant, particularly in the highlands.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (December - February)",
+        "period": "December - February",
+        "description": "Summer in Bolivia is hot and dry, especially in the lowlands. The Andes experience milder temperatures.",
+        "keyFeatures": [
+          "High temperatures",
+          "Low rainfall",
+          "Sunny days"
+        ],
+        "activities": [
+          "Hiking",
+          "Water sports",
+          "Exploring the Amazon"
+        ]
+      },
+      {
+        "name": "Autumn (March - May)",
+        "period": "March - May",
+        "description": "Autumn brings a gradual cooling trend, particularly in the highlands. Rainfall increases in the Amazon region.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Increasing rainfall",
+          "Beautiful fall foliage"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Cultural festivals",
+          "Hiking"
+        ]
+      },
+      {
+        "name": "Winter (June - August)",
+        "period": "June - August",
+        "description": "Winter is the coldest season in Bolivia, with significant snowfall in the Andes. The lowlands remain warm and humid.",
+        "keyFeatures": [
+          "Cold temperatures",
+          "Snowfall in the Andes",
+          "Clear skies"
+        ],
+        "activities": [
+          "Skiing",
+          "Ice climbing",
+          "Exploring colonial cities"
+        ]
+      },
+      {
+        "name": "Spring (September - November)",
+        "period": "September - November",
+        "description": "Spring brings a gradual warming trend and increased rainfall. Wildflowers bloom across the country.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Increased rainfall",
+          "Blooming flowers"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Exploring national parks"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Salar de Uyuni",
+      "category": "Salt Flats",
+      "description": "The Salar de Uyuni is the world’s largest salt flat, a surreal and breathtaking landscape. During the rainy season, a thin layer of water transforms it into a giant mirror, reflecting the sky.",
+      "detailedDescription": "Located in southwest Bolivia, the Salar de Uyuni is a geological marvel and a photographer's paradise. It’s also home to unique wildlife and lithium deposits.",
+      "bestTime": "June - August (dry season for best reflections)",
+      "bestLocations": [
+        "Uyuni town",
+        "Incahuasi Island"
+      ],
+      "viewingTips": [
+        "Bring sunglasses and sunscreen",
+        "Capture stunning reflections",
+        "Respect the fragile environment"
+      ],
+      "scientificData": {
+        "Area": "10,582 sq km",
+        "Altitude": "3,656 m",
+        "Salt Composition": "Primarily sodium chloride"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Madidi National Park",
+      "category": "Rainforest",
+      "description": "Madidi National Park is one of the most biodiverse places on Earth, boasting an incredible array of plant and animal species.",
+      "detailedDescription": "Located in the Amazon rainforest, Madidi is a UNESCO World Heritage Site and a crucial area for conservation. It’s home to jaguars, monkeys, macaws, and countless other species.",
+      "bestTime": "June - September (dry season)",
+      "bestLocations": [
+        "Rio Coasa",
+        "Rio Varadero"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring insect repellent",
+        "Respect the indigenous communities"
+      ],
+      "scientificData": {
+        "Biodiversity": "Over 6,000 plant species, 400 bird species, 200 mammal species",
+        "Rainfall": "2,500-3,500 mm per year"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Mount Sajama",
+      "category": "Volcano",
+      "description": "Mount Sajama is the highest peak in Bolivia, an active volcano dominating the Altiplano landscape.",
+      "detailedDescription": "This imposing volcano is a sacred site for the Aymara people and offers stunning views of the surrounding highlands. Its crater lake, Laguna Sajama, is a mesmerizing sight.",
+      "bestTime": "June - August (dry season)",
+      "bestLocations": [
+        "Laguna Sajama",
+        "Base of the volcano"
+      ],
+      "viewingTips": [
+        "Acclimatize to the altitude",
+        "Bring warm clothing",
+        "Respect local traditions"
+      ],
+      "scientificData": {
+        "Height": "6,542 m",
+        "Volcanic Type": "Stratovolcano"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Bolivian Ecosystems",
+    "overview": "Bolivia’s ecosystems are incredibly diverse, ranging from the high-altitude Altiplano to the dense Amazon rainforest and the arid Gran Chaco. Each region supports unique flora and fauna, contributing to the country’s rich biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Andean Ecosystems",
+        "icon": "Mountain",
+        "description": "Characterized by high-altitude grasslands, wetlands, and unique alpine flora and fauna.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "Over 3,000",
+            "details": "Including unique Andean grasses and wildflowers"
+          },
+          {
+            "category": "Mammal Species",
+            "count": "50+",
+            "details": "Such as vicuñas, llamas, and pumas"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Vicuña",
+            "status": "Near Threatened",
+            "significance": "A national symbol of Bolivia"
+          },
+          {
+            "name": "Llama",
+            "status": "Least Concern",
+            "significance": "Historically used for transportation and wool"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Overgrazing",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Sustainable grazing practices",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Amazon Rainforest Ecosystem",
+        "icon": "Leaf",
+        "description": "The Bolivian portion of the Amazon rainforest is a vital part of the global ecosystem, harboring incredible biodiversity.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 1,000",
+            "details": "Including giant kapok trees and mahogany"
+          },
+          {
+            "category": "Insect Species",
+            "count": "Millions",
+            "details": "A vast and largely unexplored insect diversity"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Vulnerable",
+            "significance": "The apex predator of the Amazon"
+          },
+          {
+            "name": "Macaw",
+            "status": "Least Concern",
+            "significance": "A vibrant symbol of the rainforest"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Mining"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Sustainable forestry",
+          "Indigenous land rights"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Bolivian Adventures",
+    "description": "Bolivia offers a wide range of activities for adventure seekers and nature enthusiasts.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Bolivia’s stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Salar de Uyuni Trek",
+            "difficulty": "Moderate",
+            "season": "June - August",
+            "duration": "3-5 days",
+            "description": "Hike through the otherworldly landscapes of the Salar de Uyuni.",
+            "bestLocations": [
+              "Uyuni Salt Flats",
+              "Incahuasi Island"
+            ],
+            "requirements": "Sturdy hiking boots, sunscreen, hat",
+            "safety": [
+              "Altitude sickness prevention",
+              "Hydration"
+            ]
+          },
+          {
+            "name": "Madidi Rainforest Hike",
+            "difficulty": "Hard",
+            "season": "June - September",
+            "duration": "5-7 days",
+            "description": "Immerse yourself in the biodiversity of the Madidi Rainforest.",
+            "bestLocations": [
+              "Rio Coasa",
+              "Rio Varadero"
+            ],
+            "requirements": "Insect repellent, waterproof gear, experienced guide",
+            "safety": [
+              "Wildlife encounters",
+              "River crossings"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy water activities in Bolivia’s lakes and rivers.",
+        "activities": [
+          {
+            "name": "Lake Titicaca Kayaking",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "Paddle across the vast expanse of Lake Titicaca.",
+            "bestLocations": [
+              "Copacabana",
+              " Isla del Sol"
+            ],
+            "requirements": "Life jacket, sunscreen",
+            "safety": [
+              "Weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, headlamp",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Altitude sickness prevention",
+        "Sun protection",
+        "Hydration",
+        "Respect local customs"
+      ]
+    }
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "name": "India",
+  "region": "Asia",
+  "description": "India, officially the Republic of India, is a country in South Asia. It’s known for its rich history, diverse culture, and varied geography, ranging from the towering Himalayas in the north to tropical beaches in the south. India is a land of ancient civilizations, vibrant traditions, and a rapidly developing economy, making it one of the world's most fascinating and complex nations.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "1.4 Billion",
+      "icon": "Users",
+      "description": "India is the most populous country in the world.",
+      "detail": "As of 2023, India's population exceeds 1.4 billion people, representing a significant portion of the global population."
+    },
+    {
+      "label": "Area",
+      "value": "3.287 Million Sq Km",
+      "icon": "MapPin",
+      "description": "India covers a vast area of land.",
+      "detail": "India's total area is approximately 3.287 million square kilometers, making it the seventh-largest country in the world by area."
+    },
+    {
+      "label": "Languages",
+      "value": "22 Officially Recognized",
+      "icon": "Eye",
+      "description": "India boasts a remarkable linguistic diversity.",
+      "detail": "India recognizes 22 official languages, reflecting its diverse cultural heritage and regional identities."
+    },
+    {
+      "label": "Currency",
+      "value": "Indian Rupee (INR)",
+      "icon": "Zap",
+      "description": "The official currency of India.",
+      "detail": "The Indian Rupee (INR) is the official currency of India, subdivided into paise."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 3.7 Trillion (2023)",
+      "icon": "Globe",
+      "description": "India has a rapidly growing economy.",
+      "detail": "India's Gross Domestic Product (GDP) in 2023 is estimated to be around USD 3.7 trillion, making it one of the fastest-growing economies globally."
+    }
+  ],
+  "climateData": {
+    "title": "Indian Climate",
+    "description": "India experiences a wide range of climates due to its diverse geography. The Himalayan region has alpine climates, while the coastal regions enjoy tropical climates. The Indian monsoon is a defining feature, bringing heavy rainfall during the summer months.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (March - May)",
+        "period": "March to May",
+        "description": "The summer months are characterized by high temperatures and intense heat, particularly in the northern and central parts of the country.",
+        "keyFeatures": [
+          "High Temperatures",
+          "Dry Conditions",
+          "Dust Storms"
+        ],
+        "activities": [
+          "Wildlife Safaris",
+          "Desert Exploration",
+          "Visiting Hill Stations"
+        ]
+      },
+      {
+        "name": "Monsoon (June - September)",
+        "period": "June to September",
+        "description": "The monsoon season brings heavy rainfall across most of India, transforming the landscape and replenishing water resources.",
+        "keyFeatures": [
+          "Heavy Rainfall",
+          "Flooding",
+          "Green Landscapes"
+        ],
+        "activities": [
+          "River Rafting",
+          "Backwater Cruises",
+          "Visiting Waterfalls"
+        ]
+      },
+      {
+        "name": "Post-Monsoon (October - November)",
+        "period": "October to November",
+        "description": "The post-monsoon season is known for pleasant weather, with clear skies and moderate temperatures.",
+        "keyFeatures": [
+          "Clear Skies",
+          "Moderate Temperatures",
+          "Reduced Humidity"
+        ],
+        "activities": [
+          "Trekking",
+          "Wildlife Viewing",
+          "Cultural Festivals"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "Winter brings cool and dry weather, particularly in the northern and Himalayan regions.",
+        "keyFeatures": [
+          "Cool Temperatures",
+          "Dry Weather",
+          "Snowfall in the Himalayas"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting Historical Sites"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "The Himalayas",
+      "category": "Mountain Range",
+      "description": "The Himalayas, the world's highest mountain range, form India's northern border. They are home to iconic peaks like Mount Everest and offer breathtaking scenery and diverse ecosystems.",
+      "detailedDescription": "The Himalayan mountain range stretches over 2,400 kilometers, encompassing parts of India, Nepal, Bhutan, China, and Pakistan. It's a region of extreme altitudes, glaciers, and unique flora and fauna. The range plays a crucial role in the Indian monsoon system.",
+      "bestTime": "October - November (Autumn), January - February (Winter)",
+      "bestLocations": [
+        "Ladakh",
+        "Uttarakhand",
+        "Himachal Pradesh"
+      ],
+      "viewingTips": [
+        "Acclimatize to the altitude",
+        "Check weather conditions before trekking",
+        "Respect local customs"
+      ],
+      "scientificData": {
+        "Height": "Up to 8,848.86 m (Mount Everest)",
+        "Area": "1,000,000 sq km"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Sundarbans Mangrove Forest",
+      "category": "Mangrove Forest",
+      "description": "The Sundarbans is the world's largest mangrove forest, located in the delta of the Ganges, Brahmaputra, and Meghna rivers. It's a UNESCO World Heritage Site and home to the Bengal tiger.",
+      "detailedDescription": "Spanning across India and Bangladesh, the Sundarbans is a complex network of tidal waterways, mudflats, and mangrove forests. It’s a vital ecosystem, providing habitat for a diverse range of species, including the endangered Bengal tiger, spotted deer, and various bird species.",
+      "bestTime": "October - March",
+      "bestLocations": [
+        "West Bengal",
+        "Bangladesh"
+      ],
+      "viewingTips": [
+        "Take a boat tour",
+        "Hire a local guide",
+        "Respect wildlife guidelines"
+      ],
+      "scientificData": {
+        "Area": "10,000 sq km",
+        "Biodiversity": "Over 200 fish species, 36 mammals, 120 bird species"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Valley of Flowers National Park",
+      "category": "Mountain Meadow",
+      "description": "The Valley of Flowers is a high-altitude Himalayan meadow known for its stunning display of alpine flowers. It's a UNESCO World Heritage Site and a paradise for botanists and nature lovers.",
+      "detailedDescription": "Located in Uttarakhand, the Valley of Flowers is a unique ecosystem characterized by its vibrant meadows carpeted with thousands of flowering plants. The park receives heavy rainfall during the monsoon season, creating a spectacular floral display.",
+      "bestTime": "July - August",
+      "bestLocations": [
+        "Uttarakhand"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Carry rain gear",
+        "Respect the fragile ecosystem"
+      ],
+      "scientificData": {
+        "Altitude": "3,700 m - 4,300 m",
+        "Flower Species": "Over 650 species of flowering plants"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Indian Ecosystems",
+    "overview": "India boasts a remarkable diversity of ecosystems, ranging from tropical rainforests to arid deserts and alpine meadows. These ecosystems support a vast array of plant and animal life, contributing significantly to the country's biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "18% (Approximately 70,000 sq km)",
+      "nationalParks": 66
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "India’s forests cover a significant portion of its land area, playing a vital role in carbon sequestration and biodiversity conservation.",
+        "statistics": [
+          {
+            "category": "Forest Cover",
+            "count": "29%",
+            "details": "Approximately 29% of India's land area is covered by forests."
+          },
+          {
+            "category": "Tree Species",
+            "count": "30,000+",
+            "details": "India is home to over 30,000 tree species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Bengal Tiger",
+            "status": "Endangered",
+            "significance": "Apex predator and a national symbol."
+          },
+          {
+            "name": "Indian Elephant",
+            "status": "Vulnerable",
+            "significance": "Keystone species and a symbol of India's heritage."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Habitat Loss",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Project Tiger",
+          "Green India Mission"
+        ]
+      },
+      {
+        "name": "Coastal Ecosystems",
+        "icon": "Waves",
+        "description": "India’s extensive coastline supports diverse marine and coastal ecosystems, including coral reefs, mangroves, and estuaries.",
+        "statistics": [
+          {
+            "category": "Coral Reefs",
+            "count": "Over 4,000 sq km",
+            "details": "India has over 4,000 sq km of coral reefs."
+          },
+          {
+            "category": "Mangrove Areas",
+            "count": "7,500 ha",
+            "details": "Approximately 7,500 hectares of mangrove areas are protected."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Humpback Whale",
+            "status": "Endangered",
+            "significance": "Migrates along the Indian coast."
+          },
+          {
+            "name": "Sea Turtle",
+            "status": "Vulnerable",
+            "significance": "Nesting on Indian beaches."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Coastal Development",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Marine National Parks",
+          "Coastal Cleanup Programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in India",
+    "description": "India offers a wide range of outdoor activities for all levels of experience, from trekking and wildlife safaris to water sports and cultural tours.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore India's stunning mountain trails and scenic landscapes.",
+        "activities": [
+          {
+            "name": "Trekking in the Himalayas",
+            "difficulty": "Moderate to Hard",
+            "season": "May - October",
+            "duration": "3-7 days",
+            "description": "Trek through the majestic Himalayas, experiencing breathtaking views and diverse cultures.",
+            "bestLocations": [
+              "Uttarakhand",
+              "Himachal Pradesh",
+              "Ladakh"
+            ],
+            "requirements": "Hiking boots, warm clothing, trekking poles",
+            "safety": [
+              "Check weather conditions",
+              "Hire a guide",
+              "Carry sufficient water"
+            ]
+          },
+          {
+            "name": "Valley of Flowers Trek",
+            "difficulty": "Moderate",
+            "season": "July - August",
+            "duration": "2-3 days",
+            "description": "Hike through the Valley of Flowers, witnessing a spectacular display of alpine flowers.",
+            "bestLocations": [
+              "Uttarakhand"
+            ],
+            "requirements": "Sturdy hiking boots, rain gear, camera",
+            "safety": [
+              "Wear appropriate footwear",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in India's coastal regions and rivers.",
+        "activities": [
+          {
+            "name": "River Rafting",
+            "difficulty": "Easy to Hard",
+            "season": "June - October",
+            "duration": "1-3 hours",
+            "description": "Experience the thrill of river rafting on India's challenging rivers.",
+            "bestLocations": [
+              "Uttarakhand",
+              "Himachal Pradesh",
+              "Jharkhand"
+            ],
+            "requirements": "Life jacket, helmet, appropriate clothing",
+            "safety": [
+              "Follow safety guidelines",
+              "Wear a life jacket"
+            ]
+          },
+          {
+            "name": "Scuba Diving & Snorkeling",
+            "difficulty": "Easy",
+            "season": "October - May",
+            "duration": "2-4 hours",
+            "description": "Explore the underwater world of India's coral reefs.",
+            "bestLocations": [
+              "Goa",
+              "Andaman and Nicobar Islands",
+              "Lakshadweep"
+            ],
+            "requirements": "Snorkeling gear, wetsuit (optional)",
+            "safety": [
+              "Follow dive operator instructions",
+              "Check water conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light cotton clothing, sunscreen, hat",
+        "winter": "Warm jackets, sweaters, gloves, scarves",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Consult a doctor before traveling",
+        "Be aware of local customs"
+      ]
+    }
+  }
+}

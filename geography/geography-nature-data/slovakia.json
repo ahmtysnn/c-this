@@ -1,0 +1,381 @@
+{
+  "name": "Slovakia",
+  "region": "Europe",
+  "description": "Slovakia, a landlocked country in Central Europe, boasts a diverse landscape ranging from the High Tatras mountains to the rolling plains of the Great Hungarian Plain. Known for its rich history, medieval castles, charming towns, and burgeoning outdoor recreation opportunities, Slovakia offers a unique blend of culture and natural beauty. It’s a relatively undiscovered gem, offering authentic experiences and stunning scenery.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Bratislava",
+      "icon": "MapPin",
+      "description": "The vibrant capital city of Slovakia, situated on the Danube River.",
+      "detail": "Bratislava is known for its historic Old Town, stunning architecture, and lively cultural scene."
+    },
+    {
+      "label": "Population",
+      "value": "5.47 million",
+      "icon": "Users",
+      "description": "Slovakia has a relatively small but welcoming population.",
+      "detail": "The population density is around 106 people per square kilometer."
+    },
+    {
+      "label": "Area",
+      "value": "49,035 sq km",
+      "icon": "Globe",
+      "description": "Slovakia is a compact country with a varied terrain.",
+      "detail": "It's roughly the size of Indiana, USA."
+    },
+    {
+      "label": "Official Language",
+      "value": "Slovak",
+      "icon": "ArrowRight",
+      "description": "The Slovak language is a West Slavic language.",
+      "detail": "Hungarian is also widely spoken, particularly in northern Slovakia."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Slovakia adopted the Euro in 2009.",
+      "detail": "The national currency previously was the Slovak Koruna."
+    },
+    {
+      "label": "GDP",
+      "value": "167.7 billion USD (2023)",
+      "icon": "Clock",
+      "description": "Slovakia has a growing economy.",
+      "detail": "It's a member of the European Union and NATO."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Slovakia",
+    "description": "Slovakia experiences a temperate continental climate with four distinct seasons. Summers are warm and sunny, while winters are cold and snowy, particularly in the mountainous regions. Rainfall is evenly distributed throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with wildflowers blooming across the countryside and snow melting from the mountains.",
+        "keyFeatures": [
+          "Blooming wildflowers",
+          "Increased rainfall",
+          "Melting snow"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Fishing"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June - August",
+        "description": "Summer is the warmest season, with average temperatures ranging from 20°C to 28°C (68°F to 82°F). It's ideal for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Sunny days",
+          "Long daylight hours"
+        ],
+        "activities": [
+          "Hiking",
+          "Swimming",
+          "Camping"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and vibrant fall foliage. It's a beautiful time for hiking and exploring.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Cooler temperatures",
+          "Decreasing daylight hours"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December - February",
+        "description": "Winter is cold and snowy, with average temperatures ranging from -2°C to 4°C (28°F to 39°F).  The High Tatras mountains offer excellent skiing opportunities.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Skiing opportunities"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "High Tatras Mountains",
+      "category": "Mountain Range",
+      "description": "The High Tatras are Slovakia's highest mountain range, offering breathtaking views, challenging hiking trails, and pristine alpine lakes. They are a haven for outdoor enthusiasts and nature lovers.",
+      "detailedDescription": "The highest peak, Gerlachovský štít, reaches 2,655 meters (8,711 feet). Numerous glacial lakes, such as Štrbské Pleso and Popradské Pleso, add to the area's dramatic beauty.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Štrbské Pleso",
+        "Popradské Pleso",
+        "Tatranská Lomnica"
+      ],
+      "viewingTips": [
+        "Bring appropriate hiking gear",
+        "Check weather conditions before heading out",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Height": "2,655m",
+        "Area": "742 km²",
+        "ElevationRange": "1,238m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Slovak Karst",
+      "category": "Karst Region",
+      "description": "The Slovak Karst is a UNESCO World Heritage Site, renowned for its extensive cave systems, sinkholes, and unique limestone formations. It's a fascinating geological area with a rich history of speleology.",
+      "detailedDescription": "The Kremnica Cave is one of the largest caves in Slovakia, featuring impressive stalactites and stalagmites. The area also boasts numerous smaller caves and underground rivers.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Kremnické jazerá",
+        "Dobšinská Ice Cave",
+        "Slovak Karst National Park"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes",
+        "Bring a flashlight",
+        "Respect the fragile cave environment"
+      ],
+      "scientificData": {
+        "Area": "215 km²",
+        "CaveLength": "140 km",
+        "AverageTemperature": "10°C"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Danube River",
+      "category": "River",
+      "description": "The Danube River flows through Slovakia, forming a significant portion of its border with Hungary and Romania. It's a vital waterway and a popular destination for river cruises.",
+      "detailedDescription": "The river offers scenic views, opportunities for boating and fishing, and access to charming riverside towns and villages.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "Bratislava",
+        "Komárov",
+        "Devín"
+      ],
+      "viewingTips": [
+        "Take a river cruise",
+        "Enjoy a picnic by the river",
+        "Observe the local wildlife"
+      ],
+      "scientificData": {
+        "Length": "2,850 km",
+        "FlowRate": "1,760 m³/s",
+        "AverageDepth": "22m"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Forests",
+    "icon": "Trees",
+    "description": "Slovakia's forests cover approximately 45% of the country's land area, providing habitat for a diverse range of plant and animal species. They play a crucial role in carbon sequestration and water regulation.",
+    "statistics": [
+      {
+        "category": "Tree Species",
+        "count": "Over 150",
+        "details": "Common species include beech, spruce, fir, and oak."
+      },
+      {
+        "category": "Forest Area",
+        "count": "45%",
+        "details": "Significant portions are managed for timber production and conservation."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "European Roe Deer",
+        "status": "Least Concern",
+        "significance": "A common and important herbivore in Slovak forests."
+      },
+      {
+        "name": " Eurasian Lynx",
+        "status": "Vulnerable",
+        "significance": "A rare and elusive predator found in the mountainous regions."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Illegal logging",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Forest management plans",
+      "Protected areas",
+      "Reforestation projects"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Ecosystems of Slovakia",
+    "overview": "Slovakia's ecosystems are remarkably diverse, ranging from alpine meadows to lowland forests and wetlands. These ecosystems support a rich array of plant and animal life, contributing significantly to the country's biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "18%",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Alpine Meadows",
+        "icon": "Leaf",
+        "description": "High-altitude meadows characterized by unique plant species adapted to harsh conditions.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "80+",
+            "details": "Many endemic and rare alpine plants."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Climate change",
+          "Overgrazing"
+        ],
+        "conservationEfforts": [
+          "Controlled grazing",
+          "Habitat restoration"
+        ]
+      },
+      {
+        "name": "Temperate Forests",
+        "icon": "Trees",
+        "description": "Dominated by deciduous trees, these forests provide habitat for a wide range of wildlife.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "70+",
+            "details": "Beech, oak, and spruce are the most common species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Squirrel",
+            "status": "Least Concern",
+            "significance": "A common and adaptable rodent."
+          }
+        ],
+        "threats": [
+          "Forest fires",
+          "Insect infestations"
+        ],
+        "conservationEfforts": [
+          "Forest management",
+          "Fire prevention"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Slovakia",
+    "description": "Slovakia offers a wide range of outdoor activities for all skill levels, from hiking and cycling to skiing and water sports.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Slovakia's stunning mountain landscapes and forests on foot.",
+        "activities": [
+          {
+            "name": "High Tatras Hiking",
+            "difficulty": "Moderate",
+            "season": "June - September",
+            "duration": "3-7 days",
+            "description": "Hike to mountain huts and enjoy breathtaking views.",
+            "bestLocations": [
+              "Štrbské Pleso",
+              "Popradské Pleso"
+            ],
+            "requirements": "Hiking boots, backpack, water bottle",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your plans"
+            ]
+          },
+          {
+            "name": "Slovak Karst Hiking",
+            "difficulty": "Easy",
+            "season": "May - October",
+            "duration": "1-3 hours",
+            "description": "Explore the unique limestone formations and cave systems.",
+            "bestLocations": [
+              "Kremnické jazerá"
+            ],
+            "requirements": "Sturdy shoes, flashlight",
+            "safety": [
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy swimming, kayaking, and rafting on Slovakia's rivers and lakes.",
+        "activities": [
+          {
+            "name": "Danube River Rafting",
+            "difficulty": "Moderate",
+            "season": "June - August",
+            "duration": "1 day",
+            "description": "Raft down the scenic Danube River.",
+            "bestLocations": [
+              "Devín"
+            ],
+            "requirements": "Life jacket, wetsuit (optional)",
+            "safety": [
+              "Follow instructions from guides"
+            ]
+          },
+          {
+            "name": "Lake Štrbské Pleso Swimming",
+            "difficulty": "Easy",
+            "season": "July - August",
+            "duration": "Variable",
+            "description": "Swim in the crystal-clear waters of Lake Štrbské Pleso.",
+            "bestLocations": [
+              "Štrbské Pleso"
+            ],
+            "requirements": "Swimsuit, towel",
+            "safety": [
+              "Swim in designated areas"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, trekking poles",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Check weather conditions",
+        "Carry a first-aid kit"
+      ]
+    }
+  }
+}

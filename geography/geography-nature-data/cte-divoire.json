@@ -1,0 +1,329 @@
+{
+  "name": "Côte d'Ivoire",
+  "region": "Africa",
+  "description": "Côte d'Ivoire, formerly the Ivory Coast, is a West African nation known for its cocoa production, vibrant culture, and stunning natural landscapes. Situated along the Atlantic coast, it boasts diverse ecosystems ranging from rainforests and savannas to coastal wetlands. The country is a significant economic hub in West Africa and plays a crucial role in regional trade and stability.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Yamoussoukro",
+      "icon": "MapPin",
+      "description": "The official capital city of Côte d'Ivoire.",
+      "detail": "Yamoussoukro is a planned city and a symbol of the country's post-colonial ambition."
+    },
+    {
+      "label": "Population",
+      "value": "32.6 million",
+      "icon": "Users",
+      "description": "Côte d'Ivoire has a large and growing population.",
+      "detail": "The population is predominantly young and urbanized."
+    },
+    {
+      "label": "Area",
+      "value": "322,460 sq km",
+      "icon": "Globe",
+      "description": "Côte d'Ivoire is a relatively large country in West Africa.",
+      "detail": "It borders Liberia, Burkina Faso, Ghana, and Nigeria."
+    },
+    {
+      "label": "Official Language",
+      "value": "French",
+      "icon": "Navigation",
+      "description": "French is the official language of Côte d'Ivoire.",
+      "detail": "Créole is widely spoken as a lingua franca."
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)",
+      "icon": "Clock",
+      "description": "The currency used in Côte d'Ivoire.",
+      "detail": "It is pegged to the Euro."
+    },
+    {
+      "label": "GDP",
+      "value": "$44.7 billion (2023)",
+      "icon": "Zap",
+      "description": "Côte d'Ivoire has a growing economy.",
+      "detail": "Cocoa and petroleum are key contributors to the GDP."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Côte d'Ivoire",
+    "description": "Côte d'Ivoire experiences a tropical climate with distinct wet and dry seasons. The country is largely influenced by the Intertropical Convergence Zone (ITCZ), leading to heavy rainfall during the summer months.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "November – March",
+        "description": "The dry season is characterized by low rainfall and high temperatures. It's a popular time for tourism and agricultural activities.",
+        "keyFeatures": [
+          "Low humidity",
+          "Sunny days",
+          "Clear skies"
+        ],
+        "activities": [
+          "Harvesting cocoa",
+          "Wildlife viewing",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "April – October",
+        "description": "The wet season brings heavy rainfall and high humidity. Flooding can occur in some areas.",
+        "keyFeatures": [
+          "High rainfall",
+          "Cloudy days",
+          "Humidity"
+        ],
+        "activities": [
+          "River cruises",
+          "Exploring waterfalls",
+          "Rainforest trekking"
+        ]
+      },
+      {
+        "name": "Harmattan Winds",
+        "period": "December – February",
+        "description": "The Harmattan is a dry and dusty trade wind that blows from the Sahara Desert, bringing cooler temperatures and reduced rainfall.",
+        "keyFeatures": [
+          "Dusty winds",
+          "Cooler temperatures",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Ideal for stargazing",
+          "Visiting coastal areas"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Nimba",
+      "category": "Mountain Range",
+      "description": "Mount Nimba is a UNESCO World Heritage Site and the highest point in Côte d'Ivoire. It's a unique geological formation with significant biodiversity and is a key site for studying ancient human settlements.",
+      "detailedDescription": "The mountain is composed of granodiorite and contains significant deposits of minerals, including gold and diamonds. Its steep slopes and rugged terrain provide a challenging but rewarding hiking experience.",
+      "bestTime": "November – March",
+      "bestLocations": [
+        "Nimba Range"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear sturdy hiking boots",
+        "Bring plenty of water"
+      ],
+      "scientificData": {
+        "Height": "1,752 m",
+        "Age": "Approximately 80 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Lagoons of Téta",
+      "category": "Wetland",
+      "description": "The Lagoons of Téta are a complex of interconnected lagoons and swamps located in the western part of Côte d'Ivoire. They are a vital habitat for a wide range of bird species and other wildlife.",
+      "detailedDescription": "The lagoons are fed by seasonal rivers and are subject to fluctuating water levels. They provide important breeding grounds for migratory birds and are a crucial part of the country's wetland ecosystem.",
+      "bestTime": "November – March",
+      "bestLocations": [
+        "Téta"
+      ],
+      "viewingTips": [
+        "Bring binoculars",
+        "Use a waterproof camera",
+        "Respect the wildlife"
+      ],
+      "scientificData": {
+        "Area": "Approximately 100 sq km",
+        "WaterDepth": "Varies from 0 to 5 meters"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Côte d'Ivoire",
+    "overview": "Côte d'Ivoire possesses a remarkable diversity of ecosystems, including rainforests, savannas, coastal wetlands, and shea butter forests. These ecosystems support a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Côte d'Ivoire’s forests are primarily tropical rainforests, playing a vital role in carbon sequestration and biodiversity conservation.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 1,500",
+            "details": "A high level of endemism is found within the forest flora."
+          },
+          {
+            "category": "Forest Cover",
+            "count": "Approximately 50%",
+            "details": "Significant deforestation is occurring due to logging and agriculture."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Gorilla",
+            "status": "Endangered",
+            "significance": "A critically important primate species for the region."
+          },
+          {
+            "name": "Indri",
+            "status": "Vulnerable",
+            "significance": "The largest lemur species, known for its distinctive calls."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Agricultural expansion"
+        ],
+        "conservationEfforts": [
+          "Protected area establishment",
+          "Sustainable forestry practices",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Savannas",
+        "icon": "Leaf",
+        "description": "Côte d'Ivoire’s savannas are characterized by grasslands and scattered trees, supporting a variety of grazing animals and predators.",
+        "statistics": [
+          {
+            "category": "Grassland Area",
+            "count": "Approximately 30%",
+            "details": "Supports a diverse range of grazing herbivores."
+          },
+          {
+            "category": "Large Mammals",
+            "count": "Over 50 species",
+            "details": "Includes elephants, antelopes, and various predators."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "A keystone species in the savanna ecosystem."
+          },
+          {
+            "name": "Oryx",
+            "status": "Near Threatened",
+            "significance": "A critically important antelope species."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community conservation programs",
+          "Habitat restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Côte d'Ivoire",
+    "description": "Côte d'Ivoire offers a range of outdoor activities, from exploring its stunning natural landscapes to experiencing its vibrant culture.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the mountainous regions and rainforests of Côte d'Ivoire on foot.",
+        "activities": [
+          {
+            "name": "Mount Nimba Trek",
+            "difficulty": "Moderate",
+            "season": "November – March",
+            "duration": "2-3 days",
+            "description": "A challenging trek to the summit of Mount Nimba, offering stunning views and a chance to experience the unique geology of the region.",
+            "bestLocations": [
+              "Nimba Range"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen, local guide",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Stay on marked trails",
+              "Respect the environment"
+            ]
+          },
+          {
+            "name": "Forest Trail Hike",
+            "difficulty": "Easy",
+            "season": "November – March",
+            "duration": "Half-day",
+            "description": "A gentle hike through the rainforest, offering a chance to observe the diverse flora and fauna.",
+            "bestLocations": [
+              "Forest Reserves"
+            ],
+            "requirements": "Comfortable shoes, insect repellent, water",
+            "safety": [
+              "Be aware of snakes and insects",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities along the Ivorian coast and in its rivers and lakes.",
+        "activities": [
+          {
+            "name": "Coastal Fishing",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Experience traditional Ivorian fishing techniques and catch your own seafood.",
+            "bestLocations": [
+              "Coastal Towns"
+            ],
+            "requirements": "Fishing license, boat, equipment",
+            "safety": [
+              "Be aware of strong currents",
+              "Wear a life jacket"
+            ]
+          },
+          {
+            "name": "River Cruise",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "1-2 days",
+            "description": "Explore the rivers of Côte d'Ivoire by boat, observing wildlife and enjoying the scenery.",
+            "bestLocations": [
+              "Bia National Park River"
+            ],
+            "requirements": "Boat, guide, insect repellent",
+            "safety": [
+              "Be aware of river currents",
+              "Follow guide instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, hat",
+        "winter": "Layers of clothing, jacket, sweater, long pants",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink bottled water",
+        "Be aware of your surroundings",
+        "Respect local customs"
+      ]
+    }
+  }
+}

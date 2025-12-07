@@ -1,0 +1,367 @@
+{
+  "name": "Russia",
+  "region": "Eastern Europe and Northern Asia",
+  "description": "Russia, the largest country in the world by land area, boasts an incredibly diverse geography, ranging from the Arctic tundra to the vast Siberian forests, the Ural Mountains, and the steppes of Southern Russia. It’s a land of dramatic landscapes, abundant natural resources, and a rich, complex history.  The country’s sheer size contributes to a wide range of climates and ecosystems, supporting an astonishing array of flora and fauna.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "17,098,246 km²",
+      "icon": "Globe",
+      "description": "The largest country in the world by land area.",
+      "detail": "Approximately 11% of the Earth's total land area."
+    },
+    {
+      "label": "Population",
+      "value": "144.4 million (2023)",
+      "icon": "Users",
+      "description": "The ninth most populous country in the world.",
+      "detail": "Moscow is the most populous city, with over 13 million residents."
+    },
+    {
+      "label": "Capital",
+      "value": "Moscow",
+      "icon": "MapPin",
+      "description": "The political, economic, and cultural center of Russia.",
+      "detail": "Located on the Moskva River in Western Russia."
+    },
+    {
+      "label": "Official Language",
+      "value": "Russian",
+      "icon": "ArrowRight",
+      "description": "The primary language spoken throughout the country.",
+      "detail": "Russian is a Slavic language with a rich literary tradition."
+    },
+    {
+      "label": "Currency",
+      "value": "Russian Ruble (RUB)",
+      "icon": "Coffee",
+      "description": "The official currency of the Russian Federation.",
+      "detail": "Introduced in 1998, it has undergone significant fluctuations."
+    },
+    {
+      "label": "Time Zone",
+      "value": "MSK (Moscow Standard Time)",
+      "icon": "Clock",
+      "description": "UTC+3",
+      "detail": "Russia spans multiple time zones."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Russia",
+    "description": "Russia experiences a wide range of climates due to its vast size and latitude.  From the frigid Arctic conditions in the north to the temperate climates of southern Russia, the country’s climate is incredibly diverse.  Precipitation varies greatly, with most of the country receiving relatively little rainfall.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Winter",
+        "period": "December - February",
+        "description": "Characterized by extremely cold temperatures, heavy snowfall, and short daylight hours.  The severity of winter varies greatly depending on location.",
+        "keyFeatures": [
+          "Extreme cold",
+          "Heavy snow",
+          "Short daylight hours"
+        ],
+        "activities": [
+          "Skiing",
+          "Ice skating",
+          "Snowshoeing"
+        ]
+      },
+      {
+        "name": "Spring",
+        "period": "March - May",
+        "description": "A period of transition with gradually warming temperatures and melting snow.  Spring can be unpredictable, with sudden cold snaps.",
+        "keyFeatures": [
+          "Melting snow",
+          "Increasing daylight hours",
+          "Wildflowers"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June - August",
+        "description": "Warm and sunny weather, with long daylight hours.  The north experiences milder temperatures, while the south can be quite hot.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Long daylight hours",
+          "Abundant sunshine"
+        ],
+        "activities": [
+          "Swimming",
+          "Boating",
+          "Fishing"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September - November",
+        "description": "Cooler temperatures and falling leaves.  Autumn is a beautiful time of year, with vibrant colors.",
+        "keyFeatures": [
+          "Falling leaves",
+          "Cooler temperatures",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Harvest festivals"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lake Baikal",
+      "category": "Lake",
+      "description": "Lake Baikal is the deepest and oldest freshwater lake in the world, holding approximately 20% of the world’s unfrozen surface freshwater. It’s renowned for its incredibly clear water and unique biodiversity.",
+      "detailedDescription": "Formed over 25 million years ago, Lake Baikal’s extreme depth and isolation have fostered a remarkable ecosystem, including numerous endemic species of plants and animals. The lake’s waters are exceptionally pure, with a visibility of up to 40 meters.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Listvyanka",
+        "Olkhon Island"
+      ],
+      "viewingTips": [
+        "Take a boat tour to explore the lake's bays and islands.",
+        "Visit the Baikal Museum in Listvyanka."
+      ],
+      "scientificData": {
+        "Depth": "1642 meters",
+        "Volume": "23,615 cubic kilometers",
+        "Age": "25.8 million years"
+      },
+      "icon": "Globe"
+    },
+    {
+      "id": 2,
+      "name": "Kamchatka Peninsula",
+      "category": "Volcanic Landscape",
+      "description": "Kamchatka is a volcanic peninsula in the Russian Far East, famous for its active volcanoes, geysers, hot springs, and abundant wildlife. It’s a UNESCO World Heritage Site.",
+      "detailedDescription": "The peninsula is part of the Pacific Ring of Fire and boasts over 30 active volcanoes.  The Valley of Geysers is one of the most impressive geothermal areas in the world. Kamchatka is a haven for brown bears, salmon, and other wildlife.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Petropavlovsk-Kamchatsky",
+        "Valley of Geysers"
+      ],
+      "viewingTips": [
+        "Book a guided tour to explore the volcanoes and geysers.",
+        "Look for brown bears along the rivers."
+      ],
+      "scientificData": {
+        "Volcanoes": "Over 30 active volcanoes",
+        "Geothermal Activity": "Extensive geothermal activity"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Siberian Taiga",
+      "category": "Forest",
+      "description": "The Siberian Taiga is the world’s largest contiguous forest, covering a vast area of Russia. It’s dominated by coniferous trees and supports a unique ecosystem.",
+      "detailedDescription": "The Taiga is characterized by its cold climate, long winters, and short summers. It’s home to a diverse range of wildlife, including bears, wolves, moose, and sable. The forest plays a crucial role in regulating the global climate.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Krasnoyarsk Krai",
+        "Yakutia"
+      ],
+      "viewingTips": [
+        "Take a wildlife tour to spot bears and other animals.",
+        "Learn about the traditional way of life of the indigenous peoples."
+      ],
+      "scientificData": {
+        "Area": "13.1 million km²",
+        "Tree Species": "Primarily coniferous trees (spruce, fir, pine)"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Mammals",
+    "icon": "Bird",
+    "description": "Russia is home to a remarkable diversity of mammals, including iconic species like the Siberian tiger, brown bear, and reindeer.",
+    "statistics": [
+      {
+        "category": "Tiger Population",
+        "count": "600-800",
+        "details": "The largest wild tiger population in the world."
+      },
+      {
+        "category": "Bear Population",
+        "count": "30,000-40,000",
+        "details": "Includes brown bears, polar bears, and Asiatic black bears."
+      },
+      {
+        "category": "Reindeer Population",
+        "count": "1.5 million",
+        "details": "An important part of the traditional culture of the indigenous peoples of Siberia."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Siberian Tiger",
+        "status": "Endangered",
+        "significance": "A symbol of Russia's wilderness and a keystone species in its ecosystems."
+      },
+      {
+        "name": "Polar Bear",
+        "status": "Vulnerable",
+        "significance": "Adapted to the harsh Arctic environment and plays a crucial role in the Arctic food web."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Anti-poaching patrols",
+      "Community-based conservation"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Russian Ecosystems",
+    "overview": "Russia’s vast territory encompasses a wide range of ecosystems, including tundra, taiga, boreal forest, grasslands, and wetlands. These ecosystems support a diverse array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Russia’s land area is protected in national parks, reserves, and other protected areas.",
+      "nationalParks": 67
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Russia is a major migratory route for birds, supporting a diverse range of species.",
+        "statistics": [
+          {
+            "category": "Migratory Birds",
+            "count": "Over 300 million",
+            "details": "Pass through Russia during their annual migrations."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "White Stork",
+            "status": "Least Concern",
+            "significance": "A symbol of Russia and a common sight in agricultural areas."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Bird sanctuaries"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Russia",
+    "description": "Russia offers a wide range of outdoor activities for all levels of experience, from hiking and fishing to skiing and wildlife viewing.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Russia’s stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Mountain Hiking",
+            "difficulty": "Moderate to Hard",
+            "season": "Summer",
+            "duration": "1-5 days",
+            "description": "Hike through the mountains of the Caucasus, Altai, or Ural ranges.",
+            "bestLocations": [
+              "Caucasus Mountains",
+              "Altai Mountains",
+              "Ural Mountains"
+            ],
+            "requirements": "Hiking boots, backpack, water bottle, map, compass",
+            "safety": [
+              "Be aware of wildlife",
+              "Check weather conditions",
+              "Inform someone of your plans"
+            ]
+          },
+          {
+            "name": "Forest Hiking",
+            "difficulty": "Easy to Moderate",
+            "season": "Summer",
+            "duration": "Half-day to 2 days",
+            "description": "Explore the vast forests of Siberia and the Far East.",
+            "bestLocations": [
+              "Siberia",
+              "Far East"
+            ],
+            "requirements": "Hiking boots, insect repellent, sunscreen",
+            "safety": [
+              "Be aware of bears",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy Russia’s rivers, lakes, and coastline.",
+        "activities": [
+          {
+            "name": "River Rafting",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "1-3 days",
+            "description": "Raft down the rivers of Siberia and the Far East.",
+            "bestLocations": [
+              "Yenisey River",
+              "Angara River"
+            ],
+            "requirements": "Life jacket, helmet, wetsuit (depending on water temperature)",
+            "safety": [
+              "Be aware of rapids",
+              "Follow guide instructions"
+            ]
+          },
+          {
+            "name": "Fishing",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Fish in Russia’s lakes and rivers for salmon, trout, and other species.",
+            "bestLocations": [
+              "Lake Baikal",
+              "Krasnoyarsk Krai"
+            ],
+            "requirements": "Fishing license, rod, reel, bait",
+            "safety": [
+              "Follow fishing regulations",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, sunscreen, hat",
+        "winter": "Warm coat, hat, gloves, scarf, insulated boots",
+        "yearRound": "Layers of clothing are recommended"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a first-aid kit",
+        "Be aware of wildlife",
+        "Check weather conditions"
+      ]
+    }
+  }
+}

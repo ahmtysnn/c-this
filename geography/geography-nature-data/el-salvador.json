@@ -1,0 +1,346 @@
+{
+  "name": "El Salvador",
+  "region": "Central America",
+  "description": "El Salvador, meaning 'River of Silver,' is a small but incredibly diverse country located in the heart of Central America. Known as the 'Land of Volcanoes,' it boasts a rich history, vibrant culture, and stunning natural landscapes ranging from lush rainforests and towering volcanoes to beautiful Pacific beaches. Despite facing significant challenges, El Salvador is working to preserve its natural heritage and promote sustainable tourism.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "San Salvador",
+      "icon": "MapPin",
+      "description": "The bustling capital city and political center of El Salvador.",
+      "detail": "San Salvador is situated on a volcanic slope and offers a mix of colonial architecture and modern development."
+    },
+    {
+      "label": "Population",
+      "value": "6.4 million",
+      "icon": "Users",
+      "description": "El Salvador has a relatively high population density.",
+      "detail": "The majority of the population lives in urban areas, particularly around the capital."
+    },
+    {
+      "label": "Area",
+      "value": "21,041 km²",
+      "icon": "Globe",
+      "description": "El Salvador is one of the smallest countries in Central America.",
+      "detail": "It's roughly the size of Rhode Island in the United States."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "ArrowRight",
+      "description": "Spanish is the official language and is widely spoken.",
+      "detail": "Indigenous languages, such as Nahuatl and Cacaoteco, are also spoken in certain regions."
+    },
+    {
+      "label": "Currency",
+      "value": "US Dollar (USD)",
+      "icon": "Zap",
+      "description": "The US Dollar is the official currency.",
+      "detail": "El Salvador was the second country to adopt the Bitcoin as legal tender in 2021, though its use remains limited."
+    },
+    {
+      "label": "GDP",
+      "value": "$7.2 billion (2023)",
+      "icon": "Thermometer",
+      "description": "El Salvador's economy is largely based on agriculture and services.",
+      "detail": "Tourism is a growing sector, particularly in coastal areas."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of El Salvador",
+    "description": "El Salvador experiences a tropical monsoon climate, characterized by distinct wet and dry seasons. The Pacific coast is generally warmer and more humid than the highlands.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "November – April",
+        "description": "The dry season is the most popular time to visit, with sunny skies and lower humidity.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Warm temperatures",
+          "Ideal for outdoor activities"
+        ],
+        "activities": [
+          "Hiking",
+          "Beach activities",
+          "Volcano exploration"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May – October",
+        "description": "The wet season brings heavy rainfall, particularly on the Pacific coast. However, it also results in lush vegetation and vibrant landscapes.",
+        "keyFeatures": [
+          "High rainfall",
+          "Increased humidity",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Waterfall exploration",
+          "Rainforest hikes",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Hurricane Season",
+        "period": "June – November",
+        "description": "El Salvador is susceptible to hurricanes and tropical storms during this period.",
+        "keyFeatures": [
+          "Potential for severe weather",
+          "Evacuation alerts"
+        ],
+        "activities": [
+          "Monitor weather forecasts",
+          "Prepare for potential evacuations"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Ilamatepec Volcano",
+      "category": "Volcano",
+      "description": "Ilamatepec Volcano is the highest peak in El Salvador, offering breathtaking panoramic views of the surrounding landscape. It's a challenging but rewarding climb for experienced hikers.",
+      "detailedDescription": "The volcano is a dormant stratovolcano composed of layers of lava and ash. The summit offers stunning vistas of Lake Coatepeque and the Pacific coast.",
+      "bestTime": "November – April",
+      "bestLocations": [
+        "Ilamatepec"
+      ],
+      "viewingTips": [
+        "Start early in the morning to avoid the heat",
+        "Bring plenty of water and snacks",
+        "Wear sturdy hiking boots"
+      ],
+      "scientificData": {
+        "Height": "2,739 m",
+        "Age": "Approximately 2 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "El Boquerón National Park",
+      "category": "Volcanic Crater",
+      "description": "El Boquerón is a collapsed volcanic crater that forms a stunning lake. It's a popular destination for hiking and birdwatching.",
+      "detailedDescription": "The crater formed after a massive eruption in 1922, creating a deep depression filled with water. The surrounding area is covered in lush vegetation.",
+      "bestTime": "November – April",
+      "bestLocations": [
+        "Suchitoto"
+      ],
+      "viewingTips": [
+        "Take a boat trip on the lake",
+        "Look for rare bird species",
+        "Enjoy the scenic views"
+      ],
+      "scientificData": {
+        "Diameter": "3 km",
+        "Depth": "300 m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Lake Coatepeque",
+      "category": "Lake",
+      "description": "Lake Coatepeque is a beautiful freshwater lake surrounded by volcanoes and lush forests. It's a popular spot for water sports and relaxation.",
+      "detailedDescription": "The lake is fed by underground springs and is known for its clear, turquoise waters. It's a vital source of water for the region.",
+      "bestTime": "Year Round",
+      "bestLocations": [
+        "Ajacuteca"
+      ],
+      "viewingTips": [
+        "Rent a kayak or paddleboard",
+        "Swim in the lake",
+        "Enjoy the lakeside restaurants"
+      ],
+      "scientificData": {
+        "Surface Area": "25 km²",
+        "Maximum Depth": "135 m"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of El Salvador",
+    "overview": "El Salvador’s diverse ecosystems range from tropical rainforests to dry deciduous forests and coastal wetlands. These ecosystems support a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 8
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Tropical Rainforest",
+        "icon": "Leaf",
+        "description": "El Salvador’s rainforests are home to a vast array of plant and animal species, including many endemic species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 800",
+            "details": "A significant portion are endemic to El Salvador."
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 300",
+            "details": "Includes numerous migratory species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Red-Eyed Tree Frog",
+            "status": "Vulnerable",
+            "significance": "A flagship species for rainforest conservation."
+          },
+          {
+            "name": "Salvadoran Horned Frog",
+            "status": "Endangered",
+            "significance": "Critically endangered due to habitat loss."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Agricultural expansion"
+        ],
+        "conservationEfforts": [
+          "Protected area establishment",
+          "Reforestation programs",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Dry Forest",
+        "icon": "Leaf",
+        "description": "Dry forests are found in the northern and western parts of El Salvador, characterized by drought-resistant vegetation.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Approximately 200",
+            "details": "Adapted to arid conditions."
+          },
+          {
+            "category": "Mammal Species",
+            "count": "Around 30",
+            "details": "Includes jaguars and ocelots."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Near Threatened",
+            "significance": "A top predator in the dry forest ecosystem."
+          },
+          {
+            "name": "Ocelot",
+            "status": "Vulnerable",
+            "significance": "A nocturnal feline species."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Agricultural expansion",
+          "Illegal hunting"
+        ],
+        "conservationEfforts": [
+          "Protected area establishment",
+          "Sustainable land management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in El Salvador",
+    "description": "El Salvador offers a wide range of outdoor activities for all skill levels, from hiking and water sports to birdwatching and cultural tours.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore El Salvador’s stunning volcanoes, rainforests, and cloud forests on foot.",
+        "activities": [
+          {
+            "name": "Ilamatepec Volcano Hike",
+            "difficulty": "Hard",
+            "season": "November – April",
+            "duration": "6-8 hours",
+            "description": "A challenging hike to the summit of El Salvador’s highest volcano.",
+            "bestLocations": [
+              "Ilamatepec"
+            ],
+            "requirements": "Sturdy hiking boots, water, snacks, sunscreen",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "El Boquerón Crater Hike",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "3-4 hours",
+            "description": "A scenic hike around the rim of the El Boquerón crater lake.",
+            "bestLocations": [
+              "Suchitoto"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy swimming, surfing, kayaking, and snorkeling in El Salvador’s beautiful coastal waters.",
+        "activities": [
+          {
+            "name": "Surfing at Playa El Tunco",
+            "difficulty": "Moderate",
+            "season": "November – April",
+            "duration": "Variable",
+            "description": "El Tunco is a popular surfing spot with consistent waves.",
+            "bestLocations": [
+              "El Tunco"
+            ],
+            "requirements": "Surfboard, wetsuit (depending on the season)",
+            "safety": [
+              "Be aware of strong currents",
+              "Use a lifeguard"
+            ]
+          },
+          {
+            "name": "Kayaking on Lake Coatepeque",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Explore the beautiful Lake Coatepeque by kayak.",
+            "bestLocations": [
+              "Ajacuteca"
+            ],
+            "requirements": "Kayak, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of boat traffic"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, jacket, sweater, long pants",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Insect repellent, flashlight, first-aid kit",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink bottled water",
+        "Be aware of your surroundings",
+        "Respect local customs"
+      ]
+    }
+  }
+}

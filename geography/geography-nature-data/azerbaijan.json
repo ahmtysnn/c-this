@@ -1,0 +1,390 @@
+{
+  "name": "Azerbaijan",
+  "region": "Eastern Europe and Western Asia",
+  "description": "Azerbaijan, a land of ancient history and stunning natural beauty, is located at the crossroads of Europe and Asia.  It boasts a diverse landscape ranging from the towering Caucasus Mountains to the Caspian Sea, offering a unique blend of cultures and experiences.  Rich in oil and gas reserves, Azerbaijan is also increasingly recognized for its burgeoning tourism sector and commitment to sustainable development.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Baku",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, a UNESCO World Heritage site, is a fascinating mix of modern architecture and historic Old City.",
+      "detail": "Baku is the second-largest city in the Caucasus region and a major economic and cultural center."
+    },
+    {
+      "label": "Population",
+      "value": "Approximately 10.1 million",
+      "icon": "Users",
+      "description": "Azerbaijan has a diverse population with significant ethnic groups including Azeris, Lezgins, Talishes, and Russians.",
+      "detail": "The Azeri language is the official language, but Russian and English are also widely spoken."
+    },
+    {
+      "label": "Area",
+      "value": "86,600 sq km (33,200 sq mi)",
+      "icon": "Globe",
+      "description": "Azerbaijan's territory includes a significant portion of the Caspian Sea coastline.",
+      "detail": "The country is strategically located, connecting Europe and Asia."
+    },
+    {
+      "label": "Currency",
+      "value": "Azerbaijani Manat (AZN)",
+      "icon": "Coffee",
+      "description": "The official currency of Azerbaijan.",
+      "detail": "The Manat is pegged to the US dollar."
+    },
+    {
+      "label": "Official Language",
+      "value": "Azerbaijani",
+      "icon": "Calendar",
+      "description": "The national language of Azerbaijan.",
+      "detail": "Turkish and Russian are also commonly spoken."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Azerbaijan",
+    "description": "Azerbaijan experiences a diverse climate due to its varied topography. The coastal regions enjoy a humid subtropical climate, while the mountainous areas have a continental climate. The northern regions experience a subarctic climate, particularly in winter.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with wildflowers blooming across the countryside and the return of migratory birds.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Blooming flowers",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Summers are hot and dry, especially in the lowlands. The Caspian Sea offers a refreshing escape with its cool breezes.",
+        "keyFeatures": [
+          "Hot temperatures",
+          "Low rainfall",
+          "Sunny days"
+        ],
+        "activities": [
+          "Beach activities",
+          "Water sports",
+          "Outdoor festivals"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Autumn is characterized by pleasant temperatures and colorful foliage in the mountains. Rainfall increases, and the landscape transforms into a stunning tapestry of reds and golds.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Colorful foliage",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Winters are cold and snowy, particularly in the northern and mountainous regions. Baku experiences milder winters due to the influence of the Caspian Sea.",
+        "keyFeatures": [
+          "Cold temperatures",
+          "Snowfall",
+          "Ice skating"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting indoor attractions"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Shahdag Mountain",
+      "category": "Mountain",
+      "description": "Shahdag is a majestic mountain range in the foothills of the Greater Caucasus, offering breathtaking views and excellent skiing opportunities. It's a relatively young mountain range, formed by recent tectonic activity.",
+      "detailedDescription": "The mountain is known for its dramatic peaks, glaciers, and pristine forests. The area is also home to diverse wildlife, including brown bears and lynx.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Shahdag Ski Resort"
+      ],
+      "viewingTips": [
+        "Bring warm clothing and sturdy footwear.",
+        "Check weather conditions before heading out."
+      ],
+      "scientificData": {
+        "Height": "3,050m",
+        "Age": "Relatively young (approx. 2 million years)"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Mud Volcanoes of Azerbaijan",
+      "category": "Geological",
+      "description": "Azerbaijan is home to the largest concentration of mud volcanoes in the world, a truly unique and surreal landscape. These volcanoes are formed by the buildup of hydrocarbon-rich mud and gas beneath the surface.",
+      "detailedDescription": "The mud volcanoes range in size from small vents to massive structures. The bubbling mud creates a distinctive smell and a mesmerizing spectacle.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Gobustan National Park",
+        "Biljanohor Mud Volcanoes"
+      ],
+      "viewingTips": [
+        "Wear protective clothing to avoid mud splashes.",
+        "Be aware of the potential for unstable ground."
+      ],
+      "scientificData": {
+        "Number of Volcanoes": "Over 450",
+        "Depth of Formation": "Varies, typically 50-200 meters"
+      },
+      "icon": "Zap"
+    },
+    {
+      "id": 3,
+      "name": "Caspian Sea Coast",
+      "category": "Coastal",
+      "description": "The Caspian Sea coastline offers a diverse range of landscapes, from sandy beaches to rocky cliffs, and is home to unique flora and fauna.",
+      "detailedDescription": "The sea is rich in oil and gas reserves, and the coastal areas are important for fishing and tourism. The mudflats are a vital habitat for migratory birds.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "Bilgegan, Mardakyan"
+      ],
+      "viewingTips": [
+        "Check tide times before visiting the beaches.",
+        "Respect the marine environment."
+      ],
+      "scientificData": {
+        "Area": "371,000 sq km",
+        "Depth": "Average depth 274 meters"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Azerbaijan",
+    "overview": "Azerbaijan’s ecosystems are incredibly diverse, reflecting its varied geography and climate. From the high-altitude forests of the Caucasus to the wetlands of the Caspian Sea, the country supports a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of the country's territory is protected.",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Azerbaijan’s forests cover approximately 2.5% of the country’s land area, primarily in the northern and eastern regions.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 800",
+            "details": "Includes various deciduous and coniferous species."
+          },
+          {
+            "category": "Area",
+            "count": "1.2 million hectares",
+            "details": "Mostly comprised of mixed forests."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Caucasian Fir",
+            "status": "Near Threatened",
+            "significance": "An iconic tree species of the Caucasus Mountains."
+          },
+          {
+            "name": "Oriental Spruce",
+            "status": "Vulnerable",
+            "significance": "A rare and slow-growing conifer."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Reforestation programs",
+          "Protected area management"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "The Caspian Sea wetlands and numerous lakes and rivers provide vital habitats for a wide range of bird species and other wildlife.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "Over 300",
+            "details": "Important stopover site for migratory birds."
+          },
+          {
+            "category": "Area",
+            "count": "1.8 million hectares",
+            "details": "Includes coastal lagoons and river deltas."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Siberian Crane",
+            "status": "Critically Endangered",
+            "significance": "A globally threatened species that breeds in Azerbaijan."
+          },
+          {
+            "name": "White-tailed Eagle",
+            "status": "Vulnerable",
+            "significance": "A majestic raptor found in the wetlands."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration",
+          "Protected area designation"
+        ]
+      }
+    ]
+  },
+  "biodiversityCategory": {
+    "name": "Mammals",
+    "icon": "Bird",
+    "description": "Azerbaijan is home to a variety of mammal species, including brown bears, wolves, lynx, and wild boars.",
+    "statistics": [
+      {
+        "category": "Species Count",
+        "count": "Approximately 60",
+        "details": "Includes both resident and migratory species."
+      },
+      {
+        "category": "Habitat Range",
+        "count": "Diverse, from mountains to forests to wetlands",
+        "details": "Each species has specific habitat requirements."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Brown Bear",
+        "status": "Vulnerable",
+        "significance": "A symbol of the Caucasus Mountains."
+      },
+      {
+        "name": "Caucasian Lynx",
+        "status": "Endangered",
+        "significance": "A rare and elusive predator."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching"
+    ],
+    "conservationEfforts": [
+      "Anti-poaching patrols",
+      "Habitat protection"
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Azerbaijan",
+    "description": "Azerbaijan offers a wide range of outdoor activities for all levels of experience, from hiking and cycling to water sports and wildlife viewing.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the stunning landscapes of Azerbaijan on foot, from the Caucasus Mountains to the Caspian Sea coast.",
+        "activities": [
+          {
+            "name": "Shahdag Mountain Hike",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "3-6 hours",
+            "description": "Hike through the forests and meadows of Shahdag Mountain, enjoying panoramic views.",
+            "bestLocations": [
+              "Shahdag Ski Resort"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen, hat.",
+            "safety": [
+              "Inform someone of your route.",
+              "Check weather conditions."
+            ]
+          },
+          {
+            "name": "Gabala Forest Trail",
+            "difficulty": "Easy",
+            "season": "Spring-Autumn",
+            "duration": "2-4 hours",
+            "description": "A scenic trail through the Gabala Forest, perfect for a leisurely hike.",
+            "bestLocations": [
+              "Gabala"
+            ],
+            "requirements": "Comfortable shoes, water.",
+            "safety": [
+              "Stay on marked trails."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports on the Caspian Sea and Azerbaijan’s lakes.",
+        "activities": [
+          {
+            "name": "Caspian Sea Sailing",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Sail across the Caspian Sea, experiencing the vastness of the region.",
+            "bestLocations": [
+              "Bilgegan",
+              "Mardakyan"
+            ],
+            "requirements": "Sailboat rental, sailing experience (recommended).",
+            "safety": [
+              "Check weather conditions.",
+              "Wear life jackets."
+            ]
+          },
+          {
+            "name": "Lake Zuga Water Skiing",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "1-3 hours",
+            "description": "Enjoy water skiing and wakeboarding on the clear waters of Lake Zuga.",
+            "bestLocations": [
+              "Lake Zuga"
+            ],
+            "requirements": "Water skis, wakeboard, life jacket.",
+            "safety": [
+              "Follow safety instructions.",
+              "Supervised by a qualified instructor."
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat.",
+        "winter": "Warm coat, hat, gloves, scarf, waterproof boots.",
+        "yearRound": "Comfortable walking shoes, layers of clothing."
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit.",
+        "hiking": "Hiking boots, trekking poles, map, compass.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Inform someone of your plans.",
+        "Carry a map and compass.",
+        "Be aware of wildlife.",
+        "Drink plenty of water."
+      ]
+    }
+  }
+}

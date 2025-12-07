@@ -1,0 +1,326 @@
+{
+  "name": "Iraq",
+  "region": "Western Asia",
+  "description": "Iraq, officially the Republic of Iraq, is a country in Western Asia. It is strategically located at the confluence of the Tigris and Euphrates rivers, often referred to as the 'Cradle of Civilization'.  Iraq possesses a rich and complex history, having been the heart of ancient Mesopotamian empires like Sumer, Akkad, Babylon, and Assyria.  Today, it faces significant challenges including political instability, economic hardship, and the ongoing effects of conflict. Despite these difficulties, Iraq boasts a unique cultural heritage, diverse landscapes, and significant archaeological sites.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "Approximately 43.5 million (2023 estimate)",
+      "icon": "Users",
+      "description": "Iraq's population is a diverse mix of Arab, Kurdish, Turkmen, and other ethnic groups.",
+      "detail": "The majority of the population resides in urban centers, particularly Baghdad, Mosul, and Basra."
+    },
+    {
+      "label": "Capital",
+      "value": "Baghdad",
+      "icon": "MapPin",
+      "description": "Baghdad is the largest city in Iraq and the country's political, cultural, and economic center.",
+      "detail": "It’s located on the Tigris River and has a history stretching back over 2,000 years."
+    },
+    {
+      "label": "Area",
+      "value": "438,317 square kilometers (170,017 sq mi)",
+      "icon": "Globe",
+      "description": "Iraq is a relatively large country with diverse geographical features.",
+      "detail": "It borders Syria to the northeast, Turkey to the north, Iran to the northeast, Jordan to the southeast, and Saudi Arabia to the southwest."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "ArrowRight",
+      "description": "Arabic is the official language of Iraq.",
+      "detail": "Kurdish is also widely spoken, particularly in the Kurdistan Region."
+    },
+    {
+      "label": "Currency",
+      "value": "Iraqi Dinar (IQD)",
+      "icon": "Coffee",
+      "description": "The Iraqi Dinar is the official currency of Iraq.",
+      "detail": "Its value fluctuates significantly due to economic and political factors."
+    },
+    {
+      "label": "GDP",
+      "value": "Approximately $250 billion (2023 estimate)",
+      "icon": "Zap",
+      "description": "Iraq's economy is heavily reliant on oil production.",
+      "detail": "Non-oil sectors, such as agriculture and tourism, are developing but remain relatively small."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Iraq",
+    "description": "Iraq experiences a hot desert climate with significant seasonal variations. Summers are extremely hot and dry, while winters are mild and relatively wet. Rainfall is sparse and unevenly distributed throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "This is the hottest and driest period of the year, with scorching temperatures and minimal rainfall.",
+        "keyFeatures": [
+          "Extreme heat",
+          "Low humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Desert exploration",
+          "Visiting historical sites (early mornings/late evenings)"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September to November",
+        "description": "Temperatures begin to cool down, and rainfall increases slightly. The landscape transforms with vibrant colors.",
+        "keyFeatures": [
+          "Pleasant temperatures",
+          "Increasing rainfall",
+          "Colorful foliage (in some areas)"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "Winters are mild and relatively wet, with occasional cold snaps. Snowfall is rare in the central and southern regions but more common in the northern mountains.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Occasional rainfall",
+          "Snowfall in northern mountains"
+        ],
+        "activities": [
+          "Exploring ancient ruins",
+          "Visiting markets"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March to May",
+        "description": "Spring brings a welcome return of warmth and rainfall, transforming the landscape into a lush green paradise.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Increased rainfall",
+          "Blooming flowers"
+        ],
+        "activities": [
+          "Outdoor activities",
+          "Picnics",
+          "Exploring natural areas"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Iraqi Marshes",
+      "category": "Wetland",
+      "description": "The Iraqi Marshes, also known as the Southern Marshes, are a vast network of wetlands in southern Iraq. They are a unique and vital ecosystem, renowned for their biodiversity and traditional way of life.",
+      "detailedDescription": "These marshes are a UNESCO World Heritage Site and are home to a diverse array of plant and animal life, including the rare and endangered Greater Marsh Rabbit. They are a crucial habitat for migratory birds and provide essential flood control.",
+      "bestTime": "March - May (Spring)",
+      "bestLocations": [
+        "Al-Amarah",
+        "Shaat"
+      ],
+      "viewingTips": [
+        "Hire a local guide to navigate the marshes.",
+        "Bring insect repellent.",
+        "Respect the local culture and traditions."
+      ],
+      "scientificData": {
+        "Area": "Approximately 1.8 million hectares",
+        "WaterDepth": "Average 3-4 meters",
+        "Biodiversity": "Over 300 bird species, 40 mammal species, and numerous fish and reptile species"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Hajastan Mountains",
+      "category": "Mountain Range",
+      "description": "The Hajastan Mountains are a rugged mountain range in northern Iraq, bordering Turkey and Iran. They are known for their dramatic landscapes, diverse flora and fauna, and historical significance.",
+      "detailedDescription": "These mountains are home to several peaks over 3,000 meters in elevation and offer stunning views of the surrounding plains. They are a popular destination for hiking and mountaineering, and contain numerous ancient monasteries and ruins.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Dohuk Province",
+        "Erbil Province"
+      ],
+      "viewingTips": [
+        "Check weather conditions before heading out.",
+        "Wear appropriate hiking gear.",
+        "Be aware of altitude sickness."
+      ],
+      "scientificData": {
+        "Elevation": "Highest peak: 3,606 meters (11,831 ft)",
+        "Geology": "Primarily composed of limestone and sandstone",
+        "Vegetation": "Alpine meadows, coniferous forests, and rocky slopes"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Iraq",
+    "overview": "Iraq’s ecosystems are diverse, ranging from arid deserts to fertile wetlands and mountainous regions. These ecosystems support a rich array of plant and animal life, many of which are threatened by habitat loss and human activities.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Iraq's land area is protected within national parks and reserves.",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Desert Ecosystems",
+        "icon": "Sun",
+        "description": "Iraq’s vast deserts, such as the Arabian Desert, are characterized by extreme temperatures, sparse vegetation, and unique wildlife adapted to arid conditions.",
+        "statistics": [
+          {
+            "category": "Desert Area",
+            "count": "Approximately 85%",
+            "details": "Over 85% of Iraq’s land area is covered by desert."
+          },
+          {
+            "category": "Desert Fauna",
+            "count": "Over 200 species",
+            "details": "Includes reptiles, insects, and small mammals."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Arabian Sand Cat",
+            "status": "Vulnerable",
+            "significance": "A rare and elusive wild cat adapted to desert life."
+          },
+          {
+            "name": "Desert Fox",
+            "status": "Near Threatened",
+            "significance": "A small, nocturnal fox that hunts rodents and insects."
+          }
+        ],
+        "threats": [
+          "Habitat loss due to urbanization and agriculture",
+          "Overgrazing by livestock"
+        ],
+        "conservationEfforts": [
+          "Establishment of protected areas",
+          "Sustainable grazing practices"
+        ]
+      },
+      {
+        "name": "Wetland Ecosystems",
+        "icon": "Droplets",
+        "description": "The Iraqi Marshes and other wetlands are vital ecosystems that provide habitat for a wide range of plant and animal life, as well as important ecological services.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "Approximately 1.8 million hectares",
+            "details": "The Iraqi Marshes are one of the largest wetlands in the Middle East."
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 300 species",
+            "details": "A major migratory bird stopover."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Greater Marsh Rabbit",
+            "status": "Endangered",
+            "significance": "A critically endangered rabbit found only in the Iraqi Marshes."
+          },
+          {
+            "name": "White-winged Tern",
+            "status": "Vulnerable",
+            "significance": "A migratory seabird that breeds in the marshes."
+          }
+        ],
+        "threats": [
+          "Drainage for agriculture and development",
+          "Pollution from industrial and agricultural sources"
+        ],
+        "conservationEfforts": [
+          "Restoration of drained wetlands",
+          "Regulation of water use"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Iraq",
+    "description": "Iraq offers a range of activities for travelers, from exploring ancient ruins to experiencing the natural beauty of the country’s diverse landscapes.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the rugged mountains and desert landscapes of Iraq on foot.",
+        "activities": [
+          {
+            "name": "Hajastan Mountain Trek",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "3-5 days",
+            "description": "A challenging trek through the Hajastan Mountains, offering stunning views and opportunities to spot wildlife.",
+            "bestLocations": [
+              "Dohuk Province"
+            ],
+            "requirements": "Good hiking boots, water, sunscreen, and a guide.",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Desert Hiking",
+            "difficulty": "Easy to Moderate",
+            "season": "Autumn & Spring",
+            "duration": "1-3 days",
+            "description": "Explore the vast deserts of Iraq, discovering hidden oases and ancient ruins.",
+            "bestLocations": [
+              "Al-Ruwaished Desert"
+            ],
+            "requirements": "Sunscreen, hat, plenty of water, and appropriate clothing.",
+            "safety": [
+              "Stay hydrated",
+              "Avoid hiking during the hottest part of the day"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in the Iraqi Marshes and along the Tigris and Euphrates rivers.",
+        "activities": [
+          {
+            "name": "Marsh Boat Tour",
+            "difficulty": "Easy",
+            "season": "Spring & Summer",
+            "duration": "Half-day to Full-day",
+            "description": "Explore the Iraqi Marshes by traditional boat, observing wildlife and learning about local culture.",
+            "bestLocations": [
+              "Al-Amarah"
+            ],
+            "requirements": "Comfortable clothing, sunscreen, and insect repellent.",
+            "safety": [
+              "Follow the guidance of your boatman"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, sunscreen, hat, sunglasses.",
+        "winter": "Warm layers, waterproof jacket, hat, gloves.",
+        "yearRound": "Comfortable walking shoes, modest clothing for visiting religious sites."
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, first-aid kit.",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Be aware of your surroundings",
+        "Avoid traveling to conflict zones",
+        "Respect local customs and traditions"
+      ]
+    }
+  }
+}

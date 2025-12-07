@@ -1,0 +1,387 @@
+{
+  "CountryData": {
+    "name": "Spain",
+    "region": "Europe",
+    "description": "Spain, officially the Kingdom of Spain, is a country located on the Iberian Peninsula in southwestern Europe. It boasts a diverse landscape ranging from the snow-capped Pyrenees Mountains in the north to the arid deserts of the south. With a rich history, vibrant culture, and stunning natural beauty, Spain is a popular tourist destination and a significant economic power.",
+    "quickFacts": [
+      {
+        "label": "Area",
+        "value": "505,990 km²",
+        "icon": "MapPin",
+        "description": "Spain is the world's fifth-largest country by area.",
+        "detail": "This includes mainland Spain and its autonomous cities and islands."
+      },
+      {
+        "label": "Population",
+        "value": "47.5 million",
+        "icon": "Users",
+        "description": "Spain has a large and diverse population.",
+        "detail": "The population density is approximately 93 people per km²."
+      },
+      {
+        "label": "Capital",
+        "value": "Madrid",
+        "icon": "Globe",
+        "description": "Madrid is the political, economic, and cultural center of Spain.",
+        "detail": "It's known for its grand boulevards, world-class museums, and lively nightlife."
+      },
+      {
+        "label": "Official Language",
+        "value": "Spanish",
+        "icon": "ArrowRight",
+        "description": "Spanish (Castilian) is the official language.",
+        "detail": "Regional languages like Catalan, Basque, and Galician are also widely spoken."
+      },
+      {
+        "label": "Currency",
+        "value": "Euro (€)",
+        "icon": "Coffee",
+        "description": "Spain uses the Euro as its currency.",
+        "detail": "The euro was adopted in 2002."
+      },
+      {
+        "label": "GDP",
+        "value": "1.4 trillion USD",
+        "icon": "Zap",
+        "description": "Spain has a significant global economy.",
+        "detail": "It's the sixth-largest economy in Europe."
+      }
+    ],
+    "climateData": {
+      "title": "Climate of Spain",
+      "description": "Spain experiences a diverse range of climates due to its varied topography and latitude. Generally, it has a Mediterranean climate with hot, dry summers and mild, wet winters. However, northern Spain has a more temperate oceanic climate, while the Canary Islands enjoy a subtropical climate.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Spring (March-May)",
+          "period": "March - May",
+          "description": "Spring brings pleasant temperatures and blooming wildflowers across much of the country.",
+          "keyFeatures": [
+            "Mild temperatures",
+            "Wildflowers",
+            "Festivals"
+          ],
+          "activities": [
+            "Hiking",
+            "Cycling",
+            "Gardening",
+            "Wine Tasting"
+          ]
+        },
+        {
+          "name": "Summer (June-August)",
+          "period": "June - August",
+          "description": "Summer is hot and dry, particularly in the interior and southern regions. Coastal areas offer a refreshing sea breeze.",
+          "keyFeatures": [
+            "Hot weather",
+            "Sunshine",
+            "Beach season"
+          ],
+          "activities": [
+            "Swimming",
+            "Sunbathing",
+            "Water sports",
+            "Outdoor festivals"
+          ]
+        },
+        {
+          "name": "Autumn (September-November)",
+          "period": "September - November",
+          "description": "Autumn sees a gradual cooling of temperatures and the arrival of rainfall, especially in the north.",
+          "keyFeatures": [
+            "Cooler temperatures",
+            "Rainfall",
+            "Harvest season"
+          ],
+          "activities": [
+            "Hiking",
+            "Wine harvesting",
+            "Birdwatching",
+            "Cultural events"
+          ]
+        },
+        {
+          "name": "Winter (December-February)",
+          "period": "December - February",
+          "description": "Winter is mild in the south, but colder in the north. Snowfall is common in the Pyrenees and the northern mountains.",
+          "keyFeatures": [
+            "Mild winters (south)",
+            "Snowfall (north)",
+            "Festive season"
+          ],
+          "activities": [
+            "Skiing",
+            "Snowboarding",
+            "Visiting Christmas markets",
+            "Exploring cities"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Picos de Europa National Park",
+        "category": "Mountain",
+        "description": "The Picos de Europa is a stunning mountain range in northern Spain, offering dramatic peaks, deep valleys, and pristine lakes. It's a haven for hikers and nature lovers.",
+        "detailedDescription": "This UNESCO World Heritage site is characterized by its limestone cliffs, glacial valleys, and diverse flora and fauna. The park is home to the brown bear, Iberian wolf, and numerous bird species.",
+        "bestTime": "May - October",
+        "bestLocations": [
+          "Potes",
+          "Covadonga",
+          "Cangas de Onís"
+        ],
+        "viewingTips": [
+          "Wear sturdy hiking boots",
+          "Check weather conditions before heading out",
+          "Bring plenty of water and snacks"
+        ],
+        "scientificData": {
+          "Height": "2648 m",
+          "Area": "201,593 ha",
+          "ElevationRange": "600-3000 m"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "Tablas de Daimiel National Park",
+        "category": "Wetland",
+        "description": "Tablas de Daimiel is a vast wetland area in Castilla-La Mancha, renowned for its rich biodiversity and importance as a migratory bird sanctuary.",
+        "detailedDescription": "This Ramsar site is characterized by its flooded meadows, reed beds, and numerous lagoons. It's a crucial stopover for migratory birds traveling between Europe and Africa.",
+        "bestTime": "April - October",
+        "bestLocations": [
+          "Daimiel"
+        ],
+        "viewingTips": [
+          "Bring binoculars for birdwatching",
+          "Wear waterproof clothing",
+          "Respect the wildlife"
+        ],
+        "scientificData": {
+          "Area": "13,500 ha",
+          "WaterDepth": "0-3 m",
+          "BirdSpecies": "Over 200"
+        },
+        "icon": "Leaf"
+      },
+      {
+        "id": 3,
+        "name": "Doñana National Park",
+        "category": "Coastal Wetland",
+        "description": "Doñana is a vast and complex coastal wetland in Andalusia, a UNESCO World Heritage site and one of Europe's most important bird reserves.",
+        "detailedDescription": "This diverse ecosystem includes marshes, lagoons, pine forests, and sandy dunes. It's home to a remarkable variety of wildlife, including Iberian lynx, Spanish imperial eagle, and numerous migratory birds.",
+        "bestTime": "March - November",
+        "bestLocations": [
+          "Doñana"
+        ],
+        "viewingTips": [
+          "Hire a local guide",
+          "Wear appropriate footwear",
+          "Respect the fragile environment"
+        ],
+        "scientificData": {
+          "Area": "57,000 ha",
+          "Biodiversity": "Over 300 bird species",
+          "LynxPopulation": "Approximately 250"
+        },
+        "icon": "Bird"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Ecosystems of Spain",
+      "overview": "Spain’s ecosystems are incredibly diverse, reflecting its varied geography and climate. From the Mediterranean scrublands to the boreal forests of the Pyrenees, and the arid landscapes of the Almería region, Spain supports a wide range of habitats and species.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 15% of Spain's land area is protected in national parks, natural parks, and other protected areas.",
+        "nationalParks": 15
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Mediterranean Forests, Woodlands and Scrub",
+          "icon": "Trees",
+          "description": "This ecosystem dominates much of southern and eastern Spain, characterized by drought-resistant trees and shrubs.",
+          "statistics": [
+            {
+              "category": "Area",
+              "count": "20% of Spain",
+              "details": "Dominates the Iberian Peninsula"
+            },
+            {
+              "category": "TreeSpecies",
+              "count": "Over 300",
+              "details": "Olive, Cork, Pine"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Iberian Lynx",
+              "status": "Endangered",
+              "significance": "Critically important predator"
+            },
+            {
+              "name": "Spanish Imperial Eagle",
+              "status": "Vulnerable",
+              "significance": "Top predator of the Iberian Peninsula"
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Fragmentation",
+            "Poaching"
+          ],
+          "conservationEfforts": [
+            "Protected areas",
+            "Reintroduction programs",
+            "Sustainable forestry"
+          ]
+        },
+        {
+          "name": "Temperate Forests",
+          "icon": "Trees",
+          "description": "Found in northern Spain, these forests are characterized by deciduous trees and a cooler climate.",
+          "statistics": [
+            {
+              "category": "Area",
+              "count": "10% of Spain",
+              "details": "Concentrated in the north"
+            },
+            {
+              "category": "TreeSpecies",
+              "count": "Oak, Beech, Pine",
+              "details": "Dominated by broadleaf trees"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "European Roe Deer",
+              "status": "Least Concern",
+              "significance": "Important herbivore"
+            },
+            {
+              "name": "Red Squirrel",
+              "status": "Vulnerable",
+              "significance": "Indicator species"
+            }
+          ],
+          "threats": [
+            "Deforestation",
+            "Climate change",
+            "Invasive species"
+          ],
+          "conservationEfforts": [
+            "Sustainable forestry",
+            "Reforestation",
+            "Protected areas"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities in Spain",
+      "description": "Spain offers a vast array of outdoor activities for all levels of experience, from challenging mountain treks to relaxing beach days.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore Spain's diverse landscapes on foot.",
+          "activities": [
+            {
+              "name": "GR Trails",
+              "difficulty": "Moderate to Hard",
+              "season": "Spring - Autumn",
+              "duration": "1-7 days",
+              "description": "The 'Camino de Santiago' is a network of pilgrimage routes offering stunning scenery and cultural experiences.",
+              "bestLocations": [
+                "Galicia",
+                "Castile and León",
+                "Aragon"
+              ],
+              "requirements": "Good hiking boots, waterproof clothing, map, compass",
+              "safety": [
+                "Inform someone of your route",
+                "Check weather conditions",
+                "Carry sufficient water"
+              ]
+            },
+            {
+              "name": "Picos de Europa Hike",
+              "difficulty": "Hard",
+              "season": "Summer",
+              "duration": "3-5 days",
+              "description": "Challenge yourself with a multi-day hike through the dramatic Picos de Europa mountains.",
+              "bestLocations": [
+                "Potes",
+                "Covadonga"
+              ],
+              "requirements": "Experienced hiker, appropriate gear, navigation skills",
+              "safety": [
+                "Be aware of altitude sickness",
+                "Respect wildlife",
+                "Carry emergency supplies"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy the Mediterranean and Atlantic coasts with a variety of water sports.",
+          "activities": [
+            {
+              "name": "Surfing",
+              "difficulty": "Easy to Expert",
+              "season": "Spring - Autumn",
+              "duration": "Variable",
+              "description": "Spain boasts some of the best surfing waves in Europe.",
+              "bestLocations": [
+                "Tarifa",
+                "San Sebastian",
+                "Costa Brava"
+              ],
+              "requirements": "Surfboard, wetsuit (depending on water temperature)",
+              "safety": [
+                "Check surf conditions",
+                "Use a leash",
+                "Be aware of currents"
+              ]
+            },
+            {
+              "name": "Sailing",
+              "difficulty": "Easy to Expert",
+              "season": "Spring - Autumn",
+              "duration": "Variable",
+              "description": "Explore the Spanish coastline by sailboat.",
+              "bestLocations": [
+                "Balearic Islands",
+                "Canary Islands",
+                "Costa Brava"
+              ],
+              "requirements": "Sailboat, sailing experience (depending on boat size)",
+              "safety": [
+                "Check weather conditions",
+                "Use appropriate safety equipment",
+                "Follow maritime regulations"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Light clothing, swimwear, sunscreen, hat",
+          "winter": "Warm layers, waterproof jacket, hat, gloves",
+          "yearRound": "Comfortable walking shoes, versatile clothing"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, first-aid kit",
+          "hiking": "Hiking boots, trekking poles, map, compass",
+          "photography": "Camera, extra batteries, memory cards"
+        },
+        "safety": [
+          "Travel insurance",
+          "Emergency contact information",
+          "Local emergency numbers"
+        ]
+      }
+    }
+  }
+}

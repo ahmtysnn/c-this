@@ -1,0 +1,365 @@
+{
+  "name": "Djibouti",
+  "region": "Africa",
+  "description": "Djibouti, a small, arid nation located in the Horn of Africa, is a strategically important country with a unique blend of desert landscapes, coastal plains, and volcanic mountains. It’s a land of dramatic contrasts, hosting diverse ecosystems and playing a crucial role in regional trade and security.  Historically a crossroads for caravan routes, Djibouti today is a burgeoning hub for shipping and logistics, and a vital conservation area for migratory birds.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Djibouti City",
+      "icon": "MapPin",
+      "description": "The bustling capital and economic center of Djibouti.",
+      "detail": "Djibouti City is a rapidly developing urban area, characterized by modern infrastructure and a growing population."
+    },
+    {
+      "label": "Population",
+      "value": "1.1 Million",
+      "icon": "Users",
+      "description": "Djibouti's population is primarily comprised of Afar, Somali, and Arab communities.",
+      "detail": "The majority of the population resides in Djibouti City and surrounding areas."
+    },
+    {
+      "label": "Area",
+      "value": "23,200 sq km (9,000 sq mi)",
+      "icon": "Globe",
+      "description": "Djibouti is one of the smallest countries in Africa.",
+      "detail": "Its land area is largely desert, with limited arable land."
+    },
+    {
+      "label": "Official Language",
+      "value": "French and Arabic",
+      "icon": "ArrowRight",
+      "description": "French is widely used in government and education, while Arabic is prevalent in religious and cultural contexts.",
+      "detail": "Somali is also spoken by a significant portion of the population."
+    },
+    {
+      "label": "Currency",
+      "value": "Djiboutian Franc (DJF)",
+      "icon": "Coffee",
+      "description": "The currency of Djibouti.",
+      "detail": "DJF is pegged to the Euro."
+    },
+    {
+      "label": "GDP",
+      "value": "$3.3 Billion (2023)",
+      "icon": "Zap",
+      "description": "Djibouti's economy is heavily reliant on port services and logistics.",
+      "detail": "Key sectors include shipping, telecommunications, and tourism."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Djibouti",
+    "description": "Djibouti experiences a hot desert climate with extremely high temperatures and very little rainfall. The coastal areas are slightly cooler due to the influence of the Indian Ocean, but overall, the climate is harsh and arid.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is characterized by scorching heat and intense sunshine. Rainfall is minimal, and temperatures frequently exceed 40°C (104°F).",
+        "keyFeatures": [
+          "Extreme heat",
+          "Low humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Wildlife viewing (desert adapted species)",
+          "Exploring coastal areas"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings a slight decrease in temperature and a slightly increased chance of rain, though rainfall remains scarce. The days are still long and sunny.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Occasional rain showers",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking in the mountains",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is the coolest time of year, with average daytime temperatures around 20-25°C (68-77°F). Rainfall is slightly more frequent, but still limited.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Increased humidity",
+          "Occasional fog"
+        ],
+        "activities": [
+          "Desert exploration",
+          "Coastal walks"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring sees a gradual warming trend and a slight increase in rainfall. The landscape begins to show signs of renewed life.",
+        "keyFeatures": [
+          "Warming temperatures",
+          "Increased rainfall",
+          "Blooming desert plants"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lake Assal",
+      "category": "Salt Lake",
+      "description": "Lake Assal is the lowest point in Africa, a vast, saline lake surrounded by volcanic mountains. Its unique ecosystem supports specialized plant and animal life, adapted to the harsh conditions.",
+      "detailedDescription": "The lake's high salinity is due to volcanic activity and evaporation. It's a remarkable geological feature and a popular tourist destination.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Near Dikhil"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Wear sturdy shoes"
+      ],
+      "scientificData": {
+        "Salinity": "34.8% (high)",
+        "Depth": "36m",
+        "Area": "120 sq km"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 2,
+      "name": "Mount Haggar (Gare Allah)",
+      "category": "Volcanic Plateau",
+      "description": "Mount Haggar is a dramatic volcanic plateau, the highest point in Djibouti, offering a surreal and otherworldly landscape. It’s a testament to the country’s volcanic past.",
+      "detailedDescription": "The plateau is a vast expanse of salt crust, surrounded by towering volcanic mountains. It’s a challenging but rewarding destination for experienced hikers.",
+      "bestTime": "November - March",
+      "bestLocations": [
+        "Near Tadjoura"
+      ],
+      "viewingTips": [
+        "Bring plenty of water and food",
+        "Wear appropriate hiking gear"
+      ],
+      "scientificData": {
+        "Height": "2,008m",
+        "Age": "Approximately 1 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Markha National Park",
+      "category": "Protected Area",
+      "description": "Markha National Park is a protected area encompassing a diverse range of habitats, including mountains, grasslands, and acacia woodlands. It’s a crucial refuge for wildlife and a vital part of Djibouti’s biodiversity.",
+      "detailedDescription": "The park is home to a variety of endemic species, including gazelles, vultures, and reptiles. It’s an important area for conservation and ecotourism.",
+      "bestTime": "October - May",
+      "bestLocations": [
+        "Near Lake Rivo"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Area": "1,800 sq km",
+        "Elevation Range": "200m - 2,008m"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Birds",
+    "icon": "Bird",
+    "description": "Djibouti is a critical stopover point for migratory birds traveling between Africa and Eurasia, making it a haven for avian diversity.",
+    "statistics": [
+      {
+        "category": "Migratory Species",
+        "count": "Over 40 species",
+        "details": "These birds rely on Djibouti's wetlands and coastal areas for rest and refueling."
+      },
+      {
+        "category": "Endemic Species",
+        "count": "5",
+        "details": "Djibouti is home to several bird species found nowhere else on Earth."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "White-throated Raven",
+        "status": "Near Threatened",
+        "significance": "A highly specialized bird adapted to the harsh desert environment."
+      },
+      {
+        "name": "Sooty Falcon",
+        "status": "Vulnerable",
+        "significance": "A long-distance migrant that relies on Djibouti as a crucial stopover."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Illegal hunting"
+    ],
+    "conservationEfforts": [
+      "Markha National Park",
+      "Community-based conservation programs"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Ecosystems of Djibouti",
+    "overview": "Djibouti’s ecosystems are remarkably diverse, ranging from arid deserts and salt lakes to coastal wetlands and mountainous regions. These ecosystems support a unique array of plant and animal life, many of which are endemic to the country.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "Djibouti is a critical stopover point for migratory birds, supporting a rich avian diversity.",
+        "statistics": [
+          {
+            "category": "Migratory Birds",
+            "count": "Over 40 species",
+            "details": "These birds rely on Djibouti's wetlands and coastal areas for rest and refueling."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "White-throated Raven",
+            "status": "Near Threatened",
+            "significance": "A highly specialized bird adapted to the harsh desert environment."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Markha National Park"
+        ]
+      },
+      {
+        "name": "Desert Flora",
+        "icon": "Leaf",
+        "description": "Despite the harsh conditions, Djibouti supports a surprising variety of drought-resistant plants, including acacia trees and succulents.",
+        "statistics": [
+          {
+            "category": "Acacia Trees",
+            "count": "Millions",
+            "details": "Acacia trees are a dominant feature of the Djibouti landscape."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Overgrazing",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Sustainable land management practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Djibouti",
+    "description": "Djibouti offers a range of activities for adventure seekers and nature enthusiasts, from exploring its unique landscapes to experiencing its rich culture.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the rugged mountains and volcanic plateaus of Djibouti on foot.",
+        "activities": [
+          {
+            "name": "Mount Haggar Ascent",
+            "difficulty": "Hard",
+            "season": "November - March",
+            "duration": "2-3 days",
+            "description": "A challenging trek to the summit of Mount Haggar, offering stunning views of the surrounding landscape.",
+            "bestLocations": [
+              "Near Tadjoura"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen, hat",
+            "safety": [
+              "Heat exhaustion",
+              "Dehydration"
+            ]
+          },
+          {
+            "name": "Markha National Park Trails",
+            "difficulty": "Moderate",
+            "season": "October - May",
+            "duration": "1-2 days",
+            "description": "Explore the diverse trails of Markha National Park, discovering its unique flora and fauna.",
+            "bestLocations": [
+              "Near Lake Rivo"
+            ],
+            "requirements": "Hiking boots, water, insect repellent",
+            "safety": [
+              "Wildlife encounters"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the warm waters of the Indian Ocean with a variety of water sports activities.",
+        "activities": [
+          {
+            "name": "Diving and Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life of Djibouti's coastline.",
+            "bestLocations": [
+              "Lake Rivo",
+              "Tadjoura"
+            ],
+            "requirements": "Snorkeling gear or diving certification",
+            "safety": [
+              "Sunburn",
+              "Marine life encounters"
+            ]
+          },
+          {
+            "name": "Coastal Walks",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Take a leisurely stroll along Djibouti's pristine beaches.",
+            "bestLocations": [
+              "Lake Rivo"
+            ],
+            "requirements": "Comfortable shoes",
+            "safety": [
+              "Sunburn"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, hat, sunglasses",
+        "winter": "Warm layers, jacket, scarf, gloves",
+        "yearRound": "Sunscreen, insect repellent"
+      },
+      "equipment": {
+        "basic": "Water bottle, backpack, flashlight",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Heat exhaustion",
+        "Dehydration",
+        "Sunburn",
+        "Wildlife encounters"
+      ]
+    }
+  }
+}

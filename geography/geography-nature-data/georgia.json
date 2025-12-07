@@ -1,0 +1,352 @@
+{
+  "name": "Georgia",
+  "region": "Europe",
+  "description": "Georgia, nestled in the Caucasus Mountains, is a nation of dramatic landscapes, ancient history, and vibrant culture. Known as the ‘Land of Wine’ and the ‘Birthplace of Wine,’ it boasts a unique blend of Eastern European and Asian influences. From the towering peaks of the Greater Caucasus to the fertile valleys of the Rioni and Kura rivers, Georgia offers a diverse range of experiences for travelers and nature enthusiasts alike.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Tbilisi",
+      "icon": "MapPin",
+      "description": "The bustling capital city, a historic crossroads of cultures.",
+      "detail": "Tbilisi is renowned for its sulfur baths, ancient fortresses, and vibrant nightlife."
+    },
+    {
+      "label": "Population",
+      "value": "3.7 million",
+      "icon": "Users",
+      "description": "A nation of resilient and hospitable people.",
+      "detail": "The population is predominantly Georgian, with significant minority groups including Armenians and Russians."
+    },
+    {
+      "label": "Area",
+      "value": "69,700 sq km",
+      "icon": "Globe",
+      "description": "A land of varied terrain and stunning vistas.",
+      "detail": "Georgia’s landscape is dominated by the Caucasus Mountains, covering approximately 70% of the country."
+    },
+    {
+      "label": "Official Language",
+      "value": "Georgian",
+      "icon": "ArrowRight",
+      "description": "A unique and ancient language.",
+      "detail": "Georgian is a Kartvelian language, unrelated to most other European languages."
+    },
+    {
+      "label": "Currency",
+      "value": "Georgian Lari (GEL)",
+      "icon": "Coffee",
+      "description": "The local currency.",
+      "detail": "The exchange rate fluctuates, but generally around 2.7 GEL per 1 USD."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Georgia",
+    "description": "Georgia experiences a diverse climate due to its varied topography. The coastal regions enjoy a humid subtropical climate, while the mountainous areas have a cool, alpine climate.  Summers are warm and sunny, particularly in the valleys, while winters are cold and snowy in the highlands.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "A time of rebirth and blossoming, with wildflowers carpeting the hillsides.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Blooming flora",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Wine tasting",
+          "Visiting gardens"
+        ]
+      },
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Warm and sunny days, ideal for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Long daylight hours",
+          "Festivals"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Water sports",
+          "Wine festivals"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Spectacular fall foliage and harvest season.",
+        "keyFeatures": [
+          "Cool temperatures",
+          "Colorful landscapes",
+          "Wine harvest"
+        ],
+        "activities": [
+          "Hiking",
+          "Wine tours",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Cold and snowy conditions, particularly in the mountains.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Skiing opportunities"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting thermal baths"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Svaneti",
+      "category": "Mountain Range",
+      "description": "Svaneti is a remote and breathtaking region in northwestern Georgia, renowned for its towering peaks, medieval stone towers, and unique Svan culture. It’s a hiker’s paradise and a window into Georgia’s ancient past.",
+      "detailedDescription": "The region is characterized by its dramatic alpine scenery, including Mount Shkhara, Georgia’s highest peak. The iconic Svan towers, built for defense and family protection, dot the landscape, offering a glimpse into the region’s history.  Traditional Svan cuisine and hospitality are integral to the experience.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Mestia",
+        "Ushguli",
+        "Chalaadi Glacier"
+      ],
+      "viewingTips": [
+        "Acclimatize to the altitude",
+        "Respect local customs",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Height": "4787m (Mount Shkhara)",
+        "ElevationRange": "1800m - 4787m",
+        "Age": "Approximately 2 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Borjomi-Kharagauli National Park",
+      "category": "National Park",
+      "description": "A vast national park in the Lesser Caucasus Mountains, famous for its mineral springs and diverse flora and fauna. It’s a haven for hikers and nature lovers.",
+      "detailedDescription": "The park encompasses a significant portion of the Lesser Caucasus Mountains, offering a diverse range of landscapes, from alpine meadows to dense forests. Borjomi is renowned for its mineral water, which is bottled and exported worldwide. The park is home to a variety of wildlife, including brown bears, wolves, and lynx.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Borjomi",
+        "Kharagauli"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring plenty of water",
+        "Respect wildlife"
+      ],
+      "scientificData": {
+        "Area": "20,000 sq km",
+        "BiodiversityIndex": "High",
+        "TreeSpecies": "Over 700"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 3,
+      "name": "Tskhlaredi Cave",
+      "category": "Cave System",
+      "description": "One of the longest and most beautiful cave systems in Georgia, featuring stunning stalactites and stalagmites.",
+      "detailedDescription": "Located in the Satskhunato mountain range, Tskhlaredi Cave is a complex network of chambers and passages adorned with impressive speleothems (stalactites and stalagmites). The cave’s formations are a testament to millions of years of geological processes.  It’s a relatively accessible cave system, making it popular with tourists.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Satskhunato"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes",
+        "Bring a flashlight",
+        "Respect the cave environment"
+      ],
+      "scientificData": {
+        "Length": "14 km",
+        "Depth": "120m",
+        "FormationAge": "Approximately 1.5 million years"
+      },
+      "icon": "Cloud"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Highland Forests",
+    "icon": "Trees",
+    "description": "Georgia’s mountainous regions are covered in diverse highland forests, supporting a rich array of plant and animal life.",
+    "statistics": [
+      {
+        "category": "Tree Species",
+        "count": "Over 700",
+        "details": "Includes fir, spruce, beech, and oak."
+      },
+      {
+        "category": "Endemic Species",
+        "count": "30+",
+        "details": "Unique plant species found only in Georgia."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Caucasian Fir",
+        "status": "Vulnerable",
+        "significance": "An iconic tree of the Caucasus Mountains."
+      },
+      {
+        "name": "Brown Bear",
+        "status": "Near Threatened",
+        "significance": "A symbol of the Georgian wilderness."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Climate Change",
+      "Illegal Logging"
+    ],
+    "conservationEfforts": [
+      "National Park Establishment",
+      "Reforestation Programs",
+      "Community-Based Conservation"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Caucasian Mixed Forests Ecosystem",
+    "overview": "The Caucasian Mixed Forests ecosystem covers a significant portion of Georgia, characterized by a mosaic of coniferous and deciduous forests, alpine meadows, and wetlands. It’s a vital habitat for a wide range of plant and animal species.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 8
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Highland Forests",
+        "icon": "Trees",
+        "description": "Dominate the mountainous regions, providing habitat for numerous species.",
+        "statistics": [
+          {
+            "category": "Forest Cover",
+            "count": "30%",
+            "details": "Approximately 30% of Georgia’s land area is covered by forests."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Deforestation",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Sustainable Forestry Practices",
+          "Protected Area Expansion"
+        ]
+      },
+      {
+        "name": "Riverine Ecosystems",
+        "icon": "Droplets",
+        "description": "Georgia’s rivers and wetlands support diverse aquatic life and provide essential ecosystem services.",
+        "statistics": [
+          {
+            "category": "River Length",
+            "count": "Over 20,000 km",
+            "details": "Georgia has an extensive network of rivers and streams."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Pollution",
+          "Habitat Loss"
+        ],
+        "conservationEfforts": [
+          "River Basin Management",
+          "Pollution Control"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Georgia",
+    "description": "Georgia offers a wide range of outdoor activities for all skill levels, from challenging hikes to relaxing wine tours.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Georgia’s stunning mountain landscapes on foot.",
+        "activities": [
+          {
+            "name": "Svaneti Trek",
+            "difficulty": "Moderate",
+            "season": "June - September",
+            "duration": "3-5 days",
+            "description": "A multi-day trek through the Svaneti region, exploring medieval towers and breathtaking scenery.",
+            "bestLocations": [
+              "Mestia",
+              "Ushguli"
+            ],
+            "requirements": "Good hiking boots, backpack, water bottle",
+            "safety": [
+              "Inform someone of your route",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Kazbegi Hike",
+            "difficulty": "Easy - Moderate",
+            "season": "June - October",
+            "duration": "1-2 days",
+            "description": "A scenic hike to Gergeti Trinity Church, with panoramic views of Mount Kazbek.",
+            "bestLocations": [
+              "Stepantsminda"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Be aware of altitude sickness"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the rivers and lakes of Georgia for swimming, rafting, and kayaking.",
+        "activities": [
+          {
+            "name": "Rioni River Rafting",
+            "difficulty": "Moderate",
+            "season": "June - September",
+            "duration": "Half-day",
+            "description": "Experience the thrill of rafting down the Rioni River.",
+            "bestLocations": [
+              "Tbilisi"
+            ],
+            "requirements": "Life jacket, wetsuit (optional)",
+            "safety": [
+              "Follow the guide’s instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Travel insurance",
+        "Inform someone of your plans",
+        "Be aware of local customs"
+      ]
+    }
+  }
+}

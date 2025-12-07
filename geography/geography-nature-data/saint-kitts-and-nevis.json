@@ -1,0 +1,366 @@
+{
+  "name": "Saint Kitts and Nevis",
+  "region": "Caribbean",
+  "description": "Saint Kitts and Nevis is a twin-island nation in the Leeward Islands of the Caribbean. Known for its stunning natural beauty, rich history, and vibrant culture, it offers a unique blend of relaxation, adventure, and cultural experiences. The islands boast lush rainforests, volcanic peaks, pristine beaches, and a fascinating colonial past.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Basseterre",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Saint Kitts and Nevis.",
+      "detail": "Located on the western coast of St. Kitts, Basseterre is the political, economic, and cultural center of the nation."
+    },
+    {
+      "label": "Population",
+      "value": "48,000",
+      "icon": "Users",
+      "description": "A small, welcoming nation with a strong sense of community.",
+      "detail": "The population is primarily of African descent, with a significant European influence."
+    },
+    {
+      "label": "Area",
+      "value": "261 km²",
+      "icon": "Globe",
+      "description": "Two islands combined, offering diverse landscapes.",
+      "detail": "St. Kitts is larger, while Nevis is smaller and more laid-back."
+    },
+    {
+      "label": "Currency",
+      "value": "East Caribbean Dollar (XCD)",
+      "icon": "Coffee",
+      "description": "The official currency of Saint Kitts and Nevis.",
+      "detail": "The XCD is pegged to the US dollar at a rate of 1:1."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "English is the official language and is widely spoken.",
+      "detail": "Creole languages are also spoken throughout the islands."
+    },
+    {
+      "label": "Independence",
+      "value": "September 19, 1983",
+      "icon": "Calendar",
+      "description": "Gained independence from Britain in 1983.",
+      "detail": "The islands were formerly part of the Leeward Islands federation."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Saint Kitts and Nevis enjoys a tropical climate with consistently warm temperatures and high humidity throughout the year. Rainfall is distributed relatively evenly, with a slightly wetter season.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "The hottest and most humid months, with frequent showers.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent showers",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Water sports",
+          "Hiking in shaded areas"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September to November",
+        "description": "A transitional season with decreasing rainfall and pleasant temperatures.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Pleasant temperatures",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Scuba diving",
+          "Exploring historical sites"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "The coolest and driest months, with comfortable temperatures.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Low rainfall",
+          "Sunny days"
+        ],
+        "activities": [
+          "Beach activities",
+          "Sightseeing",
+          "Exploring the interior"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March to May",
+        "description": "Temperatures begin to rise again, and rainfall increases slightly.",
+        "keyFeatures": [
+          "Rising temperatures",
+          "Increasing rainfall",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Outdoor adventures"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Liamuiga",
+      "category": "Volcano",
+      "description": "Mount Liamuiga is the dormant volcano dominating St. Kitts. It's the Caribbean's second-highest peak and offers challenging hikes with rewarding panoramic views.",
+      "detailedDescription": "The volcano's crater is a massive depression, and the surrounding area is covered in lush rainforest.  It was once an active volcano, with eruptions in the 18th century.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Tim's Taleface Trail",
+        "Mount Liamuiga Trail"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring plenty of water",
+        "Check weather conditions before heading out"
+      ],
+      "scientificData": {
+        "Height": "1117m",
+        "Age": "Approximately 800 years old",
+        "VolcanicType": "Stratovolcano"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Nevis Peak",
+      "category": "Mountain",
+      "description": "Nevis Peak, the highest point in Saint Kitts and Nevis, offers breathtaking views of the island and surrounding Caribbean Sea.",
+      "detailedDescription": "The peak is covered in cloud forest, home to a diverse array of plant and animal life.  It's a challenging but rewarding climb for experienced hikers.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "Nevis Peak Trail"
+      ],
+      "viewingTips": [
+        "Start early in the morning",
+        "Be prepared for changing weather conditions",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Height": "1,033m",
+        "ElevationGain": "800m",
+        "Vegetation": "Cloud Forest"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Indian River",
+      "category": "River",
+      "description": "The Indian River is a unique mangrove ecosystem, offering a tranquil and scenic experience.",
+      "detailedDescription": "The river is a vital habitat for numerous bird species and other wildlife.  It's a popular spot for boat tours and birdwatching.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Indian River National Park"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching",
+        "Wear insect repellent",
+        "Respect the natural environment"
+      ],
+      "scientificData": {
+        "Length": "25km",
+        "MangroveCoverage": "Approximately 60%"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Tropical Rainforests and Mangroves",
+    "overview": "Saint Kitts and Nevis are dominated by tropical rainforests and mangrove ecosystems, supporting a remarkable biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "The islands are a haven for migratory and resident bird species.",
+        "statistics": [
+          {
+            "category": "Endemic Species",
+            "count": "5",
+            "details": "Unique bird species found only in St. Kitts and Nevis"
+          },
+          {
+            "category": "Migratory Birds",
+            "count": "100+",
+            "details": "Thousands of birds migrate through the islands annually"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Red-throated Parrot",
+            "status": "Vulnerable",
+            "significance": "Endemic parrot species"
+          },
+          {
+            "name": "White-crowned Manakin",
+            "status": "Endangered",
+            "significance": "Critically endangered songbird"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Reforestation projects"
+        ]
+      },
+      {
+        "name": "Marine Life",
+        "icon": "Fish",
+        "description": "The surrounding waters are rich in marine life, including coral reefs and diverse fish species.",
+        "statistics": [
+          {
+            "category": "Coral Reefs",
+            "count": "Extensive",
+            "details": "Significant coral reef ecosystems"
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 200",
+            "details": "Diverse range of fish species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Humpback Whale",
+            "status": "Migratory",
+            "significance": "Whales migrate through the waters annually"
+          },
+          {
+            "name": "Sea Turtles",
+            "status": "Endangered",
+            "significance": "Several species of sea turtles nest on the islands"
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures",
+    "description": "Saint Kitts and Nevis offer a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the islands' diverse trails and stunning landscapes.",
+        "activities": [
+          {
+            "name": "Mount Liamuiga Hike",
+            "difficulty": "Hard",
+            "season": "December - April",
+            "duration": "6-8 hours",
+            "description": "A challenging hike to the summit of Mount Liamuiga, offering panoramic views.",
+            "bestLocations": [
+              "Tim's Taleface Trail",
+              "Mount Liamuiga Trail"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen, hat",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Nevis Peak Trail",
+            "difficulty": "Moderate",
+            "season": "November - April",
+            "duration": "4-6 hours",
+            "description": "A scenic hike to the summit of Nevis Peak, passing through cloud forest.",
+            "bestLocations": [
+              "Nevis Peak Trail"
+            ],
+            "requirements": "Hiking boots, water, insect repellent",
+            "safety": [
+              "Be prepared for changing weather"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in the clear Caribbean waters.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "Frigate Bay",
+              "Pinney's Beach"
+            ],
+            "requirements": "Certification, snorkeling gear",
+            "safety": [
+              "Follow dive guidelines",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Discover the beauty of the underwater world.",
+            "bestLocations": [
+              "Pinney's Beach",
+              "Cockleshell Bay"
+            ],
+            "requirements": "Snorkeling gear",
+            "safety": [
+              "Swim in designated areas"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Layers of clothing, light jacket, rain gear",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of wildlife",
+        "Follow local regulations"
+      ]
+    }
+  }
+}

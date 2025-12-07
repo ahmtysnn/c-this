@@ -1,0 +1,377 @@
+{
+  "name": "Canada",
+  "region": "North America",
+  "description": "Canada, the second-largest country in the world by total area, is a land of breathtaking diversity. From the rugged peaks of the Rocky Mountains to the vast expanse of the boreal forests, and the dramatic coastline of the Atlantic and Pacific Oceans, Canada offers an unparalleled range of landscapes and natural wonders. Its multicultural population and rich history contribute to a vibrant and dynamic nation.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "9,984,670 sq km (3,855,103 sq mi)",
+      "icon": "MapPin",
+      "description": "Canada is the second-largest country in the world by total area.",
+      "detail": "This vast territory encompasses diverse ecosystems, from arctic tundra to temperate rainforests."
+    },
+    {
+      "label": "Population",
+      "value": "38.2 million (2023)",
+      "icon": "Users",
+      "description": "Canada has a diverse population with a significant Indigenous presence.",
+      "detail": "The population is concentrated along the southern border, with a growing presence in western provinces."
+    },
+    {
+      "label": "Capital",
+      "value": "Ottawa",
+      "icon": "Globe",
+      "description": "Ottawa is the political and administrative center of Canada.",
+      "detail": "Located on the Ottawa River, it's known for its historic architecture and vibrant cultural scene."
+    },
+    {
+      "label": "Official Languages",
+      "value": "English and French",
+      "icon": "ArrowRight",
+      "description": "Canada has two official languages, reflecting its multicultural heritage.",
+      "detail": "French is predominantly spoken in Quebec, while English is dominant in most other provinces and territories."
+    },
+    {
+      "label": "Currency",
+      "value": "Canadian Dollar (CAD)",
+      "icon": "Coffee",
+      "description": "The official currency of Canada.",
+      "detail": "Exchange rates fluctuate, but generally stable."
+    },
+    {
+      "label": "Government",
+      "value": "Parliamentary Democracy",
+      "icon": "Clock",
+      "description": "Canada operates under a parliamentary system.",
+      "detail": "The Governor General represents the monarch, while the Prime Minister leads the government."
+    }
+  ],
+  "climateData": {
+    "title": "Canada's Climate Zones",
+    "description": "Canada experiences a wide range of climates due to its vast size and latitude. From arctic conditions in the north to temperate climates in the south, Canada’s climate is incredibly diverse.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June-August)",
+        "period": "June to August",
+        "description": "Warm and pleasant temperatures prevail across much of Canada, with long daylight hours.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Long daylight hours",
+          "Increased rainfall in coastal areas"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Water sports",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September to November",
+        "description": "Autumn brings cooler temperatures and vibrant fall foliage, particularly in eastern Canada.",
+        "keyFeatures": [
+          "Fall foliage",
+          "Cooler temperatures",
+          "Decreasing daylight hours"
+        ],
+        "activities": [
+          "Leaf peeping",
+          "Hiking",
+          "Fishing",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December to February",
+        "description": "Canada experiences long, cold winters with significant snowfall, especially in the interior and northern regions.",
+        "keyFeatures": [
+          "Heavy snowfall",
+          "Extremely cold temperatures",
+          "Short daylight hours"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating",
+          "Snowshoeing"
+        ]
+      },
+      {
+        "name": "Spring (March-May)",
+        "period": "March to May",
+        "description": "Spring brings gradually warming temperatures and the return of wildlife, with melting snow and blooming flowers.",
+        "keyFeatures": [
+          "Melting snow",
+          "Blooming flowers",
+          "Increasing daylight hours"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Wildlife viewing",
+          "Gardening"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Banff National Park",
+      "category": "Mountain Range",
+      "description": "Banff National Park is a stunning mountain landscape in the Canadian Rockies, renowned for its turquoise lakes, towering peaks, and abundant wildlife. It’s a popular destination for outdoor enthusiasts and offers breathtaking views at every turn.",
+      "detailedDescription": "Located in Alberta, Banff boasts iconic landmarks like Lake Louise and Moraine Lake. The park protects a diverse range of ecosystems, from alpine meadows to coniferous forests.",
+      "bestTime": "June-September",
+      "bestLocations": [
+        "Lake Louise",
+        "Moraine Lake",
+        "Bow Valley Parkway"
+      ],
+      "viewingTips": [
+        "Arrive early to avoid crowds",
+        "Bring layers of clothing",
+        "Respect wildlife"
+      ],
+      "scientificData": {
+        "Elevation": "1,888 m (6,200 ft)",
+        "Area": "6,641 sq km (2,571 sq mi)"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Niagara Falls",
+      "category": "Waterfall",
+      "description": "Niagara Falls is one of the world’s most famous waterfalls, straddling the border between Ontario, Canada, and New York, USA. The sheer power and beauty of the falls are a truly awe-inspiring sight.",
+      "detailedDescription": "The falls consist of three distinct waterfalls: Horseshoe Falls (the largest), American Falls, and Bridal Veil Falls. The surrounding area offers various attractions, including boat tours and observation decks.",
+      "bestTime": "April-October",
+      "bestLocations": [
+        "Table Rock",
+        "Queen Victoria Park",
+        "Journey Behind the Falls"
+      ],
+      "viewingTips": [
+        "Wear waterproof clothing",
+        "Bring binoculars",
+        "Take advantage of the illuminated falls at night"
+      ],
+      "scientificData": {
+        "Height": "57 m (187 ft)",
+        "Flow Rate": "625,000 liters per second"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Cape Breton Highlands National Park",
+      "category": "Coastal Landscape",
+      "description": "Cape Breton Highlands National Park in Nova Scotia is a dramatic coastal landscape characterized by rugged cliffs, pristine beaches, and lush forests. It’s a haven for wildlife and offers stunning views of the Atlantic Ocean.",
+      "detailedDescription": "The park’s Cabot Trail, a scenic highway, winds along the coastline, providing access to numerous hiking trails, viewpoints, and camping sites. It’s known for its red sandstone cliffs and diverse birdlife.",
+      "bestTime": "June-October",
+      "bestLocations": [
+        "Cabot Trail",
+        "Skyline Trail",
+        "Ingalls Cove"
+      ],
+      "viewingTips": [
+        "Drive the Cabot Trail",
+        "Look for whales and seabirds",
+        "Enjoy the sunset views"
+      ],
+      "scientificData": {
+        "Length": "240 km (150 mi)",
+        "Area": "1,913 sq km (738 sq mi)"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Canadian Ecosystems",
+    "overview": "Canada’s ecosystems are incredibly diverse, ranging from the Arctic tundra to the boreal forests and temperate rainforests. Each ecosystem supports a unique array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "25%",
+      "nationalParks": 44
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Canada is home to vast boreal and temperate forests, playing a crucial role in carbon sequestration and biodiversity.",
+        "statistics": [
+          {
+            "category": "Tree Cover",
+            "count": "3,600",
+            "details": "Million hectares of forest cover"
+          },
+          {
+            "category": "Timber Production",
+            "count": "150",
+            "details": "Million cubic meters annually"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Balsam Fir",
+            "status": "Common",
+            "significance": "Important timber species"
+          },
+          {
+            "name": "Moose",
+            "status": "Vulnerable",
+            "significance": "Keystone herbivore"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Reforestation programs"
+        ]
+      },
+      {
+        "name": "Arctic Tundra",
+        "icon": "Snowflake",
+        "description": "The Arctic tundra is a treeless landscape characterized by permafrost and short growing seasons.",
+        "statistics": [
+          {
+            "category": "Permafrost Coverage",
+            "count": "85%",
+            "details": "Extensive permafrost layer"
+          },
+          {
+            "category": "Wildlife Density",
+            "count": "High",
+            "details": "Supports unique arctic wildlife"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Polar Bear",
+            "status": "Vulnerable",
+            "significance": "Apex predator"
+          },
+          {
+            "name": "Arctic Fox",
+            "status": "Least Concern",
+            "significance": "Adaptable to harsh conditions"
+          }
+        ],
+        "threats": [
+          "Climate change",
+          "Oil and gas exploration"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Climate change mitigation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Canada",
+    "description": "Canada offers a vast array of outdoor activities for all skill levels and interests, from hiking and camping to water sports and wildlife viewing.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Canada’s stunning trails and landscapes on foot.",
+        "activities": [
+          {
+            "name": "Coastal Trail Hike",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "3-6 hours",
+            "description": "Hike along the rugged coastline, enjoying breathtaking ocean views.",
+            "bestLocations": [
+              "Pacific Rim National Park Reserve",
+              "Gros Morne National Park"
+            ],
+            "requirements": "Hiking boots, waterproof jacket, sunscreen",
+            "safety": [
+              "Check weather conditions",
+              "Stay on marked trails",
+              "Carry water and snacks"
+            ]
+          },
+          {
+            "name": "Mountain Trail Hike",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "6-12 hours",
+            "description": "Challenge yourself with a hike through the Canadian Rockies.",
+            "bestLocations": [
+              "Banff National Park",
+              "Jasper National Park"
+            ],
+            "requirements": "Sturdy hiking boots, trekking poles, layers of clothing",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Carry bear spray",
+              "Inform someone of your plans"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy Canada’s vast lakes and oceans with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Canoeing on Lake Louise",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "2-4 hours",
+            "description": "Paddle across the turquoise waters of Lake Louise, surrounded by stunning mountain scenery.",
+            "bestLocations": [
+              "Lake Louise"
+            ],
+            "requirements": "Canoe rental, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of weather conditions"
+            ]
+          },
+          {
+            "name": "Whale Watching Tour",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "3-5 hours",
+            "description": "Observe majestic whales in their natural habitat.",
+            "bestLocations": [
+              "Vancouver Island",
+              "Bay of Fundy"
+            ],
+            "requirements": "Warm clothing, binoculars",
+            "safety": [
+              "Follow the guide’s instructions",
+              "Maintain a safe distance from the whales"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, insulated jacket, waterproof boots, hat, gloves",
+        "yearRound": "Versatile clothing that can be layered"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Carry a first-aid kit",
+        "Inform someone of your plans",
+        "Be aware of wildlife",
+        "Check weather conditions"
+      ]
+    }
+  }
+}

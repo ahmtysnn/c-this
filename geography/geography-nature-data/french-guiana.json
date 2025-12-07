@@ -1,0 +1,292 @@
+{
+  "CountryData": {
+    "name": "French Guiana",
+    "region": "South America",
+    "description": "French Guiana, an overseas territory of France, is a land of dramatic contrasts – a dense, largely untouched rainforest meeting the Atlantic Ocean. Characterized by its unique biodiversity, challenging terrain, and a strong Amerindian presence, it’s a destination for adventurous travelers and researchers alike. The territory boasts a significant portion of the Guiana Shield, a geological formation rich in mineral resources and ancient landscapes.",
+    "quickFacts": [
+      {
+        "label": "Area",
+        "value": "83,538 km²",
+        "icon": "MapPin",
+        "description": "Spanning a vast area, French Guiana is the fourth-largest French overseas territory.",
+        "detail": "It’s roughly the size of Belgium."
+      },
+      {
+        "label": "Population",
+        "value": "316,749",
+        "icon": "Users",
+        "description": "The population is a diverse mix of French, Creole, and indigenous peoples.",
+        "detail": "Creole is the most widely spoken language."
+      },
+      {
+        "label": "Capital",
+        "value": "Cayenne",
+        "icon": "MapPin",
+        "description": "Cayenne is a port city and the administrative center of French Guiana.",
+        "detail": "It’s located on the island of Matapï."
+      },
+      {
+        "label": "Currency",
+        "value": "Euro (€)",
+        "icon": "Globe",
+        "description": "As part of France, French Guiana uses the Euro.",
+        "detail": "However, French Guiana has its own postal codes and identification documents."
+      },
+      {
+        "label": "Official Language",
+        "value": "French",
+        "icon": "Navigation",
+        "description": "French is the official language, but Creole is widely spoken.",
+        "detail": "Dutch was historically spoken by settlers."
+      },
+      {
+        "label": "GDP",
+        "value": "$8.3 billion (2021)",
+        "icon": "Coffee",
+        "description": "The economy is heavily reliant on natural resources and space activities.",
+        "detail": "It's significantly influenced by France."
+      }
+    ],
+    "climateData": {
+      "title": "Tropical Rainforest Climate",
+      "description": "French Guiana experiences a tropical rainforest climate, characterized by consistently high temperatures and humidity throughout the year. Rainfall is abundant, with distinct wet and dry seasons, though the wet season is generally prolonged.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Wet Season",
+          "period": "May – October",
+          "description": "This season is dominated by heavy rainfall, often accompanied by thunderstorms and flooding. Rivers swell, and travel can be challenging.",
+          "keyFeatures": [
+            "High rainfall",
+            "Flooding",
+            "Humidity"
+          ],
+          "activities": [
+            "River cruises (during manageable levels)",
+            "Wildlife viewing (increased activity)"
+          ]
+        },
+        {
+          "name": "Dry Season",
+          "period": "November – April",
+          "description": "The dry season brings slightly lower rainfall and more sunshine. Temperatures remain consistently warm, but humidity decreases somewhat.",
+          "keyFeatures": [
+            "Lower rainfall",
+            "Sunshine",
+            "Reduced humidity"
+          ],
+          "activities": [
+            "Hiking",
+            "Birdwatching",
+            "Photography"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Kai Island",
+        "category": "Island",
+        "description": "Kai Island, located off the coast of French Guiana, is a pristine wilderness area renowned for its exceptional biodiversity and dramatic coastal scenery. It’s a vital nesting site for sea turtles and home to a variety of endemic bird species.",
+        "detailedDescription": "The island is largely uninhabited and accessible only by boat. Its rugged coastline and dense rainforest create a truly remote and captivating landscape.  The island’s unique geological history has contributed to its remarkable flora and fauna.",
+        "bestTime": "April – June (for turtle nesting observation)",
+        "bestLocations": [
+          "North Coast Beaches",
+          "Interior Rainforest Trails"
+        ],
+        "viewingTips": [
+          "Bring insect repellent",
+          "Wear sturdy hiking boots",
+          "Respect wildlife"
+        ],
+        "scientificData": {
+          "Height": "300m",
+          "Area": "15 km²",
+          "ElevationRange": "10-300m"
+        },
+        "icon": "Leaf"
+      },
+      {
+        "id": 2,
+        "name": "Apatou Falls",
+        "category": "Waterfall",
+        "description": "Apatou Falls is the highest waterfall in French Guiana, cascading down a sheer cliff face into a refreshing pool below. It’s a popular destination for swimming and enjoying the natural beauty of the rainforest.",
+        "detailedDescription": "The falls are located within a protected area and are surrounded by lush vegetation. The surrounding area offers opportunities for hiking and wildlife viewing. The water is cool and clear, providing a welcome respite from the tropical heat.",
+        "bestTime": "Year-Round",
+        "bestLocations": [
+          "Waterfall Trail"
+        ],
+        "viewingTips": [
+          "Wear water shoes",
+          "Bring a towel",
+          "Be aware of slippery rocks"
+        ],
+        "scientificData": {
+          "Height": "80m",
+          "FlowRate": "Variable, dependent on rainfall"
+        },
+        "icon": "Droplets"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Guiana Shield Rainforest Ecosystem",
+      "overview": "French Guiana is dominated by the Guiana Shield rainforest, one of the world’s largest and most biodiverse rainforests. This ancient geological formation is characterized by towering trees, dense undergrowth, and a remarkable array of plant and animal life.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 15% of the territory is protected in national parks and reserves.",
+        "nationalParks": 5
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Mammals",
+          "icon": "Bird",
+          "description": "French Guiana is home to a variety of mammals, including jaguars, tapirs, capybaras, and various monkey species.",
+          "statistics": [
+            {
+              "category": "Jaguars",
+              "count": "Estimated 50-100",
+              "details": "Critically endangered"
+            },
+            {
+              "category": "Capybaras",
+              "count": "Large populations",
+              "details": "Semi-aquatic rodents"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Jaguar",
+              "status": "Critically Endangered",
+              "significance": "Apex predator"
+            },
+            {
+              "name": "Giant Otter",
+              "status": "Vulnerable",
+              "significance": "Keystone species of rivers"
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Hunting"
+          ],
+          "conservationEfforts": [
+            "Protected area management",
+            "Anti-poaching patrols"
+          ]
+        },
+        {
+          "name": "Birds",
+          "icon": "Leaf",
+          "description": "The rainforest is a haven for birdlife, with numerous endemic and migratory species.",
+          "statistics": [
+            {
+              "category": "Endemic Birds",
+              "count": "Over 80",
+              "details": "Unique to French Guiana"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Guianan Cock-of-the-Rock",
+              "status": "Vulnerable",
+              "significance": "Iconic rainforest bird"
+            },
+            {
+              "name": "Amazon Kingfisher",
+              "status": "Endangered",
+              "significance": "Specialized fish predator"
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Illegal trapping"
+          ],
+          "conservationEfforts": [
+            "Habitat restoration",
+            "Community-based conservation"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities in French Guiana",
+      "description": "French Guiana offers a wide range of outdoor activities for adventurous travelers, from hiking and wildlife viewing to river cruises and exploring the rainforest.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the rainforest on foot and discover hidden waterfalls and scenic viewpoints.",
+          "activities": [
+            {
+              "name": "Kai Island Trek",
+              "difficulty": "Moderate",
+              "season": "Year-Round",
+              "duration": "2-3 days",
+              "description": "A challenging trek through the rainforest to Kai Island, offering stunning coastal views and wildlife encounters.",
+              "bestLocations": [
+                "Rainforest Trails"
+              ],
+              "requirements": "Hiking boots, insect repellent, water bottle",
+              "safety": [
+                "Be aware of snakes and insects",
+                "Stay on marked trails"
+              ]
+            },
+            {
+              "name": "Apatou Falls Hike",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "1-2 hours",
+              "description": "A short hike to the base of the impressive Apatou Falls.",
+              "bestLocations": [
+                "Waterfall Trail"
+              ],
+              "requirements": "Water shoes, towel",
+              "safety": [
+                "Be careful on slippery rocks"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "River Cruises",
+          "icon": "Waves",
+          "description": "Experience the rainforest from a unique perspective on a river cruise.",
+          "activities": [
+            {
+              "name": "Esquibo River Cruise",
+              "difficulty": "Moderate",
+              "season": "Dry Season",
+              "duration": "3-5 days",
+              "description": "A multi-day cruise along the Essequibo River, offering opportunities to spot wildlife and visit indigenous communities.",
+              "bestLocations": [
+                "Essequibo River"
+              ],
+              "requirements": "Insect repellent, sunscreen, binoculars",
+              "safety": [
+                "Follow guide instructions",
+                "Be aware of river currents"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight, breathable clothing, swimwear, hat",
+          "winter": "Warm layers, waterproof jacket, long pants",
+          "yearRound": "Insect repellent, sunscreen, hiking boots"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, flashlight, first-aid kit",
+          "hiking": "Hiking boots, trekking poles, map, compass",
+          "photography": "Camera, extra batteries, waterproof case"
+        },
+        "safety": [
+          "Inform someone of your plans",
+          "Carry a satellite phone or personal locator beacon (PLB)",
+          "Be aware of wildlife"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "name": "Monaco",
+  "region": "Europe",
+  "description": "Monaco, officially the Principality of Monaco, is a sovereign city-state and microstate on the French Riviera. Known for its opulent lifestyle, luxury yachts, and casinos, Monaco also boasts a surprisingly diverse natural environment, including Mediterranean scrubland, rocky coastal cliffs, and a network of caves. It’s a unique blend of glamour and natural beauty, offering a captivating experience for visitors.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "2.02 km²",
+      "icon": "MapPin",
+      "description": "Monaco is one of the smallest countries in the world.",
+      "detail": "Its diminutive size contributes to its exclusive and highly regulated environment."
+    },
+    {
+      "label": "Population",
+      "value": "36,297",
+      "icon": "Users",
+      "description": "Monaco has a relatively small population.",
+      "detail": "The population is comprised of residents from various nationalities."
+    },
+    {
+      "label": "Capital",
+      "value": "Monaco",
+      "icon": "MapPin",
+      "description": "Monaco is both the country and its capital.",
+      "detail": "The city is divided into Monaco-Ville, Fontvieille, and La Condamine."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Monaco uses the Euro as its currency.",
+      "detail": "It's a member of the Eurozone."
+    },
+    {
+      "label": "Official Language",
+      "value": "French",
+      "icon": "Navigation",
+      "description": "French is the official language of Monaco.",
+      "detail": "Monaco also recognizes Monegasque and Italian."
+    },
+    {
+      "label": "GDP per capita",
+      "value": "$137,870",
+      "icon": "Globe",
+      "description": "Monaco has one of the highest GDPs per capita globally.",
+      "detail": "This reflects its strong financial sector and tourism industry."
+    }
+  ],
+  "climateData": {
+    "title": "Mediterranean Climate",
+    "description": "Monaco enjoys a Mediterranean climate characterized by hot, dry summers and mild, wet winters. The Gulf Stream moderates temperatures, resulting in relatively mild winters compared to other locations at similar latitudes.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer",
+        "period": "June - August",
+        "description": "Summer in Monaco is hot and sunny, with average temperatures ranging from 25°C to 30°C (77°F to 86°F).",
+        "keyFeatures": [
+          "High sunshine hours",
+          "Warm sea temperatures",
+          "Festivals and events"
+        ],
+        "activities": [
+          "Swimming",
+          "Sunbathing",
+          "Boat trips",
+          "Outdoor dining"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September - November",
+        "description": "Autumn brings pleasant temperatures and fewer crowds. Rainfall increases slightly, but the weather remains generally mild.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Lower humidity",
+          "Pleasant temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Exploring the coastline",
+          "Cultural events"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December - February",
+        "description": "Winter is mild, with average temperatures ranging from 8°C to 14°C (46°F to 57°F). Snowfall is rare, but can occur occasionally.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Fewer tourists",
+          "Christmas markets"
+        ],
+        "activities": [
+          "Casino visits",
+          "Shopping",
+          "Museum tours",
+          "Indoor dining"
+        ]
+      },
+      {
+        "name": "Spring",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming and blooming of wildflowers. Rainfall is moderate, and the landscape comes alive with color.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Outdoor cafes"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Monaco Caves",
+      "category": "Speleology",
+      "description": "The Monaco Caves are a network of limestone caves located beneath the Rock of Monaco. These caves offer a fascinating glimpse into the region's geological history, with stunning stalactites and stalagmites.",
+      "detailedDescription": "The caves were formed over millions of years by the dissolution of limestone by groundwater. They are a significant geological site and a popular tourist attraction. Guided tours are available to explore the various chambers and passages.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Near the Prince's Palace",
+        "Fontvieille district"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes",
+        "Bring a light jacket",
+        "Book a guided tour in advance"
+      ],
+      "scientificData": {
+        "Depth": "Up to 190m",
+        "Formation Age": "10-20 million years",
+        "Limestone Type": "Calcaire Forestier"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "The Mediterranean Scrubland",
+      "category": "Vegetation",
+      "description": "The Mediterranean scrubland of Monaco is a unique ecosystem characterized by drought-resistant shrubs, herbs, and grasses. It provides habitat for a variety of wildlife and contributes to the region's biodiversity.",
+      "detailedDescription": "This vegetation type is adapted to the hot, dry summers and mild winters of the Mediterranean climate. It plays a crucial role in soil conservation and provides a habitat for numerous bird species and insects.  The landscape is rugged and beautiful, offering a contrast to the urban environment.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Exotic Garden",
+        "Coastal cliffs"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes for hiking",
+        "Bring sunscreen and a hat"
+      ],
+      "scientificData": {
+        "Plant Species": "Over 150 species of plants",
+        "Soil Type": "Calcareous soil",
+        "Average Rainfall": "300mm per year"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Monaco's Coastal Ecosystem",
+    "overview": "Monaco's coastal ecosystem is a delicate balance of marine and terrestrial habitats, shaped by its unique geography and climate. The Mediterranean Sea provides a rich source of marine life, while the surrounding cliffs and scrubland support a diverse range of flora and fauna.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Life",
+        "icon": "Fish",
+        "description": "The waters surrounding Monaco are home to a variety of marine species, including fish, crustaceans, and mollusks.",
+        "statistics": [
+          {
+            "category": "Fish Species",
+            "count": "Over 200",
+            "details": "Diverse species including grouper, sea bass, and bream"
+          },
+          {
+            "category": "Coral Reefs",
+            "count": "Limited",
+            "details": "Small coral reefs present in sheltered bays"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Monaco Grouper",
+            "status": "Vulnerable",
+            "significance": "Endemic species found only in Monaco"
+          },
+          {
+            "name": "Mediterranean Sea Bass",
+            "status": "Least Concern",
+            "significance": "Important commercial fish species"
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Overfishing",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Marine Protected Areas",
+          "Sustainable fishing practices"
+        ]
+      },
+      {
+        "name": "Terrestrial Flora",
+        "icon": "Leaf",
+        "description": "The scrubland vegetation of Monaco is adapted to the harsh Mediterranean climate.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "150+",
+            "details": "Drought-resistant shrubs and herbs"
+          },
+          {
+            "category": "Endemic Species",
+            "count": "10+",
+            "details": "Unique plant species found only in Monaco"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Monaco Olive Tree",
+            "status": "Endangered",
+            "significance": "Ancient olive tree species"
+          },
+          {
+            "name": "Mediterranean Rock Rose",
+            "status": "Near Threatened",
+            "significance": "Iconic flower of the region"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Habitat restoration",
+          "Control of invasive species"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Monaco",
+    "description": "Monaco offers a wide range of outdoor activities, from water sports to hiking and exploring the coastline.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the rugged coastline and scrubland of Monaco on foot.",
+        "activities": [
+          {
+            "name": "Coastal Trail Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-4 hours",
+            "description": "Hike along the scenic coastal trail, enjoying stunning views of the Mediterranean Sea.",
+            "bestLocations": [
+              "Port Hercules",
+              "Monte Carlo"
+            ],
+            "requirements": "Sturdy shoes, water, sunscreen",
+            "safety": [
+              "Be aware of uneven terrain",
+              "Stay hydrated"
+            ]
+          },
+          {
+            "name": "Exotic Garden Hike",
+            "difficulty": "Easy",
+            "season": "Spring - Autumn",
+            "duration": "1-2 hours",
+            "description": "Explore the beautiful Exotic Garden, home to a diverse collection of plants from around the world.",
+            "bestLocations": [
+              "Exotic Garden"
+            ],
+            "requirements": "Comfortable shoes",
+            "safety": [
+              "Watch out for slippery surfaces"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in the clear waters of the Mediterranean.",
+        "activities": [
+          {
+            "name": "Jet Skiing",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "1-2 hours",
+            "description": "Experience the thrill of jet skiing along the coastline.",
+            "bestLocations": [
+              "Port Hercules",
+              "La Condamine"
+            ],
+            "requirements": "Valid license, life jacket",
+            "safety": [
+              "Follow safety regulations",
+              "Be aware of other water users"
+            ]
+          },
+          {
+            "name": "Sailing",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Take a sailing trip and explore the coastline from a different perspective.",
+            "bestLocations": [
+              "Port Hercule",
+              "Cap d'Ail"
+            ],
+            "requirements": "No experience necessary (with a qualified instructor)",
+            "safety": [
+              "Wear a life jacket",
+              "Follow sailing rules"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm jacket, scarf, gloves, waterproof shoes",
+        "yearRound": "Comfortable walking shoes, layers"
+      },
+      "equipment": {
+        "basic": "Water bottle, sunglasses, map",
+        "hiking": "Hiking boots, backpack, first-aid kit",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of your surroundings",
+        "Follow local regulations"
+      ]
+    }
+  }
+}

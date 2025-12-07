@@ -1,0 +1,319 @@
+{
+  "CountryData": {
+    "name": "Heard Island and McDonald Islands",
+    "region": "South Pacific Ocean",
+    "description": "Heard Island and McDonald Island are two remote, uninhabited subantarctic islands located in the Southern Indian Ocean, approximately 430 kilometers (267 miles) east of Tasmania, Australia.  They are part of the Australian Antarctic Territory and are characterized by extreme weather conditions, rugged volcanic terrain, and a unique, isolated ecosystem.  The islands are a significant area of scientific research and a haven for numerous seabirds and marine life.",
+    "quickFacts": [
+      {
+        "label": "Location",
+        "value": "430 km east of Tasmania, Australia",
+        "icon": "MapPin",
+        "description": "Far removed from populated areas.",
+        "detail": "Their isolation contributes to their unique biodiversity."
+      },
+      {
+        "label": "Area",
+        "value": "330 km² (127 sq mi)",
+        "icon": "Globe",
+        "description": "Small in size, but ecologically significant.",
+        "detail": "Heard Island is the larger of the two."
+      },
+      {
+        "label": "Elevation",
+        "value": "767 m (2,516 ft)",
+        "icon": "Mountain",
+        "description": "Mount Mawson dominates Heard Island.",
+        "detail": "McDonald Island is lower, with the highest point at 689 m (2,263 ft)."
+      },
+      {
+        "label": "Climate",
+        "value": "Extreme and unpredictable",
+        "icon": "Thermometer",
+        "description": "Characterized by strong winds and frequent storms.",
+        "detail": "Temperatures rarely exceed 10°C (50°F)."
+      },
+      {
+        "label": "Population",
+        "value": "0",
+        "icon": "Users",
+        "description": "Uninhabited.",
+        "detail": "Only scientists and researchers visit occasionally."
+      }
+    ],
+    "climateData": {
+      "title": "Climate Overview",
+      "description": "Heard Island and McDonald Islands experience a subantarctic climate, dominated by strong westerly winds and frequent storms. Temperatures are consistently cold, with significant seasonal variations. Rainfall is moderate, but snowfall is common, particularly on Heard Island.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (December - February)",
+          "period": "Southern Summer",
+          "description": "The warmest period, with average temperatures around 10°C (50°F).  However, strong winds and rain are still prevalent.",
+          "keyFeatures": [
+            "Relatively mild temperatures",
+            "Increased seabird activity",
+            "Potential for strong storms"
+          ],
+          "activities": [
+            "Wildlife observation",
+            "Scientific research",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Autumn (March - May)",
+          "period": "Southern Autumn",
+          "description": "Temperatures begin to drop, and the weather becomes increasingly unstable.  The seas are rough, making landings difficult.",
+          "keyFeatures": [
+            "Decreasing daylight hours",
+            "Increased wind speeds",
+            "Stormy conditions"
+          ],
+          "activities": [
+            "Birdwatching",
+            "Weather monitoring"
+          ]
+        },
+        {
+          "name": "Winter (June - August)",
+          "period": "Southern Winter",
+          "description": "The coldest period, with average temperatures around 0°C (32°F).  Heavy snowfall is common, and the islands are often cut off by sea ice.",
+          "keyFeatures": [
+            "Extreme cold",
+            "Heavy snowfall",
+            "Limited visibility"
+          ],
+          "activities": [
+            "Scientific research (remote monitoring)"
+          ]
+        },
+        {
+          "name": "Spring (September - November)",
+          "period": "Southern Spring",
+          "description": "Temperatures slowly begin to rise, and the weather becomes more settled.  Seabirds begin to breed.",
+          "keyFeatures": [
+            "Increasing daylight hours",
+            "Melting snow",
+            "Return of seabirds"
+          ],
+          "activities": [
+            "Wildlife observation",
+            "Hiking (limited access)"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Mount Mawson",
+        "category": "Volcanic Peak",
+        "description": "Mount Mawson is a stratovolcano and the highest point on Heard Island. Its summit is often shrouded in clouds, creating a dramatic and imposing landscape.",
+        "detailedDescription": "The volcano is active, with occasional steam emissions.  The surrounding slopes are covered in glaciers and icefields.",
+        "bestTime": "Year-round",
+        "bestLocations": [
+          "Summit slopes",
+          "Glacier valleys"
+        ],
+        "viewingTips": [
+          "Bring waterproof clothing and sturdy boots",
+          "Be prepared for rapidly changing weather"
+        ],
+        "scientificData": {
+          "Height": "2798 m (9178 ft)",
+          "Age": "Approximately 1.2 million years",
+          "Volcanic Activity": "Sporadic steam emissions"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "The Freezer",
+        "category": "Glacier System",
+        "description": "The Freezer is a vast, complex system of glaciers and icefields that dominates the western side of Heard Island. It's a visually stunning and scientifically important area.",
+        "detailedDescription": "The glaciers flow down from Mount Mawson, carving deep valleys and creating a dramatic landscape.  They are a key indicator of climate change.",
+        "bestTime": "Summer (December - February)",
+        "bestLocations": [
+          "Icefall viewpoints",
+          "Glacier valleys"
+        ],
+        "viewingTips": [
+          "Maintain a safe distance from the glaciers",
+          "Be aware of the risk of crevasses"
+        ],
+        "scientificData": {
+          "Area": "Approximately 100 km²",
+          "Ice Thickness": "Varies, up to 600 m (2000 ft)"
+        },
+        "icon": "Leaf"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Heard Island Ecosystem",
+      "overview": "Heard Island and McDonald Islands boast one of the most isolated and pristine subantarctic ecosystems on Earth.  The islands are home to a remarkable array of seabirds, marine mammals, and invertebrates, many of which are endemic (found nowhere else).",
+      "conservationStatus": {
+        "protectedAreas": "100%",
+        "nationalParks": 0
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Seabirds",
+          "icon": "Bird",
+          "description": "The islands are a crucial breeding ground for numerous seabird species.",
+          "statistics": [
+            {
+              "category": "Adelie Penguins",
+              "count": "Approximately 100,000 pairs",
+              "details": "The largest colony of Adelie Penguins in the world."
+            },
+            {
+              "category": "Macaroni Penguins",
+              "count": "Approximately 10,000 pairs",
+              "details": "A significant population of Macaroni Penguins."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Adelie Penguin",
+              "status": "Least Concern",
+              "significance": "Dominant penguin species on Heard Island."
+            },
+            {
+              "name": "Macaroni Penguin",
+              "status": "Vulnerable",
+              "significance": "A key indicator of ecosystem health."
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Introduced predators (potential)"
+          ],
+          "conservationEfforts": [
+            "Strict protection measures",
+            "Monitoring programs"
+          ]
+        },
+        {
+          "name": "Marine Life",
+          "icon": "Fish",
+          "description": "The surrounding waters are rich in marine life, supporting diverse populations of fish, seals, and whales.",
+          "statistics": [
+            {
+              "category": "Seal Species",
+              "count": "Various species, including Leopard Seals and Southern Elephant Seals",
+              "details": "Significant breeding colonies."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Leopard Seal",
+              "status": "Least Concern",
+              "significance": "Apex predator in the region."
+            }
+          ],
+          "threats": [
+            "Overfishing (potential)",
+            "Pollution"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas (proposed)"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Activities on Heard and McDonald Islands",
+      "description": "Due to the remote location and challenging conditions, activities are primarily focused on scientific research and wildlife observation.  Limited opportunities exist for adventurous visitors.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Short hikes are possible in some areas, but require careful planning and preparation.",
+          "activities": [
+            {
+              "name": "Mount Mawson Ascent",
+              "difficulty": "Expert",
+              "season": "Summer",
+              "duration": "3-5 days",
+              "description": "A challenging climb to the summit of Mount Mawson.",
+              "bestLocations": [
+                "Summit slopes",
+                "Glacier valleys"
+              ],
+              "requirements": "Experienced mountaineering skills, cold-weather gear",
+              "safety": [
+                "Avalanche risk",
+                "Extreme weather"
+              ]
+            },
+            {
+              "name": "Glacier Valley Exploration",
+              "difficulty": "Moderate",
+              "season": "Summer",
+              "duration": "1-2 days",
+              "description": "Exploring the valleys carved by the glaciers.",
+              "bestLocations": [
+                "Icefall viewpoints"
+              ],
+              "requirements": "Sturdy hiking boots, waterproof clothing",
+              "safety": [
+                "Crevasse risk"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Wildlife Observation",
+          "icon": "Bird",
+          "description": "The primary activity on the islands is observing the diverse wildlife.",
+          "activities": [
+            {
+              "name": "Penguin Colony Viewing",
+              "difficulty": "Easy",
+              "season": "Year-round",
+              "duration": "Variable",
+              "description": "Observing penguin colonies from a safe distance.",
+              "bestLocations": [
+                "Various colony sites"
+              ],
+              "requirements": "Binoculars, camera",
+              "safety": [
+                "Maintain a safe distance"
+              ]
+            },
+            {
+              "name": "Seals Spotting",
+              "difficulty": "Easy",
+              "season": "Year-round",
+              "duration": "Variable",
+              "description": "Observing seals from a distance.",
+              "bestLocations": [
+                "Beaches and rocky areas"
+              ],
+              "requirements": "Binoculars, camera",
+              "safety": [
+                "Maintain a safe distance"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Waterproof jacket and trousers, fleece layers, hiking boots",
+          "winter": "Extreme cold-weather gear, insulated boots, multiple layers of clothing",
+          "yearRound": "Warm layers, waterproof outer shell"
+        },
+        "equipment": {
+          "basic": "Navigation tools (map, compass), first-aid kit, sunscreen, sunglasses",
+          "hiking": "Sturdy hiking boots, trekking poles, backpack",
+          "photography": "Camera with zoom lens, extra batteries"
+        },
+        "safety": [
+          "Emergency communication device",
+          "Satellite phone",
+          "Knowledge of survival skills"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "name": "Malaysia",
+  "region": "Southeast Asia",
+  "description": "Malaysia is a Southeast Asian country located on the Malay Peninsula and on the island of Borneo. It’s known for its diverse landscapes, ranging from tropical rainforests and beaches to mountains and bustling cities. The country boasts a rich cultural heritage, influenced by Malay, Chinese, Indian, and indigenous traditions, resulting in a vibrant and unique society.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "33 million",
+      "icon": "Users",
+      "description": "Malaysia has a large and diverse population, with significant Malay, Chinese, and Indian communities.",
+      "detail": "Ethnic diversity contributes to Malaysia's cultural richness."
+    },
+    {
+      "label": "Area",
+      "value": "330,803 sq km",
+      "icon": "MapPin",
+      "description": "Malaysia encompasses a substantial landmass, including Peninsular Malaysia and East Malaysia (Borneo).",
+      "detail": "Peninsular Malaysia is more densely populated than East Malaysia."
+    },
+    {
+      "label": "Capital",
+      "value": "Kuala Lumpur",
+      "icon": "MapPin",
+      "description": "Kuala Lumpur is a dynamic metropolis and the economic heart of Malaysia.",
+      "detail": "It’s a major center for trade, finance, and tourism."
+    },
+    {
+      "label": "Currency",
+      "value": "Ringgit (MYR)",
+      "icon": "Coffee",
+      "description": "The Malaysian Ringgit is the official currency.",
+      "detail": "Exchange rates fluctuate, check current rates before traveling."
+    },
+    {
+      "label": "Languages",
+      "value": "Malay, English, Mandarin, Tamil",
+      "icon": "Globe",
+      "description": "Malay is the national language, while English is widely spoken and used in government and business.",
+      "detail": "Many other languages are spoken due to Malaysia's diverse population."
+    }
+  ],
+  "climateData": {
+    "title": "Climate Overview",
+    "description": "Malaysia experiences a tropical rainforest climate, characterized by consistently high temperatures and humidity throughout the year. Rainfall is abundant, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "March - September",
+        "description": "The dry season offers pleasant weather with lower humidity and less rainfall. It's ideal for outdoor activities.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Beach activities",
+          "Wildlife spotting"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "October - February",
+        "description": "The wet season brings heavy rainfall, particularly in the afternoons. However, the landscape is lush and vibrant.",
+        "keyFeatures": [
+          "High rainfall",
+          "Dense vegetation",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Waterfalls exploration",
+          "Jungle trekking",
+          "River cruises"
+        ]
+      },
+      {
+        "name": "Transition Seasons",
+        "period": "February - March & September - October",
+        "description": "These periods offer a balance between the dry and wet seasons, with moderate rainfall and comfortable temperatures.",
+        "keyFeatures": [
+          "Gradual changes in weather",
+          "Pleasant temperatures"
+        ],
+        "activities": [
+          "Cultural festivals",
+          "Exploring diverse landscapes"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Taman Negara National Park",
+      "category": "Forest",
+      "description": "Taman Negara is one of the world’s oldest rainforests, offering a breathtaking glimpse into untouched nature. It’s a haven for biodiversity and a prime location for experiencing the rainforest ecosystem.",
+      "detailedDescription": "The park boasts towering trees, diverse wildlife, and a network of rivers and trails. It’s a truly immersive experience for nature lovers.",
+      "bestTime": "March - September",
+      "bestLocations": [
+        "Bukit Merah Tower",
+        "Canopy Walkway",
+        "River Cruises"
+      ],
+      "viewingTips": [
+        "Wear appropriate footwear",
+        "Bring insect repellent",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Height": "Up to 270m",
+        "Age": "Over 140 million years"
+      },
+      "icon": "Trees"
+    },
+    {
+      "id": 2,
+      "name": "Mount Kinabalu",
+      "category": "Mountain",
+      "description": "Mount Kinabalu, located in Sabah, Borneo, is the highest peak in Southeast Asia. Its diverse flora and fauna make it a unique and challenging climb.",
+      "detailedDescription": "The mountain is home to thousands of plant species, many of which are found nowhere else on Earth. The summit offers panoramic views of the surrounding landscape.",
+      "bestTime": "March - September",
+      "bestLocations": [
+        "Botanical Garden",
+        "Lower and Upper Stations"
+      ],
+      "viewingTips": [
+        "Acclimatize to the altitude",
+        "Hire a guide",
+        "Pack warm clothing"
+      ],
+      "scientificData": {
+        "Height": "4,095m",
+        "Age": "Approximately 3,000 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Perhentian Islands",
+      "category": "Island",
+      "description": "The Perhentian Islands are a pair of islands off the east coast of Malaysia, renowned for their pristine beaches, crystal-clear waters, and vibrant coral reefs.",
+      "detailedDescription": "These islands offer a range of activities, from snorkeling and diving to relaxing on the beach and exploring the surrounding jungle. They are a popular destination for honeymooners and families.",
+      "bestTime": "March - September",
+      "bestLocations": [
+        "Long Beach",
+        "Coral Bay"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and a hat",
+        "Respect marine life",
+        "Book accommodation in advance"
+      ],
+      "scientificData": {
+        "Area": "11 sq km",
+        "CoralCoverage": "Approximately 60%"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Malaysia's Ecosystems",
+    "overview": "Malaysia’s diverse ecosystems range from dense rainforests to mangrove swamps and coral reefs, supporting an incredible array of plant and animal life. Conservation efforts are crucial to protect these valuable resources.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Malaysian land is protected in national parks and reserves.",
+      "nationalParks": 13
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Malaysia is home to a variety of mammals, including tigers, elephants, orangutans, and clouded leopards.",
+        "statistics": [
+          {
+            "category": "Endangered",
+            "count": "12",
+            "details": "Several species are threatened by habitat loss and poaching."
+          },
+          {
+            "category": "Vulnerable",
+            "count": "25",
+            "details": "Many mammals face challenges due to deforestation and human encroachment."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Bornean Orangutan",
+            "status": "Endangered",
+            "significance": "A flagship species for conservation efforts in Borneo."
+          },
+          {
+            "name": "Sumatran Tiger",
+            "status": "Critically Endangered",
+            "significance": "One of the rarest tiger subspecies in the world."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Illegal wildlife trade"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Habitat restoration",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "Malaysia boasts over 700 bird species, including hornbills, eagles, and colorful songbirds.",
+        "statistics": [
+          {
+            "category": "Endangered",
+            "count": "20",
+            "details": "Several bird species are threatened by habitat destruction and hunting."
+          },
+          {
+            "category": "Vulnerable",
+            "count": "50",
+            "details": "Many bird populations are declining due to deforestation and climate change."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Raja Brooke's Hornbill",
+            "status": "Vulnerable",
+            "significance": "A critically important indicator species for forest health."
+          },
+          {
+            "name": "Malaysian Pygmy Kingfisher",
+            "status": "Endangered",
+            "significance": "One of the smallest kingfishers in the world."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal trapping",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Community monitoring",
+          "Nest box programs"
+        ]
+      },
+      {
+        "name": "Reptiles & Amphibians",
+        "icon": "Leaf",
+        "description": "Malaysia’s rainforests are home to a diverse range of reptiles and amphibians, including snakes, lizards, frogs, and turtles.",
+        "statistics": [
+          {
+            "category": "Endangered",
+            "count": "15",
+            "details": "Several species are threatened by habitat loss and pollution."
+          },
+          {
+            "category": "Vulnerable",
+            "count": "40",
+            "details": "Many reptile and amphibian populations are declining due to deforestation and urbanization."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Bornean Green Pit Viper",
+            "status": "Vulnerable",
+            "significance": "A venomous snake found only in Borneo."
+          },
+          {
+            "name": "Amphirana Green Frog",
+            "status": "Endangered",
+            "significance": "A critically endangered frog species."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Pollution",
+          "Illegal trade"
+        ],
+        "conservationEfforts": [
+          "Habitat protection",
+          "Species monitoring",
+          "Community education"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Malaysia",
+    "description": "Malaysia offers a wide range of outdoor activities for all skill levels, from challenging treks to relaxing beach days.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Malaysia’s stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Mount Kinabalu Climb",
+            "difficulty": "Hard",
+            "season": "March - September",
+            "duration": "3 days / 2 nights",
+            "description": "A challenging but rewarding climb to the summit of Southeast Asia’s highest peak.",
+            "bestLocations": [
+              "Botanical Garden",
+              "Lower and Upper Stations"
+            ],
+            "requirements": "Good physical fitness, hiking boots, appropriate clothing",
+            "safety": [
+              "Altitude sickness awareness",
+              "Hire a guide",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Taman Negara Trails",
+            "difficulty": "Moderate",
+            "season": "March - September",
+            "duration": "1-3 days",
+            "description": "Explore the rainforest trails of Taman Negara, discovering diverse flora and fauna.",
+            "bestLocations": [
+              "Bukit Merah Tower",
+              "Canopy Walkway",
+              "River Cruises"
+            ],
+            "requirements": "Hiking boots, insect repellent, water bottle",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in Malaysia’s beautiful coastal waters.",
+        "activities": [
+          {
+            "name": "Scuba Diving in Perhentian Islands",
+            "difficulty": "Easy",
+            "season": "March - September",
+            "duration": "Variable",
+            "description": "Explore vibrant coral reefs and diverse marine life in the Perhentian Islands.",
+            "bestLocations": [
+              "Coral Bay",
+              "Long Beach"
+            ],
+            "requirements": "Scuba certification, snorkeling gear",
+            "safety": [
+              "Follow dive guidelines",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Kayaking in Mangrove Forests",
+            "difficulty": "Moderate",
+            "season": "March - September",
+            "duration": "2-4 hours",
+            "description": "Paddle through the serene mangrove forests, observing wildlife and enjoying the tranquility.",
+            "bestLocations": [
+              "Endau-Rompin National Park"
+            ],
+            "requirements": "Kayak, life jacket",
+            "safety": [
+              "Be aware of tides",
+              "Wear a helmet"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen",
+        "winter": "Layers of clothing, including a jacket and sweater",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Insect repellent, water bottle, first-aid kit",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Stay hydrated",
+        "Be aware of local customs"
+      ]
+    }
+  }
+}

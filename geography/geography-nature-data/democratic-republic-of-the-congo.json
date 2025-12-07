@@ -1,0 +1,304 @@
+{
+  "name": "Democratic Republic of the Congo",
+  "region": "Africa",
+  "description": "The Democratic Republic of the Congo (DRC) is a landlocked country in Central Africa, renowned for its vast rainforests, rich biodiversity, and significant mineral resources. It’s a nation grappling with a complex history of conflict and instability, yet possesses immense potential for sustainable development and tourism. The country boasts the world’s second-largest rainforest, the Congo Basin, and is home to numerous endangered species and unique ecosystems.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "Approximately 102.3 million (2023)",
+      "icon": "Users",
+      "description": "The DRC has one of the fastest-growing populations in the world.",
+      "detail": "Rapid population growth presents challenges for infrastructure and resource management."
+    },
+    {
+      "label": "Area",
+      "value": "2,345,410 sq km (906,534 sq mi)",
+      "icon": "MapPin",
+      "description": "The DRC is the second-largest country in Africa by area.",
+      "detail": "Its vast size contributes to significant regional biodiversity."
+    },
+    {
+      "label": "Capital",
+      "value": "Kinshasa",
+      "icon": "MapPin",
+      "description": "Kinshasa is the largest city in Africa by population.",
+      "detail": "It’s a vibrant, chaotic, and rapidly developing metropolis."
+    },
+    {
+      "label": "Official Language",
+      "value": "French",
+      "icon": "Globe",
+      "description": "French is the official language, alongside Lingala, Swahili, and Tshiluba.",
+      "detail": "English is spoken to a limited extent, primarily in international contexts."
+    },
+    {
+      "label": "Currency",
+      "value": "Congolese Franc (CDF) / United States Dollar (USD)",
+      "icon": "Coffee",
+      "description": "The Congolese Franc is the official currency, but the USD is widely accepted.",
+      "detail": "Economic instability often leads to fluctuations in currency value."
+    },
+    {
+      "label": "GDP",
+      "value": "Approximately $43.1 billion (2023)",
+      "icon": "Zap",
+      "description": "The DRC has significant mineral wealth but faces challenges in economic development.",
+      "detail": "Resource extraction is a major contributor to the economy, but often with negative social and environmental consequences."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of the Democratic Republic of the Congo",
+    "description": "The DRC experiences a tropical equatorial climate, characterized by high temperatures and humidity year-round. Rainfall is abundant and distributed throughout the year, with distinct wet and dry seasons. The country’s climate varies slightly depending on altitude and location.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season",
+        "period": "November – March",
+        "description": "This period is marked by heavy rainfall, flooding, and increased humidity. The rainforest is at its most lush and vibrant.",
+        "keyFeatures": [
+          "High rainfall",
+          "Flooding",
+          "Dense vegetation"
+        ],
+        "activities": [
+          "Wildlife viewing (especially river cruises)",
+          "Rainforest trekking",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "April – October",
+        "description": "The dry season brings lower rainfall, cooler temperatures, and clearer skies. Wildlife congregates around water sources.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Cooler temperatures",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Cultural tours"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Virunga National Park",
+      "category": "National Park",
+      "description": "Virunga National Park is a UNESCO World Heritage Site and one of Africa’s oldest national parks. It protects a significant portion of the eastern slopes of the Virunga Mountains, a volcanic range shared with Uganda and Rwanda. It’s renowned for its incredible biodiversity, including mountain gorillas, chimpanzees, and numerous bird species.",
+      "detailedDescription": "The park encompasses dense rainforests, volcanic peaks, and grasslands, offering a diverse range of habitats. It’s a critical area for conservation efforts, particularly for protecting endangered gorilla populations.",
+      "bestTime": "June – September (dry season)",
+      "bestLocations": [
+        "Muhoti Sector",
+        "Nyiragongo Volcano",
+        "Kahuzi-Biega Mountains"
+      ],
+      "viewingTips": [
+        "Hire experienced guides",
+        "Respect wildlife",
+        "Bring appropriate clothing and footwear"
+      ],
+      "scientificData": {
+        "Height": "1,700m - 3,474m",
+        "Area": "3,500 sq km",
+        "Gorilla Population": "Approximately 478 mountain gorillas"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Lola Ya Songo Waterfalls",
+      "category": "Waterfall",
+      "description": "Lola Ya Songo is a series of stunning waterfalls located in the western province of the DRC. Legend has it that the waterfalls are the site of a former slave trading post, adding to their mystique and historical significance.",
+      "detailedDescription": "The falls cascade down a series of rocky cliffs into a deep pool, creating a dramatic and picturesque scene. The surrounding rainforest is teeming with wildlife.",
+      "bestTime": "June – September (dry season)",
+      "bestLocations": [
+        "Western Province (near Mbandaka)"
+      ],
+      "viewingTips": [
+        "Wear waterproof clothing",
+        "Be prepared for muddy trails",
+        "Respect local customs"
+      ],
+      "scientificData": {
+        "Height": "Approximately 60m",
+        "Flow Rate": "Variable depending on rainfall"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Rainforest Biodiversity",
+    "icon": "Trees",
+    "description": "The DRC’s rainforests are among the most biodiverse on Earth, harboring an astonishing array of plant and animal species, many of which are found nowhere else.",
+    "statistics": [
+      {
+        "category": "Plant Species",
+        "count": "Over 10,000",
+        "details": "Includes numerous endemic species of trees, orchids, and ferns."
+      },
+      {
+        "category": "Animal Species",
+        "count": "Over 1000 mammal species",
+        "details": "Home to gorillas, chimpanzees, bonobos, forest elephants, and a vast array of birds, reptiles, and amphibians."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Grauer’s Gorilla",
+        "status": "Critically Endangered",
+        "significance": "The largest gorilla subspecies, found only in the eastern Democratic Republic of the Congo."
+      },
+      {
+        "name": "Okapi",
+        "status": "Endangered",
+        "significance": "Often referred to as the ‘forest giraffe’, it’s a unique relative of the giraffe."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Poaching",
+      "Illegal mining",
+      "Armed conflict"
+    ],
+    "conservationEfforts": [
+      "Protected area management",
+      "Community-based conservation",
+      "Anti-poaching patrols",
+      "Research and monitoring"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Congo Rainforest Ecosystem",
+    "overview": "The Congo Basin rainforest is the second-largest rainforest in the world, playing a crucial role in regulating global climate and supporting immense biodiversity. It’s a complex and interconnected ecosystem, vital for the well-being of the region and the planet.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of the rainforest is formally protected.",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Rainforest Biodiversity",
+        "icon": "Trees",
+        "description": "As described above, this category encompasses the incredible plant and animal diversity of the rainforest.",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [],
+        "conservationEfforts": []
+      },
+      {
+        "name": "River Ecosystems",
+        "icon": "Waves",
+        "description": "The Congo River and its tributaries are vital for transportation, fishing, and supporting a diverse aquatic ecosystem.",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [
+          "Pollution",
+          "Dam construction"
+        ],
+        "conservationEfforts": [
+          "River basin management",
+          "Sustainable fishing practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in the Democratic Republic of the Congo",
+    "description": "The DRC offers a wide range of outdoor activities, from wildlife viewing and trekking to river cruises and cultural experiences. However, safety and logistical considerations are paramount.",
+    "activityCategories": [
+      {
+        "name": "Hiking & Trekking",
+        "icon": "Compass",
+        "description": "Explore the rainforests and mountains of the DRC on foot.",
+        "activities": [
+          {
+            "name": "Virunga Mountain Trek",
+            "difficulty": "Moderate to Hard",
+            "season": "June – September",
+            "duration": "2-5 days",
+            "description": "Trek through the Virunga Mountains to observe mountain gorillas and other wildlife.",
+            "bestLocations": [
+              "Virunga National Park"
+            ],
+            "requirements": "Good physical fitness, hiking boots, rain gear",
+            "safety": [
+              "Hire experienced guides",
+              "Be aware of wildlife",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Lefini Waterfall Hike",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Half Day",
+            "description": "A short hike to the beautiful Lefini Waterfall.",
+            "bestLocations": [
+              "North Kivu Province"
+            ],
+            "requirements": "Comfortable shoes",
+            "safety": [
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Viewing",
+        "icon": "Bird",
+        "description": "Observe the DRC’s incredible wildlife in its natural habitat.",
+        "activities": [
+          {
+            "name": "River Cruise on the Congo River",
+            "difficulty": "Easy",
+            "season": "June – September",
+            "duration": "3-7 days",
+            "description": "Cruise along the Congo River, spotting wildlife along the banks.",
+            "bestLocations": [
+              "Mbandaka"
+            ],
+            "requirements": "Binoculars, sunscreen, insect repellent",
+            "safety": [
+              "Travel with a reputable tour operator"
+            ]
+          },
+          {
+            "name": "Gorilla Trekking",
+            "difficulty": "Hard",
+            "season": "June – September",
+            "duration": "1-3 days",
+            "description": "A challenging trek to observe mountain gorillas in their natural habitat.",
+            "bestLocations": [
+              "Virunga National Park"
+            ],
+            "requirements": "Good physical fitness, hiking boots, rain gear",
+            "safety": [
+              "Hire experienced guides",
+              "Maintain a safe distance from gorillas"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Insect repellent, sunscreen, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Passport, visa, travel insurance, cash",
+        "hiking": "Hiking boots, backpack, water bottle, headlamp",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Register with your embassy",
+        "Be aware of your surroundings",
+        "Avoid traveling alone",
+        "Consult a doctor before traveling"
+      ]
+    }
+  }
+}

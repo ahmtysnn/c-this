@@ -1,0 +1,342 @@
+{
+  "name": "Bosnia and Herzegovina",
+  "region": "Europe",
+  "description": "Bosnia and Herzegovina, a landlocked country in the Balkan Peninsula, boasts a complex history and stunning natural beauty. Characterized by rugged mountains, dense forests, and a network of rivers and lakes, it offers a diverse range of landscapes and experiences. The country’s cultural heritage is a blend of Ottoman, Austro-Hungarian, and Slavic influences, reflected in its architecture, cuisine, and traditions.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Sarajevo",
+      "icon": "MapPin",
+      "description": "Sarajevo is the vibrant capital city, a melting pot of cultures and a testament to resilience.",
+      "detail": "It’s known for its Ottoman-era architecture, lively markets, and rich history."
+    },
+    {
+      "label": "Population",
+      "value": "3.25 million",
+      "icon": "Users",
+      "description": "Bosnia and Herzegovina has a population of approximately 3.25 million people.",
+      "detail": "The population is ethnically diverse, with Bosniaks, Serbs, and Croats forming the majority."
+    },
+    {
+      "label": "Area",
+      "value": "10,972 km²",
+      "icon": "Globe",
+      "description": "The country covers an area of 10,972 square kilometers.",
+      "detail": "It's one of the smallest countries in Europe."
+    },
+    {
+      "label": "Currency",
+      "value": "Bosnian Convertible Mark (BAM)",
+      "icon": "Coffee",
+      "description": "The official currency is the Bosnian Convertible Mark (BAM).",
+      "detail": "It's pegged to the Euro."
+    },
+    {
+      "label": "Languages",
+      "value": "Bosnian, Serbian, Croatian",
+      "icon": "ArrowRight",
+      "description": "The official languages are Bosnian, Serbian, and Croatian, all mutually intelligible.",
+      "detail": "English is also increasingly spoken, especially in tourist areas."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Bosnia and Herzegovina",
+    "description": "Bosnia and Herzegovina experiences a continental climate with hot summers and cold, snowy winters. Rainfall is relatively evenly distributed throughout the year, though mountainous regions receive more precipitation.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with wildflowers blooming across the countryside. It's a beautiful time for hiking and exploring.",
+        "keyFeatures": [
+          "Blooming wildflowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Picnics",
+          "Wildlife watching"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summer is hot and dry, with average temperatures ranging from 20°C to 30°C. It's ideal for swimming, water sports, and outdoor activities.",
+        "keyFeatures": [
+          "Hot weather",
+          "Sunny days",
+          "Low rainfall"
+        ],
+        "activities": [
+          "Swimming",
+          "Water sports",
+          "Hiking",
+          "Camping",
+          "Festivals"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and stunning fall foliage. It’s a great time for hiking and enjoying the changing landscapes.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Cool temperatures",
+          "Moderate rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting",
+          "Harvest festivals"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winter is cold and snowy, with temperatures often dropping below freezing. It’s a good time for skiing, snowboarding, and enjoying winter sports.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Short daylight hours"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating",
+          "Visiting winter markets"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Una National Park",
+      "category": "National Park",
+      "description": "Una National Park is a protected area renowned for its pristine river, the Una, and its diverse flora and fauna. The river’s turquoise waters and dramatic canyons offer stunning scenery and opportunities for adventure.",
+      "detailedDescription": "The park encompasses a significant portion of the Una River valley, characterized by steep cliffs, lush forests, and a rich biodiversity. It’s a haven for hikers, kayakers, and nature enthusiasts.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Una River Canyon",
+        "Veliki Risovačko Lake",
+        "Štrbački Buk Waterfall"
+      ],
+      "viewingTips": [
+        "Bring waterproof gear for river activities",
+        "Wear sturdy hiking boots",
+        "Respect the natural environment"
+      ],
+      "scientificData": {
+        "Height": "1000m - 1800m",
+        "Area": "22,000 ha",
+        "Elevation": "Variable"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Veselinović Cave",
+      "category": "Cave System",
+      "description": "Veselinović Cave is one of the longest and most impressive cave systems in Bosnia and Herzegovina, featuring stunning stalactites and stalagmites.",
+      "detailedDescription": "Located in the Romanija area, the cave boasts a complex network of chambers and passages adorned with impressive speleothems. It’s a fascinating destination for speleologists and those interested in geological formations.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "Romanija"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes",
+        "Bring a flashlight",
+        "Follow the guidance of experienced guides"
+      ],
+      "scientificData": {
+        "Length": "14 km",
+        "Depth": "120 m",
+        "Temperature": "10°C - 12°C"
+      },
+      "icon": "Cloud"
+    },
+    {
+      "id": 3,
+      "name": "Javor Mountain",
+      "category": "Mountain Range",
+      "description": "Javor Mountain is a prominent mountain range in central Bosnia, offering breathtaking views and challenging hiking trails.",
+      "detailedDescription": "The mountain is characterized by its rugged peaks, dense forests, and numerous glacial lakes. It’s a popular destination for hikers, climbers, and nature lovers.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Lake Javor Jezer",
+        "Štrbački Buk Waterfall"
+      ],
+      "viewingTips": [
+        "Check weather conditions before hiking",
+        "Bring appropriate clothing and equipment",
+        "Respect wildlife"
+      ],
+      "scientificData": {
+        "Height": "1623 m",
+        "Area": "350 km²"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Forest Ecosystems",
+    "icon": "Trees",
+    "description": "Bosnia and Herzegovina is home to a diverse range of forest ecosystems, including deciduous forests, coniferous forests, and mixed forests. These forests play a crucial role in maintaining biodiversity and regulating climate.",
+    "statistics": [
+      {
+        "category": "Forest Cover",
+        "count": "65%",
+        "details": "Approximately 65% of Bosnia and Herzegovina is covered by forests."
+      },
+      {
+        "category": "Tree Species",
+        "count": "Over 100",
+        "details": "More than 100 different tree species can be found in the country's forests."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "European Beech",
+        "status": "Common",
+        "significance": "A dominant species in many Bosnian forests, providing habitat for a wide range of animals."
+      },
+      {
+        "name": "Old European Oak",
+        "status": "Vulnerable",
+        "significance": "A slow-growing, long-lived tree that is an important part of the forest ecosystem."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Illegal logging",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Forest management plans",
+      "Protected areas",
+      "Reforestation projects"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Bosnian Ecosystems",
+    "overview": "Bosnia and Herzegovina’s ecosystems are incredibly diverse, ranging from mountainous regions to karst landscapes and extensive forests. These ecosystems support a rich variety of plant and animal life, contributing significantly to the country’s biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 6
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "Bosnia and Herzegovina possesses a network of wetlands, including marshes, swamps, and floodplains, which are vital habitats for numerous species.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "100,000 ha",
+            "details": "Approximately 100,000 hectares of land are designated as wetlands."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "White-tailed Eagle",
+            "status": "Near Threatened",
+            "significance": "A majestic bird of prey that relies on wetlands for breeding and foraging."
+          }
+        ],
+        "threats": [
+          "Drainage",
+          "Pollution",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration projects",
+          "Protected area management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Bosnia and Herzegovina",
+    "description": "Bosnia and Herzegovina offers a wide range of outdoor activities for all levels of experience, from hiking and cycling to water sports and wildlife watching.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the country’s stunning mountains, forests, and canyons on foot.",
+        "activities": [
+          {
+            "name": "Mount Igman Hike",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "4-6 hours",
+            "description": "A scenic hike to the summit of Mount Igman, offering panoramic views of the surrounding mountains.",
+            "bestLocations": [
+              "Mount Igman"
+            ],
+            "requirements": "Sturdy hiking boots, water, snacks",
+            "safety": [
+              "Check weather conditions",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Una River Kayaking",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "3-5 hours",
+            "description": "Paddle down the turquoise waters of the Una River, enjoying the stunning scenery and wildlife.",
+            "bestLocations": [
+              "Una River"
+            ],
+            "requirements": "Kayak, life jacket, sunscreen",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports on the country’s numerous lakes and rivers.",
+        "activities": [
+          {
+            "name": "Lake Javor Jezer Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Relax and swim in the crystal-clear waters of Lake Javor Jezer.",
+            "bestLocations": [
+              "Lake Javor Jezer"
+            ],
+            "requirements": "Swimsuit, towel",
+            "safety": [
+              "Swim in designated areas",
+              "Supervised by lifeguards"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm coat, hat, gloves, scarf, waterproof boots",
+        "yearRound": "Layers of clothing, comfortable shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your hiking plans",
+        "Carry a map and compass",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "name": "Cyprus",
+  "region": "Eastern Mediterranean",
+  "description": "Cyprus, the 'Island of Love', is a Mediterranean island nation with a rich history, diverse landscapes, and unique biodiversity. Situated just off the coast of mainland Turkey, it boasts a varied terrain ranging from rugged mountains and volcanic landscapes to fertile plains and stunning coastlines. The island’s strategic location has shaped its cultural heritage, blending influences from Greece, Rome, Byzantium, the Ottoman Empire, and Britain.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Nicosia",
+      "icon": "MapPin",
+      "description": "The capital city, divided since 1974, is a fascinating blend of cultures and architectural styles.",
+      "detail": "Nicosia is the largest city in Cyprus and the administrative center of the Republic of Cyprus."
+    },
+    {
+      "label": "Population",
+      "value": "1.25 million",
+      "icon": "Users",
+      "description": "Cyprus has a vibrant and welcoming population.",
+      "detail": "The population is comprised of Greek Cypriots and Turkish Cypriots, alongside smaller communities."
+    },
+    {
+      "label": "Official Language",
+      "value": "Greek and Turkish",
+      "icon": "Globe",
+      "description": "Two official languages reflect the island's complex history.",
+      "detail": "Greek is the most widely spoken language, while Turkish is still prevalent in Northern Cyprus."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Cyprus adopted the Euro in 2008.",
+      "detail": "The Euro is the official currency of Cyprus."
+    },
+    {
+      "label": "Area",
+      "value": "9,251 km²",
+      "icon": "MapPin",
+      "description": "A relatively small island with a huge amount to offer.",
+      "detail": "Cyprus is the third-largest island in the Mediterranean."
+    },
+    {
+      "label": "Average Temperature",
+      "value": "18°C",
+      "icon": "Thermometer",
+      "description": "Mild winters and hot, dry summers.",
+      "detail": "Average annual rainfall is around 600mm."
+    }
+  ],
+  "climateData": {
+    "title": "Mediterranean Climate",
+    "description": "Cyprus enjoys a classic Mediterranean climate characterized by hot, dry summers and mild, wet winters. The island benefits from abundant sunshine throughout the year, making it a popular destination for sun-seekers.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Long, hot, and dry days with intense sunshine. Temperatures frequently exceed 35°C (95°F).",
+        "keyFeatures": [
+          "High temperatures",
+          "Low rainfall",
+          "Sunny skies"
+        ],
+        "activities": [
+          "Swimming",
+          "Sunbathing",
+          "Water sports",
+          "Hiking (early mornings/late evenings)"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Pleasant temperatures and decreasing rainfall. The landscape transforms with vibrant autumn colors.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Lower rainfall",
+          "Colorful foliage"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Wine tasting",
+          "Exploring historical sites"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Mild winters with occasional rainfall. Temperatures rarely drop below 10°C (50°F).",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Occasional rainfall",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Exploring caves",
+          "Visiting museums",
+          "Relaxing in spas",
+          "Hiking in the Troodos Mountains"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Warm temperatures and blossoming flowers. A beautiful time to visit the island.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Blooming flowers",
+          "Increasing rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening tours",
+          "Visiting coastal towns"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Troodos Mountains",
+      "category": "Mountain Range",
+      "description": "The Troodos Mountains, a volcanic range in central Cyprus, offer stunning scenery, ancient monasteries, and cooler temperatures. They are a haven for hikers and nature lovers.",
+      "detailedDescription": "Formed by volcanic activity millions of years ago, the Troodos Mountains are the highest point on the island. The range is home to diverse flora and fauna, including endemic species. Several historic monasteries, built into the mountainsides, add to the area's cultural significance.",
+      "bestTime": "Year-round, but particularly beautiful in spring and autumn.",
+      "bestLocations": [
+        "Kykkos Monastery",
+        "Paphos Lithári",
+        "Zenobia Shipwreck"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots.",
+        "Bring plenty of water.",
+        "Check the weather forecast before heading out."
+      ],
+      "scientificData": {
+        "Height": "1,952 m",
+        "Age": "Millions of years",
+        "Volcanic Activity": "Active in the past"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Zenobia Shipwreck",
+      "category": "Shipwreck",
+      "description": "The Zenobia, a massive cargo ship, tragically sank off the coast of Larnaca in 1980, creating a unique underwater dive site.",
+      "detailedDescription": "The Zenobia was en route to Italy when it encountered a severe storm and ran aground on a sandbank. The ship remains remarkably intact, offering a fascinating glimpse into maritime history. Divers can explore the ship's cargo holds and admire the marine life that has taken up residence within its hull.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Larnaca Coast"
+      ],
+      "viewingTips": [
+        "Book a guided dive tour.",
+        "Check the weather conditions.",
+        "Be aware of currents."
+      ],
+      "scientificData": {
+        "Length": "135 m",
+        "Weight": "60,000 tonnes",
+        "Depth": "30 m"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "Cape Greco National Forest Park",
+      "category": "Coastal Park",
+      "description": "A stunning coastal park boasting dramatic cliffs, hidden coves, and crystal-clear waters. It's a popular destination for hiking, swimming, and exploring.",
+      "detailedDescription": "Located on the southeastern coast of Cyprus, Cape Greco National Forest Park is renowned for its unique geological formations, including sea caves and arches. The park offers a diverse range of activities, from hiking along coastal trails to snorkeling and diving in the turquoise waters. The area is also home to a variety of bird species.",
+      "bestTime": "Spring and Summer",
+      "bestLocations": [
+        "Zenobia Shipwreck",
+        "Cape Greco Arch",
+        "Orchid Bay"
+      ],
+      "viewingTips": [
+        "Wear sunscreen and a hat.",
+        "Bring swimwear and a towel.",
+        "Explore the coastal trails."
+      ],
+      "scientificData": {
+        "Area": "2,100 hectares",
+        "Geological Formation": "Karst landscape"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Mediterranean Flora",
+    "icon": "Leaf",
+    "description": "Cyprus boasts a unique Mediterranean flora adapted to the island’s hot, dry climate. Many species are endemic, meaning they are found nowhere else in the world.",
+    "statistics": [
+      {
+        "category": "Endemic Plants",
+        "count": "Over 100",
+        "details": "Approximately 10% of Cyprus’s plant species are endemic."
+      },
+      {
+        "category": "Olive Trees",
+        "count": "Millions",
+        "details": "Cyprus is renowned for its olive groves, which cover a significant portion of the landscape."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Cretan Dietes",
+        "status": "Endangered",
+        "significance": "A rare lily species found only in Cyprus."
+      },
+      {
+        "name": "Cyprus Olive",
+        "status": "Native",
+        "significance": "The source of Cyprus’s famous olive oil."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Invasive species"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Reforestation programs",
+      "Species monitoring"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Coastal Ecosystems",
+    "overview": "Cyprus’s coastline is a mosaic of diverse ecosystems, including sandy beaches, rocky cliffs, and seagrass meadows. These ecosystems provide vital habitats for a wide range of marine and terrestrial species.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Biodiversity",
+        "icon": "Fish",
+        "description": "The waters surrounding Cyprus are home to a rich diversity of marine life, including fish, seabirds, and marine mammals.",
+        "statistics": [
+          {
+            "category": "Seabird Species",
+            "count": "Over 200",
+            "details": "Cyprus is an important breeding ground for numerous seabird species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Loggerhead Turtle",
+            "status": "Vulnerable",
+            "significance": "A nesting site for endangered loggerhead turtles."
+          }
+        ],
+        "threats": [
+          "Pollution",
+          "Overfishing",
+          "Habitat destruction"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices",
+          "Beach cleanups"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Cyprus",
+    "description": "Cyprus offers a wide range of outdoor activities for all interests and abilities, from hiking and cycling to water sports and wildlife watching.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s diverse landscapes on foot.",
+        "activities": [
+          {
+            "name": "Troodos Mountains Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-6 hours",
+            "description": "Hike through the scenic Troodos Mountains, visiting monasteries and enjoying panoramic views.",
+            "bestLocations": [
+              "Kykkos Monastery",
+              "Paphos Lithári"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen.",
+            "safety": [
+              "Check weather conditions",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Akamas Peninsula Trail",
+            "difficulty": "Hard",
+            "season": "Spring-Autumn",
+            "duration": "6-8 hours",
+            "description": "A challenging hike through the rugged Akamas Peninsula, offering stunning coastal views.",
+            "bestLocations": [
+              "Artemis Chapel",
+              "Blue Lagoon"
+            ],
+            "requirements": "Hiking boots, water, sunscreen, hat.",
+            "safety": [
+              "Bring plenty of water",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Cyprus’s crystal-clear waters.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Easy-Expert",
+            "season": "Year-round",
+            "duration": "2-4 hours",
+            "description": "Explore the underwater world of Cyprus, including shipwrecks and coral reefs.",
+            "bestLocations": [
+              "Zenobia Shipwreck",
+              "Cape Greco"
+            ],
+            "requirements": "Scuba certification, wetsuit (depending on water temperature).",
+            "safety": [
+              "Dive with a certified instructor",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Sailing",
+            "difficulty": "Easy",
+            "season": "Spring-Autumn",
+            "duration": "Variable",
+            "description": "Charter a sailboat and explore the coastline at your own pace.",
+            "bestLocations": [
+              "Larnaca Coast",
+              "Paphos Bay"
+            ],
+            "requirements": "Sailboat license (for chartering).",
+            "safety": [
+              "Check weather conditions",
+              "Follow maritime regulations"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat.",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves.",
+        "yearRound": "Comfortable walking shoes, sunglasses."
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, water bottle.",
+        "hiking": "Hiking boots, backpack, map, compass.",
+        "photography": "Camera, extra batteries, memory card."
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of the sun's intensity",
+        "Follow local regulations"
+      ]
+    }
+  }
+}

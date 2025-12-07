@@ -1,0 +1,352 @@
+{
+  "name": "Bhutan",
+  "region": "Asia",
+  "description": "The Kingdom of Bhutan, nestled in the Eastern Himalayas, is a land of unparalleled natural beauty, ancient traditions, and a unique philosophy of Gross National Happiness. Known as the ‘Land of the Thunder Dragon,’ Bhutan is a carbon-negative country committed to sustainable development and preserving its pristine environment. It’s a country where monasteries cling to cliffsides, prayer flags flutter in the wind, and the rhythm of life is deeply connected to nature and spirituality.",
+  "quickFacts": [
+    {
+      "label": "Official Language",
+      "value": "Dzongkha",
+      "icon": "Globe",
+      "description": "Dzongkha is the national language and is spoken by the vast majority of Bhutanese people.",
+      "detail": "It belongs to the Bodo-Tibetan language family."
+    },
+    {
+      "label": "Capital",
+      "value": "Thimphu",
+      "icon": "MapPin",
+      "description": "Thimphu is the administrative and cultural center of Bhutan.",
+      "detail": "It’s a modern city with a blend of traditional Bhutanese architecture and contemporary development."
+    },
+    {
+      "label": "Population",
+      "value": "787,519 (2023 est.)",
+      "icon": "Users",
+      "description": "Bhutan has a relatively small population, contributing to its low population density.",
+      "detail": "The population is predominantly Buddhist."
+    },
+    {
+      "label": "GDP per capita",
+      "value": "USD 4,640 (2023 est.)",
+      "icon": "Coffee",
+      "description": "Bhutan boasts a high GDP per capita, largely due to its hydropower sector.",
+      "detail": "The country prioritizes sustainable development over rapid economic growth."
+    },
+    {
+      "label": "Religion",
+      "value": "Buddhism",
+      "icon": "Leaf",
+      "description": "Buddhism, primarily the Drukpa Kagyu school, is the dominant religion in Bhutan.",
+      "detail": "Religious practices are deeply intertwined with daily life and government policy."
+    },
+    {
+      "label": "Area",
+      "value": "38,394 sq km (14,833 sq mi)",
+      "icon": "MapPin",
+      "description": "Bhutan is a relatively small country, making it easy to explore its diverse landscapes.",
+      "detail": "It’s the smallest country in Asia by area."
+    }
+  ],
+  "climateData": {
+    "title": "Bhutan's Climate",
+    "description": "Bhutan experiences a subtropical climate with significant variations due to its mountainous terrain. The climate is generally temperate, with warm, humid summers and cool, dry winters. Altitude plays a crucial role, leading to distinct microclimates across the country.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "Summer brings warm temperatures and frequent rainfall, particularly in the southern valleys. It’s a lush and vibrant time of year, ideal for trekking and exploring the countryside.",
+        "keyFeatures": [
+          "High rainfall",
+          "Warm temperatures",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Trekking",
+          "River rafting",
+          "Village visits"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September to November",
+        "description": "Autumn is considered the best time to visit Bhutan, with clear skies, pleasant temperatures, and stunning autumn foliage. It’s a popular season for festivals and cultural events.",
+        "keyFeatures": [
+          "Clear skies",
+          "Pleasant temperatures",
+          "Autumn foliage"
+        ],
+        "activities": [
+          "Festivals (Tshechus)",
+          "Trekking",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "Winter brings cold temperatures, especially at higher altitudes. Snowfall is common in the Himalayas, creating a picturesque winter landscape. However, the southern regions remain relatively mild.",
+        "keyFeatures": [
+          "Cold temperatures",
+          "Snowfall (higher altitudes)",
+          "Clear views"
+        ],
+        "activities": [
+          "Monastery visits",
+          "Hot stone baths",
+          "Winter festivals"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March to May",
+        "description": "Spring is a time of renewal and blossoming, with wildflowers carpeting the hillsides. Temperatures gradually rise, and the weather is generally mild and sunny.",
+        "keyFeatures": [
+          "Wildflowers",
+          "Mild temperatures",
+          "Sunny days"
+        ],
+        "activities": [
+          "Trekking",
+          "Birdwatching",
+          "Nature photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Tiger's Nest Monastery (Paro Taktsang)",
+      "category": "Monastery & Cliffside",
+      "description": "Perched dramatically on a cliffside in the Paro Valley, Tiger’s Nest is one of Bhutan’s most iconic landmarks. It’s a sacred site believed to be where Guru Rinpoche, the founder of Buddhism in Bhutan, landed on the back of a tigress.",
+      "detailedDescription": "The monastery is a complex of temples, shrines, and living quarters, offering breathtaking views of the surrounding valley. The hike to the monastery is challenging but rewarding.",
+      "bestTime": "Autumn",
+      "bestLocations": [
+        "Paro Valley"
+      ],
+      "viewingTips": [
+        "Start early to avoid crowds",
+        "Wear sturdy hiking shoes",
+        "Bring water and snacks"
+      ],
+      "scientificData": {
+        "Height": "3,120m",
+        "Distance": "5km round trip",
+        "Construction": "7th century"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Jomolhari Mountain",
+      "category": "Mountain",
+      "description": "Jomolhari, meaning ‘Beautiful Goddess,’ is a majestic peak in the Himalayas, often seen in the background of photographs taken from Paro Valley. It’s considered one of Bhutan’s most sacred mountains.",
+      "detailedDescription": "The mountain is part of the Black Rock Mountain range and offers challenging trekking opportunities for experienced mountaineers. Its snow-capped summit is a symbol of Bhutan’s spiritual heritage.",
+      "bestTime": "Autumn",
+      "bestLocations": [
+        "Paro Valley"
+      ],
+      "viewingTips": [
+        "Bring binoculars for a closer view",
+        "Consider a multi-day trek"
+      ],
+      "scientificData": {
+        "Height": "7,338m",
+        "Geology": "Granite"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Flaming Ke Tsa Poe (Phobjikha Valley)",
+      "category": "Valley & Wetland",
+      "description": "The Phobjikha Valley is a vast, U-shaped glacial valley, home to the endangered black-necked cranes that migrate to the valley from Tibet each winter. It’s a crucial wetland ecosystem and a protected area.",
+      "detailedDescription": "The valley is covered in lush meadows and forests, offering stunning scenery and opportunities for wildlife viewing. It’s a vital habitat for the black-necked cranes and a symbol of Bhutan’s commitment to conservation.",
+      "bestTime": "Winter",
+      "bestLocations": [
+        "Phobjikha Valley"
+      ],
+      "viewingTips": [
+        "Respect the cranes' habitat",
+        "Use binoculars for birdwatching"
+      ],
+      "scientificData": {
+        "Area": "165 sq km",
+        "Altitude": "3,000m"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Birds",
+    "icon": "Bird",
+    "description": "Bhutan is a birdwatcher’s paradise, boasting a remarkable diversity of avian species, including several endemic and endangered birds.",
+    "statistics": [
+      {
+        "category": "Total Bird Species",
+        "count": "733",
+        "details": "Includes over 200 migratory species."
+      },
+      {
+        "category": "Endemic Bird Species",
+        "count": "12",
+        "details": "Unique to Bhutan's ecosystems."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Black-necked Crane",
+        "status": "Endangered",
+        "significance": "A symbol of Bhutan and a vital part of the Phobjikha Valley ecosystem."
+      },
+      {
+        "name": "Rufous Sibia",
+        "status": "Endemic",
+        "significance": "Found only in Bhutan and Northeast India."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Hunting"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Community-based conservation",
+      "Crane conservation program"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Bhutan's Ecosystems",
+    "overview": "Bhutan’s diverse ecosystems range from subtropical forests and alpine meadows to glacial landscapes and wetlands. The country’s commitment to sustainable development has resulted in a remarkably high percentage of its land area being protected.",
+    "conservationStatus": {
+      "protectedAreas": "66%",
+      "nationalParks": 10
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Bhutan’s forests cover approximately 70% of the country’s land area, playing a crucial role in carbon sequestration and biodiversity conservation.",
+        "statistics": [
+          {
+            "category": "Forest Cover",
+            "count": "70%",
+            "details": "Primarily coniferous and broadleaf forests."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Community forestry programs",
+          "Sustainable logging practices"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "Bhutan’s wetlands, including the Phobjikha Valley, are vital habitats for migratory birds and other wildlife. They also play a crucial role in flood control and water regulation.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "165 sq km",
+            "details": "Important for biodiversity and water resources."
+          }
+        ],
+        "notableSpecies": [
+          "Black-necked Crane"
+        ],
+        "threats": [
+          "Drainage",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Wetland restoration"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Bhutan",
+    "description": "Bhutan offers a wide range of activities for travelers, from trekking and cultural immersion to wildlife viewing and adventure sports. The country’s unique blend of nature and spirituality provides a truly unforgettable experience.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Bhutan is a hiker’s paradise, with trails ranging from easy day hikes to challenging multi-day treks.",
+        "activities": [
+          {
+            "name": "Paro Taktsang Trek",
+            "difficulty": "Moderate",
+            "season": "Spring & Autumn",
+            "duration": "3-5 days",
+            "description": "A popular trek to the iconic Tiger’s Nest Monastery.",
+            "bestLocations": [
+              "Paro Valley"
+            ],
+            "requirements": "Good fitness level, hiking boots, water bottle",
+            "safety": [
+              "Altitude sickness awareness",
+              "Hire a guide"
+            ]
+          },
+          {
+            "name": "Druk Path Trek",
+            "difficulty": "Moderate",
+            "season": "Spring & Autumn",
+            "duration": "5-7 days",
+            "description": "A scenic trek through remote valleys and villages.",
+            "bestLocations": [
+              "Thimphu & Punakha"
+            ],
+            "requirements": "Hiking boots, waterproof jacket",
+            "safety": [
+              "Carry sufficient supplies"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Bhutan offers opportunities for river rafting and kayaking in the warmer months.",
+        "activities": [
+          {
+            "name": "Mo Chhu River Rafting",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Half-day",
+            "description": "A gentle rafting experience on the Mo Chhu River.",
+            "bestLocations": [
+              "Punakha"
+            ],
+            "requirements": "Life jacket, waterproof clothing",
+            "safety": [
+              "Experienced guides"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, rain gear, hiking boots",
+        "winter": "Warm layers, waterproof jacket and pants, hat, gloves, scarf",
+        "yearRound": "Comfortable walking shoes, sunscreen, insect repellent"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, sunscreen, insect repellent",
+        "hiking": "Hiking boots, trekking poles, headlamp",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Altitude sickness awareness",
+        "Respect local customs"
+      ]
+    }
+  }
+}

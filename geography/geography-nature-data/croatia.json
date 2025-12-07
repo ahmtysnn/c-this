@@ -1,0 +1,384 @@
+{
+  "name": "Croatia",
+  "region": "Europe",
+  "description": "Croatia, a captivating country situated on the Adriatic Sea, boasts a rich history, stunning coastline, and diverse landscapes ranging from rugged mountains to rolling hills and picturesque islands. Known for its vibrant culture, delicious cuisine, and welcoming people, Croatia offers a unique blend of experiences for travelers seeking adventure, relaxation, and cultural immersion.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "56,594 sq km (21,851 sq mi)",
+      "icon": "MapPin",
+      "description": "Croatia is a relatively small country, but incredibly diverse in its geography.",
+      "detail": "It encompasses mainland Croatia, numerous islands, and the coastline of several neighboring countries."
+    },
+    {
+      "label": "Population",
+      "value": "4.01 million (2023)",
+      "icon": "Users",
+      "description": "Croatia has a steadily growing population.",
+      "detail": "The majority of the population resides along the coast and in major cities like Zagreb and Split."
+    },
+    {
+      "label": "Capital",
+      "value": "Zagreb",
+      "icon": "Globe",
+      "description": "Zagreb is the political, economic, and cultural center of Croatia.",
+      "detail": "It's a charming city with a well-preserved historic center and numerous museums and galleries."
+    },
+    {
+      "label": "Official Language",
+      "value": "Croatian",
+      "icon": "ArrowRight",
+      "description": "Croatian is a South Slavic language.",
+      "detail": "It's closely related to Serbian and Bosnian."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Croatia adopted the Euro in 2023.",
+      "detail": "Prior to this, the Croatian Kuna (HRK) was used."
+    },
+    {
+      "label": "GDP",
+      "value": "79.2 billion USD (2022)",
+      "icon": "Clock",
+      "description": "Croatia's economy is growing.",
+      "detail": "Tourism is a major contributor to the country's GDP."
+    }
+  ],
+  "climateData": {
+    "title": "Mediterranean Climate",
+    "description": "Croatia enjoys a predominantly Mediterranean climate, characterized by hot, dry summers and mild, wet winters. The coastal regions experience a sea breeze that moderates temperatures.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Long, sunny days and warm temperatures make this the peak tourist season.",
+        "keyFeatures": [
+          "High temperatures",
+          "Sunny skies",
+          "Crowded beaches"
+        ],
+        "activities": [
+          "Swimming",
+          "Sunbathing",
+          "Boat trips",
+          "Hiking"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Pleasant temperatures and fewer crowds make autumn a great time to visit.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Colorful foliage",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Wine tasting",
+          "Cultural events"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Cool and wet winters with occasional snowfall, particularly in mountainous regions.",
+        "keyFeatures": [
+          "Rainfall",
+          "Snowfall (mountains)",
+          "Lower prices"
+        ],
+        "activities": [
+          "Skiing",
+          "Ice skating",
+          "Visiting museums",
+          "Exploring cities"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Temperatures gradually rise, and wildflowers bloom across the countryside.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Exploring national parks"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Plitvice Lakes National Park",
+      "category": "Lake District",
+      "description": "Plitvice Lakes is a UNESCO World Heritage site renowned for its sixteen interconnected lakes, cascading waterfalls, and lush forests. The turquoise waters and stunning scenery create a truly magical experience.",
+      "detailedDescription": "The lakes are fed by underground springs and flow into a series of waterfalls that cascade into the next lake. The park is a haven for diverse flora and fauna, including numerous bird species.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Lower Lakes Trail",
+        "Upper Lakes Trail",
+        "Veliki Slap (Great Waterfall) viewpoint"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes",
+        "Bring rain gear",
+        "Arrive early to avoid crowds"
+      ],
+      "scientificData": {
+        "Height": "185m",
+        "Area": "103 sq km",
+        "Water Temperature": "8-23°C"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 2,
+      "name": "Krka National Park",
+      "category": "River & Waterfall",
+      "description": "Krka National Park is famous for its stunning waterfalls and clear, turquoise rivers. The park offers a variety of hiking trails and opportunities for swimming and relaxation.",
+      "detailedDescription": "The Roski Waterfall is the most iconic feature of the park, but there are numerous other waterfalls and pools to explore. The park is also home to a diverse range of flora and fauna, including rare bird species.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Skradinski Buk Waterfall",
+        "Manuš River Trail",
+        "Roski Waterfall"
+      ],
+      "viewingTips": [
+        "Take a boat trip to explore the waterfalls",
+        "Swim in designated areas",
+        "Respect the natural environment"
+      ],
+      "scientificData": {
+        "Length of River": "60km",
+        "Average Water Depth": "2m",
+        "Water Quality": "Excellent"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Velebit Mountains",
+      "category": "Mountain Range",
+      "description": "The Velebit Mountains stretch along the Dinaric Alps, offering dramatic landscapes, diverse ecosystems, and challenging hiking trails.",
+      "detailedDescription": "The mountains are characterized by limestone peaks, deep canyons, and numerous caves. The Velebit Nature Park protects a significant portion of the mountain range, preserving its biodiversity and natural beauty.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Paklenica Gorge",
+        "Hum",
+        "Mount Sinjal"
+      ],
+      "viewingTips": [
+        "Be prepared for changing weather conditions",
+        "Bring appropriate hiking gear",
+        "Respect the local wildlife"
+      ],
+      "scientificData": {
+        "Highest Peak": "1831m (Mount Dinara)",
+        "Elevation Range": "600-1831m",
+        "Vegetation Zones": "Mediterranean, Submediterranean, Montane"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Mediterranean Flora",
+    "icon": "Leaf",
+    "description": "The Mediterranean region is renowned for its unique and diverse flora, adapted to the hot, dry summers and mild, wet winters.",
+    "statistics": [
+      {
+        "category": "Endemic Species",
+        "count": "15%",
+        "details": "Many plant species are found only in Croatia."
+      },
+      {
+        "category": "Protected Species",
+        "count": "20",
+        "details": "Several plant species are listed as threatened or endangered."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Maquis shrubland",
+        "status": "Common",
+        "significance": "Dominant vegetation type in coastal areas."
+      },
+      {
+        "name": "Croatian Cypress",
+        "status": "Vulnerable",
+        "significance": "A unique species found only in Croatia."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Climate change",
+      "Invasive species"
+    ],
+    "conservationEfforts": [
+      "Protected areas",
+      "Reforestation programs",
+      "Species monitoring"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Coastal Ecosystems",
+    "overview": "Croatia's coastline is a complex and dynamic ecosystem, characterized by diverse habitats including rocky shores, sandy beaches, and seagrass meadows.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Seagrass Meadows",
+        "icon": "Leaf",
+        "description": "Seagrass meadows provide vital habitat for a variety of marine species and help to protect the coastline from erosion.",
+        "statistics": [
+          {
+            "category": "Area",
+            "count": "100,000 ha",
+            "details": "Croatia has extensive seagrass meadows along its coastline."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Pollution",
+          "Coastal development"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Restoration projects"
+        ]
+      },
+      {
+        "name": "Rocky Shores",
+        "icon": "Wave",
+        "description": "Rocky shores are home to a diverse community of invertebrates, algae, and fish.",
+        "statistics": [
+          {
+            "category": "Rock Cover",
+            "count": "50%",
+            "details": "Rocky shores dominate a significant portion of the Croatian coastline."
+          }
+        ],
+        "notableSpecies": [],
+        "threats": [
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coastal management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Croatia",
+    "description": "Croatia offers a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Croatia's stunning mountains, forests, and coastal trails.",
+        "activities": [
+          {
+            "name": "Coastal Hiking",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "2-6 hours",
+            "description": "Hike along the scenic coastline, enjoying breathtaking views of the Adriatic Sea.",
+            "bestLocations": [
+              "Paklenica National Park",
+              "Biokovo Mountains"
+            ],
+            "requirements": "Hiking boots, water bottle, sunscreen",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your route"
+            ]
+          },
+          {
+            "name": "Mountain Hiking",
+            "difficulty": "Hard",
+            "season": "Summer - Autumn",
+            "duration": "6-12 hours",
+            "description": "Challenge yourself with a hike in the Velebit Mountains or other mountain ranges.",
+            "bestLocations": [
+              "Velebit Mountains",
+              "Biokovo Mountains"
+            ],
+            "requirements": "Hiking boots, backpack, map, compass",
+            "safety": [
+              "Be prepared for changing weather conditions",
+              "Carry sufficient food and water"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Croatia's crystal-clear waters.",
+        "activities": [
+          {
+            "name": "Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Relax and swim in the Adriatic Sea.",
+            "bestLocations": [
+              "All coastal towns and islands"
+            ],
+            "requirements": "Swimsuit, sunscreen",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "2-4 hours",
+            "description": "Explore the underwater world of Croatia's coastline.",
+            "bestLocations": [
+              "Istria",
+              "Dalmatia"
+            ],
+            "requirements": "Scuba certification, diving equipment",
+            "safety": [
+              "Follow dive guidelines",
+              "Dive with a qualified instructor"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, sunscreen, insect repellent",
+        "hiking": "Hiking boots, map, compass, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Emergency contact information",
+        "Basic first-aid knowledge"
+      ]
+    }
+  }
+}

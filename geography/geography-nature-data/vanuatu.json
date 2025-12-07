@@ -1,0 +1,341 @@
+{
+  "name": "Vanuatu",
+  "region": "Oceania",
+  "description": "Vanuatu, also known as New Hebrides until 1999, is a volcanic archipelago nation in the South Pacific Ocean. It’s comprised of 83 islands, of which 61 are inhabited. The country boasts incredible biodiversity, stunning landscapes ranging from active volcanoes and lush rainforests to pristine beaches and coral reefs, and a rich cultural heritage shaped by Melanesian traditions. Vanuatu is a developing nation with a strong focus on sustainable tourism and preserving its natural resources.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Port Vila",
+      "icon": "MapPin",
+      "description": "The bustling capital city and economic hub of Vanuatu.",
+      "detail": "Located on Efate Island, Port Vila offers a vibrant mix of modern amenities and traditional Melanesian culture."
+    },
+    {
+      "label": "Population",
+      "value": "322,088",
+      "icon": "Users",
+      "description": "A relatively small population spread across numerous islands.",
+      "detail": "The population is predominantly Melanesian, with significant influences from Polynesian and European cultures."
+    },
+    {
+      "label": "Official Language",
+      "value": "Bislama, English, French",
+      "icon": "Navigation",
+      "description": "Three official languages reflect Vanuatu’s colonial history.",
+      "detail": "Bislama is the national language, widely spoken and used in daily life. English is used in education and business, while French is spoken in parts of the country."
+    },
+    {
+      "label": "GDP (2023)",
+      "value": "$2.3 Billion",
+      "icon": "Coffee",
+      "description": "A developing economy reliant on agriculture, tourism, and fisheries.",
+      "detail": "Tourism is a major contributor to the economy, attracting visitors with its pristine beaches and unique cultural experiences."
+    },
+    {
+      "label": "Currency",
+      "value": "Vatu (VUV)",
+      "icon": "Clock",
+      "description": "The local currency of Vanuatu.",
+      "detail": "1 USD is approximately 134 VUV."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Vanuatu",
+    "description": "Vanuatu experiences a tropical maritime climate, characterized by high humidity and rainfall throughout the year. The islands are influenced by both the warm trade winds and the cooler currents of the South Pacific.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "May - October",
+        "description": "The dry season is generally sunny and pleasant, with lower humidity and less rainfall.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Calm seas"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Snorkeling",
+          "Diving",
+          "Hiking"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "November - April",
+        "description": "The wet season brings frequent rainfall, particularly in the afternoons, and higher humidity. However, the rain is often short-lived, and sunshine is still abundant.",
+        "keyFeatures": [
+          "High rainfall",
+          "Humidity",
+          "Storms (occasional)"
+        ],
+        "activities": [
+          "Waterfall exploration",
+          "Jungle trekking",
+          "Cultural tours"
+        ]
+      },
+      {
+        "name": "Cyclone Season",
+        "period": "January - March",
+        "description": "Vanuatu is susceptible to cyclones during this period, so travelers should be aware of the potential for disruptions.",
+        "keyFeatures": [
+          "High risk of cyclones",
+          "Strong winds",
+          "Heavy rain"
+        ],
+        "activities": [
+          "Limited outdoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Yasur",
+      "category": "Volcano",
+      "description": "Mount Yasur, located on Tanna Island, is one of the world’s most accessible active volcanoes. Visitors can witness spectacular eruptions from designated viewing platforms.",
+      "detailedDescription": "The volcano’s eruptions are a mesmerizing display of molten lava, ash, and steam, creating a dramatic and unforgettable experience. The surrounding rainforest is teeming with unique flora and fauna.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Tanna Island"
+      ],
+      "viewingTips": [
+        "Bring a flashlight",
+        "Wear sturdy shoes",
+        "Respect the area"
+      ],
+      "scientificData": {
+        "Height": "323m",
+        "Age": "Relatively young (estimated 500-800 years)",
+        "EruptionFrequency": "Frequent, with multiple eruptions per day"
+      },
+      "icon": "Flame"
+    },
+    {
+      "id": 2,
+      "name": "Hovering Island (Island Ifi)",
+      "category": "Coastal Feature",
+      "description": "The Hovering Island is a unique sand formation that appears to ‘hover’ just above the ocean at low tide, creating a surreal and captivating spectacle.",
+      "detailedDescription": "This natural phenomenon is caused by a combination of tidal forces and the island’s porous sand structure. It’s a truly remarkable sight and a popular destination for photographers.",
+      "bestTime": "Low tide (check tide charts)",
+      "bestLocations": [
+        "Port Charlotte Peninsula, Tanna Island"
+      ],
+      "viewingTips": [
+        "Check tide charts in advance",
+        "Arrive early to secure a good viewing spot"
+      ],
+      "scientificData": {
+        "Area": "Approximately 1 hectare",
+        "SandComposition": "Primarily quartz sand"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Hideaway Island",
+      "category": "Coral Atoll",
+      "description": "Hideaway Island is a stunning coral atoll offering pristine beaches, turquoise waters, and vibrant coral reefs, making it a paradise for divers and snorkelers.",
+      "detailedDescription": "The island is surrounded by a barrier reef, protecting it from strong waves and creating a calm and sheltered lagoon. It’s a haven for marine life and a popular destination for eco-tourism.",
+      "bestTime": "Dry Season (May - October)",
+      "bestLocations": [
+        "Shefa Province"
+      ],
+      "viewingTips": [
+        "Bring reef-safe sunscreen",
+        "Respect the marine environment"
+      ],
+      "scientificData": {
+        "RingDiameter": "Approximately 3km",
+        "CoralType": "Diverse coral species, including staghorn and brain corals"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Vanuatu",
+    "overview": "Vanuatu’s diverse islands support a wide range of ecosystems, including rainforests, coral reefs, mangroves, and volcanic landscapes. These ecosystems are home to a remarkable array of plant and animal life, much of which is endemic to the region.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Vanuatu’s land area is protected in national parks and reserves.",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral Reefs",
+        "icon": "Fish",
+        "description": "Vanuatu’s coral reefs are among the most diverse and pristine in the world, supporting a vast array of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 300",
+            "details": "A significant proportion of these are found nowhere else on Earth."
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 500",
+            "details": "Including numerous endemic species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Clownfish",
+            "status": "Vulnerable",
+            "significance": "A flagship species for coral reef conservation."
+          },
+          {
+            "name": "Manta Ray",
+            "status": "Endangered",
+            "significance": "A majestic and ecologically important marine animal."
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices",
+          "Coral restoration projects"
+        ]
+      },
+      {
+        "name": "Rainforests",
+        "icon": "Trees",
+        "description": "Vanuatu’s rainforests are incredibly rich in biodiversity, harboring a vast array of plant and animal species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 600",
+            "details": "Many are endemic to the islands."
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 100",
+            "details": "Including several endemic bird species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Vanuatu Parrot",
+            "status": "Endangered",
+            "significance": "A critically endangered parrot species found only in Vanuatu."
+          },
+          {
+            "name": "Giant Flying Fox",
+            "status": "Vulnerable",
+            "significance": "A large fruit bat that plays a vital role in rainforest pollination."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Logging",
+          "Agricultural expansion"
+        ],
+        "conservationEfforts": [
+          "Community-based forestry",
+          "Protected areas",
+          "Reforestation programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Vanuatu",
+    "description": "Vanuatu offers a diverse range of activities for travelers of all interests, from adventure tourism to cultural experiences.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Vanuatu’s stunning rainforests and volcanic landscapes on foot.",
+        "activities": [
+          {
+            "name": "Mount Teme Plateau Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-4 hours",
+            "description": "A scenic hike through the rainforest to a plateau with panoramic views.",
+            "bestLocations": [
+              "Tanna Island"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Cascade Trail",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-3 hours",
+            "description": "A gentle walk through lush rainforest to a series of cascading waterfalls.",
+            "bestLocations": [
+              "Port Vila"
+            ],
+            "requirements": "Comfortable shoes, insect repellent",
+            "safety": [
+              "Watch out for slippery rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in Vanuatu’s crystal-clear waters.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore vibrant coral reefs and encounter diverse marine life.",
+            "bestLocations": [
+              "Efate Island",
+              "Tanna Island"
+            ],
+            "requirements": "Certification, wetsuit (optional)",
+            "safety": [
+              "Follow dive guidelines",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Discover the beauty of the coral reefs without diving.",
+            "bestLocations": [
+              "Hideaway Island",
+              "Pentacle Island"
+            ],
+            "requirements": "Snorkel gear, sunscreen",
+            "safety": [
+              "Be mindful of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Long-sleeved shirts, light jacket, rain gear",
+        "yearRound": "Versatile clothing suitable for warm and humid conditions"
+      },
+      "equipment": {
+        "basic": "Insect repellent, first-aid kit, flashlight",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Travel insurance",
+        "Respect local customs",
+        "Be aware of weather conditions"
+      ]
+    }
+  }
+}

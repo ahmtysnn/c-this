@@ -1,0 +1,522 @@
+// ============================================
+// FREE SOLUTION: Numbeo Scraper with Free Proxies
+// ============================================
+
+const fs = require('fs');
+const path = require('path');
+const puppeteer = require('puppeteer-extra');
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
+const fetch = require('node-fetch'); // npm install node-fetch@2
+
+puppeteer.use(StealthPlugin());
+
+const { COUNTRIES_AND_CITIES } = require('../countriesAndCities.js');
+
+// ============================================
+// FREE PROXY MANAGEMENT
+// ============================================
+
+let currentProxyIndex = 0;
+let freeProxies = [];
+
+// Fetch fresh free proxies
+async function fetchFreeProxies() {
+  console.log('🔍 Fetching fresh free proxies...');
+  
+  try {
+    // ProxyScrape API (free, no key needed)
+    const response = await fetch(
+      'https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all'
+    );
+    
+    const text = await response.text();
+    const proxies = text.split('\n')
+      .filter(p => p.trim())
+      .map(p => `http://${p.trim()}`);
+    
+    console.log(`✅ Found ${proxies.length} free proxies`);
+    return proxies;
+    
+  } catch (error) {
+    console.log('⚠️  Failed to fetch proxies, using backup list');
+    // Backup static list (update from free-proxy-list.net)
+    return [
+      'http://47.88.62.42:80',
+      'http://103.152.112.162:80',
+      'http://200.25.48.72:3128',
+      'http://41.65.236.43:1976',
+      'http://103.149.162.194:80'
+    ];
+  }
+}
+
+function getNextProxy() {
+  if (freeProxies.length === 0) return null;
+  const proxy = freeProxies[currentProxyIndex % freeProxies.length];
+  currentProxyIndex++;
+  return proxy;
+}
+
+// ============================================
+// BROWSER MANAGEMENT
+// ============================================
+
+let browser = null;
+let page = null;
+let requestsSinceProxyChange = 0;
+const MAX_REQUESTS_PER_PROXY = 10; // Change proxy every 10 requests
+
+async function initBrowser(useProxy = true) {
+  if (browser) {
+    await browser.close();
+  }
+
+  const args = [
+    '--no-sandbox',
+    '--disable-setuid-sandbox',
+    '--disable-dev-shm-usage',
+    '--disable-blink-features=AutomationControlled'
+  ];
+
+  if (useProxy) {
+    const proxy = getNextProxy();
+    if (proxy) {
+      args.push(`--proxy-server=${proxy}`);
+      console.log(`🔒 Using proxy: ${proxy}`);
+    }
+  }
+
+  browser = await puppeteer.launch({
+    headless: 'new',
+    args
+  });
+
+  page = await browser.newPage();
+  await page.setViewport({ width: 1920, height: 1080 });
+  await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36');
+  
+  requestsSinceProxyChange = 0;
+  console.log('✅ Browser initialized');
+}
+
+async function closeBrowser() {
+  if (browser) {
+    await browser.close();
+    browser = null;
+    page = null;
+  }
+}
+
+async function checkAndRotateProxy() {
+  requestsSinceProxyChange++;
+  if (requestsSinceProxyChange >= MAX_REQUESTS_PER_PROXY) {
+    console.log('🔄 Rotating proxy...');
+    await initBrowser(true);
+  }
+}
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+// ============================================
+// DATA PARSING
+// ============================================
+
+function categorizeItem(itemName) {
+  const name = itemName.toLowerCase();
+  if (name.includes('apartment') || name.includes('rent')) return 'housing';
+  if (name.includes('utilities') || name.includes('internet') || name.includes('phone')) return 'utilities';
+  if (name.includes('transport') || name.includes('taxi') || name.includes('gasoline')) return 'transportation';
+  if (name.includes('restaurant') || name.includes('meal') || name.includes('coffee')) return 'dining';
+  if (name.includes('milk') || name.includes('bread') || name.includes('egg')) return 'groceries';
+  if (name.includes('gym') || name.includes('fitness') || name.includes('cinema')) return 'lifestyle';
+  if (name.includes('preschool') || name.includes('school')) return 'education';
+  return 'other';
+}
+
+function getUnit(itemName) {
+  const name = itemName.toLowerCase();
+  if (name.includes('monthly') || name.includes('apartment')) return 'month';
+  if (name.includes('liter')) return 'liter';
+  if (name.includes('kg')) return 'kg';
+  if (name.includes('dozen')) return 'dozen';
+  if (name.includes('loaf')) return 'loaf';
+  if (name.includes('bottle')) return 'bottle';
+  if (name.includes('meal')) return 'meal';
+  return 'unit';
+}
+
+function getFrequency(itemName) {
+  const name = itemName.toLowerCase();
+  if (name.includes('monthly')) return 'monthly';
+  if (name.includes('meal')) return 'daily';
+  if (name.includes('liter') || name.includes('kg')) return 'weekly';
+  return 'one-time';
+}
+
+function getImportance(itemName) {
+  const name = itemName.toLowerCase();
+  if (name.includes('apartment') || name.includes('utilities')) return 'essential';
+  if (name.includes('restaurant') || name.includes('gym')) return 'luxury';
+  return 'moderate';
+}
+
+// ============================================
+// SCRAPER WITH PROXY ROTATION
+// ============================================
+
+async function scrapeCityData(city, country, retryCount = 0) {
+  const maxRetries = 5;
+  const cityUrl = city.replace(/\s+/g, '-');
+  const url = `https://www.numbeo.com/cost-of-living/in/${cityUrl}`;
+  
+  try {
+    console.log(`      🕷️  Fetching: ${url}${retryCount > 0 ? ` (Retry ${retryCount})` : ''}`);
+    
+    // Rotate proxy if needed
+    await checkAndRotateProxy();
+    
+    // Random delay
+    await sleep(3000 + Math.random() * 4000);
+    
+    // Visit homepage first (sometimes)
+    if (Math.random() > 0.7) {
+      try {
+        await page.goto('https://www.numbeo.com/', { 
+          waitUntil: 'domcontentloaded',
+          timeout: 20000 
+        });
+        await sleep(2000);
+      } catch (e) {
+        console.log('      ⚠️  Homepage timeout, continuing...');
+      }
+    }
+    
+    // Navigate to city page
+    const response = await page.goto(url, {
+      waitUntil: 'domcontentloaded',
+      timeout: 30000
+    });
+    
+    const status = response.status();
+    console.log(`      📡 Status: ${status}`);
+    
+    if (status === 429 || status === 403) {
+      throw new Error(`Blocked (${status})`);
+    }
+    
+    if (status === 404) {
+      console.log(`      ⚠️  City not found`);
+      return null;
+    }
+    
+    // Check for rate limit message
+    const content = await page.content();
+    if (content.includes('Rate limit') || content.includes('prove that you are not robot')) {
+      throw new Error('Rate limit detected');
+    }
+    
+    await sleep(2000);
+    
+    // Extract data
+    const data = await page.evaluate(() => {
+      const result = { indices: {}, items: [] };
+      
+      // Extract indices
+      const indexRows = document.querySelectorAll('table tr');
+      indexRows.forEach(row => {
+        const cols = row.querySelectorAll('td');
+        if (cols.length >= 2) {
+          const name = cols[0].textContent.trim().toLowerCase();
+          const valueMatch = cols[1].textContent.match(/[\d.]+/);
+          if (valueMatch) {
+            const value = parseFloat(valueMatch[0]);
+            if (name.includes('cost of living')) result.indices.costOfLivingIndex = value;
+            else if (name.includes('rent')) result.indices.rentIndex = value;
+            else if (name.includes('groceries')) result.indices.groceriesIndex = value;
+            else if (name.includes('restaurant')) result.indices.restaurantIndex = value;
+          }
+        }
+      });
+      
+      // Extract items
+      const priceRows = document.querySelectorAll('table.data_wide_table tbody tr');
+      priceRows.forEach(row => {
+        const cols = row.querySelectorAll('td');
+        if (cols.length >= 2) {
+          const itemName = cols[0].textContent.trim();
+          const priceMatch = cols[1].textContent.match(/[\d,]+\.?\d*/);
+          
+          if (priceMatch && itemName) {
+            const price = parseFloat(priceMatch[0].replace(/,/g, ''));
+            if (price > 0) {
+              result.items.push({
+                item: itemName,
+                averageCost: price,
+                range: { low: price * 0.8, high: price * 1.2 }
+              });
+            }
+          }
+        }
+      });
+      
+      return result;
+    });
+    
+    if (!data.items || data.items.length === 0) {
+      console.log(`      ⚠️  No data found`);
+      return null;
+    }
+    
+    data.city = city;
+    data.country = country;
+    data.currency = 'USD';
+    data.lastUpdated = new Date().toISOString();
+    
+    data.items = data.items.map(item => ({
+      ...item,
+      category: categorizeItem(item.item),
+      unit: getUnit(item.item),
+      frequency: getFrequency(item.item),
+      importance: getImportance(item.item)
+    }));
+    
+    console.log(`      ✅ Success! Got ${data.items.length} items`);
+    return data;
+    
+  } catch (error) {
+    console.log(`      🔴 Error: ${error.message}`);
+    
+    if (retryCount < maxRetries) {
+      const waitTime = Math.pow(2, retryCount) * 30000; // 30s, 1m, 2m, 4m, 8m
+      console.log(`      ⏳ Waiting ${Math.round(waitTime/1000)}s, then switching proxy...`);
+      
+      await sleep(waitTime);
+      
+      // Force new proxy
+      await initBrowser(true);
+      
+      return scrapeCityData(city, country, retryCount + 1);
+    }
+    
+    console.log(`      ❌ Max retries reached`);
+    return null;
+  }
+}
+
+// ============================================
+// FILE OPERATIONS
+// ============================================
+
+function saveCountryFile(countryData, country) {
+  const outputDir = path.join(__dirname, 'cost-of-living-data');
+  const countrySlug = country.toLowerCase().replace(/\s+/g, '-');
+  const countryDir = path.join(outputDir, countrySlug);
+  
+  if (!fs.existsSync(countryDir)) {
+    fs.mkdirSync(countryDir, { recursive: true });
+  }
+
+  const filepath = path.join(countryDir, 'index.json');
+  fs.writeFileSync(filepath, JSON.stringify(countryData, null, 2));
+  
+  return { 
+    fileSize: (fs.statSync(filepath).size / 1024).toFixed(1),
+    relativePath: `${countrySlug}/index.json`
+  };
+}
+
+function loadExistingCountryFile(country) {
+  const outputDir = path.join(__dirname, 'cost-of-living-data');
+  const countrySlug = country.toLowerCase().replace(/\s+/g, '-');
+  const filepath = path.join(outputDir, countrySlug, 'index.json');
+  
+  if (fs.existsSync(filepath)) {
+    try {
+      return JSON.parse(fs.readFileSync(filepath, 'utf8'));
+    } catch (error) {
+      return null;
+    }
+  }
+  return null;
+}
+
+function saveProgressState(state) {
+  const progressFile = path.join(__dirname, 'cost-of-living-data', '.progress.json');
+  fs.writeFileSync(progressFile, JSON.stringify(state, null, 2));
+}
+
+function loadProgressState() {
+  const progressFile = path.join(__dirname, 'cost-of-living-data', '.progress.json');
+  if (fs.existsSync(progressFile)) {
+    try {
+      return JSON.parse(fs.readFileSync(progressFile, 'utf8'));
+    } catch (error) {
+      return null;
+    }
+  }
+  return null;
+}
+
+// ============================================
+// MAIN LOOP
+// ============================================
+
+async function generateAllData() {
+  console.log('\n═══════════════════════════════════════════════════════');
+  console.log('🌍 Cost of Living Scraper - FREE PROXY VERSION');
+  console.log('═══════════════════════════════════════════════════════\n');
+
+  // Fetch free proxies first
+  freeProxies = await fetchFreeProxies();
+  
+  if (freeProxies.length === 0) {
+    console.log('❌ No proxies available. Please:');
+    console.log('   1. Check your internet connection');
+    console.log('   2. Try again later');
+    console.log('   3. Manually add proxies from free-proxy-list.net');
+    return;
+  }
+
+  const outputDir = path.join(__dirname, 'cost-of-living-data');
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
+
+  const totalCities = COUNTRIES_AND_CITIES.reduce((sum, c) => sum + c.cities.length, 0);
+  console.log(`📊 Countries: ${COUNTRIES_AND_CITIES.length}`);
+  console.log(`🏙️  Total Cities: ${totalCities}`);
+  console.log(`🔒 Available Proxies: ${freeProxies.length}`);
+  console.log(`⏱️  Est. Time: ~${Math.round(totalCities * 45 / 3600)} hours\n`);
+
+  await initBrowser(true);
+
+  const masterIndex = {
+    countries: [],
+    totalCountries: COUNTRIES_AND_CITIES.length,
+    totalCities: totalCities,
+    lastUpdated: new Date().toISOString()
+  };
+
+  let processedCount = 0;
+  let successCount = 0;
+  let failedCount = 0;
+  let skippedCount = 0;
+
+  const savedProgress = loadProgressState();
+  let startFromCountry = savedProgress?.countryIndex || 0;
+  let startFromCity = savedProgress ? savedProgress.lastCityIndex + 1 : 0;
+
+  if (savedProgress) {
+    console.log(`📥 Resuming from: ${savedProgress.lastCountry}\n`);
+    processedCount = savedProgress.processedCount || 0;
+    successCount = savedProgress.successCount || 0;
+    failedCount = savedProgress.failedCount || 0;
+    skippedCount = savedProgress.skippedCount || 0;
+  }
+
+  try {
+    for (let countryIndex = startFromCountry; countryIndex < COUNTRIES_AND_CITIES.length; countryIndex++) {
+      const { country, cities } = COUNTRIES_AND_CITIES[countryIndex];
+      
+      console.log(`\n${'='.repeat(60)}`);
+      console.log(`🌍 ${country} (${cities.length} cities)`);
+      console.log('='.repeat(60));
+
+      const existingCountryData = loadExistingCountryFile(country);
+      
+      const countryFileData = {
+        country,
+        lastUpdated: new Date().toISOString(),
+        totalCities: cities.length,
+        cities: existingCountryData?.cities || []
+      };
+
+      const cityStartIndex = countryIndex === startFromCountry ? startFromCity : 0;
+
+      for (let cityIndex = cityStartIndex; cityIndex < cities.length; cityIndex++) {
+        const city = cities[cityIndex];
+        processedCount++;
+        
+        console.log(`\n[${processedCount}/${totalCities}] 🏙️  ${city}, ${country}`);
+
+        const existingCity = countryFileData.cities.find(c => c.city === city);
+        if (existingCity?.items?.length > 0) {
+          console.log(`      ⏭️  Already scraped`);
+          skippedCount++;
+          continue;
+        }
+
+        const data = await scrapeCityData(city, country);
+
+        if (data?.items?.length > 0) {
+          const existingIndex = countryFileData.cities.findIndex(c => c.city === city);
+          if (existingIndex !== -1) {
+            countryFileData.cities[existingIndex] = data;
+          } else {
+            countryFileData.cities.push(data);
+          }
+          successCount++;
+        } else {
+          failedCount++;
+        }
+
+        saveProgressState({
+          countryIndex,
+          lastCityIndex: cityIndex,
+          lastCountry: country,
+          processedCount,
+          successCount,
+          failedCount,
+          skippedCount,
+          timestamp: new Date().toISOString()
+        });
+
+        // Random delay between cities
+        if (cityIndex < cities.length - 1) {
+          const waitTime = 20000 + Math.random() * 25000; // 20-45s
+          console.log(`      ⏸️  Waiting ${Math.round(waitTime/1000)}s...\n`);
+          await sleep(waitTime);
+        }
+      }
+
+      if (countryFileData.cities.length > 0) {
+        const { fileSize } = saveCountryFile(countryFileData, country);
+        console.log(`\n      💾 Saved ${country} (${fileSize} KB)`);
+      }
+
+      masterIndex.countries.push({
+        name: country,
+        citiesCount: cities.length,
+        path: `${country.toLowerCase().replace(/\s+/g, '-')}/index.json`
+      });
+    }
+
+    fs.writeFileSync(
+      path.join(outputDir, 'index.json'),
+      JSON.stringify(masterIndex, null, 2)
+    );
+
+    console.log('\n═══════════════════════════════════════════════════════');
+    console.log('✅ COMPLETE');
+    console.log(`   Success: ${successCount}`);
+    console.log(`   Skipped: ${skippedCount}`);
+    console.log(`   Failed: ${failedCount}`);
+    console.log('═══════════════════════════════════════════════════════\n');
+
+  } catch (error) {
+    console.error('💥 Fatal Error:', error);
+  } finally {
+    await closeBrowser();
+  }
+}
+
+// ============================================
+// RUN
+// ============================================
+
+generateAllData().catch(error => {
+  console.error('💥 Fatal Error:', error);
+  closeBrowser().finally(() => process.exit(1));
+});

@@ -1,0 +1,396 @@
+{
+  "name": "Nigeria",
+  "region": "West Africa",
+  "description": "Nigeria, the most populous country in Africa, is a nation of incredible diversity – from its vibrant cultures and bustling cities to its vast savannahs, dense rainforests, and stunning coastline.  It’s a land of contrasts, boasting a rich history shaped by ancient kingdoms, colonial influences, and a complex modern political landscape.  Nigeria’s geography is incredibly varied, encompassing the fertile Niger and Benue river basins, the arid Sahel region in the north, and the tropical rainforests of the south.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "214.8 million (2023)",
+      "icon": "Users",
+      "description": "Nigeria is the most populous country in Africa.",
+      "detail": "Its population is rapidly growing and contributes significantly to the continent's demographic trends."
+    },
+    {
+      "label": "Area",
+      "value": "923,768 sq km (356,669 sq mi)",
+      "icon": "MapPin",
+      "description": "Nigeria covers a vast area of West Africa.",
+      "detail": "It’s the 6th largest country in Africa by land area."
+    },
+    {
+      "label": "Capital",
+      "value": "Abuja",
+      "icon": "MapPin",
+      "description": "Abuja serves as the political and administrative center.",
+      "detail": "It was established in 1991 as the new capital, replacing Lagos."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Globe",
+      "description": "English is the official language of Nigeria.",
+      "detail": "It’s a legacy of British colonial rule and remains crucial for governance and education."
+    },
+    {
+      "label": "Currency",
+      "value": "Naira (NGN)",
+      "icon": "Wave",
+      "description": "The Nigerian Naira is the official currency.",
+      "detail": "Its value fluctuates against major international currencies."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 472.6 billion (2023)",
+      "icon": "Thermometer",
+      "description": "Nigeria has the largest economy in Africa.",
+      "detail": "Driven primarily by oil production, but diversifying into agriculture and technology."
+    }
+  ],
+  "climateData": {
+    "title": "Nigeria's Climate",
+    "description": "Nigeria experiences a tropical climate, characterized by high temperatures and humidity throughout the year.  The climate varies significantly across the country, influenced by its diverse geography. The north is generally hot and dry, while the south is hot and humid with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Harmattan",
+        "period": "November – March",
+        "description": "The Harmattan is a dry and dusty trade wind that blows from the Sahara Desert, bringing cooler temperatures and reduced rainfall.",
+        "keyFeatures": [
+          "Dry air",
+          "Dust storms",
+          "Reduced visibility"
+        ],
+        "activities": [
+          "Relaxation",
+          "Indoor activities",
+          "Photography (dust can affect images)"
+        ]
+      },
+      {
+        "name": "Rainy Season",
+        "period": "March – October",
+        "description": "This season brings heavy rainfall across most of the country, particularly in the south. It’s a period of lush vegetation and abundant wildlife.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Increased vegetation"
+        ],
+        "activities": [
+          "Hiking",
+          "Water sports",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "June – August",
+        "description": "The dry season is characterized by clear skies, lower humidity, and reduced rainfall. Temperatures remain high.",
+        "keyFeatures": [
+          "Clear skies",
+          "Low humidity",
+          "High temperatures"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Photography",
+          "Desert exploration"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Cross River National Park",
+      "category": "Forest",
+      "description": "Located in the south-western part of Nigeria, this park is a haven for biodiversity, encompassing rainforests, swamps, and rivers. It’s home to a remarkable array of plant and animal species, including chimpanzees, gorillas, and diverse birdlife.",
+      "detailedDescription": "The park’s diverse ecosystems support a rich tapestry of life, making it a crucial area for conservation.  It’s a vital refuge for endangered species and a significant contributor to the region’s ecological balance.",
+      "bestTime": "March – October",
+      "bestLocations": [
+        "Okoyomami Forest Reserve",
+        "Imfolozi River"
+      ],
+      "viewingTips": [
+        "Hire a local guide for optimal wildlife spotting.",
+        "Bring insect repellent.",
+        "Wear appropriate footwear."
+      ],
+      "scientificData": {
+        "Area": "4,011 sq km",
+        "Elevation": "610m",
+        "Biodiversity": "Over 500 plant species, 400 bird species"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Osun-Osogbo Sacred Grove",
+      "category": "Sacred Grove",
+      "description": "A UNESCO World Heritage Site, the Osun-Osogbo Sacred Grove is a dense forest dedicated to the Yoruba goddess Osun. It’s a place of spiritual significance, adorned with shrines, statues, and traditional art.",
+      "detailedDescription": "The grove is considered a living museum of Yoruba culture and religion.  It’s a place of pilgrimage and reverence, where devotees perform rituals and offer prayers to Osun, the goddess of fertility and river waters.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Sacred Grove Entrance"
+      ],
+      "viewingTips": [
+        "Respect local customs and traditions.",
+        "Dress modestly.",
+        "Hire a local guide to learn about the history and significance of the grove."
+      ],
+      "scientificData": {
+        "Area": "200 hectares",
+        "Trees": "Over 80 tree species, including ancient Iroko trees"
+      },
+      "icon": "Tree"
+    },
+    {
+      "id": 3,
+      "name": "Lake Chad",
+      "category": "Lake",
+      "description": "Once one of Africa’s largest lakes, Lake Chad is now significantly reduced in size due to climate change and overuse of water resources. Despite its diminished state, it remains a vital ecosystem and a significant migratory route for birds.",
+      "detailedDescription": "The lake supports a diverse range of aquatic life and provides livelihoods for surrounding communities. Conservation efforts are underway to restore the lake and mitigate its environmental challenges.",
+      "bestTime": "November – February",
+      "bestLocations": [
+        "Borno State, Nigeria"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching.",
+        "Be aware of security concerns in the surrounding areas."
+      ],
+      "scientificData": {
+        "Area": "25,000 sq km (historical)",
+        "Depth": "Maximum depth: 3 meters"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Mammals",
+    "icon": "Bird",
+    "description": "Nigeria is home to a diverse range of mammals, including primates, carnivores, herbivores, and rodents. Many species are endemic to the region.",
+    "statistics": [
+      {
+        "category": "Primates",
+        "count": "Over 100 species",
+        "details": "Including chimpanzees, gorillas, and monkeys."
+      },
+      {
+        "category": "Carnivores",
+        "count": "30+ species",
+        "details": "Such as lions, leopards, hyenas, and wild dogs."
+      },
+      {
+        "category": "Herbivores",
+        "count": "50+ species",
+        "details": "Including elephants, giraffes, zebras, and antelopes."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Gorilla",
+        "status": "Endangered",
+        "significance": "One of the last remaining populations of western lowland gorillas."
+      },
+      {
+        "name": "African Elephant",
+        "status": "Vulnerable",
+        "significance": "A keystone species playing a vital role in maintaining ecosystem health."
+      },
+      {
+        "name": "African Lion",
+        "status": "Vulnerable",
+        "significance": "A majestic predator and an important part of the savanna ecosystem."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Poaching",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Anti-poaching patrols",
+      "Community-based conservation programs",
+      "Protected area management"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Nigerian Ecosystems",
+    "overview": "Nigeria’s ecosystems are incredibly diverse, ranging from the dense rainforests of the south to the arid savannas of the north and the extensive wetlands along the Niger and Benue rivers. These ecosystems support a vast array of plant and animal life and play a crucial role in the country’s economy and well-being.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 36
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "Nigeria is a birdwatcher’s paradise, boasting over 1,000 bird species, including many endemic and migratory species.",
+        "statistics": [
+          {
+            "category": "Migratory Birds",
+            "count": "Over 500",
+            "details": "Important stopover point for birds traveling between Africa and Europe."
+          },
+          {
+            "category": "Endemic Birds",
+            "count": "80+",
+            "details": "Unique species found only in Nigeria."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Rosy-billed Starling",
+            "status": "Near Threatened",
+            "significance": "A striking bird with a vibrant red bill."
+          },
+          {
+            "name": "Shoebill Stork",
+            "status": "Vulnerable",
+            "significance": "A rare and imposing bird found in the swamps of southern Nigeria."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal bird trade"
+        ],
+        "conservationEfforts": [
+          "Bird sanctuaries",
+          "Community-based conservation programs"
+        ]
+      },
+      {
+        "name": "Reptiles",
+        "icon": "Leaf",
+        "description": "Nigeria is home to a wide variety of reptiles, including snakes, lizards, crocodiles, and turtles.",
+        "statistics": [
+          {
+            "category": "Snakes",
+            "count": "Over 300 species",
+            "details": "Including venomous species like cobras and pythons."
+          },
+          {
+            "category": "Lizards",
+            "count": "100+ species",
+            "details": "Diverse range of sizes and colors."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Rock Python",
+            "status": "Vulnerable",
+            "significance": "One of the largest snakes in the world."
+          },
+          {
+            "name": "Nile Crocodile",
+            "status": "Vulnerable",
+            "significance": "A formidable predator found in rivers and lakes."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal wildlife trade"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Anti-poaching patrols"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Nigeria",
+    "description": "Nigeria offers a diverse range of outdoor activities, catering to various interests and skill levels. From exploring national parks to enjoying water sports and cultural experiences, there’s something for everyone.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Nigeria’s diverse landscapes on foot, from the rainforests of the south to the savannahs of the north.",
+        "activities": [
+          {
+            "name": "Cross River National Park Hike",
+            "difficulty": "Moderate",
+            "season": "March – October",
+            "duration": "2-5 days",
+            "description": "Hike through the rainforest, observing wildlife and enjoying the natural beauty of the park.",
+            "bestLocations": [
+              "Okoyomami Forest Reserve"
+            ],
+            "requirements": "Hiking boots, insect repellent, water bottle",
+            "safety": [
+              "Be aware of wildlife",
+              "Hire a local guide",
+              "Carry a first-aid kit"
+            ]
+          },
+          {
+            "name": "Osun-Osogbo Sacred Grove Trek",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "1-2 days",
+            "description": "Trek through the sacred grove, experiencing the spiritual significance of the site.",
+            "bestLocations": [
+              "Sacred Grove Entrance"
+            ],
+            "requirements": "Comfortable shoes, modest clothing",
+            "safety": [
+              "Respect local customs",
+              "Hire a local guide"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities along Nigeria’s extensive coastline and rivers.",
+        "activities": [
+          {
+            "name": "Surfing at Tarkwa Bay",
+            "difficulty": "Moderate",
+            "season": "November – February",
+            "duration": "1-3 days",
+            "description": "Learn to surf or improve your skills at Tarkwa Bay, a popular surfing destination.",
+            "bestLocations": [
+              "Tarkwa Bay"
+            ],
+            "requirements": "Surfboard, wetsuit (optional)",
+            "safety": [
+              "Be aware of currents",
+              "Use a lifeguard"
+            ]
+          },
+          {
+            "name": "River Cruises on the Niger",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "1-3 days",
+            "description": "Enjoy a relaxing cruise along the Niger River, observing wildlife and experiencing the local culture.",
+            "bestLocations": [
+              "Lokoja"
+            ],
+            "requirements": "Comfortable clothing",
+            "safety": [
+              "Follow the captain’s instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, swimwear, sunscreen",
+        "winter": "Layers of clothing, including a jacket and sweater",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Insect repellent, flashlight, first-aid kit",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

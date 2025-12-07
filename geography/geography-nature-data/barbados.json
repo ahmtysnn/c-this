@@ -1,0 +1,315 @@
+{
+  "name": "Barbados",
+  "region": "Caribbean",
+  "description": "Barbados, officially the Barbados Island Territory, is a stunning coral island nation located in the southeastern Caribbean Sea. Known for its pristine beaches, vibrant culture, and rich history, Barbados offers a unique blend of relaxation, adventure, and cultural experiences. The island boasts a diverse landscape, ranging from rolling hills and lush sugarcane fields to dramatic coastlines and underwater reefs.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Bridgetown",
+      "icon": "MapPin",
+      "description": "The historic capital of Barbados, a UNESCO World Heritage Site.",
+      "detail": "Bridgetown is a bustling port city with colonial architecture and a lively atmosphere."
+    },
+    {
+      "label": "Population",
+      "value": "282,000",
+      "icon": "Users",
+      "description": "The population of Barbados is approximately 282,000.",
+      "detail": "The majority of the population is of African descent, with significant British and other Caribbean influences."
+    },
+    {
+      "label": "Area",
+      "value": "430 sq km (166 sq mi)",
+      "icon": "Globe",
+      "description": "Barbados is a relatively small island nation.",
+      "detail": "It’s the easternmost island of the Caribbean chain."
+    },
+    {
+      "label": "Currency",
+      "value": "Barbadian Dollar (BBD)",
+      "icon": "Coffee",
+      "description": "The official currency of Barbados.",
+      "detail": "The BBD is pegged to the US Dollar at a rate of 2:1."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "English is the official language of Barbados.",
+      "detail": "However, a variety of Creole dialects are widely spoken."
+    },
+    {
+      "label": "Independence",
+      "value": "November 30, 1966",
+      "icon": "Calendar",
+      "description": "Barbados gained independence from the United Kingdom.",
+      "detail": "It became a republic in 1978."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Barbados enjoys a tropical climate with consistently warm temperatures and high humidity throughout the year. The island experiences two main seasons: the dry season (December to April) and the wet season (May to November).",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December – April",
+        "description": "The dry season is characterized by sunny skies, low humidity, and minimal rainfall. It’s the most popular time to visit Barbados.",
+        "keyFeatures": [
+          "Low humidity",
+          "Sunny days",
+          "Calm seas"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Water sports",
+          "Hiking",
+          "Exploring historical sites"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May – November",
+        "description": "The wet season brings increased rainfall, particularly in the afternoons. However, showers are typically short-lived, and the island remains warm and sunny.",
+        "keyFeatures": [
+          "Rainy afternoons",
+          "Green landscapes",
+          "Whale watching season"
+        ],
+        "activities": [
+          "Snorkeling",
+          "Diving",
+          "Rainforest hikes",
+          "Cultural events"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Harrison's Cave",
+      "category": "Geological Wonder",
+      "description": "Harrison's Cave is a spectacular subterranean cave system filled with stunning stalactites, stalagmites, and underground streams. It’s a truly unforgettable experience.",
+      "detailedDescription": "The cave was formed over millions of years by the flow of groundwater through limestone. Guided tours take visitors through a series of chambers and passages, showcasing the cave's incredible beauty.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "St. Lawrence Gap"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes",
+        "Bring a camera",
+        "Book your tour in advance"
+      ],
+      "scientificData": {
+        "Depth": "120m",
+        "Formation Age": "2M years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Bathsheba",
+      "category": "Coastal Feature",
+      "description": "Bathsheba is a dramatic and rugged coastline on the eastern end of Barbados, known for its powerful waves and stunning rock formations.",
+      "detailedDescription": "The area is a popular spot for surfing and offers breathtaking views of the Atlantic Ocean. The sea stacks, known as 'The Alley', are a particularly iconic feature.",
+      "bestTime": "November – April",
+      "bestLocations": [
+        "East Coast"
+      ],
+      "viewingTips": [
+        "Be aware of strong currents",
+        "Respect the waves",
+        "Enjoy the sunset"
+      ],
+      "scientificData": {
+        "Wave Height": "Average 3-5m",
+        "Rock Formation Age": "50M years"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Barbados Ecosystems",
+    "overview": "Barbados boasts a diverse range of ecosystems, including coral reefs, mangrove forests, seagrass beds, and dry forests. These ecosystems support a rich variety of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine Biodiversity",
+        "icon": "Fish",
+        "description": "Barbados’ coral reefs are home to a vast array of marine life, including colorful fish, sea turtles, and dolphins.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 30",
+            "details": "Diverse coral species contribute to the reef's health."
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 200",
+            "details": "A wide variety of fish inhabit the reefs."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Loggerhead Turtle",
+            "status": "Endangered",
+            "significance": "A key indicator of reef health."
+          },
+          {
+            "name": "Humpback Whale",
+            "status": "Migratory",
+            "significance": "Breeds in Barbados’ warm waters."
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine Protected Areas",
+          "Coral restoration projects"
+        ]
+      },
+      {
+        "name": "Forest Biodiversity",
+        "icon": "Leaf",
+        "description": "Barbados’ dry forests are home to a unique collection of trees and plants adapted to the island’s dry climate.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Approximately 80",
+            "details": "Many endemic species are found in the dry forests."
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 150",
+            "details": "Barbados is a birdwatcher’s paradise."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Barbados Red Mango",
+            "status": "Endangered",
+            "significance": "A unique tree species found only in Barbados."
+          },
+          {
+            "name": "Yellow Warbler",
+            "status": "Near Threatened",
+            "significance": "A migratory bird that breeds in Barbados."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Tree planting programs",
+          "Protected forest reserves"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Barbados Activities",
+    "description": "Barbados offers a wide range of activities for visitors of all interests and abilities.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Barbados’ scenic trails and discover hidden waterfalls.",
+        "activities": [
+          {
+            "name": "Hamoa Trail Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "A popular hike through the Welchman Hall Gully, showcasing stunning tropical vegetation.",
+            "bestLocations": [
+              "St. Lawrence Gap"
+            ],
+            "requirements": "Comfortable hiking shoes, water bottle",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of slippery surfaces"
+            ]
+          },
+          {
+            "name": "Morris Bay Trail",
+            "difficulty": "Hard",
+            "season": "Dry Season",
+            "duration": "4-6 hours",
+            "description": "A challenging hike through the interior of the island, offering panoramic views.",
+            "bestLocations": [
+              "West Coast"
+            ],
+            "requirements": "Sturdy hiking boots, plenty of water, insect repellent",
+            "safety": [
+              "Bring a guide",
+              "Be prepared for uneven terrain"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of Barbados with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "Explore Barbados’ vibrant coral reefs and encounter diverse marine life.",
+            "bestLocations": [
+              "West Coast",
+              "South Coast"
+            ],
+            "requirements": "Certification, wetsuit (optional)",
+            "safety": [
+              "Follow dive guidelines",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Surfing",
+            "difficulty": "Easy – Expert",
+            "season": "November – April",
+            "duration": "1-3 hours",
+            "description": "Catch the waves at Bathsheba or Accra Beach.",
+            "bestLocations": [
+              "Bathsheba",
+              "Accra Beach"
+            ],
+            "requirements": "Surfboard, wetsuit (recommended)",
+            "safety": [
+              "Be aware of strong currents",
+              "Surf with a buddy"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Light jacket, long-sleeved shirts, sweater",
+        "yearRound": "Comfortable clothing, sandals, walking shoes"
+      },
+      "equipment": {
+        "basic": "Sunglasses, insect repellent, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

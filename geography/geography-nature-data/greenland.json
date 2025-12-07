@@ -1,0 +1,346 @@
+{
+  "CountryData": {
+    "name": "Greenland",
+    "region": "Arctic",
+    "description": "Greenland, the world’s largest island, is a land of dramatic landscapes, immense glaciers, and unique wildlife. Located between the Arctic and Atlantic Oceans, it’s a sparsely populated territory of the Kingdom of Denmark, characterized by its vast ice sheet, towering mountains, and fjords.  Its indigenous population, the Inuit, have a deep connection to the land and its resources, and the island is experiencing significant climate change impacts.",
+    "quickFacts": [
+      {
+        "label": "Area",
+        "value": "2.166 million km²",
+        "icon": "MapPin",
+        "description": "Larger than Western Europe.",
+        "detail": "It’s the world’s largest island, covering an area roughly equivalent to three times the size of the United Kingdom."
+      },
+      {
+        "label": "Population",
+        "value": "56,000",
+        "icon": "Users",
+        "description": "Mostly Inuit and Danish.",
+        "detail": "The population is concentrated along the coast, with most residents living in towns and villages."
+      },
+      {
+        "label": "Capital",
+        "value": "Nuuk",
+        "icon": "MapPin",
+        "description": "Greenland’s largest city.",
+        "detail": "Nuuk is the political and cultural center of Greenland."
+      },
+      {
+        "label": "Official Language",
+        "value": "Greenlandic & Danish",
+        "icon": "Globe",
+        "description": "Two official languages are spoken.",
+        "detail": "Greenlandic is an Inuit-based language, while Danish is used in government and education."
+      },
+      {
+        "label": "GDP",
+        "value": "$8.3 billion (2023)",
+        "icon": "Coffee",
+        "description": "Primarily reliant on natural resources.",
+        "detail": "The economy is heavily influenced by the extraction of minerals, fishing, and tourism."
+      },
+      {
+        "label": "Highest Point",
+        "value": "2,589 m (Gunnbjørn)",
+        "icon": "Mountain",
+        "description": "Gunnbjørn Peak is the highest point.",
+        "detail": "Located in the northwest of Greenland."
+      }
+    ],
+    "climateData": {
+      "title": "Arctic Climate",
+      "description": "Greenland experiences a polar climate, characterized by long, cold winters and short, cool summers.  The vast ice sheet significantly moderates temperatures, but climate change is causing rapid warming and melting.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Winter (December - February)",
+          "period": "6 months",
+          "description": "Long, dark, and extremely cold.  Temperatures typically range from -15°C to -30°C.",
+          "keyFeatures": [
+            "Persistent darkness",
+            "Ice and snow cover",
+            "Aurora Borealis (Northern Lights) sightings"
+          ],
+          "activities": [
+            "Dog sledding",
+            "Ice fishing",
+            "Northern Lights viewing"
+          ]
+        },
+        {
+          "name": "Spring (March - May)",
+          "period": "3 months",
+          "description": "Slowly increasing daylight hours and rising temperatures.  Melting snow and ice create stunning landscapes.",
+          "keyFeatures": [
+            "Melting ice",
+            "Increased wildlife activity",
+            "Longer daylight hours"
+          ],
+          "activities": [
+            "Hiking",
+            "Wildlife watching",
+            "Boat tours"
+          ]
+        },
+        {
+          "name": "Summer (June - August)",
+          "period": "3 months",
+          "description": "The warmest months, with average temperatures around 5°C to 10°C.  The midnight sun illuminates the landscape for weeks.",
+          "keyFeatures": [
+            "Midnight sun",
+            "Warmest temperatures",
+            "Abundant daylight"
+          ],
+          "activities": [
+            "Hiking",
+            "Kayaking",
+            "Fishing",
+            "Camping"
+          ]
+        },
+        {
+          "name": "Autumn (September - November)",
+          "period": "3 months",
+          "description": "Decreasing daylight hours and falling temperatures.  The landscape transforms into a beautiful tapestry of autumn colors.",
+          "keyFeatures": [
+            "Falling leaves",
+            "Reduced daylight",
+            "Wildlife preparing for winter"
+          ],
+          "activities": [
+            "Wildlife watching",
+            "Photography",
+            "Hiking"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Ilulissat Icefjord",
+        "category": "Glacial Landscape",
+        "description": "A UNESCO World Heritage Site, the Ilulissat Icefjord is a breathtaking spectacle of massive icebergs breaking off from the Sermeq Kujalleq glacier and drifting towards the sea. The fjord’s dramatic scenery and unique wildlife make it a truly unforgettable destination.",
+        "detailedDescription": "The icefjord is formed by the Sermeq Kujalleq glacier, one of the fastest-moving glaciers in the world. The icebergs, ranging in size from small to enormous, are sculpted by the wind and waves into fantastical shapes.  The area is home to seals, whales, and various seabirds.",
+        "bestTime": "June - August",
+        "bestLocations": [
+          "Ilulissat",
+          "Boat tours"
+        ],
+        "viewingTips": [
+          "Book boat tours in advance",
+          "Dress warmly",
+          "Bring binoculars"
+        ],
+        "scientificData": {
+          "Iceberg Size": "Up to 100m long",
+          "Glacier Speed": "Up to 40 km/h",
+          "Age of Ice": "Hundreds of years"
+        },
+        "icon": "Droplets"
+      },
+      {
+        "id": 2,
+        "name": "Nikolaj Fjord",
+        "category": "Fjord",
+        "description": "One of Greenland’s longest and deepest fjords, Nikolaj Fjord offers stunning views of towering cliffs, glaciers, and abundant wildlife. It’s a popular destination for boat tours and kayaking.",
+        "detailedDescription": "The fjord stretches over 120 kilometers and plunges to depths of over 1,300 meters.  It’s characterized by its dramatic scenery, including sheer cliffs, cascading waterfalls, and numerous glaciers.  The fjord is home to a diverse range of marine life, including seals, whales, and seabirds.",
+        "bestTime": "June - August",
+        "bestLocations": [
+          "Nikolaj Fjord",
+          "Boat tours",
+          "Kayaking"
+        ],
+        "viewingTips": [
+          "Bring waterproof clothing",
+          "Look out for whales and seals",
+          "Respect the environment"
+        ],
+        "scientificData": {
+          "Depth": "Up to 1300m",
+          "Length": "120km",
+          "Glacier Coverage": "Significant glacial presence"
+        },
+        "icon": "MapPin"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Arctic Ecosystem",
+      "overview": "Greenland’s ecosystem is dominated by the Arctic tundra and ice sheet, supporting a unique array of plants and animals adapted to the harsh conditions.  The ecosystem is highly sensitive to climate change, with significant impacts on ice cover, permafrost, and wildlife populations.",
+      "conservationStatus": {
+        "protectedAreas": "15%",
+        "nationalParks": 12
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Marine Mammals",
+          "icon": "Fish",
+          "description": "Greenland’s waters are home to a diverse range of marine mammals, including whales, seals, and walruses.",
+          "statistics": [
+            {
+              "category": "Whales",
+              "count": "20",
+              "details": "Various species, including Humpback, Minke, and Beluga"
+            },
+            {
+              "category": "Seals",
+              "count": "100,000",
+              "details": "Ringed, Harp, and Bearded Seals"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Bowhead Whale",
+              "status": "Vulnerable",
+              "significance": "Longest migrating whale"
+            },
+            {
+              "name": "Walrus",
+              "status": "Near Threatened",
+              "significance": "Large social animals"
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Pollution"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas",
+            "Research and monitoring"
+          ]
+        },
+        {
+          "name": "Birds",
+          "icon": "Bird",
+          "description": "Greenland is a vital breeding ground for numerous migratory bird species.",
+          "statistics": [
+            {
+              "category": "Migratory Birds",
+              "count": "5 million",
+              "details": "Various species, including Arctic Terns and Puffins"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Arctic Tern",
+              "status": "Near Threatened",
+              "significance": "Longest migrating bird"
+            },
+            {
+              "name": "Puffin",
+              "status": "Vulnerable",
+              "significance": "Iconic seabird"
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Protected breeding sites",
+            "Monitoring populations"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities in Greenland",
+      "description": "Greenland offers a wide range of outdoor activities for adventure seekers and nature enthusiasts. From hiking and kayaking to dog sledding and whale watching, there’s something for everyone.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore Greenland’s stunning landscapes on foot.",
+          "activities": [
+            {
+              "name": "Coastal Hiking",
+              "difficulty": "Moderate",
+              "season": "Summer",
+              "duration": "1-5 days",
+              "description": "Hike along the dramatic coastline, taking in the views of glaciers, fjords, and wildlife.",
+              "bestLocations": [
+                "Ilulissat",
+                "Nuuk"
+              ],
+              "requirements": "Sturdy hiking boots, waterproof clothing, map and compass",
+              "safety": [
+                "Be aware of changing weather conditions",
+                "Stick to marked trails"
+              ]
+            },
+            {
+              "name": "Mountain Hiking",
+              "difficulty": "Hard",
+              "season": "Summer",
+              "duration": "2-7 days",
+              "description": "Challenge yourself with a hike to the summit of Greenland’s mountains.",
+              "bestLocations": [
+                "Troll Peak",
+                "Gunnbjørn Peak"
+              ],
+              "requirements": "Technical climbing gear, experience, guide",
+              "safety": [
+                "Avalanche risk",
+                "Altitude sickness"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Experience the icy waters of Greenland through various water sports.",
+          "activities": [
+            {
+              "name": "Kayaking",
+              "difficulty": "Moderate",
+              "season": "Summer",
+              "duration": "1-3 days",
+              "description": "Paddle through fjords and along the coastline, observing wildlife and enjoying the stunning scenery.",
+              "bestLocations": [
+                "Ilulissat Icefjord",
+                "Jakobshavn Fjord"
+              ],
+              "requirements": "Kayak, paddle, life jacket, waterproof clothing",
+              "safety": [
+                "Be aware of currents",
+                "Wear a life jacket"
+              ]
+            },
+            {
+              "name": "Whale Watching",
+              "difficulty": "Easy",
+              "season": "Summer",
+              "duration": "Half-day to full-day",
+              "description": "Observe whales in their natural habitat.",
+              "bestLocations": [
+                "Nuuk",
+                "Sisimiut"
+              ],
+              "requirements": "Binoculars, waterproof clothing",
+              "safety": [
+                "Respect the whales' space"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, waterproof jacket, hiking boots",
+          "winter": "Warm layers, insulated jacket, waterproof pants, hat, gloves, boots",
+          "yearRound": "Warm layers, waterproof jacket and pants, hat, gloves, scarf"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, sunscreen, insect repellent",
+          "hiking": "Hiking boots, trekking poles, map, compass, first-aid kit",
+          "photography": "Camera, extra batteries, waterproof case"
+        },
+        "safety": [
+          "Inform someone of your plans",
+          "Carry a satellite phone",
+          "Be prepared for changing weather conditions"
+        ]
+      }
+    }
+  }
+}

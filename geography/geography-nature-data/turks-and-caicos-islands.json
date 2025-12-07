@@ -1,0 +1,347 @@
+{
+  "name": "Turks and Caicos Islands",
+  "region": "Caribbean",
+  "description": "The Turks and Caicos Islands are a British Overseas Territory located in the north Atlantic Ocean, southeast of Bermuda and north of the Dominican Republic. Comprising hundreds of cays and islands, the archipelago is renowned for its pristine beaches, vibrant coral reefs, and abundant marine life. The islands boast a warm, tropical climate and a laid-back atmosphere, making them a popular destination for tourism and relaxation.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Grand Turk",
+      "icon": "MapPin",
+      "description": "The historic capital, a bustling port town.",
+      "detail": "Grand Turk is known for its iconic lighthouse and its role in the transatlantic slave trade."
+    },
+    {
+      "label": "Population",
+      "value": "60,883",
+      "icon": "Users",
+      "description": "A relatively small and closely-knit community.",
+      "detail": "The majority of the population resides on the main islands."
+    },
+    {
+      "label": "Currency",
+      "value": "Eastern Caribbean Dollar (XCD)",
+      "icon": "Coffee",
+      "description": "The official currency of the islands.",
+      "detail": "US dollars are widely accepted."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "The primary language spoken throughout the islands.",
+      "detail": "Creole dialects are also prevalent."
+    },
+    {
+      "label": "Area",
+      "value": "427.21 km²",
+      "icon": "Globe",
+      "description": "A relatively small island nation.",
+      "detail": "The largest island is Providenciales."
+    },
+    {
+      "label": "GDP",
+      "value": "$1.2 Billion (2022)",
+      "icon": "Zap",
+      "description": "Primarily driven by tourism.",
+      "detail": "Fishing and real estate also contribute to the economy."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "The Turks and Caicos Islands enjoy a consistently warm and humid tropical climate year-round. Trade winds provide a refreshing breeze, keeping temperatures comfortable.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "Warm & Humid",
+        "description": "The hottest and most humid months, with frequent showers.",
+        "keyFeatures": [
+          "High humidity",
+          "Rainy season",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Swimming",
+          "Snorkeling",
+          "Relaxing on the beach"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "Transition",
+        "description": "Temperatures begin to cool slightly, and rainfall decreases.",
+        "keyFeatures": [
+          "Decreasing rainfall",
+          "Pleasant temperatures",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Diving",
+          "Fishing",
+          "Exploring the islands"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "Dry Season",
+        "description": "The driest and mildest months, with sunny skies and comfortable temperatures.",
+        "keyFeatures": [
+          "Sunny days",
+          "Mild temperatures",
+          "Low humidity"
+        ],
+        "activities": [
+          "Boat trips",
+          "Sunset cruises",
+          "Water sports"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "Warm & Sunny",
+        "description": "Temperatures rise again, and the weather remains pleasant.",
+        "keyFeatures": [
+          "Increasing temperatures",
+          "Sunny days",
+          "Moderate humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Scuba diving"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Coral Reefs of the Turks and Caicos",
+      "category": "Marine Ecosystem",
+      "description": "The Turks and Caicos Islands boast some of the most pristine and diverse coral reefs in the Caribbean. These underwater ecosystems are teeming with vibrant marine life and offer incredible diving and snorkeling opportunities.",
+      "detailedDescription": "The reefs are home to a vast array of coral species, including elkhorn and staghorn corals, which are critically endangered. The surrounding waters are also rich in fish, sea turtles, and other marine creatures.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "West Caicos",
+        "Providenciales (Grace Bay)",
+        "North Caicos"
+      ],
+      "viewingTips": [
+        "Use reef-safe sunscreen",
+        "Avoid touching the coral",
+        "Respect the marine environment"
+      ],
+      "scientificData": {
+        "Coral Diversity": "Over 40 coral species",
+        "Fish Species": "Over 150 fish species",
+        "Depth": "Average reef depth: 10-30 meters"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 2,
+      "name": "Chalk Sound National Park",
+      "category": "Coastal Lagoon",
+      "description": "Chalk Sound is a stunning turquoise lagoon dotted with hundreds of small limestone islands and cays. Its unique color is due to the white limestone bedrock beneath the water.",
+      "detailedDescription": "The lagoon is a haven for marine life and a popular spot for boating, kayaking, and paddleboarding. The islands are covered in lush vegetation, providing a habitat for various bird species.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Providenciales"
+      ],
+      "viewingTips": [
+        "Take a boat tour to explore the lagoon",
+        "Rent a kayak or paddleboard",
+        "Look for birds and marine life"
+      ],
+      "scientificData": {
+        "Water Clarity": "Average visibility: 30 meters",
+        "Limestone Composition": "Primarily chalk and marl",
+        "Island Formation": "Erosion of limestone bedrock"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Marine Ecosystems",
+    "overview": "The Turks and Caicos Islands are dominated by marine ecosystems, including coral reefs, seagrass beds, and mangrove forests. These habitats provide essential resources for a diverse range of marine life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of the islands' marine areas are protected.",
+      "nationalParks": 0
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral Reefs",
+        "icon": "Leaf",
+        "description": "The foundation of the marine ecosystem, providing habitat and food for countless species.",
+        "statistics": [
+          {
+            "category": "Coral Cover",
+            "count": "Approximately 60%",
+            "details": "Significant coral cover supports a thriving marine community."
+          },
+          {
+            "category": "Fish Species",
+            "count": "Over 150",
+            "details": "A diverse range of fish species inhabit the reefs."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Queen Conch",
+            "status": "Vulnerable",
+            "significance": "A key component of the reef ecosystem and a valuable food source."
+          },
+          {
+            "name": "Hawksbill Turtle",
+            "status": "Endangered",
+            "significance": "An iconic species that plays a vital role in maintaining reef health."
+          }
+        ],
+        "threats": [
+          "Climate change",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral restoration projects",
+          "Sustainable fishing practices"
+        ]
+      },
+      {
+        "name": "Seagrass Beds",
+        "icon": "Droplets",
+        "description": "These underwater meadows provide nursery grounds for many marine species and help stabilize the seabed.",
+        "statistics": [
+          {
+            "category": "Seagrass Area",
+            "count": "Approximately 100 hectares",
+            "details": "Seagrass beds cover a significant portion of the islands' coastline."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Sea Turtles",
+            "status": "Threatened",
+            "significance": "Sea turtles rely on seagrass beds for food and shelter."
+          },
+          {
+            "name": "Manatees",
+            "status": "Endangered",
+            "significance": "Manatees graze on seagrass in the shallow waters."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Boat traffic"
+        ],
+        "conservationEfforts": [
+          "Coastal zone management",
+          "Seagrass restoration",
+          "Public awareness campaigns"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities",
+    "description": "The Turks and Caicos Islands offer a wide range of outdoor activities for visitors of all interests and abilities.",
+    "activityCategories": [
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Providenciales",
+              "North Caicos"
+            ],
+            "requirements": "Certification recommended",
+            "safety": [
+              "Dive with a certified instructor",
+              "Check equipment before diving"
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-3 hours",
+            "description": "Discover the beauty of the underwater world without diving.",
+            "bestLocations": [
+              "Grace Bay",
+              "Coral Gardens"
+            ],
+            "requirements": "None",
+            "safety": [
+              "Wear sunscreen",
+              "Stay within designated areas"
+            ]
+          },
+          {
+            "name": "Kayaking/Paddleboarding",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-3 hours",
+            "description": "Explore the calm waters of Chalk Sound and the surrounding cays.",
+            "bestLocations": [
+              "Chalk Sound",
+              "Little Water Cay"
+            ],
+            "requirements": "Life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hiking",
+        "icon": "Mountain",
+        "description": "Discover the natural beauty of the islands on foot.",
+        "activities": [
+          {
+            "name": "Taylor Bay Trail",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-2 hours",
+            "description": "A scenic trail through a mangrove forest.",
+            "bestLocations": [
+              "Providenciales"
+            ],
+            "requirements": "Comfortable shoes",
+            "safety": [
+              "Stay on the trail",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Light jacket, long-sleeved shirts, sweater, rain gear",
+        "yearRound": "Comfortable clothing, swimwear, sunglasses"
+      },
+      "equipment": {
+        "basic": "Sunglasses, sunscreen, hat, insect repellent",
+        "hiking": "Hiking boots, backpack, water bottle",
+        "photography": "Camera, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of the sun's intensity",
+        "Respect wildlife"
+      ]
+    }
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "name": "Eswatini",
+  "region": "Southern Africa",
+  "description": "Eswatini, formerly known as Swaziland, is a landlocked country in Southern Africa, renowned for its stunning natural beauty, rich cultural heritage, and commitment to sustainable tourism.  It’s a relatively small nation with a diverse landscape ranging from rolling hills and dramatic escarpments to lush subtropical forests and expansive grasslands.  Eswatini is a constitutional monarchy and a member of the Southern African Development Community (SADC).  It’s a country deeply rooted in tradition, with a strong emphasis on preserving its unique cultural identity and protecting its natural resources.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Mbabane",
+      "icon": "MapPin",
+      "description": "The political and administrative center of Eswatini.",
+      "detail": "Mbabane is a bustling city with a mix of modern and traditional architecture."
+    },
+    {
+      "label": "Population",
+      "value": "1,213,061",
+      "icon": "Users",
+      "description": "The total population of Eswatini as of 2023.",
+      "detail": "The population is predominantly of Nguni descent."
+    },
+    {
+      "label": "Area",
+      "value": "17,364 km²",
+      "icon": "Globe",
+      "description": "The land area of Eswatini.",
+      "detail": "It's one of the smallest countries in Africa."
+    },
+    {
+      "label": "Official Language",
+      "value": "Swazi",
+      "icon": "Leaf",
+      "description": "The national language of Eswatini.",
+      "detail": "English is also widely spoken and used in government and business."
+    },
+    {
+      "label": "Currency",
+      "value": "Lilangeni (SZL)",
+      "icon": "Coffee",
+      "description": "The currency of Eswatini.",
+      "detail": "1 USD is approximately 16.45 SZL (as of November 2, 2023)."
+    },
+    {
+      "label": "GDP (2023)",
+      "value": "$2.474 billion",
+      "icon": "Zap",
+      "description": "Eswatini's Gross Domestic Product.",
+      "detail": "The economy is largely reliant on agriculture and services."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Eswatini",
+    "description": "Eswatini experiences a subtropical climate, characterized by warm, humid summers and mild, dry winters. Rainfall is concentrated during the summer months, with significant regional variations.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (November - February)",
+        "period": "November - February",
+        "description": "This is the wettest season, with frequent afternoon showers and thunderstorms. Temperatures are consistently high, averaging between 24°C and 32°C.",
+        "keyFeatures": [
+          "High humidity",
+          "Heavy rainfall",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Waterfalls exploration",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Autumn (March - May)",
+        "period": "March - May",
+        "description": "Temperatures begin to cool down, and rainfall decreases. The landscape transforms into a vibrant display of autumn colors.",
+        "keyFeatures": [
+          "Pleasant temperatures",
+          "Decreasing rainfall",
+          "Autumn foliage"
+        ],
+        "activities": [
+          "Wildlife viewing",
+          "Birdwatching",
+          "Scenic drives"
+        ]
+      },
+      {
+        "name": "Winter (June - August)",
+        "period": "June - August",
+        "description": "This is the driest season, with sunny days and cool temperatures. Temperatures average between 16°C and 24°C.",
+        "keyFeatures": [
+          "Dry conditions",
+          "Cool temperatures",
+          "Sunny days"
+        ],
+        "activities": [
+          "Hiking",
+          "Cultural tours",
+          "Exploring markets"
+        ]
+      },
+      {
+        "name": "Spring (September - October)",
+        "period": "September - October",
+        "description": "Temperatures rise again, and rainfall increases. Wildflowers bloom, creating a beautiful landscape.",
+        "keyFeatures": [
+          "Increasing rainfall",
+          "Warm temperatures",
+          "Wildflowers"
+        ],
+        "activities": [
+          "Hiking",
+          "Wildlife viewing",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Ezulwini Highlands",
+      "category": "Mountain Range",
+      "description": "The Ezulwini Highlands, meaning 'Valley of the Wind,' are a stunning series of rolling hills and plateaus that dominate the central part of Eswatini. They offer breathtaking panoramic views and are home to numerous traditional villages and cultural sites.",
+      "detailedDescription": "These highlands are characterized by fertile soil and a diverse range of flora and fauna. The area is steeped in history and tradition, with many Nguni people still living in traditional homesteads.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Mbabane",
+        "Manzini",
+        "Lobabane"
+      ],
+      "viewingTips": [
+        "Hire a local guide to learn about the area's history and culture.",
+        "Wear comfortable walking shoes.",
+        "Bring sunscreen and a hat."
+      ],
+      "scientificData": {
+        "Elevation": "800m - 1,862m",
+        "GeologicalFormation": "Folded sedimentary rocks"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Ngwenya Rock Formations",
+      "category": "Geological Formation",
+      "description": "Ngwenya Rock Formations are a remarkable group of sandstone cliffs and arches located in the remote western part of Eswatini. These ancient formations are a testament to the power of erosion and offer a unique landscape for exploration.",
+      "detailedDescription": "The formations are estimated to be around 360 million years old and are a significant geological site. They are a popular destination for hikers and photographers.",
+      "bestTime": "May - September",
+      "bestLocations": [
+        "Ngwenya Village"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots.",
+        "Bring plenty of water.",
+        "Be aware of the steep terrain."
+      ],
+      "scientificData": {
+        "Age": "360 million years",
+        "RockType": "Sandstone"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Malantje Falls",
+      "category": "Waterfall",
+      "description": "Malantje Falls is a spectacular waterfall cascading down a sheer cliff face in the remote Lubombo Mountains. It's a hidden gem offering a refreshing escape and stunning natural beauty.",
+      "detailedDescription": "The falls are surrounded by lush vegetation and provide a habitat for diverse wildlife. The area is relatively untouched and offers a sense of tranquility.",
+      "bestTime": "June - August",
+      "bestLocations": [
+        "Lubombo Mountains"
+      ],
+      "viewingTips": [
+        "Wear waterproof clothing.",
+        "Bring insect repellent.",
+        "Respect the environment."
+      ],
+      "scientificData": {
+        "Height": "90m",
+        "FlowRate": "Variable depending on rainfall"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Flora",
+    "icon": "Leaf",
+    "description": "Eswatini boasts a rich and diverse flora, encompassing subtropical forests, grasslands, and unique endemic plant species. The country's varied climate and topography contribute to this botanical richness.",
+    "statistics": [
+      {
+        "category": "Endemic Species",
+        "count": "Approximately 50",
+        "details": "Eswatini is home to a significant number of plant species found nowhere else on Earth."
+      },
+      {
+        "category": "Forest Cover",
+        "count": "Approximately 25%",
+        "details": "The country's forests play a crucial role in carbon sequestration and biodiversity conservation."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Eswatini Rosewood (Dalbergia eugeniae)",
+        "status": "Endangered",
+        "significance": "A valuable timber species and an important component of the forest ecosystem."
+      },
+      {
+        "name": "Giant Strelitzia (Strelitzia reginae)",
+        "status": "Vulnerable",
+        "significance": "Known as the Bird of Paradise, this iconic plant is a symbol of Eswatini's natural beauty."
+      }
+    ],
+    "threats": [
+      "Habitat loss",
+      "Illegal logging",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Protected area management",
+      "Sustainable forestry practices",
+      "Community-based conservation"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Ecosystems of Eswatini",
+    "overview": "Eswatini’s ecosystems are remarkably diverse, ranging from montane forests and grasslands to wetlands and dry savanna. These ecosystems support a wide array of plant and animal life, contributing significantly to the country’s biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Eswatini is home to a variety of mammals, birds, reptiles, and amphibians, including elephants, black rhinos, antelopes, and numerous bird species.",
+        "statistics": [
+          {
+            "category": "Mammal Species",
+            "count": "34",
+            "details": "Includes iconic species like the black and white rhino and the African elephant."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Black Rhino (Diceros bicornis)",
+            "status": "Critically Endangered",
+            "significance": "A flagship species for conservation efforts in Eswatini."
+          },
+          {
+            "name": "African Elephant (Loxodonta africana)",
+            "status": "Vulnerable",
+            "significance": "A keystone species that plays a vital role in maintaining ecosystem health."
+          }
+        ],
+        "threats": [
+          "Poaching",
+          "Habitat loss",
+          "Human-wildlife conflict"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community-based conservation programs",
+          "Transboundary conservation initiatives"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Eswatini",
+    "description": "Eswatini offers a wide range of activities for visitors, catering to diverse interests and fitness levels. From adventurous hikes to cultural experiences, there's something for everyone.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Eswatini’s stunning landscapes on foot, from the Ezulwini Highlands to the Lubombo Mountains.",
+        "activities": [
+          {
+            "name": "Ezulwini Highlands Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-6 hours",
+            "description": "A scenic hike through the Ezulwini Highlands, offering panoramic views and opportunities to spot wildlife.",
+            "bestLocations": [
+              "Ezulwini"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen.",
+            "safety": [
+              "Stay on marked trails.",
+              "Be aware of wildlife.",
+              "Inform someone of your hiking plans."
+            ]
+          },
+          {
+            "name": "Lubombo Mountains Trek",
+            "difficulty": "Hard",
+            "season": "May - September",
+            "duration": "1-3 days",
+            "description": "A challenging trek through the rugged Lubombo Mountains, offering a rewarding experience for experienced hikers.",
+            "bestLocations": [
+              "Lubombo Mountains"
+            ],
+            "requirements": "Hiking boots, tent, sleeping bag, water purification system.",
+            "safety": [
+              "Carry a map and compass.",
+              "Be prepared for unpredictable weather.",
+              "Hire a local guide."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities on Eswatini’s rivers and lakes.",
+        "activities": [
+          {
+            "name": "River Tubing",
+            "difficulty": "Easy",
+            "season": "November - April",
+            "duration": "2-4 hours",
+            "description": "A relaxing float down a gentle river, perfect for families and beginners.",
+            "bestLocations": [
+              "Sivumbi River"
+            ],
+            "requirements": "Life jacket, sunscreen.",
+            "safety": [
+              "Follow the instructions of the tubing operator.",
+              "Stay within designated areas."
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat.",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves.",
+        "yearRound": "Comfortable walking shoes, insect repellent."
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses.",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Respect local customs and traditions.",
+        "Obey traffic laws.",
+        "Drink bottled water.",
+        "Be aware of your surroundings."
+      ]
+    }
+  }
+}

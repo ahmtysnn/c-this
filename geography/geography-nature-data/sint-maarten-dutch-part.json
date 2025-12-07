@@ -1,0 +1,345 @@
+{
+  "name": "Sint Maarten (Dutch part)",
+  "region": "Caribbean",
+  "description": "Sint Maarten (Dutch part) is an island nation in the Caribbean, characterized by its diverse landscapes, ranging from pristine beaches and coral reefs to mountainous interior regions.  It boasts a unique blend of Dutch and Caribbean cultures, reflected in its architecture, cuisine, and traditions. The island is known for its vibrant marine life, lush tropical forests, and significant historical importance as a former Dutch colony.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Philipsburg",
+      "icon": "MapPin",
+      "description": "The bustling capital and main port of entry.",
+      "detail": "Philipsburg offers a mix of duty-free shopping, historical sites, and waterfront dining."
+    },
+    {
+      "label": "Population",
+      "value": "40,000",
+      "icon": "Users",
+      "description": "A relatively small and tightly-knit community.",
+      "detail": "The population is comprised of a mix of Dutch, Caribbean, and other international residents."
+    },
+    {
+      "label": "Currency",
+      "value": "Antillean Guilder (ANG) & Netherlands Antillean Dollar (NXM)",
+      "icon": "Coffee",
+      "description": "Dual currency system reflecting the island's status.",
+      "detail": "The Guilder is the official currency, but the NXM is widely accepted."
+    },
+    {
+      "label": "Official Language",
+      "value": "Dutch, English",
+      "icon": "Globe",
+      "description": "Dutch is the official language, but English is widely spoken.",
+      "detail": "A significant portion of the population speaks Papiamento, a Creole language."
+    },
+    {
+      "label": "Area",
+      "value": "51 km²",
+      "icon": "MapPin",
+      "description": "A small but densely populated island.",
+      "detail": "The island is geographically diverse, with a mountainous core and low-lying coastal plains."
+    },
+    {
+      "label": "Highest Point",
+      "value": "Mount Little John",
+      "icon": "Mountain",
+      "description": "The highest point on the island.",
+      "detail": "Reaching 374 meters (1,227 ft), it offers panoramic views."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Marine Climate",
+    "description": "Sint Maarten enjoys a tropical marine climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is relatively evenly distributed, with a distinct wet season.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "The hottest and most humid period, with frequent showers.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent showers",
+          "Warm temperatures"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Water sports",
+          "Boat tours"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "A transitional season with decreasing rainfall and pleasant temperatures.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Pleasant temperatures",
+          "Reduced humidity"
+        ],
+        "activities": [
+          "Hiking",
+          "Scuba diving",
+          "Snorkeling"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "The coolest and driest season, with comfortable temperatures.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Low rainfall",
+          "Sunny days"
+        ],
+        "activities": [
+          "Sightseeing",
+          "Shopping",
+          "Culinary experiences"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Temperatures begin to rise again, and rainfall increases slightly.",
+        "keyFeatures": [
+          "Increasing temperatures",
+          "Moderate rainfall",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Outdoor activities",
+          "Nature walks",
+          "Birdwatching"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Betsie's Hope",
+      "category": "Coastal Formation",
+      "description": "Betsie's Hope is a dramatic coastal cliff formation located on the western side of the island.  Formed by centuries of wave erosion, it presents a stunning display of layered limestone and offers breathtaking views of the Atlantic Ocean.",
+      "detailedDescription": "The cliffs are particularly impressive during high tide, showcasing the raw power of the ocean.  The area is also home to a diverse array of seabirds and marine life.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Western Coast",
+        "Hiking Trails"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes for hiking",
+        "Bring binoculars for birdwatching",
+        "Check tide charts"
+      ],
+      "scientificData": {
+        "Height": "70m",
+        "Age": "150M years",
+        "RockType": "Limestone"
+      },
+      "icon": "Wind"
+    },
+    {
+      "id": 2,
+      "name": "Washington Mountain",
+      "category": "Mountain Range",
+      "description": "Washington Mountain, the highest point on Sint Maarten, offers spectacular panoramic views of the island and surrounding Caribbean Sea. Its rugged terrain and diverse ecosystem make it a popular destination for hikers and nature enthusiasts.",
+      "detailedDescription": "The mountain is covered in lush tropical vegetation, including mahogany trees and various species of orchids.  It's also home to a variety of endemic bird species.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Hiking Trails",
+        "Observation Points"
+      ],
+      "viewingTips": [
+        "Start early to avoid the heat",
+        "Bring plenty of water",
+        "Wear appropriate hiking gear"
+      ],
+      "scientificData": {
+        "Height": "374m",
+        "ElevationGain": "300m",
+        "Vegetation": "Tropical Rainforest"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Tropical Rainforest Ecosystem",
+    "overview": "Sint Maarten’s interior is dominated by a tropical rainforest ecosystem, characterized by high rainfall, warm temperatures, and incredible biodiversity. This ecosystem plays a crucial role in regulating the island’s climate and providing habitat for a wide range of plant and animal species.",
+    "conservationStatus": {
+      "protectedAreas": "10%",
+      "nationalParks": 1
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "A rich diversity of tropical plants, including mahogany, mango, and various species of orchids.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "150+",
+            "details": "Numerous endemic and introduced tree species"
+          },
+          {
+            "category": "Orchid Species",
+            "count": "50+",
+            "details": "A significant number of orchid species found only on Sint Maarten"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Mahogany",
+            "status": "Endangered",
+            "significance": "A valuable timber species and a symbol of the island's natural heritage"
+          },
+          {
+            "name": "Black Orchid",
+            "status": "Vulnerable",
+            "significance": "A rare and beautiful orchid species"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Reforestation programs"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "A diverse array of bird species, reptiles, and invertebrates inhabit the island’s rainforests.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "80+",
+            "details": "Numerous endemic and migratory bird species"
+          },
+          {
+            "category": "Reptile Species",
+            "count": "20+",
+            "details": "Various lizard and snake species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Sint Maarten Parrot",
+            "status": "Endangered",
+            "significance": "A unique parrot species endemic to the island"
+          },
+          {
+            "name": "Green Iguana",
+            "status": "Least Concern",
+            "significance": "A common reptile found in the rainforests"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal wildlife trade"
+        ],
+        "conservationEfforts": [
+          "Wildlife monitoring programs",
+          "Anti-poaching patrols"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures",
+    "description": "Sint Maarten offers a wide range of outdoor activities for all interests and skill levels, from relaxing on pristine beaches to exploring the island’s rugged interior.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s mountainous terrain and lush rainforests.",
+        "activities": [
+          {
+            "name": "Washington Mountain Trail",
+            "difficulty": "Moderate",
+            "season": "December - April",
+            "duration": "3-4 hours",
+            "description": "A challenging hike to the summit of Washington Mountain, offering stunning panoramic views.",
+            "bestLocations": [
+              "Washington Mountain"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Queen's Quarter Trail",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "A scenic trail through the rainforest, leading to a historic plantation.",
+            "bestLocations": [
+              "Queen's Quarter"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Watch for slippery surfaces"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water activities in the island’s turquoise waters.",
+        "activities": [
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "Pinewood Cove",
+              "Great Bay"
+            ],
+            "requirements": "Certification, snorkeling gear",
+            "safety": [
+              "Follow dive guidelines",
+              "Respect marine life"
+            ]
+          },
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-3 hours",
+            "description": "Discover the beauty of the coral reefs without diving.",
+            "bestLocations": [
+              "Pinewood Cove",
+              "Orient Bay"
+            ],
+            "requirements": "Snorkeling gear",
+            "safety": [
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Layers of clothing, light jacket, rain gear",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of wildlife",
+        "Follow local regulations"
+      ]
+    }
+  }
+}

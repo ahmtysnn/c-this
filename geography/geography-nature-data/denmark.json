@@ -1,0 +1,371 @@
+{
+  "name": "Denmark",
+  "region": "Northern Europe",
+  "description": "Denmark, officially the Kingdom of Denmark, is a Scandinavian country with a rich history, vibrant culture, and stunning natural landscapes. Known for its design, innovation, and commitment to sustainability, Denmark boasts a unique blend of urban sophistication and rural charm. From the rolling hills of Zealand to the rugged coastline of Jutland, Denmark offers a diverse range of experiences for visitors and residents alike.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "5.93 million",
+      "icon": "Users",
+      "description": "Denmark has a relatively small but highly educated and engaged population.",
+      "detail": "The population density is one of the highest in Europe, largely due to its compact size and urbanized areas."
+    },
+    {
+      "label": "Capital",
+      "value": "Copenhagen",
+      "icon": "MapPin",
+      "description": "Copenhagen is a global city renowned for its design, culture, and quality of life.",
+      "detail": "It's consistently ranked as one of the world's most livable cities."
+    },
+    {
+      "label": "Area",
+      "value": "43,094 km²",
+      "icon": "Globe",
+      "description": "Denmark comprises approximately 40% offshore territory.",
+      "detail": "The majority of the landmass is relatively flat, with some rolling hills and coastal plains."
+    },
+    {
+      "label": "Official Language",
+      "value": "Danish",
+      "icon": "ArrowRight",
+      "description": "Danish is a North Germanic language.",
+      "detail": "English is widely spoken and understood, particularly in urban areas."
+    },
+    {
+      "label": "Currency",
+      "value": "Danish Krone (DKK)",
+      "icon": "Coffee",
+      "description": "The Danish currency is the Krone.",
+      "detail": "It's a relatively stable currency within the Eurozone."
+    },
+    {
+      "label": "GDP",
+      "value": "USD 367.7 billion (2023)",
+      "icon": "Zap",
+      "description": "Denmark has a high GDP per capita.",
+      "detail": "It's a developed economy with a strong focus on renewable energy and technology."
+    }
+  ],
+  "climateData": {
+    "title": "Temperate Maritime Climate",
+    "description": "Denmark experiences a temperate maritime climate characterized by cool summers and mild winters. The North Sea and Baltic Sea significantly influence the weather, resulting in relatively consistent temperatures and high humidity levels throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with blossoming flowers and vibrant greenery. Rainfall is common, and temperatures slowly rise.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Increased daylight hours",
+          "Rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening"
+        ]
+      },
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Summer is the warmest and driest season, with long daylight hours and pleasant temperatures. It's a popular time for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Long daylight hours",
+          "Festivals"
+        ],
+        "activities": [
+          "Swimming",
+          "Beach activities",
+          "Outdoor concerts"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and colorful foliage. Rainfall increases, and the days become shorter.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Rainfall",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Harvest festivals"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Winter is the coldest season, with occasional snowfall. Temperatures can drop below freezing, and daylight hours are short.",
+        "keyFeatures": [
+          "Snowfall",
+          "Short daylight hours",
+          "Christmas markets"
+        ],
+        "activities": [
+          "Skiing",
+          "Ice skating",
+          "Visiting Christmas markets"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "The Wadden Sea",
+      "category": "Coastal Ecosystem",
+      "description": "The Wadden Sea is a unique intertidal ecosystem located along the North Sea coast of Denmark and Germany. It's a UNESCO World Heritage Site and a vital breeding ground for numerous bird species.",
+      "detailedDescription": "This dynamic ecosystem is shaped by the tides, creating a series of mudflats, sandbanks, and shallow waters. It's a haven for migratory birds and a crucial part of the North Sea's biodiversity.",
+      "bestTime": "Spring and Autumn (migration season)",
+      "bestLocations": [
+        "Rømø",
+        "Tønslegaard"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching",
+        "Wear waterproof clothing",
+        "Respect the fragile ecosystem"
+      ],
+      "scientificData": {
+        "Area": "2500 km²",
+        "Depth": "Maximum depth 15 meters",
+        "Salinity": "Varies with tides"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 2,
+      "name": "Mols Bjerge National Park",
+      "category": "Mountain Range",
+      "description": "Mols Bjerge National Park is a dramatic landscape of rolling hills, heather moorland, and coastal cliffs, offering stunning views and diverse wildlife.",
+      "detailedDescription": "The park is characterized by its unique geological formations, shaped by glacial activity. It's home to a variety of plant and animal species, including the Danish heath hen.",
+      "bestTime": "Summer (hiking and sightseeing)",
+      "bestLocations": [
+        "Halsbjerg",
+        "Mols Bjerge Visitor Centre"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring a map and compass",
+        "Respect the natural environment"
+      ],
+      "scientificData": {
+        "Height": "228m (highest point)",
+        "Age": "Approximately 10,000 years (glacial formation)"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "The Great Belt",
+      "category": "Estuary",
+      "description": "The Great Belt is a large estuary separating Zealand and Funen. It's a vital waterway for shipping and a rich habitat for marine life.",
+      "detailedDescription": "The complex network of channels and islands within the Great Belt creates a diverse range of habitats, supporting a wide variety of fish, birds, and marine mammals. It's a significant area for navigation and recreation.",
+      "bestTime": "Spring and Summer (birdwatching)",
+      "bestLocations": [
+        "Skagen",
+        "Røj",
+        "Storebæltsbroen"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching",
+        "Take a boat tour",
+        "Observe the shipping traffic"
+      ],
+      "scientificData": {
+        "Length": "32 km",
+        "Width": "40 km",
+        "WaterVolume": "2.5 billion cubic meters"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Danish Ecosystems",
+    "overview": "Denmark's ecosystems are remarkably diverse, ranging from coastal wetlands and sandy beaches to extensive forests and moorlands. These ecosystems support a rich variety of plant and animal life, contributing significantly to the country's biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Denmark's forests cover approximately 25% of the country's land area, providing habitat for a wide range of wildlife and playing a crucial role in carbon sequestration.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Around 100",
+            "details": "Including beech, oak, and pine"
+          },
+          {
+            "category": "Forest Area",
+            "count": "1.2 million hectares",
+            "details": "Managed for timber production and biodiversity"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Roe Deer",
+            "status": "Near Threatened",
+            "significance": "A key prey species for predators"
+          },
+          {
+            "name": "Black Grouse",
+            "status": "Vulnerable",
+            "significance": "A symbol of Danish wilderness"
+          }
+        ],
+        "threats": [
+          "Forest fires",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Habitat restoration"
+        ]
+      },
+      {
+        "name": "Coastal Wetlands",
+        "icon": "Leaf",
+        "description": "Denmark's coastal wetlands, including mudflats, salt marshes, and sand dunes, are vital habitats for migratory birds and other wildlife.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "150,000 hectares",
+            "details": "Highly vulnerable to sea-level rise"
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 200",
+            "details": "Important stopover sites for migratory birds"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Eurasian Teal",
+            "status": "Least Concern",
+            "significance": "A common migratory bird"
+          },
+          {
+            "name": "Grey Plover",
+            "status": "Vulnerable",
+            "significance": "A sensitive shorebird"
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Coastal protection measures",
+          "Water quality management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Denmark",
+    "description": "Denmark offers a wide range of outdoor activities for all interests and skill levels, from hiking and cycling to water sports and wildlife watching.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Denmark's diverse landscapes on foot, from rolling hills to rugged coastlines.",
+        "activities": [
+          {
+            "name": "Coastal Hiking",
+            "difficulty": "Moderate",
+            "season": "Spring-Autumn",
+            "duration": "2-6 hours",
+            "description": "Hike along the scenic Danish coast, enjoying breathtaking views and diverse wildlife.",
+            "bestLocations": [
+              "Skagen",
+              "Thy"
+            ],
+            "requirements": "Sturdy hiking boots, waterproof clothing, map and compass",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your route"
+            ]
+          },
+          {
+            "name": "Forest Hiking",
+            "difficulty": "Easy-Moderate",
+            "season": "Spring-Autumn",
+            "duration": "1-4 hours",
+            "description": "Discover Denmark's beautiful forests, home to a variety of wildlife and stunning scenery.",
+            "bestLocations": [
+              "Mols Bjerge National Park",
+              "Djursland"
+            ],
+            "requirements": "Hiking boots, water bottle",
+            "safety": [
+              "Stick to marked trails",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in Denmark's numerous lakes, rivers, and coastal waters.",
+        "activities": [
+          {
+            "name": "Kayaking",
+            "difficulty": "Easy-Moderate",
+            "season": "Summer",
+            "duration": "1-4 hours",
+            "description": "Explore Denmark's waterways by kayak, discovering hidden coves and enjoying the tranquility of nature.",
+            "bestLocations": [
+              "The Great Belt",
+              "Lake Maendrup Sø"
+            ],
+            "requirements": "Kayak, paddle, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Surfing",
+            "difficulty": "Moderate-Hard",
+            "season": "Summer",
+            "duration": "2-4 hours",
+            "description": "Catch some waves on Denmark's Atlantic coast.",
+            "bestLocations": [
+              "Rømø",
+              "Løkken"
+            ],
+            "requirements": "Surfboard, wetsuit",
+            "safety": [
+              "Be aware of strong currents",
+              "Check surf reports"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, trekking poles",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "First-aid kit",
+        "Emergency contact information",
+        "Tell someone your plans"
+      ]
+    }
+  }
+}

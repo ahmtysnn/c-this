@@ -1,0 +1,349 @@
+{
+  "name": "Samoa",
+  "region": "Oceania",
+  "description": "Samoa, also known as the ‘Valleys of Heaven’, is an archipelago nation in the South Pacific, comprised of two main islands, Upolu and Savai’i, and numerous smaller islets.  It’s a land of volcanic peaks, lush rainforests, pristine beaches, and a rich Polynesian culture. Samoa is renowned for its warm hospitality, traditional dances, and commitment to sustainable tourism. The country’s economy relies heavily on agriculture, fishing, and tourism, with a strong emphasis on preserving its natural beauty and cultural heritage.",
+  "quickFacts": [
+    {
+      "label": "Official Name",
+      "value": "Independent State of Samoa",
+      "icon": "Globe",
+      "description": "The official name of the nation.",
+      "detail": "Formally recognized as an independent nation with a unique system of governance."
+    },
+    {
+      "label": "Population",
+      "value": "202,382",
+      "icon": "Users",
+      "description": "The total population of Samoa.",
+      "detail": "A relatively small population, fostering a strong sense of community."
+    },
+    {
+      "label": "Capital",
+      "value": "Apia",
+      "icon": "MapPin",
+      "description": "The capital and largest city of Samoa.",
+      "detail": "Located on Upolu Island, Apia is the center of government and commerce."
+    },
+    {
+      "label": "Area",
+      "value": "2,843 sq km (1,094 sq mi)",
+      "icon": "MapPin",
+      "description": "The total land area of Samoa.",
+      "detail": "Comprising Upolu and Savai’i, and numerous smaller islands."
+    },
+    {
+      "label": "Official Language",
+      "value": "Samoan, English",
+      "icon": "Calendar",
+      "description": "The two official languages of Samoa.",
+      "detail": "Samoan is the traditional language, while English is used in education and government."
+    },
+    {
+      "label": "Currency",
+      "value": "Samoan Dollar (WST)",
+      "icon": "Clock",
+      "description": "The currency used in Samoa.",
+      "detail": "Exchange rates fluctuate, generally pegged to the New Zealand Dollar."
+    },
+    {
+      "label": "Time Zone",
+      "value": "UTC+12",
+      "icon": "Clock",
+      "description": "Samoa operates on a unique time zone.",
+      "detail": "This time zone results in a significant difference from many other countries."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Samoa experiences a tropical maritime climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, particularly during the wet season, and influences the lush vegetation and vibrant landscapes. The islands are prone to cyclones, especially during the November to April period.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season",
+        "period": "November – April",
+        "description": "The wet season brings frequent rainfall, often in the form of intense tropical storms and cyclones.  The landscape is vibrant with new growth, but travel can be disrupted.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Cyclones"
+        ],
+        "activities": [
+          "Waterfall exploration",
+          "Rainforest hikes",
+          "Cultural immersion"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "May – October",
+        "description": "The dry season offers sunshine and lower humidity.  It’s a popular time for outdoor activities and exploring the islands’ natural beauty.  Temperatures remain consistently warm.",
+        "keyFeatures": [
+          "Sunny days",
+          "Lower humidity",
+          "Calm seas"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Snorkeling",
+          "Island hopping"
+        ]
+      },
+      {
+        "name": "Shoulder Seasons (April-May & October-November)",
+        "period": "April-May & October-November",
+        "description": "These periods offer a balance of sunshine and rainfall, with fewer crowds and potentially lower prices.  It’s a good time for a visit when you want to avoid the peak season crowds.",
+        "keyFeatures": [
+          "Moderate rainfall",
+          "Pleasant temperatures",
+          "Fewer tourists"
+        ],
+        "activities": [
+          "Hiking",
+          "Cultural tours",
+          "Water sports"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Togitogiga Waterfalls",
+      "category": "Waterfalls",
+      "description": "Togitogiga Waterfalls, located on Upolu Island, are a series of cascading waterfalls plunging into a refreshing pool. The falls are surrounded by lush rainforest and offer a stunning display of natural beauty. It's a popular spot for swimming and photography.",
+      "detailedDescription": "The falls are fed by the slopes of Mount Mulifanua and create a dramatic spectacle. The surrounding area is rich in birdlife and offers a tranquil escape from the heat.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Upolu Island"
+      ],
+      "viewingTips": [
+        "Wear waterproof shoes",
+        "Bring a towel",
+        "Respect the local environment"
+      ],
+      "scientificData": {
+        "Height": "80m",
+        "FlowRate": "Approximately 500 liters per second",
+        "WaterTemperature": "24-26°C"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 2,
+      "name": "Saleaula Lava Fields",
+      "category": "Volcanic Landscapes",
+      "description": "The Saleaula Lava Fields are a vast expanse of solidified lava flows dating back to a major eruption in 1908. The eerie landscape is a testament to the power of nature and offers a unique glimpse into Samoa’s volcanic past.",
+      "detailedDescription": "The fields are covered in a thick layer of moss and vegetation, creating a surreal and otherworldly atmosphere.  The remnants of the village that was destroyed by the eruption are still visible, offering a poignant reminder of the event.",
+      "bestTime": "Dry Season (May-October)",
+      "bestLocations": [
+        "Upolu Island"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes",
+        "Bring sunscreen and a hat",
+        "Respect the historical significance of the site"
+      ],
+      "scientificData": {
+        "Age": "Approximately 114 years",
+        "LavaType": "Basalt",
+        "Area": "Approximately 10 sq km"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Apaw Towns",
+      "category": "Coastal Caves",
+      "description": "Apaw Towns are a series of stunning coastal caves located on the south coast of Upolu. These caves are formed by the relentless action of the ocean and offer a glimpse into the island’s geological history.",
+      "detailedDescription": "The caves are accessible by boat or kayak and are home to a variety of marine life. The walls of the caves are adorned with colorful corals and sponges, creating a vibrant underwater ecosystem.",
+      "bestTime": "Dry Season (May-October)",
+      "bestLocations": [
+        "South Coast, Upolu Island"
+      ],
+      "viewingTips": [
+        "Wear a life jacket",
+        "Bring a waterproof camera",
+        "Respect the marine environment"
+      ],
+      "scientificData": {
+        "Depth": "Varies, up to 30 meters",
+        "Formation": "Wave erosion",
+        "MarineLife": "Diverse coral and fish species"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Coastal Ecosystems",
+    "icon": "Leaf",
+    "description": "Samoa’s coastal ecosystems are incredibly diverse, encompassing coral reefs, mangrove forests, and intertidal zones. These habitats provide crucial breeding grounds for marine life and protect the coastline from erosion.",
+    "statistics": [
+      {
+        "category": "Coral Coverage",
+        "count": "Approximately 30%",
+        "details": "Significant coral cover supports a rich marine biodiversity."
+      },
+      {
+        "category": "Mangrove Area",
+        "count": "Approximately 100 hectares",
+        "details": "Mangrove forests provide vital nursery grounds for fish and crustaceans."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Hawksbill Turtle",
+        "status": "Vulnerable",
+        "significance": "A key indicator species for the health of the coral reefs."
+      },
+      {
+        "name": "Grey Reef Shark",
+        "status": "Near Threatened",
+        "significance": "An apex predator that plays a crucial role in maintaining the balance of the marine ecosystem."
+      }
+    ],
+    "threats": [
+      "Coastal development",
+      "Pollution",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Marine protected areas",
+      "Coral reef restoration projects",
+      "Community-based conservation programs"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Rainforest Ecosystems",
+    "overview": "Samoa’s rainforests are a vital part of the country’s biodiversity and play a crucial role in regulating the climate. These lush forests are home to a wide variety of plant and animal species, many of which are found nowhere else in the world.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 3
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Tropical Trees",
+        "icon": "Trees",
+        "description": "Samoa’s rainforests are dominated by a diverse array of tropical trees, including hardwoods, palms, and fruit trees.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 300",
+            "details": "A remarkable diversity of tree species contributes to the rainforest’s unique character."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Pandanus",
+            "status": "Least Concern",
+            "significance": "Used for a wide range of purposes, including building materials, weaving, and food."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Community forestry programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures in Samoa",
+    "description": "Samoa offers a wide range of outdoor activities for visitors of all levels. From hiking through lush rainforests to exploring pristine beaches and diving in vibrant coral reefs, there’s something for everyone.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Samoa’s stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Mount Mulifanua Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-4 hours",
+            "description": "A scenic hike to the summit of Mount Mulifanua, offering panoramic views of Upolu Island.",
+            "bestLocations": [
+              "Upolu Island"
+            ],
+            "requirements": "Sturdy hiking shoes, water, sunscreen",
+            "safety": [
+              "Be aware of slippery trails",
+              "Stay on marked paths"
+            ]
+          },
+          {
+            "name": "To Sua Ocean Trench Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-3 hours",
+            "description": "Hike through a lush rainforest to reach the stunning To Sua Ocean Trench, a natural swimming hole.",
+            "bestLocations": [
+              "Upolu Island"
+            ],
+            "requirements": "Waterproof shoes, swimwear",
+            "safety": [
+              "Careful descent and ascent",
+              "Supervise children closely"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of Samoa’s coastline.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life of Samoa’s coastline.",
+            "bestLocations": [
+              "Numerous beaches and bays"
+            ],
+            "requirements": "Snorkel gear, sunscreen",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Paddle along the coastline and explore hidden coves and bays.",
+            "bestLocations": [
+              "Coastal areas"
+            ],
+            "requirements": "Kayak, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Long-sleeved shirts, light jacket, rain gear",
+        "yearRound": "Versatile clothing suitable for warm and humid conditions"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit",
+        "hiking": "Sturdy hiking shoes, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Respect local customs",
+        "Stay hydrated",
+        "Be aware of the weather",
+        "Use sunscreen"
+      ]
+    }
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "name": "Lesotho",
+  "region": "Southern Africa",
+  "description": "Lesotho, often referred to as the 'Kingdom in the Sky', is a landlocked country completely surrounded by South Africa. It’s a dramatically mountainous nation, characterized by its unique culture, traditional Basotho people, and stunning landscapes.  The country boasts a high average elevation, making it one of the highest-altitude sovereign states in the world. Lesotho’s economy is heavily reliant on water exports to South Africa, and subsistence farming.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Maseru",
+      "icon": "MapPin",
+      "description": "The political and administrative center of Lesotho.",
+      "detail": "Maseru is a bustling city with a rich history and vibrant cultural scene."
+    },
+    {
+      "label": "Population",
+      "value": "2.8 million",
+      "icon": "Users",
+      "description": "The population of Lesotho is primarily Basotho.",
+      "detail": "The majority of the population lives in rural areas, engaged in agriculture."
+    },
+    {
+      "label": "Official Language",
+      "value": "Sesotho",
+      "icon": "Calendar",
+      "description": "The national language of Lesotho.",
+      "detail": "Sesotho is a Bantu language with a unique and complex grammar."
+    },
+    {
+      "label": "Area",
+      "value": "30,355 sq km",
+      "icon": "Globe",
+      "description": "Lesotho is one of the smallest countries in Africa.",
+      "detail": "Its landlocked location contributes to its unique challenges and opportunities."
+    },
+    {
+      "label": "GDP",
+      "value": "$2.3 billion (2023)",
+      "icon": "Coffee",
+      "description": "Lesotho's economy is largely dependent on South Africa.",
+      "detail": "Water exports are a crucial component of the national economy."
+    },
+    {
+      "label": "Elevation",
+      "value": "1,815 m",
+      "icon": "Mountain",
+      "description": "Lesotho is one of the highest-altitude countries in the world.",
+      "detail": "The Drakensberg Mountains dominate the landscape."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Lesotho",
+    "description": "Lesotho experiences a subtropical highland climate, characterized by warm, dry summers and cool, wet winters.  Altitude significantly influences temperatures, with cooler temperatures at higher elevations. Rainfall is concentrated during the winter months, and the country is prone to droughts.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (November - February)",
+        "period": "November - February",
+        "description": "Summer is hot and dry, with sunny days and clear skies.  It's the best time for outdoor activities.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Low rainfall",
+          "Long sunny days"
+        ],
+        "activities": [
+          "Hiking",
+          "Camping",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Autumn (March - May)",
+        "period": "March - May",
+        "description": "Autumn brings a gradual cooling of temperatures and increased rainfall. The landscape transforms with vibrant autumn colors.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Increasing rainfall",
+          "Autumn foliage"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Birdwatching"
+        ]
+      },
+      {
+        "name": "Winter (June - August)",
+        "period": "June - August",
+        "description": "Winter is cold and wet, with frequent rainfall and occasional snowfall at higher elevations.  It's a quieter time of year.",
+        "keyFeatures": [
+          "Cold temperatures",
+          "High rainfall",
+          "Occasional snowfall"
+        ],
+        "activities": [
+          "Cultural tours",
+          "Museum visits",
+          "Relaxation"
+        ]
+      },
+      {
+        "name": "Spring (September - October)",
+        "period": "September - October",
+        "description": "Spring brings a gradual warming of temperatures and blooming wildflowers. It’s a beautiful time to visit.",
+        "keyFeatures": [
+          "Mild temperatures",
+          "Blooming wildflowers",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Wildlife viewing",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Maloti Mountains",
+      "category": "Mountain Range",
+      "description": "The Maloti Mountains, also known as the Drakensberg Mountains, form the backbone of Lesotho. These ancient mountains are home to diverse flora and fauna, and offer breathtaking views.",
+      "detailedDescription": "The range stretches for over 300 kilometers and is characterized by dramatic peaks, deep valleys, and cascading waterfalls.  They are a UNESCO World Heritage Site.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Katse Dam",
+        "Sani Pass",
+        "Morgulho"
+      ],
+      "viewingTips": [
+        "Bring appropriate hiking gear",
+        "Check weather conditions before setting out",
+        "Respect the local environment"
+      ],
+      "scientificData": {
+        "Height": "3,482 m (highest peak)",
+        "Age": "Approximately 600 million years old"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Tsane River Canyon",
+      "category": "Canyon",
+      "description": "The Tsane River Canyon is a spectacular gorge carved by the Tsane River, offering stunning views and challenging hiking trails.",
+      "detailedDescription": "The canyon walls are sheer cliffs, and the river flows through a narrow, winding channel. It's a popular destination for experienced hikers and photographers.",
+      "bestTime": "November - February",
+      "bestLocations": [
+        "Near Ha Matšao"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Carry plenty of water",
+        "Be aware of the steep terrain"
+      ],
+      "scientificData": {
+        "Depth": "Up to 300 meters",
+        "Length": "Approximately 15 kilometers"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Blackwater Falls",
+      "category": "Waterfall",
+      "description": "Blackwater Falls is a series of stunning waterfalls cascading down the slopes of the Maloti Mountains. The water is a deep, dark color due to the tannins in the surrounding vegetation.",
+      "detailedDescription": "The falls are easily accessible and offer a refreshing escape from the heat. The surrounding forest is home to a variety of bird species.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Near Sani Pass"
+      ],
+      "viewingTips": [
+        "Wear waterproof clothing",
+        "Bring a camera",
+        "Enjoy the natural beauty"
+      ],
+      "scientificData": {
+        "Height": "Approximately 120 meters",
+        "Flow Rate": "Variable depending on rainfall"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Montane Forests",
+    "icon": "Trees",
+    "description": "Lesotho’s montane forests are a vital part of the country’s biodiversity, providing habitat for a wide range of plant and animal species. These forests are adapted to the cool, wet conditions of the high-altitude environment.",
+    "statistics": [
+      {
+        "category": "Tree Cover",
+        "count": "Approximately 25%",
+        "details": "The montane forests cover a significant portion of Lesotho’s land area."
+      },
+      {
+        "category": "Species Richness",
+        "count": "Over 500 plant species",
+        "details": "The forests are home to a diverse array of endemic plant species."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Giant Yellowwood (Podocarpus latifrons)",
+        "status": "Endangered",
+        "significance": "A keystone species in the montane forests, providing habitat for many other animals."
+      },
+      {
+        "name": "Lesotho Blue Swallow (Hirundo stropialis)",
+        "status": "Critically Endangered",
+        "significance": "One of the rarest birds in the world, found only in Lesotho's montane forests."
+      }
+    ],
+    "threats": [
+      "Deforestation",
+      "Climate Change",
+      "Invasive Species"
+    ],
+    "conservationEfforts": [
+      "Forestry Management",
+      "Community-based Conservation",
+      "Habitat Restoration"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Highland Ecosystems of Lesotho",
+    "overview": "Lesotho’s highland ecosystems are characterized by a mosaic of forests, grasslands, and rocky outcrops. These ecosystems are adapted to the harsh conditions of the high-altitude environment and support a unique array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Montane Forests",
+        "icon": "Trees",
+        "description": "As described above, these forests are a crucial component of Lesotho’s biodiversity.",
+        "statistics": [],
+        "notableSpecies": [],
+        "threats": [],
+        "conservationEfforts": []
+      },
+      {
+        "name": "Grasslands",
+        "icon": "Leaf",
+        "description": "Grasslands cover a large portion of Lesotho’s land area and are home to a variety of grazing animals.",
+        "statistics": [
+          {
+            "category": "Grassland Area",
+            "count": "Approximately 60%",
+            "details": "Grasslands dominate the landscape."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Lesotho Wild Horse (Equus lesuthiensis)",
+            "status": "Endangered",
+            "significance": "A unique subspecies of wild horse found only in Lesotho."
+          }
+        ],
+        "threats": [
+          "Overgrazing",
+          "Habitat Loss"
+        ],
+        "conservationEfforts": [
+          "Sustainable Grazing Practices",
+          "Habitat Management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Lesotho",
+    "description": "Lesotho offers a wide range of outdoor activities for adventure seekers and nature lovers. From hiking and trekking to wildlife viewing and cultural tours, there’s something for everyone.",
+    "activityCategories": [
+      {
+        "name": "Hiking & Trekking",
+        "icon": "Compass",
+        "description": "Lesotho is a hiker’s paradise, with trails ranging from easy day hikes to challenging multi-day treks.",
+        "activities": [
+          {
+            "name": "Sani Pass Trek",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "1-2 days",
+            "description": "A challenging trek over Sani Pass, crossing the border into South Africa.",
+            "bestLocations": [
+              "Sani Pass"
+            ],
+            "requirements": "Good hiking boots, water, sunscreen",
+            "safety": [
+              "Be aware of altitude sickness",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Maloti Trail",
+            "difficulty": "Hard",
+            "season": "November - February",
+            "duration": "7-10 days",
+            "description": "A multi-day trek through the Maloti Mountains, offering stunning views and challenging terrain.",
+            "bestLocations": [
+              "Maloti Mountains"
+            ],
+            "requirements": "Experienced hikers, camping gear",
+            "safety": [
+              "Altitude sickness, unpredictable weather"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Lesotho’s rivers and dams offer opportunities for rafting, kayaking, and fishing.",
+        "activities": [
+          {
+            "name": "River Rafting on the Tsane River",
+            "difficulty": "Moderate",
+            "season": "November - February",
+            "duration": "Half-day",
+            "description": "Experience the thrill of rafting down the Tsane River.",
+            "bestLocations": [
+              "Tsane River"
+            ],
+            "requirements": "Life jacket, helmet",
+            "safety": [
+              "Experienced guides, safety equipment"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Layers are recommended due to fluctuating temperatures"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Carry a map and compass",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "name": "Burundi",
+  "region": "Africa",
+  "description": "Burundi, a small landlocked country in East Africa, is known for its rolling hills, lush rainforests, and rich cultural heritage. It’s a nation grappling with a complex history of conflict and poverty, yet possesses remarkable resilience and a vibrant artistic tradition. The country’s economy is largely agricultural, with coffee being a major export. Burundi’s landscape is dramatically shaped by the Rift Valley, creating a diverse range of habitats.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Gitega",
+      "icon": "MapPin",
+      "description": "The administrative and political center of Burundi.",
+      "detail": "Gitega was officially declared the capital in 2019, replacing Bujumbura."
+    },
+    {
+      "label": "Population",
+      "value": "12.8 million",
+      "icon": "Users",
+      "description": "Burundi's population is predominantly comprised of the Hutu, Tutsi, and Twa ethnic groups.",
+      "detail": "Ethnic tensions have historically played a significant role in the country's political landscape."
+    },
+    {
+      "label": "Area",
+      "value": "27,830 sq km (10,718 sq mi)",
+      "icon": "Globe",
+      "description": "Burundi is one of the smallest countries in Africa.",
+      "detail": "Its landlocked location contributes to economic challenges."
+    },
+    {
+      "label": "Official Language",
+      "value": "Kirundi",
+      "icon": "Calendar",
+      "description": "Kirundi is the national language, closely related to Swahili.",
+      "detail": "French is also widely spoken and used in government and education."
+    },
+    {
+      "label": "Currency",
+      "value": "Burundian Franc (BIF)",
+      "icon": "Coffee",
+      "description": "The currency of Burundi.",
+      "detail": "The BIF is pegged to the Swiss Franc."
+    },
+    {
+      "label": "GDP (2023)",
+      "value": "$2.8 billion",
+      "icon": "Zap",
+      "description": "Burundi's Gross Domestic Product.",
+      "detail": "The economy is heavily reliant on agriculture."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Burundi",
+    "description": "Burundi experiences a tropical climate with two distinct seasons: a wet season and a dry season. Temperatures are generally warm throughout the year, with slight variations depending on altitude.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season",
+        "period": "November – April",
+        "description": "The wet season is characterized by heavy rainfall, flooding, and high humidity. It’s a period of lush vegetation and abundant wildlife.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Flooding",
+          "High humidity",
+          "Green vegetation"
+        ],
+        "activities": [
+          "Hiking (with caution)",
+          "Birdwatching",
+          "River trips"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "May – October",
+        "description": "The dry season brings sunny days, lower humidity, and cooler temperatures. It’s a good time for wildlife viewing and exploring the highlands.",
+        "keyFeatures": [
+          "Sunny days",
+          "Low humidity",
+          "Cooler temperatures",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Wildlife viewing",
+          "Cultural tours"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lake Tanganyika",
+      "category": "Lake",
+      "description": "Lake Tanganyika is one of the deepest and longest freshwater lakes in the world, renowned for its exceptional biodiversity and stunning turquoise waters. It’s a vital resource for the region’s communities and a haven for unique fish species.",
+      "detailedDescription": "The lake’s depths harbor a remarkable array of endemic fish, including the Nile perch and the lungfish. Its shores are fringed with lush forests and offer opportunities for boat trips and fishing.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Gombola",
+        "Kasulu",
+        "Bukere"
+      ],
+      "viewingTips": [
+        "Bring sunscreen and insect repellent",
+        "Respect local fishing practices",
+        "Consider a guided boat tour"
+      ],
+      "scientificData": {
+        "Depth": "1500m",
+        "Length": "708km",
+        "Surface Area": "32,900 sq km"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Nyungwe Forest National Park",
+      "category": "Forest",
+      "description": "Nyungwe Forest is one of the oldest rainforests in Africa, boasting incredible biodiversity and a network of ancient chimpanzee trails. It’s a vital habitat for numerous endemic species and offers a truly immersive nature experience.",
+      "detailedDescription": "The forest is home to over 1000 plant species, 350 bird species, and several primate species, including chimpanzees, colobus monkeys, and golden monkeys. The canopy walks provide breathtaking views of the forest canopy.",
+      "bestTime": "June – September (dry season)",
+      "bestLocations": [
+        "Primate trails",
+        "Canopy walks",
+        "Waterfall hikes"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear sturdy hiking boots",
+        "Bring binoculars"
+      ],
+      "scientificData": {
+        "Age": "1000-2500 years",
+        "Tree Height": "30m",
+        "Biodiversity": "Over 1000 plant species"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Burundi",
+    "overview": "Burundi’s ecosystems are diverse, ranging from montane rainforests and grasslands to wetlands and savannas. These ecosystems support a rich array of flora and fauna, many of which are endemic to the region.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Burundi’s forests are vital for carbon sequestration, watershed protection, and biodiversity conservation.",
+        "statistics": [
+          {
+            "category": "Tree Cover",
+            "count": "40%",
+            "details": "Approximately 40% of Burundi’s land area is covered by forests."
+          },
+          {
+            "category": "Endemic Species",
+            "count": "50+",
+            "details": "Over 50 plant and animal species are endemic to Burundi’s forests."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Red Colobus Monkey",
+            "status": "Endangered",
+            "significance": "A critically endangered primate found only in Nyungwe Forest."
+          },
+          {
+            "name": "Burundian Finch",
+            "status": "Vulnerable",
+            "significance": "A small finch species endemic to Burundi's forests."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Agricultural expansion"
+        ],
+        "conservationEfforts": [
+          "Community-based forestry management",
+          "Protected area expansion",
+          "Reforestation programs"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "Burundi’s wetlands play a crucial role in flood control, water purification, and biodiversity conservation.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "100,000 ha",
+            "details": "Approximately 100,000 hectares of Burundi’s land area is covered by wetlands."
+          },
+          {
+            "category": "Bird Species",
+            "count": "80+",
+            "details": "Over 80 bird species rely on Burundi’s wetlands for breeding and feeding."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Skimmer",
+            "status": "Vulnerable",
+            "significance": "A migratory bird species that breeds in Burundi’s wetlands."
+          },
+          {
+            "name": "Purple Heron",
+            "status": "Near Threatened",
+            "significance": "A heron species that is dependent on wetland habitats."
+          }
+        ],
+        "threats": [
+          "Drainage for agriculture",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration",
+          "Sustainable agriculture practices",
+          "Community awareness campaigns"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Burundi",
+    "description": "Burundi offers a range of outdoor activities, from hiking and wildlife viewing to cultural tours and water sports.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Burundi’s stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Nyungwe Forest Hiking",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-6 hours",
+            "description": "Hike through the ancient Nyungwe Forest, encountering chimpanzees, colobus monkeys, and diverse plant life.",
+            "bestLocations": [
+              "Primate trails",
+              "Waterfall hikes"
+            ],
+            "requirements": "Sturdy hiking boots, water, insect repellent",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of wildlife",
+              "Hire a local guide"
+            ]
+          },
+          {
+            "name": "Lake Tanganyika Hiking",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "2-4 hours",
+            "description": "Enjoy scenic walks along the shores of Lake Tanganyika, taking in the stunning views.",
+            "bestLocations": [
+              "Gombola",
+              "Kasulu"
+            ],
+            "requirements": "Comfortable shoes, sunscreen, hat",
+            "safety": [
+              "Stay hydrated",
+              "Protect yourself from the sun"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Viewing",
+        "icon": "Bird",
+        "description": "Observe Burundi’s diverse wildlife in its natural habitat.",
+        "activities": [
+          {
+            "name": "Nyungwe Forest Wildlife Safari",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "Full day",
+            "description": "Embark on a guided safari through Nyungwe Forest, searching for chimpanzees, colobus monkeys, and other wildlife.",
+            "bestLocations": [
+              "Primate trails"
+            ],
+            "requirements": "Binoculars, camera, insect repellent",
+            "safety": [
+              "Follow your guide's instructions",
+              "Maintain a safe distance from wildlife"
+            ]
+          },
+          {
+            "name": "Lake Tanganyika Boat Safari",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Half day",
+            "description": "Take a boat trip on Lake Tanganyika, observing fish, birds, and other wildlife.",
+            "bestLocations": [
+              "Lake Tanganyika"
+            ],
+            "requirements": "Sunscreen, hat, sunglasses",
+            "safety": [
+              "Wear a life jacket",
+              "Follow the boat operator's instructions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, shorts, t-shirts",
+        "winter": "Warm layers, fleece jacket, waterproof jacket",
+        "yearRound": "Comfortable walking shoes, hat, sunglasses"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, first-aid kit",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Drink bottled water",
+        "Be aware of your surroundings",
+        "Respect local customs",
+        "Consult a doctor before traveling"
+      ]
+    }
+  }
+}

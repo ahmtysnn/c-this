@@ -1,0 +1,325 @@
+{
+  "name": "Comoros",
+  "region": "Africa",
+  "description": "Comoros, an archipelago nation in the Indian Ocean, comprises three main islands – Grande Comore, Anjouan, and Mohéli – and several smaller islets.  Characterized by volcanic origins and a tropical climate, Comoros boasts stunning coral reefs, lush rainforests, and unique endemic flora and fauna.  The country’s economy relies heavily on agriculture, particularly vanilla, cloves, and ylang-ylang, alongside fishing and tourism.  Comoros is a multi-ethnic nation with a rich cultural heritage influenced by Arab, African, and French traditions.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Moroni",
+      "icon": "MapPin",
+      "description": "The bustling capital city and largest settlement, serving as the political and economic center.",
+      "detail": "Moroni is situated on Grande Comore and is known for its vibrant markets, historic mosques, and French colonial architecture."
+    },
+    {
+      "label": "Population",
+      "value": "860,000",
+      "icon": "Users",
+      "description": "A relatively small population spread across the three main islands.",
+      "detail": "The population is diverse, with Comorian, Mozambican, and French influences."
+    },
+    {
+      "label": "Area",
+      "value": "1,861 km²",
+      "icon": "Globe",
+      "description": "A geographically fragmented nation with limited land area.",
+      "detail": "The islands collectively offer a diverse landscape, from volcanic peaks to coral atolls."
+    },
+    {
+      "label": "Official Languages",
+      "value": "Comorian, French, Arabic",
+      "icon": "ArrowRight",
+      "description": "Three official languages reflect the country's diverse cultural influences.",
+      "detail": "Comorian is the national language, while French is widely used in business and administration."
+    },
+    {
+      "label": "Currency",
+      "value": "Frieda (FCM)",
+      "icon": "Coffee",
+      "description": "The local currency, primarily used alongside the French Franc.",
+      "detail": "The Frieda is pegged to the Euro."
+    },
+    {
+      "label": "GDP",
+      "value": "$680 million (2023 est.)",
+      "icon": "Zap",
+      "description": "A developing economy with a reliance on agriculture and tourism.",
+      "detail": "Vanilla and cloves are key export commodities."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Comoros experiences a tropical climate with consistently high temperatures and humidity throughout the year. Rainfall is abundant, particularly during the cyclone season (November to April).",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "May - October",
+        "description": "The dry season offers pleasant weather with lower humidity and less rainfall. It's ideal for exploring the islands.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Less rainfall",
+          "Sunny days"
+        ],
+        "activities": [
+          "Hiking",
+          "Snorkeling",
+          "Diving",
+          "Wildlife viewing"
+        ]
+      },
+      {
+        "name": "Cyclone Season",
+        "period": "November - April",
+        "description": "This period is characterized by frequent cyclones and heavy rainfall. Travel during this time is strongly discouraged.",
+        "keyFeatures": [
+          "High rainfall",
+          "Cyclones",
+          "Storm surges"
+        ],
+        "activities": []
+      },
+      {
+        "name": "Wet Season",
+        "period": "June - August",
+        "description": "The wet season brings heavy downpours and high humidity. While it can be challenging, it also contributes to the lush vegetation.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Rainforest trekking",
+          "Photography"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Karthala",
+      "category": "Volcano",
+      "description": "Mount Karthala is an active stratovolcano located on Grande Comore. It’s the highest point in Comoros and a significant geological feature.",
+      "detailedDescription": "The volcano is characterized by a large caldera filled with a crater lake. Eruptions are relatively infrequent but can be dramatic, releasing sulfurous fumes. The surrounding area is a unique ecosystem adapted to volcanic conditions.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Grande Comore"
+      ],
+      "viewingTips": [
+        "Hire a local guide for safety and knowledge.",
+        "Bring appropriate clothing for varying weather conditions."
+      ],
+      "scientificData": {
+        "Height": "2361 m",
+        "Age": "Approximately 300,000 years",
+        "VolcanicType": "Stratovolcano"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Coral Reefs of Anjouan",
+      "category": "Marine",
+      "description": "The coral reefs surrounding Anjouan Island are a vibrant underwater ecosystem teeming with marine life.",
+      "detailedDescription": "These reefs offer exceptional snorkeling and diving opportunities, showcasing a diverse array of coral species, colorful fish, and other marine creatures. The reefs are relatively pristine and contribute significantly to the island's biodiversity.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Anjouan Island"
+      ],
+      "viewingTips": [
+        "Use reef-safe sunscreen.",
+        "Respect the marine environment."
+      ],
+      "scientificData": {
+        "CoralDiversity": "Over 150 coral species",
+        "FishSpecies": "Approximately 300 fish species"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Island Ecosystems",
+    "overview": "Comoros’ islands support a range of unique ecosystems, including rainforests, coral reefs, and volcanic landscapes. These ecosystems are home to a remarkable diversity of flora and fauna, many of which are endemic to the region.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaves",
+        "description": "The islands boast a rich flora, including numerous endemic tree species, orchids, and ferns.",
+        "statistics": [
+          {
+            "category": "Endemic Trees",
+            "count": "Over 50",
+            "details": "Many tree species are found nowhere else on Earth."
+          },
+          {
+            "category": "Orchids",
+            "count": "Around 30",
+            "details": "A significant number of orchid species are endemic."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Comorian Red Colobus",
+            "status": "Endangered",
+            "significance": "A critically endangered primate endemic to Comoros."
+          },
+          {
+            "name": "Vanilla Orchid",
+            "status": "Vulnerable",
+            "significance": "A fragrant orchid species used in the production of vanilla."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Reforestation programs",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Comoros is a haven for birdlife, with numerous endemic bird species and migratory birds.",
+        "statistics": [
+          {
+            "category": "Endemic Bird Species",
+            "count": "Around 20",
+            "details": "Many bird species are found only in Comoros."
+          },
+          {
+            "category": "Marine Birds",
+            "count": "Significant populations",
+            "details": "Important nesting sites for seabirds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "White-tailed Tropicbird",
+            "status": "Vulnerable",
+            "significance": "A seabird known for its spectacular aerial displays."
+          },
+          {
+            "name": "Comoros Island Heron",
+            "status": "Endangered",
+            "significance": "A heron species found only in Comoros."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Hunting",
+          "Introduced predators"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Community-based conservation",
+          "Anti-poaching patrols"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities",
+    "description": "Comoros offers a range of outdoor activities for adventure seekers and nature enthusiasts.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the volcanic landscapes and rainforests of the islands.",
+        "activities": [
+          {
+            "name": "Mount Karthala Ascent",
+            "difficulty": "Hard",
+            "season": "June - September",
+            "duration": "2-3 days",
+            "description": "A challenging trek to the summit of Mount Karthala, offering stunning views.",
+            "bestLocations": [
+              "Grande Comore"
+            ],
+            "requirements": "Good physical fitness, hiking boots, appropriate clothing.",
+            "safety": [
+              "Hire a local guide",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Coastal Trails",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Explore the coastal trails of Anjouan and Mohéli, discovering hidden beaches and viewpoints.",
+            "bestLocations": [
+              "Anjouan, Mohéli"
+            ],
+            "requirements": "Comfortable walking shoes",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay on marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters surrounding the islands.",
+        "activities": [
+          {
+            "name": "Snorkeling & Diving",
+            "difficulty": "Easy",
+            "season": "May - October",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Anjouan, Mohéli, Grande Comore"
+            ],
+            "requirements": "Snorkeling gear or diving certification",
+            "safety": [
+              "Respect marine life",
+              "Use reef-safe sunscreen"
+            ]
+          },
+          {
+            "name": "Kayaking",
+            "difficulty": "Moderate",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Paddle along the coastline and explore hidden coves.",
+            "bestLocations": [
+              "All islands"
+            ],
+            "requirements": "Kayaking experience",
+            "safety": [
+              "Wear a life jacket",
+              "Check weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat.",
+        "winter": "Long-sleeved shirts, trousers, light jacket, rain gear.",
+        "yearRound": "Comfortable walking shoes, sandals, insect repellent."
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, cash.",
+        "hiking": "Hiking boots, backpack, water bottle, map, compass.",
+        "photography": "Camera, extra batteries, waterproof case."
+      },
+      "safety": [
+        "Consult a doctor before travel",
+        "Drink bottled water",
+        "Be aware of local customs",
+        "Respect the environment"
+      ]
+    }
+  }
+}

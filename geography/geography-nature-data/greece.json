@@ -1,0 +1,369 @@
+{
+  "name": "Greece",
+  "region": "Europe",
+  "description": "Greece, a nation steeped in ancient history and breathtaking natural beauty, boasts a diverse landscape ranging from soaring mountains and dramatic coastlines to fertile plains and arid islands.  Its rich cultural heritage, combined with stunning scenery, makes it a popular destination for travelers and nature enthusiasts alike.  Greece’s strategic location in the Mediterranean Sea has shaped its history and influenced its unique blend of traditions and customs.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "10.3 million",
+      "icon": "Users",
+      "description": "The population of Greece is comprised of a diverse mix of ethnicities and cultures.",
+      "detail": "Greek culture is deeply rooted in its ancient past, influencing its art, architecture, and philosophy."
+    },
+    {
+      "label": "Area",
+      "value": "131,957 sq km",
+      "icon": "MapPin",
+      "description": "Greece is a relatively small country, but its diverse geography offers a wealth of experiences.",
+      "detail": "The country is divided into numerous islands, each with its own unique character and charm."
+    },
+    {
+      "label": "Capital",
+      "value": "Athens",
+      "icon": "MapPin",
+      "description": "Athens, the historic capital, is home to iconic landmarks like the Acropolis.",
+      "detail": "The city is a vibrant hub of culture, commerce, and education."
+    },
+    {
+      "label": "Official Language",
+      "value": "Greek",
+      "icon": "Globe",
+      "description": "The Greek language is a member of the Indo-European language family.",
+      "detail": "Ancient Greek has profoundly influenced Western civilization."
+    },
+    {
+      "label": "Currency",
+      "value": "Euro (€)",
+      "icon": "Coffee",
+      "description": "Greece adopted the Euro in 2001.",
+      "detail": "The economy is primarily based on tourism, agriculture, and shipping."
+    }
+  ],
+  "climateData": {
+    "title": "Mediterranean Climate",
+    "description": "Greece enjoys a predominantly Mediterranean climate characterized by hot, dry summers and mild, wet winters. Rainfall is concentrated in the autumn and winter months.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June-August)",
+        "period": "June - August",
+        "description": "Long, sunny days with high temperatures, especially in the southern regions.  Low humidity and abundant sunshine.",
+        "keyFeatures": [
+          "High Temperatures",
+          "Sunny Skies",
+          "Low Rainfall"
+        ],
+        "activities": [
+          "Swimming",
+          "Sunbathing",
+          "Hiking",
+          "Water Sports"
+        ]
+      },
+      {
+        "name": "Autumn (September-November)",
+        "period": "September - November",
+        "description": "Pleasant temperatures, with a gradual decrease in rainfall.  The landscape transforms with vibrant autumn colors.",
+        "keyFeatures": [
+          "Mild Temperatures",
+          "Colorful Foliage",
+          "Reduced Crowds"
+        ],
+        "activities": [
+          "Hiking",
+          "Wine Tasting",
+          "Photography",
+          "Cultural Tours"
+        ]
+      },
+      {
+        "name": "Winter (December-February)",
+        "period": "December - February",
+        "description": "Cool and wet winters, with occasional snowfall in the mountainous regions.  The islands experience milder temperatures.",
+        "keyFeatures": [
+          "Cool Temperatures",
+          "Rainfall",
+          "Snow in Mountains"
+        ],
+        "activities": [
+          "Skiing",
+          "Visiting Museums",
+          "Exploring Historic Sites",
+          "Relaxing"
+        ]
+      },
+      {
+        "name": "Spring (March-May)",
+        "period": "March - May",
+        "description": "Temperatures gradually rise, and wildflowers bloom across the countryside.  A time of renewal and vibrant colors.",
+        "keyFeatures": [
+          "Blooming Flowers",
+          "Mild Temperatures",
+          "Increased Daylight"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Wildlife Watching"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Samaria Gorge",
+      "category": "Mountain Range",
+      "description": "The Samaria Gorge is one of the longest gorges in Europe, offering a challenging but rewarding hike through stunning scenery. It’s a protected area of significant ecological importance.",
+      "detailedDescription": "The gorge stretches for 16 kilometers (10 miles) and descends to the Libyan Sea. The hike takes approximately 5-7 hours and offers breathtaking views of the Cretan landscape. The flora and fauna are diverse, including rare species of birds and plants.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Apokoronisia",
+        "Omalos"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking boots",
+        "Bring plenty of water and snacks",
+        "Check weather conditions before setting out"
+      ],
+      "scientificData": {
+        "Height": "1800m",
+        "Length": "16km",
+        "Depth": "300m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Meteora",
+      "category": "Rock Formations",
+      "description": "Meteora is a UNESCO World Heritage site featuring towering rock formations topped with ancient monasteries. It’s a truly awe-inspiring spectacle.",
+      "detailedDescription": "The monasteries were built between the 14th and 16th centuries by monks seeking refuge on these isolated peaks. They offer stunning views of the surrounding landscape and are a testament to human ingenuity and faith. The area is rich in geological formations and diverse wildlife.",
+      "bestTime": "April - October",
+      "bestLocations": [
+        "Kalambaka",
+        "Kastraki"
+      ],
+      "viewingTips": [
+        "Wear comfortable shoes for climbing",
+        "Respect the religious significance of the monasteries",
+        "Allow ample time to explore"
+      ],
+      "scientificData": {
+        "Elevation": "400m",
+        "Rock Type": "Limestone"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Zakynthos Shipwreck Beach",
+      "category": "Coastal Feature",
+      "description": "Zakynthos is famous for its Shipwreck Beach, a stunning cove with a rusted freighter dramatically embedded in the sand. It’s a truly unique and photogenic location.",
+      "detailedDescription": "The shipwreck, a former Panagria-class cargo ship, ran aground in 1980 and has since become a natural landmark. The beach is only accessible by boat, adding to its allure. The surrounding waters are crystal clear and teeming with marine life.",
+      "bestTime": "June - August",
+      "bestLocations": [
+        "Laganas Bay"
+      ],
+      "viewingTips": [
+        "Book a boat tour in advance",
+        "Bring sunscreen and a hat",
+        "Respect the marine environment"
+      ],
+      "scientificData": {
+        "Depth": "30m",
+        "Ship Type": "Cargo Ship"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Mediterranean Ecosystems",
+    "overview": "Greece’s diverse ecosystems range from the arid landscapes of the southern islands to the lush forests of the Pindus Mountains. The Mediterranean climate supports a unique flora and fauna adapted to the region’s specific conditions.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaf",
+        "description": "Greece boasts a remarkable diversity of plant life, including endemic species found nowhere else in the world.",
+        "statistics": [
+          {
+            "category": "Endemic Plants",
+            "count": "300+",
+            "details": "Numerous plant species are unique to Greece."
+          },
+          {
+            "category": "Olive Groves",
+            "count": "2 million",
+            "details": "Olive trees are a cornerstone of the Greek economy and culture."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Maquis shrubland",
+            "status": "Common",
+            "significance": "Dominant vegetation type in many areas."
+          },
+          {
+            "name": "Cretan Strawberry",
+            "status": "Endangered",
+            "significance": "A rare and protected species."
+          }
+        ],
+        "threats": [
+          "Habitat Loss",
+          "Climate Change",
+          "Invasive Species"
+        ],
+        "conservationEfforts": [
+          "Protected Areas",
+          "Reforestation Programs",
+          "Species Recovery Initiatives"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "Greece is home to a rich variety of animal life, including numerous bird species, reptiles, amphibians, and mammals.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "300+",
+            "details": "Greece is a major migratory route for birds."
+          },
+          {
+            "category": "Marine Life",
+            "count": "Diverse",
+            "details": "The Aegean and Ionian Seas are home to a variety of fish, marine mammals, and invertebrates."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Golden Eagle",
+            "status": "Near Threatened",
+            "significance": "A majestic predator found in mountainous regions."
+          },
+          {
+            "name": "Loggerhead Turtle",
+            "status": "Vulnerable",
+            "significance": "A threatened species nesting on Greek beaches."
+          }
+        ],
+        "threats": [
+          "Habitat Loss",
+          "Pollution",
+          "Illegal Wildlife Trade"
+        ],
+        "conservationEfforts": [
+          "Protected Areas",
+          "Anti-Poaching Patrols",
+          "Marine Conservation Programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Greece",
+    "description": "Greece offers a wide range of outdoor activities for all levels of experience, from hiking and swimming to watersports and cultural tours.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Greece’s stunning mountains, gorges, and coastal trails.",
+        "activities": [
+          {
+            "name": "Samaria Gorge Hike",
+            "difficulty": "Hard",
+            "season": "May - October",
+            "duration": "5-7 hours",
+            "description": "A challenging but rewarding hike through the longest gorge in Europe.",
+            "bestLocations": [
+              "Apokoronisia",
+              "Omalos"
+            ],
+            "requirements": "Sturdy hiking boots, water, snacks",
+            "safety": [
+              "Check weather conditions",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Mount Olympus Hike",
+            "difficulty": "Expert",
+            "season": "June - September",
+            "duration": "Variable",
+            "description": "Hike to the summit of Greece’s highest mountain.",
+            "bestLocations": [
+              "Litochoro",
+              "Monastery of Kipina"
+            ],
+            "requirements": "Excellent fitness, mountaineering experience",
+            "safety": [
+              "Hire a guide",
+              "Be prepared for changing weather"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy swimming, snorkeling, diving, sailing, and windsurfing in Greece’s crystal-clear waters.",
+        "activities": [
+          {
+            "name": "Scuba Diving in Zakynthos",
+            "difficulty": "Moderate",
+            "season": "May - October",
+            "duration": "Variable",
+            "description": "Explore the Shipwreck Beach and the underwater caves of Zakynthos.",
+            "bestLocations": [
+              "Laganas Bay"
+            ],
+            "requirements": "Certification, diving equipment",
+            "safety": [
+              "Dive with a certified instructor",
+              "Check water conditions"
+            ]
+          },
+          {
+            "name": "Sailing in the Cyclades",
+            "difficulty": "Easy",
+            "season": "May - September",
+            "duration": "Variable",
+            "description": "Sail through the picturesque islands of the Cyclades.",
+            "bestLocations": [
+              "Mykonos",
+              "Santorini",
+              "Paros"
+            ],
+            "requirements": "Sailboat rental, sailing experience (optional)",
+            "safety": [
+              "Check weather conditions",
+              "Follow nautical rules"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, versatile clothing"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Inform someone of your plans",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

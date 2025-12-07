@@ -1,0 +1,366 @@
+{
+  "name": "Romania",
+  "region": "Europe",
+  "description": "Romania, a land of dramatic landscapes, rich history, and vibrant culture, is nestled in the heart of Eastern Europe. Characterized by the Carpathian Mountains dominating the interior, rolling hills, fertile plains, and a stunning coastline along the Black Sea, Romania offers a diverse range of experiences for travelers and nature enthusiasts alike. From medieval castles and charming villages to dense forests and pristine lakes, Romania is a country of contrasts and hidden gems.",
+  "quickFacts": [
+    {
+      "label": "Area",
+      "value": "238,397 km²",
+      "icon": "MapPin",
+      "description": "Romania is the twelfth-largest country in Europe.",
+      "detail": "Its diverse terrain contributes to a wide range of ecosystems and landscapes."
+    },
+    {
+      "label": "Population",
+      "value": "19 million",
+      "icon": "Users",
+      "description": "Romania boasts a rich and diverse population.",
+      "detail": "Romanian is the official language, with Hungarian and Romanian minorities."
+    },
+    {
+      "label": "Capital",
+      "value": "Bucharest",
+      "icon": "Globe",
+      "description": "Bucharest is the bustling capital and largest city.",
+      "detail": "It's a vibrant metropolis with a mix of architectural styles."
+    },
+    {
+      "label": "Currency",
+      "value": "Romanian Leu (RON)",
+      "icon": "Coffee",
+      "description": "The official currency of Romania.",
+      "detail": "Exchange rates fluctuate, so check current rates before traveling."
+    },
+    {
+      "label": "GDP",
+      "value": "Approximately $75 billion (2023)",
+      "icon": "ArrowRight",
+      "description": "Romania's economy is steadily growing.",
+      "detail": "Key sectors include agriculture, manufacturing, and tourism."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Romania",
+    "description": "Romania experiences a temperate continental climate, with warm summers and cold, snowy winters. The climate varies significantly across the country due to its diverse topography.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with wildflowers blooming across the countryside. It's a beautiful time for hiking and exploring.",
+        "keyFeatures": [
+          "Blooming wildflowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Wildlife watching"
+        ]
+      },
+      {
+        "name": "Summer",
+        "period": "June - August",
+        "description": "Summer is the warmest season, with long sunny days and pleasant temperatures. It's ideal for outdoor activities and visiting the coast.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Sunny days",
+          "Festivals and events"
+        ],
+        "activities": [
+          "Swimming",
+          "Beach holidays",
+          "Hiking",
+          "Camping",
+          "Water sports"
+        ]
+      },
+      {
+        "name": "Autumn",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and stunning foliage, particularly in the Carpathian Mountains. It's a great time for hiking and enjoying the fall colors.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Cool temperatures",
+          "Harvest season"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine tasting",
+          "Visiting vineyards"
+        ]
+      },
+      {
+        "name": "Winter",
+        "period": "December - February",
+        "description": "Winter is cold and snowy, especially in the mountainous regions. It's a time for skiing, snowboarding, and enjoying traditional winter activities.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Winter sports"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Ice skating",
+          "Visiting Christmas markets"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Carpathian Mountains",
+      "category": "Mountain Range",
+      "description": "The Carpathian Mountains form the backbone of Romania, offering breathtaking scenery, diverse wildlife, and challenging hiking trails. They are a haven for nature lovers and adventure seekers.",
+      "detailedDescription": "These ancient mountains are home to numerous peaks, including Moldoveanu, the highest point in Romania. The forests are dense and ancient, supporting a rich biodiversity.",
+      "bestTime": "Year-round, but particularly stunning in autumn and winter.",
+      "bestLocations": [
+        "Piatra Craiului National Park",
+        "Retezat National Park",
+        "Bucegi Mountains"
+      ],
+      "viewingTips": [
+        "Pack appropriate hiking gear",
+        "Check weather conditions before heading out",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Height": "2,544 m",
+        "Age": "Over 50 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Danube Delta",
+      "category": "Wetland",
+      "description": "The Danube Delta is Europe's second-largest river delta, a UNESCO World Heritage Site, and a vital ecosystem teeming with wildlife. It's a paradise for birdwatchers and nature enthusiasts.",
+      "detailedDescription": "The delta is a labyrinth of waterways, islands, and reed beds, providing habitat for a vast array of species, including rare birds, fish, and amphibians. It's a crucial stopover point for migratory birds.",
+      "bestTime": "Spring and autumn for bird migration.",
+      "bestLocations": [
+        "Tulcea",
+        "Ismailia"
+      ],
+      "viewingTips": [
+        "Take a boat tour",
+        "Hire a local guide",
+        "Bring binoculars"
+      ],
+      "scientificData": {
+        "Area": "2,490 km²",
+        "Biodiversity": "Over 300 bird species"
+      },
+      "icon": "Leaf"
+    },
+    {
+      "id": 3,
+      "name": "Painted Monasteries of Bucovina",
+      "category": "Historical Site",
+      "description": "These UNESCO World Heritage sites are renowned for their stunning exterior frescoes, depicting biblical scenes and historical events. They offer a glimpse into Romania's rich religious and artistic heritage.",
+      "detailedDescription": "The monasteries are located in the Bucovina region and are masterpieces of medieval art. The frescoes are remarkably well-preserved and provide valuable insights into the region's history and culture.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Voronet",
+        "Moldovita",
+        "Sucevita"
+      ],
+      "viewingTips": [
+        "Allow ample time to explore each monastery",
+        "Hire a guide to learn about the frescoes"
+      ],
+      "scientificData": {
+        "Age": "15th-16th centuries",
+        "Style": "Brancusi Fresco Style"
+      },
+      "icon": "Eye"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Romania",
+    "overview": "Romania boasts a remarkably diverse range of ecosystems, from the high peaks of the Carpathian Mountains to the fertile plains of the Danube Delta and the lush forests of the southern regions. These ecosystems support a rich biodiversity and play a crucial role in the country's ecological balance.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Romania's territory is protected as national parks, nature reserves, and wilderness areas.",
+      "nationalParks": 8
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Romania's forests cover a significant portion of the country, providing habitat for a wide range of species and playing a vital role in carbon sequestration.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 400",
+            "details": "Diverse range of deciduous and coniferous trees"
+          },
+          {
+            "category": "Forest Cover",
+            "count": "30%",
+            "details": "Significant contribution to the country's landscape"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Roe Deer",
+            "status": "Near Threatened",
+            "significance": "Important prey species"
+          },
+          {
+            "name": " Eurasian Lynx",
+            "status": "Vulnerable",
+            "significance": "Apex predator"
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Protected areas"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "Romania's wetlands, including the Danube Delta and the Olt Delta, are vital habitats for migratory birds and other wildlife. They also play a crucial role in flood control and water purification.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "Over 600,000 hectares",
+            "details": "Significant area of wetland habitat"
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 300",
+            "details": "Important stopover point for migratory birds"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Great White Pelican",
+            "status": "Vulnerable",
+            "significance": "Iconic wetland bird"
+          },
+          {
+            "name": "Black Spoonbill",
+            "status": "Endangered",
+            "significance": "Rare wetland species"
+          }
+        ],
+        "threats": [
+          "Drainage",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Restoration projects"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Romania",
+    "description": "Romania offers a wide range of outdoor activities for all levels of experience, from challenging mountain treks to relaxing beach holidays.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Romania is a hiker's paradise, with trails ranging from gentle valley walks to challenging mountain ascents.",
+        "activities": [
+          {
+            "name": "Carpathian Trail",
+            "difficulty": "Moderate to Hard",
+            "season": "Year-round",
+            "duration": "3-7 days",
+            "description": "A multi-day trek through the heart of the Carpathian Mountains.",
+            "bestLocations": [
+              "Piatra Craiului National Park",
+              "Retezat National Park"
+            ],
+            "requirements": "Hiking boots, waterproof clothing, map, compass",
+            "safety": [
+              "Inform someone of your route",
+              "Check weather conditions",
+              "Carry sufficient water and food"
+            ]
+          },
+          {
+            "name": "Praslavesti Forest Hike",
+            "difficulty": "Easy",
+            "season": "Spring - Autumn",
+            "duration": "2-4 hours",
+            "description": "A scenic hike through a beautiful forest.",
+            "bestLocations": [
+              "Praslavesti Natural Park"
+            ],
+            "requirements": "Comfortable shoes, water bottle",
+            "safety": [
+              "Stick to marked trails",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Romania's coastline along the Black Sea and its numerous lakes offer opportunities for a variety of water sports.",
+        "activities": [
+          {
+            "name": "Black Sea Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Relaxing swim in the Black Sea.",
+            "bestLocations": [
+              "Constanta",
+              "Mamaia"
+            ],
+            "requirements": "Swimsuit, sunscreen",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Kayaking on Lake Balea",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "3-5 hours",
+            "description": "Explore the stunning scenery of Lake Balea by kayak.",
+            "bestLocations": [
+              "Balea National Park"
+            ],
+            "requirements": "Kayak, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Check weather conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm layers, waterproof jacket and trousers, hat, gloves, scarf",
+        "yearRound": "Comfortable walking shoes, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Inform someone of your plans",
+        "Be aware of local customs"
+      ]
+    }
+  }
+}

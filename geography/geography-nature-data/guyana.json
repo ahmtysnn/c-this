@@ -1,0 +1,310 @@
+{
+  "name": "Guyana",
+  "region": "South America",
+  "description": "Guyana, officially the Cooperative Republic of Guyana, is a country in the northernmost part of South America. It’s known for its pristine rainforests, diverse wildlife, and significant mineral resources. The country boasts a rich indigenous heritage and is experiencing rapid development while striving to balance economic growth with environmental sustainability.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Georgetown",
+      "icon": "MapPin",
+      "description": "The vibrant capital city, located on the Essequibo River.",
+      "detail": "Georgetown is a melting pot of cultures, with influences from indigenous, African, Indian, and European communities."
+    },
+    {
+      "label": "Population",
+      "value": "813,000",
+      "icon": "Users",
+      "description": "A relatively small population contributes to its pristine environment.",
+      "detail": "The majority of the population is of mixed descent, with significant populations of indigenous peoples, East Indians, Africans, and Europeans."
+    },
+    {
+      "label": "Area",
+      "value": "214,969 sq km (83,000 sq mi)",
+      "icon": "Globe",
+      "description": "Largely covered by dense rainforest.",
+      "detail": "Guyana is the only English-speaking country in South America."
+    },
+    {
+      "label": "Currency",
+      "value": "Guyanese Dollar (GYD)",
+      "icon": "Coffee",
+      "description": "The local currency.",
+      "detail": "Exchange rates fluctuate, but generally, 1 USD is approximately 100 GYD."
+    },
+    {
+      "label": "Independence",
+      "value": "May 26, 1966",
+      "icon": "Calendar",
+      "description": "Gained independence from Britain.",
+      "detail": "Previously part of British Guiana."
+    }
+  ],
+  "climateData": {
+    "title": "Guyanese Climate",
+    "description": "Guyana experiences a tropical rainforest climate, characterized by high temperatures and humidity throughout the year. Rainfall is abundant and distributed relatively evenly.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season",
+        "period": "December - April",
+        "description": "This period is marked by heavy rainfall and high humidity. Rivers swell, making travel difficult in some areas.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Flooding in low-lying areas"
+        ],
+        "activities": [
+          "River rafting",
+          "Wildlife viewing (flooded areas)",
+          "Rainforest hikes"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "May - November",
+        "description": "The dry season brings lower rainfall and cooler temperatures. It's a popular time for tourism and outdoor activities.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Cooler temperatures",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Birdwatching",
+          "Fishing",
+          "Wildlife spotting"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Kaieteur Falls",
+      "category": "Waterfall",
+      "description": "Kaieteur Falls is one of the world’s most powerful waterfalls, plunging 741 feet (226 meters) into the Potaro River. It’s a truly awe-inspiring sight and a testament to Guyana’s untouched wilderness.",
+      "detailedDescription": "Located deep within the rainforest, Kaieteur Falls is accessible by small aircraft. The sheer volume of water cascading over the falls creates a thunderous roar and a perpetual mist.",
+      "bestTime": "Year-round, but particularly stunning during the dry season (May-November).",
+      "bestLocations": [
+        "Kaieteur National Park"
+      ],
+      "viewingTips": [
+        "Bring waterproof gear",
+        "Wear sturdy hiking boots",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Height": "741 m",
+        "Width": "480 m",
+        "FlowRate": "600 cubic meters per second"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Iwokrama Forest",
+      "category": "Forest",
+      "description": "Iwokrama Forest is a vast, ancient rainforest that spans over 1.3 million hectares. It’s a biodiversity hotspot and a crucial area for conservation efforts.",
+      "detailedDescription": "The forest is renowned for its incredible biodiversity, including jaguars, giant river otters, harpy eagles, and numerous tree species. It’s also home to the Iwokrama Canopy Walkway, offering a unique perspective on the rainforest ecosystem.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Iwokrama Canopy Walkway",
+        "Iwokrama Research Station"
+      ],
+      "viewingTips": [
+        "Book accommodations in advance",
+        "Hire a local guide",
+        "Be aware of wildlife"
+      ],
+      "scientificData": {
+        "Age": "Over 100 million years",
+        "TreeDensity": "Approximately 300 trees per hectare"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Guyanese Ecosystems",
+    "overview": "Guyana’s ecosystems are remarkably diverse, ranging from lowland rainforests to savanna woodlands and coastal wetlands. The country is a global leader in rainforest conservation.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of the country's land area is protected in national parks and reserves.",
+      "nationalParks": 5
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Guyana is home to a variety of mammals, including jaguars, ocelots, giant river otters, capybaras, and tapirs.",
+        "statistics": [
+          {
+            "category": "Jaguars",
+            "count": "Approximately 200",
+            "details": "Critically endangered"
+          },
+          {
+            "category": "Giant River Otters",
+            "count": "Approximately 500",
+            "details": "Vulnerable"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Critically Endangered",
+            "significance": "Apex predator and indicator species"
+          },
+          {
+            "name": "Giant River Otter",
+            "status": "Vulnerable",
+            "significance": "Keystone species in river ecosystems"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Habitat restoration"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Guyana boasts an incredible diversity of bird species, including macaws, toucans, hummingbirds, and raptors.",
+        "statistics": [
+          {
+            "category": "Macaws",
+            "count": "Approximately 500",
+            "details": "Several species threatened"
+          },
+          {
+            "category": "Toucans",
+            "count": "Approximately 30",
+            "details": "Diverse species found throughout the country"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Harpy Eagle",
+            "status": "Vulnerable",
+            "significance": "Largest raptor in the Americas"
+          },
+          {
+            "name": "Scarlet Macaw",
+            "status": "Endangered",
+            "significance": "Iconic rainforest bird"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal wildlife trade"
+        ],
+        "conservationEfforts": [
+          "Community-based conservation programs",
+          "Protected area management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Guyanese Adventures",
+    "description": "Guyana offers a wide range of outdoor activities for adventure seekers and nature enthusiasts.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the country’s rainforests and waterfalls on foot.",
+        "activities": [
+          {
+            "name": "Kaieteur Falls Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-5 hours",
+            "description": "A guided hike to the base of Kaieteur Falls.",
+            "bestLocations": [
+              "Kaieteur National Park"
+            ],
+            "requirements": "Sturdy hiking boots, rain gear, insect repellent",
+            "safety": [
+              "Be aware of slippery trails",
+              "Stay on marked paths"
+            ]
+          },
+          {
+            "name": "Iwokrama Canopy Walkway Hike",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-3 hours",
+            "description": "Walk among the rainforest canopy on a suspended walkway.",
+            "bestLocations": [
+              "Iwokrama Forest"
+            ],
+            "requirements": "Comfortable shoes, insect repellent",
+            "safety": [
+              "Follow walkway guidelines",
+              "Be mindful of wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Experience Guyana’s rivers and waterways through various water sports.",
+        "activities": [
+          {
+            "name": "River Rafting",
+            "difficulty": "Moderate",
+            "season": "June - November",
+            "duration": "1-3 days",
+            "description": "Raft down the Essequibo or Potaro Rivers.",
+            "bestLocations": [
+              "Essequibo River",
+              "Potaro River"
+            ],
+            "requirements": "Life jacket, appropriate clothing",
+            "safety": [
+              "Follow guide instructions",
+              "Be aware of river currents"
+            ]
+          },
+          {
+            "name": "Canoeing",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Variable",
+            "description": "Explore the smaller creeks and tributaries by canoe.",
+            "bestLocations": [
+              "Iwokrama Forest",
+              "Various rivers"
+            ],
+            "requirements": "Canoe, paddle, life jacket",
+            "safety": [
+              "Be aware of wildlife",
+              "Stay close to shore"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, swimwear, hat, sunglasses",
+        "winter": "Long-sleeved shirts, trousers, fleece jacket, waterproof jacket",
+        "yearRound": "Insect repellent, sunscreen, hiking boots"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, flashlight, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Insect repellent",
+        "Sunscreen",
+        "First-aid kit"
+      ]
+    }
+  }
+}

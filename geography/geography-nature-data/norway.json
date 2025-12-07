@@ -1,0 +1,370 @@
+{
+  "name": "Norway",
+  "region": "Northern Europe",
+  "description": "Norway, officially the Kingdom of Norway, is a Scandinavian country in Northern Europe. It’s renowned for its stunning fjords, dramatic mountains, and extensive coastline.  Norway boasts a rich cultural heritage, a thriving economy based on petroleum and renewable energy, and a commitment to environmental sustainability.  It’s a land of contrasts, from the Arctic tundra in the north to the temperate forests of the south, offering a diverse range of landscapes and experiences.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "5479000",
+      "icon": "Users",
+      "description": "The population of Norway is approximately 5.5 million people.",
+      "detail": "Norway has one of the highest GDP per capita in the world, largely due to its oil and gas reserves."
+    },
+    {
+      "label": "Area",
+      "value": "385208",
+      "icon": "MapPin",
+      "description": "Norway covers an area of 385,208 square kilometers.",
+      "detail": "It's the European continent's 16th largest country."
+    },
+    {
+      "label": "Capital",
+      "value": "Oslo",
+      "icon": "MapPin",
+      "description": "Oslo is the capital and largest city of Norway.",
+      "detail": "Oslo is a vibrant cultural hub with numerous museums, art galleries, and historical sites."
+    },
+    {
+      "label": "Official Language",
+      "value": "Norwegian",
+      "icon": "Globe",
+      "description": "The official language is Norwegian, with two main varieties: Bokmål and Nynorsk.",
+      "detail": "English is widely spoken, especially in urban areas."
+    },
+    {
+      "label": "Currency",
+      "value": "Norwegian Krone (NOK)",
+      "icon": "Coffee",
+      "description": "The currency is the Norwegian Krone.",
+      "detail": "The exchange rate fluctuates, but generally around 10 NOK = 1 USD."
+    },
+    {
+      "label": "Government",
+      "value": "Constitutional Monarchy",
+      "icon": "Clock",
+      "description": "Norway has a parliamentary constitutional monarchy.",
+      "detail": "The King is the head of state, but the Prime Minister leads the government."
+    }
+  ],
+  "climateData": {
+    "title": "Norwegian Climate",
+    "description": "Norway experiences a wide range of climates due to its long north-south extent. The climate generally becomes colder the further north you travel. Summers are mild and relatively short, while winters are long, dark, and cold, particularly in the northern regions.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "Summer in Norway is characterized by long daylight hours, warm temperatures, and lush greenery. It's a popular time for outdoor activities.",
+        "keyFeatures": [
+          "Long daylight hours",
+          "Warm temperatures (15-25°C)",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Hiking",
+          "Kayaking",
+          "Fishing",
+          "Camping"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September to November",
+        "description": "Autumn brings cooler temperatures, vibrant fall foliage, and shorter daylight hours. The landscape transforms into a stunning display of reds, oranges, and yellows.",
+        "keyFeatures": [
+          "Fall foliage",
+          "Cool temperatures (5-15°C)",
+          "Changing landscapes"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wildlife watching"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "Winter in Norway is cold and snowy, with long periods of darkness in the north. It's a fantastic time for winter sports and experiencing the Northern Lights.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures (-5 to 5°C)",
+          "Northern Lights potential"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Snowshoeing",
+          "Northern Lights viewing"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March to May",
+        "description": "Spring brings gradually warming temperatures, melting snow, and the return of wildlife. The days get longer, and the landscape begins to awaken.",
+        "keyFeatures": [
+          "Melting snow",
+          "Increasing daylight",
+          "Wildlife returning"
+        ],
+        "activities": [
+          "Hiking",
+          "Fishing",
+          "Birdwatching"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Norwegian Fjords",
+      "category": "Geological",
+      "description": "The Norwegian fjords are deep, narrow inlets carved by glaciers during the last Ice Age. They are renowned for their dramatic beauty, towering cliffs, and cascading waterfalls.",
+      "detailedDescription": "These majestic waterways offer breathtaking views and unique opportunities for exploration by boat, kayak, or hiking. The sheer scale and pristine nature of the fjords are truly awe-inspiring.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Geirangerfjord",
+        "Sognefjord",
+        "Lysefjord"
+      ],
+      "viewingTips": [
+        "Take a fjord cruise for panoramic views",
+        "Hike to viewpoints for stunning perspectives",
+        "Explore the charming villages along the fjords"
+      ],
+      "scientificData": {
+        "Depth": "500-1300m",
+        "Glacier Formation Age": "10,000 - 12,000 years"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Lofoten Islands",
+      "category": "Coastal",
+      "description": "The Lofoten Islands are a rugged archipelago in Northern Norway, famed for their dramatic mountains rising directly from the sea, picturesque fishing villages, and stunning sunsets.",
+      "detailedDescription": "These islands offer a unique blend of natural beauty and cultural heritage. The vibrant red rorbuer (fishermen's cabins) add a charming touch to the landscape, and the area is a haven for outdoor enthusiasts.",
+      "bestTime": "June - August",
+      "bestLocations": [
+        "Reine",
+        "Henningsvær",
+        "Svolvær"
+      ],
+      "viewingTips": [
+        "Photograph the sunset over the mountains",
+        "Hike to Reinebringen for panoramic views",
+        "Explore the traditional fishing villages"
+      ],
+      "scientificData": {
+        "Island Count": "27",
+        "Highest Peak": "Reinebringen (800m)"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Jostedalsbreen National Park",
+      "category": "Glacial",
+      "description": "Jostedalsbreen National Park is home to Europe's largest glacier, Jostedalsbreen, and a vast area of glacial landscapes, offering unparalleled opportunities for experiencing the power and beauty of ice.",
+      "detailedDescription": "The park encompasses a diverse range of terrain, including glaciers, valleys, lakes, and mountains. Visitors can hike, climb, and explore the glacial environment, witnessing the dynamic forces shaping the landscape.",
+      "bestTime": "June - August",
+      "bestLocations": [
+        "Breheiden",
+        "Stoksådalen"
+      ],
+      "viewingTips": [
+        "Take a guided glacier walk",
+        "Visit the Jostedalsbreen Ice Museum",
+        "Explore the surrounding valleys"
+      ],
+      "scientificData": {
+        "Glacier Area": "33 sq km",
+        "Ice Age Age": "Over 10,000 years"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Norwegian Ecosystems",
+    "overview": "Norway’s ecosystems are incredibly diverse, ranging from arctic tundra in the north to temperate forests and coastal wetlands in the south. These ecosystems support a rich array of plant and animal life, many of which are unique to the region.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 30
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Arctic Tundra",
+        "icon": "Snowflake",
+        "description": "The Arctic tundra is a vast, treeless region characterized by permafrost, low-growing vegetation, and a short growing season.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "200",
+            "details": "Relatively low plant diversity due to harsh conditions"
+          },
+          {
+            "category": "Animal Species",
+            "count": "150",
+            "details": "Includes Arctic foxes, reindeer, and various bird species"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Arctic Fox",
+            "status": "Vulnerable",
+            "significance": "A key predator in the Arctic ecosystem"
+          },
+          {
+            "name": "Reindeer",
+            "status": "Least Concern",
+            "significance": "An important source of food and materials for indigenous communities"
+          }
+        ],
+        "threats": [
+          "Climate change",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Sustainable land management"
+        ]
+      },
+      {
+        "name": "Boreal Forest",
+        "icon": "Trees",
+        "description": "The boreal forest, also known as taiga, covers a large portion of Norway, characterized by coniferous trees and a cold climate.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "100",
+            "details": "Dominated by spruce, pine, and fir trees"
+          },
+          {
+            "category": "Wildlife",
+            "count": "50",
+            "details": "Supports a diverse range of mammals, birds, and insects"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Eurasian Lynx",
+            "status": "Near Threatened",
+            "significance": "An apex predator in the boreal forest ecosystem"
+          },
+          {
+            "name": "Willow Warbler",
+            "status": "Least Concern",
+            "significance": "A migratory bird that breeds in the boreal forest"
+          }
+        ],
+        "threats": [
+          "Logging",
+          "Forest fires"
+        ],
+        "conservationEfforts": [
+          "Sustainable forestry practices",
+          "Reforestation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Norway",
+    "description": "Norway offers a vast array of outdoor activities for all skill levels, from challenging hikes to relaxing boat trips. The country’s stunning landscapes provide the perfect backdrop for adventure and exploration.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Norway is a hiker's paradise, with trails ranging from gentle coastal walks to challenging mountain climbs.",
+        "activities": [
+          {
+            "name": "Preikestolen Hike",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "4-5 hours",
+            "description": "Hike to the iconic Pulpit Rock for breathtaking views of Lysefjord.",
+            "bestLocations": [
+              "Lysefjord"
+            ],
+            "requirements": "Good hiking boots, waterproof clothing",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your plans"
+            ]
+          },
+          {
+            "name": "Romsdalseggen Hike",
+            "difficulty": "Hard",
+            "season": "Summer",
+            "duration": "6-8 hours",
+            "description": "A challenging hike along a dramatic ridge with stunning views of the Romsdal Alps.",
+            "bestLocations": [
+              "Romsdal Alps"
+            ],
+            "requirements": "Excellent fitness, hiking experience",
+            "safety": [
+              "Experienced guide recommended",
+              "Weather dependent"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Norway’s coastline offers incredible opportunities for water sports, from kayaking to surfing.",
+        "activities": [
+          {
+            "name": "Kayaking in the Fjords",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "2-4 hours",
+            "description": "Explore the serene beauty of the Norwegian fjords by kayak.",
+            "bestLocations": [
+              "Geirangerfjord",
+              "Sognefjord"
+            ],
+            "requirements": "Kayak, paddle, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Surfing in Rosendal",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "3-5 hours",
+            "description": "Catch some waves in Rosendal, a popular surfing spot on the west coast.",
+            "bestLocations": [
+              "Rosendal"
+            ],
+            "requirements": "Surfboard, wetsuit",
+            "safety": [
+              "Check surf conditions",
+              "Use a leash"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof outerwear, hat, gloves, scarf",
+        "yearRound": "Hiking boots, rain gear"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking poles, first-aid kit",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Check weather conditions",
+        "Carry a first-aid kit",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "CountryData": {
+    "name": "French Polynesia",
+    "region": "Oceania",
+    "description": "French Polynesia is an overseas collectivity of France in the South Pacific Ocean. It’s comprised of 118 islands, of which 67 are inhabited. Known for its stunning turquoise lagoons, volcanic peaks, and vibrant coral reefs, it’s a tropical paradise attracting tourists and researchers alike. The islands boast a unique blend of Polynesian and French cultures, reflected in its cuisine, traditions, and architecture.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "306,838",
+        "icon": "Users",
+        "description": "The total population of French Polynesia is approximately 306,838, spread across its numerous islands.",
+        "detail": "The population density is relatively low, with most residents concentrated on Tahiti and its surrounding islands."
+      },
+      {
+        "label": "Area",
+        "value": "4,039 sq km (1,558 sq mi)",
+        "icon": "MapPin",
+        "description": "French Polynesia covers a total area of 4,039 square kilometers (1,558 square miles).",
+        "detail": "This includes land and marine areas, highlighting the vastness of its oceanic territory."
+      },
+      {
+        "label": "Capital",
+        "value": "Papeete",
+        "icon": "MapPin",
+        "description": "Papeete is the capital and largest city of French Polynesia, located on the island of Tahiti.",
+        "detail": "It serves as the administrative, economic, and cultural center of the collectivity."
+      },
+      {
+        "label": "Currency",
+        "value": "CFP Franc (XPF)",
+        "icon": "Coffee",
+        "description": "The official currency of French Polynesia is the CFP Franc (XPF).",
+        "detail": "It is pegged to the Euro and the US Dollar."
+      },
+      {
+        "label": "Language",
+        "value": "French and Tahitian",
+        "icon": "Globe",
+        "description": "French is the official language, while Tahitian is widely spoken and holds significant cultural importance.",
+        "detail": "Many residents also speak English, particularly in tourist areas."
+      },
+      {
+        "label": "GDP",
+        "value": "$6.3 billion (2022)",
+        "icon": "Zap",
+        "description": "The Gross Domestic Product (GDP) of French Polynesia in 2022 was approximately $6.3 billion.",
+        "detail": "Tourism is the dominant contributor to the economy."
+      }
+    ],
+    "climateData": {
+      "title": "Tropical Climate",
+      "description": "French Polynesia enjoys a classic tropical climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is generally abundant, particularly during the wet season, but the islands are also blessed with plenty of sunshine.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (December - April)",
+          "period": "Warm & Wet",
+          "description": "Summer brings the warmest temperatures and the highest rainfall. It’s a lush and vibrant time of year, ideal for exploring the islands’ interior and enjoying water activities.",
+          "keyFeatures": [
+            "High humidity",
+            "Frequent showers",
+            "Warm temperatures (28-32°C)",
+            "Strong trade winds"
+          ],
+          "activities": [
+            "Surfing",
+            "Snorkeling",
+            "Diving",
+            "Hiking"
+          ]
+        },
+        {
+          "name": "Autumn (May - September)",
+          "period": "Transition",
+          "description": "Autumn marks a transition period with decreasing rainfall and slightly cooler temperatures. The seas are calmer, making it a good time for sailing and exploring the outer islands.",
+          "keyFeatures": [
+            "Decreasing rainfall",
+            "Pleasant temperatures (26-29°C)",
+            "Calmer seas",
+            "Reduced humidity"
+          ],
+          "activities": [
+            "Sailing",
+            "Fishing",
+            "Island hopping",
+            "Wildlife watching"
+          ]
+        },
+        {
+          "name": "Winter (October - November)",
+          "period": "Dry Season",
+          "description": "Winter is considered the dry season, with the least rainfall and the most sunshine. It’s a popular time to visit, offering ideal conditions for outdoor activities.",
+          "keyFeatures": [
+            "Lowest rainfall",
+            "Warmest temperatures (27-31°C)",
+            "Sunny skies",
+            "Clear waters"
+          ],
+          "activities": [
+            "Scuba diving",
+            "Jet skiing",
+            "Beach relaxation",
+            "Cultural tours"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "The Tuamotu Archipelago",
+        "category": "Archipelago",
+        "description": "The Tuamotus are a stunning chain of coral atolls stretching across the South Pacific. These remote islands offer unparalleled beauty, pristine beaches, and exceptional diving and snorkeling opportunities.",
+        "detailedDescription": "Comprising over 70 islands, many uninhabited, the Tuamotus are a vital part of French Polynesia’s ecosystem. They are renowned for their vibrant coral reefs, abundant marine life, and traditional Polynesian culture.",
+        "bestTime": "Year-Round",
+        "bestLocations": [
+          "Fakarava Atoll",
+          "Rangiroa Atoll",
+          "Katiu Atoll"
+        ],
+        "viewingTips": [
+          "Respect the marine environment",
+          "Use reef-safe sunscreen",
+          "Book diving/snorkeling tours in advance"
+        ],
+        "scientificData": {
+          "Depth": "Average 3m, Maximum 100m",
+          "Coral Coverage": "80%",
+          "Biodiversity": "Over 500 fish species"
+        },
+        "icon": "Waves"
+      },
+      {
+        "id": 2,
+        "name": "Mount Orohena",
+        "category": "Volcano",
+        "description": "Mount Orohena, located on the island of Tahiti, is the highest point in French Polynesia, offering breathtaking panoramic views of the surrounding landscape.",
+        "detailedDescription": "This dormant volcano is a significant landmark and a popular hiking destination. Its slopes are covered in lush rainforest, providing habitat for a diverse range of flora and fauna.",
+        "bestTime": "May - October",
+        "bestLocations": [
+          "Tahiti"
+        ],
+        "viewingTips": [
+          "Wear sturdy hiking shoes",
+          "Bring plenty of water",
+          "Check weather conditions before heading out"
+        ],
+        "scientificData": {
+          "Height": "2,510m",
+          "Age": "Approximately 800,000 years",
+          "Volcanic Type": "Stratovolcano"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 3,
+        "name": "Raiatea",
+        "category": "Island",
+        "description": "Raiatea is considered the sacred island of French Polynesia, holding immense cultural and historical significance as the origin point of the Polynesian civilization.",
+        "detailedDescription": "It’s home to the Taputapuatea marae, a UNESCO World Heritage site, and a testament to the ancient Polynesian people’s sophisticated religious practices and architectural skills. The island’s interior is dominated by Mount Puia, an active volcano.",
+        "bestTime": "Year-Round",
+        "bestLocations": [
+          "Taputapuatea Marae",
+          "Mount Puia"
+        ],
+        "viewingTips": [
+          "Learn about the island’s history and culture",
+          "Respect the sacred sites"
+        ],
+        "scientificData": {
+          "Area": "147 sq km",
+          "Elevation": "1,236m",
+          "Volcanic Activity": "Ongoing"
+        },
+        "icon": "Globe"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Polynesian Ecosystems",
+      "overview": "French Polynesia boasts a remarkably diverse ecosystem, encompassing coral reefs, volcanic mountains, rainforests, and coastal wetlands. This biodiversity is a result of the islands’ unique geological history and isolation.",
+      "conservationStatus": {
+        "protectedAreas": "20%",
+        "nationalParks": 8
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Coral Reefs",
+          "icon": "Leaf",
+          "description": "French Polynesia’s coral reefs are among the most vibrant and diverse in the world, supporting a vast array of marine life.",
+          "statistics": [
+            {
+              "category": "Coral Species",
+              "count": "300+",
+              "details": "Over 300 different species of coral"
+            },
+            {
+              "category": "Fish Species",
+              "count": "1,500+",
+              "details": "More than 1,500 species of fish"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Manta Ray",
+              "status": "Vulnerable",
+              "significance": "A keystone species in the reef ecosystem"
+            },
+            {
+              "name": "Hawksbill Turtle",
+              "status": "Endangered",
+              "significance": "Important for maintaining reef health"
+            }
+          ],
+          "threats": [
+            "Climate change",
+            "Pollution",
+            "Overfishing"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas",
+            "Coral restoration projects"
+          ]
+        },
+        {
+          "name": "Rainforests",
+          "icon": "Trees",
+          "description": "The interior of many islands is covered in lush rainforests, home to a wealth of endemic plant and animal species.",
+          "statistics": [
+            {
+              "category": "Tree Species",
+              "count": "500+",
+              "details": "Over 500 species of trees"
+            },
+            {
+              "category": "Bird Species",
+              "count": "80+",
+              "details": "More than 80 species of birds"
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Moa Henna",
+              "status": "Endangered",
+              "significance": "A flightless bird unique to French Polynesia"
+            },
+            {
+              "name": "Tahitian Parakeet",
+              "status": "Vulnerable",
+              "significance": "An iconic symbol of the islands"
+            }
+          ],
+          "threats": [
+            "Deforestation",
+            "Habitat loss"
+          ],
+          "conservationEfforts": [
+            "Reforestation programs",
+            "Protected forest reserves"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Adventures",
+      "description": "French Polynesia offers a wide range of outdoor activities for all interests and skill levels, from thrilling water sports to challenging hikes.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the islands’ volcanic peaks, lush rainforests, and coastal trails.",
+          "activities": [
+            {
+              "name": "Mount Puia Hike",
+              "difficulty": "Moderate",
+              "season": "May - October",
+              "duration": "4-6 hours",
+              "description": "A challenging hike to the summit of Mount Puia, offering stunning views of Raiatea.",
+              "bestLocations": [
+                "Raiatea"
+              ],
+              "requirements": "Good hiking shoes, water, sunscreen",
+              "safety": [
+                "Check weather conditions",
+                "Stay on marked trails"
+              ]
+            },
+            {
+              "name": "Tahitian Trail Hike",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "2-4 hours",
+              "description": "A scenic hike through the rainforests of Tahiti.",
+              "bestLocations": [
+                "Tahiti"
+              ],
+              "requirements": "Comfortable shoes, water",
+              "safety": [
+                "Wear insect repellent"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Experience the crystal-clear waters of French Polynesia with a variety of water sports.",
+          "activities": [
+            {
+              "name": "Scuba Diving",
+              "difficulty": "Moderate",
+              "season": "Year-Round",
+              "duration": "Variable",
+              "description": "Explore the vibrant coral reefs and abundant marine life.",
+              "bestLocations": [
+                "Rangiroa",
+                "Fakarava"
+              ],
+              "requirements": "Certification, mask, fins, snorkel",
+              "safety": [
+                "Follow dive guidelines",
+                "Respect marine life"
+              ]
+            },
+            {
+              "name": "Surfing",
+              "difficulty": "Easy - Expert",
+              "season": "May - October",
+              "duration": "Variable",
+              "description": "Catch the waves at some of the world’s best surf breaks.",
+              "bestLocations": [
+                "Teahupo’o",
+                "Tahiti"
+              ],
+              "requirements": "Surfboard, wetsuit (depending on season)",
+              "safety": [
+                "Be aware of currents",
+                "Check surf conditions"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+          "winter": "Layers of clothing, waterproof jacket, sweater, long pants",
+          "yearRound": "Comfortable walking shoes, sandals"
+        },
+        "equipment": {
+          "basic": "Sunglasses, insect repellent, reusable water bottle",
+          "hiking": "Hiking boots, backpack, map, compass",
+          "photography": "Camera, waterproof case"
+        },
+        "safety": [
+          "Respect local customs",
+          "Stay hydrated",
+          "Be aware of the sun",
+          "Follow safety guidelines for activities"
+        ]
+      }
+    }
+  }
+}

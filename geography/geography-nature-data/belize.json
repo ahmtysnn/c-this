@@ -1,0 +1,350 @@
+{
+  "name": "Belize",
+  "region": "Central America",
+  "description": "Belize, officially the Belize District, is a small, easily traversable country located on the northeastern coast of Central America. Bordering Mexico to the north and Guatemala to the west, it boasts a remarkably diverse landscape, encompassing the world’s second-largest barrier reef, lush rainforests, and dramatic Mayan ruins. Belize is known for its rich cultural heritage, blending Mayan, Creole, Garifuna, Mestizo, and European influences, creating a vibrant and unique society.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Belmopan",
+      "icon": "MapPin",
+      "description": "The administrative and political center of Belize.",
+      "detail": "Established in 1981, Belmopan is a planned city designed to alleviate the pressure on the historic capital, Belize City."
+    },
+    {
+      "label": "Population",
+      "value": "397,654",
+      "icon": "Users",
+      "description": "The total population of Belize as of 2023.",
+      "detail": "The population is comprised of diverse ethnic groups, primarily Creole, Mestizo, Garifuna, and Maya."
+    },
+    {
+      "label": "Area",
+      "value": "22,966 sq km (8,867 sq mi)",
+      "icon": "Globe",
+      "description": "Belize's land area.",
+      "detail": "This makes it one of the smallest countries in Central America."
+    },
+    {
+      "label": "Official Language",
+      "value": "English",
+      "icon": "Navigation",
+      "description": "English is the official language of Belize.",
+      "detail": "It was established as the official language during British rule."
+    },
+    {
+      "label": "Currency",
+      "value": "Belize Dollar (BZD)",
+      "icon": "Clock",
+      "description": "The local currency of Belize.",
+      "detail": "The BZD is pegged to the US Dollar at a rate of 2:1."
+    },
+    {
+      "label": "GDP",
+      "value": "$2.3 Billion (2022)",
+      "icon": "Coffee",
+      "description": "Belize's Gross Domestic Product in 2022.",
+      "detail": "Tourism and agriculture are the primary contributors to the economy."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "Belize experiences a tropical climate with consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, particularly during the rainy season.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December - April",
+        "description": "The dry season is characterized by sunny days, lower humidity, and less rainfall. It's the most popular time to visit for outdoor activities.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Snorkeling",
+          "Diving",
+          "Hiking",
+          "Cave exploring"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May - November",
+        "description": "The wet season brings heavy rainfall, cloudy skies, and higher humidity. Despite the rain, the landscape is incredibly lush and vibrant.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "High humidity",
+          "Lush vegetation"
+        ],
+        "activities": [
+          "River tubing",
+          "Wildlife spotting",
+          "Exploring waterfalls"
+        ]
+      },
+      {
+        "name": "Hurricane Season",
+        "period": "June - November",
+        "description": "Belize is susceptible to hurricanes during this period. Travelers should monitor weather forecasts and be prepared for potential disruptions.",
+        "keyFeatures": [
+          "Increased hurricane risk",
+          "Potential travel disruptions"
+        ],
+        "activities": [
+          "Limited outdoor activities during storms"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Great Blue Hole",
+      "category": "Marine",
+      "description": "The Great Blue Hole is a massive marine sinkhole located off the coast of Belize. It’s a UNESCO World Heritage Site and a world-renowned diving destination.",
+      "detailedDescription": "Formed during the last ice age, the Blue Hole plunges to a depth of 124 meters (407 feet). Its unique geological features and diverse marine life make it a truly spectacular sight.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Ambergris Caye",
+        "Caye Caulker"
+      ],
+      "viewingTips": [
+        "Bring underwater photography equipment",
+        "Check weather conditions before diving"
+      ],
+      "scientificData": {
+        "Depth": "124m",
+        "Diameter": "318m",
+        "Age": "10,000 - 15,000 years"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Cockscomb Basin Wildlife Sanctuary",
+      "category": "Forest",
+      "description": "The Cockscomb Basin Wildlife Sanctuary is the world’s first jaguar preserve. It’s a haven for wildlife and a crucial area for jaguar conservation.",
+      "detailedDescription": "Located in the Toledo District, the sanctuary encompasses a diverse range of habitats, including rainforest, swamp, and grassland. It’s home to a variety of species, including jaguars, tapirs, ocelots, and numerous bird species.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "Cockscomb Village"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Wear sturdy hiking boots"
+      ],
+      "scientificData": {
+        "Area": "166 sq km (64 sq mi)",
+        "Elevation Range": "100m - 854m"
+      },
+      "icon": "Bird"
+    },
+    {
+      "id": 3,
+      "name": "Maya Mountains",
+      "category": "Mountain",
+      "description": "The Maya Mountains form the backbone of Belize, offering stunning scenery and a rich cultural heritage.",
+      "detailedDescription": "These mountains are home to numerous Mayan ruins, including Xunantunich and Caracol. The area is also known for its waterfalls, caves, and diverse flora and fauna.",
+      "bestTime": "December - April",
+      "bestLocations": [
+        "San Ignacio",
+        "Belmopan"
+      ],
+      "viewingTips": [
+        "Pack rain gear",
+        "Respect local customs"
+      ],
+      "scientificData": {
+        "Highest Peak": "Mount Blanc (1,123m)",
+        "Average Elevation": "330m"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Belize’s Diverse Ecosystems",
+    "overview": "Belize boasts an incredible array of ecosystems, from the vibrant coral reefs of the Barrier Reef to the dense rainforests of the Maya Mountains. These ecosystems are home to a remarkable diversity of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "22%",
+      "nationalParks": 15
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Marine",
+        "icon": "Waves",
+        "description": "Belize’s Barrier Reef is the second-largest barrier reef in the world, supporting a vast array of marine life.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "700+",
+            "details": "A remarkable diversity of coral species thrives within the reef system."
+          },
+          {
+            "category": "Fish Species",
+            "count": "600+",
+            "details": "The reef is home to over 600 species of fish, including sharks, rays, and colorful reef fish."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Green Sea Turtle",
+            "status": "Endangered",
+            "significance": "A key indicator species for the health of the reef."
+          },
+          {
+            "name": "Belizean Hogfish",
+            "status": "Vulnerable",
+            "significance": "A unique species found only in Belize."
+          }
+        ],
+        "threats": [
+          "Climate change",
+          "Pollution",
+          "Overfishing"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices"
+        ]
+      },
+      {
+        "name": "Forest",
+        "icon": "Trees",
+        "description": "Belize’s rainforests are incredibly biodiverse, supporting a wide range of plant and animal life.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 500",
+            "details": "A vast number of tree species contribute to the rainforest’s complex ecosystem."
+          },
+          {
+            "category": "Mammal Species",
+            "count": "30+",
+            "details": "Diverse mammal populations, including jaguars, tapirs, and howler monkeys."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Near Threatened",
+            "significance": "The apex predator of the rainforest."
+          },
+          {
+            "name": "Howler Monkey",
+            "status": "Least Concern",
+            "significance": "Known for their loud calls."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Sustainable forestry practices"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Adventure Activities in Belize",
+    "description": "Belize offers a wide range of activities for adventure seekers, from diving and snorkeling to hiking and exploring Mayan ruins.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Belize’s rainforests and mountains on foot.",
+        "activities": [
+          {
+            "name": "Cockscomb Basin Trail",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-6 hours",
+            "description": "A popular trail leading to waterfalls and scenic viewpoints.",
+            "bestLocations": [
+              "Cockscomb Basin Wildlife Sanctuary"
+            ],
+            "requirements": "Hiking boots, water, sunscreen",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Mountain Pine Ridge Trail",
+            "difficulty": "Hard",
+            "season": "Dry Season",
+            "duration": "6-12 hours",
+            "description": "A challenging hike through the Mountain Pine Ridge Forest Reserve.",
+            "bestLocations": [
+              "Mountain Pine Ridge Forest Reserve"
+            ],
+            "requirements": "Sturdy hiking boots, plenty of water, rain gear",
+            "safety": [
+              "Flash floods possible",
+              "Bring a map and compass"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Experience the beauty of Belize’s waters through various water sports.",
+        "activities": [
+          {
+            "name": "Snorkeling & Diving",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Ambergris Caye",
+              "Caye Caulker",
+              "Hol Chan Marine Reserve"
+            ],
+            "requirements": "Snorkel gear or diving certification",
+            "safety": [
+              "Follow dive guidelines",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "River Tubing",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "2-3 hours",
+            "description": "Relax and float down the rivers of Belize.",
+            "bestLocations": [
+              "Bumble Bee Cave",
+              "Rio Grande"
+            ],
+            "requirements": "Water shoes, sunscreen",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of river conditions"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Layers of clothing, rain jacket, sweater",
+        "yearRound": "Comfortable walking shoes, sandals"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, flashlight, first-aid kit",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, waterproof case"
+      },
+      "safety": [
+        "Drink plenty of water",
+        "Wear sunscreen",
+        "Be aware of wildlife",
+        "Respect local customs"
+      ]
+    }
+  }
+}

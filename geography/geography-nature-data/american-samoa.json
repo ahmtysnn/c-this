@@ -1,0 +1,341 @@
+{
+  "name": "American Samoa",
+  "region": "Oceania",
+  "description": "American Samoa, an unincorporated territory of the United States located in the South Pacific Ocean, is a volcanic archipelago renowned for its stunning natural beauty, rich Polynesian culture, and vibrant marine ecosystems.  Comprising three principal islands – Tutuila, Ofu, and Ta’ū – it offers a unique blend of tropical landscapes, traditional villages, and opportunities for adventure and relaxation.  The islands are characterized by lush rainforests, dramatic volcanic peaks, pristine beaches, and a diverse array of marine life.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "53,725",
+      "icon": "Users",
+      "description": "The population of American Samoa is primarily Polynesian, with a significant Samoan heritage.",
+      "detail": "The vast majority of residents are of Samoan descent, with a smaller number of American and other ethnicities."
+    },
+    {
+      "label": "Area",
+      "value": "199 sq km (77 sq mi)",
+      "icon": "MapPin",
+      "description": "American Samoa is a relatively small island nation.",
+      "detail": "It’s the second-smallest state in the United States by land area."
+    },
+    {
+      "label": "Capital",
+      "value": "Pago Pago",
+      "icon": "MapPin",
+      "description": "Pago Pago is the main urban center and administrative hub.",
+      "detail": "It’s located on Tutuila Island and offers a mix of cultural and commercial activities."
+    },
+    {
+      "label": "Currency",
+      "value": "United States Dollar (USD)",
+      "icon": "Coffee",
+      "description": "The official currency is the US Dollar.",
+      "detail": "Credit cards are widely accepted, but it's advisable to carry some cash for smaller establishments and local markets."
+    },
+    {
+      "label": "Official Language",
+      "value": "Samoan, English",
+      "icon": "Globe",
+      "description": "Both Samoan and English are official languages.",
+      "detail": "Samoan is the dominant language, while English is used in government, education, and commerce."
+    },
+    {
+      "label": "Time Zone",
+      "value": "UTC-11",
+      "icon": "Clock",
+      "description": "American Samoa observes Samoa Standard Time.",
+      "detail": "It’s 11 hours behind Coordinated Universal Time."
+    },
+    {
+      "label": "GDP",
+      "value": "$683.3 Million (2023 est.)",
+      "icon": "Zap",
+      "description": "The economy is largely based on tourism and fishing.",
+      "detail": "Tourism contributes significantly to the economy, alongside the fishing industry and limited agriculture."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "American Samoa enjoys a consistently warm and humid tropical climate year-round, influenced by trade winds and the Pacific Ocean.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (December - April)",
+        "period": "Dry Season",
+        "description": "Summer brings drier conditions, with lower humidity and occasional brief showers.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Reduced rainfall"
+        ],
+        "activities": [
+          "Beach activities",
+          "Hiking",
+          "Snorkeling"
+        ]
+      },
+      {
+        "name": "Winter (May - November)",
+        "period": "Wet Season",
+        "description": "Winter is the wet season, characterized by frequent afternoon showers and higher humidity.",
+        "keyFeatures": [
+          "High humidity",
+          "Frequent showers",
+          "Rainy afternoons"
+        ],
+        "activities": [
+          "Waterfall exploration",
+          "Cultural tours",
+          "Rainforest hikes"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Ofu Reef National Marine Sanctuary",
+      "category": "Marine",
+      "description": "Ofu Reef is a stunning coral reef system teeming with marine life, offering exceptional snorkeling and diving opportunities. It’s a vital habitat for numerous fish species, sea turtles, and other marine organisms.",
+      "detailedDescription": "The reef is a complex network of coral formations, channels, and lagoons, providing a diverse underwater landscape.  It’s a protected area dedicated to preserving its ecological integrity.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Ofu Island",
+        "Coral Gardens",
+        "Lagoon"
+      ],
+      "viewingTips": [
+        "Use reef-safe sunscreen",
+        "Respect marine life",
+        "Hire a local guide"
+      ],
+      "scientificData": {
+        "Coral Coverage": "60%",
+        "Fish Species": "Over 200",
+        "Depth": "Varies from 3m to 30m"
+      },
+      "icon": "Fish"
+    },
+    {
+      "id": 2,
+      "name": "Mount Tafua’i",
+      "category": "Mountain",
+      "description": "Mount Tafua’i is the highest point in American Samoa, offering panoramic views of the island and surrounding ocean.",
+      "detailedDescription": "This dormant volcano is covered in lush rainforest and provides a challenging but rewarding hike for experienced trekkers. The summit offers breathtaking vistas on clear days.",
+      "bestTime": "May - October",
+      "bestLocations": [
+        "Tutuila Island"
+      ],
+      "viewingTips": [
+        "Bring plenty of water",
+        "Wear sturdy hiking boots",
+        "Check weather conditions"
+      ],
+      "scientificData": {
+        "Height": "1,642m (5,386 ft)",
+        "Age": "Approximately 2.5 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Saleaula Lava Fields",
+      "category": "Geological",
+      "description": "The Saleaula Lava Fields are a remarkable example of a solidified lava flow, offering a glimpse into the island’s volcanic past.",
+      "detailedDescription": "These fields were formed during a major eruption in 1909, creating a surreal landscape of hardened lava and steam vents. The remnants of the Saleaula Church, which was destroyed in the eruption, are still visible.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Tutuila Island"
+      ],
+      "viewingTips": [
+        "Wear sturdy shoes",
+        "Be cautious of uneven terrain",
+        "Respect the historical significance"
+      ],
+      "scientificData": {
+        "Lava Type": "Basaltic",
+        "Area": "Approximately 10 sq km (3.9 sq mi)"
+      },
+      "icon": "Flame"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Rainforest Ecosystems",
+    "overview": "American Samoa’s rainforests are incredibly diverse, supporting a wide range of plant and animal life, many of which are endemic to the islands.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 1
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Flora",
+        "icon": "Leaves",
+        "description": "The rainforests are home to a remarkable variety of plant species, including ferns, orchids, and native hardwoods.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 300",
+            "details": "Many are endemic to American Samoa."
+          },
+          {
+            "category": "Fern Species",
+            "count": "Over 100",
+            "details": "Diverse species adapted to the humid conditions."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Pandanus",
+            "status": "Endemic",
+            "significance": "An important resource for traditional Samoan crafts and food."
+          },
+          {
+            "name": "Hibiscus Trochidiatus",
+            "status": "Vulnerable",
+            "significance": "A beautiful and rare hibiscus species."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Reforestation programs",
+          "Invasive species control"
+        ]
+      },
+      {
+        "name": "Fauna",
+        "icon": "Bird",
+        "description": "American Samoa’s fauna includes a variety of birds, reptiles, and insects, many of which are unique to the islands.",
+        "statistics": [
+          {
+            "category": "Bird Species",
+            "count": "Over 50",
+            "details": "Many are endemic or near-endemic."
+          },
+          {
+            "category": "Reptile Species",
+            "count": "10",
+            "details": "Includes geckos and skinks."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Samoan Owl",
+            "status": "Endangered",
+            "significance": "A critically endangered nocturnal bird."
+          },
+          {
+            "name": "Flying Gecko",
+            "status": "Endemic",
+            "significance": "A unique gecko species found only in American Samoa."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Introduced predators"
+        ],
+        "conservationEfforts": [
+          "Habitat protection",
+          "Predator control"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Adventures",
+    "description": "American Samoa offers a wide range of outdoor activities for adventure seekers and nature enthusiasts.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the island’s rainforests and volcanic peaks on a variety of hiking trails.",
+        "activities": [
+          {
+            "name": "Mount Tafua’i Summit Hike",
+            "difficulty": "Hard",
+            "season": "May - October",
+            "duration": "6-8 hours",
+            "description": "A challenging hike to the summit of Mount Tafua’i, offering stunning panoramic views.",
+            "bestLocations": [
+              "Mount Tafua’i"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen, hat",
+            "safety": [
+              "Check weather conditions",
+              "Stay on marked trails"
+            ]
+          },
+          {
+            "name": "Saleaula Lava Field Walk",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-3 hours",
+            "description": "A gentle walk through the Saleaula Lava Fields, exploring the remnants of the 1909 eruption.",
+            "bestLocations": [
+              "Saleaula Lava Fields"
+            ],
+            "requirements": "Comfortable shoes, water",
+            "safety": [
+              "Be cautious of uneven terrain"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy snorkeling, diving, and kayaking in the crystal-clear waters surrounding the islands.",
+        "activities": [
+          {
+            "name": "Ofu Reef Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and marine life of Ofu Reef.",
+            "bestLocations": [
+              "Ofu Reef"
+            ],
+            "requirements": "Snorkel gear, reef-safe sunscreen",
+            "safety": [
+              "Respect marine life",
+              "Use reef-safe sunscreen"
+            ]
+          },
+          {
+            "name": "Kayaking in Pago Pago Lagoon",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "2-3 hours",
+            "description": "Paddle through the calm waters of Pago Pago Lagoon, observing local wildlife.",
+            "bestLocations": [
+              "Pago Pago Lagoon"
+            ],
+            "requirements": "Kayak, paddle",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of currents"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Light jacket, rain gear, long-sleeved shirts",
+        "yearRound": "Comfortable clothing, sandals, hiking shoes"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of wildlife",
+        "Respect local customs"
+      ]
+    }
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "CountryData": {
+    "name": "Saint Vincent and the Grenadines",
+    "region": "Caribbean",
+    "description": "Saint Vincent and the Grenadines is an independent island nation in the Caribbean Sea, comprising Saint Vincent, the Grenadines, and several smaller islands and cays. Known for its stunning volcanic landscapes, lush rainforests, and pristine beaches, it offers a unique blend of adventure, relaxation, and cultural experiences. The nation’s economy relies heavily on tourism, agriculture, and fishing.",
+    "quickFacts": [
+      {
+        "label": "Capital",
+        "value": "Kingstown",
+        "icon": "MapPin",
+        "description": "The bustling capital city of Saint Vincent and the Grenadines.",
+        "detail": "Kingstown is a vibrant port city with a rich history and a diverse population."
+      },
+      {
+        "label": "Population",
+        "value": "110,000",
+        "icon": "Users",
+        "description": "A small, close-knit population deeply connected to its heritage.",
+        "detail": "The population is predominantly of African descent, with significant European and Indian influences."
+      },
+      {
+        "label": "Area",
+        "value": "389 km²",
+        "icon": "Globe",
+        "description": "A relatively small island nation with diverse topography.",
+        "detail": "The islands encompass a variety of landscapes, from volcanic peaks to coral reefs."
+      },
+      {
+        "label": "Official Language",
+        "value": "English",
+        "icon": "Navigation",
+        "description": "English serves as the official language, facilitating communication and trade.",
+        "detail": "However, local Creole dialects are widely spoken and cherished."
+      },
+      {
+        "label": "Currency",
+        "value": "East Caribbean Dollar (XCD)",
+        "icon": "Coffee",
+        "description": "The local currency, used alongside the US Dollar.",
+        "detail": "The XCD is pegged to the US Dollar at a fixed rate."
+      },
+      {
+        "label": "Independence",
+        "value": "November 27, 1979",
+        "icon": "Calendar",
+        "description": "Gained independence from Britain in 1979.",
+        "detail": "The nation has since navigated its own path as a Caribbean nation."
+      }
+    ],
+    "climateData": {
+      "title": "Tropical Climate",
+      "description": "Saint Vincent and the Grenadines experiences a tropical maritime climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, particularly during the rainy season.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Summer (June - August)",
+          "period": "June to August",
+          "description": "The summer months are hot and humid, with frequent showers and occasional thunderstorms.",
+          "keyFeatures": [
+            "High humidity",
+            "Frequent rainfall",
+            "Warm temperatures (27-31°C)",
+            "Hurricane season risk"
+          ],
+          "activities": [
+            "Beach relaxation",
+            "Water sports",
+            "Hiking in rainforests"
+          ]
+        },
+        {
+          "name": "Autumn (September - November)",
+          "period": "September to November",
+          "description": "Autumn brings a gradual decrease in rainfall and slightly cooler temperatures. The landscape is vibrant with autumn colors.",
+          "keyFeatures": [
+            "Decreasing rainfall",
+            "Mild temperatures (24-28°C)",
+            "Lower humidity",
+            "Reduced hurricane risk"
+          ],
+          "activities": [
+            "Hiking",
+            "Scuba diving",
+            "Exploring waterfalls"
+          ]
+        },
+        {
+          "name": "Winter (December - March)",
+          "period": "December to March",
+          "description": "Winter is the driest season, with sunny days and pleasant temperatures. It's a popular time for tourism.",
+          "keyFeatures": [
+            "Lowest rainfall",
+            "Warmest temperatures (25-29°C)",
+            "Sunny skies",
+            "Lower humidity"
+          ],
+          "activities": [
+            "Beach activities",
+            "Snorkeling",
+            "Island hopping"
+          ]
+        },
+        {
+          "name": "Spring (April - May)",
+          "period": "April to May",
+          "description": "Spring brings a return of lush greenery and increasing rainfall. Temperatures remain warm and comfortable.",
+          "keyFeatures": [
+            "Increasing rainfall",
+            "Warm temperatures (26-30°C)",
+            "Blooming flora",
+            "Moderate humidity"
+          ],
+          "activities": [
+            "Hiking",
+            "Birdwatching",
+            "Exploring local markets"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Soufrière Hills Volcano (St. Vincent)",
+        "category": "Volcano",
+        "description": "Soufrière Hills Volcano dominates the landscape of the Leeward Antilles. While dormant since 2009, its past eruptions dramatically reshaped the island, creating a unique and rugged terrain.",
+        "detailedDescription": "The volcano’s slopes are covered in dense rainforest, offering challenging hiking trails and breathtaking views. The crater lake, aptly named \"The Pit,\" is a stark reminder of the volcano’s power.",
+        "bestTime": "Year-Round (with appropriate precautions)",
+        "bestLocations": [
+          "La Soufrière Trailhead",
+          "Whittles Bay",
+          "Baboon Hill"
+        ],
+        "viewingTips": [
+          "Hire a local guide for safety and knowledge.",
+          "Check volcanic activity reports before venturing out.",
+          "Wear sturdy hiking boots and appropriate clothing."
+        ],
+        "scientificData": {
+          "Height": "1145m",
+          "Age": "Approximately 50,000 years"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "Tobago Cays Marine Park",
+        "category": "Marine",
+        "description": "A stunning archipelago of small, uninhabited islands and cays, renowned for their crystal-clear turquoise waters and vibrant coral reefs.",
+        "detailedDescription": "The park is a haven for marine life, including sea turtles, dolphins, and a diverse array of fish. The beaches are pristine and perfect for swimming, snorkeling, and diving.",
+        "bestTime": "December - April",
+        "bestLocations": [
+          "Ballast Island",
+          "Buck Island",
+          "Deadman's Cay"
+        ],
+        "viewingTips": [
+          "Book a boat tour to explore the cays.",
+          "Bring snorkeling gear or join a diving excursion.",
+          "Respect the marine environment and avoid touching the coral."
+        ],
+        "scientificData": {
+          "Coral Coverage": "Approximately 30%",
+          "Fish Species": "Over 150"
+        },
+        "icon": "Waves"
+      },
+      {
+        "id": 3,
+        "name": "Diamond Falls Botanical Gardens",
+        "category": "Botanical",
+        "description": "A beautiful botanical garden showcasing the diverse flora of Saint Vincent and the Grenadines, with a stunning waterfall as its centerpiece.",
+        "detailedDescription": "The gardens feature a variety of tropical plants, including orchids, bromeliads, and palm trees. The Diamond Falls waterfall cascades over a series of rocks, creating a magical atmosphere.",
+        "bestTime": "Year-Round",
+        "bestLocations": [
+          "Diamond Falls"
+        ],
+        "viewingTips": [
+          "Take a leisurely stroll through the gardens.",
+          "Admire the waterfall and its surrounding vegetation.",
+          "Learn about the local flora from the garden staff."
+        ],
+        "scientificData": {
+          "Plant Species": "Over 200",
+          "Waterfall Height": "30m"
+        },
+        "icon": "Leaf"
+      }
+    ],
+    "ecosystemData": {
+      "title": "Tropical Rainforest Ecosystem",
+      "overview": "Saint Vincent and the Grenadines is home to a significant portion of the Caribbean’s remaining tropical rainforest, characterized by high rainfall, humidity, and biodiversity. These forests play a crucial role in regulating the island’s climate and providing habitat for a wide range of species.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 15%",
+        "nationalParks": 2
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Birds",
+          "icon": "Bird",
+          "description": "The islands support a diverse array of bird species, including endemic and migratory birds.",
+          "statistics": [
+            {
+              "category": "Endemic Species",
+              "count": "12",
+              "details": "Unique bird species found only in Saint Vincent and the Grenadines."
+            },
+            {
+              "category": "Migratory Species",
+              "count": "50+",
+              "details": "Numerous migratory birds utilize the islands as a stopover point during their journeys."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Red-billed tropicbird",
+              "status": "Near Threatened",
+              "significance": "A distinctive seabird known for its impressive flight displays."
+            },
+            {
+              "name": "Yellow-crowned parrot",
+              "status": "Endangered",
+              "significance": "A critically endangered parrot endemic to Saint Vincent."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Illegal hunting",
+            "Climate change"
+          ],
+          "conservationEfforts": [
+            "Protected area management",
+            "Community-based conservation programs",
+            "Species monitoring"
+          ]
+        },
+        {
+          "name": "Marine Life",
+          "icon": "Fish",
+          "description": "The surrounding coral reefs and marine environment are teeming with diverse marine life.",
+          "statistics": [
+            {
+              "category": "Coral Species",
+              "count": "60+",
+              "details": "A variety of coral species, including hard and soft corals."
+            },
+            {
+              "category": "Fish Species",
+              "count": "200+",
+              "details": "A rich diversity of fish species, from small reef fish to larger pelagic species."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Humpback Whale",
+              "status": "Vulnerable",
+              "significance": "A popular breeding ground for humpback whales."
+            },
+            {
+              "name": "Sea Turtle",
+              "status": "Endangered",
+              "significance": "Several species of sea turtles nest on the islands' beaches."
+            }
+          ],
+          "threats": [
+            "Coral bleaching",
+            "Pollution",
+            "Overfishing"
+          ],
+          "conservationEfforts": [
+            "Marine protected areas",
+            "Sustainable fishing practices",
+            "Coral reef restoration"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Adventures",
+      "description": "Saint Vincent and the Grenadines offers a wide range of outdoor activities for adventure seekers and nature lovers.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Explore the island’s volcanic landscapes and lush rainforests on foot.",
+          "activities": [
+            {
+              "name": "La Soufrière Hike",
+              "difficulty": "Hard",
+              "season": "Year-Round",
+              "duration": "6-8 hours",
+              "description": "A challenging hike to the summit of Soufrière Hills Volcano.",
+              "bestLocations": [
+                "La Soufrière Trailhead"
+              ],
+              "requirements": "Sturdy hiking boots, water, sunscreen, hat.",
+              "safety": [
+                "Hire a guide",
+                "Check weather conditions"
+              ]
+            },
+            {
+              "name": "Baboon Hill Trail",
+              "difficulty": "Moderate",
+              "season": "Year-Round",
+              "duration": "2-3 hours",
+              "description": "A scenic trail through the rainforest with panoramic views.",
+              "bestLocations": [
+                "Baboon Hill"
+              ],
+              "requirements": "Comfortable shoes, water.",
+              "safety": [
+                "Stay on marked trails"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "Enjoy the crystal-clear waters of the Caribbean with a variety of water sports.",
+          "activities": [
+            {
+              "name": "Scuba Diving",
+              "difficulty": "Moderate",
+              "season": "Year-Round",
+              "duration": "Variable",
+              "description": "Explore the vibrant coral reefs and marine life.",
+              "bestLocations": [
+                "Tobago Cays",
+                "Bequia"
+              ],
+              "requirements": "Certification, snorkeling gear.",
+              "safety": [
+                "Dive with a reputable operator"
+              ]
+            },
+            {
+              "name": "Sailing",
+              "difficulty": "Easy",
+              "season": "Year-Round",
+              "duration": "Variable",
+              "description": "Charter a sailboat and explore the Grenadines.",
+              "bestLocations": [
+                "Grenadines"
+              ],
+              "requirements": "Sailboat charter, sailing experience (optional).",
+              "safety": [
+                "Check weather conditions"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, swimwear, sunscreen, hat.",
+          "winter": "Light jacket, long-sleeved shirts, waterproof pants.",
+          "yearRound": "Comfortable clothing, sandals, hiking shoes."
+        },
+        "equipment": {
+          "basic": "Insect repellent, flashlight, first-aid kit.",
+          "hiking": "Sturdy hiking boots, backpack, water bottle.",
+          "photography": "Camera, extra batteries, waterproof case."
+        },
+        "safety": [
+          "Stay hydrated",
+          "Wear sunscreen",
+          "Be aware of wildlife",
+          "Respect local customs"
+        ]
+      }
+    }
+  }
+}

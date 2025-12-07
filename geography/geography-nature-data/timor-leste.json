@@ -1,0 +1,321 @@
+{
+  "name": "Timor-Leste",
+  "region": "Southeast Asia",
+  "description": "Timor-Leste, formerly known as East Timor, is a Southeast Asian nation located on the island of Timor. It’s characterized by dramatic volcanic landscapes, lush rainforests, pristine coastlines, and a rich, complex cultural heritage shaped by centuries of Portuguese colonization and indigenous traditions. The country is a biodiversity hotspot, boasting unique flora and fauna found nowhere else on Earth.  It’s a nation still developing, striving for economic stability and social progress after a long and challenging path to independence.",
+  "quickFacts": [
+    {
+      "label": "Official Name",
+      "value": "Democratic Republic of Timor-Leste",
+      "icon": "Globe",
+      "description": "The official name of the country.",
+      "detail": "Adopted following independence in 2002."
+    },
+    {
+      "label": "Capital",
+      "value": "Dili",
+      "icon": "MapPin",
+      "description": "The capital and largest city.",
+      "detail": "Located on the western coast of the island."
+    },
+    {
+      "label": "Population",
+      "value": "1.3 million",
+      "icon": "Users",
+      "description": "The current population of Timor-Leste.",
+      "detail": "Primarily comprised of the Tetum and Bahasa Indonesia languages."
+    },
+    {
+      "label": "Area",
+      "value": "14,874 sq km (5,714 sq mi)",
+      "icon": "MapPin",
+      "description": "The total land area of Timor-Leste.",
+      "detail": "Includes both the island of Timor and the island of Nusa Tenggara."
+    },
+    {
+      "label": "Currency",
+      "value": "United States Dollar (USD)",
+      "icon": "Coffee",
+      "description": "The primary currency used in the country.",
+      "detail": "Timor-Leste has adopted the USD for trade and economic stability."
+    },
+    {
+      "label": "Independence",
+      "value": "2002",
+      "icon": "Calendar",
+      "description": "Timor-Leste gained independence from Indonesia.",
+      "detail": "Following a long and arduous struggle for self-determination."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Timor-Leste",
+    "description": "Timor-Leste experiences a tropical maritime climate, characterized by high temperatures and humidity throughout the year. Rainfall is abundant, particularly during the wet season. The coastal areas are influenced by monsoonal winds, leading to distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Wet Season",
+        "period": "November – April",
+        "description": "This season is marked by heavy rainfall, flooding, and high humidity. The landscape is lush and vibrant, but travel can be challenging.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Flooding",
+          "High humidity",
+          "Green landscapes"
+        ],
+        "activities": [
+          "Rainforest trekking",
+          "River cruises",
+          "Wildlife viewing (seasonal)"
+        ]
+      },
+      {
+        "name": "Dry Season",
+        "period": "May – October",
+        "description": "The dry season brings sunshine, lower humidity, and calmer seas. It’s the best time for outdoor activities and exploring the coastline.",
+        "keyFeatures": [
+          "Sunny days",
+          "Low humidity",
+          "Calm seas",
+          "Clear skies"
+        ],
+        "activities": [
+          "Beach relaxation",
+          "Diving and snorkeling",
+          "Coastal hiking"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Ainã Mountains",
+      "category": "Mountain Range",
+      "description": "The Ainã Mountains, located in the eastern part of the country, are a rugged and dramatic range offering breathtaking views and unique biodiversity. These mountains are home to endemic bird species and provide a challenging but rewarding hiking experience.",
+      "detailedDescription": "The highest peak, Mount Ramelau, reaches 2,963 meters (9,721 ft). The area is characterized by dense rainforests, waterfalls, and volcanic peaks.  The traditional villages nestled within the mountains offer a glimpse into the rich cultural heritage of the local communities.",
+      "bestTime": "May – October",
+      "bestLocations": [
+        "Mount Ramelau",
+        "Lake Ira Lalaro"
+      ],
+      "viewingTips": [
+        "Bring appropriate hiking gear",
+        "Hire a local guide",
+        "Respect local customs"
+      ],
+      "scientificData": {
+        "Height": "2,963m",
+        "ElevationRange": "1,000-2,963m",
+        "Age": "Approximately 25 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Kelaita Island Marine Reserve",
+      "category": "Marine Ecosystem",
+      "description": "Kelaita Island Marine Reserve is a protected area renowned for its exceptional coral reefs and diverse marine life. It’s a crucial habitat for numerous fish species, sea turtles, and other marine organisms, making it a prime destination for diving and snorkeling.",
+      "detailedDescription": "The reserve encompasses a significant portion of the surrounding waters, protecting a complex network of coral reefs, seagrass beds, and mangrove forests.  It’s a vital breeding ground for sea turtles and a sanctuary for various fish species, including reef sharks and groupers.  The waters are exceptionally clear, offering unparalleled visibility for underwater exploration.",
+      "bestTime": "June – November",
+      "bestLocations": [
+        "Coral Gardens",
+        "Turtle Bay"
+      ],
+      "viewingTips": [
+        "Use reef-safe sunscreen",
+        "Respect the marine environment",
+        "Hire a certified dive operator"
+      ],
+      "scientificData": {
+        "CoralCoverage": "Approximately 60%",
+        "FishSpecies": "Over 300 species",
+        "SeaTurtleSpecies": "Green and Hawksbill turtles"
+      },
+      "icon": "Fish"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Timor-Leste",
+    "overview": "Timor-Leste’s ecosystems are incredibly diverse, ranging from lowland rainforests to montane cloud forests and coastal wetlands. The country is recognized as a global biodiversity hotspot, harboring a remarkable array of endemic species.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Rainforests",
+        "icon": "Trees",
+        "description": "Timor-Leste’s rainforests are incredibly rich in biodiversity, harboring numerous endemic plant and animal species. They play a crucial role in regulating the country’s climate and providing essential ecosystem services.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 1,000",
+            "details": "Many species are endemic to the region."
+          },
+          {
+            "category": "Endemic Mammals",
+            "count": "Approximately 30",
+            "details": "Including the Timor deer and the timorese shrew."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Timor Deer",
+            "status": "Vulnerable",
+            "significance": "An iconic species of the island."
+          },
+          {
+            "name": "Timorese Shrew",
+            "status": "Endangered",
+            "significance": "A highly specialized and elusive mammal."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Habitat loss"
+        ],
+        "conservationEfforts": [
+          "Protected area establishment",
+          "Community-based conservation programs",
+          "Sustainable forestry practices"
+        ]
+      },
+      {
+        "name": "Coastal Wetlands",
+        "icon": "Waves",
+        "description": "Timor-Leste’s coastal wetlands, including mangrove forests and tidal flats, are vital habitats for numerous bird species, fish, and invertebrates. They also provide important protection against storm surges and coastal erosion.",
+        "statistics": [
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 50,000 hectares",
+            "details": "Providing crucial nursery grounds for fish."
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 100",
+            "details": "Including migratory shorebirds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Black-naped Tern",
+            "status": "Near Threatened",
+            "significance": "A migratory seabird reliant on coastal wetlands."
+          },
+          {
+            "name": "Mangrove Crab",
+            "status": "Data Deficient",
+            "significance": "A key component of the coastal food web."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration projects",
+          "Coastal zone management plans",
+          "Community awareness campaigns"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Timor-Leste",
+    "description": "Timor-Leste offers a diverse range of activities for adventure seekers and nature enthusiasts, from challenging treks to relaxing beach days.  Respect for local culture and the environment is paramount.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the rugged mountains and rainforests of Timor-Leste on foot.",
+        "activities": [
+          {
+            "name": "Mount Ramelau Trek",
+            "difficulty": "Hard",
+            "season": "May – October",
+            "duration": "3-5 days",
+            "description": "A challenging trek to the highest peak in Timor-Leste, offering stunning views.",
+            "bestLocations": [
+              "Ainã Mountains"
+            ],
+            "requirements": "Sturdy hiking boots, waterproof clothing, first-aid kit",
+            "safety": [
+              "Altitude sickness",
+              "Unpredictable weather"
+            ]
+          },
+          {
+            "name": "Trail of the Seven Waterfalls",
+            "difficulty": "Moderate",
+            "season": "November – April",
+            "duration": "2-3 days",
+            "description": "A scenic hike through the rainforest to discover seven cascading waterfalls.",
+            "bestLocations": [
+              "Central Timor"
+            ],
+            "requirements": "Hiking boots, insect repellent, water bottle",
+            "safety": [
+              "Muddy trails",
+              "Wildlife encounters"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the pristine waters of Timor-Leste with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Diving at Kelaita Island",
+            "difficulty": "Easy",
+            "season": "Year-round",
+            "duration": "Half-day to full-day trips",
+            "description": "Explore the vibrant coral reefs and marine life of Kelaita Island.",
+            "bestLocations": [
+              "Kelaita Island"
+            ],
+            "requirements": "Snorkeling gear or diving certification",
+            "safety": [
+              "Strong currents",
+              "Marine life encounters"
+            ]
+          },
+          {
+            "name": "Kayaking along the Coast",
+            "difficulty": "Moderate",
+            "season": "May – October",
+            "duration": "Half-day to full-day trips",
+            "description": "Paddle along the stunning coastline, discovering hidden beaches and mangrove forests.",
+            "bestLocations": [
+              "Dili Coast"
+            ],
+            "requirements": "Kayak, life jacket, sunscreen",
+            "safety": [
+              "Strong winds",
+              "Waves"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat",
+        "winter": "Layers of clothing, waterproof jacket, warm sweater",
+        "yearRound": "Comfortable walking shoes, insect repellent"
+      },
+      "equipment": {
+        "basic": "Passport, visa (if required), travel insurance, cash",
+        "hiking": "Sturdy hiking boots, backpack, water bottle, map, compass",
+        "photography": "Camera, extra batteries, waterproof case"
+      },
+      "safety": [
+        "Consult a doctor before traveling",
+        "Drink bottled water",
+        "Be aware of local customs",
+        "Respect the environment"
+      ]
+    }
+  }
+}

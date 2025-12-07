@@ -1,0 +1,324 @@
+{
+  "name": "Marshall Islands",
+  "region": "Oceania",
+  "description": "The Marshall Islands are a remote island nation in the Micronesia region of the western Pacific Ocean. Comprising 29 atolls and five reef islands, the archipelago is renowned for its stunning coral reefs, rich marine biodiversity, and significant historical ties to nuclear testing. The islands boast a unique blend of traditional Polynesian culture and modern influences, offering visitors a captivating experience.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Majuro",
+      "icon": "MapPin",
+      "description": "The political and economic center of the Marshall Islands.",
+      "detail": "Majuro is the largest city and home to the National Congress and the Presidential Palace."
+    },
+    {
+      "label": "Population",
+      "value": "59,262",
+      "icon": "Users",
+      "description": "The population of the Marshall Islands is relatively small.",
+      "detail": "The majority of the population resides on Majuro and Ebeye atolls."
+    },
+    {
+      "label": "Area",
+      "value": "181 km²",
+      "icon": "Globe",
+      "description": "The Marshall Islands are a small island nation.",
+      "detail": "The total land area is approximately 181 square kilometers."
+    },
+    {
+      "label": "Currency",
+      "value": "US Dollar (USD)",
+      "icon": "Coffee",
+      "description": "The official currency is the United States Dollar.",
+      "detail": "The Marshall Islands are a U.S. territory and use the USD."
+    },
+    {
+      "label": "Official Language",
+      "value": "Marshallese",
+      "icon": "Calendar",
+      "description": "Marshallese is the indigenous language.",
+      "detail": "English is also widely spoken, particularly in government and education."
+    },
+    {
+      "label": "GDP",
+      "value": "$178.7 million (2023 est.)",
+      "icon": "ArrowRight",
+      "description": "The economy is largely dependent on fishing and remittances.",
+      "detail": "The economy is heavily reliant on the U.S. for financial support."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "The Marshall Islands experience a tropical maritime climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is abundant, particularly during the wet season.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "December – April",
+        "description": "The dry season is generally sunny and pleasant, with lower humidity levels.",
+        "keyFeatures": [
+          "Lower rainfall",
+          "Sunny skies",
+          "Calm winds"
+        ],
+        "activities": [
+          "Snorkeling",
+          "Diving",
+          "Fishing",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May – November",
+        "description": "The wet season brings frequent rainfall and occasional tropical storms.",
+        "keyFeatures": [
+          "High rainfall",
+          "Storms",
+          "Cloudy skies"
+        ],
+        "activities": [
+          "Exploring caves",
+          "Visiting museums",
+          "Cultural tours"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Bikini Atoll",
+      "category": "Atoll",
+      "description": "Bikini Atoll is a UNESCO World Heritage Site, renowned for its stunning coral reefs and its pivotal role in the history of nuclear testing during the Cold War. The atoll’s ecosystem has remarkably recovered, offering a unique opportunity to witness the resilience of nature.",
+      "detailedDescription": "The atoll’s lagoon is a vibrant ecosystem teeming with marine life. The remnants of the nuclear tests are still visible, serving as a stark reminder of the past.  The surrounding waters are exceptionally clear, making it a prime location for diving and snorkeling.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Bikini Lagoon",
+        "Bikini Island",
+        "Mokil Island"
+      ],
+      "viewingTips": [
+        "Respect the historical significance of the site.",
+        "Use reef-safe sunscreen.",
+        "Hire a local guide."
+      ],
+      "scientificData": {
+        "Depth": "Varies from 3m to 30m",
+        "Coral Coverage": "80%",
+        "Average Temperature": "28°C"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Rongga Island",
+      "category": "Reef Island",
+      "description": "Rongga Island is a beautiful reef island known for its pristine beaches, abundant marine life, and traditional Marshallese culture.",
+      "detailedDescription": "The island offers a tranquil escape with opportunities for swimming, snorkeling, and exploring the local village. The coral reefs surrounding Rongga are exceptionally diverse, supporting a wide range of fish and invertebrates.",
+      "bestTime": "April – October",
+      "bestLocations": [
+        "Beachfront bungalows",
+        "Village center",
+        "Coral gardens"
+      ],
+      "viewingTips": [
+        "Learn about Marshallese customs and traditions.",
+        "Support local businesses.",
+        "Respect the marine environment."
+      ],
+      "scientificData": {
+        "Sand Composition": "Coral and Shell fragments",
+        "Coral Species": "Over 50",
+        "Average Wave Height": "1-2m"
+      },
+      "icon": "Waves"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Coral Reef Ecosystem",
+    "overview": "The Marshall Islands are home to one of the world’s most extensive and diverse coral reef ecosystems. These reefs provide vital habitat for a vast array of marine species and protect the islands from storm surges.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Fish",
+        "icon": "Fish",
+        "description": "The coral reefs support a remarkable diversity of fish species, including colorful reef fish, sharks, and rays.",
+        "statistics": [
+          {
+            "category": "Reef Fish",
+            "count": "Over 300 species",
+            "details": "Many species are endemic to the region."
+          },
+          {
+            "category": "Sharks",
+            "count": "15 species",
+            "details": "Includes reef sharks and hammerhead sharks."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Giant Clam",
+            "status": "Vulnerable",
+            "significance": "A keystone species in the reef ecosystem."
+          },
+          {
+            "name": "Grey Reef Shark",
+            "status": "Vulnerable",
+            "significance": "An apex predator maintaining balance in the food chain."
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Overfishing",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices",
+          "Coral restoration projects"
+        ]
+      },
+      {
+        "name": "Marine Invertebrates",
+        "icon": "Leaf",
+        "description": "The reefs are teeming with invertebrates, including corals, sea stars, sea urchins, and crustaceans.",
+        "statistics": [
+          {
+            "category": "Coral Species",
+            "count": "Over 60",
+            "details": "Diverse coral forms, including branching, massive, and plate corals."
+          },
+          {
+            "category": "Sea Stars",
+            "count": "30 species",
+            "details": "Important for maintaining reef health."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Giant Hermit Crab",
+            "status": "Near Threatened",
+            "significance": "Plays a role in nutrient cycling."
+          },
+          {
+            "name": "Crown-of-Thorns Starfish",
+            "status": "Data Deficient",
+            "significance": "Can cause coral damage if populations explode."
+          }
+        ],
+        "threats": [
+          "Ocean acidification",
+          "Habitat destruction",
+          "Disease"
+        ],
+        "conservationEfforts": [
+          "Monitoring coral health",
+          "Controlling starfish populations",
+          "Reducing pollution"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Island Adventures",
+    "description": "The Marshall Islands offer a wide range of activities for adventure seekers and nature lovers.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the islands’ interior and discover stunning viewpoints.",
+        "activities": [
+          {
+            "name": "Mount Jaluit Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-4 hours",
+            "description": "Hike to the summit of Mount Jaluit, the highest point in the Marshall Islands, for panoramic views.",
+            "bestLocations": [
+              "Mount Jaluit"
+            ],
+            "requirements": "Sturdy hiking shoes, water, sunscreen.",
+            "safety": [
+              "Be aware of changing weather conditions.",
+              "Stay on marked trails."
+            ]
+          },
+          {
+            "name": "Rongga Island Trail",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-2 hours",
+            "description": "A gentle trail around Rongga Island, offering scenic coastal views.",
+            "bestLocations": [
+              "Rongga Island"
+            ],
+            "requirements": "Comfortable walking shoes.",
+            "safety": [
+              "Watch out for slippery rocks."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the crystal-clear waters of the Marshall Islands with a variety of water sports.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "Variable",
+            "description": "Explore the vibrant coral reefs and marine life.",
+            "bestLocations": [
+              "Bikini Atoll",
+              "Rongga Island",
+              "Jacobs Island"
+            ],
+            "requirements": "Snorkel gear, sunscreen.",
+            "safety": [
+              "Be mindful of currents.",
+              "Avoid touching coral."
+            ]
+          },
+          {
+            "name": "Diving",
+            "difficulty": "Moderate",
+            "season": "Dry Season (Dec-Apr)",
+            "duration": "Variable",
+            "description": "Discover underwater caves, shipwrecks, and diverse marine ecosystems.",
+            "bestLocations": [
+              "Bikini Atoll",
+              "Jakboi Island"
+            ],
+            "requirements": "Certification, dive gear.",
+            "safety": [
+              "Follow dive guidelines.",
+              "Check weather conditions."
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses.",
+        "winter": "Light jacket, long-sleeved shirts, long pants.",
+        "yearRound": "Modest clothing is appreciated when visiting villages."
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, flashlight, first-aid kit.",
+        "hiking": "Sturdy hiking boots, backpack, water bottle.",
+        "photography": "Camera, waterproof case."
+      },
+      "safety": [
+        "Respect local customs.",
+        "Stay hydrated.",
+        "Be aware of marine life.",
+        "Follow safety guidelines for activities."
+      ]
+    }
+  }
+}

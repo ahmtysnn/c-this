@@ -1,0 +1,366 @@
+{
+  "name": "Lebanon",
+  "region": "Middle East",
+  "description": "Lebanon, a small nation situated in the Eastern Mediterranean, boasts a rich and complex history, stunning natural beauty, and a vibrant cultural heritage.  It’s a land of dramatic mountains, ancient forests, and a coastline fringed with turquoise waters. Despite facing significant challenges, Lebanon remains a country of resilience, hospitality, and breathtaking landscapes.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Beirut",
+      "icon": "MapPin",
+      "description": "The bustling capital and economic heart of Lebanon.",
+      "detail": "Beirut is a city of contrasts, blending ancient ruins with modern architecture and a thriving arts scene."
+    },
+    {
+      "label": "Population",
+      "value": "5.19 million",
+      "icon": "Users",
+      "description": "Lebanon's population is diverse, reflecting its historical influences.",
+      "detail": "The population density is high, particularly in urban areas like Beirut and Mount Lebanon."
+    },
+    {
+      "label": "Area",
+      "value": "10,452 sq km (4.053 sq mi)",
+      "icon": "Globe",
+      "description": "Lebanon is a relatively small country with varied terrain.",
+      "detail": "It’s bordered by Syria to the east and Israel to the south."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "ArrowRight",
+      "description": "The official language of Lebanon.",
+      "detail": "French and English are also widely spoken, particularly in Beirut."
+    },
+    {
+      "label": "Currency",
+      "value": "Lebanese Pound (LBP)",
+      "icon": "Coffee",
+      "description": "The currency used in Lebanon.",
+      "detail": "The Lebanese Pound has experienced significant volatility in recent years."
+    }
+  ],
+  "climateData": {
+    "title": "Lebanon's Climate",
+    "description": "Lebanon experiences a Mediterranean climate characterized by hot, dry summers and mild, wet winters.  The coastal regions benefit from the tempering influence of the Mediterranean Sea, while the mountainous interior experiences cooler temperatures.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Long, hot, and dry summers prevail across the country. Temperatures can soar to 40°C (104°F) or higher, especially inland.",
+        "keyFeatures": [
+          "High Temperatures",
+          "Low Rainfall",
+          "Sunny Skies"
+        ],
+        "activities": [
+          "Swimming",
+          "Beach Activities",
+          "Hiking (early mornings)"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings a welcome shift in weather, with temperatures gradually cooling and rainfall increasing. The landscape transforms into a vibrant tapestry of colors.",
+        "keyFeatures": [
+          "Cooler Temperatures",
+          "Increasing Rainfall",
+          "Colorful Foliage"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Wine Tasting"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winters are mild and wet, with average temperatures ranging from 5°C to 15°C (41°F to 59°F). Snowfall is common in the mountainous regions.",
+        "keyFeatures": [
+          "Mild Temperatures",
+          "High Rainfall",
+          "Snowfall in Mountains"
+        ],
+        "activities": [
+          "Skiing",
+          "Visiting Winter Markets",
+          "Exploring Historic Sites"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring is a beautiful time in Lebanon, with blossoming flowers and pleasant temperatures. Rainfall remains moderate, and the landscape comes alive with greenery.",
+        "keyFeatures": [
+          "Blooming Flowers",
+          "Moderate Rainfall",
+          "Pleasant Temperatures"
+        ],
+        "activities": [
+          "Hiking",
+          "Picnics",
+          "Visiting Gardens"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Qadisha Valley",
+      "category": "Mountain Range",
+      "description": "The Qadisha Valley is a UNESCO World Heritage Site, renowned for its stunning natural beauty and rich religious history. It’s a deep gorge carved by the river Nahr al-Jabal, offering breathtaking views and numerous monasteries.",
+      "detailedDescription": "The valley is a haven for hikers and spiritual seekers alike. The monasteries, built into the cliffsides, are adorned with ancient frescoes and offer a glimpse into Lebanon's past. The area is also home to a diverse range of flora and fauna.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Annaya",
+        "Maarat al-Jabal",
+        "Deir al-Liqa"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking shoes.",
+        "Bring water and snacks.",
+        "Respect the religious sites."
+      ],
+      "scientificData": {
+        "Height": "1,000m",
+        "Length": "15km",
+        "ElevationChange": "800m"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Byblos (Jbeil)",
+      "category": "Coastal City & Ancient Site",
+      "description": "Byblos, one of the oldest continuously inhabited cities in the world, offers a fascinating blend of ancient history and modern charm. Its harbor, surrounded by Phoenician walls, is a picturesque sight.",
+      "detailedDescription": "The city boasts a rich archaeological heritage, including a Roman theater, a Crusader castle, and numerous temples. The Byblos Archaeological Site is a must-see for history buffs and culture enthusiasts. The harbor is a bustling fishing port and a popular spot for seafood restaurants.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Old City",
+        "Harbor",
+        "Archaeological Site"
+      ],
+      "viewingTips": [
+        "Explore the Old City on foot.",
+        "Take a boat trip along the harbor.",
+        "Visit the Byblos Archaeological Museum."
+      ],
+      "scientificData": {
+        "Age": "7000 years",
+        "Area": "12 hectares"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 3,
+      "name": "Shouf Cedar Nature Reserve",
+      "category": "Forest",
+      "description": "The Shouf Cedar Nature Reserve is a protected area dedicated to the preservation of Lebanon’s ancient cedar forests, a symbol of the country’s identity.",
+      "detailedDescription": "This reserve is home to some of the oldest and largest cedar trees in Lebanon, dating back centuries. The area also supports a diverse range of wildlife, including birds, mammals, and reptiles. Hiking trails wind through the forest, offering stunning views and a chance to connect with nature.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Deir el Qamar",
+        "Beirut"
+      ],
+      "viewingTips": [
+        "Wear comfortable hiking shoes.",
+        "Bring binoculars for birdwatching.",
+        "Respect the forest environment."
+      ],
+      "scientificData": {
+        "Area": "13,000 hectares",
+        "TreeAge": "Average 400 years"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Lebanon's Ecosystems",
+    "overview": "Lebanon’s ecosystems are remarkably diverse, ranging from Mediterranean coastal habitats to mountainous forests and arid plains.  However, they are increasingly threatened by human activities and climate change.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mediterranean Flora",
+        "icon": "Leaf",
+        "description": "Lebanon’s Mediterranean flora is characterized by drought-resistant shrubs, herbs, and trees adapted to the hot, dry summers.",
+        "statistics": [
+          {
+            "category": "Plant Species",
+            "count": "800+",
+            "details": "A significant number of plant species are endemic to Lebanon."
+          },
+          {
+            "category": "Olive Trees",
+            "count": "2 million",
+            "details": "Lebanon is renowned for its olive groves."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Wild Olive (Olea europaea sylvestris)",
+            "status": "Near Threatened",
+            "significance": "A key component of the Lebanese landscape and economy."
+          },
+          {
+            "name": "Maquis shrubland",
+            "status": "Vulnerable",
+            "significance": "A unique ecosystem adapted to the Mediterranean climate."
+          }
+        ],
+        "threats": [
+          "Habitat Loss",
+          "Overgrazing",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Protected Area Management",
+          "Reforestation Programs",
+          "Sustainable Agriculture"
+        ]
+      },
+      {
+        "name": "Mountain Forests",
+        "icon": "Mountain",
+        "description": "The mountainous regions of Lebanon are covered in a mix of coniferous and deciduous forests, providing habitat for a variety of wildlife.",
+        "statistics": [
+          {
+            "category": "Forest Cover",
+            "count": "20%",
+            "details": "Forest cover is concentrated in the northern and eastern regions."
+          },
+          {
+            "category": "Cedar Trees",
+            "count": "Estimated 50,000",
+            "details": "A vital part of Lebanon's natural heritage."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Cedar (Cedrus libani)",
+            "status": "Endangered",
+            "significance": "A national symbol of Lebanon and a globally important tree species."
+          },
+          {
+            "name": "Oak (Quercus spp.)",
+            "status": "Least Concern",
+            "significance": "A common tree species in the mountainous regions."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal Logging",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Protected Area Management",
+          "Sustainable Forestry Practices",
+          "Community Involvement"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Lebanon",
+    "description": "Lebanon offers a wide range of outdoor activities for all interests and skill levels, from hiking and climbing to water sports and cultural tours.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Lebanon’s stunning mountains and valleys on foot.",
+        "activities": [
+          {
+            "name": "Qadisha Valley Hike",
+            "difficulty": "Moderate",
+            "season": "Spring & Autumn",
+            "duration": "3-6 hours",
+            "description": "Hike through the breathtaking Qadisha Valley, visiting monasteries and enjoying panoramic views.",
+            "bestLocations": [
+              "Annaya",
+              "Maarat al-Jabal"
+            ],
+            "requirements": "Sturdy hiking shoes, water, sunscreen.",
+            "safety": [
+              "Be aware of trail conditions.",
+              "Inform someone of your route."
+            ]
+          },
+          {
+            "name": "Shouf Cedar Reserve Hike",
+            "difficulty": "Easy",
+            "season": "Spring & Autumn",
+            "duration": "2-4 hours",
+            "description": "Explore the ancient cedar forests of the Shouf Cedar Nature Reserve.",
+            "bestLocations": [
+              "Deir el Qamar"
+            ],
+            "requirements": "Comfortable shoes, water.",
+            "safety": [
+              "Stay on marked trails."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy swimming, diving, and sailing along Lebanon’s beautiful coastline.",
+        "activities": [
+          {
+            "name": "Beirut Beach Swimming",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Relax and swim at one of Beirut’s many beaches.",
+            "bestLocations": [
+              "Ramlet el-Baida",
+              "Franjville"
+            ],
+            "requirements": "Swimsuit, sunscreen.",
+            "safety": [
+              "Swim in designated areas.",
+              "Be aware of currents."
+            ]
+          },
+          {
+            "name": "Jounieh Bay Diving",
+            "difficulty": "Moderate",
+            "season": "Summer",
+            "duration": "3-5 hours",
+            "description": "Explore the underwater world of Jounieh Bay with a diving excursion.",
+            "bestLocations": [
+              "Jounieh"
+            ],
+            "requirements": "Certification, diving equipment.",
+            "safety": [
+              "Follow dive guidelines.",
+              "Use a dive buddy."
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen, hat.",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves.",
+        "yearRound": "Comfortable walking shoes, versatile clothing."
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, first-aid kit.",
+        "hiking": "Hiking boots, trekking poles, map, compass.",
+        "photography": "Camera, extra batteries, memory cards."
+      },
+      "safety": [
+        "Travel insurance",
+        "Inform family/friends of your itinerary",
+        "Be aware of local customs",
+        "Stay hydrated"
+      ]
+    }
+  }
+}

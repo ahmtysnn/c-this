@@ -1,0 +1,334 @@
+{
+  "name": "Cook Islands",
+  "region": "Oceania",
+  "description": "The Cook Islands, also known as the Southern Cook Islands or Rarotonga Islands, are an island country in the South Pacific Ocean. Comprising 15 small islands, of which 14 are coral atolls and one is a raised volcanic island, they are renowned for their stunning turquoise lagoons, pristine beaches, and vibrant Polynesian culture. The islands offer a unique blend of relaxation, adventure, and cultural immersion, attracting visitors seeking an escape to paradise.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Aitutaki",
+      "icon": "MapPin",
+      "description": "Aitutaki is the most populous island and the administrative center of the Cook Islands.",
+      "detail": "While Rarotonga is the most visited, Aitutaki boasts the largest lagoon and is a vital hub for the islands' economy."
+    },
+    {
+      "label": "Population",
+      "value": "17,805",
+      "icon": "Users",
+      "description": "The Cook Islands have a small but resilient population, primarily of Polynesian descent.",
+      "detail": "The population is spread across the islands, with a significant portion residing on Rarotonga."
+    },
+    {
+      "label": "Official Language",
+      "value": "Cook Islands Māori",
+      "icon": "Calendar",
+      "description": "Cook Islands Māori is the indigenous language and remains an integral part of daily life.",
+      "detail": "English is also widely spoken, particularly in government and tourism sectors."
+    },
+    {
+      "label": "Currency",
+      "value": "Cook Islands Dollar (CDT)",
+      "icon": "Coffee",
+      "description": "The CDT is pegged to the New Zealand Dollar at a 1:1 ratio.",
+      "detail": "New Zealand Dollars are also widely accepted."
+    },
+    {
+      "label": "GDP",
+      "value": "$388.3 Million (2022)",
+      "icon": "Globe",
+      "description": "The economy is largely reliant on tourism and remittances.",
+      "detail": "Agriculture and fishing contribute significantly, but are limited in scale."
+    }
+  ],
+  "climateData": {
+    "title": "Tropical Climate",
+    "description": "The Cook Islands enjoy a tropical climate characterized by consistently warm temperatures and high humidity throughout the year. Rainfall is distributed relatively evenly, with distinct wet and dry seasons.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (November - April)",
+        "period": "Warm & Wet",
+        "description": "Summer brings consistently high temperatures, averaging around 28°C (82°F), and increased rainfall. This is the peak tourist season.",
+        "keyFeatures": [
+          "High humidity",
+          "Rainy days",
+          "Warm seas"
+        ],
+        "activities": [
+          "Swimming",
+          "Snorkeling",
+          "Island hopping",
+          "Cultural festivals"
+        ]
+      },
+      {
+        "name": "Autumn (May - September)",
+        "period": "Mild & Dry",
+        "description": "Autumn offers a pleasant balance of warm temperatures and reduced rainfall. The humidity is lower, and the seas are calmer.",
+        "keyFeatures": [
+          "Lower humidity",
+          "Sunny days",
+          "Calm seas"
+        ],
+        "activities": [
+          "Hiking",
+          "Fishing",
+          "Diving",
+          "Relaxing on the beach"
+        ]
+      },
+      {
+        "name": "Winter (June - October)",
+        "period": "Cool & Dry",
+        "description": "Winter is the coolest and driest season, with average temperatures around 24°C (75°F). It's a popular time for visitors seeking a respite from the heat.",
+        "keyFeatures": [
+          "Lower temperatures",
+          "Less rainfall",
+          "Clear skies"
+        ],
+        "activities": [
+          "Scuba diving",
+          "Exploring inland trails",
+          "Cultural tours"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Rarotonga Lagoon",
+      "category": "Lagoon",
+      "description": "The Rarotonga Lagoon is a breathtaking expanse of turquoise water, surrounded by a ring of lush volcanic mountains. It’s a haven for marine life and a focal point of the islands’ tourism industry.",
+      "detailedDescription": "The lagoon’s unique shape and clarity are due to the volcanic reef that encircles it. It’s a protected marine area, teeming with colorful coral and diverse fish species.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Matutu Point",
+        "Betio Beach",
+        "Ute Vai Beach"
+      ],
+      "viewingTips": [
+        "Take a lagoon cruise",
+        "Snorkel or dive in the coral gardens",
+        "Enjoy a sunset cocktail on the beach"
+      ],
+      "scientificData": {
+        "Depth": "Average 30m",
+        "Area": "160 sq km",
+        "Salinity": "30 ppt"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Aitutaki Island",
+      "category": "Island",
+      "description": "Aitutaki is renowned for its stunning lagoon, often described as the ‘South Pacific’s most beautiful lagoon’. It’s a true paradise with pristine beaches and a relaxed atmosphere.",
+      "detailedDescription": "The island’s centerpiece is One Foot Island (Motu Nui), a small islet with a white-sand beach and a palm-fringed lagoon. It’s a popular spot for romantic getaways and idyllic escapes.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "One Foot Island",
+        "Te Matangi Beach",
+        "Ute Vai Beach"
+      ],
+      "viewingTips": [
+        "Take a lagoon tour to explore the motus",
+        "Enjoy a picnic on One Foot Island",
+        "Watch the sunset over the lagoon"
+      ],
+      "scientificData": {
+        "Elevation": "123m",
+        "Area": "40 sq km",
+        "Volcanic Origin": "Raised coral atoll"
+      },
+      "icon": "MapPin"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Coral Reef Ecosystems",
+    "overview": "The Cook Islands’ coral reefs are a vital part of the marine environment, providing habitat for a diverse range of species and protecting the coastline from erosion. These ecosystems are under increasing pressure from climate change and human activities.",
+    "conservationStatus": {
+      "protectedAreas": "20%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coral Reef Fish",
+        "icon": "Fish",
+        "description": "The Cook Islands boast a rich diversity of coral reef fish, including colorful reef fish, groupers, snappers, and parrotfish.",
+        "statistics": [
+          {
+            "category": "Species",
+            "count": "Over 150",
+            "details": "Diverse species adapted to the lagoon environment"
+          },
+          {
+            "category": "Size",
+            "count": "Large",
+            "details": "Significant biomass supporting the food chain"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Grey Grouper",
+            "status": "Vulnerable",
+            "significance": "Keystone predator maintaining reef health"
+          },
+          {
+            "name": "Clownfish",
+            "status": "Least Concern",
+            "significance": "Iconic species associated with anemones"
+          }
+        ],
+        "threats": [
+          "Coral bleaching",
+          "Overfishing",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Sustainable fishing practices",
+          "Coral restoration projects"
+        ]
+      },
+      {
+        "name": "Mangrove Ecosystems",
+        "icon": "Leaf",
+        "description": "Mangrove forests fringe the coastlines of many islands, providing crucial nursery grounds for marine life and protecting against storm surges.",
+        "statistics": [
+          {
+            "category": "Area",
+            "count": "Approximately 10 sq km",
+            "details": "Distributed across several islands"
+          },
+          {
+            "category": "Tree Density",
+            "count": "High",
+            "details": "Supporting diverse fauna"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Red Mangrove",
+            "status": "Least Concern",
+            "significance": "Stabilizes sediment and provides habitat"
+          },
+          {
+            "name": "White Mangrove",
+            "status": "Least Concern",
+            "significance": "Filters pollutants and provides refuge"
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Sea level rise"
+        ],
+        "conservationEfforts": [
+          "Mangrove restoration",
+          "Coastal zone management",
+          "Community awareness programs"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Island Adventures",
+    "description": "The Cook Islands offer a wide range of activities for visitors of all interests, from relaxing on pristine beaches to exploring lush rainforests and diving in vibrant coral reefs.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the islands’ volcanic landscapes and rainforests on a variety of hiking trails.",
+        "activities": [
+          {
+            "name": "Rarotonga Trail",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-5 hours",
+            "description": "A scenic trail circling Rarotonga, offering stunning views of the lagoon and coastline.",
+            "bestLocations": [
+              "Betio Beach",
+              "Matutu Point"
+            ],
+            "requirements": "Comfortable hiking shoes, sunscreen, water",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "Mount Rotuman Trail",
+            "difficulty": "Hard",
+            "season": "Dry Season (May-October)",
+            "duration": "6-8 hours",
+            "description": "A challenging hike to the summit of Mount Rotuman, the highest point in the Cook Islands.",
+            "bestLocations": [
+              "Rarotonga Interior"
+            ],
+            "requirements": "Sturdy hiking boots, plenty of water, rain gear",
+            "safety": [
+              "Check weather conditions",
+              "Hike with a guide"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy a variety of water sports in the crystal-clear waters of the Cook Islands’ lagoon.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and diverse marine life.",
+            "bestLocations": [
+              "Betio Beach",
+              "Ute Vai Beach"
+            ],
+            "requirements": "Snorkel gear, sunscreen",
+            "safety": [
+              "Swim with caution",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Diving",
+            "difficulty": "Moderate",
+            "season": "Dry Season (May-October)",
+            "duration": "3-6 hours",
+            "description": "Discover the underwater wonders of the Cook Islands’ coral reefs.",
+            "bestLocations": [
+              "Aitutaki Lagoon",
+              "Rarotonga Lagoon"
+            ],
+            "requirements": "Dive certification, dive gear",
+            "safety": [
+              "Follow dive guidelines",
+              "Check equipment"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Long-sleeved shirts, light jacket, sweater",
+        "yearRound": "Breathable fabrics, comfortable shoes"
+      },
+      "equipment": {
+        "basic": "Sunscreen, insect repellent, hat, sunglasses",
+        "hiking": "Sturdy hiking boots, backpack, water bottle",
+        "photography": "Camera, waterproof case"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of the sun's intensity",
+        "Respect local customs"
+      ]
+    }
+  }
+}

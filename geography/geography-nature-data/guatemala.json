@@ -1,0 +1,324 @@
+{
+  "name": "Guatemala",
+  "region": "Central America",
+  "description": "Guatemala, a land of vibrant culture, stunning landscapes, and ancient history, is nestled in the heart of Central America.  It’s a country defined by its dramatic volcanic peaks, lush rainforests, and the mighty Mayan civilization.  From the bustling markets of Antigua to the serene beauty of Lake Atitlán, Guatemala offers a diverse and unforgettable travel experience.  The country’s economy is largely based on agriculture, particularly coffee production, and tourism.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "18 million",
+      "icon": "Users",
+      "description": "Guatemala boasts a diverse population, primarily of Mayan descent, alongside Spanish and other ethnic groups.",
+      "detail": "The majority of the population lives in rural areas, relying on agriculture for their livelihoods."
+    },
+    {
+      "label": "Capital",
+      "value": "Guatemala City",
+      "icon": "MapPin",
+      "description": "Guatemala City is the political, economic, and cultural center of the country.",
+      "detail": "It's a sprawling metropolis with a rich history and a vibrant urban life."
+    },
+    {
+      "label": "Official Language",
+      "value": "Spanish",
+      "icon": "ArrowRight",
+      "description": "Spanish is the official language, but Mayan languages are widely spoken throughout the country.",
+      "detail": "Approximately 22 Mayan languages are still actively spoken."
+    },
+    {
+      "label": "Currency",
+      "value": "Quetzal (GTQ)",
+      "icon": "Coffee",
+      "description": "The currency of Guatemala is the Quetzal, named after the national bird.",
+      "detail": "One US dollar is approximately 8.3 Quetzales."
+    },
+    {
+      "label": "Area",
+      "value": "108,889 sq km",
+      "icon": "Globe",
+      "description": "Guatemala is a relatively small country with a diverse geography.",
+      "detail": "It borders Mexico to the north, Belize to the west, Honduras to the east, and El Salvador to the south."
+    }
+  ],
+  "climateData": {
+    "title": "Climate Overview",
+    "description": "Guatemala experiences a tropical climate with variations depending on altitude and region. The lowlands are hot and humid year-round, while the highlands are cooler and drier.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "November - April",
+        "description": "The dry season is generally sunny and pleasant, making it ideal for travel. However, it can also be quite hot, especially in the lowlands.",
+        "keyFeatures": [
+          "Sunny days",
+          "Low humidity",
+          "Clear skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Exploring ruins",
+          "Waterfalls"
+        ]
+      },
+      {
+        "name": "Wet Season",
+        "period": "May - October",
+        "description": "The wet season brings frequent rainfall, particularly in the afternoons.  It’s a lush and vibrant time of year, but can make some activities challenging.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Green landscapes",
+          "Increased river levels"
+        ],
+        "activities": [
+          "River rafting",
+          "Canyoning",
+          "Rainforest hikes"
+        ]
+      },
+      {
+        "name": "Hurricane Season",
+        "period": "June - November",
+        "description": "Guatemala is susceptible to hurricanes and tropical storms during this period. Travelers should monitor weather forecasts and be prepared for potential disruptions.",
+        "keyFeatures": [
+          "Potential for severe weather",
+          "Evacuations",
+          "Travel disruptions"
+        ],
+        "activities": [
+          "Limited outdoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lake Atitlán",
+      "category": "Lake",
+      "description": "Lake Atitlán is a stunning volcanic crater lake surrounded by towering volcanoes and traditional Mayan villages. It’s considered one of the most beautiful lakes in the world.",
+      "detailedDescription": "Formed by a volcanic eruption, the lake’s deep blue waters reflect the surrounding mountains, creating a breathtaking panorama.  Each of the villages surrounding the lake has a unique culture and traditions.",
+      "bestTime": "Year-round",
+      "bestLocations": [
+        "Panajachel",
+        "San Juan la Laguna",
+        "Santiago Atitlán"
+      ],
+      "viewingTips": [
+        "Take a boat trip to explore the different villages",
+        "Visit a Mayan weaving cooperative",
+        "Enjoy the sunset over the lake"
+      ],
+      "scientificData": {
+        "Depth": "345m",
+        "Surface Area": "83 km²",
+        "Altitude": "1,867m"
+      },
+      "icon": "MapPin"
+    },
+    {
+      "id": 2,
+      "name": "Tacaná Volcano",
+      "category": "Volcano",
+      "description": "Tacaná Volcano is the highest point in Guatemala, offering spectacular views and a challenging hike.",
+      "detailedDescription": "This active volcano is part of the Trans-Mexican Volcanic Belt. The summit offers panoramic views of the surrounding highlands and the border with Mexico.  The crater lake is a unique feature.",
+      "bestTime": "November - April",
+      "bestLocations": [
+        "El Castillo"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Bring warm clothing",
+        "Check weather conditions before heading out"
+      ],
+      "scientificData": {
+        "Height": "3,976m",
+        "Type": "Stratovolcano",
+        "Activity": "Active"
+      },
+      "icon": "Mountain"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Guatemala's Ecosystems",
+    "overview": "Guatemala boasts a remarkable diversity of ecosystems, ranging from tropical rainforests to cloud forests and volcanic highlands. These ecosystems support a rich array of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "23%",
+      "nationalParks": 15
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Tropical Rainforest",
+        "icon": "Leaf",
+        "description": "Guatemala’s rainforests are home to an incredible variety of plant and animal species, including jaguars, monkeys, toucans, and countless insects.",
+        "statistics": [
+          {
+            "category": "Species Richness",
+            "count": "Over 5,000 plant species",
+            "details": "Guatemala is one of the most biodiverse countries in the Americas."
+          },
+          {
+            "category": "Rainfall",
+            "count": "2,000-4,000 mm annually",
+            "details": "High rainfall supports lush vegetation."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Jaguar",
+            "status": "Endangered",
+            "significance": "Top predator of the rainforest."
+          },
+          {
+            "name": "Quetzal",
+            "status": "Near Threatened",
+            "significance": "Symbol of Guatemala and a beautiful bird."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging",
+          "Mining"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Sustainable forestry",
+          "Community-based conservation"
+        ]
+      },
+      {
+        "name": "Cloud Forest",
+        "icon": "Cloud",
+        "description": "Cloud forests are found in the higher elevations of the Guatemalan highlands, characterized by persistent cloud cover and abundant rainfall.",
+        "statistics": [
+          {
+            "category": "Altitude",
+            "count": "2,000-3,000m",
+            "details": "High altitude creates a unique microclimate."
+          },
+          {
+            "category": "Plant Diversity",
+            "count": "Over 1,000 plant species",
+            "details": "Home to many endemic species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Resplendent Quetzal",
+            "status": "Near Threatened",
+            "significance": "Iconic bird of the cloud forest."
+          },
+          {
+            "name": "Howler Monkeys",
+            "status": "Least Concern",
+            "significance": "Dominant primate in the cloud forest."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Climate change",
+          "Tourism"
+        ],
+        "conservationEfforts": [
+          "Sustainable tourism",
+          "Reforestation",
+          "Protected area management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Guatemala",
+    "description": "Guatemala offers a wide range of outdoor activities for all levels of experience, from hiking and birdwatching to rafting and exploring ancient ruins.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Guatemala’s stunning landscapes on foot.",
+        "activities": [
+          {
+            "name": "Pacaya Volcano Hike",
+            "difficulty": "Moderate",
+            "season": "Year-round",
+            "duration": "3-4 hours",
+            "description": "Hike to the crater of Pacaya Volcano and witness its active lava flows.",
+            "bestLocations": [
+              "Cerro de la Canela"
+            ],
+            "requirements": "Good hiking shoes, water, snacks",
+            "safety": [
+              "Volcanic gases",
+              "Uneven terrain"
+            ]
+          },
+          {
+            "name": "Semuc Champey Trek",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "2-3 days",
+            "description": "Trek through the jungle to reach the stunning turquoise pools of Semuc Champey.",
+            "bestLocations": [
+              "Lanquin"
+            ],
+            "requirements": "Hiking boots, insect repellent, swimwear",
+            "safety": [
+              "Jungle hazards",
+              "River crossings"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the country’s many rivers, lakes, and waterfalls.",
+        "activities": [
+          {
+            "name": "Rafting on the Cahabón River",
+            "difficulty": "Easy",
+            "season": "Dry Season",
+            "duration": "Half-day",
+            "description": "Raft down the scenic Cahabón River, surrounded by lush rainforest.",
+            "bestLocations": [
+              "Lanquin"
+            ],
+            "requirements": "Life jacket, swimwear",
+            "safety": [
+              "River currents",
+              "Rocks"
+            ]
+          },
+          {
+            "name": "Canyoning at El Salto del Bruja",
+            "difficulty": "Hard",
+            "season": "Dry Season",
+            "duration": "Full-day",
+            "description": "Descend waterfalls and rappel through canyons in this thrilling adventure.",
+            "bestLocations": [
+              "Antigua"
+            ],
+            "requirements": "Canyoning gear, experience",
+            "safety": [
+              "Falls",
+              "Rappelling"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, sunscreen",
+        "winter": "Warm layers, waterproof jacket, hat, gloves",
+        "yearRound": "Comfortable walking shoes, insect repellent"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, flashlight",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Learn basic Spanish",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

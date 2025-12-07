@@ -1,0 +1,320 @@
+{
+  "name": "Niger",
+  "region": "West Africa",
+  "description": "Niger, officially the Republic of Niger, is a landlocked country in West Africa. Characterized by vast, arid landscapes, it faces significant challenges related to desertification, poverty, and food security. Despite these difficulties, Niger possesses a rich cultural heritage, diverse nomadic traditions, and a growing economy driven by mineral resources. The country’s strategic location makes it a vital transit route for goods and people across the Sahel region.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "26.2 million",
+      "icon": "Users",
+      "description": "Niger's population is predominantly young, with a high rate of youth unemployment.",
+      "detail": "The majority of the population lives in rural areas, relying on agriculture and animal husbandry."
+    },
+    {
+      "label": "Capital",
+      "value": "Niamey",
+      "icon": "MapPin",
+      "description": "Niamey is the economic, political, and cultural center of Niger.",
+      "detail": "It's a rapidly growing city with a mix of traditional and modern architecture."
+    },
+    {
+      "label": "Area",
+      "value": "1.267.000 sq km",
+      "icon": "Globe",
+      "description": "Niger is the largest country entirely within the Sahara Desert.",
+      "detail": "Approximately 89% of the country is desert or semi-desert."
+    },
+    {
+      "label": "Official Language",
+      "value": "French",
+      "icon": "ArrowRight",
+      "description": "French is the official language, alongside Hausa, Tamajaq, Zarma, and Kanuri.",
+      "detail": "Arabic script is also used for Hausa."
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)",
+      "icon": "Coffee",
+      "description": "The currency is the West African CFA franc.",
+      "detail": "It is pegged to the Euro."
+    },
+    {
+      "label": "GDP",
+      "value": "$17.6 billion (2023)",
+      "icon": "Zap",
+      "description": "Niger's economy is heavily reliant on agriculture and natural resources.",
+      "detail": "Mineral extraction, particularly uranium, contributes significantly to the GDP."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Niger",
+    "description": "Niger experiences a hot desert climate with extreme temperature variations. Rainfall is scarce and unpredictable, leading to frequent droughts and desertification. The climate significantly impacts agriculture and livelihoods.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season",
+        "period": "June – September",
+        "description": "This is the hottest and driest period of the year, characterized by intense heat and minimal rainfall.",
+        "keyFeatures": [
+          "Extreme heat",
+          "Low humidity",
+          "Dust storms"
+        ],
+        "activities": [
+          "Travel is difficult",
+          "Water conservation is crucial"
+        ]
+      },
+      {
+        "name": "Transition Season",
+        "period": "October – November",
+        "description": "Temperatures begin to moderate, and there is a slight increase in humidity.  Rainfall becomes more frequent, though still unreliable.",
+        "keyFeatures": [
+          "Cooler temperatures",
+          "Increased humidity",
+          "First rains"
+        ],
+        "activities": [
+          "Harvesting crops",
+          "Preparing for the rainy season"
+        ]
+      },
+      {
+        "name": "Rainy Season",
+        "period": "December – March",
+        "description": "This period brings the most rainfall, crucial for agriculture. However, flooding can also occur.",
+        "keyFeatures": [
+          "Heavy rainfall",
+          "Flooding",
+          "Green vegetation"
+        ],
+        "activities": [
+          "Planting crops",
+          "Livestock grazing"
+        ]
+      },
+      {
+        "name": "Harmattan",
+        "period": "November – February",
+        "description": "A dry, dusty wind blows in from the Sahara, bringing cooler temperatures and reduced visibility.",
+        "keyFeatures": [
+          "Dust storms",
+          "Cooler temperatures",
+          "Reduced visibility"
+        ],
+        "activities": [
+          "Limited outdoor activities"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Aïr Mountains",
+      "category": "Mountain Range",
+      "description": "The Aïr Mountains, located in the southwestern part of Niger, are a dramatic and isolated mountain range characterized by towering peaks, deep canyons, and unique geological formations. They represent a remnant of the ancient African craton.",
+      "detailedDescription": "The mountains are home to diverse flora and fauna, including endemic species. The region's isolation has preserved a traditional way of life for the Tuareg people, who have inhabited the area for centuries. The dramatic landscapes offer stunning views and challenging hiking opportunities.",
+      "bestTime": "October – April",
+      "bestLocations": [
+        "Aïr",
+        "Tiguidi"
+      ],
+      "viewingTips": [
+        "Bring warm clothing",
+        "Hire a local guide",
+        "Respect the local culture"
+      ],
+      "scientificData": {
+        "Height": "2,000m",
+        "Age": "Approximately 600 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Lake Toimi",
+      "category": "Lake",
+      "description": "Lake Toimi is a remote and pristine lake located in the Tahoua region of Niger. It's a vital water source for local communities and a haven for diverse birdlife.",
+      "detailedDescription": "The lake's unique ecosystem is sustained by seasonal rainfall and groundwater. The surrounding landscape is characterized by savanna grasslands and rocky outcrops.  It's a crucial stopover for migratory birds.",
+      "bestTime": "November – March",
+      "bestLocations": [
+        "Toimi"
+      ],
+      "viewingTips": [
+        "Bring binoculars",
+        "Respect the local communities",
+        "Practice responsible tourism"
+      ],
+      "scientificData": {
+        "Depth": "30m",
+        "Surface Area": "15 sq km"
+      },
+      "icon": "Droplets"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Niger",
+    "overview": "Niger’s ecosystems are largely defined by its arid and semi-arid conditions.  Despite the harsh environment, a surprising diversity of life exists, adapted to the challenges of water scarcity and extreme temperatures.  Desert grasslands, shrublands, and isolated wetlands are the dominant features.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 3.5%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Desert Mammals",
+        "icon": "Bird",
+        "description": "Niger is home to several species of desert-adapted mammals, including the addax, dorcas gazelle, and striped polecat.",
+        "statistics": [
+          {
+            "category": "Addax",
+            "count": "Estimated 100-1000",
+            "details": "Critically endangered"
+          },
+          {
+            "category": "Dorcas Gazelle",
+            "count": "Estimated 50,000",
+            "details": "Common in the Sahel"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Addax",
+            "status": "Critically Endangered",
+            "significance": "An iconic species of the Sahara Desert"
+          },
+          {
+            "name": "Striped Polecat",
+            "status": "Vulnerable",
+            "significance": "Adapted to survive in harsh desert conditions"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Poaching",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Community-based conservation",
+          "Anti-poaching patrols"
+        ]
+      },
+      {
+        "name": "Avian Diversity",
+        "icon": "Leaf",
+        "description": "Niger supports a rich diversity of bird species, including migratory birds that rely on the lake systems and wetlands.",
+        "statistics": [
+          {
+            "category": "Migratory Birds",
+            "count": "Over 200 species",
+            "details": "Important stopover point for long-distance migrants"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Fish Eagle",
+            "status": "Least Concern",
+            "significance": "A symbol of the African wilderness"
+          },
+          {
+            "name": "White-browed Sparrowhawk",
+            "status": "Vulnerable",
+            "significance": "Endemic to the Sahara"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal hunting"
+        ],
+        "conservationEfforts": [
+          "Protected areas",
+          "Community education"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Niger",
+    "description": "Niger offers a range of outdoor activities, catering to various levels of experience. However, travelers should be prepared for challenging conditions and limited infrastructure.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the rugged landscapes of the Aïr Mountains and the surrounding desert.",
+        "activities": [
+          {
+            "name": "Aïr Mountain Trek",
+            "difficulty": "Moderate",
+            "season": "October – April",
+            "duration": "3-7 days",
+            "description": "A challenging trek through the Aïr Mountains, offering stunning views and cultural encounters.",
+            "bestLocations": [
+              "Aïr"
+            ],
+            "requirements": "Good physical fitness, hiking boots, warm clothing",
+            "safety": [
+              "Heatstroke",
+              "Dehydration",
+              "Flash floods"
+            ]
+          },
+          {
+            "name": "Desert Hiking",
+            "difficulty": "Hard",
+            "season": "October – April",
+            "duration": "Variable",
+            "description": "Explore the vast expanse of the Sahara Desert with a local guide.",
+            "bestLocations": [
+              "Tahoua",
+              "Zinder"
+            ],
+            "requirements": "Experienced hiker, water supply, sun protection",
+            "safety": [
+              "Heatstroke",
+              "Sandstorms",
+              "Getting lost"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Viewing",
+        "icon": "Bird",
+        "description": "Observe the unique wildlife of Niger, including desert mammals and bird species.",
+        "activities": [
+          {
+            "name": "Lake Toimi Birdwatching",
+            "difficulty": "Easy",
+            "season": "November – March",
+            "duration": "1-3 days",
+            "description": "Spot a variety of bird species around Lake Toimi.",
+            "bestLocations": [
+              "Toimi"
+            ],
+            "requirements": "Binoculars, bird identification guide",
+            "safety": [
+              "Mosquitoes",
+              "Heat"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight, breathable clothing, hat, sunglasses",
+        "winter": "Warm layers, fleece jacket, waterproof jacket",
+        "yearRound": "Sunscreen, insect repellent"
+      },
+      "equipment": {
+        "basic": "Water bottle, flashlight, first-aid kit",
+        "hiking": "Hiking boots, backpack, map, compass",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Travel insurance",
+        "Consult a doctor before traveling",
+        "Respect local customs"
+      ]
+    }
+  }
+}

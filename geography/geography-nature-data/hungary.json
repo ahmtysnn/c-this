@@ -1,0 +1,367 @@
+{
+  "name": "Hungary",
+  "region": "Europe",
+  "description": "Hungary, officially the Republic of Hungary, is a landlocked country in Central Europe. Known for its rich history, vibrant culture, and stunning natural landscapes, Hungary boasts a diverse geography ranging from the Great Hungarian Plain to the Carpathian Mountains. It’s a country of thermal springs, charming towns, and a unique blend of Eastern and Western European influences.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Budapest",
+      "icon": "MapPin",
+      "description": "The heart of Hungary, a city divided by the Danube River, renowned for its architecture and thermal baths.",
+      "detail": "Budapest was formed in 1873 by the amalgamation of Buda, Pest, and Óbuda."
+    },
+    {
+      "label": "Population",
+      "value": "9.7 million",
+      "icon": "Users",
+      "description": "Hungary has a population of approximately 9.7 million people, predominantly Hungarian.",
+      "detail": "The vast majority of the population resides in urban areas, particularly in Budapest."
+    },
+    {
+      "label": "Area",
+      "value": "93,030 sq km (36,060 sq mi)",
+      "icon": "Globe",
+      "description": "Hungary's area encompasses a mix of fertile plains and mountainous regions.",
+      "detail": "It's the 97th largest country in the world by area."
+    },
+    {
+      "label": "Language",
+      "value": "Hungarian",
+      "icon": "ArrowRight",
+      "description": "Hungarian (Magyar) is a Uralic language, unrelated to most other European languages.",
+      "detail": "It's considered a linguistic isolate."
+    },
+    {
+      "label": "Currency",
+      "value": "Hungarian Forint (HUF)",
+      "icon": "Coffee",
+      "description": "The official currency of Hungary is the Hungarian Forint.",
+      "detail": "The Forint has a long and complex history, experiencing significant fluctuations over time."
+    },
+    {
+      "label": "Official Religion",
+      "value": "Unaffiliated",
+      "icon": "Eye",
+      "description": "Hungary has a religiously diverse population, with a significant portion identifying as unaffiliated.",
+      "detail": "Historically, the country was predominantly Catholic."
+    }
+  ],
+  "climateData": {
+    "title": "Hungarian Climate",
+    "description": "Hungary experiences a temperate continental climate with warm summers and cold winters. Rainfall is relatively evenly distributed throughout the year, though the northwest tends to be wetter.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring brings a gradual warming, with blossoming trees and wildflowers transforming the landscape. It's a popular time for outdoor activities.",
+        "keyFeatures": [
+          "Blooming flowers",
+          "Mild temperatures",
+          "Increased rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Gardening",
+          "Visiting vineyards"
+        ]
+      },
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summers are warm and sunny, with average temperatures ranging from 20°C to 30°C (68°F to 86°F). It's ideal for swimming and water sports.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Sunny days",
+          "Long daylight hours"
+        ],
+        "activities": [
+          "Swimming",
+          "Water sports",
+          "Hiking",
+          "Festivals"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings cooler temperatures and vibrant fall foliage. It's a beautiful time for hiking and exploring the countryside.",
+        "keyFeatures": [
+          "Colorful foliage",
+          "Cool temperatures",
+          "Lower rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Cycling",
+          "Wine tasting",
+          "Visiting thermal baths"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winters are cold and snowy, with average temperatures ranging from -2°C to 5°C (28°F to 41°F). It's a time for cozying up by the fireplace and enjoying winter sports.",
+        "keyFeatures": [
+          "Snowfall",
+          "Cold temperatures",
+          "Short daylight hours"
+        ],
+        "activities": [
+          "Skiing",
+          "Snowboarding",
+          "Visiting thermal baths",
+          "Christmas markets"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Lake Balaton",
+      "category": "Lake",
+      "description": "Lake Balaton is the largest lake in Central Europe, renowned for its stunning beauty and recreational opportunities. It's a popular destination for swimming, sailing, and enjoying the Hungarian sunshine.",
+      "detailedDescription": "Formed during the last Ice Age, Lake Balaton boasts a unique microclimate and diverse flora and fauna. Its shallow waters and sandy beaches make it ideal for families.",
+      "bestTime": "Summer",
+      "bestLocations": [
+        "Balatonfüred",
+        "Badacsony",
+        "Siófok"
+      ],
+      "viewingTips": [
+        "Visit during the summer months for the warmest water.",
+        "Take a boat trip to explore the lake's hidden coves."
+      ],
+      "scientificData": {
+        "Depth": "Maximum depth: 6m",
+        "Surface Area": "168 sq km"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 2,
+      "name": "Aggtelek National Park",
+      "category": "Cave System",
+      "description": "Aggtelek National Park is home to the impressive Postkupa Cave System, one of the largest cave systems in Europe. It’s a UNESCO World Heritage Site, showcasing stunning stalactites and stalagmites.",
+      "detailedDescription": "The caves are formed in limestone and are adorned with unique geological formations. The park also features a beautiful karst landscape with forests and waterfalls.",
+      "bestTime": "Spring or Autumn",
+      "bestLocations": [
+        "Aggtelek",
+        "Székelyehid"
+      ],
+      "viewingTips": [
+        "Book a guided tour to learn about the cave's geology and history.",
+        "Wear comfortable shoes and bring a light jacket."
+      ],
+      "scientificData": {
+        "Length": "Over 230 km of caves",
+        "Formation Age": "Approximately 10 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 3,
+      "name": "Kiskunság National Park",
+      "category": "Grassland",
+      "description": "Kiskunság National Park is a vast expanse of Hungarian steppe, characterized by its unique flora and fauna. It’s a haven for birdwatchers and nature enthusiasts.",
+      "detailedDescription": "The park’s landscape is dominated by grasslands, shrublands, and scattered forests. It’s home to a variety of rare and endangered species, including the Hungarian bustard.",
+      "bestTime": "Spring or Autumn",
+      "bestLocations": [
+        "Pécs",
+        "Szentistván"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching.",
+        "Wear sturdy shoes for hiking."
+      ],
+      "scientificData": {
+        "Area": "250 sq km",
+        "Altitude": "250-597 m"
+      },
+      "icon": "Leaf"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Hungarian Ecosystems",
+    "overview": "Hungary’s ecosystems are diverse, ranging from the fertile plains of the Great Hungarian Plain to the mountainous regions of the Carpathian Basin. These ecosystems support a rich variety of plant and animal life.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Hungary's territory is protected as national parks and nature reserves.",
+      "nationalParks": 15
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Forests",
+        "icon": "Trees",
+        "description": "Hungary’s forests cover approximately 20% of the country’s land area, providing habitat for a wide range of species.",
+        "statistics": [
+          {
+            "category": "Tree Species",
+            "count": "Over 100",
+            "details": "Includes beech, oak, and spruce."
+          },
+          {
+            "category": "Forest Cover",
+            "count": "20%",
+            "details": "Primarily deciduous forests."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "European Bison",
+            "status": "Near Threatened",
+            "significance": "A keystone species in the Hungarian forests."
+          },
+          {
+            "name": "Red Deer",
+            "status": "Least Concern",
+            "significance": "A common and important herbivore."
+          }
+        ],
+        "threats": [
+          "Deforestation",
+          "Illegal logging"
+        ],
+        "conservationEfforts": [
+          "Reforestation programs",
+          "Protected areas"
+        ]
+      },
+      {
+        "name": "Wetlands",
+        "icon": "Droplets",
+        "description": "Hungary has a significant number of wetlands, including marshes, swamps, and reed beds, which are vital for biodiversity and flood control.",
+        "statistics": [
+          {
+            "category": "Wetland Area",
+            "count": "Approximately 100,000 ha",
+            "details": "Includes the Danube-Tisza Plain."
+          },
+          {
+            "category": "Bird Species",
+            "count": "Over 200",
+            "details": "Important stopover site for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "White-tailed Eagle",
+            "status": "Least Concern",
+            "significance": "A top predator in the wetlands."
+          },
+          {
+            "name": "Great Reed Warbler",
+            "status": "Vulnerable",
+            "significance": "A specialist wetland species."
+          }
+        ],
+        "threats": [
+          "Drainage",
+          "Pollution"
+        ],
+        "conservationEfforts": [
+          "Wetland restoration projects",
+          "Water quality management"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Hungary",
+    "description": "Hungary offers a wide range of outdoor activities for all interests and skill levels.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Hungary’s diverse landscapes on foot, from the rolling hills of the Great Hungarian Plain to the rugged mountains of the Carpathian Basin.",
+        "activities": [
+          {
+            "name": "Budapest to Lake Balaton Hike",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "2-3 days",
+            "description": "A scenic hike from Budapest to Lake Balaton, passing through picturesque villages and forests.",
+            "bestLocations": [
+              "Lake Balaton region"
+            ],
+            "requirements": "Hiking boots, backpack, water bottle",
+            "safety": [
+              "Inform someone of your route",
+              "Check weather conditions"
+            ]
+          },
+          {
+            "name": "Aggtelek Cave Hike",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "2-4 hours",
+            "description": "Explore the trails around Aggtelek National Park, offering stunning views of the cave system and surrounding landscape.",
+            "bestLocations": [
+              "Aggtelek"
+            ],
+            "requirements": "Comfortable shoes, flashlight",
+            "safety": [
+              "Stick to marked trails"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Hungary’s lakes and rivers offer a variety of water sports activities.",
+        "activities": [
+          {
+            "name": "Swimming in Lake Balaton",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Enjoy a refreshing swim in the warm waters of Lake Balaton.",
+            "bestLocations": [
+              "Balatonfüred",
+              "Badacsony"
+            ],
+            "requirements": "Swimsuit, towel",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Kayaking on the Danube",
+            "difficulty": "Moderate",
+            "season": "Spring - Autumn",
+            "duration": "2-4 hours",
+            "description": "Paddle along the Danube River, enjoying the views of Budapest and its historic landmarks.",
+            "bestLocations": [
+              "Budapest"
+            ],
+            "requirements": "Kayak, paddle, life jacket",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of boat traffic"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Light clothing, swimwear, sunscreen, hat",
+        "winter": "Warm coat, hat, gloves, scarf, waterproof boots",
+        "yearRound": "Layers of clothing, comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, map, compass",
+        "hiking": "Hiking boots, trekking poles, first-aid kit",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Inform someone of your plans",
+        "Check weather conditions",
+        "Carry a first-aid kit",
+        "Be aware of wildlife"
+      ]
+    }
+  }
+}

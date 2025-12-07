@@ -1,0 +1,305 @@
+{
+  "name": "Burkina Faso",
+  "region": "Africa",
+  "description": "Burkina Faso, meaning 'Land of the Upright Ones' in the Mossi language, is a landlocked country in West Africa. Known for its rich cultural heritage, diverse landscapes, and significant agricultural potential, it faces challenges related to poverty, desertification, and political instability. The country is characterized by a Sahelian climate, transitioning from savanna to semi-arid conditions.",
+  "quickFacts": [
+    {
+      "label": "Population",
+      "value": "22.65 million",
+      "icon": "Users",
+      "description": "Burkina Faso has a growing population, primarily rural.",
+      "detail": "The population is concentrated in the south and west, with significant nomadic populations in the north."
+    },
+    {
+      "label": "Capital",
+      "value": "Ouagadougou",
+      "icon": "MapPin",
+      "description": "Ouagadougou is the political, economic, and cultural center of the country.",
+      "detail": "It's a vibrant city known for its artistic scene and annual film festival."
+    },
+    {
+      "label": "Area",
+      "value": "274,200 sq km",
+      "icon": "Globe",
+      "description": "Burkina Faso is slightly smaller than the state of Colorado.",
+      "detail": "It's bordered by Mali to the south, Niger to the east, Benin and Togo to the west, and Ghana to the northwest."
+    },
+    {
+      "label": "Official Language",
+      "value": "French",
+      "icon": "ArrowRight",
+      "description": "French is the official language, but numerous regional languages are spoken.",
+      "detail": "Mossi, Fulani, and Bobo are among the most widely spoken indigenous languages."
+    },
+    {
+      "label": "Currency",
+      "value": "West African CFA franc (XOF)",
+      "icon": "Coffee",
+      "description": "The currency is the West African CFA franc.",
+      "detail": "It's pegged to the euro and the French franc."
+    },
+    {
+      "label": "GDP",
+      "value": "$17.6 billion (2023)",
+      "icon": "Zap",
+      "description": "Burkina Faso's economy is largely based on agriculture.",
+      "detail": "Key sectors include agriculture, mining, and services."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Burkina Faso",
+    "description": "Burkina Faso experiences a tropical savanna climate, characterized by distinct wet and dry seasons. The north is semi-arid, while the south is more humid. Temperatures are generally high throughout the year.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Dry Season (November - April)",
+        "period": "November - April",
+        "description": "This is the hottest and driest period of the year, with temperatures often exceeding 40°C (104°F).",
+        "keyFeatures": [
+          "Low rainfall",
+          "High temperatures",
+          "Dust storms"
+        ],
+        "activities": [
+          "Harvesting",
+          "Traditional ceremonies",
+          "Travel to cooler regions"
+        ]
+      },
+      {
+        "name": "Wet Season (May - October)",
+        "period": "May - October",
+        "description": "The wet season brings significant rainfall, transforming the landscape and supporting agricultural growth.",
+        "keyFeatures": [
+          "High rainfall",
+          "Relatively cooler temperatures",
+          "Flooding in some areas"
+        ],
+        "activities": [
+          "Planting",
+          "Fishing",
+          "River rafting (in certain areas)"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Wadi Agouf",
+      "category": "River & Waterfall",
+      "description": "Wadi Agouf is a stunning waterfall and river system located in the eastern part of Burkina Faso. The cascading waters create a beautiful oasis amidst the arid landscape, offering a refreshing escape and a glimpse into the country's natural beauty.",
+      "detailedDescription": "The waterfall is fed by the Niger River and surrounded by lush vegetation. It's a popular spot for picnics, swimming, and wildlife viewing. The surrounding area is also home to diverse bird species.",
+      "bestTime": "June - September",
+      "bestLocations": [
+        "Eastern Burkina Faso"
+      ],
+      "viewingTips": [
+        "Bring insect repellent",
+        "Wear comfortable shoes",
+        "Respect the local community"
+      ],
+      "scientificData": {
+        "Height": "90m",
+        "Width": "50m",
+        "FlowRate": "Variable, dependent on rainfall"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 2,
+      "name": "Arly National Park",
+      "category": "Forest",
+      "description": "Arly National Park is a vast, pristine rainforest in the north of Burkina Faso, renowned for its incredible biodiversity and unique ecosystem. It's a vital habitat for numerous endangered species and a crucial area for carbon sequestration.",
+      "detailedDescription": "The park is characterized by towering trees, diverse plant life, and a rich array of animal species, including chimpanzees, forest elephants, and various bird species. It's a challenging but rewarding destination for experienced trekkers and wildlife enthusiasts.",
+      "bestTime": "November - February",
+      "bestLocations": [
+        "Northern Burkina Faso"
+      ],
+      "viewingTips": [
+        "Hire a local guide",
+        "Pack appropriate clothing and gear",
+        "Be aware of wildlife encounters"
+      ],
+      "scientificData": {
+        "Area": "7,500 sq km",
+        "Altitude": "300-800m",
+        "Rainfall": "1,500-2,500mm"
+      },
+      "icon": "Trees"
+    }
+  ],
+  "ecosystemData": {
+    "title": "Ecosystems of Burkina Faso",
+    "overview": "Burkina Faso’s ecosystems are diverse, ranging from the Sahelian savanna to the tropical rainforests of the north. These ecosystems support a wide range of plant and animal life, playing a crucial role in the country’s biodiversity and economy.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 4
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Mammals",
+        "icon": "Bird",
+        "description": "Burkina Faso is home to a variety of mammals, including elephants, baboons, antelopes, and various carnivores.",
+        "statistics": [
+          {
+            "category": "Elephant Population",
+            "count": "Approximately 2,000",
+            "details": "Threatened by poaching and habitat loss"
+          },
+          {
+            "category": "Antelope Species",
+            "count": "Over 30",
+            "details": "Important prey species for predators"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "African Elephant",
+            "status": "Vulnerable",
+            "significance": "Keystone species, vital for ecosystem health"
+          },
+          {
+            "name": "Chimpanzee",
+            "status": "Endangered",
+            "significance": "Important for seed dispersal and forest regeneration"
+          }
+        ],
+        "threats": [
+          "Poaching",
+          "Habitat loss",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Anti-poaching patrols",
+          "Community-based conservation programs",
+          "Protected area management"
+        ]
+      },
+      {
+        "name": "Birds",
+        "icon": "Leaf",
+        "description": "Burkina Faso boasts a rich avifauna, with over 400 bird species recorded, including migratory birds and endemic species.",
+        "statistics": [
+          {
+            "category": "Migratory Bird Species",
+            "count": "Over 100",
+            "details": "Important stopover site for long-distance migrants"
+          },
+          {
+            "category": "Endemic Bird Species",
+            "count": "10",
+            "details": "Unique to Burkina Faso"
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Grey Parrot",
+            "status": "Endangered",
+            "significance": "Critically important for seed dispersal"
+          },
+          {
+            "name": "White-fronted Dove",
+            "status": "Near Threatened",
+            "significance": "Indicator species for forest health"
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Illegal bird trade",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Protected area management",
+          "Community-based conservation",
+          "Research and monitoring"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Activities in Burkina Faso",
+    "description": "Burkina Faso offers a range of activities for adventurous travelers, from wildlife safaris to cultural immersion experiences. However, it's crucial to plan carefully and respect local customs.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore the diverse landscapes of Burkina Faso on foot, from savanna trails to rainforest paths.",
+        "activities": [
+          {
+            "name": "Savanna Trekking",
+            "difficulty": "Moderate",
+            "season": "Dry Season",
+            "duration": "3-7 days",
+            "description": "Trek through the vast savanna, observing wildlife and experiencing the local culture.",
+            "bestLocations": [
+              "Wadi Agouf area"
+            ],
+            "requirements": "Sturdy hiking boots, water bottle, sunscreen, insect repellent",
+            "safety": [
+              "Travel with a guide",
+              "Be aware of wildlife",
+              "Stay hydrated"
+            ]
+          },
+          {
+            "name": "Forest Hiking",
+            "difficulty": "Hard",
+            "season": "Wet Season",
+            "duration": "5-10 days",
+            "description": "Challenge yourself with a hike through the dense Arly National Park.",
+            "bestLocations": [
+              "Arly National Park"
+            ],
+            "requirements": "Hiking boots, waterproof clothing, insect repellent, machete (recommended)",
+            "safety": [
+              "Hire a local guide",
+              "Be aware of wildlife",
+              "Carry a first-aid kit"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy the rivers and lakes of Burkina Faso for swimming, fishing, and kayaking.",
+        "activities": [
+          {
+            "name": "River Fishing",
+            "difficulty": "Easy",
+            "season": "Year Round",
+            "duration": "Variable",
+            "description": "Cast a line and try your luck at catching local fish species.",
+            "bestLocations": [
+              "Niger River",
+              "Smaller rivers"
+            ],
+            "requirements": "Fishing license (if required), fishing rod and tackle",
+            "safety": [
+              "Be aware of currents",
+              "Wear a life jacket"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight cotton clothing, hat, sunglasses",
+        "winter": "Warm layers, waterproof jacket, scarf, gloves",
+        "yearRound": "Comfortable walking shoes, sunscreen, insect repellent"
+      },
+      "equipment": {
+        "basic": "Backpack, water bottle, flashlight, first-aid kit",
+        "hiking": "Hiking boots, trekking poles, map, compass",
+        "photography": "Camera, extra batteries, memory cards"
+      },
+      "safety": [
+        "Travel insurance",
+        "Vaccinations",
+        "Respect local customs",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

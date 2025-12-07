@@ -1,0 +1,360 @@
+{
+  "name": "Syria",
+  "region": "Western Asia",
+  "description": "Syria, a nation steeped in ancient history and diverse landscapes, occupies a strategic position at the crossroads of the Middle East.  Once a cradle of civilization, it boasts a complex and often turbulent past, marked by empires, conflicts, and a rich cultural heritage. Today, Syria presents a challenging but resilient nation, striving for stability amidst ongoing humanitarian concerns and a slow, arduous recovery. Its geography ranges from the fertile plains of the Euphrates and Barada rivers to the rugged mountains of Lebanon and the arid deserts of the east.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Damascus",
+      "icon": "MapPin",
+      "description": "The ancient capital of Syria, Damascus is one of the oldest continuously inhabited cities in the world.",
+      "detail": "Known as the 'Verdant City,' Damascus is renowned for its historic markets (Souks), stunning architecture, and vibrant cultural scene."
+    },
+    {
+      "label": "Population",
+      "value": "Approximately 23 million",
+      "icon": "Users",
+      "description": "Syria's population is a diverse mix of ethnicities and religions.",
+      "detail": "The demographic makeup includes Arabs, Kurds, Assyrians, and smaller communities of Armenians, Greeks, and Turks."
+    },
+    {
+      "label": "Area",
+      "value": "185,180 sq km (71,350 sq mi)",
+      "icon": "Globe",
+      "description": "Syria's territory encompasses a variety of landscapes.",
+      "detail": "It borders Lebanon to the west, Turkey to the north, Iraq to the east, Jordan to the south, and Israel to the southwest."
+    },
+    {
+      "label": "Official Language",
+      "value": "Arabic",
+      "icon": "ArrowRight",
+      "description": "Modern Standard Arabic is the official language.",
+      "detail": "Several regional dialects are also widely spoken."
+    },
+    {
+      "label": "Currency",
+      "value": "Syrian Pound (SYP)",
+      "icon": "Coffee",
+      "description": "The Syrian Pound is currently experiencing significant devaluation.",
+      "detail": "The economy is heavily influenced by the ongoing conflict."
+    }
+  ],
+  "climateData": {
+    "title": "Climate of Syria",
+    "description": "Syria experiences a predominantly Mediterranean climate, characterized by hot, dry summers and mild, wet winters. However, variations exist across the country due to altitude and proximity to the coast.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June - August",
+        "description": "Summers are intensely hot and dry, with temperatures frequently exceeding 40°C (104°F). Rainfall is minimal.",
+        "keyFeatures": [
+          "High Temperatures",
+          "Low Humidity",
+          "Clear Skies"
+        ],
+        "activities": [
+          "Swimming",
+          "Water Sports",
+          "Desert Safaris"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September - November",
+        "description": "Autumn brings a gradual cooling of temperatures and increased rainfall, particularly in the northern and coastal regions.",
+        "keyFeatures": [
+          "Cooler Temperatures",
+          "Increased Rainfall",
+          "Colorful Foliage"
+        ],
+        "activities": [
+          "Hiking",
+          "Photography",
+          "Harvest Festivals"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December - February",
+        "description": "Winters are mild, with average temperatures ranging from 5°C to 15°C (41°F to 59°F). Snowfall is common in the mountainous regions.",
+        "keyFeatures": [
+          "Mild Temperatures",
+          "Snowfall (Mountains)",
+          "Fog"
+        ],
+        "activities": [
+          "Skiing (Mountains)",
+          "Visiting Historical Sites",
+          "Cozy Indoor Activities"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March - May",
+        "description": "Spring is a beautiful season with blossoming flowers and pleasant temperatures. Rainfall increases steadily.",
+        "keyFeatures": [
+          "Blooming Flowers",
+          "Pleasant Temperatures",
+          "Increased Rainfall"
+        ],
+        "activities": [
+          "Hiking",
+          "Picnics",
+          "Exploring Gardens"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Mount Hermon",
+      "category": "Mountain",
+      "description": "Mount Hermon, the highest peak in Syria and the Middle East, offers breathtaking views and a unique alpine environment. It's a significant religious site for both Christians and Muslims.",
+      "detailedDescription": "Located on the border with Lebanon, Mount Hermon boasts a permanent snow cover during winter, creating a stunning contrast against the surrounding landscape. The mountain is home to diverse flora and fauna, including the rare Hermon snowfinch.",
+      "bestTime": "Winter (December - March)",
+      "bestLocations": [
+        "Hermon Village",
+        "Snow Canyon"
+      ],
+      "viewingTips": [
+        "Bring warm clothing and sturdy boots.",
+        "Check weather conditions before heading out."
+      ],
+      "scientificData": {
+        "Height": "2,814 m (9,203 ft)",
+        "Age": "Approximately 3.8 million years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Dead Sea",
+      "category": "Lake",
+      "description": "The Dead Sea, bordering Jordan, is the lowest point on Earth's surface and renowned for its exceptionally high salt content, allowing visitors to float effortlessly.",
+      "detailedDescription": "The Dead Sea is a unique hypersaline lake formed by the Jordan River's flow into the Syrian portion of the rift valley. Its mineral-rich waters are believed to have therapeutic properties. The surrounding landscape is characterized by salt flats and mud flats.",
+      "bestTime": "Spring and Autumn",
+      "bestLocations": [
+        "Ein Farah",
+        "Qasr Ibn Arab"
+      ],
+      "viewingTips": [
+        "Bring protective swimwear and sunscreen.",
+        "Avoid prolonged exposure to the sun."
+      ],
+      "scientificData": {
+        "Salinity": "34% (approximately)",
+        "Depth": "Average 80m (262 ft)"
+      },
+      "icon": "Droplets"
+    },
+    {
+      "id": 3,
+      "name": "Al-Jazira Nature Reserve",
+      "category": "Wetland",
+      "description": "Al-Jazira Nature Reserve is a vital wetland area along the Euphrates River, supporting a rich diversity of birdlife and plant species.",
+      "detailedDescription": "This reserve is a crucial stopover point for migratory birds traveling between Europe and Asia. The area is characterized by reed beds, marshes, and grasslands, providing a habitat for numerous species of waterfowl, raptors, and other wildlife.",
+      "bestTime": "Spring and Autumn (Migration Season)",
+      "bestLocations": [
+        "Al-Qunaytirah"
+      ],
+      "viewingTips": [
+        "Bring binoculars for birdwatching.",
+        "Respect the wildlife and their habitat."
+      ],
+      "scientificData": {
+        "Area": "Approximately 100,000 hectares",
+        "Bird Species": "Over 300 species"
+      },
+      "icon": "Bird"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Birds",
+    "icon": "Bird",
+    "description": "Syria is a significant migratory route for numerous bird species, making it a crucial location for avian biodiversity.",
+    "statistics": [
+      {
+        "category": "Migratory Birds",
+        "count": "Over 300 species",
+        "details": "The Euphrates and Orontes valleys are particularly important for migratory birds."
+      },
+      {
+        "category": "Endemic Species",
+        "count": "10",
+        "details": "Several bird species are found only in Syria."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Syrian Warbler",
+        "status": "Vulnerable",
+        "significance": "A small, secretive warbler found only in Syria and a small part of Lebanon."
+      },
+      {
+        "name": "Brown-necked Raven",
+        "status": "Near Threatened",
+        "significance": "A common scavenger found throughout Syria."
+      }
+    ],
+    "threats": [
+      "Habitat Loss",
+      "Illegal Hunting",
+      "Climate Change"
+    ],
+    "conservationEfforts": [
+      "Protected Area Management",
+      "Community-Based Conservation",
+      "Bird Monitoring Programs"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Syrian Ecosystems",
+    "overview": "Syria's ecosystems are diverse, ranging from Mediterranean forests and grasslands to arid deserts and wetlands. These ecosystems support a rich array of plant and animal life, but are increasingly threatened by human activities and climate change.",
+    "conservationStatus": {
+      "protectedAreas": "Approximately 15% of Syrian territory is protected within national parks and reserves.",
+      "nationalParks": 12
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Birds",
+        "icon": "Bird",
+        "description": "Syria is a critical migratory stopover for numerous bird species.",
+        "statistics": [
+          {
+            "category": "Migratory Birds",
+            "count": "Over 300 species",
+            "details": "The Euphrates and Orontes valleys are particularly important for migratory birds."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Syrian Warbler",
+            "status": "Vulnerable",
+            "significance": "A small, secretive warbler found only in Syria and a small part of Lebanon."
+          }
+        ],
+        "threats": [
+          "Habitat Loss",
+          "Illegal Hunting",
+          "Climate Change"
+        ],
+        "conservationEfforts": [
+          "Protected Area Management",
+          "Community-Based Conservation",
+          "Bird Monitoring Programs"
+        ]
+      },
+      {
+        "name": "Mammals",
+        "icon": "Leaf",
+        "description": "Syria is home to a variety of mammals, including gazelles, wild boars, and leopards.",
+        "statistics": [
+          {
+            "category": "Endangered Mammals",
+            "count": "3",
+            "details": "Several mammal species are threatened by habitat loss and poaching."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Syrian Brown Bear",
+            "status": "Vulnerable",
+            "significance": "A rare bear species found in the mountainous regions of Syria."
+          }
+        ],
+        "threats": [
+          "Habitat Loss",
+          "Poaching",
+          "Human-Wildlife Conflict"
+        ],
+        "conservationEfforts": [
+          "Anti-Poaching Patrols",
+          "Habitat Restoration",
+          "Community Education"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Outdoor Activities in Syria",
+    "description": "Syria offers a range of outdoor activities, from hiking and birdwatching to exploring ancient ruins and enjoying the natural beauty of its diverse landscapes.",
+    "activityCategories": [
+      {
+        "name": "Hiking",
+        "icon": "Compass",
+        "description": "Explore Syria's stunning mountains, valleys, and forests on foot.",
+        "activities": [
+          {
+            "name": "Mount Hermon Hike",
+            "difficulty": "Moderate",
+            "season": "Summer, Autumn",
+            "duration": "3-6 hours",
+            "description": "A scenic hike to the summit of Mount Hermon, offering panoramic views.",
+            "bestLocations": [
+              "Hermon Village"
+            ],
+            "requirements": "Sturdy hiking boots, water, sunscreen.",
+            "safety": [
+              "Check weather conditions",
+              "Inform someone of your route"
+            ]
+          },
+          {
+            "name": "Al-Jazira Nature Reserve Trail",
+            "difficulty": "Easy",
+            "season": "Spring, Autumn",
+            "duration": "2-4 hours",
+            "description": "A gentle walk through the wetlands of Al-Jazira Nature Reserve, perfect for birdwatching.",
+            "bestLocations": [
+              "Al-Qunaytirah"
+            ],
+            "requirements": "Comfortable walking shoes, binoculars.",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of wildlife"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Enjoy swimming, boating, and other water activities in Syria's lakes and rivers.",
+        "activities": [
+          {
+            "name": "Dead Sea Floating",
+            "difficulty": "Easy",
+            "season": "Summer",
+            "duration": "Variable",
+            "description": "Experience the unique sensation of floating effortlessly in the Dead Sea.",
+            "bestLocations": [
+              "Qasr Ibn Arab"
+            ],
+            "requirements": "Protective swimwear, sunscreen.",
+            "safety": [
+              "Avoid prolonged exposure to the sun"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, sunscreen, hat.",
+        "winter": "Warm layers, waterproof jacket, hat, gloves.",
+        "yearRound": "Comfortable walking shoes"
+      },
+      "equipment": {
+        "basic": "Water bottle, backpack, first-aid kit.",
+        "hiking": "Hiking boots, trekking poles.",
+        "photography": "Camera, extra batteries"
+      },
+      "safety": [
+        "Travel insurance",
+        "Register with your embassy",
+        "Be aware of your surroundings"
+      ]
+    }
+  }
+}

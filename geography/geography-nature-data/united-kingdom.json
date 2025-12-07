@@ -1,0 +1,375 @@
+{
+  "CountryData": {
+    "name": "United Kingdom",
+    "region": "Europe",
+    "description": "The United Kingdom, often referred to as Britain, is a sovereign state located off the northwestern coast of continental Europe. It comprises four constituent countries: England, Scotland, Wales, and Northern Ireland. Renowned for its rich history, diverse landscapes, and vibrant culture, the UK offers a captivating blend of urban and rural experiences.",
+    "quickFacts": [
+      {
+        "label": "Population",
+        "value": "67.75 million",
+        "icon": "Users",
+        "description": "The United Kingdom has a population of approximately 67.75 million people, making it one of the most populous countries in Europe.",
+        "detail": "This figure includes residents of England, Scotland, Wales, and Northern Ireland."
+      },
+      {
+        "label": "Area",
+        "value": "242,495 sq km (93,628 sq mi)",
+        "icon": "MapPin",
+        "description": "The UK's total land area is approximately 242,495 square kilometers (93,628 square miles).",
+        "detail": "This includes the islands of Great Britain and Ireland."
+      },
+      {
+        "label": "Capital",
+        "value": "London",
+        "icon": "MapPin",
+        "description": "London is the capital and largest city of the United Kingdom, a global center for finance and culture.",
+        "detail": "It's located in Southeast England."
+      },
+      {
+        "label": "Currency",
+        "value": "Pound Sterling (£)",
+        "icon": "Coffee",
+        "description": "The official currency of the United Kingdom is the Pound Sterling.",
+        "detail": "It's a major international currency."
+      },
+      {
+        "label": "Official Languages",
+        "value": "English",
+        "icon": "ArrowRight",
+        "description": "English is the most commonly spoken language, although Welsh and Scottish Gaelic are also official languages in certain regions.",
+        "detail": "Regional dialects and accents are prevalent."
+      }
+    ],
+    "climateData": {
+      "title": "United Kingdom Climate",
+      "description": "The UK experiences a temperate maritime climate, characterized by mild winters and cool summers. Rainfall is relatively consistent throughout the year, and weather patterns are often influenced by the Atlantic Ocean.",
+      "seasonalCharacteristics": [
+        {
+          "name": "Spring (March - May)",
+          "period": "March - May",
+          "description": "Spring brings a gradual warming trend, with blossoming flowers and vibrant greenery. Rainfall remains frequent, but sunny days become more common.",
+          "keyFeatures": [
+            "Blooming flowers",
+            "Increased daylight hours",
+            "Mild temperatures"
+          ],
+          "activities": [
+            "Hiking",
+            "Gardening",
+            "Cycling"
+          ]
+        },
+        {
+          "name": "Summer (June - August)",
+          "period": "June - August",
+          "description": "Summer is generally mild and wet, with average temperatures ranging from 15°C to 25°C (59°F to 77°F). Thunderstorms are common, particularly in the afternoon.",
+          "keyFeatures": [
+            "Warmest temperatures",
+            "Frequent thunderstorms",
+            "Long daylight hours"
+          ],
+          "activities": [
+            "Beach visits",
+            "Outdoor festivals",
+            "Hiking"
+          ]
+        },
+        {
+          "name": "Autumn (September - November)",
+          "period": "September - November",
+          "description": "Autumn brings cooler temperatures and increased rainfall. The landscape transforms into a stunning display of autumnal colors.",
+          "keyFeatures": [
+            "Falling leaves",
+            "Cooler temperatures",
+            "Increased rainfall"
+          ],
+          "activities": [
+            "Walking",
+            "Photography",
+            "Harvest festivals"
+          ]
+        },
+        {
+          "name": "Winter (December - February)",
+          "period": "December - February",
+          "description": "Winter is typically cold and damp, with average temperatures ranging from 2°C to 8°C (36°F to 46°F). Snowfall is infrequent, but can occur, particularly in upland areas.",
+          "keyFeatures": [
+            "Cold temperatures",
+            "Short daylight hours",
+            "Occasional snowfall"
+          ],
+          "activities": [
+            "Winter sports (skiing, snowboarding)",
+            "Cozy pubs",
+            "Christmas markets"
+          ]
+        }
+      ]
+    },
+    "naturalWonders": [
+      {
+        "id": 1,
+        "name": "Snowdonia National Park",
+        "category": "Mountain Range",
+        "description": "Snowdonia National Park, located in North Wales, is a dramatic mountain range renowned for its rugged peaks, glacial valleys, and stunning scenery. It's a haven for hikers and climbers.",
+        "detailedDescription": "The park is named after Mount Snowdon, the highest peak in Wales, offering breathtaking panoramic views. The area is rich in Welsh history and folklore.",
+        "bestTime": "May - October",
+        "bestLocations": [
+          "Mount Snowdon",
+          "Llyn Ogwen",
+          "Beddgelert"
+        ],
+        "viewingTips": [
+          "Wear appropriate hiking gear",
+          "Check weather conditions before setting out",
+          "Respect the environment"
+        ],
+        "scientificData": {
+          "Height": "1,085m (3,563 ft)",
+          "Age": "Approximately 450 million years old"
+        },
+        "icon": "Mountain"
+      },
+      {
+        "id": 2,
+        "name": "The Jurassic Coast",
+        "category": "Coastal Landscape",
+        "description": "The Jurassic Coast, stretching along the Dorset and East Devon coastline, is a UNESCO World Heritage Site famed for its dramatic cliffs, fossil-rich beaches, and stunning coastal scenery. It’s a window into the prehistoric past.",
+        "detailedDescription": "The coastline preserves a remarkable record of Jurassic marine life, with fossils of ammonites, marine reptiles, and dinosaurs frequently discovered. The dramatic cliffs offer spectacular views of the English Channel.",
+        "bestTime": "April - October",
+        "bestLocations": [
+          "Lulworth Cove",
+          "Durdle Door",
+          "Portland Bill"
+        ],
+        "viewingTips": [
+          "Wear sturdy footwear",
+          "Check tide times",
+          "Look for fossils"
+        ],
+        "scientificData": {
+          "Age": "Jurassic Period (180-145 million years ago)",
+          "FossilDensity": "Exceptionally high fossil density"
+        },
+        "icon": "MapPin"
+      },
+      {
+        "id": 3,
+        "name": "The Cairngorms National Park",
+        "category": "Mountain & Moorland",
+        "description": "The Cairngorms National Park, located in the Scottish Highlands, is the largest national park in the UK and a haven for wildlife and outdoor enthusiasts. It’s a vast expanse of mountains, lochs, and ancient forests.",
+        "detailedDescription": "The park is home to the UK’s highest mountain, Ben Nevis, and a diverse range of habitats, including Caledonian pine forests and peat bogs. It’s a popular destination for hiking, skiing, and wildlife watching.",
+        "bestTime": "June - September",
+        "bestLocations": [
+          "Ben Nevis",
+          "Loch Morlich",
+          "Cairngorm Mountain"
+        ],
+        "viewingTips": [
+          "Be prepared for changeable weather",
+          "Respect wildlife",
+          "Carry a map and compass"
+        ],
+        "scientificData": {
+          "Area": "4,527 sq km (1,748 sq mi)",
+          "Altitude": "Highest peak: 1,345m (4,410 ft)"
+        },
+        "icon": "Mountain"
+      }
+    ],
+    "ecosystemData": {
+      "title": "UK Ecosystems",
+      "overview": "The United Kingdom boasts a diverse range of ecosystems, from the rugged highlands of Scotland to the fertile plains of England. These ecosystems support a rich variety of plant and animal life, including many rare and endangered species.",
+      "conservationStatus": {
+        "protectedAreas": "Approximately 20% of the UK land area is protected within National Parks, Sites of Special Scientific Interest (SSSIs), and other protected areas.",
+        "nationalParks": 15
+      },
+      "biodiversityCategories": [
+        {
+          "name": "Birds",
+          "icon": "Bird",
+          "description": "The UK is a globally important destination for birdwatching, with a wide variety of resident and migratory species.",
+          "statistics": [
+            {
+              "category": "Migratory Birds",
+              "count": "Over 40 million",
+              "details": "Millions of birds migrate to the UK each year."
+            },
+            {
+              "category": "Endemic Species",
+              "count": "100+",
+              "details": "Numerous bird species are found only in the UK."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Golden Eagle",
+              "status": "Near Threatened",
+              "significance": "A majestic raptor reintroduced to Scotland."
+            },
+            {
+              "name": "Puffin",
+              "status": "Red Listed",
+              "significance": "A beloved seabird iconic to the UK coastline."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Climate change",
+            "Pollution"
+          ],
+          "conservationEfforts": [
+            "Habitat restoration",
+            "Species monitoring",
+            "Protected breeding sites"
+          ]
+        },
+        {
+          "name": "Mammals",
+          "icon": "Leaf",
+          "description": "The UK has a diverse mammal population, including iconic species such as deer, foxes, and badgers.",
+          "statistics": [
+            {
+              "category": "Red Listed Mammals",
+              "count": "5+",
+              "details": "Several mammal species are facing significant threats."
+            },
+            {
+              "category": "Endangered Mammals",
+              "count": "10+",
+              "details": "A growing number of mammals are considered endangered."
+            }
+          ],
+          "notableSpecies": [
+            {
+              "name": "Red Squirrel",
+              "status": "Near Threatened",
+              "significance": "A vital component of the UK’s woodland ecosystem."
+            },
+            {
+              "name": "European Badger",
+              "status": "Vulnerable",
+              "significance": "A protected species playing a key role in woodland management."
+            }
+          ],
+          "threats": [
+            "Habitat loss",
+            "Road mortality",
+            "Predation by dogs"
+          ],
+          "conservationEfforts": [
+            "Habitat creation",
+            "Road mitigation measures",
+            "Public awareness campaigns"
+          ]
+        }
+      ]
+    },
+    "activities": {
+      "title": "Outdoor Activities in the UK",
+      "description": "The United Kingdom offers a vast array of outdoor activities for all skill levels and interests, from challenging hikes to relaxing coastal walks.",
+      "activityCategories": [
+        {
+          "name": "Hiking",
+          "icon": "Compass",
+          "description": "Hiking is a popular activity in the UK, with trails ranging from gentle coastal paths to challenging mountain ascents.",
+          "activities": [
+            {
+              "name": "Coastal Path Hiking",
+              "difficulty": "Easy - Moderate",
+              "season": "Spring - Autumn",
+              "duration": "2 - 8 hours",
+              "description": "Explore the stunning coastline of the UK on well-maintained coastal paths.",
+              "bestLocations": [
+                "South West Coast Path",
+                "Pembrokeshire Coast Path"
+              ],
+              "requirements": "Sturdy hiking boots, waterproof clothing, map and compass",
+              "safety": [
+                "Check weather conditions",
+                "Inform someone of your route",
+                "Carry a first-aid kit"
+              ]
+            },
+            {
+              "name": "Mountain Hiking",
+              "difficulty": "Moderate - Hard",
+              "season": "Summer (June - September)",
+              "duration": "6 - 12 hours",
+              "description": "Challenge yourself with hikes to the summits of the UK’s mountains.",
+              "bestLocations": [
+                "Snowdonia",
+                "Lake District",
+                "Scottish Highlands"
+              ],
+              "requirements": "Hiking boots, appropriate clothing, navigation skills",
+              "safety": [
+                "Be aware of weather changes",
+                "Carry emergency supplies"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Water Sports",
+          "icon": "Waves",
+          "description": "The UK’s coastline and inland waterways offer a wide range of water sports activities.",
+          "activities": [
+            {
+              "name": "Surfing",
+              "difficulty": "Moderate",
+              "season": "Summer",
+              "duration": "2 - 4 hours",
+              "description": "Catch some waves at popular surfing spots along the south coast.",
+              "bestLocations": [
+                "Cornwall",
+                "Devon",
+                "Wales"
+              ],
+              "requirements": "Surfboard, wetsuit, leash",
+              "safety": [
+                "Check surf conditions",
+                "Be aware of currents"
+              ]
+            },
+            {
+              "name": "Kayaking/Canoeing",
+              "difficulty": "Easy - Moderate",
+              "season": "Spring - Autumn",
+              "duration": "1 - 4 hours",
+              "description": "Explore the UK’s rivers, lakes, and coastal waters by kayak or canoe.",
+              "bestLocations": [
+                "River Thames",
+                "Lake Windermere",
+                "Norfolk Broads"
+              ],
+              "requirements": "Kayak or canoe, paddle, life jacket",
+              "safety": [
+                "Wear a life jacket",
+                "Check weather conditions"
+              ]
+            }
+          ]
+        }
+      ],
+      "essentialPlanning": {
+        "clothing": {
+          "summer": "Lightweight clothing, sunscreen, hat",
+          "winter": "Warm layers, waterproof jacket and trousers, hat, gloves",
+          "yearRound": "Versatile clothing suitable for changing weather conditions"
+        },
+        "equipment": {
+          "basic": "Backpack, water bottle, snacks, map, compass",
+          "hiking": "Hiking boots, trekking poles, first-aid kit",
+          "photography": "Camera, extra batteries, memory cards"
+        },
+        "safety": [
+          "Check weather forecasts",
+          "Inform someone of your plans",
+          "Carry a first-aid kit",
+          "Be aware of wildlife"
+        ]
+      }
+    }
+  }
+}

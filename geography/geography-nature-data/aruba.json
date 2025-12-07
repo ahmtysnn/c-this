@@ -1,0 +1,411 @@
+{
+  "name": "Aruba",
+  "region": "Caribbean, Central America",
+  "description": "Aruba, officially the Republic of Aruba, is a Dutch Caribbean island country in the southern edge of the Caribbean Sea, about 29 kilometers (18 miles) north of Venezuela and 190 kilometers (120 miles) east of Curaçao. Known for its stunning beaches, turquoise waters, and arid landscape, Aruba offers a unique blend of natural beauty and Dutch colonial charm. The island boasts a diverse ecosystem, a vibrant culture, and a thriving tourism industry.",
+  "quickFacts": [
+    {
+      "label": "Capital",
+      "value": "Oranjestad",
+      "icon": "MapPin",
+      "description": "The bustling capital city of Aruba.",
+      "detail": "Oranjestad is a vibrant hub of commerce and culture, characterized by its colorful Dutch colonial architecture and lively waterfront."
+    },
+    {
+      "label": "Population",
+      "value": "107,566",
+      "icon": "Users",
+      "description": "The population of this beautiful island.",
+      "detail": "Aruba's population is a mix of Aruban, Dutch, and other nationalities, creating a diverse and welcoming community."
+    },
+    {
+      "label": "Currency",
+      "value": "Aruban Florin (AWG)",
+      "icon": "Coffee",
+      "description": "The local currency used on the island.",
+      "detail": "While US dollars are widely accepted, the Aruban Florin is the official currency."
+    },
+    {
+      "label": "Language",
+      "value": "Papiamento, Dutch, English",
+      "icon": "Globe",
+      "description": "The languages spoken on the island.",
+      "detail": "Papiamento is the local language, while Dutch and English are widely spoken due to tourism."
+    },
+    {
+      "label": "Area",
+      "value": "186 square kilometers (72 square miles)",
+      "icon": "MapPin",
+      "description": "The total land area of Aruba.",
+      "detail": "Aruba is a relatively small island, making it easy to explore its diverse landscapes."
+    },
+    {
+      "label": "Average Temperature",
+      "value": "28°C (82°F)",
+      "icon": "Thermometer",
+      "description": "The average temperature throughout the year.",
+      "detail": "Aruba enjoys a consistently warm and sunny climate, making it a popular destination year-round."
+    }
+  ],
+  "climateData": {
+    "title": "Aruban Climate",
+    "description": "Aruba experiences a tropical semi-arid climate, characterized by consistently warm temperatures and low rainfall throughout the year. The island benefits from its location outside the typical hurricane belt, resulting in relatively stable weather conditions.",
+    "seasonalCharacteristics": [
+      {
+        "name": "Summer (June - August)",
+        "period": "June to August",
+        "description": "Summer brings consistently warm and sunny days, with average temperatures around 30°C (86°F). Humidity is moderate, and rainfall is minimal.",
+        "keyFeatures": [
+          "Sunny days",
+          "Warm temperatures",
+          "Low humidity"
+        ],
+        "activities": [
+          "Swimming",
+          "Snorkeling",
+          "Beach relaxation"
+        ]
+      },
+      {
+        "name": "Autumn (September - November)",
+        "period": "September to November",
+        "description": "Autumn sees a slight increase in rainfall, but the weather remains warm and pleasant. Hurricane season is present, but direct hits are rare.",
+        "keyFeatures": [
+          "Warm temperatures",
+          "Occasional showers",
+          "Lower humidity"
+        ],
+        "activities": [
+          "Windsurfing",
+          "Kitesurfing",
+          "Diving"
+        ]
+      },
+      {
+        "name": "Winter (December - February)",
+        "period": "December to February",
+        "description": "Winter is the driest season, with clear skies and comfortable temperatures averaging 24°C (75°F). It's a popular time to visit due to the pleasant weather.",
+        "keyFeatures": [
+          "Dry weather",
+          "Mild temperatures",
+          "Sunny skies"
+        ],
+        "activities": [
+          "Hiking",
+          "Exploring the island",
+          "Sunset cruises"
+        ]
+      },
+      {
+        "name": "Spring (March - May)",
+        "period": "March to May",
+        "description": "Spring brings a gradual increase in rainfall and temperatures, creating a lush and vibrant landscape. The weather is generally warm and sunny.",
+        "keyFeatures": [
+          "Increasing rainfall",
+          "Warm temperatures",
+          "Blooming flora"
+        ],
+        "activities": [
+          "Birdwatching",
+          "Nature walks",
+          "Water sports"
+        ]
+      }
+    ]
+  },
+  "naturalWonders": [
+    {
+      "id": 1,
+      "name": "Arikok National Park",
+      "category": "National Park",
+      "description": "Arikok National Park covers approximately 20% of Aruba’s land area and is a haven for unique flora and fauna. It’s characterized by rugged terrain, dramatic coastlines, and numerous caves and rock formations.",
+      "detailedDescription": "The park offers a diverse range of landscapes, from arid desert to lush coastal vegetation. It’s home to endemic plant species, including the iconic Hoodia gordonii cactus, and provides opportunities for hiking, birdwatching, and exploring ancient rock formations.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Dos Playa",
+        "Guadirikiri Cave",
+        "Natural Pool"
+      ],
+      "viewingTips": [
+        "Wear sturdy hiking shoes",
+        "Bring plenty of water",
+        "Respect the environment"
+      ],
+      "scientificData": {
+        "Height": "100m - 300m",
+        "Age": "Millions of years"
+      },
+      "icon": "Mountain"
+    },
+    {
+      "id": 2,
+      "name": "Natural Pool (Conchi)",
+      "category": "Natural Formation",
+      "description": "The Natural Pool is a stunning, naturally formed swimming area carved into the red cliffs of Arikok National Park. It’s a popular destination for snorkeling and swimming in crystal-clear waters.",
+      "detailedDescription": "The pool was created by a collapsed cave system, leaving behind a sheltered lagoon surrounded by towering red sandstone cliffs. The water is incredibly clear and teeming with marine life.",
+      "bestTime": "Year-Round",
+      "bestLocations": [
+        "Arikok National Park"
+      ],
+      "viewingTips": [
+        "4x4 vehicle recommended",
+        "Check weather conditions before visiting"
+      ],
+      "scientificData": {
+        "Depth": "Variable, up to 3m",
+        "Water Temperature": "26°C - 28°C"
+      },
+      "icon": "Waves"
+    },
+    {
+      "id": 3,
+      "name": "California Lighthouse",
+      "category": "Historical Landmark",
+      "description": "The California Lighthouse stands tall on the northwest coast of Aruba, offering panoramic views of the coastline and the surrounding waters. It’s a historic landmark with a rich maritime past.",
+      "detailedDescription": "Built in 1863, the lighthouse served as a navigational aid for ships entering the harbor. Today, it’s a popular tourist attraction and a symbol of Aruba’s heritage.",
+      "bestTime": "Sunset",
+      "bestLocations": [
+        "San Nicolas"
+      ],
+      "viewingTips": [
+        "Bring a camera",
+        "Dress warmly"
+      ],
+      "scientificData": {
+        "Height": "26m",
+        "Construction Date": "1863"
+      },
+      "icon": "Compass"
+    }
+  ],
+  "biodiversityCategory": {
+    "name": "Coastal Ecosystems",
+    "icon": "Leaf",
+    "description": "Aruba’s coastal ecosystems are incredibly diverse, encompassing coral reefs, mangroves, and seagrass beds. These habitats provide crucial shelter and breeding grounds for a wide range of marine species.",
+    "statistics": [
+      {
+        "category": "Coral Coverage",
+        "count": "Approximately 30%",
+        "details": "Coral reefs cover a significant portion of Aruba’s coastline, supporting a vibrant marine community."
+      },
+      {
+        "category": "Mangrove Area",
+        "count": "Approximately 100 hectares",
+        "details": "Aruba’s mangroves provide vital nursery grounds for many fish and invertebrate species."
+      }
+    ],
+    "notableSpecies": [
+      {
+        "name": "Aruban Reef Shark",
+        "status": "Vulnerable",
+        "significance": "A unique shark species found only in Aruba's waters."
+      },
+      {
+        "name": "Humpback Whale",
+        "status": "Migratory",
+        "significance": "Aruba is a popular breeding ground for humpback whales during the winter months."
+      }
+    ],
+    "threats": [
+      "Coastal development",
+      "Pollution",
+      "Climate change"
+    ],
+    "conservationEfforts": [
+      "Marine protected areas",
+      "Coral reef restoration projects",
+      "Sustainable tourism initiatives"
+    ]
+  },
+  "ecosystemData": {
+    "title": "Aruba’s Ecosystems",
+    "overview": "Aruba’s ecosystems are characterized by a unique combination of arid landscapes, coastal habitats, and diverse marine life. The island’s isolation and relatively stable climate have contributed to the evolution of endemic species and a rich biodiversity.",
+    "conservationStatus": {
+      "protectedAreas": "15%",
+      "nationalParks": 2
+    },
+    "biodiversityCategories": [
+      {
+        "name": "Coastal Ecosystems",
+        "icon": "Leaf",
+        "description": "Aruba’s coastal ecosystems are incredibly diverse, encompassing coral reefs, mangroves, and seagrass beds. These habitats provide crucial shelter and breeding grounds for a wide range of marine species.",
+        "statistics": [
+          {
+            "category": "Coral Coverage",
+            "count": "Approximately 30%",
+            "details": "Coral reefs cover a significant portion of Aruba’s coastline, supporting a vibrant marine community."
+          },
+          {
+            "category": "Mangrove Area",
+            "count": "Approximately 100 hectares",
+            "details": "Aruba’s mangroves provide vital nursery grounds for many fish and invertebrate species."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Aruban Reef Shark",
+            "status": "Vulnerable",
+            "significance": "A unique shark species found only in Aruba’s waters."
+          },
+          {
+            "name": "Humpback Whale",
+            "status": "Migratory",
+            "significance": "Aruba is a popular breeding ground for humpback whales during the winter months."
+          }
+        ],
+        "threats": [
+          "Coastal development",
+          "Pollution",
+          "Climate change"
+        ],
+        "conservationEfforts": [
+          "Marine protected areas",
+          "Coral reef restoration projects",
+          "Sustainable tourism initiatives"
+        ]
+      },
+      {
+        "name": "Arid Landscapes",
+        "icon": "Tree",
+        "description": "Aruba’s interior is dominated by arid landscapes, characterized by cacti, shrubs, and sparse vegetation. These ecosystems are adapted to the island’s limited rainfall.",
+        "statistics": [
+          {
+            "category": "Cactus Species",
+            "count": "Over 50",
+            "details": "Aruba is home to a remarkable diversity of cactus species, many of which are endemic to the island."
+          }
+        ],
+        "notableSpecies": [
+          {
+            "name": "Hoodia gordonii",
+            "status": "Endangered",
+            "significance": "A succulent cactus known for its potential medicinal properties."
+          }
+        ],
+        "threats": [
+          "Habitat loss",
+          "Invasive species"
+        ],
+        "conservationEfforts": [
+          "Controlled grazing",
+          "Restoration of native vegetation"
+        ]
+      }
+    ]
+  },
+  "activities": {
+    "title": "Aruba Activities",
+    "description": "Aruba offers a wide range of activities for visitors of all interests, from water sports and diving to hiking and exploring the island’s natural wonders.",
+    "activityCategories": [
+      {
+        "name": "Water Sports",
+        "icon": "Waves",
+        "description": "Aruba is renowned for its crystal-clear waters and ideal conditions for a variety of water sports.",
+        "activities": [
+          {
+            "name": "Snorkeling",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "Explore the vibrant coral reefs and marine life of Aruba’s coastline.",
+            "bestLocations": [
+              "Palm Beach",
+              "Arashi Beach"
+            ],
+            "requirements": "Swimsuit, sunscreen, snorkeling gear (rental available)",
+            "safety": [
+              "Swim in designated areas",
+              "Be aware of currents"
+            ]
+          },
+          {
+            "name": "Scuba Diving",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "2-4 hours",
+            "description": "Discover the underwater world of Aruba’s coral reefs and shipwrecks.",
+            "bestLocations": [
+              "Antilla Wreck",
+              "Otrabanda Wall"
+            ],
+            "requirements": "Certification, wetsuit (optional)",
+            "safety": [
+              "Follow dive guidelines",
+              "Check equipment"
+            ]
+          },
+          {
+            "name": "Windsurfing",
+            "difficulty": "Moderate",
+            "season": "November - May",
+            "duration": "3-5 hours",
+            "description": "Take advantage of Aruba’s consistent trade winds and ride the waves.",
+            "bestLocations": [
+              "Palm Beach",
+              "Arashi Beach"
+            ],
+            "requirements": "Windsurfing board and sail (rental available)",
+            "safety": [
+              "Wear a life jacket",
+              "Be aware of wind conditions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hiking & Nature",
+        "icon": "Mountain",
+        "description": "Explore Aruba’s rugged terrain and discover its hidden gems through hiking and nature trails.",
+        "activities": [
+          {
+            "name": "Arikok National Park Hike",
+            "difficulty": "Moderate",
+            "season": "Year-Round",
+            "duration": "3-6 hours",
+            "description": "Hike through Arikok National Park and discover its unique landscapes and wildlife.",
+            "bestLocations": [
+              "Dos Playa",
+              "Guadirikiri Cave"
+            ],
+            "requirements": "Sturdy hiking shoes, water, sunscreen",
+            "safety": [
+              "Stay on marked trails",
+              "Be aware of wildlife"
+            ]
+          },
+          {
+            "name": "California Lighthouse Trail",
+            "difficulty": "Easy",
+            "season": "Year-Round",
+            "duration": "1-2 hours",
+            "description": "Hike to the California Lighthouse and enjoy panoramic views of the coastline.",
+            "bestLocations": [
+              "San Nicolas"
+            ],
+            "requirements": "Comfortable shoes",
+            "safety": [
+              "Watch for uneven terrain"
+            ]
+          }
+        ]
+      }
+    ],
+    "essentialPlanning": {
+      "clothing": {
+        "summer": "Lightweight clothing, swimwear, hat, sunglasses",
+        "winter": "Light jacket, long-sleeved shirts, jeans",
+        "yearRound": "Sunscreen, insect repellent"
+      },
+      "equipment": {
+        "basic": "Sunscreen, hat, sunglasses, beach towel",
+        "hiking": "Sturdy hiking shoes, backpack, water bottle",
+        "photography": "Camera, extra batteries, memory card"
+      },
+      "safety": [
+        "Stay hydrated",
+        "Wear sunscreen",
+        "Be aware of the sun's intensity",
+        "Swim in designated areas"
+      ]
+    }
+  }
+}
